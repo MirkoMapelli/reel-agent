@@ -1,0 +1,231 @@
+{
+  "job_id": "0ec456b684d4",
+  "filename": "IMG_4229.mov",
+  "video_file": "input_IMG_4229.mov",
+  "status": "ready_edit",
+  "progress": 100,
+  "message": "6 frasi pronte — modificabili",
+  "created_at": 1790010996.0107927,
+  "ts": 1790010999.2159283,
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "word": "Questo"
+    },
+    {
+      "start": 0.54,
+      "end": 0.64,
+      "word": "è"
+    },
+    {
+      "start": 0.64,
+      "end": 0.64,
+      "word": "un"
+    },
+    {
+      "start": 0.64,
+      "end": 0.8,
+      "word": "video"
+    },
+    {
+      "start": 0.8,
+      "end": 0.96,
+      "word": "di"
+    },
+    {
+      "start": 0.96,
+      "end": 1.14,
+      "word": "prova"
+    },
+    {
+      "start": 1.14,
+      "end": 1.36,
+      "word": "per"
+    },
+    {
+      "start": 1.36,
+      "end": 1.56,
+      "word": "vedere"
+    },
+    {
+      "start": 1.56,
+      "end": 1.88,
+      "word": "se"
+    },
+    {
+      "start": 1.88,
+      "end": 1.96,
+      "word": "i"
+    },
+    {
+      "start": 1.96,
+      "end": 2.48,
+      "word": "sottotitoli"
+    },
+    {
+      "start": 2.48,
+      "end": 3.14,
+      "word": "funzionano"
+    },
+    {
+      "start": 3.14,
+      "end": 3.66,
+      "word": "e"
+    },
+    {
+      "start": 3.66,
+      "end": 3.78,
+      "word": "se"
+    },
+    {
+      "start": 3.78,
+      "end": 4.02,
+      "word": "stanno"
+    },
+    {
+      "start": 4.02,
+      "end": 4.34,
+      "word": "dietro"
+    },
+    {
+      "start": 4.34,
+      "end": 4.48,
+      "word": "anche"
+    },
+    {
+      "start": 4.48,
+      "end": 4.62,
+      "word": "alla"
+    },
+    {
+      "start": 4.62,
+      "end": 5.02,
+      "word": "velocità"
+    },
+    {
+      "start": 5.02,
+      "end": 5.14,
+      "word": "di"
+    },
+    {
+      "start": 5.14,
+      "end": 5.28,
+      "word": "come"
+    },
+    {
+      "start": 5.28,
+      "end": 5.46,
+      "word": "sto"
+    },
+    {
+      "start": 5.46,
+      "end": 5.94,
+      "word": "parlando."
+    },
+    {
+      "start": 6.12,
+      "end": 6.4,
+      "word": "Se"
+    },
+    {
+      "start": 6.4,
+      "end": 6.96,
+      "word": "capiscono"
+    },
+    {
+      "start": 6.96,
+      "end": 7.16,
+      "word": "quello"
+    },
+    {
+      "start": 7.16,
+      "end": 7.32,
+      "word": "che"
+    },
+    {
+      "start": 7.32,
+      "end": 7.62,
+      "word": "dico"
+    },
+    {
+      "start": 7.62,
+      "end": 8.12,
+      "word": "e"
+    },
+    {
+      "start": 8.12,
+      "end": 8.2,
+      "word": "se"
+    },
+    {
+      "start": 8.2,
+      "end": 8.4,
+      "word": "sono"
+    },
+    {
+      "start": 8.4,
+      "end": 8.72,
+      "word": "messi"
+    },
+    {
+      "start": 8.72,
+      "end": 9.14,
+      "word": "giusti"
+    },
+    {
+      "start": 9.14,
+      "end": 9.28,
+      "word": "nei"
+    },
+    {
+      "start": 9.28,
+      "end": 9.7,
+      "word": "vari"
+    },
+    {
+      "start": 9.7,
+      "end": 10.44,
+      "word": "clip."
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "dur": 1.14,
+      "text": "Questo è un video di prova"
+    },
+    {
+      "start": 1.14,
+      "end": 3.14,
+      "dur": 2.0,
+      "text": "per vedere se i sottotitoli funzionano"
+    },
+    {
+      "start": 3.14,
+      "end": 4.62,
+      "dur": 1.48,
+      "text": "e se stanno dietro anche alla"
+    },
+    {
+      "start": 4.62,
+      "end": 6.4,
+      "dur": 1.78,
+      "text": "velocità di come sto parlando. Se"
+    },
+    {
+      "start": 6.4,
+      "end": 8.2,
+      "dur": 1.8,
+      "text": "capiscono quello che dico e se"
+    },
+    {
+      "start": 8.2,
+      "end": 10.44,
+      "dur": 2.24,
+      "text": "sono messi giusti nei vari clip."
+    }
+  ],
+  "video_duration": 10.44
+}

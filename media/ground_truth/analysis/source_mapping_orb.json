@@ -1,0 +1,2407 @@
+[
+  {
+    "shot_idx": 1,
+    "finished_start": 0.0,
+    "finished_end": 1.8,
+    "finished_duration": 1.8,
+    "finished_mid": 0.9,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 14.0,
+      "score": 14,
+      "confidence": 0.1
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.0,
+        "score": 14
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.0,
+        "score": 14
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.5,
+        "score": 12
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 11.5,
+        "score": 12
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 2.0,
+        "score": 11
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.5,
+        "score": 11
+      },
+      {
+        "source": "source_00022.mp4",
+        "timestamp": 15.0,
+        "score": 11
+      },
+      {
+        "source": "source_00024.mp4",
+        "timestamp": 4.0,
+        "score": 11
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 10
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.5,
+        "score": 10
+      }
+    ]
+  },
+  {
+    "shot_idx": 2,
+    "finished_start": 1.8,
+    "finished_end": 3.83,
+    "finished_duration": 2.03,
+    "finished_mid": 2.82,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 16.5,
+      "score": 12,
+      "confidence": 0.1
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.5,
+        "score": 12
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.5,
+        "score": 10
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.5,
+        "score": 10
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.0,
+        "score": 10
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.5,
+        "score": 10
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 3.5,
+        "score": 9
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 10.0,
+        "score": 9
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.0,
+        "score": 9
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 13.5,
+        "score": 9
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 0.5,
+        "score": 9
+      }
+    ]
+  },
+  {
+    "shot_idx": 3,
+    "finished_start": 3.83,
+    "finished_end": 5.8,
+    "finished_duration": 1.97,
+    "finished_mid": 4.82,
+    "match": {
+      "source": "source_00007.mp4",
+      "source_timestamp": 4.0,
+      "score": 302,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 4.0,
+        "score": 302
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 4.5,
+        "score": 236
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 5.0,
+        "score": 202
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 3.5,
+        "score": 193
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 5.5,
+        "score": 161
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 23.0,
+        "score": 161
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 23.5,
+        "score": 151
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 6.0,
+        "score": 149
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 22.5,
+        "score": 141
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 24.0,
+        "score": 138
+      }
+    ]
+  },
+  {
+    "shot_idx": 4,
+    "finished_start": 5.8,
+    "finished_end": 7.63,
+    "finished_duration": 1.83,
+    "finished_mid": 6.72,
+    "match": {
+      "source": "source_00001.mp4",
+      "source_timestamp": 1.5,
+      "score": 458,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 1.5,
+        "score": 458
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 2.0,
+        "score": 427
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 2.5,
+        "score": 331
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 1.0,
+        "score": 316
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 3.0,
+        "score": 259
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 0.0,
+        "score": 255
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 0.5,
+        "score": 251
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 3.5,
+        "score": 218
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 41
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.5,
+        "score": 40
+      }
+    ]
+  },
+  {
+    "shot_idx": 5,
+    "finished_start": 7.63,
+    "finished_end": 9.6,
+    "finished_duration": 1.97,
+    "finished_mid": 8.62,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 4.0,
+      "score": 68,
+      "confidence": 0.5
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 68
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.5,
+        "score": 68
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.0,
+        "score": 66
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.5,
+        "score": 65
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.0,
+        "score": 64
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.0,
+        "score": 61
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 7.0,
+        "score": 60
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.5,
+        "score": 58
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 6.0,
+        "score": 57
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.0,
+        "score": 56
+      }
+    ]
+  },
+  {
+    "shot_idx": 6,
+    "finished_start": 9.6,
+    "finished_end": 11.37,
+    "finished_duration": 1.77,
+    "finished_mid": 10.48,
+    "match": {
+      "source": "source_00003.mp4",
+      "source_timestamp": 1.0,
+      "score": 80,
+      "confidence": 0.75
+    },
+    "top10": [
+      {
+        "source": "source_00003.mp4",
+        "timestamp": 1.0,
+        "score": 80
+      },
+      {
+        "source": "source_00003.mp4",
+        "timestamp": 0.5,
+        "score": 58
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.5,
+        "score": 52
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 5.0,
+        "score": 52
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 46
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 7.0,
+        "score": 45
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.0,
+        "score": 45
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.5,
+        "score": 45
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 7.5,
+        "score": 44
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 9.0,
+        "score": 44
+      }
+    ]
+  },
+  {
+    "shot_idx": 7,
+    "finished_start": 11.37,
+    "finished_end": 13.37,
+    "finished_duration": 2.0,
+    "finished_mid": 12.37,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 14.5,
+      "score": 37,
+      "confidence": 0.3
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.5,
+        "score": 37
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.0,
+        "score": 36
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 27.0,
+        "score": 34
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 34
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 7.0,
+        "score": 34
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.0,
+        "score": 33
+      },
+      {
+        "source": "source_00022.mp4",
+        "timestamp": 8.5,
+        "score": 33
+      },
+      {
+        "source": "source_00022.mp4",
+        "timestamp": 15.0,
+        "score": 33
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 13.0,
+        "score": 32
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.0,
+        "score": 31
+      }
+    ]
+  },
+  {
+    "shot_idx": 8,
+    "finished_start": 13.37,
+    "finished_end": 17.33,
+    "finished_duration": 3.97,
+    "finished_mid": 15.35,
+    "match": {
+      "source": "source_00004.mp4",
+      "source_timestamp": 5.0,
+      "score": 358,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 5.0,
+        "score": 358
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 5.5,
+        "score": 175
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 4.5,
+        "score": 116
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 4.0,
+        "score": 60
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 6.0,
+        "score": 38
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 6.0,
+        "score": 35
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.5,
+        "score": 32
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.0,
+        "score": 32
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 25.5,
+        "score": 29
+      },
+      {
+        "source": "source_00019.mp4",
+        "timestamp": 1.0,
+        "score": 29
+      }
+    ]
+  },
+  {
+    "shot_idx": 9,
+    "finished_start": 17.33,
+    "finished_end": 19.37,
+    "finished_duration": 2.03,
+    "finished_mid": 18.35,
+    "match": {
+      "source": "source_00007.mp4",
+      "source_timestamp": 16.5,
+      "score": 213,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 16.5,
+        "score": 213
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 16.0,
+        "score": 209
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 17.5,
+        "score": 175
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 17.0,
+        "score": 162
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 15.5,
+        "score": 140
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 15.0,
+        "score": 83
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 20.5,
+        "score": 64
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 18.0,
+        "score": 61
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 21.0,
+        "score": 51
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 12.5,
+        "score": 41
+      }
+    ]
+  },
+  {
+    "shot_idx": 10,
+    "finished_start": 19.37,
+    "finished_end": 21.83,
+    "finished_duration": 2.47,
+    "finished_mid": 20.6,
+    "match": {
+      "source": "source_00005.mp4",
+      "source_timestamp": 4.5,
+      "score": 388,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 4.5,
+        "score": 388
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 4.0,
+        "score": 341
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 3.5,
+        "score": 319
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 3.0,
+        "score": 200
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 5.0,
+        "score": 72
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 2.5,
+        "score": 54
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.5,
+        "score": 42
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.0,
+        "score": 40
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.5,
+        "score": 39
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 11.0,
+        "score": 38
+      }
+    ]
+  },
+  {
+    "shot_idx": 11,
+    "finished_start": 21.83,
+    "finished_end": 23.63,
+    "finished_duration": 1.8,
+    "finished_mid": 22.73,
+    "match": {
+      "source": "source_00023.mp4",
+      "source_timestamp": 6.0,
+      "score": 244,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 6.0,
+        "score": 244
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 5.5,
+        "score": 234
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 5.0,
+        "score": 231
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 6.5,
+        "score": 231
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 4.5,
+        "score": 217
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 3.5,
+        "score": 172
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 7.0,
+        "score": 169
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 4.0,
+        "score": 161
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 3.0,
+        "score": 151
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 2.5,
+        "score": 140
+      }
+    ]
+  },
+  {
+    "shot_idx": 12,
+    "finished_start": 23.63,
+    "finished_end": 25.4,
+    "finished_duration": 1.77,
+    "finished_mid": 24.52,
+    "match": {
+      "source": "source_00020.mp4",
+      "source_timestamp": 2.5,
+      "score": 114,
+      "confidence": 0.75
+    },
+    "top10": [
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 2.5,
+        "score": 114
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 3.0,
+        "score": 79
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 6.0,
+        "score": 76
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 6.5,
+        "score": 56
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 5.5,
+        "score": 44
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 22.5,
+        "score": 41
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 4.0,
+        "score": 41
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 22.0,
+        "score": 40
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 2.0,
+        "score": 40
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 7.0,
+        "score": 39
+      }
+    ]
+  },
+  {
+    "shot_idx": 13,
+    "finished_start": 25.4,
+    "finished_end": 28.4,
+    "finished_duration": 3.0,
+    "finished_mid": 26.9,
+    "match": {
+      "source": "source_00006.mp4",
+      "source_timestamp": 6.5,
+      "score": 267,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 6.5,
+        "score": 267
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 6.0,
+        "score": 91
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 7.0,
+        "score": 85
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 18.5,
+        "score": 35
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 19.0,
+        "score": 32
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 5.5,
+        "score": 18
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 11.5,
+        "score": 17
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 8.0,
+        "score": 16
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 14.5,
+        "score": 15
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 13.0,
+        "score": 15
+      }
+    ]
+  },
+  {
+    "shot_idx": 14,
+    "finished_start": 28.4,
+    "finished_end": 30.87,
+    "finished_duration": 2.47,
+    "finished_mid": 29.63,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 9.5,
+      "score": 467,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 9.5,
+        "score": 467
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 10.0,
+        "score": 452
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 10.5,
+        "score": 424
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 9.0,
+        "score": 423
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 8.5,
+        "score": 400
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 11.0,
+        "score": 365
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 8.0,
+        "score": 355
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 6.5,
+        "score": 286
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 7.5,
+        "score": 267
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 7.0,
+        "score": 236
+      }
+    ]
+  },
+  {
+    "shot_idx": 15,
+    "finished_start": 30.87,
+    "finished_end": 33.37,
+    "finished_duration": 2.5,
+    "finished_mid": 32.12,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 19.0,
+      "score": 200,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.0,
+        "score": 200
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.5,
+        "score": 195
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.0,
+        "score": 187
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.5,
+        "score": 183
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.5,
+        "score": 182
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 16.5,
+        "score": 160
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 20.0,
+        "score": 156
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.0,
+        "score": 154
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 16.0,
+        "score": 141
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 15.0,
+        "score": 140
+      }
+    ]
+  },
+  {
+    "shot_idx": 16,
+    "finished_start": 33.37,
+    "finished_end": 35.33,
+    "finished_duration": 1.97,
+    "finished_mid": 34.35,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 26.0,
+      "score": 354,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 26.0,
+        "score": 354
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 26.5,
+        "score": 342
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.5,
+        "score": 277
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.0,
+        "score": 274
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 25.5,
+        "score": 273
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 40.5,
+        "score": 219
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 28.0,
+        "score": 218
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 30.5,
+        "score": 209
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 41.0,
+        "score": 204
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 29.5,
+        "score": 201
+      }
+    ]
+  },
+  {
+    "shot_idx": 17,
+    "finished_start": 35.33,
+    "finished_end": 37.33,
+    "finished_duration": 2.0,
+    "finished_mid": 36.33,
+    "match": {
+      "source": "source_00009.mp4",
+      "source_timestamp": 2.0,
+      "score": 255,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 2.0,
+        "score": 255
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 2.5,
+        "score": 123
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 1.5,
+        "score": 92
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 3.0,
+        "score": 84
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 1.0,
+        "score": 77
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 0.5,
+        "score": 55
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 4.0,
+        "score": 52
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 3.5,
+        "score": 45
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 0.0,
+        "score": 44
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 4.5,
+        "score": 33
+      }
+    ]
+  },
+  {
+    "shot_idx": 18,
+    "finished_start": 37.33,
+    "finished_end": 38.87,
+    "finished_duration": 1.53,
+    "finished_mid": 38.1,
+    "match": {
+      "source": "source_00009.mp4",
+      "source_timestamp": 27.0,
+      "score": 167,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 27.0,
+        "score": 167
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 26.5,
+        "score": 135
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 26.0,
+        "score": 131
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 25.5,
+        "score": 125
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 20.0,
+        "score": 122
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 27.5,
+        "score": 108
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 21.0,
+        "score": 105
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 22.0,
+        "score": 104
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 22.5,
+        "score": 104
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 24.5,
+        "score": 104
+      }
+    ]
+  },
+  {
+    "shot_idx": 19,
+    "finished_start": 38.87,
+    "finished_end": 40.07,
+    "finished_duration": 1.2,
+    "finished_mid": 39.47,
+    "match": {
+      "source": "source_00011.mp4",
+      "source_timestamp": 4.5,
+      "score": 185,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 4.5,
+        "score": 185
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 3.5,
+        "score": 173
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 4.0,
+        "score": 169
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 3.0,
+        "score": 149
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 5.0,
+        "score": 98
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 2.0,
+        "score": 72
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 2.5,
+        "score": 51
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 5.5,
+        "score": 51
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 1.5,
+        "score": 33
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 5.5,
+        "score": 30
+      }
+    ]
+  },
+  {
+    "shot_idx": 20,
+    "finished_start": 40.07,
+    "finished_end": 41.37,
+    "finished_duration": 1.3,
+    "finished_mid": 40.72,
+    "match": {
+      "source": "source_00010.mp4",
+      "source_timestamp": 9.0,
+      "score": 160,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.0,
+        "score": 160
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.5,
+        "score": 114
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 8.5,
+        "score": 98
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 10.0,
+        "score": 74
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 1.0,
+        "score": 73
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 3.0,
+        "score": 66
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 2.0,
+        "score": 59
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 0.5,
+        "score": 58
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 1.5,
+        "score": 55
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 2.5,
+        "score": 54
+      }
+    ]
+  },
+  {
+    "shot_idx": 21,
+    "finished_start": 41.37,
+    "finished_end": 42.77,
+    "finished_duration": 1.4,
+    "finished_mid": 42.07,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 0.5,
+      "score": 121,
+      "confidence": 0.75
+    },
+    "top10": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 0.5,
+        "score": 121
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 1.0,
+        "score": 70
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 0.0,
+        "score": 59
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 1.5,
+        "score": 16
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.0,
+        "score": 13
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.0,
+        "score": 12
+      },
+      {
+        "source": "source_00019.mp4",
+        "timestamp": 13.0,
+        "score": 12
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 2.0,
+        "score": 11
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 11.5,
+        "score": 11
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 13.5,
+        "score": 11
+      }
+    ]
+  },
+  {
+    "shot_idx": 22,
+    "finished_start": 42.77,
+    "finished_end": 44.77,
+    "finished_duration": 2.0,
+    "finished_mid": 43.77,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 11.0,
+      "score": 188,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 11.0,
+        "score": 188
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 10.5,
+        "score": 186
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 10.0,
+        "score": 177
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 12.0,
+        "score": 165
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 11.5,
+        "score": 155
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 9.5,
+        "score": 146
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 12.5,
+        "score": 128
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 9.0,
+        "score": 95
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 8.5,
+        "score": 87
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 13.5,
+        "score": 62
+      }
+    ]
+  },
+  {
+    "shot_idx": 23,
+    "finished_start": 44.77,
+    "finished_end": 47.6,
+    "finished_duration": 2.83,
+    "finished_mid": 46.18,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 18.0,
+      "score": 245,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 18.0,
+        "score": 245
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 17.5,
+        "score": 234
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 17.0,
+        "score": 218
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 18.5,
+        "score": 205
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 19.0,
+        "score": 201
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 16.5,
+        "score": 175
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 16.0,
+        "score": 148
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 15.0,
+        "score": 145
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 15.5,
+        "score": 143
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 14.5,
+        "score": 124
+      }
+    ]
+  },
+  {
+    "shot_idx": 24,
+    "finished_start": 47.6,
+    "finished_end": 49.37,
+    "finished_duration": 1.77,
+    "finished_mid": 48.48,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 4.5,
+      "score": 216,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 4.5,
+        "score": 216
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 4.0,
+        "score": 188
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 3.0,
+        "score": 182
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 2.5,
+        "score": 168
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 5.0,
+        "score": 168
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 2.0,
+        "score": 161
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 3.5,
+        "score": 160
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 1.5,
+        "score": 154
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 1.0,
+        "score": 134
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 0.0,
+        "score": 133
+      }
+    ]
+  },
+  {
+    "shot_idx": 25,
+    "finished_start": 49.37,
+    "finished_end": 51.4,
+    "finished_duration": 2.03,
+    "finished_mid": 50.38,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 14.0,
+      "score": 361,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 14.0,
+        "score": 361
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 13.5,
+        "score": 359
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 13.0,
+        "score": 307
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 12.5,
+        "score": 291
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 14.5,
+        "score": 286
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 12.0,
+        "score": 252
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 11.5,
+        "score": 244
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 15.0,
+        "score": 240
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 16.0,
+        "score": 227
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 11.0,
+        "score": 225
+      }
+    ]
+  },
+  {
+    "shot_idx": 26,
+    "finished_start": 51.4,
+    "finished_end": 53.5,
+    "finished_duration": 2.1,
+    "finished_mid": 52.45,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 2.0,
+      "score": 339,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 2.0,
+        "score": 339
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 2.5,
+        "score": 198
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 1.0,
+        "score": 138
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 3.0,
+        "score": 122
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 1.5,
+        "score": 94
+      },
+      {
+        "source": "source_00014.mp4",
+        "timestamp": 0.5,
+        "score": 48
+      },
+      {
+        "source": "source_00014.mp4",
+        "timestamp": 0.0,
+        "score": 43
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 0.5,
+        "score": 42
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.5,
+        "score": 34
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.0,
+        "score": 28
+      }
+    ]
+  },
+  {
+    "shot_idx": 27,
+    "finished_start": 53.5,
+    "finished_end": 55.83,
+    "finished_duration": 2.33,
+    "finished_mid": 54.67,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 8.5,
+      "score": 317,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.5,
+        "score": 317
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.0,
+        "score": 288
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.5,
+        "score": 241
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.0,
+        "score": 225
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.0,
+        "score": 173
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.5,
+        "score": 165
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.0,
+        "score": 156
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 11.0,
+        "score": 146
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.5,
+        "score": 132
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 12.5,
+        "score": 130
+      }
+    ]
+  },
+  {
+    "shot_idx": 28,
+    "finished_start": 55.83,
+    "finished_end": 57.03,
+    "finished_duration": 1.2,
+    "finished_mid": 56.43,
+    "match": {
+      "source": "source_00017.mp4",
+      "source_timestamp": 1.5,
+      "score": 501,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 1.5,
+        "score": 501
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 1.0,
+        "score": 234
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 0.5,
+        "score": 183
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 0.0,
+        "score": 124
+      },
+      {
+        "source": "source_00016.mp4",
+        "timestamp": 1.0,
+        "score": 41
+      },
+      {
+        "source": "source_00016.mp4",
+        "timestamp": 0.5,
+        "score": 35
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 21.5,
+        "score": 27
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.5,
+        "score": 26
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 22.5,
+        "score": 25
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 2.0,
+        "score": 24
+      }
+    ]
+  },
+  {
+    "shot_idx": 29,
+    "finished_start": 57.03,
+    "finished_end": 59.03,
+    "finished_duration": 2.0,
+    "finished_mid": 58.03,
+    "match": {
+      "source": "source_00017.mp4",
+      "source_timestamp": 12.0,
+      "score": 95,
+      "confidence": 0.75
+    },
+    "top10": [
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 12.0,
+        "score": 95
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 12.5,
+        "score": 78
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 13.0,
+        "score": 74
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 11.5,
+        "score": 70
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 11.0,
+        "score": 67
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 14.0,
+        "score": 60
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 10.0,
+        "score": 59
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 13.5,
+        "score": 53
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 8.5,
+        "score": 51
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 10.5,
+        "score": 50
+      }
+    ]
+  },
+  {
+    "shot_idx": 30,
+    "finished_start": 59.03,
+    "finished_end": 61.93,
+    "finished_duration": 2.9,
+    "finished_mid": 60.48,
+    "match": {
+      "source": "source_00017.mp4",
+      "source_timestamp": 20.0,
+      "score": 239,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 20.0,
+        "score": 239
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 19.5,
+        "score": 229
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 20.5,
+        "score": 201
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 19.0,
+        "score": 177
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 21.0,
+        "score": 168
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 23.0,
+        "score": 165
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 23.5,
+        "score": 160
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 21.5,
+        "score": 158
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 22.5,
+        "score": 152
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 22.0,
+        "score": 140
+      }
+    ]
+  },
+  {
+    "shot_idx": 31,
+    "finished_start": 61.93,
+    "finished_end": 63.73,
+    "finished_duration": 1.8,
+    "finished_mid": 62.83,
+    "match": {
+      "source": "source_00018.mp4",
+      "source_timestamp": 4.0,
+      "score": 346,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 4.0,
+        "score": 346
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 2.0,
+        "score": 265
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 3.5,
+        "score": 249
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 4.5,
+        "score": 246
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 1.5,
+        "score": 224
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 2.5,
+        "score": 223
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 3.0,
+        "score": 222
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 1.0,
+        "score": 220
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 0.0,
+        "score": 219
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 0.5,
+        "score": 214
+      }
+    ]
+  },
+  {
+    "shot_idx": 32,
+    "finished_start": 63.73,
+    "finished_end": 67.07,
+    "finished_duration": 3.33,
+    "finished_mid": 65.4,
+    "match": {
+      "source": "source_00018.mp4",
+      "source_timestamp": 10.5,
+      "score": 299,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 10.5,
+        "score": 299
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 10.0,
+        "score": 278
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 11.0,
+        "score": 258
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 9.0,
+        "score": 234
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 9.5,
+        "score": 224
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 11.5,
+        "score": 212
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 12.0,
+        "score": 188
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 13.0,
+        "score": 179
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 12.5,
+        "score": 167
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 13.5,
+        "score": 149
+      }
+    ]
+  },
+  {
+    "shot_idx": 33,
+    "finished_start": 67.07,
+    "finished_end": 68.83,
+    "finished_duration": 1.77,
+    "finished_mid": 67.95,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 2.0,
+      "score": 313,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 2.0,
+        "score": 313
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 2.5,
+        "score": 197
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 1.5,
+        "score": 158
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 3.0,
+        "score": 142
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 3.5,
+        "score": 133
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 6.5,
+        "score": 128
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 4.0,
+        "score": 121
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 10.0,
+        "score": 117
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 4.5,
+        "score": 116
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 5.0,
+        "score": 116
+      }
+    ]
+  },
+  {
+    "shot_idx": 34,
+    "finished_start": 68.83,
+    "finished_end": 70.87,
+    "finished_duration": 2.03,
+    "finished_mid": 69.85,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 9.0,
+      "score": 153,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 9.0,
+        "score": 153
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 8.5,
+        "score": 144
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 8.0,
+        "score": 101
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 6.5,
+        "score": 89
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 7.0,
+        "score": 86
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 9.5,
+        "score": 84
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 3.0,
+        "score": 81
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 5.0,
+        "score": 78
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 7.5,
+        "score": 77
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 2.5,
+        "score": 76
+      }
+    ]
+  },
+  {
+    "shot_idx": 35,
+    "finished_start": 70.87,
+    "finished_end": 73.07,
+    "finished_duration": 2.2,
+    "finished_mid": 71.97,
+    "match": {
+      "source": "source_00024.mp4",
+      "source_timestamp": 1.0,
+      "score": 34,
+      "confidence": 0.3
+    },
+    "top10": [
+      {
+        "source": "source_00024.mp4",
+        "timestamp": 1.0,
+        "score": 34
+      },
+      {
+        "source": "source_00024.mp4",
+        "timestamp": 0.0,
+        "score": 31
+      },
+      {
+        "source": "source_00024.mp4",
+        "timestamp": 1.5,
+        "score": 31
+      },
+      {
+        "source": "source_00024.mp4",
+        "timestamp": 0.5,
+        "score": 24
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 14.5,
+        "score": 19
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.0,
+        "score": 17
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 15.0,
+        "score": 17
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 27.0,
+        "score": 15
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 6.0,
+        "score": 15
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 13.5,
+        "score": 15
+      }
+    ]
+  },
+  {
+    "shot_idx": 36,
+    "finished_start": 73.07,
+    "finished_end": 76.53,
+    "finished_duration": 3.47,
+    "finished_mid": 74.8,
+    "match": {
+      "source": "source_00025.mp4",
+      "source_timestamp": 9.0,
+      "score": 389,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 9.0,
+        "score": 389
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 9.5,
+        "score": 369
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 10.0,
+        "score": 358
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 8.0,
+        "score": 338
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 7.5,
+        "score": 334
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 8.5,
+        "score": 321
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 7.0,
+        "score": 316
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 10.5,
+        "score": 311
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 6.0,
+        "score": 295
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 6.5,
+        "score": 294
+      }
+    ]
+  },
+  {
+    "shot_idx": 37,
+    "finished_start": 76.53,
+    "finished_end": 79.57,
+    "finished_duration": 3.03,
+    "finished_mid": 78.05,
+    "match": {
+      "source": "source_00026.mp4",
+      "source_timestamp": 2.5,
+      "score": 315,
+      "confidence": 0.95
+    },
+    "top10": [
+      {
+        "source": "source_00026.mp4",
+        "timestamp": 2.5,
+        "score": 315
+      },
+      {
+        "source": "source_00026.mp4",
+        "timestamp": 2.0,
+        "score": 75
+      },
+      {
+        "source": "source_00026.mp4",
+        "timestamp": 1.0,
+        "score": 71
+      },
+      {
+        "source": "source_00026.mp4",
+        "timestamp": 0.0,
+        "score": 69
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "score": 66
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 9.5,
+        "score": 64
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 10.5,
+        "score": 64
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.5,
+        "score": 63
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 8.5,
+        "score": 61
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 16.0,
+        "score": 60
+      }
+    ]
+  }
+]

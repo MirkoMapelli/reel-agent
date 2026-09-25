@@ -1,0 +1,3909 @@
+{
+  "video_id": "7509044232636599574",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7509044232636599574",
+    "ref_id": "ref_83_7509044232636599574",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7509044232636599574",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 57,
+  "total_dur": 128.04,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "center": 1.033,
+      "role": "food_detail",
+      "subject": "prodotti americani vari",
+      "description": "Il ragazzo mostra con entusiasmo una bottiglia di Prime e un sacchetto di Takis.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Proviamo snack americani clamorosi"
+    },
+    {
+      "idx": 1,
+      "start": 2.067,
+      "end": 2.9,
+      "dur": 0.833,
+      "center": 2.483,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla con un'espressione vivace, con la scritta 'RAGAZZI' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "oggi ragazzi mi"
+    },
+    {
+      "idx": 2,
+      "start": 2.9,
+      "end": 6.067,
+      "dur": 3.167,
+      "center": 4.483,
+      "role": "other",
+      "subject": "scatola American Uncle",
+      "description": "Il ragazzo tiene in mano una scatola blu con il logo 'American Uncle' e la scritta 'UNCLE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "è arrivato questo pacco d 'americano anche il pieno di snack americani"
+    },
+    {
+      "idx": 3,
+      "start": 6.067,
+      "end": 8.133,
+      "dur": 2.067,
+      "center": 7.1,
+      "role": "other",
+      "subject": "apertura scatola prodotti",
+      "description": "Il ragazzo apre una scatola bianca piena di prodotti, con la scritta 'ABBIAMO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Urca ragazzi abbiamo un bel po' di roba qua"
+    },
+    {
+      "idx": 4,
+      "start": 8.133,
+      "end": 9.367,
+      "dur": 1.233,
+      "center": 8.75,
+      "role": "other",
+      "subject": "prodotti nella scatola",
+      "description": "Il ragazzo guarda all'interno della scatola, mostrando i prodotti, con la scritta 'SUBITO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Iniziamo subito con"
+    },
+    {
+      "idx": 5,
+      "start": 9.367,
+      "end": 11.267,
+      "dur": 1.9,
+      "center": 10.317,
+      "role": "person_talking",
+      "subject": "ragazzo mostra biscotti",
+      "description": "Il ragazzo tiene in mano una confezione di biscotti Kinder Crunchy e parla.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "con i crunchy cookies della Kinder,"
+    },
+    {
+      "idx": 6,
+      "start": 11.267,
+      "end": 13.667,
+      "dur": 2.4,
+      "center": 12.467,
+      "role": "person_talking",
+      "subject": "ragazzo mostra patatine",
+      "description": "Il ragazzo mostra una confezione di patatine Doritos con l'immagine di un Whopper.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "le dorito su al gusto wopper del burger kid chips"
+    },
+    {
+      "idx": 7,
+      "start": 13.667,
+      "end": 15.033,
+      "dur": 1.367,
+      "center": 14.35,
+      "role": "person_talking",
+      "subject": "ragazzo mostra patatine",
+      "description": "Il ragazzo mostra una confezione di patatine al tartufo, strizzando l'occhio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "al tartufo nero"
+    },
+    {
+      "idx": 8,
+      "start": 15.033,
+      "end": 16.1,
+      "dur": 1.067,
+      "center": 15.567,
+      "role": "person_talking",
+      "subject": "ragazzo mostra barretta",
+      "description": "Il ragazzo mostra una barretta Kinder Krispy, tenendola con entrambe le mani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "un Kinder crispy,"
+    },
+    {
+      "idx": 9,
+      "start": 16.1,
+      "end": 17.3,
+      "dur": 1.2,
+      "center": 16.7,
+      "role": "person_talking",
+      "subject": "ragazzo mostra Takis",
+      "description": "Il ragazzo sorride mentre mostra una confezione viola di Takis.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "le tatis ragazzi,"
+    },
+    {
+      "idx": 10,
+      "start": 17.3,
+      "end": 19.733,
+      "dur": 2.433,
+      "center": 18.517,
+      "role": "person_talking",
+      "subject": "ragazzo con patatine",
+      "description": "Il ragazzo sorride mentre tiene in mano un sacchetto viola di patatine Takis.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "le patatine snack americano per eccellenza le"
+    },
+    {
+      "idx": 11,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167,
+      "center": 20.817,
+      "role": "person_talking",
+      "subject": "ragazzo con patatine",
+      "description": "Il ragazzo tiene in mano un sacchetto di patatine Lay's con il logo KFC.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "leis stavolta del kfc,"
+    },
+    {
+      "idx": 12,
+      "start": 21.9,
+      "end": 23.667,
+      "dur": 1.767,
+      "center": 22.783,
+      "role": "person_talking",
+      "subject": "ragazzo con nachos",
+      "description": "Il ragazzo mostra un sacchetto nero di nachos con triangoli gialli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "dei nachos al barbecue o"
+    },
+    {
+      "idx": 13,
+      "start": 23.667,
+      "end": 27.1,
+      "dur": 3.433,
+      "center": 25.383,
+      "role": "person_talking",
+      "subject": "ragazzo con snack",
+      "description": "Il ragazzo tiene in mano due bustine di snack, una rossa e una arancione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "carne secta, questa ragazza mi mancava un sacco degli stati uniti"
+    },
+    {
+      "idx": 14,
+      "start": 27.1,
+      "end": 27.9,
+      "dur": 0.8,
+      "center": 27.5,
+      "role": "person_talking",
+      "subject": "ragazzo con beef jerky",
+      "description": "Il ragazzo mostra una bustina rossa di 'Beef Jerky Original'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "classica al"
+    },
+    {
+      "idx": 15,
+      "start": 27.9,
+      "end": 28.767,
+      "dur": 0.867,
+      "center": 28.333,
+      "role": "food_detail",
+      "subject": "due pacchetti beef jerky",
+      "description": "Un ragazzo mostra due pacchetti di beef jerky, uno arancione e uno rosso, con la scritta 'BARBECUE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "barbecue"
+    },
+    {
+      "idx": 16,
+      "start": 28.767,
+      "end": 32.333,
+      "dur": 3.567,
+      "center": 30.55,
+      "role": "food_detail",
+      "subject": "pacchetto wafer verde",
+      "description": "Il ragazzo tiene in mano un piccolo pacchetto verde di wafer, con la scritta 'WAFER' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Kinder tronchi una sorta di butter col pistacchio di dubai la"
+    },
+    {
+      "idx": 17,
+      "start": 32.333,
+      "end": 35.133,
+      "dur": 2.8,
+      "center": 33.733,
+      "role": "drink_detail",
+      "subject": "lattina Monster Energy bianca",
+      "description": "Il ragazzo mostra una lattina bianca di Monster Energy, con la scritta 'ECCELLENZA' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "monster per eccellenza ragazzi la monster white"
+    },
+    {
+      "idx": 18,
+      "start": 35.133,
+      "end": 37.6,
+      "dur": 2.467,
+      "center": 36.367,
+      "role": "drink_detail",
+      "subject": "lattina Monster Energy arancione",
+      "description": "Il ragazzo mostra una lattina arancione di Monster Energy, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "e la monster nitro mi camale questo"
+    },
+    {
+      "idx": 19,
+      "start": 37.6,
+      "end": 38.7,
+      "dur": 1.1,
+      "center": 38.15,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo guarda verso l'alto e parla, con la scritta 'FINIRE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "e per finire"
+    },
+    {
+      "idx": 20,
+      "start": 38.7,
+      "end": 40.567,
+      "dur": 1.867,
+      "center": 39.633,
+      "role": "drink_detail",
+      "subject": "ragazzo apre bevanda",
+      "description": "Il ragazzo sta per aprire una bottiglia di Prime con un'espressione curiosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "prime gusto sour nova molto"
+    },
+    {
+      "idx": 21,
+      "start": 40.567,
+      "end": 41.967,
+      "dur": 1.4,
+      "center": 41.267,
+      "role": "drink_detail",
+      "subject": "bottiglia Prime in mano",
+      "description": "La bottiglia di Prime è al centro dell'attenzione, con il ragazzo che la tiene in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "figa"
+    },
+    {
+      "idx": 22,
+      "start": 41.967,
+      "end": 43.367,
+      "dur": 1.4,
+      "center": 42.667,
+      "role": "food_detail",
+      "subject": "snack Takis e bevande",
+      "description": "Due snack rossi sono tenuti in primo piano, con una busta di Takis e diverse bevande sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "colore"
+    },
+    {
+      "idx": 23,
+      "start": 43.367,
+      "end": 46.4,
+      "dur": 3.033,
+      "center": 44.883,
+      "role": "person_eating",
+      "subject": "ragazzo mangia snack",
+      "description": "Il ragazzo sta assaggiando uno snack rosso con un'espressione di gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "è abbastanza esotico"
+    },
+    {
+      "idx": 24,
+      "start": 46.4,
+      "end": 49.3,
+      "dur": 2.9,
+      "center": 47.85,
+      "role": "food_detail",
+      "subject": "busta Takis e bevande",
+      "description": "La busta di Takis è in primo piano, con il ragazzo che la tiene e diverse bevande sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "gusto fuego molto saporite molto piccanti"
+    },
+    {
+      "idx": 25,
+      "start": 49.3,
+      "end": 50.767,
+      "dur": 1.467,
+      "center": 50.033,
+      "role": "person_talking",
+      "subject": "ragazzo con Takis",
+      "description": "Il ragazzo tiene in mano una busta di Takis viola e sorride, con diverse bevande energetiche sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "queste sono per falati forti"
+    },
+    {
+      "idx": 26,
+      "start": 50.767,
+      "end": 51.6,
+      "dur": 0.833,
+      "center": 51.183,
+      "role": "person_talking",
+      "subject": "ragazzo con Doritos",
+      "description": "Il ragazzo mostra una busta di Doritos, parlando, con le bevande energetiche in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "doritos"
+    },
+    {
+      "idx": 27,
+      "start": 51.6,
+      "end": 57.233,
+      "dur": 5.633,
+      "center": 54.417,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo gesticola mentre parla, con la busta di Doritos e le bevande sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "sanno proprio gli hamburger di griglia del burger king,"
+    },
+    {
+      "idx": 28,
+      "start": 57.233,
+      "end": 58.5,
+      "dur": 1.267,
+      "center": 57.867,
+      "role": "person_talking",
+      "subject": "ragazzo con Lay's",
+      "description": "Il ragazzo tiene in mano una busta di patatine Lay's, guardando verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "leis al kfc"
+    },
+    {
+      "idx": 29,
+      "start": 58.5,
+      "end": 60.233,
+      "dur": 1.733,
+      "center": 59.367,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando una patatina dalla busta di Lay's, con le bevande energetiche sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 30,
+      "start": 60.233,
+      "end": 61.1,
+      "dur": 0.867,
+      "center": 60.667,
+      "role": "person_talking",
+      "subject": "ragazzo con patatine Lay's",
+      "description": "Il ragazzo tiene in mano un sacchetto di patatine Lay's e indica le bevande sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "iconiche"
+    },
+    {
+      "idx": 31,
+      "start": 61.1,
+      "end": 62.367,
+      "dur": 1.267,
+      "center": 61.733,
+      "role": "food_detail",
+      "subject": "nacho in primo piano",
+      "description": "Un nacho è tenuto in primo piano dalle dita del ragazzo, mentre sullo sfondo si vede il sacchetto di Doritos.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 32,
+      "start": 62.367,
+      "end": 63.533,
+      "dur": 1.167,
+      "center": 62.95,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia nacho",
+      "description": "Il ragazzo sta per mangiare un nacho, con il sacchetto di Doritos e le bevande in evidenza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "non"
+    },
+    {
+      "idx": 33,
+      "start": 63.533,
+      "end": 65.6,
+      "dur": 2.067,
+      "center": 64.567,
+      "role": "person_talking",
+      "subject": "ragazzo con nacho",
+      "description": "Il ragazzo tiene un nacho vicino alla bocca e sembra parlare, con la scritta 'DELICATE' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "stavo più forti, delicate, prime"
+    },
+    {
+      "idx": 34,
+      "start": 65.6,
+      "end": 66.6,
+      "dur": 1.0,
+      "center": 66.1,
+      "role": "drink_detail",
+      "subject": "ragazzo apre bevanda Prime",
+      "description": "Il ragazzo sta aprendo una bottiglia di Prime, con altre bevande Monster sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 35,
+      "start": 66.6,
+      "end": 67.633,
+      "dur": 1.033,
+      "center": 67.117,
+      "role": "drink_detail",
+      "subject": "bottiglia Prime in mano",
+      "description": "Il ragazzo tiene in mano una bottiglia di Prime, con un'espressione confusa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 36,
+      "start": 67.633,
+      "end": 68.633,
+      "dur": 1.0,
+      "center": 68.133,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Il ragazzo sta bevendo dalla bottiglia di Prime, con due lattine di Monster sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ok"
+    },
+    {
+      "idx": 37,
+      "start": 68.633,
+      "end": 74.8,
+      "dur": 6.167,
+      "center": 71.717,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla tenendo la bottiglia di Prime, con la parola 'NEANCHE' sovrapposta all'immagine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "questa faccio veramente fatica di scriverla, parei molto buona neanche troppo dolce cosa che con le prime o li vando si rischia"
+    },
+    {
+      "idx": 38,
+      "start": 74.8,
+      "end": 77.6,
+      "dur": 2.8,
+      "center": 76.2,
+      "role": "person_eating",
+      "subject": "ragazzo con patatina",
+      "description": "Il ragazzo mostra una patatina e un sacchetto di patatine al tartufo, con la parola 'TARTUFO' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ma sapranno veramente i tartufo? non"
+    },
+    {
+      "idx": 39,
+      "start": 77.6,
+      "end": 82.0,
+      "dur": 4.4,
+      "center": 79.8,
+      "role": "person_talking",
+      "subject": "ragazzo che gesticola",
+      "description": "Il ragazzo gesticola mentre parla, con la parola 'PROPRIO' sovrapposta all'immagine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "troppo salate in modo che si sente effettivamente proprio quella aroma di tartufo, di tartufo nero"
+    },
+    {
+      "idx": 40,
+      "start": 82.0,
+      "end": 83.067,
+      "dur": 1.067,
+      "center": 82.533,
+      "role": "person_eating",
+      "subject": "ragazzo apre snack",
+      "description": "Il ragazzo sorride mentre apre una confezione di beef jerky.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "carne secca un"
+    },
+    {
+      "idx": 41,
+      "start": 83.067,
+      "end": 88.633,
+      "dur": 5.567,
+      "center": 85.85,
+      "role": "person_eating",
+      "subject": "ragazzo mostra jerky",
+      "description": "Il ragazzo tiene in mano un pezzo di beef jerky e la confezione aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "po di proteine mancavano a me piace un sacco quel leggero dolce della carne secca americana e"
+    },
+    {
+      "idx": 42,
+      "start": 88.633,
+      "end": 90.467,
+      "dur": 1.833,
+      "center": 89.55,
+      "role": "person_eating",
+      "subject": "ragazzo mostra snack",
+      "description": "Il ragazzo mostra due confezioni di snack Kinder, una barretta e dei biscotti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "infine abbiamo la tripletta della Kinder"
+    },
+    {
+      "idx": 43,
+      "start": 90.467,
+      "end": 93.0,
+      "dur": 2.533,
+      "center": 91.733,
+      "role": "person_eating",
+      "subject": "biscotto in primo piano",
+      "description": "Un biscotto con gocce di cioccolato è tenuto in primo piano dalla mano del ragazzo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 44,
+      "start": 93.0,
+      "end": 94.133,
+      "dur": 1.133,
+      "center": 93.567,
+      "role": "person_eating",
+      "subject": "ragazzo mangia biscotto",
+      "description": "Il ragazzo ha un'espressione sorpresa mentre tiene in mano un biscotto morso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "clammoroso"
+    },
+    {
+      "idx": 45,
+      "start": 94.133,
+      "end": 98.4,
+      "dur": 4.267,
+      "center": 96.267,
+      "role": "person_eating",
+      "subject": "ragazzo mangia biscotto",
+      "description": "Il ragazzo tiene in mano un biscotto morso e un sacchetto di biscotti Kinder.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "impasto morbidissimo e pezze tolino cioccolato dentro questi"
+    },
+    {
+      "idx": 46,
+      "start": 98.4,
+      "end": 100.1,
+      "dur": 1.7,
+      "center": 99.25,
+      "role": "hands_gesture",
+      "subject": "ragazzo mostra biscotti",
+      "description": "Il ragazzo tiene in mano un sacchetto di biscotti Kinder e gesticola con l'altra mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dovete assolutamente provarli"
+    },
+    {
+      "idx": 47,
+      "start": 100.1,
+      "end": 101.233,
+      "dur": 1.133,
+      "center": 100.667,
+      "role": "hands_gesture",
+      "subject": "ragazzo mostra barretta",
+      "description": "Il ragazzo tiene in mano una barretta Kinder con entrambe le mani.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "tronchi della Kinder"
+    },
+    {
+      "idx": 48,
+      "start": 101.233,
+      "end": 103.333,
+      "dur": 2.1,
+      "center": 102.283,
+      "role": "person_eating",
+      "subject": "ragazzo mangia barretta",
+      "description": "Il ragazzo sta mangiando la barretta Kinder, con la bocca aperta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "un"
+    },
+    {
+      "idx": 49,
+      "start": 103.333,
+      "end": 106.2,
+      "dur": 2.867,
+      "center": 104.767,
+      "role": "hands_gesture",
+      "subject": "ragazzo mostra barretta",
+      "description": "Il ragazzo tiene in mano un pezzo della barretta Kinder, con un'espressione sorridente.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "tronchi ripieno di Kinder bueno praticamente questo"
+    },
+    {
+      "idx": 50,
+      "start": 106.2,
+      "end": 107.533,
+      "dur": 1.333,
+      "center": 106.867,
+      "role": "person_talking",
+      "subject": "ragazzo con snack",
+      "description": "Il ragazzo tiene in mano una confezione di snack e due lattine di bevande energetiche.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "sono curiosi"
+    },
+    {
+      "idx": 51,
+      "start": 107.533,
+      "end": 108.733,
+      "dur": 1.2,
+      "center": 108.133,
+      "role": "food_detail",
+      "subject": "wafer quadrato",
+      "description": "Il ragazzo mostra un wafer quadrato con una linea di cioccolato al centro.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ammazza che va"
+    },
+    {
+      "idx": 52,
+      "start": 108.733,
+      "end": 111.967,
+      "dur": 3.233,
+      "center": 110.35,
+      "role": "food_detail",
+      "subject": "wafer al pistacchio",
+      "description": "Il ragazzo mostra un wafer di profilo, rivelando il ripieno verde al pistacchio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "guardate che stati piacazione di pistacchio"
+    },
+    {
+      "idx": 53,
+      "start": 111.967,
+      "end": 114.167,
+      "dur": 2.2,
+      "center": 113.067,
+      "role": "person_talking",
+      "subject": "ragazzo con wafer",
+      "description": "Il ragazzo tiene in mano un pezzo di wafer e parla, con le bevande energetiche in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "un sacco di pistacchio lei"
+    },
+    {
+      "idx": 54,
+      "start": 114.167,
+      "end": 119.733,
+      "dur": 5.567,
+      "center": 116.95,
+      "role": "person_talking",
+      "subject": "ragazzo con snack e bevanda",
+      "description": "Il ragazzo mostra una busta di snack viola e una bottiglia di bevanda blu, con una scatola decorata in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "mi ha sicuramente stupito loro mi hanno sicuramente stupito anche se per pallati porti ai vincitori"
+    },
+    {
+      "idx": 55,
+      "start": 119.733,
+      "end": 121.3,
+      "dur": 1.567,
+      "center": 120.517,
+      "role": "person_talking",
+      "subject": "ragazzo con snack e bevanda",
+      "description": "Il ragazzo parla mentre mostra vari snack e una bevanda energetica.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "presto nei crunchy cookies della Kinder"
+    },
+    {
+      "idx": 56,
+      "start": 121.3,
+      "end": 128.033,
+      "dur": 6.733,
+      "center": 124.667,
+      "role": "person_talking",
+      "subject": "ragazzo con scatola americana",
+      "description": "Il ragazzo sorride e parla mentre tiene in mano una scatola blu con disegni di snack americani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "quindi ragazzi se siete anche voi curiosi di provare tutti questi prodotti sappiate che li trovate tutti su www .americanancle .it"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "prodotti americani vari",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra con entusiasmo una bottiglia di Prime e un sacchetto di Takis.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla con un'espressione vivace, con la scritta 'RAGAZZI' in sovrimpressione.",
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 2.9,
+      "dur": 0.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "scatola American Uncle",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una scatola blu con il logo 'American Uncle' e la scritta 'UNCLE' in sovrimpressione.",
+      "shot_idx": 2,
+      "start": 2.9,
+      "end": 6.067,
+      "dur": 3.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "apertura scatola prodotti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo apre una scatola bianca piena di prodotti, con la scritta 'ABBIAMO' in sovrimpressione.",
+      "shot_idx": 3,
+      "start": 6.067,
+      "end": 8.133,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "prodotti nella scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda all'interno della scatola, mostrando i prodotti, con la scritta 'SUBITO' in sovrimpressione.",
+      "shot_idx": 4,
+      "start": 8.133,
+      "end": 9.367,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra biscotti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano una confezione di biscotti Kinder Crunchy e parla.",
+      "shot_idx": 5,
+      "start": 9.367,
+      "end": 11.267,
+      "dur": 1.9
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo mostra una confezione di patatine Doritos con l'immagine di un Whopper.",
+      "shot_idx": 6,
+      "start": 11.267,
+      "end": 13.667,
+      "dur": 2.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo mostra una confezione di patatine al tartufo, strizzando l'occhio.",
+      "shot_idx": 7,
+      "start": 13.667,
+      "end": 15.033,
+      "dur": 1.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra barretta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo mostra una barretta Kinder Krispy, tenendola con entrambe le mani.",
+      "shot_idx": 8,
+      "start": 15.033,
+      "end": 16.1,
+      "dur": 1.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra Takis",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre mostra una confezione viola di Takis.",
+      "shot_idx": 9,
+      "start": 16.1,
+      "end": 17.3,
+      "dur": 1.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre tiene in mano un sacchetto viola di patatine Takis.",
+      "shot_idx": 10,
+      "start": 17.3,
+      "end": 19.733,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano un sacchetto di patatine Lay's con il logo KFC.",
+      "shot_idx": 11,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo mostra un sacchetto nero di nachos con triangoli gialli.",
+      "shot_idx": 12,
+      "start": 21.9,
+      "end": 23.667,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con snack",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano due bustine di snack, una rossa e una arancione.",
+      "shot_idx": 13,
+      "start": 23.667,
+      "end": 27.1,
+      "dur": 3.433
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con beef jerky",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo mostra una bustina rossa di 'Beef Jerky Original'.",
+      "shot_idx": 14,
+      "start": 27.1,
+      "end": 27.9,
+      "dur": 0.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "due pacchetti beef jerky",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo mostra due pacchetti di beef jerky, uno arancione e uno rosso, con la scritta 'BARBECUE' in sovrimpressione.",
+      "shot_idx": 15,
+      "start": 27.9,
+      "end": 28.767,
+      "dur": 0.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "pacchetto wafer verde",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un piccolo pacchetto verde di wafer, con la scritta 'WAFER' in sovrimpressione.",
+      "shot_idx": 16,
+      "start": 28.767,
+      "end": 32.333,
+      "dur": 3.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "drink_detail",
+      "soggetto": "lattina Monster Energy bianca",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una lattina bianca di Monster Energy, con la scritta 'ECCELLENZA' in sovrimpressione.",
+      "shot_idx": 17,
+      "start": 32.333,
+      "end": 35.133,
+      "dur": 2.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "drink_detail",
+      "soggetto": "lattina Monster Energy arancione",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una lattina arancione di Monster Energy, con un'espressione sorpresa.",
+      "shot_idx": 18,
+      "start": 35.133,
+      "end": 37.6,
+      "dur": 2.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda verso l'alto e parla, con la scritta 'FINIRE' in sovrimpressione.",
+      "shot_idx": 19,
+      "start": 37.6,
+      "end": 38.7,
+      "dur": 1.1
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo apre bevanda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sta per aprire una bottiglia di Prime con un'espressione curiosa.",
+      "shot_idx": 20,
+      "start": 38.7,
+      "end": 40.567,
+      "dur": 1.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "bottiglia Prime in mano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "La bottiglia di Prime è al centro dell'attenzione, con il ragazzo che la tiene in mano.",
+      "shot_idx": 21,
+      "start": 40.567,
+      "end": 41.967,
+      "dur": 1.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "snack Takis e bevande",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Due snack rossi sono tenuti in primo piano, con una busta di Takis e diverse bevande sullo sfondo.",
+      "shot_idx": 22,
+      "start": 41.967,
+      "end": 43.367,
+      "dur": 1.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia snack",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sta assaggiando uno snack rosso con un'espressione di gusto.",
+      "shot_idx": 23,
+      "start": 43.367,
+      "end": 46.4,
+      "dur": 3.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "busta Takis e bevande",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "La busta di Takis è in primo piano, con il ragazzo che la tiene e diverse bevande sul tavolo.",
+      "shot_idx": 24,
+      "start": 46.4,
+      "end": 49.3,
+      "dur": 2.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con Takis",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una busta di Takis viola e sorride, con diverse bevande energetiche sul tavolo.",
+      "shot_idx": 25,
+      "start": 49.3,
+      "end": 50.767,
+      "dur": 1.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con Doritos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una busta di Doritos, parlando, con le bevande energetiche in primo piano.",
+      "shot_idx": 26,
+      "start": 50.767,
+      "end": 51.6,
+      "dur": 0.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo gesticola mentre parla, con la busta di Doritos e le bevande sul tavolo.",
+      "shot_idx": 27,
+      "start": 51.6,
+      "end": 57.233,
+      "dur": 5.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con Lay's",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una busta di patatine Lay's, guardando verso la telecamera.",
+      "shot_idx": 28,
+      "start": 57.233,
+      "end": 58.5,
+      "dur": 1.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando una patatina dalla busta di Lay's, con le bevande energetiche sul tavolo.",
+      "shot_idx": 29,
+      "start": 58.5,
+      "end": 60.233,
+      "dur": 1.733
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con patatine Lay's",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un sacchetto di patatine Lay's e indica le bevande sul tavolo.",
+      "shot_idx": 30,
+      "start": 60.233,
+      "end": 61.1,
+      "dur": 0.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "nacho in primo piano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un nacho è tenuto in primo piano dalle dita del ragazzo, mentre sullo sfondo si vede il sacchetto di Doritos.",
+      "shot_idx": 31,
+      "start": 61.1,
+      "end": 62.367,
+      "dur": 1.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un nacho, con il sacchetto di Doritos e le bevande in evidenza.",
+      "shot_idx": 32,
+      "start": 62.367,
+      "end": 63.533,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene un nacho vicino alla bocca e sembra parlare, con la scritta 'DELICATE' sovrapposta.",
+      "shot_idx": 33,
+      "start": 63.533,
+      "end": 65.6,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo apre bevanda Prime",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta aprendo una bottiglia di Prime, con altre bevande Monster sul tavolo.",
+      "shot_idx": 34,
+      "start": 65.6,
+      "end": 66.6,
+      "dur": 1.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "bottiglia Prime in mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una bottiglia di Prime, con un'espressione confusa.",
+      "shot_idx": 35,
+      "start": 66.6,
+      "end": 67.633,
+      "dur": 1.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta bevendo dalla bottiglia di Prime, con due lattine di Monster sul tavolo.",
+      "shot_idx": 36,
+      "start": 67.633,
+      "end": 68.633,
+      "dur": 1.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla tenendo la bottiglia di Prime, con la parola 'NEANCHE' sovrapposta all'immagine.",
+      "shot_idx": 37,
+      "start": 68.633,
+      "end": 74.8,
+      "dur": 6.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con patatina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una patatina e un sacchetto di patatine al tartufo, con la parola 'TARTUFO' sovrapposta.",
+      "shot_idx": 38,
+      "start": 74.8,
+      "end": 77.6,
+      "dur": 2.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che gesticola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo gesticola mentre parla, con la parola 'PROPRIO' sovrapposta all'immagine.",
+      "shot_idx": 39,
+      "start": 77.6,
+      "end": 82.0,
+      "dur": 4.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo apre snack",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre apre una confezione di beef jerky.",
+      "shot_idx": 40,
+      "start": 82.0,
+      "end": 83.067,
+      "dur": 1.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra jerky",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di beef jerky e la confezione aperta.",
+      "shot_idx": 41,
+      "start": 83.067,
+      "end": 88.633,
+      "dur": 5.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra snack",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra due confezioni di snack Kinder, una barretta e dei biscotti.",
+      "shot_idx": 42,
+      "start": 88.633,
+      "end": 90.467,
+      "dur": 1.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "biscotto in primo piano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un biscotto con gocce di cioccolato è tenuto in primo piano dalla mano del ragazzo.",
+      "shot_idx": 43,
+      "start": 90.467,
+      "end": 93.0,
+      "dur": 2.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia biscotto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha un'espressione sorpresa mentre tiene in mano un biscotto morso.",
+      "shot_idx": 44,
+      "start": 93.0,
+      "end": 94.133,
+      "dur": 1.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia biscotto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un biscotto morso e un sacchetto di biscotti Kinder.",
+      "shot_idx": 45,
+      "start": 94.133,
+      "end": 98.4,
+      "dur": 4.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo mostra biscotti",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un sacchetto di biscotti Kinder e gesticola con l'altra mano.",
+      "shot_idx": 46,
+      "start": 98.4,
+      "end": 100.1,
+      "dur": 1.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo mostra barretta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una barretta Kinder con entrambe le mani.",
+      "shot_idx": 47,
+      "start": 100.1,
+      "end": 101.233,
+      "dur": 1.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia barretta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando la barretta Kinder, con la bocca aperta.",
+      "shot_idx": 48,
+      "start": 101.233,
+      "end": 103.333,
+      "dur": 2.1
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo mostra barretta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo della barretta Kinder, con un'espressione sorridente.",
+      "shot_idx": 49,
+      "start": 103.333,
+      "end": 106.2,
+      "dur": 2.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con snack",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una confezione di snack e due lattine di bevande energetiche.",
+      "shot_idx": 50,
+      "start": 106.2,
+      "end": 107.533,
+      "dur": 1.333
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "wafer quadrato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra un wafer quadrato con una linea di cioccolato al centro.",
+      "shot_idx": 51,
+      "start": 107.533,
+      "end": 108.733,
+      "dur": 1.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "wafer al pistacchio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra un wafer di profilo, rivelando il ripieno verde al pistacchio.",
+      "shot_idx": 52,
+      "start": 108.733,
+      "end": 111.967,
+      "dur": 3.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con wafer",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di wafer e parla, con le bevande energetiche in primo piano.",
+      "shot_idx": 53,
+      "start": 111.967,
+      "end": 114.167,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con snack e bevanda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una busta di snack viola e una bottiglia di bevanda blu, con una scatola decorata in primo piano.",
+      "shot_idx": 54,
+      "start": 114.167,
+      "end": 119.733,
+      "dur": 5.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con snack e bevanda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla mentre mostra vari snack e una bevanda energetica.",
+      "shot_idx": 55,
+      "start": 119.733,
+      "end": 121.3,
+      "dur": 1.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con scatola americana",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride e parla mentre tiene in mano una scatola blu con disegni di snack americani.",
+      "shot_idx": 56,
+      "start": 121.3,
+      "end": 128.033,
+      "dur": 6.733
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Proviamo snack americani clamorosi oggi ragazzi mi è arrivato questo pacco d'americano anche il pieno di snack americani"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Urca ragazzi abbiamo un bel po' di roba qua"
+    },
+    {
+      "start": 8.0,
+      "end": 13.42,
+      "text": "Iniziamo subito con con i crunchy cookies della Kinder, le dorito su al gusto wopper del burger kid"
+    },
+    {
+      "start": 13.42,
+      "end": 19.52,
+      "text": "chips al tartufo nero un Kinder crispy, le tatis ragazzi, le patatine snack americano per eccellenza"
+    },
+    {
+      "start": 19.52,
+      "end": 26.92,
+      "text": "le leis stavolta del kfc, dei nachos al barbecue o carne secta, questa ragazza mi mancava un sacco degli stati uniti"
+    },
+    {
+      "start": 26.92,
+      "end": 28.4,
+      "text": "classica al barbecue"
+    },
+    {
+      "start": 28.92,
+      "end": 32.02,
+      "text": "Kinder tronchi una sorta di butter col pistacchio di dubai"
+    },
+    {
+      "start": 32.02,
+      "end": 36.36,
+      "text": "la monster per eccellenza ragazzi la monster white e la monster nitro"
+    },
+    {
+      "start": 36.36,
+      "end": 41.34,
+      "text": "mi camale questo e per finire prime gusto sour nova molto figa"
+    },
+    {
+      "start": 42.88,
+      "end": 44.7,
+      "text": "colore è abbastanza esotico"
+    },
+    {
+      "start": 46.32,
+      "end": 49.18,
+      "text": "gusto fuego molto saporite molto piccanti"
+    },
+    {
+      "start": 49.18,
+      "end": 51.28,
+      "text": "queste sono per falati forti doritos"
+    },
+    {
+      "start": 53.8,
+      "end": 58.22,
+      "text": "sanno proprio gli hamburger di griglia del burger king, leis al kfc"
+    },
+    {
+      "start": 60.44,
+      "end": 61.06,
+      "text": "iconiche"
+    },
+    {
+      "start": 63.02,
+      "end": 65.94,
+      "text": "non stavo più forti, delicate, prime"
+    },
+    {
+      "start": 68.14,
+      "end": 71.42,
+      "text": "ok questa faccio veramente fatica di scriverla, parei molto buona"
+    },
+    {
+      "start": 71.42,
+      "end": 74.7,
+      "text": "neanche troppo dolce cosa che con le prime o li vando si rischia"
+    },
+    {
+      "start": 74.7,
+      "end": 76.3,
+      "text": "ma sapranno veramente i tartufo?"
+    },
+    {
+      "start": 77.08,
+      "end": 81.84,
+      "text": "non troppo salate in modo che si sente effettivamente proprio quella aroma di tartufo, di tartufo nero"
+    },
+    {
+      "start": 81.84,
+      "end": 84.3,
+      "text": "carne secca un po di proteine mancavano"
+    },
+    {
+      "start": 84.3,
+      "end": 87.96,
+      "text": "a me piace un sacco quel leggero dolce della carne secca americana"
+    },
+    {
+      "start": 87.96,
+      "end": 90.28,
+      "text": "e infine abbiamo la tripletta della Kinder"
+    },
+    {
+      "start": 93.3,
+      "end": 93.9,
+      "text": "clammoroso"
+    },
+    {
+      "start": 95.04,
+      "end": 98.06,
+      "text": "impasto morbidissimo e pezze tolino cioccolato dentro"
+    },
+    {
+      "start": 98.06,
+      "end": 99.88,
+      "text": "questi dovete assolutamente provarli"
+    },
+    {
+      "start": 99.88,
+      "end": 100.9,
+      "text": "tronchi della Kinder"
+    },
+    {
+      "start": 102.86,
+      "end": 105.5,
+      "text": "un tronchi ripieno di Kinder bueno praticamente"
+    },
+    {
+      "start": 105.5,
+      "end": 108.44,
+      "text": "questo sono curiosi ammazza che va"
+    },
+    {
+      "start": 108.44,
+      "end": 110.7,
+      "text": "guardate che stati piacazione di pistacchio"
+    },
+    {
+      "start": 111.7,
+      "end": 113.42,
+      "text": "un sacco di pistacchio"
+    },
+    {
+      "start": 113.42,
+      "end": 115.58,
+      "text": "lei mi ha sicuramente stupito"
+    },
+    {
+      "start": 115.58,
+      "end": 118.52,
+      "text": "loro mi hanno sicuramente stupito anche se per pallati porti"
+    },
+    {
+      "start": 118.52,
+      "end": 121.16,
+      "text": "ai vincitori presto nei crunchy cookies della Kinder"
+    },
+    {
+      "start": 121.16,
+      "end": 123.96,
+      "text": "quindi ragazzi se siete anche voi curiosi di provare tutti questi prodotti"
+    },
+    {
+      "start": 123.96,
+      "end": 127.6,
+      "text": "sappiate che li trovate tutti su www.americanancle.it"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "word": "Proviamo"
+    },
+    {
+      "start": 0.46,
+      "end": 0.68,
+      "word": "snack"
+    },
+    {
+      "start": 0.68,
+      "end": 1.26,
+      "word": "americani"
+    },
+    {
+      "start": 1.26,
+      "end": 1.94,
+      "word": "clamorosi"
+    },
+    {
+      "start": 1.94,
+      "end": 2.26,
+      "word": "oggi"
+    },
+    {
+      "start": 2.26,
+      "end": 2.74,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.74,
+      "end": 3.02,
+      "word": "mi"
+    },
+    {
+      "start": 3.02,
+      "end": 3.02,
+      "word": "è"
+    },
+    {
+      "start": 3.02,
+      "end": 3.24,
+      "word": "arrivato"
+    },
+    {
+      "start": 3.24,
+      "end": 3.46,
+      "word": "questo"
+    },
+    {
+      "start": 3.46,
+      "end": 3.76,
+      "word": "pacco"
+    },
+    {
+      "start": 3.76,
+      "end": 3.84,
+      "word": "d"
+    },
+    {
+      "start": 3.84,
+      "end": 4.22,
+      "word": "'americano"
+    },
+    {
+      "start": 4.22,
+      "end": 4.52,
+      "word": "anche"
+    },
+    {
+      "start": 4.52,
+      "end": 4.74,
+      "word": "il"
+    },
+    {
+      "start": 4.74,
+      "end": 5.06,
+      "word": "pieno"
+    },
+    {
+      "start": 5.06,
+      "end": 5.2,
+      "word": "di"
+    },
+    {
+      "start": 5.2,
+      "end": 5.34,
+      "word": "snack"
+    },
+    {
+      "start": 5.34,
+      "end": 6.0,
+      "word": "americani"
+    },
+    {
+      "start": 6.0,
+      "end": 6.48,
+      "word": "Urca"
+    },
+    {
+      "start": 6.48,
+      "end": 6.84,
+      "word": "ragazzi"
+    },
+    {
+      "start": 6.84,
+      "end": 7.06,
+      "word": "abbiamo"
+    },
+    {
+      "start": 7.06,
+      "end": 7.2,
+      "word": "un"
+    },
+    {
+      "start": 7.2,
+      "end": 7.3,
+      "word": "bel"
+    },
+    {
+      "start": 7.3,
+      "end": 7.44,
+      "word": "po'"
+    },
+    {
+      "start": 7.48,
+      "end": 7.54,
+      "word": "di"
+    },
+    {
+      "start": 7.54,
+      "end": 7.82,
+      "word": "roba"
+    },
+    {
+      "start": 7.82,
+      "end": 8.0,
+      "word": "qua"
+    },
+    {
+      "start": 8.0,
+      "end": 8.58,
+      "word": "Iniziamo"
+    },
+    {
+      "start": 8.58,
+      "end": 8.92,
+      "word": "subito"
+    },
+    {
+      "start": 8.92,
+      "end": 9.24,
+      "word": "con"
+    },
+    {
+      "start": 9.24,
+      "end": 9.54,
+      "word": "con"
+    },
+    {
+      "start": 9.54,
+      "end": 9.64,
+      "word": "i"
+    },
+    {
+      "start": 9.64,
+      "end": 9.96,
+      "word": "crunchy"
+    },
+    {
+      "start": 9.96,
+      "end": 10.34,
+      "word": "cookies"
+    },
+    {
+      "start": 10.34,
+      "end": 10.76,
+      "word": "della"
+    },
+    {
+      "start": 10.76,
+      "end": 11.06,
+      "word": "Kinder,"
+    },
+    {
+      "start": 11.26,
+      "end": 11.34,
+      "word": "le"
+    },
+    {
+      "start": 11.34,
+      "end": 11.64,
+      "word": "dorito"
+    },
+    {
+      "start": 11.64,
+      "end": 11.84,
+      "word": "su"
+    },
+    {
+      "start": 11.84,
+      "end": 11.94,
+      "word": "al"
+    },
+    {
+      "start": 11.94,
+      "end": 12.06,
+      "word": "gusto"
+    },
+    {
+      "start": 12.06,
+      "end": 12.6,
+      "word": "wopper"
+    },
+    {
+      "start": 12.6,
+      "end": 12.78,
+      "word": "del"
+    },
+    {
+      "start": 12.78,
+      "end": 13.0,
+      "word": "burger"
+    },
+    {
+      "start": 13.0,
+      "end": 13.42,
+      "word": "kid"
+    },
+    {
+      "start": 13.42,
+      "end": 13.84,
+      "word": "chips"
+    },
+    {
+      "start": 13.84,
+      "end": 14.1,
+      "word": "al"
+    },
+    {
+      "start": 14.1,
+      "end": 14.58,
+      "word": "tartufo"
+    },
+    {
+      "start": 14.58,
+      "end": 14.9,
+      "word": "nero"
+    },
+    {
+      "start": 14.9,
+      "end": 15.24,
+      "word": "un"
+    },
+    {
+      "start": 15.24,
+      "end": 15.5,
+      "word": "Kinder"
+    },
+    {
+      "start": 15.5,
+      "end": 15.88,
+      "word": "crispy,"
+    },
+    {
+      "start": 16.14,
+      "end": 16.22,
+      "word": "le"
+    },
+    {
+      "start": 16.22,
+      "end": 16.62,
+      "word": "tatis"
+    },
+    {
+      "start": 16.62,
+      "end": 17.18,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 17.28,
+      "end": 17.36,
+      "word": "le"
+    },
+    {
+      "start": 17.36,
+      "end": 17.78,
+      "word": "patatine"
+    },
+    {
+      "start": 17.78,
+      "end": 18.18,
+      "word": "snack"
+    },
+    {
+      "start": 18.18,
+      "end": 18.78,
+      "word": "americano"
+    },
+    {
+      "start": 18.78,
+      "end": 18.9,
+      "word": "per"
+    },
+    {
+      "start": 18.9,
+      "end": 19.52,
+      "word": "eccellenza"
+    },
+    {
+      "start": 19.52,
+      "end": 19.82,
+      "word": "le"
+    },
+    {
+      "start": 19.82,
+      "end": 20.28,
+      "word": "leis"
+    },
+    {
+      "start": 20.28,
+      "end": 21.02,
+      "word": "stavolta"
+    },
+    {
+      "start": 21.02,
+      "end": 21.3,
+      "word": "del"
+    },
+    {
+      "start": 21.3,
+      "end": 21.76,
+      "word": "kfc,"
+    },
+    {
+      "start": 21.9,
+      "end": 22.08,
+      "word": "dei"
+    },
+    {
+      "start": 22.08,
+      "end": 22.58,
+      "word": "nachos"
+    },
+    {
+      "start": 22.58,
+      "end": 22.92,
+      "word": "al"
+    },
+    {
+      "start": 22.92,
+      "end": 23.3,
+      "word": "barbecue"
+    },
+    {
+      "start": 23.3,
+      "end": 23.88,
+      "word": "o"
+    },
+    {
+      "start": 23.88,
+      "end": 24.24,
+      "word": "carne"
+    },
+    {
+      "start": 24.24,
+      "end": 24.76,
+      "word": "secta,"
+    },
+    {
+      "start": 24.76,
+      "end": 24.94,
+      "word": "questa"
+    },
+    {
+      "start": 24.94,
+      "end": 25.28,
+      "word": "ragazza"
+    },
+    {
+      "start": 25.28,
+      "end": 25.38,
+      "word": "mi"
+    },
+    {
+      "start": 25.38,
+      "end": 25.7,
+      "word": "mancava"
+    },
+    {
+      "start": 25.7,
+      "end": 25.82,
+      "word": "un"
+    },
+    {
+      "start": 25.82,
+      "end": 26.24,
+      "word": "sacco"
+    },
+    {
+      "start": 26.24,
+      "end": 26.38,
+      "word": "degli"
+    },
+    {
+      "start": 26.38,
+      "end": 26.62,
+      "word": "stati"
+    },
+    {
+      "start": 26.62,
+      "end": 26.92,
+      "word": "uniti"
+    },
+    {
+      "start": 26.92,
+      "end": 27.56,
+      "word": "classica"
+    },
+    {
+      "start": 27.56,
+      "end": 28.08,
+      "word": "al"
+    },
+    {
+      "start": 28.08,
+      "end": 28.4,
+      "word": "barbecue"
+    },
+    {
+      "start": 28.84,
+      "end": 29.26,
+      "word": "Kinder"
+    },
+    {
+      "start": 29.26,
+      "end": 29.82,
+      "word": "tronchi"
+    },
+    {
+      "start": 29.82,
+      "end": 30.08,
+      "word": "una"
+    },
+    {
+      "start": 30.08,
+      "end": 30.3,
+      "word": "sorta"
+    },
+    {
+      "start": 30.3,
+      "end": 30.5,
+      "word": "di"
+    },
+    {
+      "start": 30.5,
+      "end": 30.74,
+      "word": "butter"
+    },
+    {
+      "start": 30.74,
+      "end": 31.16,
+      "word": "col"
+    },
+    {
+      "start": 31.16,
+      "end": 31.62,
+      "word": "pistacchio"
+    },
+    {
+      "start": 31.62,
+      "end": 31.7,
+      "word": "di"
+    },
+    {
+      "start": 31.7,
+      "end": 32.02,
+      "word": "dubai"
+    },
+    {
+      "start": 32.02,
+      "end": 32.44,
+      "word": "la"
+    },
+    {
+      "start": 32.44,
+      "end": 32.82,
+      "word": "monster"
+    },
+    {
+      "start": 32.82,
+      "end": 33.1,
+      "word": "per"
+    },
+    {
+      "start": 33.1,
+      "end": 33.66,
+      "word": "eccellenza"
+    },
+    {
+      "start": 33.66,
+      "end": 34.1,
+      "word": "ragazzi"
+    },
+    {
+      "start": 34.1,
+      "end": 34.28,
+      "word": "la"
+    },
+    {
+      "start": 34.28,
+      "end": 34.56,
+      "word": "monster"
+    },
+    {
+      "start": 34.56,
+      "end": 35.02,
+      "word": "white"
+    },
+    {
+      "start": 35.02,
+      "end": 35.26,
+      "word": "e"
+    },
+    {
+      "start": 35.26,
+      "end": 35.36,
+      "word": "la"
+    },
+    {
+      "start": 35.36,
+      "end": 35.68,
+      "word": "monster"
+    },
+    {
+      "start": 35.68,
+      "end": 36.36,
+      "word": "nitro"
+    },
+    {
+      "start": 36.36,
+      "end": 36.86,
+      "word": "mi"
+    },
+    {
+      "start": 36.86,
+      "end": 37.16,
+      "word": "camale"
+    },
+    {
+      "start": 37.16,
+      "end": 37.5,
+      "word": "questo"
+    },
+    {
+      "start": 37.5,
+      "end": 37.74,
+      "word": "e"
+    },
+    {
+      "start": 37.74,
+      "end": 37.98,
+      "word": "per"
+    },
+    {
+      "start": 37.98,
+      "end": 38.48,
+      "word": "finire"
+    },
+    {
+      "start": 38.48,
+      "end": 39.18,
+      "word": "prime"
+    },
+    {
+      "start": 39.18,
+      "end": 39.46,
+      "word": "gusto"
+    },
+    {
+      "start": 39.46,
+      "end": 39.92,
+      "word": "sour"
+    },
+    {
+      "start": 39.92,
+      "end": 40.26,
+      "word": "nova"
+    },
+    {
+      "start": 40.26,
+      "end": 40.74,
+      "word": "molto"
+    },
+    {
+      "start": 40.74,
+      "end": 41.34,
+      "word": "figa"
+    },
+    {
+      "start": 42.88,
+      "end": 43.72,
+      "word": "colore"
+    },
+    {
+      "start": 43.72,
+      "end": 43.84,
+      "word": "è"
+    },
+    {
+      "start": 43.84,
+      "end": 44.12,
+      "word": "abbastanza"
+    },
+    {
+      "start": 44.12,
+      "end": 44.7,
+      "word": "esotico"
+    },
+    {
+      "start": 46.22,
+      "end": 46.64,
+      "word": "gusto"
+    },
+    {
+      "start": 46.64,
+      "end": 47.1,
+      "word": "fuego"
+    },
+    {
+      "start": 47.1,
+      "end": 47.64,
+      "word": "molto"
+    },
+    {
+      "start": 47.64,
+      "end": 48.12,
+      "word": "saporite"
+    },
+    {
+      "start": 48.12,
+      "end": 48.6,
+      "word": "molto"
+    },
+    {
+      "start": 48.6,
+      "end": 49.18,
+      "word": "piccanti"
+    },
+    {
+      "start": 49.18,
+      "end": 49.54,
+      "word": "queste"
+    },
+    {
+      "start": 49.54,
+      "end": 49.8,
+      "word": "sono"
+    },
+    {
+      "start": 49.8,
+      "end": 50.0,
+      "word": "per"
+    },
+    {
+      "start": 50.0,
+      "end": 50.3,
+      "word": "falati"
+    },
+    {
+      "start": 50.3,
+      "end": 50.76,
+      "word": "forti"
+    },
+    {
+      "start": 50.76,
+      "end": 51.28,
+      "word": "doritos"
+    },
+    {
+      "start": 53.8,
+      "end": 54.42,
+      "word": "sanno"
+    },
+    {
+      "start": 54.42,
+      "end": 54.68,
+      "word": "proprio"
+    },
+    {
+      "start": 54.68,
+      "end": 54.98,
+      "word": "gli"
+    },
+    {
+      "start": 54.98,
+      "end": 55.34,
+      "word": "hamburger"
+    },
+    {
+      "start": 55.34,
+      "end": 55.68,
+      "word": "di"
+    },
+    {
+      "start": 55.68,
+      "end": 56.0,
+      "word": "griglia"
+    },
+    {
+      "start": 56.0,
+      "end": 56.16,
+      "word": "del"
+    },
+    {
+      "start": 56.16,
+      "end": 56.36,
+      "word": "burger"
+    },
+    {
+      "start": 56.36,
+      "end": 56.72,
+      "word": "king,"
+    },
+    {
+      "start": 56.82,
+      "end": 57.66,
+      "word": "leis"
+    },
+    {
+      "start": 57.66,
+      "end": 57.8,
+      "word": "al"
+    },
+    {
+      "start": 57.8,
+      "end": 58.22,
+      "word": "kfc"
+    },
+    {
+      "start": 60.44,
+      "end": 61.06,
+      "word": "iconiche"
+    },
+    {
+      "start": 63.02,
+      "end": 63.64,
+      "word": "non"
+    },
+    {
+      "start": 63.64,
+      "end": 63.78,
+      "word": "stavo"
+    },
+    {
+      "start": 63.78,
+      "end": 63.96,
+      "word": "più"
+    },
+    {
+      "start": 63.96,
+      "end": 64.38,
+      "word": "forti,"
+    },
+    {
+      "start": 64.48,
+      "end": 64.94,
+      "word": "delicate,"
+    },
+    {
+      "start": 65.18,
+      "end": 65.94,
+      "word": "prime"
+    },
+    {
+      "start": 68.14,
+      "end": 68.76,
+      "word": "ok"
+    },
+    {
+      "start": 68.76,
+      "end": 69.08,
+      "word": "questa"
+    },
+    {
+      "start": 69.08,
+      "end": 69.34,
+      "word": "faccio"
+    },
+    {
+      "start": 69.34,
+      "end": 69.54,
+      "word": "veramente"
+    },
+    {
+      "start": 69.54,
+      "end": 70.0,
+      "word": "fatica"
+    },
+    {
+      "start": 70.0,
+      "end": 70.12,
+      "word": "di"
+    },
+    {
+      "start": 70.12,
+      "end": 70.62,
+      "word": "scriverla,"
+    },
+    {
+      "start": 70.7,
+      "end": 70.86,
+      "word": "parei"
+    },
+    {
+      "start": 70.86,
+      "end": 71.04,
+      "word": "molto"
+    },
+    {
+      "start": 71.04,
+      "end": 71.42,
+      "word": "buona"
+    },
+    {
+      "start": 71.42,
+      "end": 71.98,
+      "word": "neanche"
+    },
+    {
+      "start": 71.98,
+      "end": 72.22,
+      "word": "troppo"
+    },
+    {
+      "start": 72.22,
+      "end": 72.56,
+      "word": "dolce"
+    },
+    {
+      "start": 72.56,
+      "end": 72.76,
+      "word": "cosa"
+    },
+    {
+      "start": 72.76,
+      "end": 72.92,
+      "word": "che"
+    },
+    {
+      "start": 72.92,
+      "end": 73.08,
+      "word": "con"
+    },
+    {
+      "start": 73.08,
+      "end": 73.16,
+      "word": "le"
+    },
+    {
+      "start": 73.16,
+      "end": 73.52,
+      "word": "prime"
+    },
+    {
+      "start": 73.52,
+      "end": 73.88,
+      "word": "o"
+    },
+    {
+      "start": 73.88,
+      "end": 73.98,
+      "word": "li"
+    },
+    {
+      "start": 73.98,
+      "end": 74.14,
+      "word": "vando"
+    },
+    {
+      "start": 74.14,
+      "end": 74.32,
+      "word": "si"
+    },
+    {
+      "start": 74.32,
+      "end": 74.7,
+      "word": "rischia"
+    },
+    {
+      "start": 74.7,
+      "end": 75.02,
+      "word": "ma"
+    },
+    {
+      "start": 75.02,
+      "end": 75.36,
+      "word": "sapranno"
+    },
+    {
+      "start": 75.36,
+      "end": 75.64,
+      "word": "veramente"
+    },
+    {
+      "start": 75.64,
+      "end": 75.84,
+      "word": "i"
+    },
+    {
+      "start": 75.84,
+      "end": 76.3,
+      "word": "tartufo?"
+    },
+    {
+      "start": 77.08,
+      "end": 77.68,
+      "word": "non"
+    },
+    {
+      "start": 77.68,
+      "end": 77.88,
+      "word": "troppo"
+    },
+    {
+      "start": 77.88,
+      "end": 78.32,
+      "word": "salate"
+    },
+    {
+      "start": 78.32,
+      "end": 78.54,
+      "word": "in"
+    },
+    {
+      "start": 78.54,
+      "end": 78.62,
+      "word": "modo"
+    },
+    {
+      "start": 78.62,
+      "end": 78.78,
+      "word": "che"
+    },
+    {
+      "start": 78.78,
+      "end": 78.88,
+      "word": "si"
+    },
+    {
+      "start": 78.88,
+      "end": 79.1,
+      "word": "sente"
+    },
+    {
+      "start": 79.1,
+      "end": 79.52,
+      "word": "effettivamente"
+    },
+    {
+      "start": 79.52,
+      "end": 79.78,
+      "word": "proprio"
+    },
+    {
+      "start": 79.78,
+      "end": 80.08,
+      "word": "quella"
+    },
+    {
+      "start": 80.08,
+      "end": 80.3,
+      "word": "aroma"
+    },
+    {
+      "start": 80.3,
+      "end": 80.52,
+      "word": "di"
+    },
+    {
+      "start": 80.52,
+      "end": 81.14,
+      "word": "tartufo,"
+    },
+    {
+      "start": 81.16,
+      "end": 81.28,
+      "word": "di"
+    },
+    {
+      "start": 81.28,
+      "end": 81.56,
+      "word": "tartufo"
+    },
+    {
+      "start": 81.56,
+      "end": 81.84,
+      "word": "nero"
+    },
+    {
+      "start": 81.84,
+      "end": 82.24,
+      "word": "carne"
+    },
+    {
+      "start": 82.24,
+      "end": 82.76,
+      "word": "secca"
+    },
+    {
+      "start": 82.76,
+      "end": 83.24,
+      "word": "un"
+    },
+    {
+      "start": 83.24,
+      "end": 83.32,
+      "word": "po"
+    },
+    {
+      "start": 83.32,
+      "end": 83.4,
+      "word": "di"
+    },
+    {
+      "start": 83.4,
+      "end": 83.72,
+      "word": "proteine"
+    },
+    {
+      "start": 83.72,
+      "end": 84.3,
+      "word": "mancavano"
+    },
+    {
+      "start": 84.3,
+      "end": 85.1,
+      "word": "a"
+    },
+    {
+      "start": 85.1,
+      "end": 85.14,
+      "word": "me"
+    },
+    {
+      "start": 85.14,
+      "end": 85.3,
+      "word": "piace"
+    },
+    {
+      "start": 85.3,
+      "end": 85.44,
+      "word": "un"
+    },
+    {
+      "start": 85.44,
+      "end": 85.84,
+      "word": "sacco"
+    },
+    {
+      "start": 85.84,
+      "end": 86.04,
+      "word": "quel"
+    },
+    {
+      "start": 86.04,
+      "end": 86.48,
+      "word": "leggero"
+    },
+    {
+      "start": 86.48,
+      "end": 86.8,
+      "word": "dolce"
+    },
+    {
+      "start": 86.8,
+      "end": 86.98,
+      "word": "della"
+    },
+    {
+      "start": 86.98,
+      "end": 87.18,
+      "word": "carne"
+    },
+    {
+      "start": 87.18,
+      "end": 87.52,
+      "word": "secca"
+    },
+    {
+      "start": 87.52,
+      "end": 87.96,
+      "word": "americana"
+    },
+    {
+      "start": 87.96,
+      "end": 88.72,
+      "word": "e"
+    },
+    {
+      "start": 88.72,
+      "end": 88.94,
+      "word": "infine"
+    },
+    {
+      "start": 88.94,
+      "end": 89.14,
+      "word": "abbiamo"
+    },
+    {
+      "start": 89.14,
+      "end": 89.3,
+      "word": "la"
+    },
+    {
+      "start": 89.3,
+      "end": 89.8,
+      "word": "tripletta"
+    },
+    {
+      "start": 89.8,
+      "end": 89.94,
+      "word": "della"
+    },
+    {
+      "start": 89.94,
+      "end": 90.28,
+      "word": "Kinder"
+    },
+    {
+      "start": 93.3,
+      "end": 93.9,
+      "word": "clammoroso"
+    },
+    {
+      "start": 95.04,
+      "end": 95.64,
+      "word": "impasto"
+    },
+    {
+      "start": 95.64,
+      "end": 96.24,
+      "word": "morbidissimo"
+    },
+    {
+      "start": 96.24,
+      "end": 96.64,
+      "word": "e"
+    },
+    {
+      "start": 96.64,
+      "end": 96.94,
+      "word": "pezze"
+    },
+    {
+      "start": 96.94,
+      "end": 97.22,
+      "word": "tolino"
+    },
+    {
+      "start": 97.22,
+      "end": 97.72,
+      "word": "cioccolato"
+    },
+    {
+      "start": 97.72,
+      "end": 98.06,
+      "word": "dentro"
+    },
+    {
+      "start": 98.06,
+      "end": 98.5,
+      "word": "questi"
+    },
+    {
+      "start": 98.5,
+      "end": 98.8,
+      "word": "dovete"
+    },
+    {
+      "start": 98.8,
+      "end": 99.28,
+      "word": "assolutamente"
+    },
+    {
+      "start": 99.28,
+      "end": 99.88,
+      "word": "provarli"
+    },
+    {
+      "start": 99.88,
+      "end": 100.4,
+      "word": "tronchi"
+    },
+    {
+      "start": 100.4,
+      "end": 100.56,
+      "word": "della"
+    },
+    {
+      "start": 100.56,
+      "end": 100.9,
+      "word": "Kinder"
+    },
+    {
+      "start": 102.86,
+      "end": 103.46,
+      "word": "un"
+    },
+    {
+      "start": 103.46,
+      "end": 103.86,
+      "word": "tronchi"
+    },
+    {
+      "start": 103.86,
+      "end": 104.58,
+      "word": "ripieno"
+    },
+    {
+      "start": 104.58,
+      "end": 104.8,
+      "word": "di"
+    },
+    {
+      "start": 104.8,
+      "end": 104.98,
+      "word": "Kinder"
+    },
+    {
+      "start": 104.98,
+      "end": 105.24,
+      "word": "bueno"
+    },
+    {
+      "start": 105.24,
+      "end": 105.5,
+      "word": "praticamente"
+    },
+    {
+      "start": 105.5,
+      "end": 106.54,
+      "word": "questo"
+    },
+    {
+      "start": 106.54,
+      "end": 106.74,
+      "word": "sono"
+    },
+    {
+      "start": 106.74,
+      "end": 107.46,
+      "word": "curiosi"
+    },
+    {
+      "start": 107.46,
+      "end": 108.1,
+      "word": "ammazza"
+    },
+    {
+      "start": 108.1,
+      "end": 108.24,
+      "word": "che"
+    },
+    {
+      "start": 108.24,
+      "end": 108.44,
+      "word": "va"
+    },
+    {
+      "start": 108.44,
+      "end": 109.06,
+      "word": "guardate"
+    },
+    {
+      "start": 109.06,
+      "end": 109.18,
+      "word": "che"
+    },
+    {
+      "start": 109.18,
+      "end": 109.5,
+      "word": "stati"
+    },
+    {
+      "start": 109.5,
+      "end": 109.96,
+      "word": "piacazione"
+    },
+    {
+      "start": 109.96,
+      "end": 110.16,
+      "word": "di"
+    },
+    {
+      "start": 110.16,
+      "end": 110.7,
+      "word": "pistacchio"
+    },
+    {
+      "start": 111.7,
+      "end": 112.28,
+      "word": "un"
+    },
+    {
+      "start": 112.28,
+      "end": 112.8,
+      "word": "sacco"
+    },
+    {
+      "start": 112.8,
+      "end": 112.86,
+      "word": "di"
+    },
+    {
+      "start": 112.86,
+      "end": 113.42,
+      "word": "pistacchio"
+    },
+    {
+      "start": 113.42,
+      "end": 114.36,
+      "word": "lei"
+    },
+    {
+      "start": 114.36,
+      "end": 114.5,
+      "word": "mi"
+    },
+    {
+      "start": 114.5,
+      "end": 114.58,
+      "word": "ha"
+    },
+    {
+      "start": 114.58,
+      "end": 114.92,
+      "word": "sicuramente"
+    },
+    {
+      "start": 114.92,
+      "end": 115.58,
+      "word": "stupito"
+    },
+    {
+      "start": 115.58,
+      "end": 115.96,
+      "word": "loro"
+    },
+    {
+      "start": 115.96,
+      "end": 116.18,
+      "word": "mi"
+    },
+    {
+      "start": 116.18,
+      "end": 116.26,
+      "word": "hanno"
+    },
+    {
+      "start": 116.26,
+      "end": 116.6,
+      "word": "sicuramente"
+    },
+    {
+      "start": 116.6,
+      "end": 117.08,
+      "word": "stupito"
+    },
+    {
+      "start": 117.08,
+      "end": 117.4,
+      "word": "anche"
+    },
+    {
+      "start": 117.4,
+      "end": 117.58,
+      "word": "se"
+    },
+    {
+      "start": 117.58,
+      "end": 117.74,
+      "word": "per"
+    },
+    {
+      "start": 117.74,
+      "end": 118.06,
+      "word": "pallati"
+    },
+    {
+      "start": 118.06,
+      "end": 118.52,
+      "word": "porti"
+    },
+    {
+      "start": 118.52,
+      "end": 118.64,
+      "word": "ai"
+    },
+    {
+      "start": 118.64,
+      "end": 119.68,
+      "word": "vincitori"
+    },
+    {
+      "start": 119.68,
+      "end": 120.0,
+      "word": "presto"
+    },
+    {
+      "start": 120.0,
+      "end": 120.1,
+      "word": "nei"
+    },
+    {
+      "start": 120.1,
+      "end": 120.32,
+      "word": "crunchy"
+    },
+    {
+      "start": 120.32,
+      "end": 120.62,
+      "word": "cookies"
+    },
+    {
+      "start": 120.62,
+      "end": 120.88,
+      "word": "della"
+    },
+    {
+      "start": 120.88,
+      "end": 121.16,
+      "word": "Kinder"
+    },
+    {
+      "start": 121.16,
+      "end": 121.44,
+      "word": "quindi"
+    },
+    {
+      "start": 121.44,
+      "end": 121.86,
+      "word": "ragazzi"
+    },
+    {
+      "start": 121.86,
+      "end": 122.0,
+      "word": "se"
+    },
+    {
+      "start": 122.0,
+      "end": 122.08,
+      "word": "siete"
+    },
+    {
+      "start": 122.08,
+      "end": 122.22,
+      "word": "anche"
+    },
+    {
+      "start": 122.22,
+      "end": 122.36,
+      "word": "voi"
+    },
+    {
+      "start": 122.36,
+      "end": 122.78,
+      "word": "curiosi"
+    },
+    {
+      "start": 122.78,
+      "end": 122.84,
+      "word": "di"
+    },
+    {
+      "start": 122.84,
+      "end": 123.12,
+      "word": "provare"
+    },
+    {
+      "start": 123.12,
+      "end": 123.26,
+      "word": "tutti"
+    },
+    {
+      "start": 123.26,
+      "end": 123.52,
+      "word": "questi"
+    },
+    {
+      "start": 123.52,
+      "end": 123.96,
+      "word": "prodotti"
+    },
+    {
+      "start": 123.96,
+      "end": 124.56,
+      "word": "sappiate"
+    },
+    {
+      "start": 124.56,
+      "end": 124.7,
+      "word": "che"
+    },
+    {
+      "start": 124.7,
+      "end": 124.78,
+      "word": "li"
+    },
+    {
+      "start": 124.78,
+      "end": 125.06,
+      "word": "trovate"
+    },
+    {
+      "start": 125.06,
+      "end": 125.34,
+      "word": "tutti"
+    },
+    {
+      "start": 125.34,
+      "end": 125.7,
+      "word": "su"
+    },
+    {
+      "start": 125.7,
+      "end": 126.04,
+      "word": "www"
+    },
+    {
+      "start": 126.04,
+      "end": 127.08,
+      "word": ".americanancle"
+    },
+    {
+      "start": 127.08,
+      "end": 127.6,
+      "word": ".it"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "transcript": "Proviamo snack americani clamorosi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 2.9,
+      "dur": 0.833,
+      "transcript": "oggi ragazzi mi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 2.9,
+      "end": 6.067,
+      "dur": 3.167,
+      "transcript": "è arrivato questo pacco d 'americano anche il pieno di snack americani"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.067,
+      "end": 8.133,
+      "dur": 2.067,
+      "transcript": "Urca ragazzi abbiamo un bel po' di roba qua"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.133,
+      "end": 9.367,
+      "dur": 1.233,
+      "transcript": "Iniziamo subito con"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.367,
+      "end": 11.267,
+      "dur": 1.9,
+      "transcript": "con i crunchy cookies della Kinder,"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.267,
+      "end": 13.667,
+      "dur": 2.4,
+      "transcript": "le dorito su al gusto wopper del burger kid chips"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.667,
+      "end": 15.033,
+      "dur": 1.367,
+      "transcript": "al tartufo nero"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.033,
+      "end": 16.1,
+      "dur": 1.067,
+      "transcript": "un Kinder crispy,"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.1,
+      "end": 17.3,
+      "dur": 1.2,
+      "transcript": "le tatis ragazzi,"
+    },
+    {
+      "shot_idx": 10,
+      "start": 17.3,
+      "end": 19.733,
+      "dur": 2.433,
+      "transcript": "le patatine snack americano per eccellenza le"
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167,
+      "transcript": "leis stavolta del kfc,"
+    },
+    {
+      "shot_idx": 12,
+      "start": 21.9,
+      "end": 23.667,
+      "dur": 1.767,
+      "transcript": "dei nachos al barbecue o"
+    },
+    {
+      "shot_idx": 13,
+      "start": 23.667,
+      "end": 27.1,
+      "dur": 3.433,
+      "transcript": "carne secta, questa ragazza mi mancava un sacco degli stati uniti"
+    },
+    {
+      "shot_idx": 14,
+      "start": 27.1,
+      "end": 27.9,
+      "dur": 0.8,
+      "transcript": "classica al"
+    },
+    {
+      "shot_idx": 15,
+      "start": 27.9,
+      "end": 28.767,
+      "dur": 0.867,
+      "transcript": "barbecue"
+    },
+    {
+      "shot_idx": 16,
+      "start": 28.767,
+      "end": 32.333,
+      "dur": 3.567,
+      "transcript": "Kinder tronchi una sorta di butter col pistacchio di dubai la"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.333,
+      "end": 35.133,
+      "dur": 2.8,
+      "transcript": "monster per eccellenza ragazzi la monster white"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.133,
+      "end": 37.6,
+      "dur": 2.467,
+      "transcript": "e la monster nitro mi camale questo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.6,
+      "end": 38.7,
+      "dur": 1.1,
+      "transcript": "e per finire"
+    },
+    {
+      "shot_idx": 20,
+      "start": 38.7,
+      "end": 40.567,
+      "dur": 1.867,
+      "transcript": "prime gusto sour nova molto"
+    },
+    {
+      "shot_idx": 21,
+      "start": 40.567,
+      "end": 41.967,
+      "dur": 1.4,
+      "transcript": "figa"
+    },
+    {
+      "shot_idx": 22,
+      "start": 41.967,
+      "end": 43.367,
+      "dur": 1.4,
+      "transcript": "colore"
+    },
+    {
+      "shot_idx": 23,
+      "start": 43.367,
+      "end": 46.4,
+      "dur": 3.033,
+      "transcript": "è abbastanza esotico"
+    },
+    {
+      "shot_idx": 24,
+      "start": 46.4,
+      "end": 49.3,
+      "dur": 2.9,
+      "transcript": "gusto fuego molto saporite molto piccanti"
+    },
+    {
+      "shot_idx": 25,
+      "start": 49.3,
+      "end": 50.767,
+      "dur": 1.467,
+      "transcript": "queste sono per falati forti"
+    },
+    {
+      "shot_idx": 26,
+      "start": 50.767,
+      "end": 51.6,
+      "dur": 0.833,
+      "transcript": "doritos"
+    },
+    {
+      "shot_idx": 27,
+      "start": 51.6,
+      "end": 57.233,
+      "dur": 5.633,
+      "transcript": "sanno proprio gli hamburger di griglia del burger king,"
+    },
+    {
+      "shot_idx": 28,
+      "start": 57.233,
+      "end": 58.5,
+      "dur": 1.267,
+      "transcript": "leis al kfc"
+    },
+    {
+      "shot_idx": 29,
+      "start": 58.5,
+      "end": 60.233,
+      "dur": 1.733,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 30,
+      "start": 60.233,
+      "end": 61.1,
+      "dur": 0.867,
+      "transcript": "iconiche"
+    },
+    {
+      "shot_idx": 31,
+      "start": 61.1,
+      "end": 62.367,
+      "dur": 1.267,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 32,
+      "start": 62.367,
+      "end": 63.533,
+      "dur": 1.167,
+      "transcript": "non"
+    },
+    {
+      "shot_idx": 33,
+      "start": 63.533,
+      "end": 65.6,
+      "dur": 2.067,
+      "transcript": "stavo più forti, delicate, prime"
+    },
+    {
+      "shot_idx": 34,
+      "start": 65.6,
+      "end": 66.6,
+      "dur": 1.0,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 35,
+      "start": 66.6,
+      "end": 67.633,
+      "dur": 1.033,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 36,
+      "start": 67.633,
+      "end": 68.633,
+      "dur": 1.0,
+      "transcript": "ok"
+    },
+    {
+      "shot_idx": 37,
+      "start": 68.633,
+      "end": 74.8,
+      "dur": 6.167,
+      "transcript": "questa faccio veramente fatica di scriverla, parei molto buona neanche troppo dolce cosa che con le prime o li vando si rischia"
+    },
+    {
+      "shot_idx": 38,
+      "start": 74.8,
+      "end": 77.6,
+      "dur": 2.8,
+      "transcript": "ma sapranno veramente i tartufo? non"
+    },
+    {
+      "shot_idx": 39,
+      "start": 77.6,
+      "end": 82.0,
+      "dur": 4.4,
+      "transcript": "troppo salate in modo che si sente effettivamente proprio quella aroma di tartufo, di tartufo nero"
+    },
+    {
+      "shot_idx": 40,
+      "start": 82.0,
+      "end": 83.067,
+      "dur": 1.067,
+      "transcript": "carne secca un"
+    },
+    {
+      "shot_idx": 41,
+      "start": 83.067,
+      "end": 88.633,
+      "dur": 5.567,
+      "transcript": "po di proteine mancavano a me piace un sacco quel leggero dolce della carne secca americana e"
+    },
+    {
+      "shot_idx": 42,
+      "start": 88.633,
+      "end": 90.467,
+      "dur": 1.833,
+      "transcript": "infine abbiamo la tripletta della Kinder"
+    },
+    {
+      "shot_idx": 43,
+      "start": 90.467,
+      "end": 93.0,
+      "dur": 2.533,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 44,
+      "start": 93.0,
+      "end": 94.133,
+      "dur": 1.133,
+      "transcript": "clammoroso"
+    },
+    {
+      "shot_idx": 45,
+      "start": 94.133,
+      "end": 98.4,
+      "dur": 4.267,
+      "transcript": "impasto morbidissimo e pezze tolino cioccolato dentro questi"
+    },
+    {
+      "shot_idx": 46,
+      "start": 98.4,
+      "end": 100.1,
+      "dur": 1.7,
+      "transcript": "dovete assolutamente provarli"
+    },
+    {
+      "shot_idx": 47,
+      "start": 100.1,
+      "end": 101.233,
+      "dur": 1.133,
+      "transcript": "tronchi della Kinder"
+    },
+    {
+      "shot_idx": 48,
+      "start": 101.233,
+      "end": 103.333,
+      "dur": 2.1,
+      "transcript": "un"
+    },
+    {
+      "shot_idx": 49,
+      "start": 103.333,
+      "end": 106.2,
+      "dur": 2.867,
+      "transcript": "tronchi ripieno di Kinder bueno praticamente questo"
+    },
+    {
+      "shot_idx": 50,
+      "start": 106.2,
+      "end": 107.533,
+      "dur": 1.333,
+      "transcript": "sono curiosi"
+    },
+    {
+      "shot_idx": 51,
+      "start": 107.533,
+      "end": 108.733,
+      "dur": 1.2,
+      "transcript": "ammazza che va"
+    },
+    {
+      "shot_idx": 52,
+      "start": 108.733,
+      "end": 111.967,
+      "dur": 3.233,
+      "transcript": "guardate che stati piacazione di pistacchio"
+    },
+    {
+      "shot_idx": 53,
+      "start": 111.967,
+      "end": 114.167,
+      "dur": 2.2,
+      "transcript": "un sacco di pistacchio lei"
+    },
+    {
+      "shot_idx": 54,
+      "start": 114.167,
+      "end": 119.733,
+      "dur": 5.567,
+      "transcript": "mi ha sicuramente stupito loro mi hanno sicuramente stupito anche se per pallati porti ai vincitori"
+    },
+    {
+      "shot_idx": 55,
+      "start": 119.733,
+      "end": 121.3,
+      "dur": 1.567,
+      "transcript": "presto nei crunchy cookies della Kinder"
+    },
+    {
+      "shot_idx": 56,
+      "start": 121.3,
+      "end": 128.033,
+      "dur": 6.733,
+      "transcript": "quindi ragazzi se siete anche voi curiosi di provare tutti questi prodotti sappiate che li trovate tutti su www .americanancle .it"
+    }
+  ],
+  "full_text": "Proviamo snack americani clamorosi oggi ragazzi mi è arrivato questo pacco d'americano anche il pieno di snack americani Urca ragazzi abbiamo un bel po' di roba qua Iniziamo subito con con i crunchy cookies della Kinder, le dorito su al gusto wopper del burger kid chips al tartufo nero un Kinder crispy, le tatis ragazzi, le patatine snack americano per eccellenza le leis stavolta del kfc, dei nachos al barbecue o carne secta, questa ragazza mi mancava un sacco degli stati uniti classica al barbecue Kinder tronchi una sorta di butter col pistacchio di dubai la monster per eccellenza ragazzi la monster white e la monster nitro mi camale questo e per finire prime gusto sour nova molto figa colore è abbastanza esotico gusto fuego molto saporite molto piccanti queste sono per falati forti doritos sanno proprio gli hamburger di griglia del burger king, leis al kfc iconiche non stavo più forti, delicate, prime ok questa faccio veramente fatica di scriverla, parei molto buona neanche troppo dolce cosa che con le prime o li vando si rischia ma sapranno veramente i tartufo? non troppo salate in modo che si sente effettivamente proprio quella aroma di tartufo, di tartufo nero carne secca un po di proteine mancavano a me piace un sacco quel leggero dolce della carne secca americana e infine abbiamo la tripletta della Kinder clammoroso impasto morbidissimo e pezze tolino cioccolato dentro questi dovete assolutamente provarli tronchi della Kinder un tronchi ripieno di Kinder bueno praticamente questo sono curiosi ammazza che va guardate che stati piacazione di pistacchio un sacco di pistacchio lei mi ha sicuramente stupito loro mi hanno sicuramente stupito anche se per pallati porti ai vincitori presto nei crunchy cookies della Kinder quindi ragazzi se siete anche voi curiosi di provare tutti questi prodotti sappiate che li trovate tutti su www.americanancle.it",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,4501 @@
+{
+  "video_id": "7549215337514945814",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7549215337514945814",
+    "ref_id": "ref_64_7549215337514945814",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7549215337514945814",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 51,
+  "total_dur": 124.63,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.433,
+      "dur": 2.433,
+      "center": 1.217,
+      "role": "food_detail",
+      "subject": "coscia di rana fritta",
+      "description": "Un uomo tiene in mano una coscia di rana fritta, con del testo sovrapposto che indica 'GIORNO CINQUE VIAGGIO IN FLORIDA'.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giurino 5 del mio viaggio in Florida, la scoperta della vera"
+    },
+    {
+      "idx": 1,
+      "start": 2.433,
+      "end": 4.6,
+      "dur": 2.167,
+      "center": 3.517,
+      "role": "other",
+      "subject": "uomo con alligatore",
+      "description": "Un uomo sorride mentre tiene in braccio un piccolo alligatore, con del testo sovrapposto che dice 'OGGI'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "cucina americana. Oggi ragazzi proveremo l"
+    },
+    {
+      "idx": 2,
+      "start": 4.6,
+      "end": 6.833,
+      "dur": 2.233,
+      "center": 5.717,
+      "role": "person_eating",
+      "subject": "uomo che mangia",
+      "description": "Un uomo sorride mentre tiene un pezzo di cibo fritto, con un cestino di cibo fritto sul tavolo davanti a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "'alligatore. Ma prima di ciò partiamo dalla mattina e in cui mi"
+    },
+    {
+      "idx": 3,
+      "start": 6.833,
+      "end": 8.833,
+      "dur": 2.0,
+      "center": 7.833,
+      "role": "venue_interior_detail",
+      "subject": "uomo in palestra",
+      "description": "Un uomo si scatta un selfie allo specchio in una palestra, con del testo sovrapposto che dice 'ALLENAMENTO'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "sono fatto un allenamento nella palestra dell 'hotela"
+    },
+    {
+      "idx": 4,
+      "start": 8.833,
+      "end": 10.833,
+      "dur": 2.0,
+      "center": 9.833,
+      "role": "venue_interior_detail",
+      "subject": "attrezzatura da palestra",
+      "description": "Una vista di varie attrezzature da palestra, inclusi pesi e macchine, con del testo sovrapposto che dice 'NELLE'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Key West, nelle isole Keys, per"
+    },
+    {
+      "idx": 5,
+      "start": 10.833,
+      "end": 13.8,
+      "dur": 2.967,
+      "center": 12.317,
+      "role": "food_plated",
+      "subject": "colazione completa",
+      "description": "Una colazione abbondante con bagel, salsicce, uova e pomodorini.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "poi fare un post workout con la mega colazione dell 'hotel con uova beca,"
+    },
+    {
+      "idx": 6,
+      "start": 13.8,
+      "end": 16.333,
+      "dur": 2.533,
+      "center": 15.067,
+      "role": "person_eating",
+      "subject": "uomo mangia bagel",
+      "description": "Un uomo sorridente che addenta un bagel con crema.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "salsice, un po' di verdurine, un paio di bagel"
+    },
+    {
+      "idx": 7,
+      "start": 16.333,
+      "end": 19.167,
+      "dur": 2.833,
+      "center": 17.75,
+      "role": "food_plated",
+      "subject": "verdure fresche",
+      "description": "Un piatto con fette di cetriolo e pomodorini ciliegino.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "con marmellata e filadelfia poi un secondo piattino con"
+    },
+    {
+      "idx": 8,
+      "start": 19.167,
+      "end": 20.933,
+      "dur": 1.767,
+      "center": 20.05,
+      "role": "person_eating",
+      "subject": "uomo mangia muffin",
+      "description": "Un uomo che sta per mangiare un piccolo muffin.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "altre verdurine e un muffin. Dopodiché"
+    },
+    {
+      "idx": 9,
+      "start": 20.933,
+      "end": 22.967,
+      "dur": 2.033,
+      "center": 21.95,
+      "role": "venue_exterior",
+      "subject": "uomo sul pontile",
+      "description": "Un uomo con un cappellino rosso in piedi su un pontile con un paesaggio marino sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abbiamo iniziato il nostro viaggio per arrivare nel"
+    },
+    {
+      "idx": 10,
+      "start": 22.967,
+      "end": 25.4,
+      "dur": 2.433,
+      "center": 24.183,
+      "role": "venue_interior_wide",
+      "subject": "corsia frutta supermercato",
+      "description": "La vasta esposizione di frutta e verdura fresca in un supermercato.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Everglades, una zona paludosa famosissima della Florida"
+    },
+    {
+      "idx": 11,
+      "start": 25.4,
+      "end": 27.367,
+      "dur": 1.967,
+      "center": 26.383,
+      "role": "person_talking",
+      "subject": "ragazzo cappellino rosso",
+      "description": "Un ragazzo con un cappellino rosso e una canotta bianca che guarda verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "proprio per gli alligatori. Ma prima di ciò"
+    },
+    {
+      "idx": 12,
+      "start": 27.367,
+      "end": 28.267,
+      "dur": 0.9,
+      "center": 27.817,
+      "role": "food_detail",
+      "subject": "torte monoporzione confezionate",
+      "description": "Una varietà di torte monoporzione confezionate in contenitori di plastica.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "ha piccola tappa in un"
+    },
+    {
+      "idx": 13,
+      "start": 28.267,
+      "end": 31.4,
+      "dur": 3.133,
+      "center": 29.833,
+      "role": "food_detail",
+      "subject": "torte monoporzione colorate",
+      "description": "Dettaglio ravvicinato di torte monoporzione, inclusa una torta arcobaleno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "supermercato americano che è sempre incredibile, dove a oltre a queste torte"
+    },
+    {
+      "idx": 14,
+      "start": 31.4,
+      "end": 33.3,
+      "dur": 1.9,
+      "center": 32.35,
+      "role": "food_detail",
+      "subject": "gamberetti cocktail confezionati",
+      "description": "Confezioni di gamberetti cocktail pronti all'uso, disposti in file.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "americanissime, ha trovato questo famoso"
+    },
+    {
+      "idx": 15,
+      "start": 33.3,
+      "end": 35.367,
+      "dur": 2.067,
+      "center": 34.333,
+      "role": "food_detail",
+      "subject": "confezioni gamberi cocktail",
+      "description": "Le confezioni di gamberi sono disposte in modo ordinato sugli scaffali del supermercato.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "set di gamberi da potervi gustare così"
+    },
+    {
+      "idx": 16,
+      "start": 35.367,
+      "end": 37.033,
+      "dur": 1.667,
+      "center": 36.2,
+      "role": "person_talking",
+      "subject": "uomo con pizze",
+      "description": "L'uomo sorride tenendo in mano due scatole di pizza, una grande e una piccola.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "impurezza. Poi invece per pronto ci siamo"
+    },
+    {
+      "idx": 17,
+      "start": 37.033,
+      "end": 38.367,
+      "dur": 1.333,
+      "center": 37.7,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni",
+      "description": "La pizza è ricoperta di pepperoni e formaggio fuso, con una crosta ben cotta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "formati da Domino's Pizza,"
+    },
+    {
+      "idx": 18,
+      "start": 38.367,
+      "end": 39.5,
+      "dur": 1.133,
+      "center": 38.933,
+      "role": "food_plated",
+      "subject": "due pizze",
+      "description": "Si vedono due pizze in scatole di cartone, una a sinistra e una parzialmente visibile a destra.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in cui abbiamo provato ovviamente"
+    },
+    {
+      "idx": 19,
+      "start": 39.5,
+      "end": 40.467,
+      "dur": 0.967,
+      "center": 39.983,
+      "role": "food_closeup",
+      "subject": "pizza carne",
+      "description": "La pizza è condita con vari tipi di carne e formaggio, con una crosta dorata.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "la loro peperoni,"
+    },
+    {
+      "idx": 20,
+      "start": 40.467,
+      "end": 43.333,
+      "dur": 2.867,
+      "center": 41.9,
+      "role": "food_closeup",
+      "subject": "pizza con carne",
+      "description": "Una pizza con diversi tipi di carne e formaggio, in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "la loro mizza e quest 'altra con gli ingredienti praticamente del Philly C"
+    },
+    {
+      "idx": 21,
+      "start": 43.333,
+      "end": 44.4,
+      "dur": 1.067,
+      "center": 43.867,
+      "role": "food_closeup",
+      "subject": "pizza con verdure",
+      "description": "Una pizza con funghi, peperoni e cipolle, con una fetta mancante.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Steak. Allora la pizza di"
+    },
+    {
+      "idx": 22,
+      "start": 44.4,
+      "end": 46.767,
+      "dur": 2.367,
+      "center": 45.583,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con cappellino rosso che addenta una fetta di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Domino sta sempre particolare, è di gran lunga, la più unta,"
+    },
+    {
+      "idx": 23,
+      "start": 46.767,
+      "end": 50.233,
+      "dur": 3.467,
+      "center": 48.5,
+      "role": "person_eating",
+      "subject": "ragazzo guarda pizza",
+      "description": "Un ragazzo con cappellino rosso che tiene in mano una fetta di pizza e la osserva.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ripetere catene di pizza americana. Quanto cavole buona la mizza"
+    },
+    {
+      "idx": 24,
+      "start": 50.233,
+      "end": 52.367,
+      "dur": 2.133,
+      "center": 51.3,
+      "role": "person_eating",
+      "subject": "ragazzo addenta pizza",
+      "description": "Un ragazzo con cappellino rosso che addenta con entusiasmo una fetta di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "oppure la peperoni. Ecco quella con il Philly C Steak"
+    },
+    {
+      "idx": 25,
+      "start": 52.367,
+      "end": 54.167,
+      "dur": 1.8,
+      "center": 53.267,
+      "role": "food_detail",
+      "subject": "calzone appena sfornato",
+      "description": "Un uomo tiene in mano un calzone dorato, con una pizza in scatola sul tavolo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "era evitabile invece. Dopodiché ci siamo rimesti"
+    },
+    {
+      "idx": 26,
+      "start": 54.167,
+      "end": 56.733,
+      "dur": 2.567,
+      "center": 55.45,
+      "role": "drink_detail",
+      "subject": "uomo che beve",
+      "description": "Un uomo beve da una bottiglia di bevanda rossa, con la scritta 'VITAMIN' sovrapposta.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in macchina, ho provato la Vitamine Water. Qui in America è bella"
+    },
+    {
+      "idx": 27,
+      "start": 56.733,
+      "end": 58.367,
+      "dur": 1.633,
+      "center": 57.55,
+      "role": "drink_detail",
+      "subject": "bottiglia di bevanda",
+      "description": "Un uomo tiene in mano una bottiglia di bevanda rossa con l'etichetta 'vitaminwater' e la scritta 'VERAMENTE' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "famosa ma fa veramente schifo. In ogni"
+    },
+    {
+      "idx": 28,
+      "start": 58.367,
+      "end": 60.167,
+      "dur": 1.8,
+      "center": 59.267,
+      "role": "venue_exterior",
+      "subject": "uomo in paesaggio",
+      "description": "Un uomo con un cappellino rosso si trova in un paesaggio verde con una casa sullo sfondo e la scritta 'EVERGLADES' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "caso siamo arrivati ad Everglades City,"
+    },
+    {
+      "idx": 29,
+      "start": 60.167,
+      "end": 66.2,
+      "dur": 6.033,
+      "center": 63.183,
+      "role": "venue_exterior",
+      "subject": "cartello di avviso",
+      "description": "Un cartello giallo con la scritta 'BEWARE OF ALLIGATORS NO SWIMMING' è visibile vicino a uno specchio d'acqua scuro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "un posto paludoso, strapino di zanzare, serpenti verenosi, squali, cocco drilli e come potete notare gli alligatori."
+    },
+    {
+      "idx": 30,
+      "start": 66.2,
+      "end": 70.833,
+      "dur": 4.633,
+      "center": 68.517,
+      "role": "venue_exterior",
+      "subject": "molo sul lago",
+      "description": "Un molo di legno si estende su un lago calmo con il cielo nuvoloso al tramonto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Un posto davvero invivibile e di fatti in giro per la città non c 'era assolutamente nessuno. Fortunatamente"
+    },
+    {
+      "idx": 31,
+      "start": 70.833,
+      "end": 73.033,
+      "dur": 2.2,
+      "center": 71.933,
+      "role": "venue_interior_detail",
+      "subject": "alligatore impagliato bancone",
+      "description": "Un alligatore impagliato in posizione eretta è esposto su un bancone disordinato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "percino abbiamo trovato questo diner molto strano,"
+    },
+    {
+      "idx": 32,
+      "start": 73.033,
+      "end": 75.0,
+      "dur": 1.967,
+      "center": 74.017,
+      "role": "venue_exterior",
+      "subject": "facciata ristorante notte",
+      "description": "La facciata di un edificio rosa e giallo con finestre e porte illuminate di notte.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "dove come piatto forte avevano l"
+    },
+    {
+      "idx": 33,
+      "start": 75.0,
+      "end": 77.0,
+      "dur": 2.0,
+      "center": 76.0,
+      "role": "venue_exterior",
+      "subject": "insegna 'GATOR' esterno",
+      "description": "Un'insegna con la scritta 'GATOR' è visibile sopra l'ingresso di un edificio illuminato di notte.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "'alligatore e essendo qui in America proprio per provare"
+    },
+    {
+      "idx": 34,
+      "start": 77.0,
+      "end": 80.433,
+      "dur": 3.433,
+      "center": 78.717,
+      "role": "food_closeup",
+      "subject": "bocconcini fritti lime",
+      "description": "Un cestino pieno di bocconcini fritti dorati con una fetta di lime e una salsa rossa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il cibo tipico di questi luoghi, ero troppo curioso di sapere di cosa sarà l 'alligato."
+    },
+    {
+      "idx": 35,
+      "start": 80.433,
+      "end": 82.6,
+      "dur": 2.167,
+      "center": 81.517,
+      "role": "person_eating",
+      "subject": "uomo indica cibo",
+      "description": "Un uomo con un cappellino rosso indica un cestino di cibo fritto su un tavolo con una mappa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "I like chicken!"
+    },
+    {
+      "idx": 36,
+      "start": 82.6,
+      "end": 85.867,
+      "dur": 3.267,
+      "center": 84.233,
+      "role": "person_eating",
+      "subject": "uomo mangia cibo",
+      "description": "L'uomo sta portando un pezzo di cibo fritto alla bocca, con il cestino di cibo davanti a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Come antipasto praticamente prezzo questa sorta di nuggets di alligatore,"
+    },
+    {
+      "idx": 37,
+      "start": 85.867,
+      "end": 88.4,
+      "dur": 2.533,
+      "center": 87.133,
+      "role": "person_eating",
+      "subject": "uomo mostra gamberetto",
+      "description": "L'uomo tiene in mano un gamberetto fritto, mentre sullo sfondo si intravede un piatto pieno di fritti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "molto corcanti con la consistenza del pollo ma con un"
+    },
+    {
+      "idx": 38,
+      "start": 88.4,
+      "end": 91.9,
+      "dur": 3.5,
+      "center": 90.15,
+      "role": "person_eating",
+      "subject": "uomo mangia gamberetto",
+      "description": "Primo piano del viso dell'uomo mentre sta per mangiare un pezzo di cibo fritto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "sapore esattamente a metà tra il pollo e del pesce. Insomma si sembra"
+    },
+    {
+      "idx": 39,
+      "start": 91.9,
+      "end": 98.467,
+      "dur": 6.567,
+      "center": 95.183,
+      "role": "food_plated",
+      "subject": "piatto fritti e mais",
+      "description": "Un piatto blu decorato con gamberetti fritti, altri fritti e una ciotola di mais.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "chicken ma si sente che c 'è qualcosa di diverso e effettivamente ricorda il pesce. Dopodiché come piatto principale ho preso questo mix di gambere i"
+    },
+    {
+      "idx": 40,
+      "start": 98.467,
+      "end": 100.5,
+      "dur": 2.033,
+      "center": 99.483,
+      "role": "person_eating",
+      "subject": "ragazzo mangia rane fritte",
+      "description": "Il ragazzo sta mangiando con la mano, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ostri che pesce e rane fritte con un"
+    },
+    {
+      "idx": 41,
+      "start": 100.5,
+      "end": 103.0,
+      "dur": 2.5,
+      "center": 101.75,
+      "role": "person_eating",
+      "subject": "ragazzo mangia gambero fritto",
+      "description": "Il ragazzo ha un'espressione sorpresa mentre porta un gambero fritto alla bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "contorno di patata al cartoccio, mais e una sorta di tortino"
+    },
+    {
+      "idx": 42,
+      "start": 103.0,
+      "end": 106.267,
+      "dur": 3.267,
+      "center": 104.633,
+      "role": "person_eating",
+      "subject": "ragazzo intinge gambero salsa",
+      "description": "Il ragazzo intinge un gambero fritto in una piccola coppetta di salsa bianca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di patate. In pratica in questo diner frigono tutto, ma almeno quello lo fanno"
+    },
+    {
+      "idx": 43,
+      "start": 106.267,
+      "end": 108.133,
+      "dur": 1.867,
+      "center": 107.2,
+      "role": "hands_gesture",
+      "subject": "mani aprono bustina ketchup",
+      "description": "Le mani del ragazzo stanno aprendo una bustina di ketchup sopra una patata al cartoccio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "anche abbastanza bene. Poi per provare i gambere"
+    },
+    {
+      "idx": 44,
+      "start": 108.133,
+      "end": 109.967,
+      "dur": 1.833,
+      "center": 109.05,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ostriche fritte",
+      "description": "Il ragazzo sta mangiando con un cucchiaio, con la bocca aperta e un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "appunto le ostri che vengono assaggiato la"
+    },
+    {
+      "idx": 45,
+      "start": 109.967,
+      "end": 112.4,
+      "dur": 2.433,
+      "center": 111.183,
+      "role": "person_eating",
+      "subject": "uomo mangia dessert",
+      "description": "Un uomo con un cappellino rosso e canotta bianca mangia un dessert con un cucchiaio, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "patata con la pannacida e quest 'altro tortino è arrivato"
+    },
+    {
+      "idx": 46,
+      "start": 112.4,
+      "end": 114.167,
+      "dur": 1.767,
+      "center": 113.283,
+      "role": "person_eating",
+      "subject": "uomo tiene gambero fritto",
+      "description": "L'uomo tiene in mano un gambero fritto, mostrando la sua forma allungata, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "il turno delle zampe di rana, che"
+    },
+    {
+      "idx": 47,
+      "start": 114.167,
+      "end": 117.5,
+      "dur": 3.333,
+      "center": 115.833,
+      "role": "person_eating",
+      "subject": "uomo mangia gambero fritto",
+      "description": "L'uomo sta per addentare un gambero fritto, con gli occhi chiusi e un'espressione di piacere anticipato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "per assurdo non avevo mai mangiato nemmeno in Italia. Beh queste sì che saranno veramente"
+    },
+    {
+      "idx": 48,
+      "start": 117.5,
+      "end": 119.767,
+      "dur": 2.267,
+      "center": 118.633,
+      "role": "person_eating",
+      "subject": "uomo mangia gambero fritto",
+      "description": "L'uomo sta masticando il gambero fritto, con un'espressione divertita e gli occhi socchiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di pollo, anche se le ossicino danno davvero"
+    },
+    {
+      "idx": 49,
+      "start": 119.767,
+      "end": 122.533,
+      "dur": 2.767,
+      "center": 121.15,
+      "role": "food_plated",
+      "subject": "involtino fritto zucchero",
+      "description": "Un involtino fritto dorato, cosparso di zucchero a velo, è servito su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "pastiglio. E per concludere chiaramente Chi la impai, ovviamente"
+    },
+    {
+      "idx": 50,
+      "start": 122.533,
+      "end": 124.633,
+      "dur": 2.1,
+      "center": 123.583,
+      "role": "person_eating",
+      "subject": "ragazzo mangia cucchiaio",
+      "description": "Il ragazzo con il cappellino rosso sta mangiando con un cucchiaio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "fritta anche lei, ma molto molto buona."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "coscia di rana fritta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo tiene in mano una coscia di rana fritta, con del testo sovrapposto che indica 'GIORNO CINQUE VIAGGIO IN FLORIDA'.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.433,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "uomo con alligatore",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo sorride mentre tiene in braccio un piccolo alligatore, con del testo sovrapposto che dice 'OGGI'.",
+      "shot_idx": 1,
+      "start": 2.433,
+      "end": 4.6,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo sorride mentre tiene un pezzo di cibo fritto, con un cestino di cibo fritto sul tavolo davanti a lui.",
+      "shot_idx": 2,
+      "start": 4.6,
+      "end": 6.833,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "uomo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo si scatta un selfie allo specchio in una palestra, con del testo sovrapposto che dice 'ALLENAMENTO'.",
+      "shot_idx": 3,
+      "start": 6.833,
+      "end": 8.833,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "attrezzatura da palestra",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una vista di varie attrezzature da palestra, inclusi pesi e macchine, con del testo sovrapposto che dice 'NELLE'.",
+      "shot_idx": 4,
+      "start": 8.833,
+      "end": 10.833,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "colazione completa",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una colazione abbondante con bagel, salsicce, uova e pomodorini.",
+      "shot_idx": 5,
+      "start": 10.833,
+      "end": 13.8,
+      "dur": 2.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia bagel",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo sorridente che addenta un bagel con crema.",
+      "shot_idx": 6,
+      "start": 13.8,
+      "end": 16.333,
+      "dur": 2.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "verdure fresche",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un piatto con fette di cetriolo e pomodorini ciliegino.",
+      "shot_idx": 7,
+      "start": 16.333,
+      "end": 19.167,
+      "dur": 2.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia muffin",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo che sta per mangiare un piccolo muffin.",
+      "shot_idx": 8,
+      "start": 19.167,
+      "end": 20.933,
+      "dur": 1.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "uomo sul pontile",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo con un cappellino rosso in piedi su un pontile con un paesaggio marino sullo sfondo.",
+      "shot_idx": 9,
+      "start": 20.933,
+      "end": 22.967,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "corsia frutta supermercato",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La vasta esposizione di frutta e verdura fresca in un supermercato.",
+      "shot_idx": 10,
+      "start": 22.967,
+      "end": 25.4,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cappellino rosso",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e una canotta bianca che guarda verso la telecamera.",
+      "shot_idx": 11,
+      "start": 25.4,
+      "end": 27.367,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "torte monoporzione confezionate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una varietà di torte monoporzione confezionate in contenitori di plastica.",
+      "shot_idx": 12,
+      "start": 27.367,
+      "end": 28.267,
+      "dur": 0.9
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "torte monoporzione colorate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Dettaglio ravvicinato di torte monoporzione, inclusa una torta arcobaleno.",
+      "shot_idx": 13,
+      "start": 28.267,
+      "end": 31.4,
+      "dur": 3.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "gamberetti cocktail confezionati",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Confezioni di gamberetti cocktail pronti all'uso, disposti in file.",
+      "shot_idx": 14,
+      "start": 31.4,
+      "end": 33.3,
+      "dur": 1.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "confezioni gamberi cocktail",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Le confezioni di gamberi sono disposte in modo ordinato sugli scaffali del supermercato.",
+      "shot_idx": 15,
+      "start": 33.3,
+      "end": 35.367,
+      "dur": 2.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo con pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo sorride tenendo in mano due scatole di pizza, una grande e una piccola.",
+      "shot_idx": 16,
+      "start": 35.367,
+      "end": 37.033,
+      "dur": 1.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La pizza è ricoperta di pepperoni e formaggio fuso, con una crosta ben cotta.",
+      "shot_idx": 17,
+      "start": 37.033,
+      "end": 38.367,
+      "dur": 1.333
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "due pizze",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Si vedono due pizze in scatole di cartone, una a sinistra e una parzialmente visibile a destra.",
+      "shot_idx": 18,
+      "start": 38.367,
+      "end": 39.5,
+      "dur": 1.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La pizza è condita con vari tipi di carne e formaggio, con una crosta dorata.",
+      "shot_idx": 19,
+      "start": 39.5,
+      "end": 40.467,
+      "dur": 0.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza con diversi tipi di carne e formaggio, in una scatola di cartone.",
+      "shot_idx": 20,
+      "start": 40.467,
+      "end": 43.333,
+      "dur": 2.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con verdure",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza con funghi, peperoni e cipolle, con una fetta mancante.",
+      "shot_idx": 21,
+      "start": 43.333,
+      "end": 44.4,
+      "dur": 1.067
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con cappellino rosso che addenta una fetta di pizza.",
+      "shot_idx": 22,
+      "start": 44.4,
+      "end": 46.767,
+      "dur": 2.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo guarda pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con cappellino rosso che tiene in mano una fetta di pizza e la osserva.",
+      "shot_idx": 23,
+      "start": 46.767,
+      "end": 50.233,
+      "dur": 3.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con cappellino rosso che addenta con entusiasmo una fetta di pizza.",
+      "shot_idx": 24,
+      "start": 50.233,
+      "end": 52.367,
+      "dur": 2.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "calzone appena sfornato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano un calzone dorato, con una pizza in scatola sul tavolo.",
+      "shot_idx": 25,
+      "start": 52.367,
+      "end": 54.167,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "uomo che beve",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo beve da una bottiglia di bevanda rossa, con la scritta 'VITAMIN' sovrapposta.",
+      "shot_idx": 26,
+      "start": 54.167,
+      "end": 56.733,
+      "dur": 2.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "drink_detail",
+      "soggetto": "bottiglia di bevanda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo tiene in mano una bottiglia di bevanda rossa con l'etichetta 'vitaminwater' e la scritta 'VERAMENTE' sovrapposta.",
+      "shot_idx": 27,
+      "start": 56.733,
+      "end": 58.367,
+      "dur": 1.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "uomo in paesaggio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo con un cappellino rosso si trova in un paesaggio verde con una casa sullo sfondo e la scritta 'EVERGLADES' sovrapposta.",
+      "shot_idx": 28,
+      "start": 58.367,
+      "end": 60.167,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "cartello di avviso",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un cartello giallo con la scritta 'BEWARE OF ALLIGATORS NO SWIMMING' è visibile vicino a uno specchio d'acqua scuro.",
+      "shot_idx": 29,
+      "start": 60.167,
+      "end": 66.2,
+      "dur": 6.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "molo sul lago",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un molo di legno si estende su un lago calmo con il cielo nuvoloso al tramonto.",
+      "shot_idx": 30,
+      "start": 66.2,
+      "end": 70.833,
+      "dur": 4.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "alligatore impagliato bancone",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un alligatore impagliato in posizione eretta è esposto su un bancone disordinato.",
+      "shot_idx": 31,
+      "start": 70.833,
+      "end": 73.033,
+      "dur": 2.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "facciata ristorante notte",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La facciata di un edificio rosa e giallo con finestre e porte illuminate di notte.",
+      "shot_idx": 32,
+      "start": 73.033,
+      "end": 75.0,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna 'GATOR' esterno",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un'insegna con la scritta 'GATOR' è visibile sopra l'ingresso di un edificio illuminato di notte.",
+      "shot_idx": 33,
+      "start": 75.0,
+      "end": 77.0,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "bocconcini fritti lime",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un cestino pieno di bocconcini fritti dorati con una fetta di lime e una salsa rossa.",
+      "shot_idx": 34,
+      "start": 77.0,
+      "end": 80.433,
+      "dur": 3.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo indica cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo con un cappellino rosso indica un cestino di cibo fritto su un tavolo con una mappa.",
+      "shot_idx": 35,
+      "start": 80.433,
+      "end": 82.6,
+      "dur": 2.167
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta portando un pezzo di cibo fritto alla bocca, con il cestino di cibo davanti a lui.",
+      "shot_idx": 36,
+      "start": 82.6,
+      "end": 85.867,
+      "dur": 3.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mostra gamberetto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene in mano un gamberetto fritto, mentre sullo sfondo si intravede un piatto pieno di fritti.",
+      "shot_idx": 37,
+      "start": 85.867,
+      "end": 88.4,
+      "dur": 2.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia gamberetto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Primo piano del viso dell'uomo mentre sta per mangiare un pezzo di cibo fritto.",
+      "shot_idx": 38,
+      "start": 88.4,
+      "end": 91.9,
+      "dur": 3.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto fritti e mais",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un piatto blu decorato con gamberetti fritti, altri fritti e una ciotola di mais.",
+      "shot_idx": 39,
+      "start": 91.9,
+      "end": 98.467,
+      "dur": 6.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia rane fritte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando con la mano, con un'espressione concentrata.",
+      "shot_idx": 40,
+      "start": 98.467,
+      "end": 100.5,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia gambero fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha un'espressione sorpresa mentre porta un gambero fritto alla bocca.",
+      "shot_idx": 41,
+      "start": 100.5,
+      "end": 103.0,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo intinge gambero salsa",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo intinge un gambero fritto in una piccola coppetta di salsa bianca.",
+      "shot_idx": 42,
+      "start": 103.0,
+      "end": 106.267,
+      "dur": 3.267
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mani aprono bustina ketchup",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Le mani del ragazzo stanno aprendo una bustina di ketchup sopra una patata al cartoccio.",
+      "shot_idx": 43,
+      "start": 106.267,
+      "end": 108.133,
+      "dur": 1.867
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ostriche fritte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando con un cucchiaio, con la bocca aperta e un'espressione divertita.",
+      "shot_idx": 44,
+      "start": 108.133,
+      "end": 109.967,
+      "dur": 1.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia dessert",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo con un cappellino rosso e canotta bianca mangia un dessert con un cucchiaio, con un'espressione sorpresa.",
+      "shot_idx": 45,
+      "start": 109.967,
+      "end": 112.4,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo tiene gambero fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene in mano un gambero fritto, mostrando la sua forma allungata, con un'espressione concentrata.",
+      "shot_idx": 46,
+      "start": 112.4,
+      "end": 114.167,
+      "dur": 1.767
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia gambero fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta per addentare un gambero fritto, con gli occhi chiusi e un'espressione di piacere anticipato.",
+      "shot_idx": 47,
+      "start": 114.167,
+      "end": 117.5,
+      "dur": 3.333
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia gambero fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta masticando il gambero fritto, con un'espressione divertita e gli occhi socchiusi.",
+      "shot_idx": 48,
+      "start": 117.5,
+      "end": 119.767,
+      "dur": 2.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "involtino fritto zucchero",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un involtino fritto dorato, cosparso di zucchero a velo, è servito su un piatto bianco.",
+      "shot_idx": 49,
+      "start": 119.767,
+      "end": 122.533,
+      "dur": 2.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia cucchiaio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso sta mangiando con un cucchiaio.",
+      "shot_idx": 50,
+      "start": 122.533,
+      "end": 124.633,
+      "dur": 2.1
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Giurino 5 del mio viaggio in Florida, la scoperta della vera cucina americana."
+    },
+    {
+      "start": 3.38,
+      "end": 5.04,
+      "text": "Oggi ragazzi proveremo l'alligatore."
+    },
+    {
+      "start": 5.2,
+      "end": 9.52,
+      "text": "Ma prima di ciò partiamo dalla mattina e in cui mi sono fatto un allenamento nella palestra dell'hotela Key West,"
+    },
+    {
+      "start": 9.7,
+      "end": 14.38,
+      "text": "nelle isole Keys, per poi fare un post workout con la mega colazione dell'hotel con uova beca, salsice,"
+    },
+    {
+      "start": 14.58,
+      "end": 20.48,
+      "text": "un po' di verdurine, un paio di bagel con marmellata e filadelfia poi un secondo piattino con altre verdurine e un muffin."
+    },
+    {
+      "start": 20.6,
+      "end": 23.62,
+      "text": "Dopodiché abbiamo iniziato il nostro viaggio per arrivare nel Everglades,"
+    },
+    {
+      "start": 23.74,
+      "end": 26.7,
+      "text": "una zona paludosa famosissima della Florida proprio per gli alligatori."
+    },
+    {
+      "start": 26.7,
+      "end": 30.12,
+      "text": "Ma prima di ciò ha piccola tappa in un supermercato americano che è sempre incredibile,"
+    },
+    {
+      "start": 30.2,
+      "end": 35.98,
+      "text": "dove a oltre a queste torte americanissime, ha trovato questo famoso set di gamberi da potervi gustare così impurezza."
+    },
+    {
+      "start": 36.1,
+      "end": 40.42,
+      "text": "Poi invece per pronto ci siamo formati da Domino's Pizza, in cui abbiamo provato ovviamente la loro peperoni,"
+    },
+    {
+      "start": 40.54,
+      "end": 43.7,
+      "text": "la loro mizza e quest'altra con gli ingredienti praticamente del Philly C Steak."
+    },
+    {
+      "start": 43.8,
+      "end": 48.46,
+      "text": "Allora la pizza di Domino sta sempre particolare, è di gran lunga, la più unta, ripetere catene di pizza americana."
+    },
+    {
+      "start": 48.62,
+      "end": 51.22,
+      "text": "Quanto cavole buona la mizza oppure la peperoni."
+    },
+    {
+      "start": 51.28,
+      "end": 53.4,
+      "text": "Ecco quella con il Philly C Steak era evitabile invece."
+    },
+    {
+      "start": 53.46,
+      "end": 55.86,
+      "text": "Dopodiché ci siamo rimesti in macchina, ho provato la Vitamine Water."
+    },
+    {
+      "start": 55.86,
+      "end": 58.08,
+      "text": "Qui in America è bella famosa ma fa veramente schifo."
+    },
+    {
+      "start": 58.14,
+      "end": 62.34,
+      "text": "In ogni caso siamo arrivati ad Everglades City, un posto paludoso, strapino di zanzare,"
+    },
+    {
+      "start": 62.44,
+      "end": 66.36,
+      "text": "serpenti verenosi, squali, cocco drilli e come potete notare gli alligatori."
+    },
+    {
+      "start": 66.58,
+      "end": 70.1,
+      "text": "Un posto davvero invivibile e di fatti in giro per la città non c'era assolutamente nessuno."
+    },
+    {
+      "start": 70.2,
+      "end": 73.28,
+      "text": "Fortunatamente percino abbiamo trovato questo diner molto strano,"
+    },
+    {
+      "start": 73.36,
+      "end": 77.08,
+      "text": "dove come piatto forte avevano l'alligatore e essendo qui in America proprio per provare"
+    },
+    {
+      "start": 77.08,
+      "end": 80.44,
+      "text": "il cibo tipico di questi luoghi, ero troppo curioso di sapere di cosa sarà l'alligato."
+    },
+    {
+      "start": 80.54,
+      "end": 81.06,
+      "text": "I like chicken!"
+    },
+    {
+      "start": 82.6,
+      "end": 85.88,
+      "text": "Come antipasto praticamente prezzo questa sorta di nuggets di alligatore,"
+    },
+    {
+      "start": 85.98,
+      "end": 90.46,
+      "text": "molto corcanti con la consistenza del pollo ma con un sapore esattamente a metà tra il pollo e"
+    },
+    {
+      "start": 90.46,
+      "end": 94.58,
+      "text": "del pesce. Insomma si sembra chicken ma si sente che c'è qualcosa di diverso e effettivamente"
+    },
+    {
+      "start": 94.58,
+      "end": 98.26,
+      "text": "ricorda il pesce. Dopodiché come piatto principale ho preso questo mix di gambere"
+    },
+    {
+      "start": 98.26,
+      "end": 101.66,
+      "text": "i ostri che pesce e rane fritte con un contorno di patata al cartoccio,"
+    },
+    {
+      "start": 101.74,
+      "end": 105.26,
+      "text": "mais e una sorta di tortino di patate. In pratica in questo diner frigono tutto,"
+    },
+    {
+      "start": 105.46,
+      "end": 107.04,
+      "text": "ma almeno quello lo fanno anche abbastanza bene."
+    },
+    {
+      "start": 107.04,
+      "end": 111.0,
+      "text": "Poi per provare i gambere appunto le ostri che vengono assaggiato la patata con la pannacida"
+    },
+    {
+      "start": 111.0,
+      "end": 113.96,
+      "text": "e quest'altro tortino è arrivato il turno delle zampe di rana,"
+    },
+    {
+      "start": 114.04,
+      "end": 116.2,
+      "text": "che per assurdo non avevo mai mangiato nemmeno in Italia."
+    },
+    {
+      "start": 116.38,
+      "end": 120.16,
+      "text": "Beh queste sì che saranno veramente di pollo, anche se le ossicino danno davvero pastiglio."
+    },
+    {
+      "start": 120.22,
+      "end": 124.42,
+      "text": "E per concludere chiaramente Chi la impai, ovviamente fritta anche lei, ma molto molto buona."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "word": "Giurino"
+    },
+    {
+      "start": 0.36,
+      "end": 0.56,
+      "word": "5"
+    },
+    {
+      "start": 0.56,
+      "end": 0.74,
+      "word": "del"
+    },
+    {
+      "start": 0.74,
+      "end": 0.84,
+      "word": "mio"
+    },
+    {
+      "start": 0.84,
+      "end": 1.04,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.04,
+      "end": 1.18,
+      "word": "in"
+    },
+    {
+      "start": 1.18,
+      "end": 1.36,
+      "word": "Florida,"
+    },
+    {
+      "start": 1.6,
+      "end": 1.64,
+      "word": "la"
+    },
+    {
+      "start": 1.64,
+      "end": 1.96,
+      "word": "scoperta"
+    },
+    {
+      "start": 1.96,
+      "end": 2.22,
+      "word": "della"
+    },
+    {
+      "start": 2.22,
+      "end": 2.5,
+      "word": "vera"
+    },
+    {
+      "start": 2.5,
+      "end": 2.8,
+      "word": "cucina"
+    },
+    {
+      "start": 2.8,
+      "end": 3.3,
+      "word": "americana."
+    },
+    {
+      "start": 3.38,
+      "end": 3.52,
+      "word": "Oggi"
+    },
+    {
+      "start": 3.52,
+      "end": 3.8,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.8,
+      "end": 4.3,
+      "word": "proveremo"
+    },
+    {
+      "start": 4.3,
+      "end": 4.48,
+      "word": "l"
+    },
+    {
+      "start": 4.48,
+      "end": 5.04,
+      "word": "'alligatore."
+    },
+    {
+      "start": 5.2,
+      "end": 5.24,
+      "word": "Ma"
+    },
+    {
+      "start": 5.24,
+      "end": 5.36,
+      "word": "prima"
+    },
+    {
+      "start": 5.36,
+      "end": 5.52,
+      "word": "di"
+    },
+    {
+      "start": 5.52,
+      "end": 5.68,
+      "word": "ciò"
+    },
+    {
+      "start": 5.68,
+      "end": 6.0,
+      "word": "partiamo"
+    },
+    {
+      "start": 6.0,
+      "end": 6.14,
+      "word": "dalla"
+    },
+    {
+      "start": 6.14,
+      "end": 6.44,
+      "word": "mattina"
+    },
+    {
+      "start": 6.44,
+      "end": 6.6,
+      "word": "e"
+    },
+    {
+      "start": 6.6,
+      "end": 6.68,
+      "word": "in"
+    },
+    {
+      "start": 6.68,
+      "end": 6.78,
+      "word": "cui"
+    },
+    {
+      "start": 6.78,
+      "end": 6.84,
+      "word": "mi"
+    },
+    {
+      "start": 6.84,
+      "end": 6.94,
+      "word": "sono"
+    },
+    {
+      "start": 6.94,
+      "end": 7.14,
+      "word": "fatto"
+    },
+    {
+      "start": 7.14,
+      "end": 7.4,
+      "word": "un"
+    },
+    {
+      "start": 7.4,
+      "end": 7.88,
+      "word": "allenamento"
+    },
+    {
+      "start": 7.88,
+      "end": 8.12,
+      "word": "nella"
+    },
+    {
+      "start": 8.12,
+      "end": 8.4,
+      "word": "palestra"
+    },
+    {
+      "start": 8.4,
+      "end": 8.6,
+      "word": "dell"
+    },
+    {
+      "start": 8.6,
+      "end": 8.9,
+      "word": "'hotela"
+    },
+    {
+      "start": 8.9,
+      "end": 9.16,
+      "word": "Key"
+    },
+    {
+      "start": 9.16,
+      "end": 9.52,
+      "word": "West,"
+    },
+    {
+      "start": 9.7,
+      "end": 9.78,
+      "word": "nelle"
+    },
+    {
+      "start": 9.78,
+      "end": 10.08,
+      "word": "isole"
+    },
+    {
+      "start": 10.08,
+      "end": 10.44,
+      "word": "Keys,"
+    },
+    {
+      "start": 10.68,
+      "end": 10.82,
+      "word": "per"
+    },
+    {
+      "start": 10.82,
+      "end": 10.94,
+      "word": "poi"
+    },
+    {
+      "start": 10.94,
+      "end": 11.1,
+      "word": "fare"
+    },
+    {
+      "start": 11.1,
+      "end": 11.2,
+      "word": "un"
+    },
+    {
+      "start": 11.2,
+      "end": 11.28,
+      "word": "post"
+    },
+    {
+      "start": 11.28,
+      "end": 11.64,
+      "word": "workout"
+    },
+    {
+      "start": 11.64,
+      "end": 11.84,
+      "word": "con"
+    },
+    {
+      "start": 11.84,
+      "end": 11.96,
+      "word": "la"
+    },
+    {
+      "start": 11.96,
+      "end": 12.14,
+      "word": "mega"
+    },
+    {
+      "start": 12.14,
+      "end": 12.58,
+      "word": "colazione"
+    },
+    {
+      "start": 12.58,
+      "end": 12.76,
+      "word": "dell"
+    },
+    {
+      "start": 12.76,
+      "end": 13.02,
+      "word": "'hotel"
+    },
+    {
+      "start": 13.02,
+      "end": 13.2,
+      "word": "con"
+    },
+    {
+      "start": 13.2,
+      "end": 13.54,
+      "word": "uova"
+    },
+    {
+      "start": 13.54,
+      "end": 13.86,
+      "word": "beca,"
+    },
+    {
+      "start": 13.98,
+      "end": 14.38,
+      "word": "salsice,"
+    },
+    {
+      "start": 14.58,
+      "end": 14.68,
+      "word": "un"
+    },
+    {
+      "start": 14.68,
+      "end": 14.78,
+      "word": "po'"
+    },
+    {
+      "start": 14.88,
+      "end": 14.9,
+      "word": "di"
+    },
+    {
+      "start": 14.9,
+      "end": 15.4,
+      "word": "verdurine,"
+    },
+    {
+      "start": 15.48,
+      "end": 15.56,
+      "word": "un"
+    },
+    {
+      "start": 15.56,
+      "end": 15.76,
+      "word": "paio"
+    },
+    {
+      "start": 15.76,
+      "end": 15.9,
+      "word": "di"
+    },
+    {
+      "start": 15.9,
+      "end": 16.28,
+      "word": "bagel"
+    },
+    {
+      "start": 16.28,
+      "end": 16.5,
+      "word": "con"
+    },
+    {
+      "start": 16.5,
+      "end": 17.28,
+      "word": "marmellata"
+    },
+    {
+      "start": 17.28,
+      "end": 17.46,
+      "word": "e"
+    },
+    {
+      "start": 17.46,
+      "end": 17.98,
+      "word": "filadelfia"
+    },
+    {
+      "start": 17.98,
+      "end": 18.1,
+      "word": "poi"
+    },
+    {
+      "start": 18.1,
+      "end": 18.18,
+      "word": "un"
+    },
+    {
+      "start": 18.18,
+      "end": 18.4,
+      "word": "secondo"
+    },
+    {
+      "start": 18.4,
+      "end": 18.9,
+      "word": "piattino"
+    },
+    {
+      "start": 18.9,
+      "end": 19.1,
+      "word": "con"
+    },
+    {
+      "start": 19.1,
+      "end": 19.28,
+      "word": "altre"
+    },
+    {
+      "start": 19.28,
+      "end": 19.9,
+      "word": "verdurine"
+    },
+    {
+      "start": 19.9,
+      "end": 20.12,
+      "word": "e"
+    },
+    {
+      "start": 20.12,
+      "end": 20.24,
+      "word": "un"
+    },
+    {
+      "start": 20.24,
+      "end": 20.48,
+      "word": "muffin."
+    },
+    {
+      "start": 20.6,
+      "end": 20.96,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 20.96,
+      "end": 21.16,
+      "word": "abbiamo"
+    },
+    {
+      "start": 21.16,
+      "end": 21.52,
+      "word": "iniziato"
+    },
+    {
+      "start": 21.52,
+      "end": 21.62,
+      "word": "il"
+    },
+    {
+      "start": 21.62,
+      "end": 21.76,
+      "word": "nostro"
+    },
+    {
+      "start": 21.76,
+      "end": 22.14,
+      "word": "viaggio"
+    },
+    {
+      "start": 22.14,
+      "end": 22.34,
+      "word": "per"
+    },
+    {
+      "start": 22.34,
+      "end": 22.76,
+      "word": "arrivare"
+    },
+    {
+      "start": 22.76,
+      "end": 22.98,
+      "word": "nel"
+    },
+    {
+      "start": 22.98,
+      "end": 23.62,
+      "word": "Everglades,"
+    },
+    {
+      "start": 23.74,
+      "end": 23.84,
+      "word": "una"
+    },
+    {
+      "start": 23.84,
+      "end": 24.0,
+      "word": "zona"
+    },
+    {
+      "start": 24.0,
+      "end": 24.54,
+      "word": "paludosa"
+    },
+    {
+      "start": 24.54,
+      "end": 25.08,
+      "word": "famosissima"
+    },
+    {
+      "start": 25.08,
+      "end": 25.26,
+      "word": "della"
+    },
+    {
+      "start": 25.26,
+      "end": 25.5,
+      "word": "Florida"
+    },
+    {
+      "start": 25.5,
+      "end": 26.0,
+      "word": "proprio"
+    },
+    {
+      "start": 26.0,
+      "end": 26.24,
+      "word": "per"
+    },
+    {
+      "start": 26.24,
+      "end": 26.34,
+      "word": "gli"
+    },
+    {
+      "start": 26.34,
+      "end": 26.7,
+      "word": "alligatori."
+    },
+    {
+      "start": 26.7,
+      "end": 26.94,
+      "word": "Ma"
+    },
+    {
+      "start": 26.94,
+      "end": 27.1,
+      "word": "prima"
+    },
+    {
+      "start": 27.1,
+      "end": 27.22,
+      "word": "di"
+    },
+    {
+      "start": 27.22,
+      "end": 27.38,
+      "word": "ciò"
+    },
+    {
+      "start": 27.38,
+      "end": 27.46,
+      "word": "ha"
+    },
+    {
+      "start": 27.46,
+      "end": 27.7,
+      "word": "piccola"
+    },
+    {
+      "start": 27.7,
+      "end": 27.9,
+      "word": "tappa"
+    },
+    {
+      "start": 27.9,
+      "end": 28.06,
+      "word": "in"
+    },
+    {
+      "start": 28.06,
+      "end": 28.12,
+      "word": "un"
+    },
+    {
+      "start": 28.12,
+      "end": 28.6,
+      "word": "supermercato"
+    },
+    {
+      "start": 28.6,
+      "end": 29.08,
+      "word": "americano"
+    },
+    {
+      "start": 29.08,
+      "end": 29.28,
+      "word": "che"
+    },
+    {
+      "start": 29.28,
+      "end": 29.36,
+      "word": "è"
+    },
+    {
+      "start": 29.36,
+      "end": 29.54,
+      "word": "sempre"
+    },
+    {
+      "start": 29.54,
+      "end": 30.12,
+      "word": "incredibile,"
+    },
+    {
+      "start": 30.2,
+      "end": 30.36,
+      "word": "dove"
+    },
+    {
+      "start": 30.36,
+      "end": 30.54,
+      "word": "a"
+    },
+    {
+      "start": 30.54,
+      "end": 30.76,
+      "word": "oltre"
+    },
+    {
+      "start": 30.76,
+      "end": 30.84,
+      "word": "a"
+    },
+    {
+      "start": 30.84,
+      "end": 31.0,
+      "word": "queste"
+    },
+    {
+      "start": 31.0,
+      "end": 31.38,
+      "word": "torte"
+    },
+    {
+      "start": 31.38,
+      "end": 32.24,
+      "word": "americanissime,"
+    },
+    {
+      "start": 32.4,
+      "end": 32.46,
+      "word": "ha"
+    },
+    {
+      "start": 32.46,
+      "end": 32.62,
+      "word": "trovato"
+    },
+    {
+      "start": 32.62,
+      "end": 32.88,
+      "word": "questo"
+    },
+    {
+      "start": 32.88,
+      "end": 33.2,
+      "word": "famoso"
+    },
+    {
+      "start": 33.2,
+      "end": 33.7,
+      "word": "set"
+    },
+    {
+      "start": 33.7,
+      "end": 33.98,
+      "word": "di"
+    },
+    {
+      "start": 33.98,
+      "end": 34.46,
+      "word": "gamberi"
+    },
+    {
+      "start": 34.46,
+      "end": 34.54,
+      "word": "da"
+    },
+    {
+      "start": 34.54,
+      "end": 34.84,
+      "word": "potervi"
+    },
+    {
+      "start": 34.84,
+      "end": 35.22,
+      "word": "gustare"
+    },
+    {
+      "start": 35.22,
+      "end": 35.4,
+      "word": "così"
+    },
+    {
+      "start": 35.4,
+      "end": 35.98,
+      "word": "impurezza."
+    },
+    {
+      "start": 36.1,
+      "end": 36.16,
+      "word": "Poi"
+    },
+    {
+      "start": 36.16,
+      "end": 36.38,
+      "word": "invece"
+    },
+    {
+      "start": 36.38,
+      "end": 36.54,
+      "word": "per"
+    },
+    {
+      "start": 36.54,
+      "end": 36.76,
+      "word": "pronto"
+    },
+    {
+      "start": 36.76,
+      "end": 36.94,
+      "word": "ci"
+    },
+    {
+      "start": 36.94,
+      "end": 37.1,
+      "word": "siamo"
+    },
+    {
+      "start": 37.1,
+      "end": 37.46,
+      "word": "formati"
+    },
+    {
+      "start": 37.46,
+      "end": 37.62,
+      "word": "da"
+    },
+    {
+      "start": 37.62,
+      "end": 38.14,
+      "word": "Domino's"
+    },
+    {
+      "start": 38.14,
+      "end": 38.42,
+      "word": "Pizza,"
+    },
+    {
+      "start": 38.62,
+      "end": 38.72,
+      "word": "in"
+    },
+    {
+      "start": 38.72,
+      "end": 38.8,
+      "word": "cui"
+    },
+    {
+      "start": 38.8,
+      "end": 38.98,
+      "word": "abbiamo"
+    },
+    {
+      "start": 38.98,
+      "end": 39.28,
+      "word": "provato"
+    },
+    {
+      "start": 39.28,
+      "end": 39.52,
+      "word": "ovviamente"
+    },
+    {
+      "start": 39.52,
+      "end": 39.76,
+      "word": "la"
+    },
+    {
+      "start": 39.76,
+      "end": 39.9,
+      "word": "loro"
+    },
+    {
+      "start": 39.9,
+      "end": 40.42,
+      "word": "peperoni,"
+    },
+    {
+      "start": 40.54,
+      "end": 40.62,
+      "word": "la"
+    },
+    {
+      "start": 40.62,
+      "end": 40.82,
+      "word": "loro"
+    },
+    {
+      "start": 40.82,
+      "end": 41.26,
+      "word": "mizza"
+    },
+    {
+      "start": 41.26,
+      "end": 41.46,
+      "word": "e"
+    },
+    {
+      "start": 41.46,
+      "end": 41.6,
+      "word": "quest"
+    },
+    {
+      "start": 41.6,
+      "end": 41.8,
+      "word": "'altra"
+    },
+    {
+      "start": 41.8,
+      "end": 42.0,
+      "word": "con"
+    },
+    {
+      "start": 42.0,
+      "end": 42.1,
+      "word": "gli"
+    },
+    {
+      "start": 42.1,
+      "end": 42.42,
+      "word": "ingredienti"
+    },
+    {
+      "start": 42.42,
+      "end": 42.68,
+      "word": "praticamente"
+    },
+    {
+      "start": 42.68,
+      "end": 43.0,
+      "word": "del"
+    },
+    {
+      "start": 43.0,
+      "end": 43.16,
+      "word": "Philly"
+    },
+    {
+      "start": 43.16,
+      "end": 43.32,
+      "word": "C"
+    },
+    {
+      "start": 43.32,
+      "end": 43.7,
+      "word": "Steak."
+    },
+    {
+      "start": 43.8,
+      "end": 43.98,
+      "word": "Allora"
+    },
+    {
+      "start": 43.98,
+      "end": 44.1,
+      "word": "la"
+    },
+    {
+      "start": 44.1,
+      "end": 44.24,
+      "word": "pizza"
+    },
+    {
+      "start": 44.24,
+      "end": 44.36,
+      "word": "di"
+    },
+    {
+      "start": 44.36,
+      "end": 44.58,
+      "word": "Domino"
+    },
+    {
+      "start": 44.58,
+      "end": 44.7,
+      "word": "sta"
+    },
+    {
+      "start": 44.7,
+      "end": 44.88,
+      "word": "sempre"
+    },
+    {
+      "start": 44.88,
+      "end": 45.46,
+      "word": "particolare,"
+    },
+    {
+      "start": 45.56,
+      "end": 45.66,
+      "word": "è"
+    },
+    {
+      "start": 45.66,
+      "end": 45.78,
+      "word": "di"
+    },
+    {
+      "start": 45.78,
+      "end": 45.92,
+      "word": "gran"
+    },
+    {
+      "start": 45.92,
+      "end": 46.32,
+      "word": "lunga,"
+    },
+    {
+      "start": 46.38,
+      "end": 46.46,
+      "word": "la"
+    },
+    {
+      "start": 46.46,
+      "end": 46.62,
+      "word": "più"
+    },
+    {
+      "start": 46.62,
+      "end": 46.86,
+      "word": "unta,"
+    },
+    {
+      "start": 46.88,
+      "end": 47.26,
+      "word": "ripetere"
+    },
+    {
+      "start": 47.26,
+      "end": 47.6,
+      "word": "catene"
+    },
+    {
+      "start": 47.6,
+      "end": 47.76,
+      "word": "di"
+    },
+    {
+      "start": 47.76,
+      "end": 47.98,
+      "word": "pizza"
+    },
+    {
+      "start": 47.98,
+      "end": 48.46,
+      "word": "americana."
+    },
+    {
+      "start": 48.62,
+      "end": 48.84,
+      "word": "Quanto"
+    },
+    {
+      "start": 48.84,
+      "end": 49.24,
+      "word": "cavole"
+    },
+    {
+      "start": 49.24,
+      "end": 49.58,
+      "word": "buona"
+    },
+    {
+      "start": 49.58,
+      "end": 49.72,
+      "word": "la"
+    },
+    {
+      "start": 49.72,
+      "end": 50.18,
+      "word": "mizza"
+    },
+    {
+      "start": 50.18,
+      "end": 50.56,
+      "word": "oppure"
+    },
+    {
+      "start": 50.56,
+      "end": 50.7,
+      "word": "la"
+    },
+    {
+      "start": 50.7,
+      "end": 51.22,
+      "word": "peperoni."
+    },
+    {
+      "start": 51.28,
+      "end": 51.44,
+      "word": "Ecco"
+    },
+    {
+      "start": 51.44,
+      "end": 51.58,
+      "word": "quella"
+    },
+    {
+      "start": 51.58,
+      "end": 51.68,
+      "word": "con"
+    },
+    {
+      "start": 51.68,
+      "end": 51.78,
+      "word": "il"
+    },
+    {
+      "start": 51.78,
+      "end": 51.9,
+      "word": "Philly"
+    },
+    {
+      "start": 51.9,
+      "end": 52.06,
+      "word": "C"
+    },
+    {
+      "start": 52.06,
+      "end": 52.46,
+      "word": "Steak"
+    },
+    {
+      "start": 52.46,
+      "end": 52.72,
+      "word": "era"
+    },
+    {
+      "start": 52.72,
+      "end": 53.2,
+      "word": "evitabile"
+    },
+    {
+      "start": 53.2,
+      "end": 53.4,
+      "word": "invece."
+    },
+    {
+      "start": 53.46,
+      "end": 53.68,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 53.68,
+      "end": 53.84,
+      "word": "ci"
+    },
+    {
+      "start": 53.84,
+      "end": 53.98,
+      "word": "siamo"
+    },
+    {
+      "start": 53.98,
+      "end": 54.3,
+      "word": "rimesti"
+    },
+    {
+      "start": 54.3,
+      "end": 54.48,
+      "word": "in"
+    },
+    {
+      "start": 54.48,
+      "end": 54.74,
+      "word": "macchina,"
+    },
+    {
+      "start": 54.84,
+      "end": 54.84,
+      "word": "ho"
+    },
+    {
+      "start": 54.84,
+      "end": 55.06,
+      "word": "provato"
+    },
+    {
+      "start": 55.06,
+      "end": 55.18,
+      "word": "la"
+    },
+    {
+      "start": 55.18,
+      "end": 55.52,
+      "word": "Vitamine"
+    },
+    {
+      "start": 55.52,
+      "end": 55.86,
+      "word": "Water."
+    },
+    {
+      "start": 55.86,
+      "end": 56.1,
+      "word": "Qui"
+    },
+    {
+      "start": 56.1,
+      "end": 56.22,
+      "word": "in"
+    },
+    {
+      "start": 56.22,
+      "end": 56.32,
+      "word": "America"
+    },
+    {
+      "start": 56.32,
+      "end": 56.56,
+      "word": "è"
+    },
+    {
+      "start": 56.56,
+      "end": 56.7,
+      "word": "bella"
+    },
+    {
+      "start": 56.7,
+      "end": 57.06,
+      "word": "famosa"
+    },
+    {
+      "start": 57.06,
+      "end": 57.22,
+      "word": "ma"
+    },
+    {
+      "start": 57.22,
+      "end": 57.36,
+      "word": "fa"
+    },
+    {
+      "start": 57.36,
+      "end": 57.66,
+      "word": "veramente"
+    },
+    {
+      "start": 57.66,
+      "end": 58.08,
+      "word": "schifo."
+    },
+    {
+      "start": 58.14,
+      "end": 58.24,
+      "word": "In"
+    },
+    {
+      "start": 58.24,
+      "end": 58.4,
+      "word": "ogni"
+    },
+    {
+      "start": 58.4,
+      "end": 58.62,
+      "word": "caso"
+    },
+    {
+      "start": 58.62,
+      "end": 58.8,
+      "word": "siamo"
+    },
+    {
+      "start": 58.8,
+      "end": 59.08,
+      "word": "arrivati"
+    },
+    {
+      "start": 59.08,
+      "end": 59.22,
+      "word": "ad"
+    },
+    {
+      "start": 59.22,
+      "end": 59.72,
+      "word": "Everglades"
+    },
+    {
+      "start": 59.72,
+      "end": 60.06,
+      "word": "City,"
+    },
+    {
+      "start": 60.2,
+      "end": 60.26,
+      "word": "un"
+    },
+    {
+      "start": 60.26,
+      "end": 60.54,
+      "word": "posto"
+    },
+    {
+      "start": 60.54,
+      "end": 61.02,
+      "word": "paludoso,"
+    },
+    {
+      "start": 61.16,
+      "end": 61.64,
+      "word": "strapino"
+    },
+    {
+      "start": 61.64,
+      "end": 61.8,
+      "word": "di"
+    },
+    {
+      "start": 61.8,
+      "end": 62.34,
+      "word": "zanzare,"
+    },
+    {
+      "start": 62.44,
+      "end": 62.82,
+      "word": "serpenti"
+    },
+    {
+      "start": 62.82,
+      "end": 63.28,
+      "word": "verenosi,"
+    },
+    {
+      "start": 63.4,
+      "end": 63.78,
+      "word": "squali,"
+    },
+    {
+      "start": 64.02,
+      "end": 64.26,
+      "word": "cocco"
+    },
+    {
+      "start": 64.26,
+      "end": 64.76,
+      "word": "drilli"
+    },
+    {
+      "start": 64.76,
+      "end": 64.82,
+      "word": "e"
+    },
+    {
+      "start": 64.82,
+      "end": 65.0,
+      "word": "come"
+    },
+    {
+      "start": 65.0,
+      "end": 65.32,
+      "word": "potete"
+    },
+    {
+      "start": 65.32,
+      "end": 65.68,
+      "word": "notare"
+    },
+    {
+      "start": 65.68,
+      "end": 65.92,
+      "word": "gli"
+    },
+    {
+      "start": 65.92,
+      "end": 66.36,
+      "word": "alligatori."
+    },
+    {
+      "start": 66.58,
+      "end": 66.58,
+      "word": "Un"
+    },
+    {
+      "start": 66.58,
+      "end": 66.86,
+      "word": "posto"
+    },
+    {
+      "start": 66.86,
+      "end": 67.14,
+      "word": "davvero"
+    },
+    {
+      "start": 67.14,
+      "end": 67.7,
+      "word": "invivibile"
+    },
+    {
+      "start": 67.7,
+      "end": 67.86,
+      "word": "e"
+    },
+    {
+      "start": 67.86,
+      "end": 67.92,
+      "word": "di"
+    },
+    {
+      "start": 67.92,
+      "end": 68.12,
+      "word": "fatti"
+    },
+    {
+      "start": 68.12,
+      "end": 68.24,
+      "word": "in"
+    },
+    {
+      "start": 68.24,
+      "end": 68.4,
+      "word": "giro"
+    },
+    {
+      "start": 68.4,
+      "end": 68.52,
+      "word": "per"
+    },
+    {
+      "start": 68.52,
+      "end": 68.6,
+      "word": "la"
+    },
+    {
+      "start": 68.6,
+      "end": 68.84,
+      "word": "città"
+    },
+    {
+      "start": 68.84,
+      "end": 68.98,
+      "word": "non"
+    },
+    {
+      "start": 68.98,
+      "end": 69.08,
+      "word": "c"
+    },
+    {
+      "start": 69.08,
+      "end": 69.12,
+      "word": "'era"
+    },
+    {
+      "start": 69.12,
+      "end": 69.6,
+      "word": "assolutamente"
+    },
+    {
+      "start": 69.6,
+      "end": 70.1,
+      "word": "nessuno."
+    },
+    {
+      "start": 70.2,
+      "end": 70.62,
+      "word": "Fortunatamente"
+    },
+    {
+      "start": 70.62,
+      "end": 71.06,
+      "word": "percino"
+    },
+    {
+      "start": 71.06,
+      "end": 71.18,
+      "word": "abbiamo"
+    },
+    {
+      "start": 71.18,
+      "end": 71.48,
+      "word": "trovato"
+    },
+    {
+      "start": 71.48,
+      "end": 71.82,
+      "word": "questo"
+    },
+    {
+      "start": 71.82,
+      "end": 72.3,
+      "word": "diner"
+    },
+    {
+      "start": 72.3,
+      "end": 72.62,
+      "word": "molto"
+    },
+    {
+      "start": 72.62,
+      "end": 73.28,
+      "word": "strano,"
+    },
+    {
+      "start": 73.36,
+      "end": 73.5,
+      "word": "dove"
+    },
+    {
+      "start": 73.5,
+      "end": 73.76,
+      "word": "come"
+    },
+    {
+      "start": 73.76,
+      "end": 74.06,
+      "word": "piatto"
+    },
+    {
+      "start": 74.06,
+      "end": 74.36,
+      "word": "forte"
+    },
+    {
+      "start": 74.36,
+      "end": 74.82,
+      "word": "avevano"
+    },
+    {
+      "start": 74.82,
+      "end": 75.0,
+      "word": "l"
+    },
+    {
+      "start": 75.0,
+      "end": 75.5,
+      "word": "'alligatore"
+    },
+    {
+      "start": 75.5,
+      "end": 75.64,
+      "word": "e"
+    },
+    {
+      "start": 75.64,
+      "end": 75.88,
+      "word": "essendo"
+    },
+    {
+      "start": 75.88,
+      "end": 76.02,
+      "word": "qui"
+    },
+    {
+      "start": 76.02,
+      "end": 76.1,
+      "word": "in"
+    },
+    {
+      "start": 76.1,
+      "end": 76.3,
+      "word": "America"
+    },
+    {
+      "start": 76.3,
+      "end": 76.56,
+      "word": "proprio"
+    },
+    {
+      "start": 76.56,
+      "end": 76.76,
+      "word": "per"
+    },
+    {
+      "start": 76.76,
+      "end": 77.08,
+      "word": "provare"
+    },
+    {
+      "start": 77.08,
+      "end": 77.22,
+      "word": "il"
+    },
+    {
+      "start": 77.22,
+      "end": 77.42,
+      "word": "cibo"
+    },
+    {
+      "start": 77.42,
+      "end": 77.76,
+      "word": "tipico"
+    },
+    {
+      "start": 77.76,
+      "end": 77.86,
+      "word": "di"
+    },
+    {
+      "start": 77.86,
+      "end": 78.08,
+      "word": "questi"
+    },
+    {
+      "start": 78.08,
+      "end": 78.46,
+      "word": "luoghi,"
+    },
+    {
+      "start": 78.52,
+      "end": 78.66,
+      "word": "ero"
+    },
+    {
+      "start": 78.66,
+      "end": 78.94,
+      "word": "troppo"
+    },
+    {
+      "start": 78.94,
+      "end": 79.26,
+      "word": "curioso"
+    },
+    {
+      "start": 79.26,
+      "end": 79.38,
+      "word": "di"
+    },
+    {
+      "start": 79.38,
+      "end": 79.64,
+      "word": "sapere"
+    },
+    {
+      "start": 79.64,
+      "end": 79.82,
+      "word": "di"
+    },
+    {
+      "start": 79.82,
+      "end": 79.98,
+      "word": "cosa"
+    },
+    {
+      "start": 79.98,
+      "end": 80.22,
+      "word": "sarà"
+    },
+    {
+      "start": 80.22,
+      "end": 80.38,
+      "word": "l"
+    },
+    {
+      "start": 80.38,
+      "end": 80.44,
+      "word": "'alligato."
+    },
+    {
+      "start": 80.54,
+      "end": 80.68,
+      "word": "I"
+    },
+    {
+      "start": 80.68,
+      "end": 80.8,
+      "word": "like"
+    },
+    {
+      "start": 80.8,
+      "end": 81.06,
+      "word": "chicken!"
+    },
+    {
+      "start": 82.6,
+      "end": 83.04,
+      "word": "Come"
+    },
+    {
+      "start": 83.04,
+      "end": 83.42,
+      "word": "antipasto"
+    },
+    {
+      "start": 83.42,
+      "end": 83.64,
+      "word": "praticamente"
+    },
+    {
+      "start": 83.64,
+      "end": 84.12,
+      "word": "prezzo"
+    },
+    {
+      "start": 84.12,
+      "end": 84.34,
+      "word": "questa"
+    },
+    {
+      "start": 84.34,
+      "end": 84.66,
+      "word": "sorta"
+    },
+    {
+      "start": 84.66,
+      "end": 84.86,
+      "word": "di"
+    },
+    {
+      "start": 84.86,
+      "end": 85.2,
+      "word": "nuggets"
+    },
+    {
+      "start": 85.2,
+      "end": 85.48,
+      "word": "di"
+    },
+    {
+      "start": 85.48,
+      "end": 85.88,
+      "word": "alligatore,"
+    },
+    {
+      "start": 85.98,
+      "end": 86.28,
+      "word": "molto"
+    },
+    {
+      "start": 86.28,
+      "end": 86.74,
+      "word": "corcanti"
+    },
+    {
+      "start": 86.74,
+      "end": 86.96,
+      "word": "con"
+    },
+    {
+      "start": 86.96,
+      "end": 87.06,
+      "word": "la"
+    },
+    {
+      "start": 87.06,
+      "end": 87.48,
+      "word": "consistenza"
+    },
+    {
+      "start": 87.48,
+      "end": 87.7,
+      "word": "del"
+    },
+    {
+      "start": 87.7,
+      "end": 88.04,
+      "word": "pollo"
+    },
+    {
+      "start": 88.04,
+      "end": 88.2,
+      "word": "ma"
+    },
+    {
+      "start": 88.2,
+      "end": 88.34,
+      "word": "con"
+    },
+    {
+      "start": 88.34,
+      "end": 88.44,
+      "word": "un"
+    },
+    {
+      "start": 88.44,
+      "end": 88.68,
+      "word": "sapore"
+    },
+    {
+      "start": 88.68,
+      "end": 89.22,
+      "word": "esattamente"
+    },
+    {
+      "start": 89.22,
+      "end": 89.44,
+      "word": "a"
+    },
+    {
+      "start": 89.44,
+      "end": 89.6,
+      "word": "metà"
+    },
+    {
+      "start": 89.6,
+      "end": 89.74,
+      "word": "tra"
+    },
+    {
+      "start": 89.74,
+      "end": 89.9,
+      "word": "il"
+    },
+    {
+      "start": 89.9,
+      "end": 90.2,
+      "word": "pollo"
+    },
+    {
+      "start": 90.2,
+      "end": 90.46,
+      "word": "e"
+    },
+    {
+      "start": 90.46,
+      "end": 90.72,
+      "word": "del"
+    },
+    {
+      "start": 90.72,
+      "end": 91.1,
+      "word": "pesce."
+    },
+    {
+      "start": 91.18,
+      "end": 91.36,
+      "word": "Insomma"
+    },
+    {
+      "start": 91.36,
+      "end": 91.64,
+      "word": "si"
+    },
+    {
+      "start": 91.64,
+      "end": 91.98,
+      "word": "sembra"
+    },
+    {
+      "start": 91.98,
+      "end": 92.32,
+      "word": "chicken"
+    },
+    {
+      "start": 92.32,
+      "end": 92.54,
+      "word": "ma"
+    },
+    {
+      "start": 92.54,
+      "end": 92.68,
+      "word": "si"
+    },
+    {
+      "start": 92.68,
+      "end": 92.88,
+      "word": "sente"
+    },
+    {
+      "start": 92.88,
+      "end": 93.02,
+      "word": "che"
+    },
+    {
+      "start": 93.02,
+      "end": 93.08,
+      "word": "c"
+    },
+    {
+      "start": 93.08,
+      "end": 93.12,
+      "word": "'è"
+    },
+    {
+      "start": 93.12,
+      "end": 93.28,
+      "word": "qualcosa"
+    },
+    {
+      "start": 93.28,
+      "end": 93.6,
+      "word": "di"
+    },
+    {
+      "start": 93.6,
+      "end": 94.08,
+      "word": "diverso"
+    },
+    {
+      "start": 94.08,
+      "end": 94.16,
+      "word": "e"
+    },
+    {
+      "start": 94.16,
+      "end": 94.58,
+      "word": "effettivamente"
+    },
+    {
+      "start": 94.58,
+      "end": 95.04,
+      "word": "ricorda"
+    },
+    {
+      "start": 95.04,
+      "end": 95.14,
+      "word": "il"
+    },
+    {
+      "start": 95.14,
+      "end": 95.48,
+      "word": "pesce."
+    },
+    {
+      "start": 95.54,
+      "end": 95.84,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 95.84,
+      "end": 96.04,
+      "word": "come"
+    },
+    {
+      "start": 96.04,
+      "end": 96.26,
+      "word": "piatto"
+    },
+    {
+      "start": 96.26,
+      "end": 96.72,
+      "word": "principale"
+    },
+    {
+      "start": 96.72,
+      "end": 96.82,
+      "word": "ho"
+    },
+    {
+      "start": 96.82,
+      "end": 97.06,
+      "word": "preso"
+    },
+    {
+      "start": 97.06,
+      "end": 97.3,
+      "word": "questo"
+    },
+    {
+      "start": 97.3,
+      "end": 97.64,
+      "word": "mix"
+    },
+    {
+      "start": 97.64,
+      "end": 97.94,
+      "word": "di"
+    },
+    {
+      "start": 97.94,
+      "end": 98.26,
+      "word": "gambere"
+    },
+    {
+      "start": 98.26,
+      "end": 98.42,
+      "word": "i"
+    },
+    {
+      "start": 98.42,
+      "end": 98.64,
+      "word": "ostri"
+    },
+    {
+      "start": 98.64,
+      "end": 98.74,
+      "word": "che"
+    },
+    {
+      "start": 98.74,
+      "end": 99.22,
+      "word": "pesce"
+    },
+    {
+      "start": 99.22,
+      "end": 99.48,
+      "word": "e"
+    },
+    {
+      "start": 99.48,
+      "end": 99.72,
+      "word": "rane"
+    },
+    {
+      "start": 99.72,
+      "end": 100.12,
+      "word": "fritte"
+    },
+    {
+      "start": 100.12,
+      "end": 100.32,
+      "word": "con"
+    },
+    {
+      "start": 100.32,
+      "end": 100.42,
+      "word": "un"
+    },
+    {
+      "start": 100.42,
+      "end": 100.7,
+      "word": "contorno"
+    },
+    {
+      "start": 100.7,
+      "end": 100.86,
+      "word": "di"
+    },
+    {
+      "start": 100.86,
+      "end": 101.06,
+      "word": "patata"
+    },
+    {
+      "start": 101.06,
+      "end": 101.22,
+      "word": "al"
+    },
+    {
+      "start": 101.22,
+      "end": 101.66,
+      "word": "cartoccio,"
+    },
+    {
+      "start": 101.74,
+      "end": 102.14,
+      "word": "mais"
+    },
+    {
+      "start": 102.14,
+      "end": 102.26,
+      "word": "e"
+    },
+    {
+      "start": 102.26,
+      "end": 102.36,
+      "word": "una"
+    },
+    {
+      "start": 102.36,
+      "end": 102.54,
+      "word": "sorta"
+    },
+    {
+      "start": 102.54,
+      "end": 102.74,
+      "word": "di"
+    },
+    {
+      "start": 102.74,
+      "end": 103.02,
+      "word": "tortino"
+    },
+    {
+      "start": 103.02,
+      "end": 103.16,
+      "word": "di"
+    },
+    {
+      "start": 103.16,
+      "end": 103.5,
+      "word": "patate."
+    },
+    {
+      "start": 103.56,
+      "end": 103.66,
+      "word": "In"
+    },
+    {
+      "start": 103.66,
+      "end": 103.92,
+      "word": "pratica"
+    },
+    {
+      "start": 103.92,
+      "end": 104.0,
+      "word": "in"
+    },
+    {
+      "start": 104.0,
+      "end": 104.2,
+      "word": "questo"
+    },
+    {
+      "start": 104.2,
+      "end": 104.52,
+      "word": "diner"
+    },
+    {
+      "start": 104.52,
+      "end": 104.94,
+      "word": "frigono"
+    },
+    {
+      "start": 104.94,
+      "end": 105.26,
+      "word": "tutto,"
+    },
+    {
+      "start": 105.46,
+      "end": 105.56,
+      "word": "ma"
+    },
+    {
+      "start": 105.56,
+      "end": 105.72,
+      "word": "almeno"
+    },
+    {
+      "start": 105.72,
+      "end": 105.9,
+      "word": "quello"
+    },
+    {
+      "start": 105.9,
+      "end": 106.08,
+      "word": "lo"
+    },
+    {
+      "start": 106.08,
+      "end": 106.28,
+      "word": "fanno"
+    },
+    {
+      "start": 106.28,
+      "end": 106.44,
+      "word": "anche"
+    },
+    {
+      "start": 106.44,
+      "end": 106.8,
+      "word": "abbastanza"
+    },
+    {
+      "start": 106.8,
+      "end": 107.04,
+      "word": "bene."
+    },
+    {
+      "start": 107.04,
+      "end": 107.22,
+      "word": "Poi"
+    },
+    {
+      "start": 107.22,
+      "end": 107.32,
+      "word": "per"
+    },
+    {
+      "start": 107.32,
+      "end": 107.64,
+      "word": "provare"
+    },
+    {
+      "start": 107.64,
+      "end": 107.74,
+      "word": "i"
+    },
+    {
+      "start": 107.74,
+      "end": 108.02,
+      "word": "gambere"
+    },
+    {
+      "start": 108.02,
+      "end": 108.54,
+      "word": "appunto"
+    },
+    {
+      "start": 108.54,
+      "end": 108.72,
+      "word": "le"
+    },
+    {
+      "start": 108.72,
+      "end": 109.06,
+      "word": "ostri"
+    },
+    {
+      "start": 109.06,
+      "end": 109.16,
+      "word": "che"
+    },
+    {
+      "start": 109.16,
+      "end": 109.38,
+      "word": "vengono"
+    },
+    {
+      "start": 109.38,
+      "end": 109.7,
+      "word": "assaggiato"
+    },
+    {
+      "start": 109.7,
+      "end": 109.82,
+      "word": "la"
+    },
+    {
+      "start": 109.82,
+      "end": 110.2,
+      "word": "patata"
+    },
+    {
+      "start": 110.2,
+      "end": 110.32,
+      "word": "con"
+    },
+    {
+      "start": 110.32,
+      "end": 110.42,
+      "word": "la"
+    },
+    {
+      "start": 110.42,
+      "end": 111.0,
+      "word": "pannacida"
+    },
+    {
+      "start": 111.0,
+      "end": 111.12,
+      "word": "e"
+    },
+    {
+      "start": 111.12,
+      "end": 111.28,
+      "word": "quest"
+    },
+    {
+      "start": 111.28,
+      "end": 111.46,
+      "word": "'altro"
+    },
+    {
+      "start": 111.46,
+      "end": 111.96,
+      "word": "tortino"
+    },
+    {
+      "start": 111.96,
+      "end": 112.08,
+      "word": "è"
+    },
+    {
+      "start": 112.08,
+      "end": 112.34,
+      "word": "arrivato"
+    },
+    {
+      "start": 112.34,
+      "end": 112.48,
+      "word": "il"
+    },
+    {
+      "start": 112.48,
+      "end": 112.88,
+      "word": "turno"
+    },
+    {
+      "start": 112.88,
+      "end": 113.04,
+      "word": "delle"
+    },
+    {
+      "start": 113.04,
+      "end": 113.54,
+      "word": "zampe"
+    },
+    {
+      "start": 113.54,
+      "end": 113.64,
+      "word": "di"
+    },
+    {
+      "start": 113.64,
+      "end": 113.96,
+      "word": "rana,"
+    },
+    {
+      "start": 114.04,
+      "end": 114.1,
+      "word": "che"
+    },
+    {
+      "start": 114.1,
+      "end": 114.26,
+      "word": "per"
+    },
+    {
+      "start": 114.26,
+      "end": 114.62,
+      "word": "assurdo"
+    },
+    {
+      "start": 114.62,
+      "end": 114.74,
+      "word": "non"
+    },
+    {
+      "start": 114.74,
+      "end": 114.96,
+      "word": "avevo"
+    },
+    {
+      "start": 114.96,
+      "end": 115.06,
+      "word": "mai"
+    },
+    {
+      "start": 115.06,
+      "end": 115.46,
+      "word": "mangiato"
+    },
+    {
+      "start": 115.46,
+      "end": 115.78,
+      "word": "nemmeno"
+    },
+    {
+      "start": 115.78,
+      "end": 115.86,
+      "word": "in"
+    },
+    {
+      "start": 115.86,
+      "end": 116.2,
+      "word": "Italia."
+    },
+    {
+      "start": 116.38,
+      "end": 116.46,
+      "word": "Beh"
+    },
+    {
+      "start": 116.46,
+      "end": 116.68,
+      "word": "queste"
+    },
+    {
+      "start": 116.68,
+      "end": 116.98,
+      "word": "sì"
+    },
+    {
+      "start": 116.98,
+      "end": 117.1,
+      "word": "che"
+    },
+    {
+      "start": 117.1,
+      "end": 117.36,
+      "word": "saranno"
+    },
+    {
+      "start": 117.36,
+      "end": 117.62,
+      "word": "veramente"
+    },
+    {
+      "start": 117.62,
+      "end": 117.88,
+      "word": "di"
+    },
+    {
+      "start": 117.88,
+      "end": 118.24,
+      "word": "pollo,"
+    },
+    {
+      "start": 118.28,
+      "end": 118.42,
+      "word": "anche"
+    },
+    {
+      "start": 118.42,
+      "end": 118.58,
+      "word": "se"
+    },
+    {
+      "start": 118.58,
+      "end": 118.7,
+      "word": "le"
+    },
+    {
+      "start": 118.7,
+      "end": 119.1,
+      "word": "ossicino"
+    },
+    {
+      "start": 119.1,
+      "end": 119.32,
+      "word": "danno"
+    },
+    {
+      "start": 119.32,
+      "end": 119.6,
+      "word": "davvero"
+    },
+    {
+      "start": 119.6,
+      "end": 120.16,
+      "word": "pastiglio."
+    },
+    {
+      "start": 120.22,
+      "end": 120.3,
+      "word": "E"
+    },
+    {
+      "start": 120.3,
+      "end": 120.42,
+      "word": "per"
+    },
+    {
+      "start": 120.42,
+      "end": 120.96,
+      "word": "concludere"
+    },
+    {
+      "start": 120.96,
+      "end": 121.36,
+      "word": "chiaramente"
+    },
+    {
+      "start": 121.36,
+      "end": 121.56,
+      "word": "Chi"
+    },
+    {
+      "start": 121.56,
+      "end": 121.66,
+      "word": "la"
+    },
+    {
+      "start": 121.66,
+      "end": 122.06,
+      "word": "impai,"
+    },
+    {
+      "start": 122.14,
+      "end": 122.54,
+      "word": "ovviamente"
+    },
+    {
+      "start": 122.54,
+      "end": 122.96,
+      "word": "fritta"
+    },
+    {
+      "start": 122.96,
+      "end": 123.12,
+      "word": "anche"
+    },
+    {
+      "start": 123.12,
+      "end": 123.38,
+      "word": "lei,"
+    },
+    {
+      "start": 123.44,
+      "end": 123.52,
+      "word": "ma"
+    },
+    {
+      "start": 123.52,
+      "end": 123.82,
+      "word": "molto"
+    },
+    {
+      "start": 123.82,
+      "end": 124.04,
+      "word": "molto"
+    },
+    {
+      "start": 124.04,
+      "end": 124.42,
+      "word": "buona."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.433,
+      "dur": 2.433,
+      "transcript": "Giurino 5 del mio viaggio in Florida, la scoperta della vera"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.433,
+      "end": 4.6,
+      "dur": 2.167,
+      "transcript": "cucina americana. Oggi ragazzi proveremo l"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.6,
+      "end": 6.833,
+      "dur": 2.233,
+      "transcript": "'alligatore. Ma prima di ciò partiamo dalla mattina e in cui mi"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.833,
+      "end": 8.833,
+      "dur": 2.0,
+      "transcript": "sono fatto un allenamento nella palestra dell 'hotela"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.833,
+      "end": 10.833,
+      "dur": 2.0,
+      "transcript": "Key West, nelle isole Keys, per"
+    },
+    {
+      "shot_idx": 5,
+      "start": 10.833,
+      "end": 13.8,
+      "dur": 2.967,
+      "transcript": "poi fare un post workout con la mega colazione dell 'hotel con uova beca,"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.8,
+      "end": 16.333,
+      "dur": 2.533,
+      "transcript": "salsice, un po' di verdurine, un paio di bagel"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.333,
+      "end": 19.167,
+      "dur": 2.833,
+      "transcript": "con marmellata e filadelfia poi un secondo piattino con"
+    },
+    {
+      "shot_idx": 8,
+      "start": 19.167,
+      "end": 20.933,
+      "dur": 1.767,
+      "transcript": "altre verdurine e un muffin. Dopodiché"
+    },
+    {
+      "shot_idx": 9,
+      "start": 20.933,
+      "end": 22.967,
+      "dur": 2.033,
+      "transcript": "abbiamo iniziato il nostro viaggio per arrivare nel"
+    },
+    {
+      "shot_idx": 10,
+      "start": 22.967,
+      "end": 25.4,
+      "dur": 2.433,
+      "transcript": "Everglades, una zona paludosa famosissima della Florida"
+    },
+    {
+      "shot_idx": 11,
+      "start": 25.4,
+      "end": 27.367,
+      "dur": 1.967,
+      "transcript": "proprio per gli alligatori. Ma prima di ciò"
+    },
+    {
+      "shot_idx": 12,
+      "start": 27.367,
+      "end": 28.267,
+      "dur": 0.9,
+      "transcript": "ha piccola tappa in un"
+    },
+    {
+      "shot_idx": 13,
+      "start": 28.267,
+      "end": 31.4,
+      "dur": 3.133,
+      "transcript": "supermercato americano che è sempre incredibile, dove a oltre a queste torte"
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.4,
+      "end": 33.3,
+      "dur": 1.9,
+      "transcript": "americanissime, ha trovato questo famoso"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.3,
+      "end": 35.367,
+      "dur": 2.067,
+      "transcript": "set di gamberi da potervi gustare così"
+    },
+    {
+      "shot_idx": 16,
+      "start": 35.367,
+      "end": 37.033,
+      "dur": 1.667,
+      "transcript": "impurezza. Poi invece per pronto ci siamo"
+    },
+    {
+      "shot_idx": 17,
+      "start": 37.033,
+      "end": 38.367,
+      "dur": 1.333,
+      "transcript": "formati da Domino's Pizza,"
+    },
+    {
+      "shot_idx": 18,
+      "start": 38.367,
+      "end": 39.5,
+      "dur": 1.133,
+      "transcript": "in cui abbiamo provato ovviamente"
+    },
+    {
+      "shot_idx": 19,
+      "start": 39.5,
+      "end": 40.467,
+      "dur": 0.967,
+      "transcript": "la loro peperoni,"
+    },
+    {
+      "shot_idx": 20,
+      "start": 40.467,
+      "end": 43.333,
+      "dur": 2.867,
+      "transcript": "la loro mizza e quest 'altra con gli ingredienti praticamente del Philly C"
+    },
+    {
+      "shot_idx": 21,
+      "start": 43.333,
+      "end": 44.4,
+      "dur": 1.067,
+      "transcript": "Steak. Allora la pizza di"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.4,
+      "end": 46.767,
+      "dur": 2.367,
+      "transcript": "Domino sta sempre particolare, è di gran lunga, la più unta,"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.767,
+      "end": 50.233,
+      "dur": 3.467,
+      "transcript": "ripetere catene di pizza americana. Quanto cavole buona la mizza"
+    },
+    {
+      "shot_idx": 24,
+      "start": 50.233,
+      "end": 52.367,
+      "dur": 2.133,
+      "transcript": "oppure la peperoni. Ecco quella con il Philly C Steak"
+    },
+    {
+      "shot_idx": 25,
+      "start": 52.367,
+      "end": 54.167,
+      "dur": 1.8,
+      "transcript": "era evitabile invece. Dopodiché ci siamo rimesti"
+    },
+    {
+      "shot_idx": 26,
+      "start": 54.167,
+      "end": 56.733,
+      "dur": 2.567,
+      "transcript": "in macchina, ho provato la Vitamine Water. Qui in America è bella"
+    },
+    {
+      "shot_idx": 27,
+      "start": 56.733,
+      "end": 58.367,
+      "dur": 1.633,
+      "transcript": "famosa ma fa veramente schifo. In ogni"
+    },
+    {
+      "shot_idx": 28,
+      "start": 58.367,
+      "end": 60.167,
+      "dur": 1.8,
+      "transcript": "caso siamo arrivati ad Everglades City,"
+    },
+    {
+      "shot_idx": 29,
+      "start": 60.167,
+      "end": 66.2,
+      "dur": 6.033,
+      "transcript": "un posto paludoso, strapino di zanzare, serpenti verenosi, squali, cocco drilli e come potete notare gli alligatori."
+    },
+    {
+      "shot_idx": 30,
+      "start": 66.2,
+      "end": 70.833,
+      "dur": 4.633,
+      "transcript": "Un posto davvero invivibile e di fatti in giro per la città non c 'era assolutamente nessuno. Fortunatamente"
+    },
+    {
+      "shot_idx": 31,
+      "start": 70.833,
+      "end": 73.033,
+      "dur": 2.2,
+      "transcript": "percino abbiamo trovato questo diner molto strano,"
+    },
+    {
+      "shot_idx": 32,
+      "start": 73.033,
+      "end": 75.0,
+      "dur": 1.967,
+      "transcript": "dove come piatto forte avevano l"
+    },
+    {
+      "shot_idx": 33,
+      "start": 75.0,
+      "end": 77.0,
+      "dur": 2.0,
+      "transcript": "'alligatore e essendo qui in America proprio per provare"
+    },
+    {
+      "shot_idx": 34,
+      "start": 77.0,
+      "end": 80.433,
+      "dur": 3.433,
+      "transcript": "il cibo tipico di questi luoghi, ero troppo curioso di sapere di cosa sarà l 'alligato."
+    },
+    {
+      "shot_idx": 35,
+      "start": 80.433,
+      "end": 82.6,
+      "dur": 2.167,
+      "transcript": "I like chicken!"
+    },
+    {
+      "shot_idx": 36,
+      "start": 82.6,
+      "end": 85.867,
+      "dur": 3.267,
+      "transcript": "Come antipasto praticamente prezzo questa sorta di nuggets di alligatore,"
+    },
+    {
+      "shot_idx": 37,
+      "start": 85.867,
+      "end": 88.4,
+      "dur": 2.533,
+      "transcript": "molto corcanti con la consistenza del pollo ma con un"
+    },
+    {
+      "shot_idx": 38,
+      "start": 88.4,
+      "end": 91.9,
+      "dur": 3.5,
+      "transcript": "sapore esattamente a metà tra il pollo e del pesce. Insomma si sembra"
+    },
+    {
+      "shot_idx": 39,
+      "start": 91.9,
+      "end": 98.467,
+      "dur": 6.567,
+      "transcript": "chicken ma si sente che c 'è qualcosa di diverso e effettivamente ricorda il pesce. Dopodiché come piatto principale ho preso questo mix di gambere i"
+    },
+    {
+      "shot_idx": 40,
+      "start": 98.467,
+      "end": 100.5,
+      "dur": 2.033,
+      "transcript": "ostri che pesce e rane fritte con un"
+    },
+    {
+      "shot_idx": 41,
+      "start": 100.5,
+      "end": 103.0,
+      "dur": 2.5,
+      "transcript": "contorno di patata al cartoccio, mais e una sorta di tortino"
+    },
+    {
+      "shot_idx": 42,
+      "start": 103.0,
+      "end": 106.267,
+      "dur": 3.267,
+      "transcript": "di patate. In pratica in questo diner frigono tutto, ma almeno quello lo fanno"
+    },
+    {
+      "shot_idx": 43,
+      "start": 106.267,
+      "end": 108.133,
+      "dur": 1.867,
+      "transcript": "anche abbastanza bene. Poi per provare i gambere"
+    },
+    {
+      "shot_idx": 44,
+      "start": 108.133,
+      "end": 109.967,
+      "dur": 1.833,
+      "transcript": "appunto le ostri che vengono assaggiato la"
+    },
+    {
+      "shot_idx": 45,
+      "start": 109.967,
+      "end": 112.4,
+      "dur": 2.433,
+      "transcript": "patata con la pannacida e quest 'altro tortino è arrivato"
+    },
+    {
+      "shot_idx": 46,
+      "start": 112.4,
+      "end": 114.167,
+      "dur": 1.767,
+      "transcript": "il turno delle zampe di rana, che"
+    },
+    {
+      "shot_idx": 47,
+      "start": 114.167,
+      "end": 117.5,
+      "dur": 3.333,
+      "transcript": "per assurdo non avevo mai mangiato nemmeno in Italia. Beh queste sì che saranno veramente"
+    },
+    {
+      "shot_idx": 48,
+      "start": 117.5,
+      "end": 119.767,
+      "dur": 2.267,
+      "transcript": "di pollo, anche se le ossicino danno davvero"
+    },
+    {
+      "shot_idx": 49,
+      "start": 119.767,
+      "end": 122.533,
+      "dur": 2.767,
+      "transcript": "pastiglio. E per concludere chiaramente Chi la impai, ovviamente"
+    },
+    {
+      "shot_idx": 50,
+      "start": 122.533,
+      "end": 124.633,
+      "dur": 2.1,
+      "transcript": "fritta anche lei, ma molto molto buona."
+    }
+  ],
+  "full_text": "Giurino 5 del mio viaggio in Florida, la scoperta della vera cucina americana. Oggi ragazzi proveremo l'alligatore. Ma prima di ciò partiamo dalla mattina e in cui mi sono fatto un allenamento nella palestra dell'hotela Key West, nelle isole Keys, per poi fare un post workout con la mega colazione dell'hotel con uova beca, salsice, un po' di verdurine, un paio di bagel con marmellata e filadelfia poi un secondo piattino con altre verdurine e un muffin. Dopodiché abbiamo iniziato il nostro viaggio per arrivare nel Everglades, una zona paludosa famosissima della Florida proprio per gli alligatori. Ma prima di ciò ha piccola tappa in un supermercato americano che è sempre incredibile, dove a oltre a queste torte americanissime, ha trovato questo famoso set di gamberi da potervi gustare così impurezza. Poi invece per pronto ci siamo formati da Domino's Pizza, in cui abbiamo provato ovviamente la loro peperoni, la loro mizza e quest'altra con gli ingredienti praticamente del Philly C Steak. Allora la pizza di Domino sta sempre particolare, è di gran lunga, la più unta, ripetere catene di pizza americana. Quanto cavole buona la mizza oppure la peperoni. Ecco quella con il Philly C Steak era evitabile invece. Dopodiché ci siamo rimesti in macchina, ho provato la Vitamine Water. Qui in America è bella famosa ma fa veramente schifo. In ogni caso siamo arrivati ad Everglades City, un posto paludoso, strapino di zanzare, serpenti verenosi, squali, cocco drilli e come potete notare gli alligatori. Un posto davvero invivibile e di fatti in giro per la città non c'era assolutamente nessuno. Fortunatamente percino abbiamo trovato questo diner molto strano, dove come piatto forte avevano l'alligatore e essendo qui in America proprio per provare il cibo tipico di questi luoghi, ero troppo curioso di sapere di cosa sarà l'alligato. I like chicken! Come antipasto praticamente prezzo questa sorta di nuggets di alligatore, molto corcanti con la consistenza del pollo ma con un sapore esattamente a metà tra il pollo e del pesce. Insomma si sembra chicken ma si sente che c'è qualcosa di diverso e effettivamente ricorda il pesce. Dopodiché come piatto principale ho preso questo mix di gambere i ostri che pesce e rane fritte con un contorno di patata al cartoccio, mais e una sorta di tortino di patate. In pratica in questo diner frigono tutto, ma almeno quello lo fanno anche abbastanza bene. Poi per provare i gambere appunto le ostri che vengono assaggiato la patata con la pannacida e quest'altro tortino è arrivato il turno delle zampe di rana, che per assurdo non avevo mai mangiato nemmeno in Italia. Beh queste sì che saranno veramente di pollo, anche se le ossicino danno davvero pastiglio. E per concludere chiaramente Chi la impai, ovviamente fritta anche lei, ma molto molto buona.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

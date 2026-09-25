@@ -1,0 +1,2590 @@
+{
+  "video_id": "7612350819408678166",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7612350819408678166",
+    "ref_id": "ref_30_7612350819408678166",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7612350819408678166",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 29,
+  "total_dur": 69.47,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067,
+      "center": 1.533,
+      "role": "person_eating",
+      "subject": "ragazzo con pizza",
+      "description": "Un ragazzo tiene in mano un piatto con una focaccia, mentre una pizza è sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Il paradiso del senza glutina Milano. Oggi ragazzi siamo da Mama It"
+    },
+    {
+      "idx": 1,
+      "start": 3.067,
+      "end": 4.533,
+      "dur": 1.467,
+      "center": 3.8,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta mangiando un pezzo di pizza con la mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "che a tutti gli effetti una vera"
+    },
+    {
+      "idx": 2,
+      "start": 4.533,
+      "end": 6.133,
+      "dur": 1.6,
+      "center": 5.333,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Il ragazzo sta mangiando un dolce al cucchiaio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "istituzione del senza glutina e non"
+    },
+    {
+      "idx": 3,
+      "start": 6.133,
+      "end": 10.4,
+      "dur": 4.267,
+      "center": 8.267,
+      "role": "menu_board",
+      "subject": "menu ristorante aperto",
+      "description": "Una pagina del menu con l'elenco dei primi piatti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "solo a Milano ma anche in tutta Italia. Pagliamo di un ristorante con un menu umpissimo tra antipastri fritti"
+    },
+    {
+      "idx": 4,
+      "start": 10.4,
+      "end": 12.4,
+      "dur": 2.0,
+      "center": 11.4,
+      "role": "menu_board",
+      "subject": "menu pizze illustrate",
+      "description": "Una pagina del menu con le pizze illustrate e la mano di una persona che indica.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "primi secondi ovviamente pizza. Il"
+    },
+    {
+      "idx": 5,
+      "start": 12.4,
+      "end": 15.033,
+      "dur": 2.633,
+      "center": 13.717,
+      "role": "food_closeup",
+      "subject": "palline fritte dorate",
+      "description": "Le palline fritte sono disposte in una ciotola nera con carta assorbente.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tutto ovviamente disponibile anche in gluten -free. Abbiamo iniziato con"
+    },
+    {
+      "idx": 6,
+      "start": 15.033,
+      "end": 18.667,
+      "dur": 3.633,
+      "center": 16.85,
+      "role": "person_eating",
+      "subject": "ragazzo che tiene pallina",
+      "description": "Un ragazzo tiene una pallina fritta in primo piano, con altre palline nella ciotola in basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "degli arancini come antipasto che devo dire essere onesti molto semplici"
+    },
+    {
+      "idx": 7,
+      "start": 18.667,
+      "end": 20.633,
+      "dur": 1.967,
+      "center": 19.65,
+      "role": "person_eating",
+      "subject": "ragazzo che addenta pallina",
+      "description": "Il ragazzo sta addentando una pallina fritta, con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "fritti abbastanza bene con il riso che ha comunque"
+    },
+    {
+      "idx": 8,
+      "start": 20.633,
+      "end": 23.633,
+      "dur": 3.0,
+      "center": 22.133,
+      "role": "person_eating",
+      "subject": "ragazzo che mastica pallina",
+      "description": "Il ragazzo ha la bocca aperta e sta masticando la pallina, con un'espressione sorpresa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mantenuto la giusta consistenza e la paracola è bella croccante e dopo di"
+    },
+    {
+      "idx": 9,
+      "start": 23.633,
+      "end": 26.4,
+      "dur": 2.767,
+      "center": 25.017,
+      "role": "food_plated",
+      "subject": "pizza fritta e pizza",
+      "description": "Una pizza fritta è tenuta in primo piano sopra una pizza tonda, con una persona sfocata sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che i ragazzi voluto provare il loro ripieno fritto. In pratica la"
+    },
+    {
+      "idx": 10,
+      "start": 26.4,
+      "end": 28.2,
+      "dur": 1.8,
+      "center": 27.3,
+      "role": "food_closeup",
+      "subject": "calzone fritto intero",
+      "description": "Il calzone fritto occupa quasi tutto il frame, con la scritta 'PROSCIUTTO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "pizza fritta con prosciutto prova la"
+    },
+    {
+      "idx": 11,
+      "start": 28.2,
+      "end": 30.2,
+      "dur": 2.0,
+      "center": 29.2,
+      "role": "food_detail",
+      "subject": "mani tagliano calzone",
+      "description": "Un paio di mani tagliano il calzone fritto con forchetta e coltello, con la scritta 'PARMIGIANO'.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "campana parmigiana ricotta. Impasto che"
+    },
+    {
+      "idx": 12,
+      "start": 30.2,
+      "end": 32.2,
+      "dur": 2.0,
+      "center": 31.2,
+      "role": "food_detail",
+      "subject": "ripieno calzone prosciutto",
+      "description": "Il calzone è aperto e si vede il ripieno di prosciutto e formaggio filante, con la scritta 'GLUTINE'.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "per essere senza glutina era bello saporito"
+    },
+    {
+      "idx": 13,
+      "start": 32.2,
+      "end": 34.5,
+      "dur": 2.3,
+      "center": 33.35,
+      "role": "food_detail",
+      "subject": "formaggio filante calzone",
+      "description": "Un lungo filo di formaggio si estende dal calzone, con la scritta 'ABBASTANZA'.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ma con la frittura è rimasto abbastanza huto e quindi un"
+    },
+    {
+      "idx": 14,
+      "start": 34.5,
+      "end": 36.933,
+      "dur": 2.433,
+      "center": 35.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia calzone",
+      "description": "Un ragazzo con una maglietta 'Supreme' guarda il calzone con un'espressione sorpresa, con la scritta 'DIREI'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "filo pesante anche se direi che ordinando una pizza fritta"
+    },
+    {
+      "idx": 15,
+      "start": 36.933,
+      "end": 38.967,
+      "dur": 2.033,
+      "center": 37.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia raviolo",
+      "description": "Il ragazzo sta mangiando un raviolo con un filo di formaggio che si allunga.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "di certo non ci aspetta una cosa leggera."
+    },
+    {
+      "idx": 16,
+      "start": 38.967,
+      "end": 40.767,
+      "dur": 1.8,
+      "center": 39.867,
+      "role": "person_eating",
+      "subject": "ragazzo sorride forchetta",
+      "description": "Il ragazzo sorride tenendo una forchetta in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Dopodiché ho provato la pizza classica ordinando"
+    },
+    {
+      "idx": 17,
+      "start": 40.767,
+      "end": 43.3,
+      "dur": 2.533,
+      "center": 42.033,
+      "role": "food_closeup",
+      "subject": "pizza bianca condita",
+      "description": "Una pizza bianca con formaggio e condimenti croccanti è in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "la rustica ovvero una pizza bianca con mozzarella di"
+    },
+    {
+      "idx": 18,
+      "start": 43.3,
+      "end": 45.8,
+      "dur": 2.5,
+      "center": 44.55,
+      "role": "food_closeup",
+      "subject": "mani tagliano pizza",
+      "description": "Delle mani stanno dividendo una fetta di pizza dal resto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "bufala crocchè di patate parmigiano cipolla caramellata."
+    },
+    {
+      "idx": 19,
+      "start": 45.8,
+      "end": 47.967,
+      "dur": 2.167,
+      "center": 46.883,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo tiene una fetta di pizza davanti alla bocca, pronto a mangiarla.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Traciando il fatto che la cipolla non si sentiva"
+    },
+    {
+      "idx": 20,
+      "start": 47.967,
+      "end": 49.767,
+      "dur": 1.8,
+      "center": 48.867,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo con la maglietta Supreme sta addentando un pezzo di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "tantissimo devo dire che qui l 'impasto l 'ho sicuramente"
+    },
+    {
+      "idx": 21,
+      "start": 49.767,
+      "end": 52.133,
+      "dur": 2.367,
+      "center": 50.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta masticando il pezzo di pizza, con la bocca leggermente aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "preferito rispetto alla pizza fritta e poi resta il fatto che"
+    },
+    {
+      "idx": 22,
+      "start": 52.133,
+      "end": 54.3,
+      "dur": 2.167,
+      "center": 53.217,
+      "role": "person_eating",
+      "subject": "ragazza mangia pizza",
+      "description": "La ragazza con il maglione viola sta mangiando un pezzo di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "avere un fritto glutenfree su una pizza non è mai scontato"
+    },
+    {
+      "idx": 23,
+      "start": 54.3,
+      "end": 56.9,
+      "dur": 2.6,
+      "center": 55.6,
+      "role": "person_eating",
+      "subject": "ragazza sorride mangiando",
+      "description": "La ragazza sorride mentre tiene in mano un pezzo di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e tra l 'altro ha provato anche dall 'esperta. Come dolci"
+    },
+    {
+      "idx": 24,
+      "start": 56.9,
+      "end": 59.433,
+      "dur": 2.533,
+      "center": 58.167,
+      "role": "food_detail",
+      "subject": "ragazzo mangia tiramisù",
+      "description": "Il ragazzo sta mescolando un tiramisù in un contenitore di plastica.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "non potevano concludere con un tiramisu che nonostante alla vista non"
+    },
+    {
+      "idx": 25,
+      "start": 59.433,
+      "end": 63.233,
+      "dur": 3.8,
+      "center": 61.333,
+      "role": "person_eating",
+      "subject": "ragazzo mangia tiramisù",
+      "description": "Il ragazzo con espressione sorpresa mentre porta il cucchiaio alla bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mi ispirasse a livello di sapore davvero uno dei migliori tiramisu provati in un"
+    },
+    {
+      "idx": 26,
+      "start": 63.233,
+      "end": 64.267,
+      "dur": 1.033,
+      "center": 63.75,
+      "role": "person_eating",
+      "subject": "ragazzo con tiramisù",
+      "description": "Il ragazzo guarda in camera con un'espressione divertita, con la scritta 'SUPREME MILANO' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ristorante a Milano. In conclusione"
+    },
+    {
+      "idx": 27,
+      "start": 64.267,
+      "end": 69.367,
+      "dur": 5.1,
+      "center": 66.817,
+      "role": "person_eating",
+      "subject": "ragazza mangia tiramisù",
+      "description": "La ragazza mangia il tiramisù con un'espressione concentrata, con la scritta 'ASSOLUTAMENTE' sovrapposta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "non la miglior pizza glutenfree che ho provato ma assolutamente un posto da provare se siete cieli acintoleranti."
+    },
+    {
+      "idx": 28,
+      "start": 69.367,
+      "end": 69.467,
+      "dur": 0.1,
+      "center": 69.417,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Lo schermo è completamente nero, indicando una transizione o la fine del video.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano un piatto con una focaccia, mentre una pizza è sul tavolo.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di pizza con la mano.",
+      "shot_idx": 1,
+      "start": 3.067,
+      "end": 4.533,
+      "dur": 1.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un dolce al cucchiaio.",
+      "shot_idx": 2,
+      "start": 4.533,
+      "end": 6.133,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "menu_board",
+      "soggetto": "menu ristorante aperto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pagina del menu con l'elenco dei primi piatti.",
+      "shot_idx": 3,
+      "start": 6.133,
+      "end": 10.4,
+      "dur": 4.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "menu_board",
+      "soggetto": "menu pizze illustrate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pagina del menu con le pizze illustrate e la mano di una persona che indica.",
+      "shot_idx": 4,
+      "start": 10.4,
+      "end": 12.4,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "palline fritte dorate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Le palline fritte sono disposte in una ciotola nera con carta assorbente.",
+      "shot_idx": 5,
+      "start": 12.4,
+      "end": 15.033,
+      "dur": 2.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che tiene pallina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene una pallina fritta in primo piano, con altre palline nella ciotola in basso.",
+      "shot_idx": 6,
+      "start": 15.033,
+      "end": 18.667,
+      "dur": 3.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che addenta pallina",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando una pallina fritta, con un'espressione divertita.",
+      "shot_idx": 7,
+      "start": 18.667,
+      "end": 20.633,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mastica pallina",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ha la bocca aperta e sta masticando la pallina, con un'espressione sorpresa.",
+      "shot_idx": 8,
+      "start": 20.633,
+      "end": 23.633,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza fritta e pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza fritta è tenuta in primo piano sopra una pizza tonda, con una persona sfocata sullo sfondo.",
+      "shot_idx": 9,
+      "start": 23.633,
+      "end": 26.4,
+      "dur": 2.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "calzone fritto intero",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il calzone fritto occupa quasi tutto il frame, con la scritta 'PROSCIUTTO' in sovrimpressione.",
+      "shot_idx": 10,
+      "start": 26.4,
+      "end": 28.2,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "mani tagliano calzone",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un paio di mani tagliano il calzone fritto con forchetta e coltello, con la scritta 'PARMIGIANO'.",
+      "shot_idx": 11,
+      "start": 28.2,
+      "end": 30.2,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "ripieno calzone prosciutto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il calzone è aperto e si vede il ripieno di prosciutto e formaggio filante, con la scritta 'GLUTINE'.",
+      "shot_idx": 12,
+      "start": 30.2,
+      "end": 32.2,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio filante calzone",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un lungo filo di formaggio si estende dal calzone, con la scritta 'ABBASTANZA'.",
+      "shot_idx": 13,
+      "start": 32.2,
+      "end": 34.5,
+      "dur": 2.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia calzone",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta 'Supreme' guarda il calzone con un'espressione sorpresa, con la scritta 'DIREI'.",
+      "shot_idx": 14,
+      "start": 34.5,
+      "end": 36.933,
+      "dur": 2.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia raviolo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un raviolo con un filo di formaggio che si allunga.",
+      "shot_idx": 15,
+      "start": 36.933,
+      "end": 38.967,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorride forchetta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride tenendo una forchetta in mano.",
+      "shot_idx": 16,
+      "start": 38.967,
+      "end": 40.767,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza bianca condita",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza bianca con formaggio e condimenti croccanti è in primo piano.",
+      "shot_idx": 17,
+      "start": 40.767,
+      "end": 43.3,
+      "dur": 2.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "mani tagliano pizza",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Delle mani stanno dividendo una fetta di pizza dal resto.",
+      "shot_idx": 18,
+      "start": 43.3,
+      "end": 45.8,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene una fetta di pizza davanti alla bocca, pronto a mangiarla.",
+      "shot_idx": 19,
+      "start": 45.8,
+      "end": 47.967,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con la maglietta Supreme sta addentando un pezzo di pizza.",
+      "shot_idx": 20,
+      "start": 47.967,
+      "end": 49.767,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta masticando il pezzo di pizza, con la bocca leggermente aperta.",
+      "shot_idx": 21,
+      "start": 49.767,
+      "end": 52.133,
+      "dur": 2.367
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazza mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La ragazza con il maglione viola sta mangiando un pezzo di pizza.",
+      "shot_idx": 22,
+      "start": 52.133,
+      "end": 54.3,
+      "dur": 2.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazza sorride mangiando",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La ragazza sorride mentre tiene in mano un pezzo di pizza.",
+      "shot_idx": 23,
+      "start": 54.3,
+      "end": 56.9,
+      "dur": 2.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "ragazzo mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mescolando un tiramisù in un contenitore di plastica.",
+      "shot_idx": 24,
+      "start": 56.9,
+      "end": 59.433,
+      "dur": 2.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con espressione sorpresa mentre porta il cucchiaio alla bocca.",
+      "shot_idx": 25,
+      "start": 59.433,
+      "end": 63.233,
+      "dur": 3.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo guarda in camera con un'espressione divertita, con la scritta 'SUPREME MILANO' sovrapposta.",
+      "shot_idx": 26,
+      "start": 63.233,
+      "end": 64.267,
+      "dur": 1.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazza mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La ragazza mangia il tiramisù con un'espressione concentrata, con la scritta 'ASSOLUTAMENTE' sovrapposta.",
+      "shot_idx": 27,
+      "start": 64.267,
+      "end": 69.367,
+      "dur": 5.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo schermo è completamente nero, indicando una transizione o la fine del video.",
+      "shot_idx": 28,
+      "start": 69.367,
+      "end": 69.467,
+      "dur": 0.1
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Il paradiso del senza glutina Milano. Oggi ragazzi siamo da Mama It che a tutti gli effetti una vera"
+    },
+    {
+      "start": 4.28,
+      "end": 8.7,
+      "text": "istituzione del senza glutina e non solo a Milano ma anche in tutta Italia. Pagliamo di un ristorante con"
+    },
+    {
+      "start": 8.7,
+      "end": 13.54,
+      "text": "un menu umpissimo tra antipastri fritti primi secondi ovviamente pizza. Il tutto ovviamente disponibile"
+    },
+    {
+      "start": 13.54,
+      "end": 17.78,
+      "text": "anche in gluten-free. Abbiamo iniziato con degli arancini come antipasto che devo dire essere onesti"
+    },
+    {
+      "start": 17.78,
+      "end": 21.34,
+      "text": "molto semplici fritti abbastanza bene con il riso che ha comunque mantenuto la giusta"
+    },
+    {
+      "start": 21.34,
+      "end": 24.9,
+      "text": "consistenza e la paracola è bella croccante e dopo di che i ragazzi voluto provare il loro"
+    },
+    {
+      "start": 24.9,
+      "end": 29.58,
+      "text": "ripieno fritto. In pratica la pizza fritta con prosciutto prova la campana parmigiana ricotta."
+    },
+    {
+      "start": 29.78,
+      "end": 33.68,
+      "text": "Impasto che per essere senza glutina era bello saporito ma con la frittura è rimasto abbastanza"
+    },
+    {
+      "start": 33.68,
+      "end": 37.62,
+      "text": "huto e quindi un filo pesante anche se direi che ordinando una pizza fritta di certo non"
+    },
+    {
+      "start": 37.62,
+      "end": 41.86,
+      "text": "ci aspetta una cosa leggera. Dopodiché ho provato la pizza classica ordinando la rustica ovvero"
+    },
+    {
+      "start": 41.86,
+      "end": 45.84,
+      "text": "una pizza bianca con mozzarella di bufala crocchè di patate parmigiano cipolla caramellata."
+    },
+    {
+      "start": 45.96,
+      "end": 49.24,
+      "text": "Traciando il fatto che la cipolla non si sentiva tantissimo devo dire che qui l'impasto"
+    },
+    {
+      "start": 49.24,
+      "end": 52.54,
+      "text": "l'ho sicuramente preferito rispetto alla pizza fritta e poi resta il fatto che avere un fritto"
+    },
+    {
+      "start": 52.54,
+      "end": 56.36,
+      "text": "glutenfree su una pizza non è mai scontato e tra l'altro ha provato anche dall'esperta."
+    },
+    {
+      "start": 56.44,
+      "end": 60.06,
+      "text": "Come dolci non potevano concludere con un tiramisu che nonostante alla vista non mi ispirasse"
+    },
+    {
+      "start": 60.06,
+      "end": 63.96,
+      "text": "a livello di sapore davvero uno dei migliori tiramisu provati in un ristorante a Milano."
+    },
+    {
+      "start": 63.98,
+      "end": 67.4,
+      "text": "In conclusione non la miglior pizza glutenfree che ho provato ma assolutamente un posto"
+    },
+    {
+      "start": 67.4,
+      "end": 69.28,
+      "text": "da provare se siete cieli acintoleranti."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "Il"
+    },
+    {
+      "start": 0.22,
+      "end": 0.7,
+      "word": "paradiso"
+    },
+    {
+      "start": 0.7,
+      "end": 0.86,
+      "word": "del"
+    },
+    {
+      "start": 0.86,
+      "end": 1.04,
+      "word": "senza"
+    },
+    {
+      "start": 1.04,
+      "end": 1.44,
+      "word": "glutina"
+    },
+    {
+      "start": 1.44,
+      "end": 1.82,
+      "word": "Milano."
+    },
+    {
+      "start": 1.84,
+      "end": 2.02,
+      "word": "Oggi"
+    },
+    {
+      "start": 2.02,
+      "end": 2.3,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.3,
+      "end": 2.52,
+      "word": "siamo"
+    },
+    {
+      "start": 2.52,
+      "end": 2.68,
+      "word": "da"
+    },
+    {
+      "start": 2.68,
+      "end": 2.86,
+      "word": "Mama"
+    },
+    {
+      "start": 2.86,
+      "end": 3.08,
+      "word": "It"
+    },
+    {
+      "start": 3.08,
+      "end": 3.36,
+      "word": "che"
+    },
+    {
+      "start": 3.36,
+      "end": 3.48,
+      "word": "a"
+    },
+    {
+      "start": 3.48,
+      "end": 3.58,
+      "word": "tutti"
+    },
+    {
+      "start": 3.58,
+      "end": 3.76,
+      "word": "gli"
+    },
+    {
+      "start": 3.76,
+      "end": 4.0,
+      "word": "effetti"
+    },
+    {
+      "start": 4.0,
+      "end": 4.12,
+      "word": "una"
+    },
+    {
+      "start": 4.12,
+      "end": 4.28,
+      "word": "vera"
+    },
+    {
+      "start": 4.28,
+      "end": 5.06,
+      "word": "istituzione"
+    },
+    {
+      "start": 5.06,
+      "end": 5.26,
+      "word": "del"
+    },
+    {
+      "start": 5.26,
+      "end": 5.42,
+      "word": "senza"
+    },
+    {
+      "start": 5.42,
+      "end": 5.88,
+      "word": "glutina"
+    },
+    {
+      "start": 5.88,
+      "end": 6.0,
+      "word": "e"
+    },
+    {
+      "start": 6.0,
+      "end": 6.14,
+      "word": "non"
+    },
+    {
+      "start": 6.14,
+      "end": 6.38,
+      "word": "solo"
+    },
+    {
+      "start": 6.38,
+      "end": 6.5,
+      "word": "a"
+    },
+    {
+      "start": 6.5,
+      "end": 6.76,
+      "word": "Milano"
+    },
+    {
+      "start": 6.76,
+      "end": 6.94,
+      "word": "ma"
+    },
+    {
+      "start": 6.94,
+      "end": 7.12,
+      "word": "anche"
+    },
+    {
+      "start": 7.12,
+      "end": 7.22,
+      "word": "in"
+    },
+    {
+      "start": 7.22,
+      "end": 7.42,
+      "word": "tutta"
+    },
+    {
+      "start": 7.42,
+      "end": 7.74,
+      "word": "Italia."
+    },
+    {
+      "start": 7.86,
+      "end": 7.96,
+      "word": "Pagliamo"
+    },
+    {
+      "start": 7.96,
+      "end": 8.14,
+      "word": "di"
+    },
+    {
+      "start": 8.14,
+      "end": 8.16,
+      "word": "un"
+    },
+    {
+      "start": 8.16,
+      "end": 8.54,
+      "word": "ristorante"
+    },
+    {
+      "start": 8.54,
+      "end": 8.7,
+      "word": "con"
+    },
+    {
+      "start": 8.7,
+      "end": 8.8,
+      "word": "un"
+    },
+    {
+      "start": 8.8,
+      "end": 8.96,
+      "word": "menu"
+    },
+    {
+      "start": 8.96,
+      "end": 9.42,
+      "word": "umpissimo"
+    },
+    {
+      "start": 9.42,
+      "end": 9.64,
+      "word": "tra"
+    },
+    {
+      "start": 9.64,
+      "end": 10.22,
+      "word": "antipastri"
+    },
+    {
+      "start": 10.22,
+      "end": 10.48,
+      "word": "fritti"
+    },
+    {
+      "start": 10.48,
+      "end": 10.92,
+      "word": "primi"
+    },
+    {
+      "start": 10.92,
+      "end": 11.4,
+      "word": "secondi"
+    },
+    {
+      "start": 11.4,
+      "end": 11.72,
+      "word": "ovviamente"
+    },
+    {
+      "start": 11.72,
+      "end": 12.16,
+      "word": "pizza."
+    },
+    {
+      "start": 12.34,
+      "end": 12.44,
+      "word": "Il"
+    },
+    {
+      "start": 12.44,
+      "end": 12.58,
+      "word": "tutto"
+    },
+    {
+      "start": 12.58,
+      "end": 12.92,
+      "word": "ovviamente"
+    },
+    {
+      "start": 12.92,
+      "end": 13.54,
+      "word": "disponibile"
+    },
+    {
+      "start": 13.54,
+      "end": 13.78,
+      "word": "anche"
+    },
+    {
+      "start": 13.78,
+      "end": 13.92,
+      "word": "in"
+    },
+    {
+      "start": 13.92,
+      "end": 14.1,
+      "word": "gluten"
+    },
+    {
+      "start": 14.1,
+      "end": 14.3,
+      "word": "-free."
+    },
+    {
+      "start": 14.34,
+      "end": 14.5,
+      "word": "Abbiamo"
+    },
+    {
+      "start": 14.5,
+      "end": 14.94,
+      "word": "iniziato"
+    },
+    {
+      "start": 14.94,
+      "end": 15.12,
+      "word": "con"
+    },
+    {
+      "start": 15.12,
+      "end": 15.3,
+      "word": "degli"
+    },
+    {
+      "start": 15.3,
+      "end": 15.72,
+      "word": "arancini"
+    },
+    {
+      "start": 15.72,
+      "end": 15.94,
+      "word": "come"
+    },
+    {
+      "start": 15.94,
+      "end": 16.5,
+      "word": "antipasto"
+    },
+    {
+      "start": 16.5,
+      "end": 16.74,
+      "word": "che"
+    },
+    {
+      "start": 16.74,
+      "end": 16.9,
+      "word": "devo"
+    },
+    {
+      "start": 16.9,
+      "end": 17.1,
+      "word": "dire"
+    },
+    {
+      "start": 17.1,
+      "end": 17.4,
+      "word": "essere"
+    },
+    {
+      "start": 17.4,
+      "end": 17.78,
+      "word": "onesti"
+    },
+    {
+      "start": 17.78,
+      "end": 18.02,
+      "word": "molto"
+    },
+    {
+      "start": 18.02,
+      "end": 18.5,
+      "word": "semplici"
+    },
+    {
+      "start": 18.5,
+      "end": 18.84,
+      "word": "fritti"
+    },
+    {
+      "start": 18.84,
+      "end": 19.26,
+      "word": "abbastanza"
+    },
+    {
+      "start": 19.26,
+      "end": 19.6,
+      "word": "bene"
+    },
+    {
+      "start": 19.6,
+      "end": 19.82,
+      "word": "con"
+    },
+    {
+      "start": 19.82,
+      "end": 19.94,
+      "word": "il"
+    },
+    {
+      "start": 19.94,
+      "end": 20.16,
+      "word": "riso"
+    },
+    {
+      "start": 20.16,
+      "end": 20.24,
+      "word": "che"
+    },
+    {
+      "start": 20.24,
+      "end": 20.3,
+      "word": "ha"
+    },
+    {
+      "start": 20.3,
+      "end": 20.48,
+      "word": "comunque"
+    },
+    {
+      "start": 20.48,
+      "end": 20.94,
+      "word": "mantenuto"
+    },
+    {
+      "start": 20.94,
+      "end": 21.12,
+      "word": "la"
+    },
+    {
+      "start": 21.12,
+      "end": 21.34,
+      "word": "giusta"
+    },
+    {
+      "start": 21.34,
+      "end": 22.02,
+      "word": "consistenza"
+    },
+    {
+      "start": 22.02,
+      "end": 22.14,
+      "word": "e"
+    },
+    {
+      "start": 22.14,
+      "end": 22.24,
+      "word": "la"
+    },
+    {
+      "start": 22.24,
+      "end": 22.44,
+      "word": "paracola"
+    },
+    {
+      "start": 22.44,
+      "end": 22.7,
+      "word": "è"
+    },
+    {
+      "start": 22.7,
+      "end": 22.76,
+      "word": "bella"
+    },
+    {
+      "start": 22.76,
+      "end": 23.26,
+      "word": "croccante"
+    },
+    {
+      "start": 23.26,
+      "end": 23.42,
+      "word": "e"
+    },
+    {
+      "start": 23.42,
+      "end": 23.54,
+      "word": "dopo"
+    },
+    {
+      "start": 23.54,
+      "end": 23.68,
+      "word": "di"
+    },
+    {
+      "start": 23.68,
+      "end": 23.78,
+      "word": "che"
+    },
+    {
+      "start": 23.78,
+      "end": 23.88,
+      "word": "i"
+    },
+    {
+      "start": 23.88,
+      "end": 24.04,
+      "word": "ragazzi"
+    },
+    {
+      "start": 24.04,
+      "end": 24.28,
+      "word": "voluto"
+    },
+    {
+      "start": 24.28,
+      "end": 24.64,
+      "word": "provare"
+    },
+    {
+      "start": 24.64,
+      "end": 24.78,
+      "word": "il"
+    },
+    {
+      "start": 24.78,
+      "end": 24.9,
+      "word": "loro"
+    },
+    {
+      "start": 24.9,
+      "end": 25.44,
+      "word": "ripieno"
+    },
+    {
+      "start": 25.44,
+      "end": 25.8,
+      "word": "fritto."
+    },
+    {
+      "start": 25.92,
+      "end": 25.94,
+      "word": "In"
+    },
+    {
+      "start": 25.94,
+      "end": 26.3,
+      "word": "pratica"
+    },
+    {
+      "start": 26.3,
+      "end": 26.46,
+      "word": "la"
+    },
+    {
+      "start": 26.46,
+      "end": 26.62,
+      "word": "pizza"
+    },
+    {
+      "start": 26.62,
+      "end": 26.98,
+      "word": "fritta"
+    },
+    {
+      "start": 26.98,
+      "end": 27.22,
+      "word": "con"
+    },
+    {
+      "start": 27.22,
+      "end": 27.8,
+      "word": "prosciutto"
+    },
+    {
+      "start": 27.8,
+      "end": 28.0,
+      "word": "prova"
+    },
+    {
+      "start": 28.0,
+      "end": 28.16,
+      "word": "la"
+    },
+    {
+      "start": 28.16,
+      "end": 28.54,
+      "word": "campana"
+    },
+    {
+      "start": 28.54,
+      "end": 29.08,
+      "word": "parmigiana"
+    },
+    {
+      "start": 29.08,
+      "end": 29.58,
+      "word": "ricotta."
+    },
+    {
+      "start": 29.78,
+      "end": 30.08,
+      "word": "Impasto"
+    },
+    {
+      "start": 30.08,
+      "end": 30.26,
+      "word": "che"
+    },
+    {
+      "start": 30.26,
+      "end": 30.44,
+      "word": "per"
+    },
+    {
+      "start": 30.44,
+      "end": 30.58,
+      "word": "essere"
+    },
+    {
+      "start": 30.58,
+      "end": 30.88,
+      "word": "senza"
+    },
+    {
+      "start": 30.88,
+      "end": 31.28,
+      "word": "glutina"
+    },
+    {
+      "start": 31.28,
+      "end": 31.44,
+      "word": "era"
+    },
+    {
+      "start": 31.44,
+      "end": 31.64,
+      "word": "bello"
+    },
+    {
+      "start": 31.64,
+      "end": 32.14,
+      "word": "saporito"
+    },
+    {
+      "start": 32.14,
+      "end": 32.28,
+      "word": "ma"
+    },
+    {
+      "start": 32.28,
+      "end": 32.38,
+      "word": "con"
+    },
+    {
+      "start": 32.38,
+      "end": 32.48,
+      "word": "la"
+    },
+    {
+      "start": 32.48,
+      "end": 32.8,
+      "word": "frittura"
+    },
+    {
+      "start": 32.8,
+      "end": 32.9,
+      "word": "è"
+    },
+    {
+      "start": 32.9,
+      "end": 33.16,
+      "word": "rimasto"
+    },
+    {
+      "start": 33.16,
+      "end": 33.68,
+      "word": "abbastanza"
+    },
+    {
+      "start": 33.68,
+      "end": 34.0,
+      "word": "huto"
+    },
+    {
+      "start": 34.0,
+      "end": 34.22,
+      "word": "e"
+    },
+    {
+      "start": 34.22,
+      "end": 34.42,
+      "word": "quindi"
+    },
+    {
+      "start": 34.42,
+      "end": 34.56,
+      "word": "un"
+    },
+    {
+      "start": 34.56,
+      "end": 34.72,
+      "word": "filo"
+    },
+    {
+      "start": 34.72,
+      "end": 35.18,
+      "word": "pesante"
+    },
+    {
+      "start": 35.18,
+      "end": 35.4,
+      "word": "anche"
+    },
+    {
+      "start": 35.4,
+      "end": 35.54,
+      "word": "se"
+    },
+    {
+      "start": 35.54,
+      "end": 35.86,
+      "word": "direi"
+    },
+    {
+      "start": 35.86,
+      "end": 35.92,
+      "word": "che"
+    },
+    {
+      "start": 35.92,
+      "end": 36.34,
+      "word": "ordinando"
+    },
+    {
+      "start": 36.34,
+      "end": 36.5,
+      "word": "una"
+    },
+    {
+      "start": 36.5,
+      "end": 36.66,
+      "word": "pizza"
+    },
+    {
+      "start": 36.66,
+      "end": 37.08,
+      "word": "fritta"
+    },
+    {
+      "start": 37.08,
+      "end": 37.26,
+      "word": "di"
+    },
+    {
+      "start": 37.26,
+      "end": 37.4,
+      "word": "certo"
+    },
+    {
+      "start": 37.4,
+      "end": 37.62,
+      "word": "non"
+    },
+    {
+      "start": 37.62,
+      "end": 37.72,
+      "word": "ci"
+    },
+    {
+      "start": 37.72,
+      "end": 38.06,
+      "word": "aspetta"
+    },
+    {
+      "start": 38.06,
+      "end": 38.16,
+      "word": "una"
+    },
+    {
+      "start": 38.16,
+      "end": 38.32,
+      "word": "cosa"
+    },
+    {
+      "start": 38.32,
+      "end": 38.82,
+      "word": "leggera."
+    },
+    {
+      "start": 38.88,
+      "end": 39.12,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 39.12,
+      "end": 39.24,
+      "word": "ho"
+    },
+    {
+      "start": 39.24,
+      "end": 39.5,
+      "word": "provato"
+    },
+    {
+      "start": 39.5,
+      "end": 39.66,
+      "word": "la"
+    },
+    {
+      "start": 39.66,
+      "end": 39.86,
+      "word": "pizza"
+    },
+    {
+      "start": 39.86,
+      "end": 40.38,
+      "word": "classica"
+    },
+    {
+      "start": 40.38,
+      "end": 40.86,
+      "word": "ordinando"
+    },
+    {
+      "start": 40.86,
+      "end": 41.0,
+      "word": "la"
+    },
+    {
+      "start": 41.0,
+      "end": 41.54,
+      "word": "rustica"
+    },
+    {
+      "start": 41.54,
+      "end": 41.86,
+      "word": "ovvero"
+    },
+    {
+      "start": 41.86,
+      "end": 42.02,
+      "word": "una"
+    },
+    {
+      "start": 42.02,
+      "end": 42.2,
+      "word": "pizza"
+    },
+    {
+      "start": 42.2,
+      "end": 42.58,
+      "word": "bianca"
+    },
+    {
+      "start": 42.58,
+      "end": 42.78,
+      "word": "con"
+    },
+    {
+      "start": 42.78,
+      "end": 43.08,
+      "word": "mozzarella"
+    },
+    {
+      "start": 43.08,
+      "end": 43.3,
+      "word": "di"
+    },
+    {
+      "start": 43.3,
+      "end": 43.6,
+      "word": "bufala"
+    },
+    {
+      "start": 43.6,
+      "end": 43.9,
+      "word": "crocchè"
+    },
+    {
+      "start": 43.9,
+      "end": 44.0,
+      "word": "di"
+    },
+    {
+      "start": 44.0,
+      "end": 44.4,
+      "word": "patate"
+    },
+    {
+      "start": 44.4,
+      "end": 44.84,
+      "word": "parmigiano"
+    },
+    {
+      "start": 44.84,
+      "end": 45.2,
+      "word": "cipolla"
+    },
+    {
+      "start": 45.2,
+      "end": 45.84,
+      "word": "caramellata."
+    },
+    {
+      "start": 45.96,
+      "end": 46.26,
+      "word": "Traciando"
+    },
+    {
+      "start": 46.26,
+      "end": 46.36,
+      "word": "il"
+    },
+    {
+      "start": 46.36,
+      "end": 46.44,
+      "word": "fatto"
+    },
+    {
+      "start": 46.44,
+      "end": 46.62,
+      "word": "che"
+    },
+    {
+      "start": 46.62,
+      "end": 46.7,
+      "word": "la"
+    },
+    {
+      "start": 46.7,
+      "end": 46.98,
+      "word": "cipolla"
+    },
+    {
+      "start": 46.98,
+      "end": 47.24,
+      "word": "non"
+    },
+    {
+      "start": 47.24,
+      "end": 47.38,
+      "word": "si"
+    },
+    {
+      "start": 47.38,
+      "end": 47.72,
+      "word": "sentiva"
+    },
+    {
+      "start": 47.72,
+      "end": 48.28,
+      "word": "tantissimo"
+    },
+    {
+      "start": 48.28,
+      "end": 48.48,
+      "word": "devo"
+    },
+    {
+      "start": 48.48,
+      "end": 48.66,
+      "word": "dire"
+    },
+    {
+      "start": 48.66,
+      "end": 48.8,
+      "word": "che"
+    },
+    {
+      "start": 48.8,
+      "end": 48.94,
+      "word": "qui"
+    },
+    {
+      "start": 48.94,
+      "end": 49.0,
+      "word": "l"
+    },
+    {
+      "start": 49.0,
+      "end": 49.24,
+      "word": "'impasto"
+    },
+    {
+      "start": 49.24,
+      "end": 49.36,
+      "word": "l"
+    },
+    {
+      "start": 49.36,
+      "end": 49.4,
+      "word": "'ho"
+    },
+    {
+      "start": 49.4,
+      "end": 49.76,
+      "word": "sicuramente"
+    },
+    {
+      "start": 49.76,
+      "end": 50.24,
+      "word": "preferito"
+    },
+    {
+      "start": 50.24,
+      "end": 50.5,
+      "word": "rispetto"
+    },
+    {
+      "start": 50.5,
+      "end": 50.66,
+      "word": "alla"
+    },
+    {
+      "start": 50.66,
+      "end": 50.86,
+      "word": "pizza"
+    },
+    {
+      "start": 50.86,
+      "end": 51.26,
+      "word": "fritta"
+    },
+    {
+      "start": 51.26,
+      "end": 51.42,
+      "word": "e"
+    },
+    {
+      "start": 51.42,
+      "end": 51.52,
+      "word": "poi"
+    },
+    {
+      "start": 51.52,
+      "end": 51.7,
+      "word": "resta"
+    },
+    {
+      "start": 51.7,
+      "end": 51.8,
+      "word": "il"
+    },
+    {
+      "start": 51.8,
+      "end": 51.92,
+      "word": "fatto"
+    },
+    {
+      "start": 51.92,
+      "end": 52.08,
+      "word": "che"
+    },
+    {
+      "start": 52.08,
+      "end": 52.2,
+      "word": "avere"
+    },
+    {
+      "start": 52.2,
+      "end": 52.34,
+      "word": "un"
+    },
+    {
+      "start": 52.34,
+      "end": 52.54,
+      "word": "fritto"
+    },
+    {
+      "start": 52.54,
+      "end": 52.96,
+      "word": "glutenfree"
+    },
+    {
+      "start": 52.96,
+      "end": 53.08,
+      "word": "su"
+    },
+    {
+      "start": 53.08,
+      "end": 53.2,
+      "word": "una"
+    },
+    {
+      "start": 53.2,
+      "end": 53.44,
+      "word": "pizza"
+    },
+    {
+      "start": 53.44,
+      "end": 53.74,
+      "word": "non"
+    },
+    {
+      "start": 53.74,
+      "end": 53.86,
+      "word": "è"
+    },
+    {
+      "start": 53.86,
+      "end": 54.0,
+      "word": "mai"
+    },
+    {
+      "start": 54.0,
+      "end": 54.52,
+      "word": "scontato"
+    },
+    {
+      "start": 54.52,
+      "end": 54.62,
+      "word": "e"
+    },
+    {
+      "start": 54.62,
+      "end": 54.72,
+      "word": "tra"
+    },
+    {
+      "start": 54.72,
+      "end": 54.82,
+      "word": "l"
+    },
+    {
+      "start": 54.82,
+      "end": 55.0,
+      "word": "'altro"
+    },
+    {
+      "start": 55.0,
+      "end": 55.18,
+      "word": "ha"
+    },
+    {
+      "start": 55.18,
+      "end": 55.5,
+      "word": "provato"
+    },
+    {
+      "start": 55.5,
+      "end": 55.66,
+      "word": "anche"
+    },
+    {
+      "start": 55.66,
+      "end": 55.82,
+      "word": "dall"
+    },
+    {
+      "start": 55.82,
+      "end": 56.36,
+      "word": "'esperta."
+    },
+    {
+      "start": 56.44,
+      "end": 56.52,
+      "word": "Come"
+    },
+    {
+      "start": 56.52,
+      "end": 56.86,
+      "word": "dolci"
+    },
+    {
+      "start": 56.86,
+      "end": 56.96,
+      "word": "non"
+    },
+    {
+      "start": 56.96,
+      "end": 57.36,
+      "word": "potevano"
+    },
+    {
+      "start": 57.36,
+      "end": 57.88,
+      "word": "concludere"
+    },
+    {
+      "start": 57.88,
+      "end": 58.02,
+      "word": "con"
+    },
+    {
+      "start": 58.02,
+      "end": 58.14,
+      "word": "un"
+    },
+    {
+      "start": 58.14,
+      "end": 58.48,
+      "word": "tiramisu"
+    },
+    {
+      "start": 58.48,
+      "end": 58.62,
+      "word": "che"
+    },
+    {
+      "start": 58.62,
+      "end": 59.02,
+      "word": "nonostante"
+    },
+    {
+      "start": 59.02,
+      "end": 59.16,
+      "word": "alla"
+    },
+    {
+      "start": 59.16,
+      "end": 59.3,
+      "word": "vista"
+    },
+    {
+      "start": 59.3,
+      "end": 59.48,
+      "word": "non"
+    },
+    {
+      "start": 59.48,
+      "end": 59.6,
+      "word": "mi"
+    },
+    {
+      "start": 59.6,
+      "end": 60.06,
+      "word": "ispirasse"
+    },
+    {
+      "start": 60.06,
+      "end": 60.2,
+      "word": "a"
+    },
+    {
+      "start": 60.2,
+      "end": 60.48,
+      "word": "livello"
+    },
+    {
+      "start": 60.48,
+      "end": 60.6,
+      "word": "di"
+    },
+    {
+      "start": 60.6,
+      "end": 60.98,
+      "word": "sapore"
+    },
+    {
+      "start": 60.98,
+      "end": 61.66,
+      "word": "davvero"
+    },
+    {
+      "start": 61.66,
+      "end": 61.84,
+      "word": "uno"
+    },
+    {
+      "start": 61.84,
+      "end": 61.96,
+      "word": "dei"
+    },
+    {
+      "start": 61.96,
+      "end": 62.28,
+      "word": "migliori"
+    },
+    {
+      "start": 62.28,
+      "end": 62.64,
+      "word": "tiramisu"
+    },
+    {
+      "start": 62.64,
+      "end": 63.04,
+      "word": "provati"
+    },
+    {
+      "start": 63.04,
+      "end": 63.12,
+      "word": "in"
+    },
+    {
+      "start": 63.12,
+      "end": 63.16,
+      "word": "un"
+    },
+    {
+      "start": 63.16,
+      "end": 63.6,
+      "word": "ristorante"
+    },
+    {
+      "start": 63.6,
+      "end": 63.68,
+      "word": "a"
+    },
+    {
+      "start": 63.68,
+      "end": 63.96,
+      "word": "Milano."
+    },
+    {
+      "start": 63.98,
+      "end": 64.0,
+      "word": "In"
+    },
+    {
+      "start": 64.0,
+      "end": 64.48,
+      "word": "conclusione"
+    },
+    {
+      "start": 64.48,
+      "end": 64.68,
+      "word": "non"
+    },
+    {
+      "start": 64.68,
+      "end": 64.82,
+      "word": "la"
+    },
+    {
+      "start": 64.82,
+      "end": 65.04,
+      "word": "miglior"
+    },
+    {
+      "start": 65.04,
+      "end": 65.32,
+      "word": "pizza"
+    },
+    {
+      "start": 65.32,
+      "end": 65.78,
+      "word": "glutenfree"
+    },
+    {
+      "start": 65.78,
+      "end": 65.84,
+      "word": "che"
+    },
+    {
+      "start": 65.84,
+      "end": 65.9,
+      "word": "ho"
+    },
+    {
+      "start": 65.9,
+      "end": 66.3,
+      "word": "provato"
+    },
+    {
+      "start": 66.3,
+      "end": 66.42,
+      "word": "ma"
+    },
+    {
+      "start": 66.42,
+      "end": 66.98,
+      "word": "assolutamente"
+    },
+    {
+      "start": 66.98,
+      "end": 67.16,
+      "word": "un"
+    },
+    {
+      "start": 67.16,
+      "end": 67.4,
+      "word": "posto"
+    },
+    {
+      "start": 67.4,
+      "end": 67.42,
+      "word": "da"
+    },
+    {
+      "start": 67.42,
+      "end": 67.8,
+      "word": "provare"
+    },
+    {
+      "start": 67.8,
+      "end": 67.92,
+      "word": "se"
+    },
+    {
+      "start": 67.92,
+      "end": 68.14,
+      "word": "siete"
+    },
+    {
+      "start": 68.14,
+      "end": 68.42,
+      "word": "cieli"
+    },
+    {
+      "start": 68.42,
+      "end": 69.28,
+      "word": "acintoleranti."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067,
+      "transcript": "Il paradiso del senza glutina Milano. Oggi ragazzi siamo da Mama It"
+    },
+    {
+      "shot_idx": 1,
+      "start": 3.067,
+      "end": 4.533,
+      "dur": 1.467,
+      "transcript": "che a tutti gli effetti una vera"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.533,
+      "end": 6.133,
+      "dur": 1.6,
+      "transcript": "istituzione del senza glutina e non"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.133,
+      "end": 10.4,
+      "dur": 4.267,
+      "transcript": "solo a Milano ma anche in tutta Italia. Pagliamo di un ristorante con un menu umpissimo tra antipastri fritti"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.4,
+      "end": 12.4,
+      "dur": 2.0,
+      "transcript": "primi secondi ovviamente pizza. Il"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.4,
+      "end": 15.033,
+      "dur": 2.633,
+      "transcript": "tutto ovviamente disponibile anche in gluten -free. Abbiamo iniziato con"
+    },
+    {
+      "shot_idx": 6,
+      "start": 15.033,
+      "end": 18.667,
+      "dur": 3.633,
+      "transcript": "degli arancini come antipasto che devo dire essere onesti molto semplici"
+    },
+    {
+      "shot_idx": 7,
+      "start": 18.667,
+      "end": 20.633,
+      "dur": 1.967,
+      "transcript": "fritti abbastanza bene con il riso che ha comunque"
+    },
+    {
+      "shot_idx": 8,
+      "start": 20.633,
+      "end": 23.633,
+      "dur": 3.0,
+      "transcript": "mantenuto la giusta consistenza e la paracola è bella croccante e dopo di"
+    },
+    {
+      "shot_idx": 9,
+      "start": 23.633,
+      "end": 26.4,
+      "dur": 2.767,
+      "transcript": "che i ragazzi voluto provare il loro ripieno fritto. In pratica la"
+    },
+    {
+      "shot_idx": 10,
+      "start": 26.4,
+      "end": 28.2,
+      "dur": 1.8,
+      "transcript": "pizza fritta con prosciutto prova la"
+    },
+    {
+      "shot_idx": 11,
+      "start": 28.2,
+      "end": 30.2,
+      "dur": 2.0,
+      "transcript": "campana parmigiana ricotta. Impasto che"
+    },
+    {
+      "shot_idx": 12,
+      "start": 30.2,
+      "end": 32.2,
+      "dur": 2.0,
+      "transcript": "per essere senza glutina era bello saporito"
+    },
+    {
+      "shot_idx": 13,
+      "start": 32.2,
+      "end": 34.5,
+      "dur": 2.3,
+      "transcript": "ma con la frittura è rimasto abbastanza huto e quindi un"
+    },
+    {
+      "shot_idx": 14,
+      "start": 34.5,
+      "end": 36.933,
+      "dur": 2.433,
+      "transcript": "filo pesante anche se direi che ordinando una pizza fritta"
+    },
+    {
+      "shot_idx": 15,
+      "start": 36.933,
+      "end": 38.967,
+      "dur": 2.033,
+      "transcript": "di certo non ci aspetta una cosa leggera."
+    },
+    {
+      "shot_idx": 16,
+      "start": 38.967,
+      "end": 40.767,
+      "dur": 1.8,
+      "transcript": "Dopodiché ho provato la pizza classica ordinando"
+    },
+    {
+      "shot_idx": 17,
+      "start": 40.767,
+      "end": 43.3,
+      "dur": 2.533,
+      "transcript": "la rustica ovvero una pizza bianca con mozzarella di"
+    },
+    {
+      "shot_idx": 18,
+      "start": 43.3,
+      "end": 45.8,
+      "dur": 2.5,
+      "transcript": "bufala crocchè di patate parmigiano cipolla caramellata."
+    },
+    {
+      "shot_idx": 19,
+      "start": 45.8,
+      "end": 47.967,
+      "dur": 2.167,
+      "transcript": "Traciando il fatto che la cipolla non si sentiva"
+    },
+    {
+      "shot_idx": 20,
+      "start": 47.967,
+      "end": 49.767,
+      "dur": 1.8,
+      "transcript": "tantissimo devo dire che qui l 'impasto l 'ho sicuramente"
+    },
+    {
+      "shot_idx": 21,
+      "start": 49.767,
+      "end": 52.133,
+      "dur": 2.367,
+      "transcript": "preferito rispetto alla pizza fritta e poi resta il fatto che"
+    },
+    {
+      "shot_idx": 22,
+      "start": 52.133,
+      "end": 54.3,
+      "dur": 2.167,
+      "transcript": "avere un fritto glutenfree su una pizza non è mai scontato"
+    },
+    {
+      "shot_idx": 23,
+      "start": 54.3,
+      "end": 56.9,
+      "dur": 2.6,
+      "transcript": "e tra l 'altro ha provato anche dall 'esperta. Come dolci"
+    },
+    {
+      "shot_idx": 24,
+      "start": 56.9,
+      "end": 59.433,
+      "dur": 2.533,
+      "transcript": "non potevano concludere con un tiramisu che nonostante alla vista non"
+    },
+    {
+      "shot_idx": 25,
+      "start": 59.433,
+      "end": 63.233,
+      "dur": 3.8,
+      "transcript": "mi ispirasse a livello di sapore davvero uno dei migliori tiramisu provati in un"
+    },
+    {
+      "shot_idx": 26,
+      "start": 63.233,
+      "end": 64.267,
+      "dur": 1.033,
+      "transcript": "ristorante a Milano. In conclusione"
+    },
+    {
+      "shot_idx": 27,
+      "start": 64.267,
+      "end": 69.367,
+      "dur": 5.1,
+      "transcript": "non la miglior pizza glutenfree che ho provato ma assolutamente un posto da provare se siete cieli acintoleranti."
+    },
+    {
+      "shot_idx": 28,
+      "start": 69.367,
+      "end": 69.467,
+      "dur": 0.1,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Il paradiso del senza glutina Milano. Oggi ragazzi siamo da Mama It che a tutti gli effetti una vera istituzione del senza glutina e non solo a Milano ma anche in tutta Italia. Pagliamo di un ristorante con un menu umpissimo tra antipastri fritti primi secondi ovviamente pizza. Il tutto ovviamente disponibile anche in gluten-free. Abbiamo iniziato con degli arancini come antipasto che devo dire essere onesti molto semplici fritti abbastanza bene con il riso che ha comunque mantenuto la giusta consistenza e la paracola è bella croccante e dopo di che i ragazzi voluto provare il loro ripieno fritto. In pratica la pizza fritta con prosciutto prova la campana parmigiana ricotta. Impasto che per essere senza glutina era bello saporito ma con la frittura è rimasto abbastanza huto e quindi un filo pesante anche se direi che ordinando una pizza fritta di certo non ci aspetta una cosa leggera. Dopodiché ho provato la pizza classica ordinando la rustica ovvero una pizza bianca con mozzarella di bufala crocchè di patate parmigiano cipolla caramellata. Traciando il fatto che la cipolla non si sentiva tantissimo devo dire che qui l'impasto l'ho sicuramente preferito rispetto alla pizza fritta e poi resta il fatto che avere un fritto glutenfree su una pizza non è mai scontato e tra l'altro ha provato anche dall'esperta. Come dolci non potevano concludere con un tiramisu che nonostante alla vista non mi ispirasse a livello di sapore davvero uno dei migliori tiramisu provati in un ristorante a Milano. In conclusione non la miglior pizza glutenfree che ho provato ma assolutamente un posto da provare se siete cieli acintoleranti.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

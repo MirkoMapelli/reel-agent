@@ -1,0 +1,2396 @@
+{
+  "video_id": "7574014942957817110",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7574014942957817110",
+    "ref_id": "ref_45_7574014942957817110",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7574014942957817110",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 26,
+  "total_dur": 68.7,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "role": "person_eating",
+      "subject": "persona che mangia ramen",
+      "description": "Una persona solleva una lunga striscia di ramen con le bacchette da una ciotola colorata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Il miglior ramen gluten free a Milano? Oggi"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 4.533,
+      "dur": 2.5,
+      "center": 3.283,
+      "role": "person_eating",
+      "subject": "persona che mangia ramen",
+      "description": "Una persona sta per mangiare il ramen sollevato dalle bacchette.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ragazzi vi porto a provare un ramen che mi ha particolarmente"
+    },
+    {
+      "idx": 2,
+      "start": 4.533,
+      "end": 6.933,
+      "dur": 2.4,
+      "center": 5.733,
+      "role": "food_closeup",
+      "subject": "ramen con uovo e gnocchi",
+      "description": "Un primo piano del ramen con uovo sodo, gnocchi e verdure nella ciotola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "stupito ovviamente senza glutine. Siamo da Dim"
+    },
+    {
+      "idx": 3,
+      "start": 6.933,
+      "end": 8.433,
+      "dur": 1.5,
+      "center": 7.683,
+      "role": "venue_exterior",
+      "subject": "insegna ristorante Dim Ramen",
+      "description": "L'insegna luminosa 'DIM RAMEN' sopra l'ingresso di un ristorante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ramen in Guiale -Belgnui, ovvero"
+    },
+    {
+      "idx": 4,
+      "start": 8.433,
+      "end": 9.8,
+      "dur": 1.367,
+      "center": 9.117,
+      "role": "venue_exterior",
+      "subject": "insegna ristorante Dim Sum",
+      "description": "L'insegna luminosa 'DIM SUM' con un'illustrazione di cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "un piccolo locale che ha però"
+    },
+    {
+      "idx": 5,
+      "start": 9.8,
+      "end": 15.833,
+      "dur": 6.033,
+      "center": 12.817,
+      "role": "menu_board",
+      "subject": "menu poke restaurant",
+      "description": "Il menu aperto mostra diverse opzioni di poke bowl con ingredienti e prezzi.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "un intero menu dedicato al gluten free, comprendendo quindi sia gli antipasti che i veri e propri ramen. Appena seduti vi"
+    },
+    {
+      "idx": 6,
+      "start": 15.833,
+      "end": 18.067,
+      "dur": 2.233,
+      "center": 16.95,
+      "role": "food_detail",
+      "subject": "ciotole insalata",
+      "description": "Due piccole ciotole con insalata e condimento sono posizionate su un tavolo di legno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "servono queste verdurine con una salsa sese, ma ho"
+    },
+    {
+      "idx": 7,
+      "start": 18.067,
+      "end": 19.667,
+      "dur": 1.6,
+      "center": 18.867,
+      "role": "person_eating",
+      "subject": "ragazzo mangia insalata",
+      "description": "Un ragazzo sta mangiando insalata con le bacchette da una piccola ciotola.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "giusto per iniziare. Dopodiché noi abbiamo"
+    },
+    {
+      "idx": 8,
+      "start": 19.667,
+      "end": 22.133,
+      "dur": 2.467,
+      "center": 20.9,
+      "role": "food_plated",
+      "subject": "involtini gamberi salsa",
+      "description": "Due involtini primavera con gamberi e una ciotolina di salsa agrodolce sono su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ordinato due involtini di gambri, diciamo tra l 'altro"
+    },
+    {
+      "idx": 9,
+      "start": 22.133,
+      "end": 23.767,
+      "dur": 1.633,
+      "center": 22.95,
+      "role": "drink_detail",
+      "subject": "bottiglia salsa soia",
+      "description": "Una bottiglia di salsa di soia è al centro del tavolo, con un involtino in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "servito con anche la salsa di soia"
+    },
+    {
+      "idx": 10,
+      "start": 23.767,
+      "end": 26.833,
+      "dur": 3.067,
+      "center": 25.3,
+      "role": "food_plated",
+      "subject": "involtini primavera salsa",
+      "description": "Due involtini primavera trasparenti su un piatto bianco con una ciotolina di salsa rossa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "gluten free. In voltini con gambri e verdure molto buoni, soprattutto se"
+    },
+    {
+      "idx": 11,
+      "start": 26.833,
+      "end": 28.433,
+      "dur": 1.6,
+      "center": 27.633,
+      "role": "person_eating",
+      "subject": "ragazzo mangia involtino",
+      "description": "Un ragazzo con una maglietta nera con la scritta 'Why So Serious?' sta per mangiare un involtino con le bacchette.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "accompagnati con questa salsa sinagro dolce"
+    },
+    {
+      "idx": 12,
+      "start": 28.433,
+      "end": 30.933,
+      "dur": 2.5,
+      "center": 29.683,
+      "role": "person_eating",
+      "subject": "ragazzo mangia involtino",
+      "description": "Il ragazzo sta addentando un involtino primavera, con un'espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "che ovviamente ci sta benissimo con gli involtini. Passando invece"
+    },
+    {
+      "idx": 13,
+      "start": 30.933,
+      "end": 35.9,
+      "dur": 4.967,
+      "center": 33.417,
+      "role": "food_closeup",
+      "subject": "ramen uova ravioli",
+      "description": "Una ciotola di ramen con uova sode tagliate a metà, ravioli e verdure, con un cucchiaio di legno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "al punto forte ovvero il loro ramen senza glutine ho provato questo con anche ravioli di carne, oltre ovviamente"
+    },
+    {
+      "idx": 14,
+      "start": 35.9,
+      "end": 38.9,
+      "dur": 3.0,
+      "center": 37.4,
+      "role": "food_closeup",
+      "subject": "ramen uova ravioli",
+      "description": "Una ciotola di ramen con uova sode, ravioli, alghe e cipollotto, con le bacchette appoggiate sopra.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "al paccioio, il cipollotto, al uacame e al uovo. I"
+    },
+    {
+      "idx": 15,
+      "start": 38.9,
+      "end": 42.8,
+      "dur": 3.9,
+      "center": 40.85,
+      "role": "food_detail",
+      "subject": "tagliatella ramen sollevata",
+      "description": "La tagliatella di ramen viene sollevata con le bacchette, mostrando la sua lunghezza e consistenza.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "noodles avevano questo formato simile tagliatella. M 'erano davvero molto buoni, soprattutto molto"
+    },
+    {
+      "idx": 16,
+      "start": 42.8,
+      "end": 45.8,
+      "dur": 3.0,
+      "center": 44.3,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ramen",
+      "description": "Il ragazzo sta mangiando il ramen direttamente dalla ciotola con le bacchette.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "saporiti insieme ovviamente al brodo del ramen, così proprio"
+    },
+    {
+      "idx": 17,
+      "start": 45.8,
+      "end": 49.5,
+      "dur": 3.7,
+      "center": 47.65,
+      "role": "food_detail",
+      "subject": "ingredienti ramen ciotola",
+      "description": "Si vedono in dettaglio gli ingredienti del ramen nella ciotola, come uova, narutomaki e cipollina.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "come lo erano anche ravioli. Dopodiché però ho voluto comunque assaggiare un ramen normale"
+    },
+    {
+      "idx": 18,
+      "start": 49.5,
+      "end": 51.867,
+      "dur": 2.367,
+      "center": 50.683,
+      "role": "person_eating",
+      "subject": "ragazzo beve brodo",
+      "description": "Il ragazzo sta bevendo il brodo del ramen con un cucchiaio di legno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "e per quanto il brodo potesse sembrare più denso era"
+    },
+    {
+      "idx": 19,
+      "start": 51.867,
+      "end": 53.9,
+      "dur": 2.033,
+      "center": 52.883,
+      "role": "food_detail",
+      "subject": "carne e noodles sollevati",
+      "description": "Un pezzo di carne e noodles vengono sollevati dalle bacchette, mostrando la consistenza del cibo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "decisamente meno saporito con un sapore molto"
+    },
+    {
+      "idx": 20,
+      "start": 53.9,
+      "end": 55.867,
+      "dur": 1.967,
+      "center": 54.883,
+      "role": "person_eating",
+      "subject": "uomo mangia ramen",
+      "description": "Un uomo tiene in alto con le bacchette un pezzo di carne e noodles, con la scritta 'QUELLO' in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "più leggero rispetto a quello senza glutine, che"
+    },
+    {
+      "idx": 21,
+      "start": 55.867,
+      "end": 57.667,
+      "dur": 1.8,
+      "center": 56.767,
+      "role": "person_eating",
+      "subject": "uomo mangia ramen",
+      "description": "L'uomo sta per mangiare un boccone di ramen con le bacchette, con la scritta 'PARECCHIO' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "mi ha stupito parecchio perché solitamente è"
+    },
+    {
+      "idx": 22,
+      "start": 57.667,
+      "end": 60.633,
+      "dur": 2.967,
+      "center": 59.15,
+      "role": "person_eating",
+      "subject": "uomo mangia ramen",
+      "description": "L'uomo sta mangiando i noodles direttamente dalla ciotola, con la scritta 'PRODOTTO' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "il contrario. Non in caso il prodotto resta ottimo in entrambe le sue"
+    },
+    {
+      "idx": 23,
+      "start": 60.633,
+      "end": 62.833,
+      "dur": 2.2,
+      "center": 61.733,
+      "role": "food_detail",
+      "subject": "uovo sodo ramen",
+      "description": "Un uovo sodo tagliato a metà è tenuto su un cucchiaio di legno, con la scritta 'CHE' in primo piano.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "forme, ed è per questo che ve lo consiglio se siete"
+    },
+    {
+      "idx": 24,
+      "start": 62.833,
+      "end": 65.667,
+      "dur": 2.833,
+      "center": 64.25,
+      "role": "person_eating",
+      "subject": "uomo mangia ramen",
+      "description": "L'uomo continua a mangiare i noodles dalla ciotola, con la scritta 'CELIACI' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "intolleranti al glutine o cegliaci, sia se non lo siete."
+    },
+    {
+      "idx": 25,
+      "start": 65.667,
+      "end": 68.7,
+      "dur": 3.033,
+      "center": 67.183,
+      "role": "other",
+      "subject": "due pacchetti dolci",
+      "description": "Una mano tiene due piccoli pacchetti di dolci, uno verde e uno dorato, con la scritta 'FORTUNA' in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ah, e per concludere biscotto della fortuna e molci gluten free."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "persona che mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una persona solleva una lunga striscia di ramen con le bacchette da una ciotola colorata.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "persona che mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una persona sta per mangiare il ramen sollevato dalle bacchette.",
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.533,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "ramen con uovo e gnocchi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un primo piano del ramen con uovo sodo, gnocchi e verdure nella ciotola.",
+      "shot_idx": 2,
+      "start": 4.533,
+      "end": 6.933,
+      "dur": 2.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna ristorante Dim Ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'insegna luminosa 'DIM RAMEN' sopra l'ingresso di un ristorante.",
+      "shot_idx": 3,
+      "start": 6.933,
+      "end": 8.433,
+      "dur": 1.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna ristorante Dim Sum",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'insegna luminosa 'DIM SUM' con un'illustrazione di cibo.",
+      "shot_idx": 4,
+      "start": 8.433,
+      "end": 9.8,
+      "dur": 1.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "menu_board",
+      "soggetto": "menu poke restaurant",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il menu aperto mostra diverse opzioni di poke bowl con ingredienti e prezzi.",
+      "shot_idx": 5,
+      "start": 9.8,
+      "end": 15.833,
+      "dur": 6.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "ciotole insalata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due piccole ciotole con insalata e condimento sono posizionate su un tavolo di legno.",
+      "shot_idx": 6,
+      "start": 15.833,
+      "end": 18.067,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia insalata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando insalata con le bacchette da una piccola ciotola.",
+      "shot_idx": 7,
+      "start": 18.067,
+      "end": 19.667,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "involtini gamberi salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due involtini primavera con gamberi e una ciotolina di salsa agrodolce sono su un piatto bianco.",
+      "shot_idx": 8,
+      "start": 19.667,
+      "end": 22.133,
+      "dur": 2.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "bottiglia salsa soia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una bottiglia di salsa di soia è al centro del tavolo, con un involtino in primo piano.",
+      "shot_idx": 9,
+      "start": 22.133,
+      "end": 23.767,
+      "dur": 1.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "involtini primavera salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due involtini primavera trasparenti su un piatto bianco con una ciotolina di salsa rossa.",
+      "shot_idx": 10,
+      "start": 23.767,
+      "end": 26.833,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia involtino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta nera con la scritta 'Why So Serious?' sta per mangiare un involtino con le bacchette.",
+      "shot_idx": 11,
+      "start": 26.833,
+      "end": 28.433,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia involtino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un involtino primavera, con un'espressione soddisfatta.",
+      "shot_idx": 12,
+      "start": 28.433,
+      "end": 30.933,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "ramen uova ravioli",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una ciotola di ramen con uova sode tagliate a metà, ravioli e verdure, con un cucchiaio di legno.",
+      "shot_idx": 13,
+      "start": 30.933,
+      "end": 35.9,
+      "dur": 4.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "ramen uova ravioli",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una ciotola di ramen con uova sode, ravioli, alghe e cipollotto, con le bacchette appoggiate sopra.",
+      "shot_idx": 14,
+      "start": 35.9,
+      "end": 38.9,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "tagliatella ramen sollevata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La tagliatella di ramen viene sollevata con le bacchette, mostrando la sua lunghezza e consistenza.",
+      "shot_idx": 15,
+      "start": 38.9,
+      "end": 42.8,
+      "dur": 3.9
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando il ramen direttamente dalla ciotola con le bacchette.",
+      "shot_idx": 16,
+      "start": 42.8,
+      "end": 45.8,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "ingredienti ramen ciotola",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Si vedono in dettaglio gli ingredienti del ramen nella ciotola, come uova, narutomaki e cipollina.",
+      "shot_idx": 17,
+      "start": 45.8,
+      "end": 49.5,
+      "dur": 3.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve brodo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta bevendo il brodo del ramen con un cucchiaio di legno.",
+      "shot_idx": 18,
+      "start": 49.5,
+      "end": 51.867,
+      "dur": 2.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "carne e noodles sollevati",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di carne e noodles vengono sollevati dalle bacchette, mostrando la consistenza del cibo.",
+      "shot_idx": 19,
+      "start": 51.867,
+      "end": 53.9,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ramen",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in alto con le bacchette un pezzo di carne e noodles, con la scritta 'QUELLO' in primo piano.",
+      "shot_idx": 20,
+      "start": 53.9,
+      "end": 55.867,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta per mangiare un boccone di ramen con le bacchette, con la scritta 'PARECCHIO' in primo piano.",
+      "shot_idx": 21,
+      "start": 55.867,
+      "end": 57.667,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta mangiando i noodles direttamente dalla ciotola, con la scritta 'PRODOTTO' in primo piano.",
+      "shot_idx": 22,
+      "start": 57.667,
+      "end": 60.633,
+      "dur": 2.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "uovo sodo ramen",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uovo sodo tagliato a metà è tenuto su un cucchiaio di legno, con la scritta 'CHE' in primo piano.",
+      "shot_idx": 23,
+      "start": 60.633,
+      "end": 62.833,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ramen",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo continua a mangiare i noodles dalla ciotola, con la scritta 'CELIACI' in primo piano.",
+      "shot_idx": 24,
+      "start": 62.833,
+      "end": 65.667,
+      "dur": 2.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "due pacchetti dolci",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene due piccoli pacchetti di dolci, uno verde e uno dorato, con la scritta 'FORTUNA' in primo piano.",
+      "shot_idx": 25,
+      "start": 65.667,
+      "end": 68.7,
+      "dur": 3.033
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Il miglior ramen gluten free a Milano? Oggi ragazzi vi porto a provare un ramen che mi ha particolarmente"
+    },
+    {
+      "start": 4.64,
+      "end": 9.56,
+      "text": "stupito ovviamente senza glutine. Siamo da Dim Ramen in Guiale-Belgnui, ovvero un piccolo locale che"
+    },
+    {
+      "start": 9.56,
+      "end": 14.3,
+      "text": "ha però un intero menu dedicato al gluten free, comprendendo quindi sia gli antipasti che i veri"
+    },
+    {
+      "start": 14.3,
+      "end": 18.4,
+      "text": "e propri ramen. Appena seduti vi servono queste verdurine con una salsa sese, ma ho giusto per"
+    },
+    {
+      "start": 18.4,
+      "end": 22.14,
+      "text": "iniziare. Dopodiché noi abbiamo ordinato due involtini di gambri, diciamo tra l'altro"
+    },
+    {
+      "start": 22.14,
+      "end": 26.32,
+      "text": "servito con anche la salsa di soia gluten free. In voltini con gambri e verdure molto buoni,"
+    },
+    {
+      "start": 26.32,
+      "end": 29.74,
+      "text": "soprattutto se accompagnati con questa salsa sinagro dolce che ovviamente ci sta benissimo"
+    },
+    {
+      "start": 29.74,
+      "end": 34.04,
+      "text": "con gli involtini. Passando invece al punto forte ovvero il loro ramen senza glutine ho provato questo"
+    },
+    {
+      "start": 34.04,
+      "end": 38.72,
+      "text": "con anche ravioli di carne, oltre ovviamente al paccioio, il cipollotto, al uacame e al uovo."
+    },
+    {
+      "start": 38.82,
+      "end": 42.22,
+      "text": "I noodles avevano questo formato simile tagliatella. M'erano davvero molto buoni,"
+    },
+    {
+      "start": 42.3,
+      "end": 46.4,
+      "text": "soprattutto molto saporiti insieme ovviamente al brodo del ramen, così proprio come lo erano"
+    },
+    {
+      "start": 46.4,
+      "end": 50.06,
+      "text": "anche ravioli. Dopodiché però ho voluto comunque assaggiare un ramen normale e per quanto"
+    },
+    {
+      "start": 50.06,
+      "end": 53.88,
+      "text": "il brodo potesse sembrare più denso era decisamente meno saporito con un sapore molto"
+    },
+    {
+      "start": 53.88,
+      "end": 57.66,
+      "text": "più leggero rispetto a quello senza glutine, che mi ha stupito parecchio perché solitamente è"
+    },
+    {
+      "start": 57.66,
+      "end": 61.7,
+      "text": "il contrario. Non in caso il prodotto resta ottimo in entrambe le sue forme, ed è per questo che"
+    },
+    {
+      "start": 61.7,
+      "end": 65.52,
+      "text": "ve lo consiglio se siete intolleranti al glutine o cegliaci, sia se non lo siete."
+    },
+    {
+      "start": 65.74,
+      "end": 68.44,
+      "text": "Ah, e per concludere biscotto della fortuna e molci gluten free."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "word": "Il"
+    },
+    {
+      "start": 0.18,
+      "end": 0.46,
+      "word": "miglior"
+    },
+    {
+      "start": 0.46,
+      "end": 0.78,
+      "word": "ramen"
+    },
+    {
+      "start": 0.78,
+      "end": 1.08,
+      "word": "gluten"
+    },
+    {
+      "start": 1.08,
+      "end": 1.36,
+      "word": "free"
+    },
+    {
+      "start": 1.36,
+      "end": 1.46,
+      "word": "a"
+    },
+    {
+      "start": 1.46,
+      "end": 1.84,
+      "word": "Milano?"
+    },
+    {
+      "start": 1.96,
+      "end": 2.08,
+      "word": "Oggi"
+    },
+    {
+      "start": 2.08,
+      "end": 2.34,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.34,
+      "end": 2.46,
+      "word": "vi"
+    },
+    {
+      "start": 2.46,
+      "end": 2.7,
+      "word": "porto"
+    },
+    {
+      "start": 2.7,
+      "end": 2.78,
+      "word": "a"
+    },
+    {
+      "start": 2.78,
+      "end": 3.12,
+      "word": "provare"
+    },
+    {
+      "start": 3.12,
+      "end": 3.34,
+      "word": "un"
+    },
+    {
+      "start": 3.34,
+      "end": 3.6,
+      "word": "ramen"
+    },
+    {
+      "start": 3.6,
+      "end": 3.76,
+      "word": "che"
+    },
+    {
+      "start": 3.76,
+      "end": 3.86,
+      "word": "mi"
+    },
+    {
+      "start": 3.86,
+      "end": 3.96,
+      "word": "ha"
+    },
+    {
+      "start": 3.96,
+      "end": 4.64,
+      "word": "particolarmente"
+    },
+    {
+      "start": 4.64,
+      "end": 5.1,
+      "word": "stupito"
+    },
+    {
+      "start": 5.1,
+      "end": 5.48,
+      "word": "ovviamente"
+    },
+    {
+      "start": 5.48,
+      "end": 5.82,
+      "word": "senza"
+    },
+    {
+      "start": 5.82,
+      "end": 6.36,
+      "word": "glutine."
+    },
+    {
+      "start": 6.52,
+      "end": 6.64,
+      "word": "Siamo"
+    },
+    {
+      "start": 6.64,
+      "end": 6.8,
+      "word": "da"
+    },
+    {
+      "start": 6.8,
+      "end": 7.0,
+      "word": "Dim"
+    },
+    {
+      "start": 7.0,
+      "end": 7.34,
+      "word": "Ramen"
+    },
+    {
+      "start": 7.34,
+      "end": 7.56,
+      "word": "in"
+    },
+    {
+      "start": 7.56,
+      "end": 7.78,
+      "word": "Guiale"
+    },
+    {
+      "start": 7.78,
+      "end": 8.18,
+      "word": "-Belgnui,"
+    },
+    {
+      "start": 8.3,
+      "end": 8.52,
+      "word": "ovvero"
+    },
+    {
+      "start": 8.52,
+      "end": 8.66,
+      "word": "un"
+    },
+    {
+      "start": 8.66,
+      "end": 9.0,
+      "word": "piccolo"
+    },
+    {
+      "start": 9.0,
+      "end": 9.4,
+      "word": "locale"
+    },
+    {
+      "start": 9.4,
+      "end": 9.56,
+      "word": "che"
+    },
+    {
+      "start": 9.56,
+      "end": 9.64,
+      "word": "ha"
+    },
+    {
+      "start": 9.64,
+      "end": 9.78,
+      "word": "però"
+    },
+    {
+      "start": 9.78,
+      "end": 9.96,
+      "word": "un"
+    },
+    {
+      "start": 9.96,
+      "end": 10.36,
+      "word": "intero"
+    },
+    {
+      "start": 10.36,
+      "end": 10.56,
+      "word": "menu"
+    },
+    {
+      "start": 10.56,
+      "end": 11.14,
+      "word": "dedicato"
+    },
+    {
+      "start": 11.14,
+      "end": 11.28,
+      "word": "al"
+    },
+    {
+      "start": 11.28,
+      "end": 11.5,
+      "word": "gluten"
+    },
+    {
+      "start": 11.5,
+      "end": 11.8,
+      "word": "free,"
+    },
+    {
+      "start": 11.86,
+      "end": 12.36,
+      "word": "comprendendo"
+    },
+    {
+      "start": 12.36,
+      "end": 12.62,
+      "word": "quindi"
+    },
+    {
+      "start": 12.62,
+      "end": 12.9,
+      "word": "sia"
+    },
+    {
+      "start": 12.9,
+      "end": 13.04,
+      "word": "gli"
+    },
+    {
+      "start": 13.04,
+      "end": 13.6,
+      "word": "antipasti"
+    },
+    {
+      "start": 13.6,
+      "end": 13.86,
+      "word": "che"
+    },
+    {
+      "start": 13.86,
+      "end": 14.08,
+      "word": "i"
+    },
+    {
+      "start": 14.08,
+      "end": 14.3,
+      "word": "veri"
+    },
+    {
+      "start": 14.3,
+      "end": 14.34,
+      "word": "e"
+    },
+    {
+      "start": 14.34,
+      "end": 14.5,
+      "word": "propri"
+    },
+    {
+      "start": 14.5,
+      "end": 14.88,
+      "word": "ramen."
+    },
+    {
+      "start": 15.1,
+      "end": 15.28,
+      "word": "Appena"
+    },
+    {
+      "start": 15.28,
+      "end": 15.64,
+      "word": "seduti"
+    },
+    {
+      "start": 15.64,
+      "end": 15.84,
+      "word": "vi"
+    },
+    {
+      "start": 15.84,
+      "end": 16.14,
+      "word": "servono"
+    },
+    {
+      "start": 16.14,
+      "end": 16.38,
+      "word": "queste"
+    },
+    {
+      "start": 16.38,
+      "end": 16.92,
+      "word": "verdurine"
+    },
+    {
+      "start": 16.92,
+      "end": 17.06,
+      "word": "con"
+    },
+    {
+      "start": 17.06,
+      "end": 17.22,
+      "word": "una"
+    },
+    {
+      "start": 17.22,
+      "end": 17.4,
+      "word": "salsa"
+    },
+    {
+      "start": 17.4,
+      "end": 17.76,
+      "word": "sese,"
+    },
+    {
+      "start": 17.88,
+      "end": 17.98,
+      "word": "ma"
+    },
+    {
+      "start": 17.98,
+      "end": 18.08,
+      "word": "ho"
+    },
+    {
+      "start": 18.08,
+      "end": 18.24,
+      "word": "giusto"
+    },
+    {
+      "start": 18.24,
+      "end": 18.4,
+      "word": "per"
+    },
+    {
+      "start": 18.4,
+      "end": 18.94,
+      "word": "iniziare."
+    },
+    {
+      "start": 19.1,
+      "end": 19.26,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 19.26,
+      "end": 19.46,
+      "word": "noi"
+    },
+    {
+      "start": 19.46,
+      "end": 19.64,
+      "word": "abbiamo"
+    },
+    {
+      "start": 19.64,
+      "end": 20.06,
+      "word": "ordinato"
+    },
+    {
+      "start": 20.06,
+      "end": 20.38,
+      "word": "due"
+    },
+    {
+      "start": 20.38,
+      "end": 21.06,
+      "word": "involtini"
+    },
+    {
+      "start": 21.06,
+      "end": 21.24,
+      "word": "di"
+    },
+    {
+      "start": 21.24,
+      "end": 21.58,
+      "word": "gambri,"
+    },
+    {
+      "start": 21.64,
+      "end": 21.8,
+      "word": "diciamo"
+    },
+    {
+      "start": 21.8,
+      "end": 21.96,
+      "word": "tra"
+    },
+    {
+      "start": 21.96,
+      "end": 22.1,
+      "word": "l"
+    },
+    {
+      "start": 22.1,
+      "end": 22.14,
+      "word": "'altro"
+    },
+    {
+      "start": 22.14,
+      "end": 22.54,
+      "word": "servito"
+    },
+    {
+      "start": 22.54,
+      "end": 22.74,
+      "word": "con"
+    },
+    {
+      "start": 22.74,
+      "end": 22.94,
+      "word": "anche"
+    },
+    {
+      "start": 22.94,
+      "end": 23.1,
+      "word": "la"
+    },
+    {
+      "start": 23.1,
+      "end": 23.24,
+      "word": "salsa"
+    },
+    {
+      "start": 23.24,
+      "end": 23.44,
+      "word": "di"
+    },
+    {
+      "start": 23.44,
+      "end": 23.7,
+      "word": "soia"
+    },
+    {
+      "start": 23.7,
+      "end": 23.92,
+      "word": "gluten"
+    },
+    {
+      "start": 23.92,
+      "end": 24.24,
+      "word": "free."
+    },
+    {
+      "start": 24.3,
+      "end": 24.4,
+      "word": "In"
+    },
+    {
+      "start": 24.4,
+      "end": 24.7,
+      "word": "voltini"
+    },
+    {
+      "start": 24.7,
+      "end": 24.88,
+      "word": "con"
+    },
+    {
+      "start": 24.88,
+      "end": 25.2,
+      "word": "gambri"
+    },
+    {
+      "start": 25.2,
+      "end": 25.3,
+      "word": "e"
+    },
+    {
+      "start": 25.3,
+      "end": 25.62,
+      "word": "verdure"
+    },
+    {
+      "start": 25.62,
+      "end": 25.92,
+      "word": "molto"
+    },
+    {
+      "start": 25.92,
+      "end": 26.32,
+      "word": "buoni,"
+    },
+    {
+      "start": 26.32,
+      "end": 26.64,
+      "word": "soprattutto"
+    },
+    {
+      "start": 26.64,
+      "end": 26.82,
+      "word": "se"
+    },
+    {
+      "start": 26.82,
+      "end": 27.22,
+      "word": "accompagnati"
+    },
+    {
+      "start": 27.22,
+      "end": 27.36,
+      "word": "con"
+    },
+    {
+      "start": 27.36,
+      "end": 27.56,
+      "word": "questa"
+    },
+    {
+      "start": 27.56,
+      "end": 27.7,
+      "word": "salsa"
+    },
+    {
+      "start": 27.7,
+      "end": 28.12,
+      "word": "sinagro"
+    },
+    {
+      "start": 28.12,
+      "end": 28.48,
+      "word": "dolce"
+    },
+    {
+      "start": 28.48,
+      "end": 28.68,
+      "word": "che"
+    },
+    {
+      "start": 28.68,
+      "end": 28.96,
+      "word": "ovviamente"
+    },
+    {
+      "start": 28.96,
+      "end": 29.22,
+      "word": "ci"
+    },
+    {
+      "start": 29.22,
+      "end": 29.34,
+      "word": "sta"
+    },
+    {
+      "start": 29.34,
+      "end": 29.74,
+      "word": "benissimo"
+    },
+    {
+      "start": 29.74,
+      "end": 29.88,
+      "word": "con"
+    },
+    {
+      "start": 29.88,
+      "end": 30.0,
+      "word": "gli"
+    },
+    {
+      "start": 30.0,
+      "end": 30.44,
+      "word": "involtini."
+    },
+    {
+      "start": 30.58,
+      "end": 30.78,
+      "word": "Passando"
+    },
+    {
+      "start": 30.78,
+      "end": 30.96,
+      "word": "invece"
+    },
+    {
+      "start": 30.96,
+      "end": 31.16,
+      "word": "al"
+    },
+    {
+      "start": 31.16,
+      "end": 31.28,
+      "word": "punto"
+    },
+    {
+      "start": 31.28,
+      "end": 31.68,
+      "word": "forte"
+    },
+    {
+      "start": 31.68,
+      "end": 32.02,
+      "word": "ovvero"
+    },
+    {
+      "start": 32.02,
+      "end": 32.22,
+      "word": "il"
+    },
+    {
+      "start": 32.22,
+      "end": 32.32,
+      "word": "loro"
+    },
+    {
+      "start": 32.32,
+      "end": 32.64,
+      "word": "ramen"
+    },
+    {
+      "start": 32.64,
+      "end": 32.88,
+      "word": "senza"
+    },
+    {
+      "start": 32.88,
+      "end": 33.34,
+      "word": "glutine"
+    },
+    {
+      "start": 33.34,
+      "end": 33.46,
+      "word": "ho"
+    },
+    {
+      "start": 33.46,
+      "end": 33.7,
+      "word": "provato"
+    },
+    {
+      "start": 33.7,
+      "end": 34.04,
+      "word": "questo"
+    },
+    {
+      "start": 34.04,
+      "end": 34.2,
+      "word": "con"
+    },
+    {
+      "start": 34.2,
+      "end": 34.42,
+      "word": "anche"
+    },
+    {
+      "start": 34.42,
+      "end": 34.72,
+      "word": "ravioli"
+    },
+    {
+      "start": 34.72,
+      "end": 34.9,
+      "word": "di"
+    },
+    {
+      "start": 34.9,
+      "end": 35.22,
+      "word": "carne,"
+    },
+    {
+      "start": 35.34,
+      "end": 35.54,
+      "word": "oltre"
+    },
+    {
+      "start": 35.54,
+      "end": 35.86,
+      "word": "ovviamente"
+    },
+    {
+      "start": 35.86,
+      "end": 36.08,
+      "word": "al"
+    },
+    {
+      "start": 36.08,
+      "end": 36.56,
+      "word": "paccioio,"
+    },
+    {
+      "start": 36.62,
+      "end": 36.68,
+      "word": "il"
+    },
+    {
+      "start": 36.68,
+      "end": 37.32,
+      "word": "cipollotto,"
+    },
+    {
+      "start": 37.52,
+      "end": 37.6,
+      "word": "al"
+    },
+    {
+      "start": 37.6,
+      "end": 38.04,
+      "word": "uacame"
+    },
+    {
+      "start": 38.04,
+      "end": 38.26,
+      "word": "e"
+    },
+    {
+      "start": 38.26,
+      "end": 38.38,
+      "word": "al"
+    },
+    {
+      "start": 38.38,
+      "end": 38.72,
+      "word": "uovo."
+    },
+    {
+      "start": 38.82,
+      "end": 38.9,
+      "word": "I"
+    },
+    {
+      "start": 38.9,
+      "end": 39.06,
+      "word": "noodles"
+    },
+    {
+      "start": 39.06,
+      "end": 39.5,
+      "word": "avevano"
+    },
+    {
+      "start": 39.5,
+      "end": 39.74,
+      "word": "questo"
+    },
+    {
+      "start": 39.74,
+      "end": 40.14,
+      "word": "formato"
+    },
+    {
+      "start": 40.14,
+      "end": 40.46,
+      "word": "simile"
+    },
+    {
+      "start": 40.46,
+      "end": 41.16,
+      "word": "tagliatella."
+    },
+    {
+      "start": 41.22,
+      "end": 41.24,
+      "word": "M"
+    },
+    {
+      "start": 41.24,
+      "end": 41.4,
+      "word": "'erano"
+    },
+    {
+      "start": 41.4,
+      "end": 41.7,
+      "word": "davvero"
+    },
+    {
+      "start": 41.7,
+      "end": 41.92,
+      "word": "molto"
+    },
+    {
+      "start": 41.92,
+      "end": 42.22,
+      "word": "buoni,"
+    },
+    {
+      "start": 42.3,
+      "end": 42.5,
+      "word": "soprattutto"
+    },
+    {
+      "start": 42.5,
+      "end": 42.84,
+      "word": "molto"
+    },
+    {
+      "start": 42.84,
+      "end": 43.4,
+      "word": "saporiti"
+    },
+    {
+      "start": 43.4,
+      "end": 43.92,
+      "word": "insieme"
+    },
+    {
+      "start": 43.92,
+      "end": 44.3,
+      "word": "ovviamente"
+    },
+    {
+      "start": 44.3,
+      "end": 44.52,
+      "word": "al"
+    },
+    {
+      "start": 44.52,
+      "end": 44.8,
+      "word": "brodo"
+    },
+    {
+      "start": 44.8,
+      "end": 44.92,
+      "word": "del"
+    },
+    {
+      "start": 44.92,
+      "end": 45.24,
+      "word": "ramen,"
+    },
+    {
+      "start": 45.28,
+      "end": 45.44,
+      "word": "così"
+    },
+    {
+      "start": 45.44,
+      "end": 45.7,
+      "word": "proprio"
+    },
+    {
+      "start": 45.7,
+      "end": 46.0,
+      "word": "come"
+    },
+    {
+      "start": 46.0,
+      "end": 46.14,
+      "word": "lo"
+    },
+    {
+      "start": 46.14,
+      "end": 46.4,
+      "word": "erano"
+    },
+    {
+      "start": 46.4,
+      "end": 46.58,
+      "word": "anche"
+    },
+    {
+      "start": 46.58,
+      "end": 47.02,
+      "word": "ravioli."
+    },
+    {
+      "start": 47.12,
+      "end": 47.46,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 47.46,
+      "end": 47.68,
+      "word": "però"
+    },
+    {
+      "start": 47.68,
+      "end": 47.76,
+      "word": "ho"
+    },
+    {
+      "start": 47.76,
+      "end": 47.94,
+      "word": "voluto"
+    },
+    {
+      "start": 47.94,
+      "end": 48.14,
+      "word": "comunque"
+    },
+    {
+      "start": 48.14,
+      "end": 48.62,
+      "word": "assaggiare"
+    },
+    {
+      "start": 48.62,
+      "end": 48.74,
+      "word": "un"
+    },
+    {
+      "start": 48.74,
+      "end": 48.94,
+      "word": "ramen"
+    },
+    {
+      "start": 48.94,
+      "end": 49.46,
+      "word": "normale"
+    },
+    {
+      "start": 49.46,
+      "end": 49.7,
+      "word": "e"
+    },
+    {
+      "start": 49.7,
+      "end": 49.82,
+      "word": "per"
+    },
+    {
+      "start": 49.82,
+      "end": 50.06,
+      "word": "quanto"
+    },
+    {
+      "start": 50.06,
+      "end": 50.22,
+      "word": "il"
+    },
+    {
+      "start": 50.22,
+      "end": 50.44,
+      "word": "brodo"
+    },
+    {
+      "start": 50.44,
+      "end": 50.76,
+      "word": "potesse"
+    },
+    {
+      "start": 50.76,
+      "end": 51.14,
+      "word": "sembrare"
+    },
+    {
+      "start": 51.14,
+      "end": 51.34,
+      "word": "più"
+    },
+    {
+      "start": 51.34,
+      "end": 51.72,
+      "word": "denso"
+    },
+    {
+      "start": 51.72,
+      "end": 51.88,
+      "word": "era"
+    },
+    {
+      "start": 51.88,
+      "end": 52.38,
+      "word": "decisamente"
+    },
+    {
+      "start": 52.38,
+      "end": 52.7,
+      "word": "meno"
+    },
+    {
+      "start": 52.7,
+      "end": 53.16,
+      "word": "saporito"
+    },
+    {
+      "start": 53.16,
+      "end": 53.34,
+      "word": "con"
+    },
+    {
+      "start": 53.34,
+      "end": 53.4,
+      "word": "un"
+    },
+    {
+      "start": 53.4,
+      "end": 53.62,
+      "word": "sapore"
+    },
+    {
+      "start": 53.62,
+      "end": 53.88,
+      "word": "molto"
+    },
+    {
+      "start": 53.88,
+      "end": 54.06,
+      "word": "più"
+    },
+    {
+      "start": 54.06,
+      "end": 54.44,
+      "word": "leggero"
+    },
+    {
+      "start": 54.44,
+      "end": 54.7,
+      "word": "rispetto"
+    },
+    {
+      "start": 54.7,
+      "end": 54.84,
+      "word": "a"
+    },
+    {
+      "start": 54.84,
+      "end": 54.98,
+      "word": "quello"
+    },
+    {
+      "start": 54.98,
+      "end": 55.18,
+      "word": "senza"
+    },
+    {
+      "start": 55.18,
+      "end": 55.7,
+      "word": "glutine,"
+    },
+    {
+      "start": 55.78,
+      "end": 55.88,
+      "word": "che"
+    },
+    {
+      "start": 55.88,
+      "end": 56.02,
+      "word": "mi"
+    },
+    {
+      "start": 56.02,
+      "end": 56.08,
+      "word": "ha"
+    },
+    {
+      "start": 56.08,
+      "end": 56.38,
+      "word": "stupito"
+    },
+    {
+      "start": 56.38,
+      "end": 56.72,
+      "word": "parecchio"
+    },
+    {
+      "start": 56.72,
+      "end": 56.9,
+      "word": "perché"
+    },
+    {
+      "start": 56.9,
+      "end": 57.48,
+      "word": "solitamente"
+    },
+    {
+      "start": 57.48,
+      "end": 57.66,
+      "word": "è"
+    },
+    {
+      "start": 57.66,
+      "end": 57.78,
+      "word": "il"
+    },
+    {
+      "start": 57.78,
+      "end": 58.12,
+      "word": "contrario."
+    },
+    {
+      "start": 58.4,
+      "end": 58.46,
+      "word": "Non"
+    },
+    {
+      "start": 58.46,
+      "end": 58.54,
+      "word": "in"
+    },
+    {
+      "start": 58.54,
+      "end": 58.72,
+      "word": "caso"
+    },
+    {
+      "start": 58.72,
+      "end": 58.86,
+      "word": "il"
+    },
+    {
+      "start": 58.86,
+      "end": 59.2,
+      "word": "prodotto"
+    },
+    {
+      "start": 59.2,
+      "end": 59.5,
+      "word": "resta"
+    },
+    {
+      "start": 59.5,
+      "end": 59.8,
+      "word": "ottimo"
+    },
+    {
+      "start": 59.8,
+      "end": 59.9,
+      "word": "in"
+    },
+    {
+      "start": 59.9,
+      "end": 60.28,
+      "word": "entrambe"
+    },
+    {
+      "start": 60.28,
+      "end": 60.36,
+      "word": "le"
+    },
+    {
+      "start": 60.36,
+      "end": 60.48,
+      "word": "sue"
+    },
+    {
+      "start": 60.48,
+      "end": 60.88,
+      "word": "forme,"
+    },
+    {
+      "start": 61.08,
+      "end": 61.14,
+      "word": "ed"
+    },
+    {
+      "start": 61.14,
+      "end": 61.18,
+      "word": "è"
+    },
+    {
+      "start": 61.18,
+      "end": 61.3,
+      "word": "per"
+    },
+    {
+      "start": 61.3,
+      "end": 61.54,
+      "word": "questo"
+    },
+    {
+      "start": 61.54,
+      "end": 61.7,
+      "word": "che"
+    },
+    {
+      "start": 61.7,
+      "end": 61.82,
+      "word": "ve"
+    },
+    {
+      "start": 61.82,
+      "end": 61.9,
+      "word": "lo"
+    },
+    {
+      "start": 61.9,
+      "end": 62.36,
+      "word": "consiglio"
+    },
+    {
+      "start": 62.36,
+      "end": 62.5,
+      "word": "se"
+    },
+    {
+      "start": 62.5,
+      "end": 62.82,
+      "word": "siete"
+    },
+    {
+      "start": 62.82,
+      "end": 63.36,
+      "word": "intolleranti"
+    },
+    {
+      "start": 63.36,
+      "end": 63.46,
+      "word": "al"
+    },
+    {
+      "start": 63.46,
+      "end": 63.88,
+      "word": "glutine"
+    },
+    {
+      "start": 63.88,
+      "end": 63.96,
+      "word": "o"
+    },
+    {
+      "start": 63.96,
+      "end": 64.44,
+      "word": "cegliaci,"
+    },
+    {
+      "start": 64.84,
+      "end": 64.92,
+      "word": "sia"
+    },
+    {
+      "start": 64.92,
+      "end": 65.06,
+      "word": "se"
+    },
+    {
+      "start": 65.06,
+      "end": 65.2,
+      "word": "non"
+    },
+    {
+      "start": 65.2,
+      "end": 65.32,
+      "word": "lo"
+    },
+    {
+      "start": 65.32,
+      "end": 65.52,
+      "word": "siete."
+    },
+    {
+      "start": 65.74,
+      "end": 65.84,
+      "word": "Ah,"
+    },
+    {
+      "start": 65.9,
+      "end": 65.92,
+      "word": "e"
+    },
+    {
+      "start": 65.92,
+      "end": 66.06,
+      "word": "per"
+    },
+    {
+      "start": 66.06,
+      "end": 66.54,
+      "word": "concludere"
+    },
+    {
+      "start": 66.54,
+      "end": 66.88,
+      "word": "biscotto"
+    },
+    {
+      "start": 66.88,
+      "end": 67.02,
+      "word": "della"
+    },
+    {
+      "start": 67.02,
+      "end": 67.48,
+      "word": "fortuna"
+    },
+    {
+      "start": 67.48,
+      "end": 67.58,
+      "word": "e"
+    },
+    {
+      "start": 67.58,
+      "end": 67.9,
+      "word": "molci"
+    },
+    {
+      "start": 67.9,
+      "end": 68.2,
+      "word": "gluten"
+    },
+    {
+      "start": 68.2,
+      "end": 68.44,
+      "word": "free."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "Il miglior ramen gluten free a Milano? Oggi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.533,
+      "dur": 2.5,
+      "transcript": "ragazzi vi porto a provare un ramen che mi ha particolarmente"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.533,
+      "end": 6.933,
+      "dur": 2.4,
+      "transcript": "stupito ovviamente senza glutine. Siamo da Dim"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.933,
+      "end": 8.433,
+      "dur": 1.5,
+      "transcript": "Ramen in Guiale -Belgnui, ovvero"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.433,
+      "end": 9.8,
+      "dur": 1.367,
+      "transcript": "un piccolo locale che ha però"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.8,
+      "end": 15.833,
+      "dur": 6.033,
+      "transcript": "un intero menu dedicato al gluten free, comprendendo quindi sia gli antipasti che i veri e propri ramen. Appena seduti vi"
+    },
+    {
+      "shot_idx": 6,
+      "start": 15.833,
+      "end": 18.067,
+      "dur": 2.233,
+      "transcript": "servono queste verdurine con una salsa sese, ma ho"
+    },
+    {
+      "shot_idx": 7,
+      "start": 18.067,
+      "end": 19.667,
+      "dur": 1.6,
+      "transcript": "giusto per iniziare. Dopodiché noi abbiamo"
+    },
+    {
+      "shot_idx": 8,
+      "start": 19.667,
+      "end": 22.133,
+      "dur": 2.467,
+      "transcript": "ordinato due involtini di gambri, diciamo tra l 'altro"
+    },
+    {
+      "shot_idx": 9,
+      "start": 22.133,
+      "end": 23.767,
+      "dur": 1.633,
+      "transcript": "servito con anche la salsa di soia"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.767,
+      "end": 26.833,
+      "dur": 3.067,
+      "transcript": "gluten free. In voltini con gambri e verdure molto buoni, soprattutto se"
+    },
+    {
+      "shot_idx": 11,
+      "start": 26.833,
+      "end": 28.433,
+      "dur": 1.6,
+      "transcript": "accompagnati con questa salsa sinagro dolce"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.433,
+      "end": 30.933,
+      "dur": 2.5,
+      "transcript": "che ovviamente ci sta benissimo con gli involtini. Passando invece"
+    },
+    {
+      "shot_idx": 13,
+      "start": 30.933,
+      "end": 35.9,
+      "dur": 4.967,
+      "transcript": "al punto forte ovvero il loro ramen senza glutine ho provato questo con anche ravioli di carne, oltre ovviamente"
+    },
+    {
+      "shot_idx": 14,
+      "start": 35.9,
+      "end": 38.9,
+      "dur": 3.0,
+      "transcript": "al paccioio, il cipollotto, al uacame e al uovo. I"
+    },
+    {
+      "shot_idx": 15,
+      "start": 38.9,
+      "end": 42.8,
+      "dur": 3.9,
+      "transcript": "noodles avevano questo formato simile tagliatella. M 'erano davvero molto buoni, soprattutto molto"
+    },
+    {
+      "shot_idx": 16,
+      "start": 42.8,
+      "end": 45.8,
+      "dur": 3.0,
+      "transcript": "saporiti insieme ovviamente al brodo del ramen, così proprio"
+    },
+    {
+      "shot_idx": 17,
+      "start": 45.8,
+      "end": 49.5,
+      "dur": 3.7,
+      "transcript": "come lo erano anche ravioli. Dopodiché però ho voluto comunque assaggiare un ramen normale"
+    },
+    {
+      "shot_idx": 18,
+      "start": 49.5,
+      "end": 51.867,
+      "dur": 2.367,
+      "transcript": "e per quanto il brodo potesse sembrare più denso era"
+    },
+    {
+      "shot_idx": 19,
+      "start": 51.867,
+      "end": 53.9,
+      "dur": 2.033,
+      "transcript": "decisamente meno saporito con un sapore molto"
+    },
+    {
+      "shot_idx": 20,
+      "start": 53.9,
+      "end": 55.867,
+      "dur": 1.967,
+      "transcript": "più leggero rispetto a quello senza glutine, che"
+    },
+    {
+      "shot_idx": 21,
+      "start": 55.867,
+      "end": 57.667,
+      "dur": 1.8,
+      "transcript": "mi ha stupito parecchio perché solitamente è"
+    },
+    {
+      "shot_idx": 22,
+      "start": 57.667,
+      "end": 60.633,
+      "dur": 2.967,
+      "transcript": "il contrario. Non in caso il prodotto resta ottimo in entrambe le sue"
+    },
+    {
+      "shot_idx": 23,
+      "start": 60.633,
+      "end": 62.833,
+      "dur": 2.2,
+      "transcript": "forme, ed è per questo che ve lo consiglio se siete"
+    },
+    {
+      "shot_idx": 24,
+      "start": 62.833,
+      "end": 65.667,
+      "dur": 2.833,
+      "transcript": "intolleranti al glutine o cegliaci, sia se non lo siete."
+    },
+    {
+      "shot_idx": 25,
+      "start": 65.667,
+      "end": 68.7,
+      "dur": 3.033,
+      "transcript": "Ah, e per concludere biscotto della fortuna e molci gluten free."
+    }
+  ],
+  "full_text": "Il miglior ramen gluten free a Milano? Oggi ragazzi vi porto a provare un ramen che mi ha particolarmente stupito ovviamente senza glutine. Siamo da Dim Ramen in Guiale-Belgnui, ovvero un piccolo locale che ha però un intero menu dedicato al gluten free, comprendendo quindi sia gli antipasti che i veri e propri ramen. Appena seduti vi servono queste verdurine con una salsa sese, ma ho giusto per iniziare. Dopodiché noi abbiamo ordinato due involtini di gambri, diciamo tra l'altro servito con anche la salsa di soia gluten free. In voltini con gambri e verdure molto buoni, soprattutto se accompagnati con questa salsa sinagro dolce che ovviamente ci sta benissimo con gli involtini. Passando invece al punto forte ovvero il loro ramen senza glutine ho provato questo con anche ravioli di carne, oltre ovviamente al paccioio, il cipollotto, al uacame e al uovo. I noodles avevano questo formato simile tagliatella. M'erano davvero molto buoni, soprattutto molto saporiti insieme ovviamente al brodo del ramen, così proprio come lo erano anche ravioli. Dopodiché però ho voluto comunque assaggiare un ramen normale e per quanto il brodo potesse sembrare più denso era decisamente meno saporito con un sapore molto più leggero rispetto a quello senza glutine, che mi ha stupito parecchio perché solitamente è il contrario. Non in caso il prodotto resta ottimo in entrambe le sue forme, ed è per questo che ve lo consiglio se siete intolleranti al glutine o cegliaci, sia se non lo siete. Ah, e per concludere biscotto della fortuna e molci gluten free.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

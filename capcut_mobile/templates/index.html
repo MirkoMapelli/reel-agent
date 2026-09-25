@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Editor</title>
+<style>
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; user-select: none; }
+  html, body { margin:0; padding:0; background:#0a0a0a; color:#fff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    font-size: 14px; overflow: hidden; overscroll-behavior: none; height: 100dvh; }
+  body { display: flex; flex-direction: column;
+    padding-top: env(safe-area-inset-top); }
+
+  /* HEADER */
+  header { display:flex; align-items:center; justify-content:space-between;
+    padding: 10px 14px; background: #111; border-bottom: 1px solid #1f1f1f;
+    flex-shrink: 0; }
+  header .btn-back { font-size: 20px; width: 34px; }
+  header .title { font-size: 14px; color:#aaa; }
+  header .btn-export { background: linear-gradient(135deg, #ffd400, #ffb800);
+    color: #000; font-weight: 700; padding: 8px 18px; border-radius: 20px;
+    font-size: 13px; border: 0; cursor: pointer; }
+  header .btn-export:disabled { opacity:.4; }
+
+  /* PREVIEW */
+  #preview-wrap { flex: 1; display: flex; align-items: center; justify-content: center;
+    background: #000; overflow: hidden; position: relative; min-height: 0; }
+  #preview { max-width: 100%; max-height: 100%; object-fit: contain; }
+  #empty { color: #555; font-size: 14px; text-align: center; padding: 20px; }
+
+  /* CONTROLS */
+  #controls { display: flex; justify-content: center; gap: 24px;
+    padding: 8px; background: #111; flex-shrink: 0; }
+  #controls button { background: none; border: 0; color: #fff; font-size: 22px;
+    width: 44px; height: 44px; cursor: pointer; }
+  #controls button:disabled { opacity: .3; }
+
+  /* TIMELINE (CapCut-like) */
+  #timeline-outer { background: #0a0a0a; flex-shrink: 0;
+    border-top: 1px solid #1f1f1f; position: relative;
+    height: 110px; overflow: hidden; }
+  #timeline-scroll { height: 100%; overflow-x: auto; overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; }
+  #timeline-scroll::-webkit-scrollbar { display: none; }
+  #timeline-content { height: 100%; display: inline-flex;
+    gap: 3px; padding: 0; align-items: center; min-width: 100%;
+    padding-left: 50%; padding-right: 50%; }
+  .clip { position: relative; background: #1a1a1a; border-radius: 4px;
+    flex-shrink: 0; height: 88px; display: flex; align-items: flex-end;
+    background-size: cover; background-position: center;
+    border: 2px solid transparent; touch-action: pan-x;
+    transition: transform .12s, box-shadow .12s; }
+  .clip.selected { border-color: #ffd400; }
+  .clip.dragging { transform: scale(1.06) translateY(-6px);
+    box-shadow: 0 8px 24px rgba(0,0,0,.6);
+    z-index: 20; opacity: .9; }
+  .clip.long-pressed { box-shadow: 0 4px 16px rgba(255,212,0,.3); }
+  .clip .dur { position: absolute; bottom: 3px; right: 4px; font-size: 10px;
+    background: rgba(0,0,0,.75); padding: 1px 5px; border-radius: 3px;
+    color:#fff; pointer-events: none; }
+  .clip .num { position: absolute; top: 3px; left: 4px; font-size: 10px;
+    background: rgba(0,0,0,.75); padding: 1px 5px; border-radius: 3px;
+    color:#fff; pointer-events: none; }
+  /* Trim handles visibili quando selezionata */
+  .clip.selected::before, .clip.selected::after {
+    content: ''; position: absolute; top: -2px; bottom: -2px; width: 14px;
+    background: #ffd400; z-index: 5; }
+  .clip.selected::before { left: -2px; border-radius: 4px 0 0 4px;
+    background: linear-gradient(#ffd400, #ffb800);
+    box-shadow: inset -3px 0 0 rgba(0,0,0,.15); }
+  .clip.selected::after { right: -2px; border-radius: 0 4px 4px 0;
+    background: linear-gradient(#ffd400, #ffb800);
+    box-shadow: inset 3px 0 0 rgba(0,0,0,.15); }
+  /* Playhead fisso al centro */
+  #playhead { position: absolute; top: 0; bottom: 0; left: 50%;
+    width: 2px; background: #ffd400; z-index: 15; pointer-events: none;
+    transform: translateX(-1px); }
+  #playhead::before { content: ''; position: absolute; top: 0; left: -5px;
+    width: 12px; height: 8px; background: #ffd400;
+    clip-path: polygon(0 0, 100% 0, 50% 100%); }
+  /* Pulsante + in coda */
+  #timeline-add { flex-shrink: 0; width: 60px; height: 88px;
+    background: #141414; border: 1px dashed #333; border-radius: 4px;
+    color: #666; font-size: 24px; display:flex; align-items:center;
+    justify-content:center; cursor: pointer; }
+  /* Zoom slider */
+  #zoom-row { display: flex; align-items: center; justify-content: center;
+    gap: 10px; padding: 4px 12px 6px; background: #0a0a0a;
+    border-top: 1px solid #1a1a1a; font-size: 10px; color:#666; }
+  #zoom-row input { width: 140px; }
+
+  /* TOOLBAR */
+  #toolbar { display: flex; justify-content: space-around;
+    padding: 10px 4px calc(10px + env(safe-area-inset-bottom));
+    background: #111; border-top: 1px solid #1f1f1f; flex-shrink: 0; }
+  .tool { background: none; border: 0; color: #999; display: flex;
+    flex-direction: column; align-items: center; gap: 3px; font-size: 10px;
+    padding: 4px; cursor: pointer; }
+  .tool .icon { font-size: 20px; }
+  .tool.disabled { opacity: 0.3; }
+  .tool:not(.disabled):active { color: #ffd400; }
+
+  /* OVERLAY EXPORT */
+  #export-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.85);
+    display: none; align-items: center; justify-content: center; z-index: 100;
+    flex-direction: column; padding: 30px; text-align: center; }
+  #export-overlay.show { display: flex; }
+  #export-overlay .title { font-size: 18px; margin-bottom: 20px; font-weight: 600; }
+  #export-overlay .bar { width: 260px; height: 6px; background: #222;
+    border-radius: 3px; overflow: hidden; margin-bottom: 10px; }
+  #export-overlay .fill { height: 100%; width: 0%; background: #ffd400;
+    transition: width .3s; }
+  #export-overlay .msg { font-size: 13px; color: #aaa; }
+  #export-overlay .done-btns { display: flex; flex-direction: column; gap: 10px;
+    margin-top: 20px; width: 260px; }
+  #export-overlay .done-btns button { padding: 14px; border-radius: 10px;
+    border: 0; font-size: 15px; font-weight: 600; cursor: pointer; }
+  #export-overlay .save { background: linear-gradient(135deg, #ffd400, #ffb800);
+    color: #000; }
+  #export-overlay .close { background: #1a1a1a; color: #fff; border: 1px solid #2a2a2a; }
+
+  .spinner { width: 30px; height: 30px; border: 3px solid #222;
+    border-top-color: #ffd400; border-radius: 50%; animation: spin 1s linear infinite;
+    margin-bottom: 16px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="btn-back" id="back">✕</div>
+  <div class="title" id="title">Nuovo progetto</div>
+  <button class="btn-export" id="export" disabled>Esporta</button>
+</header>
+
+<div id="preview-wrap">
+  <video id="preview" playsinline muted></video>
+  <div id="empty">Nessun clip · tocca ＋ in basso</div>
+</div>
+
+<div id="controls">
+  <button id="b-back5">⟲</button>
+  <button id="b-play">▶</button>
+  <button id="b-fwd5">⟳</button>
+</div>
+
+<div id="timeline-outer">
+  <div id="timeline-scroll">
+    <div id="timeline-content"></div>
+  </div>
+  <div id="playhead"></div>
+</div>
+<div id="zoom-row">
+  <span>−</span>
+  <input type="range" id="zoom" min="20" max="200" step="5" value="60">
+  <span>＋</span>
+</div>
+
+<div id="sel-panel" class="hidden" style="display:none"></div>
+
+<div id="toolbar">
+  <button class="tool" id="t-add"><span class="icon">＋</span>Media</button>
+  <button class="tool" id="t-split"><span class="icon">✂</span>Dividi</button>
+  <button class="tool" id="t-dup"><span class="icon">⧉</span>Duplica</button>
+  <button class="tool" id="t-del"><span class="icon">🗑</span>Elimina</button>
+  <button class="tool disabled"><span class="icon">✎</span>Testo</button>
+</div>
+
+<input type="file" id="file-input" accept="video/*" multiple hidden>
+
+<div id="export-overlay">
+  <div class="spinner" id="exp-spin"></div>
+  <div class="title" id="exp-title">Esportazione…</div>
+  <div class="bar"><div class="fill" id="exp-fill"></div></div>
+  <div class="msg" id="exp-msg"></div>
+  <div class="done-btns hidden" id="exp-done">
+    <button class="save" id="exp-save">📸 Salva nelle Foto</button>
+    <button class="close" id="exp-close">Chiudi</button>
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let sid = null;
+let state = { clips: [] };
+let selected = -1;
+let zoom = 60;                   // px per secondo
+let scrollRaf = null;
+
+// ============================================================
+// SESSION
+// ============================================================
+async function ensureSession() {
+  sid = localStorage.getItem('capcut_sid');
+  if (!sid) {
+    const r = await fetch('/api/session', {method:'POST'});
+    const d = await r.json();
+    sid = d.sid;
+    localStorage.setItem('capcut_sid', sid);
+  }
+}
+async function refresh() {
+  const r = await fetch('/api/session/' + sid + '/state');
+  state = await r.json();
+  render();
+}
+
+// ============================================================
+// TIME HELPERS
+// ============================================================
+function totalDuration() {
+  return state.clips.reduce((a, c) => a + (c.end - c.start), 0);
+}
+function timeToX(t) {
+  // t è il tempo ASSOLUTO nel progetto (0 = inizio prima clip)
+  let acc = 0;
+  for (const c of state.clips) {
+    const d = c.end - c.start;
+    if (t <= acc + d) {
+      // dentro questa clip
+      const localT = t - acc;
+      // posizione = (clipIdx * gap) + localT * zoom + larghezza cumulativa clip precedenti
+      let x = 0;
+      for (let i = 0; i < state.clips.indexOf(c); i++) {
+        x += (state.clips[i].end - state.clips[i].start) * zoom + 3;
+      }
+      x += localT * zoom;
+      return x;
+    }
+    acc += d;
+  }
+  return totalDuration() * zoom;
+}
+function xToTime(x) {
+  // x è la posizione in pixel dentro timeline-content
+  let acc = 0;
+  for (let i = 0; i < state.clips.length; i++) {
+    const c = state.clips[i];
+    const w = (c.end - c.start) * zoom;
+    if (x >= acc && x < acc + w) {
+      return (x - acc) / zoom + (acc / zoom) + state.clips.slice(0, i).reduce((a, c2) => a + (c2.end - c2.start), 0);
+    }
+    acc += w + 3;  // gap
+  }
+  return 0;
+}
+
+// ============================================================
+// RENDER TIMELINE
+// ============================================================
+function render() {
+  const tl = $('timeline-content');
+  tl.innerHTML = '';
+
+  state.clips.forEach((c, i) => {
+    const d = c.end - c.start;
+    const w = Math.max(30, d * zoom);
+    const div = document.createElement('div');
+    div.className = 'clip' + (i === selected ? ' selected' : '');
+    div.style.width = w + 'px';
+    div.dataset.idx = i;
+    if (c.thumb) div.style.backgroundImage = `url('/api/session/${sid}/thumb/${i}')`;
+    div.innerHTML = `<div class="num">${i+1}</div><div class="dur">${d.toFixed(1)}s</div>`;
+    bindClipEvents(div, i);
+    tl.appendChild(div);
+  });
+
+  const add = document.createElement('div');
+  add.id = 'timeline-add';
+  add.textContent = '＋';
+  add.addEventListener('click', () => $('file-input').click());
+  tl.appendChild(add);
+
+  // Header
+  $('export').disabled = state.clips.length === 0;
+  $('title').textContent = state.clips.length === 0
+    ? 'Nuovo progetto'
+    : `${state.clips.length} clip · ${totalDuration().toFixed(1)}s`;
+
+  renderPreview();
+}
+
+function renderPreview() {
+  const pv = $('preview');
+  const empty = $('empty');
+  if (selected < 0 || !state.clips[selected]) {
+    pv.style.display = 'none';
+    empty.style.display = 'block';
+  } else {
+    pv.style.display = 'block';
+    empty.style.display = 'none';
+    const c = state.clips[selected];
+    const url = `/api/session/${sid}/raw/${selected}`;
+    if (!pv.src.includes(`/${selected}`)) {
+      pv.src = url;
+      pv.onloadedmetadata = () => { pv.currentTime = c.start; };
+    }
+  }
+}
+
+// ============================================================
+// CLIP EVENTS (tap, long press, drag reorder, trim handles)
+// ============================================================
+function bindClipEvents(el, idx) {
+  let pressTimer = null;
+  let isDrag = false;
+  let dragStartX = 0;
+  let dragStartScrollLeft = 0;
+  let trimMode = null;  // 'start' | 'end' | null
+  let trimStart = 0;
+  let trimEnd = 0;
+  const scroll = $('timeline-scroll');
+
+  el.addEventListener('touchstart', (e) => {
+    if (e.touches.length !== 1) return;
+    const t = e.touches[0];
+    const rect = el.getBoundingClientRect();
+    const localX = t.clientX - rect.left;
+    const handleW = 16;
+
+    // handle di trim?
+    if (idx === selected && localX < handleW) {
+      trimMode = 'start';
+      trimStart = state.clips[idx].start;
+      trimEnd = state.clips[idx].end;
+      el.style.touchAction = 'none';
+      e.preventDefault();
+      return;
+    }
+    if (idx === selected && localX > rect.width - handleW) {
+      trimMode = 'end';
+      trimStart = state.clips[idx].start;
+      trimEnd = state.clips[idx].end;
+      el.style.touchAction = 'none';
+      e.preventDefault();
+      return;
+    }
+
+    // long press per drag
+    dragStartX = t.clientX;
+    dragStartScrollLeft = scroll.scrollLeft;
+    pressTimer = setTimeout(() => {
+      pressTimer = null;
+      isDrag = true;
+      el.classList.add('dragging');
+      if (navigator.vibrate) navigator.vibrate(20);
+      // disabilita scroll durante drag
+      scroll.style.overflowX = 'hidden';
+      el.style.touchAction = 'none';
+    }, 220);
+  }, { passive: false });
+
+  el.addEventListener('touchmove', (e) => {
+    if (e.touches.length !== 1) return;
+    const t = e.touches[0];
+
+    // trim mode: aggiorna start/end live
+    if (trimMode) {
+      e.preventDefault();
+      const deltaX = t.clientX - dragStartX;
+      const deltaT = deltaX / zoom;
+      if (trimMode === 'start') {
+        const newStart = Math.max(0, Math.min(trimEnd - 0.2, trimStart + deltaT));
+        state.clips[idx].start = newStart;
+      } else {
+        const newEnd = Math.max(trimStart + 0.2, Math.min(state.clips[idx].duration, trimEnd + deltaT));
+        state.clips[idx].end = newEnd;
+      }
+      const newW = Math.max(30, (state.clips[idx].end - state.clips[idx].start) * zoom);
+      el.style.width = newW + 'px';
+      el.querySelector('.dur').textContent = (state.clips[idx].end - state.clips[idx].start).toFixed(1) + 's';
+      return;
+    }
+
+    // long press attivo: cancella se l'utente muove troppo presto
+    if (pressTimer) {
+      if (Math.abs(t.clientX - dragStartX) > 8) {
+        clearTimeout(pressTimer);
+        pressTimer = null;
+      }
+      return;
+    }
+
+    // drag reorder attivo
+    if (isDrag) {
+      e.preventDefault();
+      const deltaX = t.clientX - dragStartX;
+      const deltaIdx = Math.round(deltaX / 80);
+      const newIdx = Math.max(0, Math.min(state.clips.length - 1, idx + deltaIdx));
+      // feedback visivo: scrolla la timeline
+      scroll.scrollLeft = dragStartScrollLeft - deltaX;
+      el.dataset.dropIdx = newIdx;
+      // opzionale: evidenzia posizione
+      return;
+    }
+  }, { passive: false });
+
+  el.addEventListener('touchend', async (e) => {
+    // long press non scattato: è un tap
+    if (pressTimer) {
+      clearTimeout(pressTimer);
+      pressTimer = null;
+      selectClip(idx);
+      return;
+    }
+
+    // trim mode: sync server
+    if (trimMode) {
+      const c = state.clips[idx];
+      el.style.touchAction = 'pan-x';
+      await fetch(`/api/session/${sid}/trim/${idx}`, {
+        method: 'POST', headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({start: c.start, end: c.end})
+      });
+      trimMode = null;
+      await refresh();
+      return;
+    }
+
+    // drag reorder: esegui
+    if (isDrag) {
+      isDrag = false;
+      el.classList.remove('dragging');
+      scroll.style.overflowX = 'auto';
+      el.style.touchAction = 'pan-x';
+      const from = idx;
+      const to = parseInt(el.dataset.dropIdx ?? idx);
+      if (from !== to) {
+        await fetch(`/api/session/${sid}/reorder`, {
+          method: 'POST', headers: {'Content-Type':'application/json'},
+          body: JSON.stringify({from, to})
+        });
+        selected = to;
+      }
+      delete el.dataset.dropIdx;
+      await refresh();
+    }
+  });
+
+  el.addEventListener('touchcancel', () => {
+    if (pressTimer) { clearTimeout(pressTimer); pressTimer = null; }
+    if (isDrag) {
+      el.classList.remove('dragging');
+      scroll.style.overflowX = 'auto';
+      el.style.touchAction = 'pan-x';
+      isDrag = false;
+    }
+    if (trimMode) {
+      el.style.touchAction = 'pan-x';
+      trimMode = null;
+      refresh();
+    }
+  });
+}
+
+// ============================================================
+// SELECT + PLAYHEAD SYNC
+// ============================================================
+function selectClip(i) {
+  selected = i;
+  render();
+  // scrolla la timeline per centrare la clip
+  const el = $('timeline-content').children[i];
+  if (el) {
+    const scroll = $('timeline-scroll');
+    const elCenter = el.offsetLeft + el.offsetWidth / 2;
+    scroll.scrollTo({ left: elCenter - scroll.clientWidth / 2, behavior: 'smooth' });
+  }
+}
+
+// Scroll timeline → aggiorna preview al tempo sotto il playhead
+$('timeline-scroll').addEventListener('scroll', () => {
+  if (scrollRaf) return;
+  scrollRaf = requestAnimationFrame(() => {
+    scrollRaf = null;
+    syncPreviewToPlayhead();
+  });
+});
+
+function syncPreviewToPlayhead() {
+  if (state.clips.length === 0) return;
+  const scroll = $('timeline-scroll');
+  const centerX = scroll.scrollLeft + scroll.clientWidth / 2;
+  // trova la clip e il tempo locale sotto il playhead
+  const tl = $('timeline-content');
+  let acc = 0;
+  for (let i = 0; i < state.clips.length; i++) {
+    const c = state.clips[i];
+    const w = Math.max(30, (c.end - c.start) * zoom);
+    if (centerX >= acc && centerX < acc + w) {
+      const localT = (centerX - acc) / zoom;
+      const t = c.start + localT;
+      if (selected !== i) {
+        selected = i;
+        const pv = $('preview');
+        pv.src = `/api/session/${sid}/raw/${i}`;
+        pv.currentTime = t;
+      } else {
+        const pv = $('preview');
+        if (Math.abs(pv.currentTime - t) > 0.3 && pv.paused) {
+          pv.currentTime = t;
+        }
+      }
+      return;
+    }
+    acc += w + 3;
+  }
+}
+
+// ============================================================
+// ZOOM
+// ============================================================
+$('zoom').addEventListener('input', e => {
+  zoom = parseInt(e.target.value);
+  render();
+});
+
+// ============================================================
+// UPLOAD
+// ============================================================
+$('file-input').addEventListener('change', async e => {
+  if (!e.target.files.length) return;
+  const files = e.target.files;
+  const fd = new FormData();
+  for (const f of files) fd.append('files', f);
+  $('title').textContent = 'Caricamento…';
+  try {
+    const r = await fetch(`/api/session/${sid}/upload`, { method:'POST', body: fd });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.error || 'errore upload');
+    await refresh();
+  } catch (err) {
+    alert('Upload: ' + err.message);
+    $('title').textContent = 'Errore';
+  }
+  e.target.value = '';
+});
+
+// ============================================================
+// TOOLBAR ACTIONS
+// ============================================================
+$('t-add').addEventListener('click', () => $('file-input').click());
+$('t-split').addEventListener('click', async () => {
+  if (selected < 0) { alert('Seleziona una clip'); return; }
+  const pv = $('preview');
+  const at = pv.currentTime;
+  const r = await fetch(`/api/session/${sid}/split/${selected}`, {
+    method: 'POST', headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({at})
+  });
+  const d = await r.json();
+  if (!r.ok) { alert(d.error || 'errore'); return; }
+  await refresh();
+});
+$('t-dup').addEventListener('click', async () => {
+  if (selected < 0) { alert('Seleziona una clip'); return; }
+  await fetch(`/api/session/${sid}/duplicate/${selected}`, {method:'POST'});
+  selected += 1;
+  await refresh();
+});
+$('t-del').addEventListener('click', async () => {
+  if (selected < 0) { alert('Seleziona una clip'); return; }
+  if (!confirm('Eliminare questa clip?')) return;
+  await fetch(`/api/session/${sid}/delete/${selected}`, {method:'POST'});
+  selected = Math.max(0, selected - 1);
+  await refresh();
+});
+
+// ============================================================
+// PLAY CONTROLS
+// ============================================================
+$('b-play').addEventListener('click', () => {
+  const pv = $('preview');
+  if (pv.paused) { pv.play(); $('b-play').textContent = '⏸'; }
+  else { pv.pause(); $('b-play').textContent = '▶'; }
+});
+$('b-back5').addEventListener('click', () => {
+  const pv = $('preview');
+  pv.currentTime = Math.max(0, pv.currentTime - 5);
+});
+$('b-fwd5').addEventListener('click', () => {
+  const pv = $('preview');
+  pv.currentTime = Math.min(pv.duration || 9999, pv.currentTime + 5);
+});
+
+// ============================================================
+// BACK / EXPORT
+// ============================================================
+$('back').addEventListener('click', () => {
+  if (!confirm('Nuovo progetto? Le clip non esportate andranno perse.')) return;
+  localStorage.removeItem('capcut_sid');
+  location.reload();
+});
+
+$('export').addEventListener('click', async () => {
+  const ov = $('export-overlay');
+  ov.classList.add('show');
+  $('exp-spin').style.display = 'block';
+  $('exp-done').classList.add('hidden');
+  $('exp-title').textContent = 'Esportazione…';
+  $('exp-msg').textContent = '';
+  $('exp-fill').style.width = '0%';
+  try {
+    const r = await fetch(`/api/session/${sid}/export`, {method:'POST'});
+    if (!r.ok) throw new Error('avvio export fallito');
+    pollExport();
+  } catch (e) {
+    $('exp-msg').textContent = '❌ ' + e.message;
+  }
+});
+
+async function pollExport() {
+  try {
+    const r = await fetch(`/api/session/${sid}/export/status`);
+    const d = await r.json();
+    $('exp-fill').style.width = (d.progress || 0) + '%';
+    $('exp-msg').textContent = d.message || '';
+    if (d.status === 'done') {
+      $('exp-spin').style.display = 'none';
+      $('exp-title').textContent = '✓ Pronto';
+      $('exp-msg').textContent = (d.size_mb || '?') + ' MB';
+      $('exp-done').classList.remove('hidden');
+      $('exp-save').onclick = shareOrOpen;
+      return;
+    }
+    if (d.status === 'error') {
+      $('exp-spin').style.display = 'none';
+      $('exp-title').textContent = '❌ Errore';
+      $('exp-msg').textContent = d.message || '';
+      return;
+    }
+  } catch (_) {}
+  setTimeout(pollExport, 2000);
+}
+
+async function shareOrOpen() {
+  try {
+    const url = `/api/session/${sid}/export/file`;
+    const r = await fetch(url);
+    const blob = await r.blob();
+    const file = new File([blob], 'edit.mp4', {type:'video/mp4'});
+    if (navigator.canShare && navigator.canShare({files:[file]})) {
+      await navigator.share({files:[file], title:'Video edit'});
+    } else {
+      window.open(url + '?dl=1', '_blank');
+    }
+  } catch (e) {
+    alert('Tieni premuto il video per salvarlo. (' + e.message + ')');
+  }
+}
+
+$('exp-close').addEventListener('click', () => {
+  $('export-overlay').classList.remove('show');
+});
+
+// ============================================================
+// INIT
+// ============================================================
+(async () => {
+  await ensureSession();
+  await refresh();
+})();
+</script>
+</body>
+</html>

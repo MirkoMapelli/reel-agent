@@ -1,0 +1,3014 @@
+{
+  "generated_at": "2026-09-19T17:24:43",
+  "profile_id": null,
+  "total": 131,
+  "keep": 94,
+  "skip": 37,
+  "scenes": [
+    {
+      "id": 0,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "wall screen with green MILANO branding and digital menu totem displaying flavor options at ordering station",
+      "subject": "menu totem screen",
+      "key_props": [
+        "MILANO wall",
+        "digital menu",
+        "touchscreen"
+      ],
+      "duplicate_of": null,
+      "reason": "Locale branding and ordering tech visible",
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.77,
+      "duration": 3.77,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6813_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6813_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "wall-mounted digital screen displaying braised chicken wings promotional image with neon-lit metal frame structure",
+      "subject": "promotional wall screen",
+      "key_props": [
+        "wall screen",
+        "chicken wings",
+        "neon frame"
+      ],
+      "duplicate_of": null,
+      "reason": "Venue interior aesthetic and food promotion",
+      "clip_name": "IMG_6815.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6815.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.97,
+      "duration": 2.97,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6815_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6815_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "decision": "keep",
+      "role": "food_plated",
+      "description": "overhead view of multiple white cardboard trays with newspaper wrapping showing fried wings, fried chicken tenders, breaded balls and golden fries",
+      "subject": "wings and sides feast",
+      "key_props": [
+        "fried wings",
+        "fries",
+        "breaded balls"
+      ],
+      "duplicate_of": null,
+      "reason": "Complete menu presentation with multiple items",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6820_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6820_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "decision": "keep",
+      "role": "food_plated",
+      "description": "top-down shot of tray display with sauce cups, fried items in newspaper wrap and bright yellow fries served together",
+      "subject": "wings combo plated",
+      "key_props": [
+        "sauce cups",
+        "fries",
+        "newspaper wrap"
+      ],
+      "duplicate_of": null,
+      "reason": "Shows plating style and sauce service",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.1",
+      "start": 4.0,
+      "end": 7.8,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6820_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6820_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "close-up of glossy golden-brown chicken wings with visible seasoning and fried chicken tenders in newspaper sleeve",
+      "subject": "wings and tenders closeup",
+      "key_props": [
+        "chicken wings",
+        "fried tenders",
+        "seasoning"
+      ],
+      "duplicate_of": null,
+      "reason": "High-quality food detail shot with texture",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.8,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "tight closeup of shiny braised chicken wings with caramelized glaze resting in newspaper wrapper",
+      "subject": "glazed wings closeup",
+      "key_props": [
+        "braised wings",
+        "glaze",
+        "newspaper"
+      ],
+      "duplicate_of": null,
+      "reason": "Texture and seasoning detail excellent",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.1",
+      "start": 3.8,
+      "end": 6.2,
+      "duration": 2.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "overhead detail of golden fries and honey-glazed wings with breaded nuggets in newspaper-lined carton",
+      "subject": "fries and wings detail",
+      "key_props": [
+        "golden fries",
+        "glazed wings",
+        "nuggets"
+      ],
+      "duplicate_of": null,
+      "reason": "Shows menu variety and food quality",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.4",
+      "start": 11.2,
+      "end": 15.4,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "angled closeup of crispy fried chicken pieces and golden fries emerging from branded newspaper wrapper",
+      "subject": "fried chicken pieces",
+      "key_props": [
+        "fried chicken",
+        "fries",
+        "wrapper"
+      ],
+      "duplicate_of": null,
+      "reason": "Crispy texture visible, branding showcase",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.5",
+      "start": 15.4,
+      "end": 18.0,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "detail shot of golden fried wings in branded newspaper wrapping with visible seasoning crust",
+      "subject": "seasoned wings",
+      "key_props": [
+        "wings",
+        "newspaper wrap",
+        "seasoning"
+      ],
+      "duplicate_of": null,
+      "reason": "Seasoning and texture detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.6",
+      "start": 18.0,
+      "end": 21.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "closeup of glazed wings and fried nuggets in branded wrapper showing shine and color contrast",
+      "subject": "glazed wings nuggets",
+      "key_props": [
+        "glazed wings",
+        "nuggets",
+        "branding"
+      ],
+      "duplicate_of": null,
+      "reason": "Color and texture contrast appealing",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.7",
+      "start": 21.0,
+      "end": 23.1,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "overhead shot of golden fried tenders stacked in wrapper with fries visible at carton edge",
+      "subject": "fried tenders stack",
+      "key_props": [
+        "fried tenders",
+        "wrapper",
+        "fries"
+      ],
+      "duplicate_of": null,
+      "reason": "Clean plating presentation",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.8",
+      "start": 23.1,
+      "end": 27.04,
+      "duration": 3.94,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6821_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "detail of golden fried tenders and honeyed wings in branded wrapper showing shine and seasoning",
+      "subject": "tenders and glazed wings",
+      "key_props": [
+        "golden tenders",
+        "glazed wings",
+        "seasoning"
+      ],
+      "duplicate_of": null,
+      "reason": "Product quality visible",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.4,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "tight closeup of perfectly golden fried chicken tenders with crispy exterior in newspaper sleeve",
+      "subject": "fried tenders closeup",
+      "key_props": [
+        "fried tenders",
+        "crispy exterior",
+        "newspaper"
+      ],
+      "duplicate_of": null,
+      "reason": "Excellent crispy texture detail",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.1",
+      "start": 3.4,
+      "end": 5.9,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "overhead detail of golden wings tenders breaded nuggets and fries in branded newspaper wrapper",
+      "subject": "mixed fried items",
+      "key_props": [
+        "wings",
+        "tenders",
+        "nuggets",
+        "fries"
+      ],
+      "duplicate_of": null,
+      "reason": "Full menu variety in one shot",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.2",
+      "start": 5.9,
+      "end": 9.9,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "closeup of golden fried tender and glossy braised wings alongside fries in branded wrapper",
+      "subject": "fried and braised mix",
+      "key_props": [
+        "fried tender",
+        "braised wings",
+        "fries"
+      ],
+      "duplicate_of": null,
+      "reason": "Cooking method contrast visible",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.3",
+      "start": 9.9,
+      "end": 13.33,
+      "duration": 3.43,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6822_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "person in white shirt with hands positioned at food, holding chicken and fries from trays on table",
+      "subject": "customer eating hands",
+      "key_props": [
+        "hands",
+        "chicken",
+        "fries"
+      ],
+      "duplicate_of": null,
+      "reason": "Customer interaction with food",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.8,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "young male customer smiling holding trays of wings fries and sauce cups displaying full meal spread",
+      "subject": "customer holding meal",
+      "key_props": [
+        "wings",
+        "fries",
+        "sauce cups"
+      ],
+      "duplicate_of": null,
+      "reason": "Happy customer with full product showcase",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.1",
+      "start": 3.8,
+      "end": 6.2,
+      "duration": 2.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "near-identical shot to id=19 same customer pose holding trays with slight angle variation",
+      "subject": "customer holding meal",
+      "key_props": [
+        "wings",
+        "fries",
+        "sauce cups"
+      ],
+      "duplicate_of": 19,
+      "reason": "Duplicate of scene 19 with minimal variation",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 8.0,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer holding trays with genuine smile showing meal spread with wings fries and sauce",
+      "subject": "customer smiling",
+      "key_props": [
+        "wings",
+        "fries",
+        "trays"
+      ],
+      "duplicate_of": null,
+      "reason": "Authentic reaction and emotion visible",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.3",
+      "start": 8.0,
+      "end": 11.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer looking down at trays displaying wings and fries with natural candid expression",
+      "subject": "customer candid moment",
+      "key_props": [
+        "wings",
+        "fries",
+        "trays"
+      ],
+      "duplicate_of": null,
+      "reason": "Natural candid eating moment",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.4",
+      "start": 11.2,
+      "end": 15.4,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer holding meal trays with varied expressions showing engagement with food display",
+      "subject": "customer with meal",
+      "key_props": [
+        "wings",
+        "fries",
+        "trays"
+      ],
+      "duplicate_of": null,
+      "reason": "Multiple expressions in sequence",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.5",
+      "start": 15.4,
+      "end": 18.0,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer torso with hands around food trays showing meal presentation and sizing",
+      "subject": "meal portion size",
+      "key_props": [
+        "wings",
+        "fries",
+        "quantity"
+      ],
+      "duplicate_of": null,
+      "reason": "Portion size and abundance conveyed",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.6",
+      "start": 18.0,
+      "end": 21.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer holding tray with calm expression while presenting wings and fries arrangement",
+      "subject": "customer presentation",
+      "key_props": [
+        "wings",
+        "fries",
+        "presentation"
+      ],
+      "duplicate_of": null,
+      "reason": "Clean product presentation shot",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.7",
+      "start": 21.0,
+      "end": 23.1,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer looking at tray while holding wings display showing engagement with meal",
+      "subject": "customer focused moment",
+      "key_props": [
+        "wings",
+        "tray",
+        "fries"
+      ],
+      "duplicate_of": null,
+      "reason": "Moment of product appreciation",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.8",
+      "start": 23.1,
+      "end": 27.27,
+      "duration": 4.17,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6823_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "hands dipping fried chicken in white sauce cup while fries and wings visible at table",
+      "subject": "sauce dipping action",
+      "key_props": [
+        "sauce cup",
+        "fried chicken",
+        "dip"
+      ],
+      "duplicate_of": null,
+      "reason": "Key eating action with condiment",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.8,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "close overhead of hands reaching toward sauce and holding fried pieces with engaged expression",
+      "subject": "hands eating gesture",
+      "key_props": [
+        "sauce",
+        "fried pieces",
+        "hands"
+      ],
+      "duplicate_of": null,
+      "reason": "Active eating moment",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.1",
+      "start": 1.8,
+      "end": 5.0,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "customer holding up golden fried chicken piece to camera with surprised expression while holding sauce",
+      "subject": "highlight fried piece",
+      "key_props": [
+        "fried chicken",
+        "sauce cup",
+        "reaction"
+      ],
+      "duplicate_of": null,
+      "reason": "Strong reaction and product showcase",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.2",
+      "start": 5.0,
+      "end": 9.2,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "hands dipping golden fried chicken in white sauce with fries and wings visible below",
+      "subject": "sauce dipping closeup",
+      "key_props": [
+        "fried chicken",
+        "sauce",
+        "dip"
+      ],
+      "duplicate_of": null,
+      "reason": "Clear dipping action shot",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.4",
+      "start": 11.8,
+      "end": 14.8,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "overhead angle of hands dipping fried chicken into white sauce with fries beside",
+      "subject": "dipping action overhead",
+      "key_props": [
+        "fried chicken",
+        "white sauce",
+        "dip"
+      ],
+      "duplicate_of": null,
+      "reason": "Alternative angle of eating action",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.5",
+      "start": 14.8,
+      "end": 16.9,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "closeup of fried chicken piece dipping into white sauce cup with hands and fries frame",
+      "subject": "sauce interaction detail",
+      "key_props": [
+        "fried chicken",
+        "white sauce",
+        "dip"
+      ],
+      "duplicate_of": null,
+      "reason": "Detailed eating moment",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.6",
+      "start": 16.9,
+      "end": 20.5,
+      "duration": 3.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che addenta ala fritta dorata con salsa bianca in bicchiere al tavolo",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "salsa",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione genuina di assaggio, inquadratura stabile e luminosa",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.7",
+      "start": 20.5,
+      "end": 22.5,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con ala fritta in mano sospesa prima del morso, sguardo sorpreso",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "espressione",
+        "tavolo"
+      ],
+      "duplicate_of": 34,
+      "reason": "stessa sequenza di id=34, scartare per non ridondanza",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.8",
+      "start": 22.5,
+      "end": 25.9,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che morde ala fritta con espressione concentrata, salsa in mano destra",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "morso",
+        "salsa"
+      ],
+      "duplicate_of": null,
+      "reason": "momento del morso ben definito, reazione naturale visibile",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.9",
+      "start": 25.9,
+      "end": 28.4,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente mastica ala fritta con sguardo leggermente verso il basso",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "masticazione",
+        "tavolo"
+      ],
+      "duplicate_of": 36,
+      "reason": "variante minima di id=36, stessa azione mantenere il migliore",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.10",
+      "start": 28.4,
+      "end": 32.4,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub10/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub10/f1.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con ala in mano, sguardo verso il basso, posa statica",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "mano",
+        "bicchiere"
+      ],
+      "duplicate_of": 36,
+      "reason": "posa statica senza azione evidente, id=36 è più dinamico",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.11",
+      "start": 32.4,
+      "end": 34.6,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub11/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub11/f1.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente tiene ala davanti alla bocca, espressione neutra",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ala fritta",
+        "bocca",
+        "salsa"
+      ],
+      "duplicate_of": 36,
+      "reason": "transizione statica tra morsi, ridondante rispetto a id=36",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.12",
+      "start": 34.6,
+      "end": 37.4,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub12/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub12/f1.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "primo piano cliente che addenta francese con salsa in mano, reazione di piacere",
+      "subject": "cliente che mangia francese",
+      "key_props": [
+        "francese",
+        "salsa",
+        "reazione"
+      ],
+      "duplicate_of": null,
+      "reason": "cambio di cibo, reazione visibile, inquadratura ravvicinata e autentica",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.13",
+      "start": 37.4,
+      "end": 41.2,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub13/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub13/f1.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente mastica francese con sguardo sorpreso verso fotocamera",
+      "subject": "cliente che mangia francese",
+      "key_props": [
+        "francese",
+        "masticazione",
+        "espressione"
+      ],
+      "duplicate_of": 40,
+      "reason": "stessa azione di id=40 in momento leggermente diverso, mantenere 40",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.14",
+      "start": 41.2,
+      "end": 43.2,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub14/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6824_s0_sub14/f1.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano mani che reggono cartoccio di francese dorate su carta stampata",
+      "subject": "francese fritte",
+      "key_props": [
+        "francese",
+        "carta stampata",
+        "mani"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio texture e colore francese, mostra packaging del locale",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "decision": "keep",
+      "role": "food_detail",
+      "description": "mano che mostra cartoccio di francese gialle calde con scritta su carta",
+      "subject": "francese nel cartoccio",
+      "key_props": [
+        "francese gialle",
+        "cartoccio",
+        "logo locale"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura statica ma mostra bene il presentazione e branding",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.1",
+      "start": 3.2,
+      "end": 7.4,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mani che separano francese dal cartoccio con forchetta bianca",
+      "subject": "francese",
+      "key_props": [
+        "francese",
+        "forchetta",
+        "cartoccio"
+      ],
+      "duplicate_of": 42,
+      "reason": "variante di id=42, scartare per continuità narrativa",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.2",
+      "start": 7.4,
+      "end": 10.0,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mangia francese con forchetta, espressione di soddisfazione visibile",
+      "subject": "cliente che mangia francese",
+      "key_props": [
+        "francese",
+        "forchetta",
+        "reazione"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione autentica con utensile diverso, mostra diversità di consumo",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.3",
+      "start": 10.0,
+      "end": 13.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "mani che reggono una singola francese lunga tra le dita davanti al cliente",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "mani",
+        "gesto"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura ravvicinata sulle mani, mostra dettaglio e lunghezza francese",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.4",
+      "start": 13.0,
+      "end": 15.1,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente mostra francese singola in primo piano laterale, sguardo sorpreso",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "cliente",
+        "espressione"
+      ],
+      "duplicate_of": 46,
+      "reason": "stessa azione di id=46 con inquadratura leggermente diversa",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.5",
+      "start": 15.1,
+      "end": 18.7,
+      "duration": 3.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con francese singola in primo piano, posa statica",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "mani",
+        "cliente"
+      ],
+      "duplicate_of": 46,
+      "reason": "variante statica di id=46 e 47, ridondante",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.6",
+      "start": 18.7,
+      "end": 20.7,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con francese singola in mano, sguardo leggermente verso il basso",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "cliente",
+        "mano"
+      ],
+      "duplicate_of": 46,
+      "reason": "posa simile a id=46-48, mantenere il migliore",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.7",
+      "start": 20.7,
+      "end": 24.1,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente regge francese singola davanti al volto con espressione neutra",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "cliente",
+        "primo piano"
+      ],
+      "duplicate_of": 46,
+      "reason": "transizione statica, ridondante con id=46",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.8",
+      "start": 24.1,
+      "end": 26.6,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con francese singola in mano, sguardo verso il basso pacato",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "cliente",
+        "mano"
+      ],
+      "duplicate_of": 46,
+      "reason": "posa statica senza movimento, mantenere id=46 più dinamico",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.9",
+      "start": 26.6,
+      "end": 29.64,
+      "duration": 3.04,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6825_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che intinge francese in salsa verde con forchetta, concentrato su azione",
+      "subject": "cliente che intinge",
+      "key_props": [
+        "francese",
+        "salsa verde",
+        "forchetta"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di intingimento con nuovo condimento, mostra versatilità uso",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.6,
+      "duration": 3.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "decision": "keep",
+      "role": "food_detail",
+      "description": "primo piano francese singola lunghissima in mano tra dita, dettaglio lunghezza",
+      "subject": "francese lunga",
+      "key_props": [
+        "francese",
+        "mano",
+        "lunghezza"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio texture e dimensione francese, inquadratura ravvicinata",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.1",
+      "start": 3.6,
+      "end": 5.6,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano che mostra francese singola davanti al volto con espressione sorpresa",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "mano",
+        "volto"
+      ],
+      "duplicate_of": 53,
+      "reason": "variante di id=53, scartare per evitare ridondanza",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.2",
+      "start": 5.6,
+      "end": 9.0,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente regge francese singola con entrambe le mani in primo piano",
+      "subject": "francese singola",
+      "key_props": [
+        "francese",
+        "mani",
+        "cliente"
+      ],
+      "duplicate_of": 53,
+      "reason": "posa simile a id=53, mantenere quello con miglior dettaglio",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.3",
+      "start": 9.0,
+      "end": 11.5,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che addenta francese singola lunga con espressione di sorpresa per lunghezza",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "francese",
+        "morso",
+        "reazione"
+      ],
+      "duplicate_of": null,
+      "reason": "momento del morso con reazione naturale sulla lunghezza, autentico",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.4",
+      "start": 11.5,
+      "end": 15.5,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "decision": "skip",
+      "role": "dead-air",
+      "description": "cliente che osserva francese senza azione evidente, pausa tra azioni",
+      "subject": "cliente",
+      "key_props": [
+        "francese",
+        "pausa",
+        "osservazione"
+      ],
+      "duplicate_of": null,
+      "reason": "tempi morti senza azione, scartare per mantenere ritmo",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 17.7,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "decision": "skip",
+      "role": "dead-air",
+      "description": "cliente seduto al tavolo guardando verso il basso, nessuna azione evidente",
+      "subject": "cliente",
+      "key_props": [
+        "tavolo",
+        "pausa",
+        "sguardo"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura statica senza azione, tempi morti da evitare",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.6",
+      "start": 17.7,
+      "end": 22.03,
+      "duration": 4.33,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6826_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che intinge francese in salsa bianca con movimento fluido, concentrato",
+      "subject": "cliente che intinge",
+      "key_props": [
+        "francese",
+        "salsa bianca",
+        "movimento"
+      ],
+      "duplicate_of": null,
+      "reason": "azione fluida di intingimento diverso da id=52, mostra versatilità",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.4,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "primo piano mani che immergono francese in bicchiere di salsa bianca cremosa",
+      "subject": "francese e salsa",
+      "key_props": [
+        "francese",
+        "salsa bianca",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio azione intingimento, mostra consistenza salsa e abbinamento",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.1",
+      "start": 3.4,
+      "end": 5.9,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mastica francese intinta in salsa con espressione di gusto positivo",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "francese",
+        "salsa",
+        "reazione"
+      ],
+      "duplicate_of": null,
+      "reason": "momento post-intingimento con reazione autentica visibile",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.2",
+      "start": 5.9,
+      "end": 9.9,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con francese in mano vista di profilo leggero, espressione concentrata",
+      "subject": "cliente",
+      "key_props": [
+        "francese",
+        "profilo",
+        "mano"
+      ],
+      "duplicate_of": 61,
+      "reason": "transizione tra azioni, ridondante con id=61",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.3",
+      "start": 9.9,
+      "end": 12.1,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 63,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mangia francese con bocca aperta, reazione di sorpresa positiva su gusto",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "francese",
+        "bocca",
+        "reazione"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione emotiva autentica diversa dalle altre, arricchisce la narrazione",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.4",
+      "start": 12.1,
+      "end": 14.9,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 64,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.5",
+      "start": 14.9,
+      "end": 17.54,
+      "duration": 2.64,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6827_s0_sub5/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 65,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.6,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 66,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.1",
+      "start": 2.6,
+      "end": 5.6,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub1/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 67,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.2",
+      "start": 5.6,
+      "end": 7.7,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub2/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 69,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.4",
+      "start": 11.3,
+      "end": 13.3,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub4/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 70,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.5",
+      "start": 13.3,
+      "end": 16.7,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub5/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 71,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.6",
+      "start": 16.7,
+      "end": 19.2,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub6/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 72,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.7",
+      "start": 19.2,
+      "end": 24.8,
+      "duration": 5.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6828_s0_sub7/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 73,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 74,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.1",
+      "start": 3.0,
+      "end": 5.1,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub1/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 77,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.4",
+      "start": 10.7,
+      "end": 14.1,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub4/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 78,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.5",
+      "start": 14.1,
+      "end": 16.6,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub5/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 79,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.6",
+      "start": 16.6,
+      "end": 22.17,
+      "duration": 5.57,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6829_s0_sub6/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 80,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.8,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6830_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6830_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 82,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.2",
+      "start": 6.6,
+      "end": 9.87,
+      "duration": 3.27,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6830_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6830_s0_sub2/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 83,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 86,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.0",
+      "start": 6.04,
+      "end": 8.54,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 87,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.1",
+      "start": 8.54,
+      "end": 12.54,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub1/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 88,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.2",
+      "start": 12.54,
+      "end": 14.74,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6831_s3_sub2/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 90,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6832.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.3,
+      "duration": 1.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6832_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6832_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 91,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.8,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 92,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.1",
+      "start": 1.8,
+      "end": 5.0,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub1/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 93,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.2",
+      "start": 5.0,
+      "end": 9.2,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub2/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 94,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.3",
+      "start": 9.2,
+      "end": 11.8,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub3/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 95,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.4",
+      "start": 11.8,
+      "end": 14.8,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub4/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 96,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.5",
+      "start": 14.8,
+      "end": 16.9,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub5/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 97,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.6",
+      "start": 16.9,
+      "end": 20.5,
+      "duration": 3.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub6/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 98,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.7",
+      "start": 20.5,
+      "end": 22.5,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub7/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 99,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.8",
+      "start": 22.5,
+      "end": 25.57,
+      "duration": 3.07,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6833_s0_sub8/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 100,
+      "decision": "keep",
+      "role": "detail",
+      "duplicate_of": null,
+      "reason": "parse errore",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.4,
+      "duration": 2.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub0/f1.jpg"
+      ],
+      "description": "",
+      "subject": "",
+      "key_props": []
+    },
+    {
+      "id": 101,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Mani che tengono ala fritta in carta bianca al tavolo con carta stampata",
+      "subject": "cliente che mangia ala",
+      "key_props": [
+        "ala fritta",
+        "carta bianca",
+        "carta stampata"
+      ],
+      "duplicate_of": null,
+      "reason": "Inquadratura chiara, mostra consumazione del cibo con dettaglio texture",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.1",
+      "start": 2.4,
+      "end": 4.2,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che tiene ala fritta dorata in primo piano con reazione neutrale al tavolo",
+      "subject": "cliente mostra ala fritta",
+      "key_props": [
+        "ala fritta",
+        "tavolo",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "Buona esposizione del piatto, volto leggibile, setting chiaro",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.3",
+      "start": 7.4,
+      "end": 11.6,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente che morde ala fritta al tavolo inquadratura simile a id=103",
+      "subject": "cliente mangia ala",
+      "key_props": [
+        "ala fritta",
+        "tavolo",
+        "bicchiere"
+      ],
+      "duplicate_of": 103,
+      "reason": "Duplicato di id=103, stessa posizione e azione, mantenere 103",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.4",
+      "start": 11.6,
+      "end": 14.23,
+      "duration": 2.63,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6834_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "Mano che mostra primo piano panettone/dolce giallo crumbly al volto cliente",
+      "subject": "mano mostra panettone",
+      "key_props": [
+        "panettone",
+        "mano",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "Buon dettaglio texture cibo, gesto di presentazione chiaro",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.2,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "Cliente che tiene panettone spezzato davanti volto con espressione neutra",
+      "subject": "cliente spezza panettone",
+      "key_props": [
+        "panettone",
+        "mani",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Inquadratura nitida, mostra texture cibo e gesto naturale",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.1",
+      "start": 2.2,
+      "end": 5.0,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente mostra panettone spezzato davanti volto simile a id=106",
+      "subject": "cliente panettone",
+      "key_props": [
+        "panettone",
+        "mani"
+      ],
+      "duplicate_of": 106,
+      "reason": "Variazione minima di id=106, mantenere 106",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.2",
+      "start": 5.0,
+      "end": 8.8,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mani che intingono panettone in salsa bianca al tavolo",
+      "subject": "mani intingono panettone",
+      "key_props": [
+        "panettone",
+        "salsa",
+        "mani"
+      ],
+      "duplicate_of": 106,
+      "reason": "Variazione di stessa sequenza, id=106 più rappresentativa",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.3",
+      "start": 8.8,
+      "end": 11.2,
+      "duration": 2.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che tiene panettone in mano al volto con sguardo in basso contemplativo",
+      "subject": "cliente contempla panettone",
+      "key_props": [
+        "panettone",
+        "bicchiere",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Buona espressione naturale, inquadratura stabile, momento autentico",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.4",
+      "start": 11.2,
+      "end": 13.0,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che mangia panettone al tavolo con sguardo verso il basso bocca leggermente aperta",
+      "subject": "cliente mangia panettone",
+      "key_props": [
+        "panettone",
+        "bicchiere",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Reazione genuina di consumazione, espressione leggibile e naturale",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.5",
+      "start": 13.0,
+      "end": 16.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente mostra panettone spezzato simile a id=106 con variazione minima",
+      "subject": "cliente panettone",
+      "key_props": [
+        "panettone"
+      ],
+      "duplicate_of": 106,
+      "reason": "Variazione di id=106, mantenere 106 come primo della sequenza",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.6",
+      "start": 16.2,
+      "end": 20.4,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente che mangia panettone con occhi chiusi simile a sequenza precedente",
+      "subject": "cliente mangia",
+      "key_props": [
+        "panettone"
+      ],
+      "duplicate_of": 110,
+      "reason": "Variazione di id=110, mantenere 110 come più rappresentativa",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.7",
+      "start": 20.4,
+      "end": 23.0,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che morde panettone al tavolo con tavolo leggermente mosso dietro",
+      "subject": "cliente morde panettone",
+      "key_props": [
+        "panettone",
+        "bicchiere",
+        "staff sullo sfondo"
+      ],
+      "duplicate_of": null,
+      "reason": "Azione di consumazione genuina, inquadratura stabile, contesto locale visibile",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.8",
+      "start": 23.0,
+      "end": 26.43,
+      "duration": 3.43,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6835_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 114,
+      "decision": "keep",
+      "role": "drink_detail",
+      "description": "Cliente che tiene tazza bevanda carta stampata con logo locale al tavolo",
+      "subject": "cliente con bevanda carta",
+      "key_props": [
+        "tazza carta",
+        "logo locale",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra branding locale, inquadratura chiara, staffer visibile sullo sfondo",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.4,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 115,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente beve da tazza carta simile a id=114 con minore variazione",
+      "subject": "cliente beve",
+      "key_props": [
+        "tazza carta"
+      ],
+      "duplicate_of": 114,
+      "reason": "Variazione minima di id=114, mantenere 114",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.1",
+      "start": 3.4,
+      "end": 5.9,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente beve da tazza carta con faccia parzialmente coperta",
+      "subject": "cliente beve",
+      "key_props": [
+        "tazza carta"
+      ],
+      "duplicate_of": 114,
+      "reason": "Variazione di id=114, facciale meno leggibile, mantenere 114",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.2",
+      "start": 5.9,
+      "end": 8.33,
+      "duration": 2.43,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6836_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "Primo piano ala fritta crocchetta con panatura gialla dorata e texture crumbly visibile",
+      "subject": "ala fritta closeup",
+      "key_props": [
+        "ala fritta",
+        "panatura",
+        "sfondo neutro"
+      ],
+      "duplicate_of": null,
+      "reason": "Eccellente dettaglio texture cibo, inquadratura nitida, buona esposizione",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.8,
+      "duration": 1.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "Mani che spezzano ala fritta al centro mostrando interno della panatura al volto",
+      "subject": "mani spezzano ala fritta",
+      "key_props": [
+        "ala fritta",
+        "mani",
+        "panatura"
+      ],
+      "duplicate_of": null,
+      "reason": "Gesto descrittivo, mostra texture interna del cibo, inquadratura stabile",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.1",
+      "start": 1.8,
+      "end": 5.0,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mani spezzano ala fritta simile a id=118 con variazione minima",
+      "subject": "mani spezzano ala",
+      "key_props": [
+        "ala fritta"
+      ],
+      "duplicate_of": 118,
+      "reason": "Variazione di id=118, mantenere 118",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.2",
+      "start": 5.0,
+      "end": 9.2,
+      "duration": 4.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mani spezzano ala fritta variazione di id=118",
+      "subject": "mani spezzano",
+      "key_props": [
+        "ala fritta"
+      ],
+      "duplicate_of": 118,
+      "reason": "Variazione di id=118, mantenere 118 come prima della sequenza",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.3",
+      "start": 9.2,
+      "end": 11.8,
+      "duration": 2.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "Mano che alza frammento ala fritta davanti volto cliente con sguardo al cibo",
+      "subject": "mano alza frammento ala",
+      "key_props": [
+        "ala fritta",
+        "mano",
+        "frammento"
+      ],
+      "duplicate_of": null,
+      "reason": "Gesto naturale di consumazione, inquadratura leggibile, mostra interesse cibo",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.4",
+      "start": 11.8,
+      "end": 14.8,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che mangia ala fritta davanti volto con espressione neutrale e sguardo laterale",
+      "subject": "cliente mangia ala fritta",
+      "key_props": [
+        "ala fritta",
+        "mano",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Azione genuine di consumazione, volto leggibile, setting naturale",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.5",
+      "start": 14.8,
+      "end": 16.9,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente che mangia ala fritta simile a id=122 con variazione minima",
+      "subject": "cliente mangia ala",
+      "key_props": [
+        "ala fritta"
+      ],
+      "duplicate_of": 122,
+      "reason": "Variazione di id=122, mantenere 122",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.6",
+      "start": 16.9,
+      "end": 20.5,
+      "duration": 3.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente che intinge ala fritta in salsa simile a id=122",
+      "subject": "cliente mangia",
+      "key_props": [
+        "ala fritta",
+        "salsa"
+      ],
+      "duplicate_of": 122,
+      "reason": "Variazione di id=122, mantenere 122",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.7",
+      "start": 20.5,
+      "end": 22.5,
+      "duration": 2.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente che intinge ala fritta in salsa bianca al tavolo",
+      "subject": "cliente intinge ala",
+      "key_props": [
+        "ala fritta",
+        "salsa"
+      ],
+      "duplicate_of": 122,
+      "reason": "Variazione di sequenza id=122, mantenere 122",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.8",
+      "start": 22.5,
+      "end": 25.9,
+      "duration": 3.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente che morde ala fritta con sguardo basso e bocca leggermente aperta",
+      "subject": "cliente morde ala fritta",
+      "key_props": [
+        "ala fritta",
+        "mano",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Reazione genuina di consumazione, espressione autentica leggibile",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.9",
+      "start": 25.9,
+      "end": 30.0,
+      "duration": 4.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6837_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "Macchina Coca-Cola Freestyle con schermo touchscreen color e bottoni bevande visibili",
+      "subject": "macchina Freestyle",
+      "key_props": [
+        "Coca-Cola Freestyle",
+        "schermo",
+        "bottoni bevande"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio tecnologico del locale, mostra infrastruttura bevande, inquadratura stabile",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 129,
+      "decision": "keep",
+      "role": "drink_detail",
+      "description": "Mano che estrae bicchiere bevanda dalla macchina Freestyle con logo rosso Coca-Cola",
+      "subject": "bicchiere bevanda prelevato",
+      "key_props": [
+        "macchina Freestyle",
+        "bicchiere",
+        "Coca-Cola"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra esperienza di utilizzo Freestyle, azione chiara, setting locale evidente",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.0,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 130,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mano estrae bicchiere da Freestyle simile a id=129 con variazione minima",
+      "subject": "bicchiere prelevato",
+      "key_props": [
+        "Freestyle",
+        "bicchiere"
+      ],
+      "duplicate_of": 129,
+      "reason": "Variazione di id=129, mantenere 129",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.3",
+      "start": 9.0,
+      "end": 12.8,
+      "duration": 3.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 131,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mano con bicchiere davanti Freestyle simile a id=129",
+      "subject": "bicchiere bevanda",
+      "key_props": [
+        "Freestyle"
+      ],
+      "duplicate_of": 129,
+      "reason": "Variazione di id=129, mantenere 129 come primo della sequenza",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.4",
+      "start": 12.8,
+      "end": 16.27,
+      "duration": 3.47,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6838_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 132,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "Schermo touchscreen Coca-Cola Freestyle con display colorato e opzioni Zero Zuccheri visibili",
+      "subject": "schermo Freestyle",
+      "key_props": [
+        "schermo Freestyle",
+        "Coca-Cola Zero",
+        "bottoni colorati"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra menu bevande digitale del locale, branding Coca-Cola, dettaglio tecnologico significativo",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 133,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "Mano che preme bottone rosso Coca-Cola Zero su distributore automatico di bevande al locale",
+      "subject": "distributore Coca-Cola",
+      "key_props": [
+        "Coca-Cola Zero",
+        "bottone rosso",
+        "distributore automatico"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra elemento tecnologico e branding bevande del locale",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.1",
+      "start": 3.0,
+      "end": 5.1,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 134,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Mano che preme bottone rosso Coca-Cola Zero su distributore — stessa inquadratura id=133",
+      "subject": "distributore Coca-Cola",
+      "key_props": [
+        "Coca-Cola Zero",
+        "bottone rosso",
+        "distributore"
+      ],
+      "duplicate_of": 133,
+      "reason": "Duplicato di id=133, manteniamo il migliore",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.2",
+      "start": 5.1,
+      "end": 7.8,
+      "duration": 2.7,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6839_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 135,
+      "decision": "keep",
+      "role": "menu_board",
+      "description": "Mano che tiene scatola food con logo Wing Stop e testo menu 'FLAVORS FRIES WINGS' visibile chiaramente",
+      "subject": "scatola menu Wing Stop",
+      "key_props": [
+        "Wing Stop",
+        "scatola food",
+        "testo menu"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra packaging e identità visiva del brand locale",
+      "clip_name": "IMG_6840.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.2,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6840_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6840_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 136,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Primo piano scatola Wing Stop con testo menu ripetuto — variante di id=135, fuori fuoco parziale",
+      "subject": "scatola menu Wing Stop",
+      "key_props": [
+        "Wing Stop",
+        "scatola",
+        "testo menu"
+      ],
+      "duplicate_of": 135,
+      "reason": "Duplicato di id=135 con focus diverso ma meno chiaro",
+      "clip_name": "IMG_6840.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "scene_index": "0.1",
+      "start": 2.2,
+      "end": 4.3,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6840_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6840_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 137,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "Cliente maschio di profilo osserva claw machine Wing Stop illuminata con ali fritte bianche all'interno, wall art colorato sullo sfondo",
+      "subject": "claw machine Wing Stop",
+      "key_props": [
+        "claw machine",
+        "ali fritte",
+        "wall art"
+      ],
+      "duplicate_of": null,
+      "reason": "Elemento decorativo e interattivo del locale, mostra ambiente",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.5,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 138,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "Cliente interagisce con claw machine Wing Stop illuminata verde, ali fritte bianche visibili, wall art street art colorato sullo sfondo",
+      "subject": "cliente alla claw machine",
+      "key_props": [
+        "claw machine",
+        "ali fritte",
+        "wall art"
+      ],
+      "duplicate_of": null,
+      "reason": "Mostra azione cliente con elemento interattivo del locale",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.1",
+      "start": 2.5,
+      "end": 6.5,
+      "duration": 4.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 139,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente alla claw machine Wing Stop — variante leggera di id=138, stessa composizione",
+      "subject": "cliente alla claw machine",
+      "key_props": [
+        "claw machine",
+        "ali fritte",
+        "wall art"
+      ],
+      "duplicate_of": 138,
+      "reason": "Duplicato di id=138, manteniamo versione con miglior azione",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.2",
+      "start": 6.5,
+      "end": 8.7,
+      "duration": 2.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 140,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "Cliente alla claw machine Wing Stop — ulteriore variante di id=138, movimento minimo",
+      "subject": "cliente alla claw machine",
+      "key_props": [
+        "claw machine",
+        "ali fritte",
+        "wall art"
+      ],
+      "duplicate_of": 138,
+      "reason": "Ulteriore duplicato di id=138, scartare per evitare ripetizioni",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.3",
+      "start": 8.7,
+      "end": 11.5,
+      "duration": 2.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 141,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "Cliente di profilo guarda claw machine Wing Stop, postura di sorridere riconoscibile, wall art colorato sullo sfondo",
+      "subject": "cliente sorridendo",
+      "key_props": [
+        "cliente",
+        "claw machine",
+        "wall art"
+      ],
+      "duplicate_of": null,
+      "reason": "Cattura reazione positiva cliente al locale e elemento interattivo",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.4",
+      "start": 11.5,
+      "end": 15.18,
+      "duration": 3.68,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6844_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 142,
+      "decision": "skip",
+      "role": "non-pertinente",
+      "description": "Mano con braccialetto tiene peluche bianco con testo stampato, wall art sullo sfondo, nessun cibo o bevanda visibile",
+      "subject": "peluche souvenir",
+      "key_props": [
+        "peluche",
+        "braccialetto",
+        "wall art"
+      ],
+      "duplicate_of": null,
+      "reason": "Peluche non pertinente al menù/cibo/bevande del locale",
+      "clip_name": "IMG_6848.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6848.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.0,
+      "duration": 3.0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6848_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6848_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 143,
+      "decision": "skip",
+      "role": "non-pertinente",
+      "description": "Mano che apre scatola con peluche bianco dentro, wall art sullo sfondo, nessun elemento food/beverage riconoscibile",
+      "subject": "peluche in scatola",
+      "key_props": [
+        "peluche",
+        "scatola",
+        "wall art"
+      ],
+      "duplicate_of": null,
+      "reason": "Merchandise non pertinente, non mostra cibo/bevande/locale",
+      "clip_name": "IMG_6848.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6848.MOV",
+      "scene_index": "0.1",
+      "start": 3.0,
+      "end": 5.07,
+      "duration": 2.07,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6848_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_178/IMG_6848_s0_sub1/f1.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2286 @@
+{
+  "video_id": "7665772206621789472",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7665772206621789472",
+    "ref_id": "ref_06_7665772206621789472",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7665772206621789472",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 26,
+  "total_dur": 64.06,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 0.967,
+      "dur": 0.967,
+      "center": 0.483,
+      "role": "food_detail",
+      "subject": "formaggio e salame tagliati",
+      "description": "il tagliere con formaggio e salame su tovaglia a quadretti",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Un picnic completamente"
+    },
+    {
+      "idx": 1,
+      "start": 0.967,
+      "end": 3.733,
+      "dur": 2.767,
+      "center": 2.35,
+      "role": "person_eating",
+      "subject": "ragazzo che mostra salame",
+      "description": "il giovane che addenta o mostra un pezzetto di salame",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "immersi nella natura di un frutteto. Oggi, ragazzi, vi"
+    },
+    {
+      "idx": 2,
+      "start": 3.733,
+      "end": 7.233,
+      "dur": 3.5,
+      "center": 5.483,
+      "role": "venue_interior_wide",
+      "subject": "tavolata lunga all'aperto",
+      "description": "le persone sedute alle tavole nel frutteto con luci calde",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "porto da Cacina Pizzo per mostrarvi la loro formula peritivo che potete"
+    },
+    {
+      "idx": 3,
+      "start": 7.233,
+      "end": 10.233,
+      "dur": 3.0,
+      "center": 8.733,
+      "role": "hands_gesture",
+      "subject": "mano che apre cesto",
+      "description": "il cesto di vimini da picnic con prodotti all'interno",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fare in questi tavolini proprio in mezzo al frutteto. Una volta arrivati,"
+    },
+    {
+      "idx": 4,
+      "start": 10.233,
+      "end": 11.2,
+      "dur": 0.967,
+      "center": 10.717,
+      "role": "food_detail",
+      "subject": "confezioni di pane confezionato",
+      "description": "i pacchetti di pane senza glutine posati sulla tovaglia",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "vi deranno il vostro"
+    },
+    {
+      "idx": 5,
+      "start": 11.2,
+      "end": 11.833,
+      "dur": 0.633,
+      "center": 11.517,
+      "role": "food_detail",
+      "subject": "panfette in confezione",
+      "description": "I pacchetti di panfette su tovaglia a scacchi rossi.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "cestino contenente"
+    },
+    {
+      "idx": 6,
+      "start": 11.833,
+      "end": 13.433,
+      "dur": 1.6,
+      "center": 12.633,
+      "role": "food_detail",
+      "subject": "cestino con albicocche",
+      "description": "Le albicocche fresche estratte dal cesto da picnic.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "del pane, dei taralli,"
+    },
+    {
+      "idx": 7,
+      "start": 13.433,
+      "end": 15.967,
+      "dur": 2.533,
+      "center": 14.7,
+      "role": "food_closeup",
+      "subject": "tavola imbandita picnic",
+      "description": "L'intera selezione di cibo disposta sulla tovaglia a quadri.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "entrambi con anche opzioni senza glutine, della frutta di"
+    },
+    {
+      "idx": 8,
+      "start": 15.967,
+      "end": 16.767,
+      "dur": 0.8,
+      "center": 16.367,
+      "role": "venue_interior_detail",
+      "subject": "cestino chiuso sul tavolo",
+      "description": "Il cestino in vimini chiuso accanto al tagliere di salumi.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "pomodorini,"
+    },
+    {
+      "idx": 9,
+      "start": 16.767,
+      "end": 17.7,
+      "dur": 0.933,
+      "center": 17.233,
+      "role": "drink_detail",
+      "subject": "bottiglia d'acqua e bicchieri",
+      "description": "La bottiglia d'acqua fresca all'aperto su prato.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "due salamieni, una"
+    },
+    {
+      "idx": 10,
+      "start": 17.7,
+      "end": 21.633,
+      "dur": 3.933,
+      "center": 19.667,
+      "role": "venue_exterior",
+      "subject": "tavoli all'aperto tra alberi",
+      "description": "La location rustica immersa nel verde con tavoli apparecchiati",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "forma di formaggio e una composta artigianale di mele, con anche ovviamente la possibilità di"
+    },
+    {
+      "idx": 11,
+      "start": 21.633,
+      "end": 23.633,
+      "dur": 2.0,
+      "center": 22.633,
+      "role": "food_detail",
+      "subject": "taglio del salame",
+      "description": "Le mani che affettano il salame artigianale sul tagliere",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "accompagnare il tutto con un calice o una"
+    },
+    {
+      "idx": 12,
+      "start": 23.633,
+      "end": 25.667,
+      "dur": 2.033,
+      "center": 24.65,
+      "role": "person_eating",
+      "subject": "persona che prepara cibo",
+      "description": "Il ragazzo seduto che afferra un pezzo di formaggio",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "bottiglia di vino. Una formula in realtà abbastanza"
+    },
+    {
+      "idx": 13,
+      "start": 25.667,
+      "end": 27.667,
+      "dur": 2.0,
+      "center": 26.667,
+      "role": "food_detail",
+      "subject": "taglio della forma di formaggio",
+      "description": "Il taglio netto della forma di formaggio stagionato",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "semplice, con prodotti comunque locali e davvero"
+    },
+    {
+      "idx": 14,
+      "start": 27.667,
+      "end": 29.7,
+      "dur": 2.033,
+      "center": 28.683,
+      "role": "food_detail",
+      "subject": "panino con formaggio e salame",
+      "description": "La composizione del panino casereccio con formaggio fresco",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di qualità, che io devo mettere che ho particolarmente"
+    },
+    {
+      "idx": 15,
+      "start": 29.7,
+      "end": 32.033,
+      "dur": 2.333,
+      "center": 30.867,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia formaggio",
+      "description": "Il ragazzo assaggia il cibo con espressione soddisfatta all'aperto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "apprezzato, visto che tre panini con il salame"
+    },
+    {
+      "idx": 16,
+      "start": 32.033,
+      "end": 34.5,
+      "dur": 2.467,
+      "center": 33.267,
+      "role": "food_detail",
+      "subject": "tagliere con formaggio e salumi",
+      "description": "Si spalma una composta scura su fettine di formaggio su un tagliere in legno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "e l 'accostamento con la composta di frutta mi sono quasi"
+    },
+    {
+      "idx": 17,
+      "start": 34.5,
+      "end": 35.3,
+      "dur": 0.8,
+      "center": 34.9,
+      "role": "hands_gesture",
+      "subject": "mano che mostra pezzo condito",
+      "description": "Primo piano della mano che regge il formaggio condito pronto per essere gustato.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fatto fuori tutta"
+    },
+    {
+      "idx": 18,
+      "start": 35.3,
+      "end": 38.033,
+      "dur": 2.733,
+      "center": 36.667,
+      "role": "person_eating",
+      "subject": "ragazzo con boccone in mano",
+      "description": "Il creator mostra il cibo alla telecamera prima di portarlo alla bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "quella mezza forma di formaggio, il tutto con una location piuttosto"
+    },
+    {
+      "idx": 19,
+      "start": 38.033,
+      "end": 39.567,
+      "dur": 1.533,
+      "center": 38.8,
+      "role": "person_talking",
+      "subject": "ragazzo che parla all'aperto",
+      "description": "Il ragazzo spiega le sue impressioni sul cibo appena assaggiato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "inusuale ma molto molto"
+    },
+    {
+      "idx": 20,
+      "start": 39.567,
+      "end": 41.167,
+      "dur": 1.6,
+      "center": 40.367,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia all'aperto",
+      "description": "Il ragazzo seduto all'aperto che mangia con una tovaglia a quadretti in primo piano.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "bella e che vi assicuro che vi conquistarà"
+    },
+    {
+      "idx": 21,
+      "start": 41.167,
+      "end": 43.133,
+      "dur": 1.967,
+      "center": 42.15,
+      "role": "person_talking",
+      "subject": "ragazzo che parla gesticolando",
+      "description": "Il creator parla guardando in alto con le mani in movimento sotto gli alberi.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "all 'istante, perché si crea proprio una atmosfera"
+    },
+    {
+      "idx": 22,
+      "start": 43.133,
+      "end": 47.3,
+      "dur": 4.167,
+      "center": 45.217,
+      "role": "other",
+      "subject": "bacio tra due persone",
+      "description": "Il momento romantico in cui il ragazzo bacia una ragazza all'aperto.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "unica, decisamente perfetta da condividere con la propria ragazza, il tutto tra l"
+    },
+    {
+      "idx": 23,
+      "start": 47.3,
+      "end": 50.333,
+      "dur": 3.033,
+      "center": 48.817,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia anello di cipolla",
+      "description": "Primo piano stretto del ragazzo mentre addenta un anello di cipolla fritto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "'altro con un costo di solo 13 euro a persona. Insomma, un 'esperienza"
+    },
+    {
+      "idx": 24,
+      "start": 50.333,
+      "end": 55.333,
+      "dur": 5.0,
+      "center": 52.833,
+      "role": "venue_exterior",
+      "subject": "giardino con fiori e piante",
+      "description": "Inquadratura panoramica degli spazi esterni verdi con aiuole fiorite.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "salutamente da fare se si è tramanti del buon cibo o della natura. Ah, in realtà avete anche la possibilità di fare una colazione,"
+    },
+    {
+      "idx": 25,
+      "start": 55.333,
+      "end": 64.067,
+      "dur": 8.733,
+      "center": 59.7,
+      "role": "venue_exterior",
+      "subject": "ragazzo cammina all'aperto",
+      "description": "Un giovane in primo piano cammina tenendo del cibo in mano all'aperto.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di fare un aperitivo come questo mai in un campo di lavanda, di fare un brancio, una piccola festa o un vero proprio puntamento all 'ume di candela. E ciò che avanzate, beh, ve lo portate a casa."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio e salame tagliati",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "il tagliere con formaggio e salame su tovaglia a quadretti",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 0.967,
+      "dur": 0.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mostra salame",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "il giovane che addenta o mostra un pezzetto di salame",
+      "shot_idx": 1,
+      "start": 0.967,
+      "end": 3.733,
+      "dur": 2.767
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tavolata lunga all'aperto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "le persone sedute alle tavole nel frutteto con luci calde",
+      "shot_idx": 2,
+      "start": 3.733,
+      "end": 7.233,
+      "dur": 3.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano che apre cesto",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "il cesto di vimini da picnic con prodotti all'interno",
+      "shot_idx": 3,
+      "start": 7.233,
+      "end": 10.233,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "confezioni di pane confezionato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "i pacchetti di pane senza glutine posati sulla tovaglia",
+      "shot_idx": 4,
+      "start": 10.233,
+      "end": 11.2,
+      "dur": 0.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "panfette in confezione",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "I pacchetti di panfette su tovaglia a scacchi rossi.",
+      "shot_idx": 5,
+      "start": 11.2,
+      "end": 11.833,
+      "dur": 0.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "cestino con albicocche",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le albicocche fresche estratte dal cesto da picnic.",
+      "shot_idx": 6,
+      "start": 11.833,
+      "end": 13.433,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "tavola imbandita picnic",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'intera selezione di cibo disposta sulla tovaglia a quadri.",
+      "shot_idx": 7,
+      "start": 13.433,
+      "end": 15.967,
+      "dur": 2.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cestino chiuso sul tavolo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il cestino in vimini chiuso accanto al tagliere di salumi.",
+      "shot_idx": 8,
+      "start": 15.967,
+      "end": 16.767,
+      "dur": 0.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "bottiglia d'acqua e bicchieri",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La bottiglia d'acqua fresca all'aperto su prato.",
+      "shot_idx": 9,
+      "start": 16.767,
+      "end": 17.7,
+      "dur": 0.933
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "tavoli all'aperto tra alberi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La location rustica immersa nel verde con tavoli apparecchiati",
+      "shot_idx": 10,
+      "start": 17.7,
+      "end": 21.633,
+      "dur": 3.933
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "taglio del salame",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani che affettano il salame artigianale sul tagliere",
+      "shot_idx": 11,
+      "start": 21.633,
+      "end": 23.633,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "persona che prepara cibo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo seduto che afferra un pezzo di formaggio",
+      "shot_idx": 12,
+      "start": 23.633,
+      "end": 25.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "taglio della forma di formaggio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il taglio netto della forma di formaggio stagionato",
+      "shot_idx": 13,
+      "start": 25.667,
+      "end": 27.667,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "panino con formaggio e salame",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La composizione del panino casereccio con formaggio fresco",
+      "shot_idx": 14,
+      "start": 27.667,
+      "end": 29.7,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia formaggio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo assaggia il cibo con espressione soddisfatta all'aperto.",
+      "shot_idx": 15,
+      "start": 29.7,
+      "end": 32.033,
+      "dur": 2.333
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "tagliere con formaggio e salumi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Si spalma una composta scura su fettine di formaggio su un tagliere in legno.",
+      "shot_idx": 16,
+      "start": 32.033,
+      "end": 34.5,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano che mostra pezzo condito",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Primo piano della mano che regge il formaggio condito pronto per essere gustato.",
+      "shot_idx": 17,
+      "start": 34.5,
+      "end": 35.3,
+      "dur": 0.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con boccone in mano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator mostra il cibo alla telecamera prima di portarlo alla bocca.",
+      "shot_idx": 18,
+      "start": 35.3,
+      "end": 38.033,
+      "dur": 2.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla all'aperto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo spiega le sue impressioni sul cibo appena assaggiato.",
+      "shot_idx": 19,
+      "start": 38.033,
+      "end": 39.567,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia all'aperto",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo seduto all'aperto che mangia con una tovaglia a quadretti in primo piano.",
+      "shot_idx": 20,
+      "start": 39.567,
+      "end": 41.167,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla gesticolando",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator parla guardando in alto con le mani in movimento sotto gli alberi.",
+      "shot_idx": 21,
+      "start": 41.167,
+      "end": 43.133,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "bacio tra due persone",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il momento romantico in cui il ragazzo bacia una ragazza all'aperto.",
+      "shot_idx": 22,
+      "start": 43.133,
+      "end": 47.3,
+      "dur": 4.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia anello di cipolla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Primo piano stretto del ragazzo mentre addenta un anello di cipolla fritto.",
+      "shot_idx": 23,
+      "start": 47.3,
+      "end": 50.333,
+      "dur": 3.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "giardino con fiori e piante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Inquadratura panoramica degli spazi esterni verdi con aiuole fiorite.",
+      "shot_idx": 24,
+      "start": 50.333,
+      "end": 55.333,
+      "dur": 5.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ragazzo cammina all'aperto",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un giovane in primo piano cammina tenendo del cibo in mano all'aperto.",
+      "shot_idx": 25,
+      "start": 55.333,
+      "end": 64.067,
+      "dur": 8.733
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Un picnic completamente immersi nella natura di un frutteto."
+    },
+    {
+      "start": 3.12,
+      "end": 9.56,
+      "text": "Oggi, ragazzi, vi porto da Cacina Pizzo per mostrarvi la loro formula peritivo che potete fare in questi tavolini proprio in mezzo al frutteto."
+    },
+    {
+      "start": 9.64,
+      "end": 24.18,
+      "text": "Una volta arrivati, vi deranno il vostro cestino contenente del pane, dei taralli, entrambi con anche opzioni senza glutine, della frutta di pomodorini, due salamieni, una forma di formaggio e una composta artigianale di mele, con anche ovviamente la possibilità di accompagnare il tutto con un calice o una bottiglia di vino."
+    },
+    {
+      "start": 24.18,
+      "end": 49.3,
+      "text": "Una formula in realtà abbastanza semplice, con prodotti comunque locali e davvero di qualità, che io devo mettere che ho particolarmente apprezzato, visto che tre panini con il salame e l'accostamento con la composta di frutta mi sono quasi fatto fuori tutta quella mezza forma di formaggio, il tutto con una location piuttosto inusuale ma molto molto bella e che vi assicuro che vi conquistarà all'istante, perché si crea proprio una atmosfera unica, decisamente perfetta da condividere con la propria ragazza, il tutto tra l'altro con un costo di solo 13 euro a persona."
+    },
+    {
+      "start": 49.44,
+      "end": 53.18,
+      "text": "Insomma, un'esperienza salutamente da fare se si è tramanti del buon cibo o della natura."
+    },
+    {
+      "start": 53.18,
+      "end": 61.86,
+      "text": "Ah, in realtà avete anche la possibilità di fare una colazione, di fare un aperitivo come questo mai in un campo di lavanda, di fare un brancio, una piccola festa o un vero proprio puntamento all'ume di candela."
+    },
+    {
+      "start": 61.96,
+      "end": 63.8,
+      "text": "E ciò che avanzate, beh, ve lo portate a casa."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "word": "Un"
+    },
+    {
+      "start": 0.24,
+      "end": 0.52,
+      "word": "picnic"
+    },
+    {
+      "start": 0.52,
+      "end": 1.12,
+      "word": "completamente"
+    },
+    {
+      "start": 1.12,
+      "end": 1.8,
+      "word": "immersi"
+    },
+    {
+      "start": 1.8,
+      "end": 1.98,
+      "word": "nella"
+    },
+    {
+      "start": 1.98,
+      "end": 2.38,
+      "word": "natura"
+    },
+    {
+      "start": 2.38,
+      "end": 2.5,
+      "word": "di"
+    },
+    {
+      "start": 2.5,
+      "end": 2.6,
+      "word": "un"
+    },
+    {
+      "start": 2.6,
+      "end": 3.0,
+      "word": "frutteto."
+    },
+    {
+      "start": 3.12,
+      "end": 3.26,
+      "word": "Oggi,"
+    },
+    {
+      "start": 3.34,
+      "end": 3.56,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 3.6,
+      "end": 3.7,
+      "word": "vi"
+    },
+    {
+      "start": 3.7,
+      "end": 3.96,
+      "word": "porto"
+    },
+    {
+      "start": 3.96,
+      "end": 4.1,
+      "word": "da"
+    },
+    {
+      "start": 4.1,
+      "end": 4.42,
+      "word": "Cacina"
+    },
+    {
+      "start": 4.42,
+      "end": 4.9,
+      "word": "Pizzo"
+    },
+    {
+      "start": 4.9,
+      "end": 5.0,
+      "word": "per"
+    },
+    {
+      "start": 5.0,
+      "end": 5.52,
+      "word": "mostrarvi"
+    },
+    {
+      "start": 5.52,
+      "end": 5.64,
+      "word": "la"
+    },
+    {
+      "start": 5.64,
+      "end": 5.76,
+      "word": "loro"
+    },
+    {
+      "start": 5.76,
+      "end": 6.16,
+      "word": "formula"
+    },
+    {
+      "start": 6.16,
+      "end": 6.76,
+      "word": "peritivo"
+    },
+    {
+      "start": 6.76,
+      "end": 6.96,
+      "word": "che"
+    },
+    {
+      "start": 6.96,
+      "end": 7.26,
+      "word": "potete"
+    },
+    {
+      "start": 7.26,
+      "end": 7.44,
+      "word": "fare"
+    },
+    {
+      "start": 7.44,
+      "end": 7.6,
+      "word": "in"
+    },
+    {
+      "start": 7.6,
+      "end": 7.76,
+      "word": "questi"
+    },
+    {
+      "start": 7.76,
+      "end": 8.32,
+      "word": "tavolini"
+    },
+    {
+      "start": 8.32,
+      "end": 8.56,
+      "word": "proprio"
+    },
+    {
+      "start": 8.56,
+      "end": 8.78,
+      "word": "in"
+    },
+    {
+      "start": 8.78,
+      "end": 8.98,
+      "word": "mezzo"
+    },
+    {
+      "start": 8.98,
+      "end": 9.08,
+      "word": "al"
+    },
+    {
+      "start": 9.08,
+      "end": 9.56,
+      "word": "frutteto."
+    },
+    {
+      "start": 9.64,
+      "end": 9.7,
+      "word": "Una"
+    },
+    {
+      "start": 9.7,
+      "end": 9.88,
+      "word": "volta"
+    },
+    {
+      "start": 9.88,
+      "end": 10.28,
+      "word": "arrivati,"
+    },
+    {
+      "start": 10.38,
+      "end": 10.42,
+      "word": "vi"
+    },
+    {
+      "start": 10.42,
+      "end": 10.68,
+      "word": "deranno"
+    },
+    {
+      "start": 10.68,
+      "end": 10.8,
+      "word": "il"
+    },
+    {
+      "start": 10.8,
+      "end": 10.98,
+      "word": "vostro"
+    },
+    {
+      "start": 10.98,
+      "end": 11.46,
+      "word": "cestino"
+    },
+    {
+      "start": 11.46,
+      "end": 12.02,
+      "word": "contenente"
+    },
+    {
+      "start": 12.02,
+      "end": 12.26,
+      "word": "del"
+    },
+    {
+      "start": 12.26,
+      "end": 12.54,
+      "word": "pane,"
+    },
+    {
+      "start": 12.76,
+      "end": 12.84,
+      "word": "dei"
+    },
+    {
+      "start": 12.84,
+      "end": 13.32,
+      "word": "taralli,"
+    },
+    {
+      "start": 13.4,
+      "end": 13.86,
+      "word": "entrambi"
+    },
+    {
+      "start": 13.86,
+      "end": 14.0,
+      "word": "con"
+    },
+    {
+      "start": 14.0,
+      "end": 14.18,
+      "word": "anche"
+    },
+    {
+      "start": 14.18,
+      "end": 14.5,
+      "word": "opzioni"
+    },
+    {
+      "start": 14.5,
+      "end": 14.74,
+      "word": "senza"
+    },
+    {
+      "start": 14.74,
+      "end": 15.24,
+      "word": "glutine,"
+    },
+    {
+      "start": 15.38,
+      "end": 15.52,
+      "word": "della"
+    },
+    {
+      "start": 15.52,
+      "end": 15.86,
+      "word": "frutta"
+    },
+    {
+      "start": 15.86,
+      "end": 16.04,
+      "word": "di"
+    },
+    {
+      "start": 16.04,
+      "end": 16.64,
+      "word": "pomodorini,"
+    },
+    {
+      "start": 16.8,
+      "end": 16.9,
+      "word": "due"
+    },
+    {
+      "start": 16.9,
+      "end": 17.42,
+      "word": "salamieni,"
+    },
+    {
+      "start": 17.58,
+      "end": 17.7,
+      "word": "una"
+    },
+    {
+      "start": 17.7,
+      "end": 17.9,
+      "word": "forma"
+    },
+    {
+      "start": 17.9,
+      "end": 18.06,
+      "word": "di"
+    },
+    {
+      "start": 18.06,
+      "end": 18.54,
+      "word": "formaggio"
+    },
+    {
+      "start": 18.54,
+      "end": 18.68,
+      "word": "e"
+    },
+    {
+      "start": 18.68,
+      "end": 18.84,
+      "word": "una"
+    },
+    {
+      "start": 18.84,
+      "end": 19.2,
+      "word": "composta"
+    },
+    {
+      "start": 19.2,
+      "end": 19.82,
+      "word": "artigianale"
+    },
+    {
+      "start": 19.82,
+      "end": 20.0,
+      "word": "di"
+    },
+    {
+      "start": 20.0,
+      "end": 20.26,
+      "word": "mele,"
+    },
+    {
+      "start": 20.32,
+      "end": 20.44,
+      "word": "con"
+    },
+    {
+      "start": 20.44,
+      "end": 20.6,
+      "word": "anche"
+    },
+    {
+      "start": 20.6,
+      "end": 20.88,
+      "word": "ovviamente"
+    },
+    {
+      "start": 20.88,
+      "end": 21.1,
+      "word": "la"
+    },
+    {
+      "start": 21.1,
+      "end": 21.48,
+      "word": "possibilità"
+    },
+    {
+      "start": 21.48,
+      "end": 21.64,
+      "word": "di"
+    },
+    {
+      "start": 21.64,
+      "end": 22.06,
+      "word": "accompagnare"
+    },
+    {
+      "start": 22.06,
+      "end": 22.24,
+      "word": "il"
+    },
+    {
+      "start": 22.24,
+      "end": 22.38,
+      "word": "tutto"
+    },
+    {
+      "start": 22.38,
+      "end": 22.64,
+      "word": "con"
+    },
+    {
+      "start": 22.64,
+      "end": 22.76,
+      "word": "un"
+    },
+    {
+      "start": 22.76,
+      "end": 23.14,
+      "word": "calice"
+    },
+    {
+      "start": 23.14,
+      "end": 23.4,
+      "word": "o"
+    },
+    {
+      "start": 23.4,
+      "end": 23.5,
+      "word": "una"
+    },
+    {
+      "start": 23.5,
+      "end": 23.86,
+      "word": "bottiglia"
+    },
+    {
+      "start": 23.86,
+      "end": 24.0,
+      "word": "di"
+    },
+    {
+      "start": 24.0,
+      "end": 24.18,
+      "word": "vino."
+    },
+    {
+      "start": 24.18,
+      "end": 24.4,
+      "word": "Una"
+    },
+    {
+      "start": 24.4,
+      "end": 24.72,
+      "word": "formula"
+    },
+    {
+      "start": 24.72,
+      "end": 24.9,
+      "word": "in"
+    },
+    {
+      "start": 24.9,
+      "end": 25.12,
+      "word": "realtà"
+    },
+    {
+      "start": 25.12,
+      "end": 25.46,
+      "word": "abbastanza"
+    },
+    {
+      "start": 25.46,
+      "end": 25.9,
+      "word": "semplice,"
+    },
+    {
+      "start": 26.0,
+      "end": 26.12,
+      "word": "con"
+    },
+    {
+      "start": 26.12,
+      "end": 26.42,
+      "word": "prodotti"
+    },
+    {
+      "start": 26.42,
+      "end": 26.72,
+      "word": "comunque"
+    },
+    {
+      "start": 26.72,
+      "end": 27.34,
+      "word": "locali"
+    },
+    {
+      "start": 27.34,
+      "end": 27.44,
+      "word": "e"
+    },
+    {
+      "start": 27.44,
+      "end": 27.76,
+      "word": "davvero"
+    },
+    {
+      "start": 27.76,
+      "end": 27.88,
+      "word": "di"
+    },
+    {
+      "start": 27.88,
+      "end": 28.28,
+      "word": "qualità,"
+    },
+    {
+      "start": 28.44,
+      "end": 28.58,
+      "word": "che"
+    },
+    {
+      "start": 28.58,
+      "end": 28.68,
+      "word": "io"
+    },
+    {
+      "start": 28.68,
+      "end": 28.84,
+      "word": "devo"
+    },
+    {
+      "start": 28.84,
+      "end": 29.16,
+      "word": "mettere"
+    },
+    {
+      "start": 29.16,
+      "end": 29.32,
+      "word": "che"
+    },
+    {
+      "start": 29.32,
+      "end": 29.38,
+      "word": "ho"
+    },
+    {
+      "start": 29.38,
+      "end": 29.96,
+      "word": "particolarmente"
+    },
+    {
+      "start": 29.96,
+      "end": 30.58,
+      "word": "apprezzato,"
+    },
+    {
+      "start": 30.66,
+      "end": 30.76,
+      "word": "visto"
+    },
+    {
+      "start": 30.76,
+      "end": 30.94,
+      "word": "che"
+    },
+    {
+      "start": 30.94,
+      "end": 31.1,
+      "word": "tre"
+    },
+    {
+      "start": 31.1,
+      "end": 31.4,
+      "word": "panini"
+    },
+    {
+      "start": 31.4,
+      "end": 31.6,
+      "word": "con"
+    },
+    {
+      "start": 31.6,
+      "end": 31.66,
+      "word": "il"
+    },
+    {
+      "start": 31.66,
+      "end": 32.06,
+      "word": "salame"
+    },
+    {
+      "start": 32.06,
+      "end": 32.2,
+      "word": "e"
+    },
+    {
+      "start": 32.2,
+      "end": 32.3,
+      "word": "l"
+    },
+    {
+      "start": 32.3,
+      "end": 32.66,
+      "word": "'accostamento"
+    },
+    {
+      "start": 32.66,
+      "end": 32.88,
+      "word": "con"
+    },
+    {
+      "start": 32.88,
+      "end": 32.96,
+      "word": "la"
+    },
+    {
+      "start": 32.96,
+      "end": 33.32,
+      "word": "composta"
+    },
+    {
+      "start": 33.32,
+      "end": 33.5,
+      "word": "di"
+    },
+    {
+      "start": 33.5,
+      "end": 33.88,
+      "word": "frutta"
+    },
+    {
+      "start": 33.88,
+      "end": 34.08,
+      "word": "mi"
+    },
+    {
+      "start": 34.08,
+      "end": 34.22,
+      "word": "sono"
+    },
+    {
+      "start": 34.22,
+      "end": 34.44,
+      "word": "quasi"
+    },
+    {
+      "start": 34.44,
+      "end": 34.72,
+      "word": "fatto"
+    },
+    {
+      "start": 34.72,
+      "end": 34.98,
+      "word": "fuori"
+    },
+    {
+      "start": 34.98,
+      "end": 35.24,
+      "word": "tutta"
+    },
+    {
+      "start": 35.24,
+      "end": 35.42,
+      "word": "quella"
+    },
+    {
+      "start": 35.42,
+      "end": 35.66,
+      "word": "mezza"
+    },
+    {
+      "start": 35.66,
+      "end": 35.9,
+      "word": "forma"
+    },
+    {
+      "start": 35.9,
+      "end": 36.04,
+      "word": "di"
+    },
+    {
+      "start": 36.04,
+      "end": 36.48,
+      "word": "formaggio,"
+    },
+    {
+      "start": 36.58,
+      "end": 36.68,
+      "word": "il"
+    },
+    {
+      "start": 36.68,
+      "end": 36.8,
+      "word": "tutto"
+    },
+    {
+      "start": 36.8,
+      "end": 37.0,
+      "word": "con"
+    },
+    {
+      "start": 37.0,
+      "end": 37.14,
+      "word": "una"
+    },
+    {
+      "start": 37.14,
+      "end": 37.46,
+      "word": "location"
+    },
+    {
+      "start": 37.46,
+      "end": 37.92,
+      "word": "piuttosto"
+    },
+    {
+      "start": 37.92,
+      "end": 38.6,
+      "word": "inusuale"
+    },
+    {
+      "start": 38.6,
+      "end": 38.74,
+      "word": "ma"
+    },
+    {
+      "start": 38.74,
+      "end": 39.16,
+      "word": "molto"
+    },
+    {
+      "start": 39.16,
+      "end": 39.48,
+      "word": "molto"
+    },
+    {
+      "start": 39.48,
+      "end": 39.92,
+      "word": "bella"
+    },
+    {
+      "start": 39.92,
+      "end": 39.98,
+      "word": "e"
+    },
+    {
+      "start": 39.98,
+      "end": 40.06,
+      "word": "che"
+    },
+    {
+      "start": 40.06,
+      "end": 40.18,
+      "word": "vi"
+    },
+    {
+      "start": 40.18,
+      "end": 40.54,
+      "word": "assicuro"
+    },
+    {
+      "start": 40.54,
+      "end": 40.66,
+      "word": "che"
+    },
+    {
+      "start": 40.66,
+      "end": 40.76,
+      "word": "vi"
+    },
+    {
+      "start": 40.76,
+      "end": 41.3,
+      "word": "conquistarà"
+    },
+    {
+      "start": 41.3,
+      "end": 41.44,
+      "word": "all"
+    },
+    {
+      "start": 41.44,
+      "end": 41.84,
+      "word": "'istante,"
+    },
+    {
+      "start": 41.98,
+      "end": 42.08,
+      "word": "perché"
+    },
+    {
+      "start": 42.08,
+      "end": 42.24,
+      "word": "si"
+    },
+    {
+      "start": 42.24,
+      "end": 42.52,
+      "word": "crea"
+    },
+    {
+      "start": 42.52,
+      "end": 42.68,
+      "word": "proprio"
+    },
+    {
+      "start": 42.68,
+      "end": 42.9,
+      "word": "una"
+    },
+    {
+      "start": 42.9,
+      "end": 43.26,
+      "word": "atmosfera"
+    },
+    {
+      "start": 43.26,
+      "end": 43.7,
+      "word": "unica,"
+    },
+    {
+      "start": 43.9,
+      "end": 44.3,
+      "word": "decisamente"
+    },
+    {
+      "start": 44.3,
+      "end": 44.82,
+      "word": "perfetta"
+    },
+    {
+      "start": 44.82,
+      "end": 44.96,
+      "word": "da"
+    },
+    {
+      "start": 44.96,
+      "end": 45.48,
+      "word": "condividere"
+    },
+    {
+      "start": 45.48,
+      "end": 45.64,
+      "word": "con"
+    },
+    {
+      "start": 45.64,
+      "end": 45.74,
+      "word": "la"
+    },
+    {
+      "start": 45.74,
+      "end": 45.94,
+      "word": "propria"
+    },
+    {
+      "start": 45.94,
+      "end": 46.48,
+      "word": "ragazza,"
+    },
+    {
+      "start": 46.58,
+      "end": 46.72,
+      "word": "il"
+    },
+    {
+      "start": 46.72,
+      "end": 46.9,
+      "word": "tutto"
+    },
+    {
+      "start": 46.9,
+      "end": 47.1,
+      "word": "tra"
+    },
+    {
+      "start": 47.1,
+      "end": 47.22,
+      "word": "l"
+    },
+    {
+      "start": 47.22,
+      "end": 47.38,
+      "word": "'altro"
+    },
+    {
+      "start": 47.38,
+      "end": 47.58,
+      "word": "con"
+    },
+    {
+      "start": 47.58,
+      "end": 47.7,
+      "word": "un"
+    },
+    {
+      "start": 47.7,
+      "end": 47.94,
+      "word": "costo"
+    },
+    {
+      "start": 47.94,
+      "end": 48.06,
+      "word": "di"
+    },
+    {
+      "start": 48.06,
+      "end": 48.22,
+      "word": "solo"
+    },
+    {
+      "start": 48.22,
+      "end": 48.44,
+      "word": "13"
+    },
+    {
+      "start": 48.44,
+      "end": 48.84,
+      "word": "euro"
+    },
+    {
+      "start": 48.84,
+      "end": 48.96,
+      "word": "a"
+    },
+    {
+      "start": 48.96,
+      "end": 49.3,
+      "word": "persona."
+    },
+    {
+      "start": 49.44,
+      "end": 49.62,
+      "word": "Insomma,"
+    },
+    {
+      "start": 49.7,
+      "end": 49.76,
+      "word": "un"
+    },
+    {
+      "start": 49.76,
+      "end": 50.16,
+      "word": "'esperienza"
+    },
+    {
+      "start": 50.16,
+      "end": 50.66,
+      "word": "salutamente"
+    },
+    {
+      "start": 50.66,
+      "end": 50.86,
+      "word": "da"
+    },
+    {
+      "start": 50.86,
+      "end": 51.08,
+      "word": "fare"
+    },
+    {
+      "start": 51.08,
+      "end": 51.26,
+      "word": "se"
+    },
+    {
+      "start": 51.26,
+      "end": 51.32,
+      "word": "si"
+    },
+    {
+      "start": 51.32,
+      "end": 51.38,
+      "word": "è"
+    },
+    {
+      "start": 51.38,
+      "end": 51.64,
+      "word": "tramanti"
+    },
+    {
+      "start": 51.64,
+      "end": 51.84,
+      "word": "del"
+    },
+    {
+      "start": 51.84,
+      "end": 52.06,
+      "word": "buon"
+    },
+    {
+      "start": 52.06,
+      "end": 52.34,
+      "word": "cibo"
+    },
+    {
+      "start": 52.34,
+      "end": 52.46,
+      "word": "o"
+    },
+    {
+      "start": 52.46,
+      "end": 52.64,
+      "word": "della"
+    },
+    {
+      "start": 52.64,
+      "end": 53.18,
+      "word": "natura."
+    },
+    {
+      "start": 53.18,
+      "end": 53.34,
+      "word": "Ah,"
+    },
+    {
+      "start": 53.46,
+      "end": 53.48,
+      "word": "in"
+    },
+    {
+      "start": 53.48,
+      "end": 53.74,
+      "word": "realtà"
+    },
+    {
+      "start": 53.74,
+      "end": 53.92,
+      "word": "avete"
+    },
+    {
+      "start": 53.92,
+      "end": 54.08,
+      "word": "anche"
+    },
+    {
+      "start": 54.08,
+      "end": 54.22,
+      "word": "la"
+    },
+    {
+      "start": 54.22,
+      "end": 54.64,
+      "word": "possibilità"
+    },
+    {
+      "start": 54.64,
+      "end": 54.74,
+      "word": "di"
+    },
+    {
+      "start": 54.74,
+      "end": 54.86,
+      "word": "fare"
+    },
+    {
+      "start": 54.86,
+      "end": 55.0,
+      "word": "una"
+    },
+    {
+      "start": 55.0,
+      "end": 55.56,
+      "word": "colazione,"
+    },
+    {
+      "start": 55.76,
+      "end": 55.8,
+      "word": "di"
+    },
+    {
+      "start": 55.8,
+      "end": 55.96,
+      "word": "fare"
+    },
+    {
+      "start": 55.96,
+      "end": 56.1,
+      "word": "un"
+    },
+    {
+      "start": 56.1,
+      "end": 56.54,
+      "word": "aperitivo"
+    },
+    {
+      "start": 56.54,
+      "end": 56.68,
+      "word": "come"
+    },
+    {
+      "start": 56.68,
+      "end": 57.06,
+      "word": "questo"
+    },
+    {
+      "start": 57.06,
+      "end": 57.34,
+      "word": "mai"
+    },
+    {
+      "start": 57.34,
+      "end": 57.42,
+      "word": "in"
+    },
+    {
+      "start": 57.42,
+      "end": 57.48,
+      "word": "un"
+    },
+    {
+      "start": 57.48,
+      "end": 57.66,
+      "word": "campo"
+    },
+    {
+      "start": 57.66,
+      "end": 57.84,
+      "word": "di"
+    },
+    {
+      "start": 57.84,
+      "end": 58.26,
+      "word": "lavanda,"
+    },
+    {
+      "start": 58.4,
+      "end": 58.46,
+      "word": "di"
+    },
+    {
+      "start": 58.46,
+      "end": 58.64,
+      "word": "fare"
+    },
+    {
+      "start": 58.64,
+      "end": 58.74,
+      "word": "un"
+    },
+    {
+      "start": 58.74,
+      "end": 59.12,
+      "word": "brancio,"
+    },
+    {
+      "start": 59.18,
+      "end": 59.28,
+      "word": "una"
+    },
+    {
+      "start": 59.28,
+      "end": 59.6,
+      "word": "piccola"
+    },
+    {
+      "start": 59.6,
+      "end": 59.88,
+      "word": "festa"
+    },
+    {
+      "start": 59.88,
+      "end": 60.1,
+      "word": "o"
+    },
+    {
+      "start": 60.1,
+      "end": 60.18,
+      "word": "un"
+    },
+    {
+      "start": 60.18,
+      "end": 60.38,
+      "word": "vero"
+    },
+    {
+      "start": 60.38,
+      "end": 60.54,
+      "word": "proprio"
+    },
+    {
+      "start": 60.54,
+      "end": 61.06,
+      "word": "puntamento"
+    },
+    {
+      "start": 61.06,
+      "end": 61.2,
+      "word": "all"
+    },
+    {
+      "start": 61.2,
+      "end": 61.3,
+      "word": "'ume"
+    },
+    {
+      "start": 61.3,
+      "end": 61.42,
+      "word": "di"
+    },
+    {
+      "start": 61.42,
+      "end": 61.86,
+      "word": "candela."
+    },
+    {
+      "start": 61.96,
+      "end": 62.02,
+      "word": "E"
+    },
+    {
+      "start": 62.02,
+      "end": 62.18,
+      "word": "ciò"
+    },
+    {
+      "start": 62.18,
+      "end": 62.2,
+      "word": "che"
+    },
+    {
+      "start": 62.2,
+      "end": 62.68,
+      "word": "avanzate,"
+    },
+    {
+      "start": 62.8,
+      "end": 62.92,
+      "word": "beh,"
+    },
+    {
+      "start": 63.08,
+      "end": 63.14,
+      "word": "ve"
+    },
+    {
+      "start": 63.14,
+      "end": 63.2,
+      "word": "lo"
+    },
+    {
+      "start": 63.2,
+      "end": 63.52,
+      "word": "portate"
+    },
+    {
+      "start": 63.52,
+      "end": 63.58,
+      "word": "a"
+    },
+    {
+      "start": 63.58,
+      "end": 63.8,
+      "word": "casa."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 0.967,
+      "dur": 0.967,
+      "transcript": "Un picnic completamente"
+    },
+    {
+      "shot_idx": 1,
+      "start": 0.967,
+      "end": 3.733,
+      "dur": 2.767,
+      "transcript": "immersi nella natura di un frutteto. Oggi, ragazzi, vi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.733,
+      "end": 7.233,
+      "dur": 3.5,
+      "transcript": "porto da Cacina Pizzo per mostrarvi la loro formula peritivo che potete"
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.233,
+      "end": 10.233,
+      "dur": 3.0,
+      "transcript": "fare in questi tavolini proprio in mezzo al frutteto. Una volta arrivati,"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.233,
+      "end": 11.2,
+      "dur": 0.967,
+      "transcript": "vi deranno il vostro"
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.2,
+      "end": 11.833,
+      "dur": 0.633,
+      "transcript": "cestino contenente"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.833,
+      "end": 13.433,
+      "dur": 1.6,
+      "transcript": "del pane, dei taralli,"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.433,
+      "end": 15.967,
+      "dur": 2.533,
+      "transcript": "entrambi con anche opzioni senza glutine, della frutta di"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.967,
+      "end": 16.767,
+      "dur": 0.8,
+      "transcript": "pomodorini,"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.767,
+      "end": 17.7,
+      "dur": 0.933,
+      "transcript": "due salamieni, una"
+    },
+    {
+      "shot_idx": 10,
+      "start": 17.7,
+      "end": 21.633,
+      "dur": 3.933,
+      "transcript": "forma di formaggio e una composta artigianale di mele, con anche ovviamente la possibilità di"
+    },
+    {
+      "shot_idx": 11,
+      "start": 21.633,
+      "end": 23.633,
+      "dur": 2.0,
+      "transcript": "accompagnare il tutto con un calice o una"
+    },
+    {
+      "shot_idx": 12,
+      "start": 23.633,
+      "end": 25.667,
+      "dur": 2.033,
+      "transcript": "bottiglia di vino. Una formula in realtà abbastanza"
+    },
+    {
+      "shot_idx": 13,
+      "start": 25.667,
+      "end": 27.667,
+      "dur": 2.0,
+      "transcript": "semplice, con prodotti comunque locali e davvero"
+    },
+    {
+      "shot_idx": 14,
+      "start": 27.667,
+      "end": 29.7,
+      "dur": 2.033,
+      "transcript": "di qualità, che io devo mettere che ho particolarmente"
+    },
+    {
+      "shot_idx": 15,
+      "start": 29.7,
+      "end": 32.033,
+      "dur": 2.333,
+      "transcript": "apprezzato, visto che tre panini con il salame"
+    },
+    {
+      "shot_idx": 16,
+      "start": 32.033,
+      "end": 34.5,
+      "dur": 2.467,
+      "transcript": "e l 'accostamento con la composta di frutta mi sono quasi"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.5,
+      "end": 35.3,
+      "dur": 0.8,
+      "transcript": "fatto fuori tutta"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.3,
+      "end": 38.033,
+      "dur": 2.733,
+      "transcript": "quella mezza forma di formaggio, il tutto con una location piuttosto"
+    },
+    {
+      "shot_idx": 19,
+      "start": 38.033,
+      "end": 39.567,
+      "dur": 1.533,
+      "transcript": "inusuale ma molto molto"
+    },
+    {
+      "shot_idx": 20,
+      "start": 39.567,
+      "end": 41.167,
+      "dur": 1.6,
+      "transcript": "bella e che vi assicuro che vi conquistarà"
+    },
+    {
+      "shot_idx": 21,
+      "start": 41.167,
+      "end": 43.133,
+      "dur": 1.967,
+      "transcript": "all 'istante, perché si crea proprio una atmosfera"
+    },
+    {
+      "shot_idx": 22,
+      "start": 43.133,
+      "end": 47.3,
+      "dur": 4.167,
+      "transcript": "unica, decisamente perfetta da condividere con la propria ragazza, il tutto tra l"
+    },
+    {
+      "shot_idx": 23,
+      "start": 47.3,
+      "end": 50.333,
+      "dur": 3.033,
+      "transcript": "'altro con un costo di solo 13 euro a persona. Insomma, un 'esperienza"
+    },
+    {
+      "shot_idx": 24,
+      "start": 50.333,
+      "end": 55.333,
+      "dur": 5.0,
+      "transcript": "salutamente da fare se si è tramanti del buon cibo o della natura. Ah, in realtà avete anche la possibilità di fare una colazione,"
+    },
+    {
+      "shot_idx": 25,
+      "start": 55.333,
+      "end": 64.067,
+      "dur": 8.733,
+      "transcript": "di fare un aperitivo come questo mai in un campo di lavanda, di fare un brancio, una piccola festa o un vero proprio puntamento all 'ume di candela. E ciò che avanzate, beh, ve lo portate a casa."
+    }
+  ],
+  "full_text": "Un picnic completamente immersi nella natura di un frutteto. Oggi, ragazzi, vi porto da Cacina Pizzo per mostrarvi la loro formula peritivo che potete fare in questi tavolini proprio in mezzo al frutteto. Una volta arrivati, vi deranno il vostro cestino contenente del pane, dei taralli, entrambi con anche opzioni senza glutine, della frutta di pomodorini, due salamieni, una forma di formaggio e una composta artigianale di mele, con anche ovviamente la possibilità di accompagnare il tutto con un calice o una bottiglia di vino. Una formula in realtà abbastanza semplice, con prodotti comunque locali e davvero di qualità, che io devo mettere che ho particolarmente apprezzato, visto che tre panini con il salame e l'accostamento con la composta di frutta mi sono quasi fatto fuori tutta quella mezza forma di formaggio, il tutto con una location piuttosto inusuale ma molto molto bella e che vi assicuro che vi conquistarà all'istante, perché si crea proprio una atmosfera unica, decisamente perfetta da condividere con la propria ragazza, il tutto tra l'altro con un costo di solo 13 euro a persona. Insomma, un'esperienza salutamente da fare se si è tramanti del buon cibo o della natura. Ah, in realtà avete anche la possibilità di fare una colazione, di fare un aperitivo come questo mai in un campo di lavanda, di fare un brancio, una piccola festa o un vero proprio puntamento all'ume di candela. E ciò che avanzate, beh, ve lo portate a casa.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

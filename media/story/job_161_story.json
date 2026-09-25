@@ -1,0 +1,188 @@
+{
+  "title": "Wing Stop arriva in Italia",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu mostra logo Wing Stop Milano"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "pareti verdi locale con logo brand esclusivo"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating",
+        "food_closeup"
+      ],
+      "moment": "persona mostra ordine completo ricevuto al tavolo"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem touchscreen scelta flavor ali disponibili"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali glassate dorate basket carta stampata"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "tavolo pieno ordini ali fritte glassate bocconcini"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani immergono ala fritta nella salsa bianca"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona assaggia ala con gesto entusiasta"
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "mani mostrano confezione packaging verde bianco"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano versa bevanda distributore Coca-Cola Freestyle"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "bicchiere carta marchio Wing Stop primo piano"
+    },
+    {
+      "idx": 12,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente sorride bevendo al tavolo rilassato"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio locale mentre si assapora atmosfera"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona continua a mangiare con soddisfazione visibile"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani spezzano bocconcino mostrando interno succoso"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "tavolo con palle ricotta e ali affiancate"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 4.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano estremo ala glassata gocciolante salsa"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu flavor come chiusura visiva locale"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 4.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona sorridente racconta esperienza e curiosità futura"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating",
+        "food_closeup"
+      ],
+      "moment": "ultimo sguardo ordine mentre invita a tornare"
+    }
+  ],
+  "edl_job_id": 161
+}

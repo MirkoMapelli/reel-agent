@@ -1,0 +1,215 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-09-20T15:38:05",
+  "source": {
+    "n_videos": 95,
+    "n_shots": 3444,
+    "n_words": 29777
+  },
+  "rhythmic_memory": {
+    "dur_stats": {
+      "count": 3444,
+      "mean": 2.39,
+      "median": 2.0,
+      "p10": 1.23,
+      "p90": 4.0,
+      "min": 0.07,
+      "max": 14.83
+    },
+    "dur_opening_mean": 2.13,
+    "dur_closing_mean": 2.78,
+    "roles_dist": {
+      "person_eating": 1053,
+      "food_detail": 561,
+      "other": 482,
+      "food_plated": 302,
+      "person_talking": 285,
+      "venue_exterior": 182,
+      "food_closeup": 162,
+      "venue_interior_wide": 151,
+      "venue_interior_detail": 110,
+      "drink_detail": 74,
+      "hands_gesture": 63,
+      "menu_board": 18,
+      "claw_game": 1
+    },
+    "compositions_dist": {
+      "medium": 1748,
+      "close_up": 1170,
+      "wide": 477,
+      "detail": 48,
+      "pov": 1
+    },
+    "angoli_dist": {
+      "orizzontale": 2447,
+      "dall_alto": 815,
+      "dal_basso": 98,
+      "pov": 84
+    },
+    "luci_dist": {
+      "artificiale_caldo": 1135,
+      "naturale": 865,
+      "mista": 783,
+      "artificiale_freddo": 633,
+      "artificiale_mista": 26,
+      "artificial_caldo": 2
+    },
+    "human_ratio": 0.717,
+    "logo_ratio": 0.343,
+    "food_ratio": 0.319,
+    "venue_ratio": 0.129
+  },
+  "visual_memory": {
+    "visual_signature": "Food creator che alterna close-up ravvicinati del cibo (spesso tenuto in mano o con salse che colano) a inquadrature medium del volto sorridente mentre mostra o mangia il piatto. Luce calda artificiale dominante, composizioni orizzontali centrate, forte presenza umana in 72% degli shot.",
+    "opening_rules": [
+      "Inizia con il cibo in primo piano: food_closeup, food_plated o food_detail (60% dei video)",
+      "Apertura alternativa con person_talking che introduce il tema (30% dei video)",
+      "Shot di apertura tra 1.8-2.5 secondi, raramente oltre i 3s",
+      "Se inizia con cibo, inquadratura dall'alto o orizzontale ravvicinata",
+      "Presenza immediata di testo sovrapposto o emoji già dal primo frame"
+    ],
+    "closing_rules": [
+      "Chiude con person_eating in azione (40% dei video) o venue per contestualizzare",
+      "Shot finale spesso più lungo (2-5s) per dare respiro narrativo",
+      "Frequente uso di 'other' come ultimo frame (transizione/logo)",
+      "Chiusure con drink_detail o venue_interior per variare il ritmo",
+      "Raramente chiude con food statico, preferisce azione umana"
+    ],
+    "food_vocabulary": [
+      "Close-up orizzontale con cibo tenuto in mano verso camera (hamburger, pizza, kebab)",
+      "Inquadratura dall'alto a 45° su piatti completi con mani visibili ai bordi",
+      "Detail shot di salse che colano, formaggio che fila, intingoli in azione",
+      "Medium shot dall'alto su vassoi/piatti multipli disposti sul tavolo",
+      "Food closeup con texture croccante in evidenza (pollo fritto, pelle arrosto)",
+      "Composizione centrata con cibo che occupa 60-70% del frame",
+      "Luce artificiale calda che enfatizza dorature e colori saturi",
+      "Presenza di mani/dita che toccano, spezzano, intingono il cibo"
+    ],
+    "human_vocabulary": [
+      "Medium shot orizzontale del volto sorridente che tiene il piatto verso camera",
+      "Person_eating con espressione esagerata (occhi spalancati, bocca aperta)",
+      "Inquadratura frontale centrata, soggetto guarda direttamente in camera",
+      "Person_talking con gesture delle mani e testo sovrapposto",
+      "Close-up del volto durante l'assaggio con focus sull'espressione",
+      "Composizione medium che include busto + piatto/cibo in mano",
+      "Raramente inquadrature dal basso, preferisce altezza occhi o leggermente dall'alto",
+      "Presenza costante di logo/branding quando tiene prodotti commerciali"
+    ],
+    "venue_vocabulary": [
+      "Venue_interior_wide per contestualizzare l'ambiente (tavoli, luci, atmosfera)",
+      "Venue_exterior come establishing shot o chiusura narrativa",
+      "Inquadrature wide orizzontali che mostrano l'ampiezza dello spazio",
+      "Venue_interior_detail per elementi decorativi (lampadari, quadri, dettagli)",
+      "Uso limitato di venue (13% totale), privilegia cibo e persone",
+      "Luce naturale per esterni, artificiale calda per interni",
+      "Shot di venue spesso più lunghi (3-6s) rispetto al ritmo generale"
+    ],
+    "signature_moves": [
+      "Mani che tengono il cibo verso camera in primo piano con volto sfocato dietro",
+      "Transizione da food_detail a person_eating nello stesso piatto",
+      "Formaggio/salsa che cola in slow motion o detail estremo",
+      "Pollice in su o gesture approvativa dopo l'assaggio",
+      "Sequenza ripetuta: piatto intero → close-up ingrediente → morso/assaggio",
+      "Testo e emoji sovrapposti in movimento durante tutto lo shot",
+      "Alternanza ritmica 2s food / 2s person ogni 2-3 shot",
+      "Uso di POV dall'alto per intingere/tagliare/versare salse"
+    ]
+  },
+  "narrative_memory": {
+    "narrative_signature": "Documentazione in prima persona di esperienze food e travel con narrazione cronologica dettagliata, tono conversazionale diretto ('ragazzi') e descrizione meticolosa di ogni elemento visivo.",
+    "opening_rules": [
+      "Dichiarazione geografica + nome locale/destinazione ('Oggi vi porto da/a [LUOGO]')",
+      "Claim valoriale o superlativo ('Il migliore', 'finalmente arrivato', 'più virale')",
+      "Contestualizzazione temporale per vlog ('Giorno X del mio viaggio a [DESTINAZIONE]')",
+      "Hook con novità o esclusività ('Proviamo il nuovo', 'È finalmente arrivato')"
+    ],
+    "body_structure": [
+      "Descrizione location/contesto ambientale",
+      "Enumerazione ordinata di ciò che viene consumato/visitato",
+      "Valutazione sensoriale dettagliata per ogni elemento ('devo dire che', 'mi è piaciuto')",
+      "Sequenza cronologica rigorosa con marcatori temporali ('dopo di che', 'poi', 'una volta')",
+      "Inserimento di dettagli tecnici (ingredienti, opzioni dietary, prezzi impliciti)",
+      "Momenti di esperienza personale o aneddoti contestuali"
+    ],
+    "closing_rules": [
+      "Valutazione finale sintetica",
+      "Frase interrotta o sospesa (molti video terminano mid-sentence)",
+      "Cliffhanger implicito per contenuti serializzati (giorno X)",
+      "Raramente chiusure esplicite con CTA"
+    ],
+    "transitions_between_beats": [
+      "Marcatori temporali espliciti ('dopo di che', 'poi', 'una volta', 'finita la colazione')",
+      "Connettori sequenziali ('passando a', 'proseguendo con', 'iniziamo da')",
+      "Riferimenti visivi deittici ('questo', 'questi', 'eccoci qua')",
+      "Cambio di inquadratura sincronizzato con cambio di piatto/attività",
+      "Enumerazione progressiva ('primo', 'secondo giro', 'altra cena')"
+    ],
+    "content_types": [
+      "Food review (ristoranti, locali trendy, novità menu)",
+      "Travel vlog serializzato (giorno per giorno)",
+      "Esperienze gluten-free/dietary specific",
+      "Luxury travel (Maldive, resort)",
+      "City guide food-focused",
+      "Unboxing esperienze (eventi apertura, limited edition)",
+      "Contenuti lifestyle occasionali (animali domestici)"
+    ]
+  },
+  "lexical_memory": {
+    "language_signature": "Linguaggio colloquiale e diretto con marcatori discorsivi ricorrenti ('ragazzi', 'ovviamente', 'davvero'), struttura narrativa sequenziale con connettivi temporali ('quindi', 'dopodiché', 'infine') tipica del racconto esperienziale in presa diretta.",
+    "signature_words": [
+      "ragazzi",
+      "ovviamente",
+      "davvero",
+      "tra l'altro",
+      "devo dire",
+      "comunque",
+      "veramente",
+      "appunto",
+      "proprio",
+      "praticamente",
+      "super",
+      "clamoroso",
+      "gluten free",
+      "senza glutine",
+      "provare"
+    ],
+    "banned_words": [
+      "eccellente",
+      "straordinario",
+      "magnifico",
+      "delizioso",
+      "squisito",
+      "raffinato",
+      "gourmet",
+      "sublime",
+      "meraviglioso",
+      "fantastico"
+    ],
+    "opening_phrases": [
+      "Giorno X del mio viaggio a/in [luogo]",
+      "[Nome locale/prodotto] è finalmente arrivato a/in [luogo]",
+      "Oggi ragazzi vi porto a/da [luogo/locale]",
+      "Proviamo [prodotto/piatto] a/di [luogo]",
+      "Il miglior/migliore [categoria] di/a [luogo]"
+    ],
+    "closing_phrases": [
+      "Insomma davvero un [aggettivo] posto/locale per [azione]",
+      "Ed infine [ultimo elemento/piatto]",
+      "In conclusione [valutazione finale]",
+      "Quindi ragazzi se [condizione] passate/andate da [locale]",
+      "Vista [elemento positivo] davvero clamoroso/a"
+    ],
+    "sentence_patterns": [
+      "devo dire che [valutazione]",
+      "tra l'altro [informazione aggiuntiva]",
+      "abbiamo iniziato con [elemento] per poi [azione successiva]",
+      "un po' di [elemento] con [accompagnamento]",
+      "che tra l'altro [dettaglio enfatizzato]",
+      "davvero [aggettivo intensificato]",
+      "si ragazzi [conferma/enfasi]",
+      "dopo di che [sequenza narrativa]",
+      "ovviamente [elemento scontato/atteso]"
+    ],
+    "tone": "Entusiasta e informale, con approccio da amico che racconta un'esperienza condivisa, enfasi su autenticità e scoperta, registro giovane e diretto tipico del food content creator su TikTok."
+  }
+}

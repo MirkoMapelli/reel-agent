@@ -1,0 +1,86 @@
+{
+  "name": "IMG_6830.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration": 9.87,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.8,
+      "duration": 2.8,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6830/scene_000_sheet.jpg",
+      "motion_type": "handheld",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 90.3,
+      "brightness": 164.0,
+      "contrast": 56.2,
+      "blur_score": 307.5
+    },
+    {
+      "idx": 1,
+      "start": 2.8,
+      "end": 4.5,
+      "duration": 1.7,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6830/scene_001_sheet.jpg",
+      "motion_type": "handheld",
+      "motion_quality": "good",
+      "composition": "medium_wide",
+      "stability_score": 86.0,
+      "brightness": 156.9,
+      "contrast": 54.5,
+      "blur_score": 411.7
+    },
+    {
+      "idx": 2,
+      "start": 4.5,
+      "end": 6.8,
+      "duration": 2.3,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6830/scene_002_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 77.8,
+      "brightness": 143.9,
+      "contrast": 62.2,
+      "blur_score": 291.8
+    },
+    {
+      "idx": 3,
+      "start": 6.8,
+      "end": 9.87,
+      "duration": 3.07,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6830/scene_003_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 98.6,
+      "brightness": 149.3,
+      "contrast": 59.5,
+      "blur_score": 312.6
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.53,
+      "end": 5.29,
+      "text": "Stiamo con te a piccantere. Tu hai trovato?"
+    },
+    {
+      "start": 7.29,
+      "end": 9.29,
+      "text": "Con lo piccantere o l'angora?"
+    }
+  ],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6830.wav"
+}

@@ -1,0 +1,76 @@
+{
+  "ref_id": "ref_37_7598494205207481622",
+  "video": "/opt/reel-agent/media/style_ref/ref_37_7598494205207481622.mp4",
+  "n_segments": 1,
+  "n_words": 10,
+  "n_shots": 1,
+  "full_text": "Allora questa è una cheesecake ma è yogurt e biscotti",
+  "segments": [
+    {
+      "start": 8.86,
+      "end": 12.42,
+      "text": "Allora questa è una cheesecake ma è yogurt e biscotti"
+    }
+  ],
+  "words": [
+    {
+      "start": 8.86,
+      "end": 9.6,
+      "word": "Allora"
+    },
+    {
+      "start": 9.6,
+      "end": 9.88,
+      "word": "questa"
+    },
+    {
+      "start": 9.88,
+      "end": 10.04,
+      "word": "è"
+    },
+    {
+      "start": 10.04,
+      "end": 10.1,
+      "word": "una"
+    },
+    {
+      "start": 10.1,
+      "end": 10.56,
+      "word": "cheesecake"
+    },
+    {
+      "start": 10.56,
+      "end": 11.02,
+      "word": "ma"
+    },
+    {
+      "start": 11.02,
+      "end": 11.12,
+      "word": "è"
+    },
+    {
+      "start": 11.12,
+      "end": 11.5,
+      "word": "yogurt"
+    },
+    {
+      "start": 11.5,
+      "end": 11.86,
+      "word": "e"
+    },
+    {
+      "start": 11.86,
+      "end": 12.42,
+      "word": "biscotti"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2,
+      "transcript": "Allora questa è una cheesecake ma è yogurt e biscotti"
+    }
+  ]
+}

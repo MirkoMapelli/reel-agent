@@ -1,0 +1,1986 @@
+{
+  "video_id": "7566581925880597782",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7566581925880597782",
+    "ref_id": "ref_52_7566581925880597782",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7566581925880597782",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 21,
+  "total_dur": 54.13,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833,
+      "center": 0.917,
+      "role": "person_talking",
+      "subject": "creator con pizze",
+      "description": "Il creator sorride mostrando due pizze Domino's, con un testo in sovrimpressione che chiede 'DOMINO'S PIZZA FA SCHIFO?'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Proviamo la pizza di Domino's Pizza in"
+    },
+    {
+      "idx": 1,
+      "start": 1.833,
+      "end": 3.3,
+      "dur": 1.467,
+      "center": 2.567,
+      "role": "person_eating",
+      "subject": "creator con fetta pizza",
+      "description": "Il creator tiene in mano una fetta di pizza con funghi e formaggio, con un'espressione interrogativa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "America per capire il perché del"
+    },
+    {
+      "idx": 2,
+      "start": 3.3,
+      "end": 4.933,
+      "dur": 1.633,
+      "center": 4.117,
+      "role": "person_eating",
+      "subject": "creator mangia pizza",
+      "description": "Il creator addenta una fetta di pizza, concentrato sul sapore.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "fallimento di Domino's in Italia Io"
+    },
+    {
+      "idx": 3,
+      "start": 4.933,
+      "end": 7.833,
+      "dur": 2.9,
+      "center": 6.383,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni",
+      "description": "Una pizza al pepperoni in primo piano, con il formaggio fuso e i bordi croccanti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "mi trovo in Florida in una delle loro sedie, le tre pizza che ho voluto"
+    },
+    {
+      "idx": 4,
+      "start": 7.833,
+      "end": 8.967,
+      "dur": 1.133,
+      "center": 8.4,
+      "role": "food_plated",
+      "subject": "tre pizze pepperoni",
+      "description": "Tre pizze al pepperoni in scatole aperte, disposte su un tavolo di legno.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "provare sono la classica"
+    },
+    {
+      "idx": 5,
+      "start": 8.967,
+      "end": 9.767,
+      "dur": 0.8,
+      "center": 9.367,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni e carne",
+      "description": "Una pizza con pepperoni e carne macinata in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "pepperoni, una sorta"
+    },
+    {
+      "idx": 6,
+      "start": 9.767,
+      "end": 12.7,
+      "dur": 2.933,
+      "center": 11.233,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni e carne",
+      "description": "La stessa pizza del frame precedente, leggermente più centrata.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "di mizza quindi con un sacco di tipologie di carne e la"
+    },
+    {
+      "idx": 7,
+      "start": 12.7,
+      "end": 14.0,
+      "dur": 1.3,
+      "center": 13.35,
+      "role": "food_closeup",
+      "subject": "pizza funghi e peperoni",
+      "description": "Una pizza diversa con funghi e peperoni verdi in una scatola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "pizza felici steak Ora"
+    },
+    {
+      "idx": 8,
+      "start": 14.0,
+      "end": 14.833,
+      "dur": 0.833,
+      "center": 14.417,
+      "role": "food_plated",
+      "subject": "tre pizze in scatola",
+      "description": "Tre scatole di pizza aperte su un tavolo di legno, con diverse pizze all'interno.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "per quanto possono essere"
+    },
+    {
+      "idx": 9,
+      "start": 14.833,
+      "end": 16.767,
+      "dur": 1.933,
+      "center": 15.8,
+      "role": "person_talking",
+      "subject": "uomo con pizze",
+      "description": "Un uomo con un cappellino rosso e una canotta bianca tiene in mano una piccola pizza e ne ha altre due sul tavolo davanti a sé.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "diverse una pizza neopoletana non si può"
+    },
+    {
+      "idx": 10,
+      "start": 16.767,
+      "end": 21.1,
+      "dur": 4.333,
+      "center": 18.933,
+      "role": "person_eating",
+      "subject": "uomo con pizza",
+      "description": "Un uomo tiene in mano una scatola di pizza con due pizze all'interno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dire che non si presentano bene l 'impasto ovviamente è poco lievitato e molto honte, infatti la"
+    },
+    {
+      "idx": 11,
+      "start": 21.1,
+      "end": 25.567,
+      "dur": 4.467,
+      "center": 23.333,
+      "role": "food_detail",
+      "subject": "fetta di pizza",
+      "description": "Una mano tiene una fetta di pizza con condimenti vari e formaggio fuso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "cottura è quasi una fettura tutti i sapori sono veramente forti tanto che il semplice pomodoro"
+    },
+    {
+      "idx": 12,
+      "start": 25.567,
+      "end": 29.133,
+      "dur": 3.567,
+      "center": 27.35,
+      "role": "person_eating",
+      "subject": "uomo mangia pizza",
+      "description": "Un uomo con un cappellino rosso morde una fetta di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "viene completamente coperto motivo per cui quella col salame, il prosciutto,"
+    },
+    {
+      "idx": 13,
+      "start": 29.133,
+      "end": 31.667,
+      "dur": 2.533,
+      "center": 30.4,
+      "role": "person_eating",
+      "subject": "uomo mangia pizza",
+      "description": "L'uomo sorride mentre mangia una fetta di pizza, con una scatola di pizza Domino's in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "il beco, la carne, il pollo è decisamente d 'orso"
+    },
+    {
+      "idx": 14,
+      "start": 31.667,
+      "end": 36.3,
+      "dur": 4.633,
+      "center": 33.983,
+      "role": "person_eating",
+      "subject": "uomo guarda pizza",
+      "description": "L'uomo osserva una fetta di pizza che tiene in mano, con un'espressione pensierosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "la felici steak non aveva proprio il pomodoro anche se non si è sentita la differenza e al posto della mozzarella aveva"
+    },
+    {
+      "idx": 15,
+      "start": 36.3,
+      "end": 38.133,
+      "dur": 1.833,
+      "center": 37.217,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo mostra una fetta di pizza con formaggio filante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "praticamente il classico formaggio del felici"
+    },
+    {
+      "idx": 16,
+      "start": 38.133,
+      "end": 44.1,
+      "dur": 5.967,
+      "center": 41.117,
+      "role": "person_eating",
+      "subject": "ragazzo piega pizza",
+      "description": "Il ragazzo piega una fetta di pizza, pronto per mangiarla.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "steak e anche lei quindi troppo saporita mentre la pepperoni non si batta ma quindi perché ha fallito in Italia? semplicemente perché è un prodotto completamente"
+    },
+    {
+      "idx": 17,
+      "start": 44.1,
+      "end": 46.8,
+      "dur": 2.7,
+      "center": 45.45,
+      "role": "person_eating",
+      "subject": "ragazzo morde pizza",
+      "description": "Il ragazzo morde un pezzo di pizza con un'espressione soddisfatta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "diverso e non è stato visto come tale è stato associato"
+    },
+    {
+      "idx": 18,
+      "start": 46.8,
+      "end": 51.733,
+      "dur": 4.933,
+      "center": 49.267,
+      "role": "food_plated",
+      "subject": "pizza carne e salumi",
+      "description": "Una pizza intera con vari tipi di carne e salumi.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "alla pizza italiana e non è così è tutto altro prodotto come può esserlo la hamburgher che è un 'americanata,"
+    },
+    {
+      "idx": 19,
+      "start": 51.733,
+      "end": 52.867,
+      "dur": 1.133,
+      "center": 52.3,
+      "role": "food_plated",
+      "subject": "pizza funghi e peperoni",
+      "description": "Una pizza intera con funghi, peperoni e formaggio bianco.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "sì, ma in Italia viene"
+    },
+    {
+      "idx": 20,
+      "start": 52.867,
+      "end": 54.133,
+      "dur": 1.267,
+      "center": 53.5,
+      "role": "food_plated",
+      "subject": "tre pizze in scatola",
+      "description": "Tre pizze in scatole aperte, con la pizza in primo piano che ha funghi e peperoni.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "consumato come tale"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "creator con pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator sorride mostrando due pizze Domino's, con un testo in sovrimpressione che chiede 'DOMINO'S PIZZA FA SCHIFO?'.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "creator con fetta pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator tiene in mano una fetta di pizza con funghi e formaggio, con un'espressione interrogativa.",
+      "shot_idx": 1,
+      "start": 1.833,
+      "end": 3.3,
+      "dur": 1.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "creator mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator addenta una fetta di pizza, concentrato sul sapore.",
+      "shot_idx": 2,
+      "start": 3.3,
+      "end": 4.933,
+      "dur": 1.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza al pepperoni in primo piano, con il formaggio fuso e i bordi croccanti.",
+      "shot_idx": 3,
+      "start": 4.933,
+      "end": 7.833,
+      "dur": 2.9
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "tre pizze pepperoni",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Tre pizze al pepperoni in scatole aperte, disposte su un tavolo di legno.",
+      "shot_idx": 4,
+      "start": 7.833,
+      "end": 8.967,
+      "dur": 1.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni e carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una pizza con pepperoni e carne macinata in una scatola di cartone.",
+      "shot_idx": 5,
+      "start": 8.967,
+      "end": 9.767,
+      "dur": 0.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni e carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La stessa pizza del frame precedente, leggermente più centrata.",
+      "shot_idx": 6,
+      "start": 9.767,
+      "end": 12.7,
+      "dur": 2.933
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza funghi e peperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una pizza diversa con funghi e peperoni verdi in una scatola.",
+      "shot_idx": 7,
+      "start": 12.7,
+      "end": 14.0,
+      "dur": 1.3
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "tre pizze in scatola",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Tre scatole di pizza aperte su un tavolo di legno, con diverse pizze all'interno.",
+      "shot_idx": 8,
+      "start": 14.0,
+      "end": 14.833,
+      "dur": 0.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo con pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo con un cappellino rosso e una canotta bianca tiene in mano una piccola pizza e ne ha altre due sul tavolo davanti a sé.",
+      "shot_idx": 9,
+      "start": 14.833,
+      "end": 16.767,
+      "dur": 1.933
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano una scatola di pizza con due pizze all'interno.",
+      "shot_idx": 10,
+      "start": 16.767,
+      "end": 21.1,
+      "dur": 4.333
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta di pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano tiene una fetta di pizza con condimenti vari e formaggio fuso.",
+      "shot_idx": 11,
+      "start": 21.1,
+      "end": 25.567,
+      "dur": 4.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo con un cappellino rosso morde una fetta di pizza.",
+      "shot_idx": 12,
+      "start": 25.567,
+      "end": 29.133,
+      "dur": 3.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sorride mentre mangia una fetta di pizza, con una scatola di pizza Domino's in primo piano.",
+      "shot_idx": 13,
+      "start": 29.133,
+      "end": 31.667,
+      "dur": 2.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo guarda pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo osserva una fetta di pizza che tiene in mano, con un'espressione pensierosa.",
+      "shot_idx": 14,
+      "start": 31.667,
+      "end": 36.3,
+      "dur": 4.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra una fetta di pizza con formaggio filante.",
+      "shot_idx": 15,
+      "start": 36.3,
+      "end": 38.133,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo piega pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo piega una fetta di pizza, pronto per mangiarla.",
+      "shot_idx": 16,
+      "start": 38.133,
+      "end": 44.1,
+      "dur": 5.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo morde pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo morde un pezzo di pizza con un'espressione soddisfatta.",
+      "shot_idx": 17,
+      "start": 44.1,
+      "end": 46.8,
+      "dur": 2.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza carne e salumi",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza intera con vari tipi di carne e salumi.",
+      "shot_idx": 18,
+      "start": 46.8,
+      "end": 51.733,
+      "dur": 4.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza funghi e peperoni",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza intera con funghi, peperoni e formaggio bianco.",
+      "shot_idx": 19,
+      "start": 51.733,
+      "end": 52.867,
+      "dur": 1.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "tre pizze in scatola",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Tre pizze in scatole aperte, con la pizza in primo piano che ha funghi e peperoni.",
+      "shot_idx": 20,
+      "start": 52.867,
+      "end": 54.133,
+      "dur": 1.267
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Proviamo la pizza di Domino's Pizza in America per capire il perché del fallimento di Domino's in Italia"
+    },
+    {
+      "start": 4.7,
+      "end": 12.4,
+      "text": "Io mi trovo in Florida in una delle loro sedie, le tre pizza che ho voluto provare sono la classica pepperoni, una sorta di mizza quindi con un sacco di tipologie di carne"
+    },
+    {
+      "start": 12.4,
+      "end": 13.92,
+      "text": "e la pizza felici steak"
+    },
+    {
+      "start": 13.92,
+      "end": 18.1,
+      "text": "Ora per quanto possono essere diverse una pizza neopoletana non si può dire che non si presentano bene"
+    },
+    {
+      "start": 18.1,
+      "end": 22.54,
+      "text": "l'impasto ovviamente è poco lievitato e molto honte, infatti la cottura è quasi una fettura"
+    },
+    {
+      "start": 22.54,
+      "end": 24.36,
+      "text": "tutti i sapori sono veramente forti"
+    },
+    {
+      "start": 24.36,
+      "end": 26.92,
+      "text": "tanto che il semplice pomodoro viene completamente coperto"
+    },
+    {
+      "start": 26.92,
+      "end": 31.7,
+      "text": "motivo per cui quella col salame, il prosciutto, il beco, la carne, il pollo è decisamente d'orso"
+    },
+    {
+      "start": 31.7,
+      "end": 35.12,
+      "text": "la felici steak non aveva proprio il pomodoro anche se non si è sentita la differenza"
+    },
+    {
+      "start": 35.12,
+      "end": 38.44,
+      "text": "e al posto della mozzarella aveva praticamente il classico formaggio del felici steak"
+    },
+    {
+      "start": 38.44,
+      "end": 40.0,
+      "text": "e anche lei quindi troppo saporita"
+    },
+    {
+      "start": 40.0,
+      "end": 41.56,
+      "text": "mentre la pepperoni non si batta"
+    },
+    {
+      "start": 41.56,
+      "end": 42.72,
+      "text": "ma quindi perché ha fallito in Italia?"
+    },
+    {
+      "start": 42.88,
+      "end": 46.02,
+      "text": "semplicemente perché è un prodotto completamente diverso e non è stato visto come tale"
+    },
+    {
+      "start": 46.02,
+      "end": 48.42,
+      "text": "è stato associato alla pizza italiana e non è così"
+    },
+    {
+      "start": 48.42,
+      "end": 50.76,
+      "text": "è tutto altro prodotto come può esserlo la hamburgher"
+    },
+    {
+      "start": 50.76,
+      "end": 53.66,
+      "text": "che è un'americanata, sì, ma in Italia viene consumato come tale"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "word": "Proviamo"
+    },
+    {
+      "start": 0.42,
+      "end": 0.58,
+      "word": "la"
+    },
+    {
+      "start": 0.58,
+      "end": 0.78,
+      "word": "pizza"
+    },
+    {
+      "start": 0.78,
+      "end": 0.96,
+      "word": "di"
+    },
+    {
+      "start": 0.96,
+      "end": 1.48,
+      "word": "Domino's"
+    },
+    {
+      "start": 1.48,
+      "end": 1.68,
+      "word": "Pizza"
+    },
+    {
+      "start": 1.68,
+      "end": 1.88,
+      "word": "in"
+    },
+    {
+      "start": 1.88,
+      "end": 2.24,
+      "word": "America"
+    },
+    {
+      "start": 2.24,
+      "end": 2.46,
+      "word": "per"
+    },
+    {
+      "start": 2.46,
+      "end": 2.76,
+      "word": "capire"
+    },
+    {
+      "start": 2.76,
+      "end": 2.88,
+      "word": "il"
+    },
+    {
+      "start": 2.88,
+      "end": 3.14,
+      "word": "perché"
+    },
+    {
+      "start": 3.14,
+      "end": 3.34,
+      "word": "del"
+    },
+    {
+      "start": 3.34,
+      "end": 3.72,
+      "word": "fallimento"
+    },
+    {
+      "start": 3.72,
+      "end": 3.88,
+      "word": "di"
+    },
+    {
+      "start": 3.88,
+      "end": 4.32,
+      "word": "Domino's"
+    },
+    {
+      "start": 4.32,
+      "end": 4.4,
+      "word": "in"
+    },
+    {
+      "start": 4.4,
+      "end": 4.7,
+      "word": "Italia"
+    },
+    {
+      "start": 4.7,
+      "end": 4.94,
+      "word": "Io"
+    },
+    {
+      "start": 4.94,
+      "end": 5.06,
+      "word": "mi"
+    },
+    {
+      "start": 5.06,
+      "end": 5.24,
+      "word": "trovo"
+    },
+    {
+      "start": 5.24,
+      "end": 5.36,
+      "word": "in"
+    },
+    {
+      "start": 5.36,
+      "end": 5.6,
+      "word": "Florida"
+    },
+    {
+      "start": 5.6,
+      "end": 5.92,
+      "word": "in"
+    },
+    {
+      "start": 5.92,
+      "end": 6.06,
+      "word": "una"
+    },
+    {
+      "start": 6.06,
+      "end": 6.18,
+      "word": "delle"
+    },
+    {
+      "start": 6.18,
+      "end": 6.46,
+      "word": "loro"
+    },
+    {
+      "start": 6.46,
+      "end": 6.76,
+      "word": "sedie,"
+    },
+    {
+      "start": 6.82,
+      "end": 6.94,
+      "word": "le"
+    },
+    {
+      "start": 6.94,
+      "end": 7.08,
+      "word": "tre"
+    },
+    {
+      "start": 7.08,
+      "end": 7.32,
+      "word": "pizza"
+    },
+    {
+      "start": 7.32,
+      "end": 7.48,
+      "word": "che"
+    },
+    {
+      "start": 7.48,
+      "end": 7.52,
+      "word": "ho"
+    },
+    {
+      "start": 7.52,
+      "end": 7.72,
+      "word": "voluto"
+    },
+    {
+      "start": 7.72,
+      "end": 8.04,
+      "word": "provare"
+    },
+    {
+      "start": 8.04,
+      "end": 8.24,
+      "word": "sono"
+    },
+    {
+      "start": 8.24,
+      "end": 8.42,
+      "word": "la"
+    },
+    {
+      "start": 8.42,
+      "end": 8.74,
+      "word": "classica"
+    },
+    {
+      "start": 8.74,
+      "end": 9.28,
+      "word": "pepperoni,"
+    },
+    {
+      "start": 9.42,
+      "end": 9.62,
+      "word": "una"
+    },
+    {
+      "start": 9.62,
+      "end": 9.88,
+      "word": "sorta"
+    },
+    {
+      "start": 9.88,
+      "end": 10.14,
+      "word": "di"
+    },
+    {
+      "start": 10.14,
+      "end": 10.48,
+      "word": "mizza"
+    },
+    {
+      "start": 10.48,
+      "end": 10.72,
+      "word": "quindi"
+    },
+    {
+      "start": 10.72,
+      "end": 10.94,
+      "word": "con"
+    },
+    {
+      "start": 10.94,
+      "end": 11.14,
+      "word": "un"
+    },
+    {
+      "start": 11.14,
+      "end": 11.48,
+      "word": "sacco"
+    },
+    {
+      "start": 11.48,
+      "end": 11.58,
+      "word": "di"
+    },
+    {
+      "start": 11.58,
+      "end": 11.92,
+      "word": "tipologie"
+    },
+    {
+      "start": 11.92,
+      "end": 12.1,
+      "word": "di"
+    },
+    {
+      "start": 12.1,
+      "end": 12.4,
+      "word": "carne"
+    },
+    {
+      "start": 12.4,
+      "end": 12.56,
+      "word": "e"
+    },
+    {
+      "start": 12.56,
+      "end": 12.7,
+      "word": "la"
+    },
+    {
+      "start": 12.7,
+      "end": 12.96,
+      "word": "pizza"
+    },
+    {
+      "start": 12.96,
+      "end": 13.32,
+      "word": "felici"
+    },
+    {
+      "start": 13.32,
+      "end": 13.92,
+      "word": "steak"
+    },
+    {
+      "start": 13.92,
+      "end": 14.06,
+      "word": "Ora"
+    },
+    {
+      "start": 14.06,
+      "end": 14.2,
+      "word": "per"
+    },
+    {
+      "start": 14.2,
+      "end": 14.42,
+      "word": "quanto"
+    },
+    {
+      "start": 14.42,
+      "end": 14.66,
+      "word": "possono"
+    },
+    {
+      "start": 14.66,
+      "end": 14.92,
+      "word": "essere"
+    },
+    {
+      "start": 14.92,
+      "end": 15.26,
+      "word": "diverse"
+    },
+    {
+      "start": 15.26,
+      "end": 15.48,
+      "word": "una"
+    },
+    {
+      "start": 15.48,
+      "end": 15.7,
+      "word": "pizza"
+    },
+    {
+      "start": 15.7,
+      "end": 16.14,
+      "word": "neopoletana"
+    },
+    {
+      "start": 16.14,
+      "end": 16.42,
+      "word": "non"
+    },
+    {
+      "start": 16.42,
+      "end": 16.56,
+      "word": "si"
+    },
+    {
+      "start": 16.56,
+      "end": 16.7,
+      "word": "può"
+    },
+    {
+      "start": 16.7,
+      "end": 16.86,
+      "word": "dire"
+    },
+    {
+      "start": 16.86,
+      "end": 17.04,
+      "word": "che"
+    },
+    {
+      "start": 17.04,
+      "end": 17.24,
+      "word": "non"
+    },
+    {
+      "start": 17.24,
+      "end": 17.38,
+      "word": "si"
+    },
+    {
+      "start": 17.38,
+      "end": 17.84,
+      "word": "presentano"
+    },
+    {
+      "start": 17.84,
+      "end": 18.1,
+      "word": "bene"
+    },
+    {
+      "start": 18.1,
+      "end": 18.22,
+      "word": "l"
+    },
+    {
+      "start": 18.22,
+      "end": 18.38,
+      "word": "'impasto"
+    },
+    {
+      "start": 18.38,
+      "end": 18.68,
+      "word": "ovviamente"
+    },
+    {
+      "start": 18.68,
+      "end": 18.98,
+      "word": "è"
+    },
+    {
+      "start": 18.98,
+      "end": 19.12,
+      "word": "poco"
+    },
+    {
+      "start": 19.12,
+      "end": 19.76,
+      "word": "lievitato"
+    },
+    {
+      "start": 19.76,
+      "end": 19.96,
+      "word": "e"
+    },
+    {
+      "start": 19.96,
+      "end": 20.36,
+      "word": "molto"
+    },
+    {
+      "start": 20.36,
+      "end": 20.66,
+      "word": "honte,"
+    },
+    {
+      "start": 20.74,
+      "end": 20.96,
+      "word": "infatti"
+    },
+    {
+      "start": 20.96,
+      "end": 21.1,
+      "word": "la"
+    },
+    {
+      "start": 21.1,
+      "end": 21.46,
+      "word": "cottura"
+    },
+    {
+      "start": 21.46,
+      "end": 21.72,
+      "word": "è"
+    },
+    {
+      "start": 21.72,
+      "end": 21.92,
+      "word": "quasi"
+    },
+    {
+      "start": 21.92,
+      "end": 22.1,
+      "word": "una"
+    },
+    {
+      "start": 22.1,
+      "end": 22.54,
+      "word": "fettura"
+    },
+    {
+      "start": 22.54,
+      "end": 22.86,
+      "word": "tutti"
+    },
+    {
+      "start": 22.86,
+      "end": 23.02,
+      "word": "i"
+    },
+    {
+      "start": 23.02,
+      "end": 23.2,
+      "word": "sapori"
+    },
+    {
+      "start": 23.2,
+      "end": 23.4,
+      "word": "sono"
+    },
+    {
+      "start": 23.4,
+      "end": 23.78,
+      "word": "veramente"
+    },
+    {
+      "start": 23.78,
+      "end": 24.36,
+      "word": "forti"
+    },
+    {
+      "start": 24.36,
+      "end": 24.66,
+      "word": "tanto"
+    },
+    {
+      "start": 24.66,
+      "end": 24.86,
+      "word": "che"
+    },
+    {
+      "start": 24.86,
+      "end": 25.0,
+      "word": "il"
+    },
+    {
+      "start": 25.0,
+      "end": 25.22,
+      "word": "semplice"
+    },
+    {
+      "start": 25.22,
+      "end": 25.6,
+      "word": "pomodoro"
+    },
+    {
+      "start": 25.6,
+      "end": 25.8,
+      "word": "viene"
+    },
+    {
+      "start": 25.8,
+      "end": 26.34,
+      "word": "completamente"
+    },
+    {
+      "start": 26.34,
+      "end": 26.92,
+      "word": "coperto"
+    },
+    {
+      "start": 26.92,
+      "end": 27.16,
+      "word": "motivo"
+    },
+    {
+      "start": 27.16,
+      "end": 27.5,
+      "word": "per"
+    },
+    {
+      "start": 27.5,
+      "end": 27.72,
+      "word": "cui"
+    },
+    {
+      "start": 27.72,
+      "end": 28.02,
+      "word": "quella"
+    },
+    {
+      "start": 28.02,
+      "end": 28.16,
+      "word": "col"
+    },
+    {
+      "start": 28.16,
+      "end": 28.56,
+      "word": "salame,"
+    },
+    {
+      "start": 28.7,
+      "end": 28.72,
+      "word": "il"
+    },
+    {
+      "start": 28.72,
+      "end": 29.1,
+      "word": "prosciutto,"
+    },
+    {
+      "start": 29.22,
+      "end": 29.3,
+      "word": "il"
+    },
+    {
+      "start": 29.3,
+      "end": 29.52,
+      "word": "beco,"
+    },
+    {
+      "start": 29.6,
+      "end": 29.74,
+      "word": "la"
+    },
+    {
+      "start": 29.74,
+      "end": 30.0,
+      "word": "carne,"
+    },
+    {
+      "start": 30.16,
+      "end": 30.24,
+      "word": "il"
+    },
+    {
+      "start": 30.24,
+      "end": 30.58,
+      "word": "pollo"
+    },
+    {
+      "start": 30.58,
+      "end": 30.84,
+      "word": "è"
+    },
+    {
+      "start": 30.84,
+      "end": 31.22,
+      "word": "decisamente"
+    },
+    {
+      "start": 31.22,
+      "end": 31.42,
+      "word": "d"
+    },
+    {
+      "start": 31.42,
+      "end": 31.7,
+      "word": "'orso"
+    },
+    {
+      "start": 31.7,
+      "end": 31.84,
+      "word": "la"
+    },
+    {
+      "start": 31.84,
+      "end": 32.1,
+      "word": "felici"
+    },
+    {
+      "start": 32.1,
+      "end": 32.28,
+      "word": "steak"
+    },
+    {
+      "start": 32.28,
+      "end": 32.44,
+      "word": "non"
+    },
+    {
+      "start": 32.44,
+      "end": 32.7,
+      "word": "aveva"
+    },
+    {
+      "start": 32.7,
+      "end": 32.9,
+      "word": "proprio"
+    },
+    {
+      "start": 32.9,
+      "end": 33.1,
+      "word": "il"
+    },
+    {
+      "start": 33.1,
+      "end": 33.46,
+      "word": "pomodoro"
+    },
+    {
+      "start": 33.46,
+      "end": 33.66,
+      "word": "anche"
+    },
+    {
+      "start": 33.66,
+      "end": 33.84,
+      "word": "se"
+    },
+    {
+      "start": 33.84,
+      "end": 34.08,
+      "word": "non"
+    },
+    {
+      "start": 34.08,
+      "end": 34.2,
+      "word": "si"
+    },
+    {
+      "start": 34.2,
+      "end": 34.28,
+      "word": "è"
+    },
+    {
+      "start": 34.28,
+      "end": 34.46,
+      "word": "sentita"
+    },
+    {
+      "start": 34.46,
+      "end": 34.6,
+      "word": "la"
+    },
+    {
+      "start": 34.6,
+      "end": 35.12,
+      "word": "differenza"
+    },
+    {
+      "start": 35.12,
+      "end": 35.24,
+      "word": "e"
+    },
+    {
+      "start": 35.24,
+      "end": 35.32,
+      "word": "al"
+    },
+    {
+      "start": 35.32,
+      "end": 35.52,
+      "word": "posto"
+    },
+    {
+      "start": 35.52,
+      "end": 35.64,
+      "word": "della"
+    },
+    {
+      "start": 35.64,
+      "end": 35.92,
+      "word": "mozzarella"
+    },
+    {
+      "start": 35.92,
+      "end": 36.24,
+      "word": "aveva"
+    },
+    {
+      "start": 36.24,
+      "end": 36.46,
+      "word": "praticamente"
+    },
+    {
+      "start": 36.46,
+      "end": 36.76,
+      "word": "il"
+    },
+    {
+      "start": 36.76,
+      "end": 37.1,
+      "word": "classico"
+    },
+    {
+      "start": 37.1,
+      "end": 37.52,
+      "word": "formaggio"
+    },
+    {
+      "start": 37.52,
+      "end": 37.7,
+      "word": "del"
+    },
+    {
+      "start": 37.7,
+      "end": 37.98,
+      "word": "felici"
+    },
+    {
+      "start": 37.98,
+      "end": 38.44,
+      "word": "steak"
+    },
+    {
+      "start": 38.44,
+      "end": 38.6,
+      "word": "e"
+    },
+    {
+      "start": 38.6,
+      "end": 38.82,
+      "word": "anche"
+    },
+    {
+      "start": 38.82,
+      "end": 38.96,
+      "word": "lei"
+    },
+    {
+      "start": 38.96,
+      "end": 39.12,
+      "word": "quindi"
+    },
+    {
+      "start": 39.12,
+      "end": 39.56,
+      "word": "troppo"
+    },
+    {
+      "start": 39.56,
+      "end": 40.0,
+      "word": "saporita"
+    },
+    {
+      "start": 40.0,
+      "end": 40.16,
+      "word": "mentre"
+    },
+    {
+      "start": 40.16,
+      "end": 40.38,
+      "word": "la"
+    },
+    {
+      "start": 40.38,
+      "end": 40.84,
+      "word": "pepperoni"
+    },
+    {
+      "start": 40.84,
+      "end": 41.12,
+      "word": "non"
+    },
+    {
+      "start": 41.12,
+      "end": 41.3,
+      "word": "si"
+    },
+    {
+      "start": 41.3,
+      "end": 41.56,
+      "word": "batta"
+    },
+    {
+      "start": 41.56,
+      "end": 41.6,
+      "word": "ma"
+    },
+    {
+      "start": 41.6,
+      "end": 41.8,
+      "word": "quindi"
+    },
+    {
+      "start": 41.8,
+      "end": 41.98,
+      "word": "perché"
+    },
+    {
+      "start": 41.98,
+      "end": 42.14,
+      "word": "ha"
+    },
+    {
+      "start": 42.14,
+      "end": 42.34,
+      "word": "fallito"
+    },
+    {
+      "start": 42.34,
+      "end": 42.46,
+      "word": "in"
+    },
+    {
+      "start": 42.46,
+      "end": 42.72,
+      "word": "Italia?"
+    },
+    {
+      "start": 42.88,
+      "end": 43.16,
+      "word": "semplicemente"
+    },
+    {
+      "start": 43.16,
+      "end": 43.4,
+      "word": "perché"
+    },
+    {
+      "start": 43.4,
+      "end": 43.52,
+      "word": "è"
+    },
+    {
+      "start": 43.52,
+      "end": 43.58,
+      "word": "un"
+    },
+    {
+      "start": 43.58,
+      "end": 43.82,
+      "word": "prodotto"
+    },
+    {
+      "start": 43.82,
+      "end": 44.32,
+      "word": "completamente"
+    },
+    {
+      "start": 44.32,
+      "end": 44.92,
+      "word": "diverso"
+    },
+    {
+      "start": 44.92,
+      "end": 45.04,
+      "word": "e"
+    },
+    {
+      "start": 45.04,
+      "end": 45.14,
+      "word": "non"
+    },
+    {
+      "start": 45.14,
+      "end": 45.26,
+      "word": "è"
+    },
+    {
+      "start": 45.26,
+      "end": 45.36,
+      "word": "stato"
+    },
+    {
+      "start": 45.36,
+      "end": 45.56,
+      "word": "visto"
+    },
+    {
+      "start": 45.56,
+      "end": 45.82,
+      "word": "come"
+    },
+    {
+      "start": 45.82,
+      "end": 46.02,
+      "word": "tale"
+    },
+    {
+      "start": 46.02,
+      "end": 46.18,
+      "word": "è"
+    },
+    {
+      "start": 46.18,
+      "end": 46.38,
+      "word": "stato"
+    },
+    {
+      "start": 46.38,
+      "end": 46.82,
+      "word": "associato"
+    },
+    {
+      "start": 46.82,
+      "end": 47.02,
+      "word": "alla"
+    },
+    {
+      "start": 47.02,
+      "end": 47.22,
+      "word": "pizza"
+    },
+    {
+      "start": 47.22,
+      "end": 47.78,
+      "word": "italiana"
+    },
+    {
+      "start": 47.78,
+      "end": 47.92,
+      "word": "e"
+    },
+    {
+      "start": 47.92,
+      "end": 48.02,
+      "word": "non"
+    },
+    {
+      "start": 48.02,
+      "end": 48.22,
+      "word": "è"
+    },
+    {
+      "start": 48.22,
+      "end": 48.42,
+      "word": "così"
+    },
+    {
+      "start": 48.42,
+      "end": 48.76,
+      "word": "è"
+    },
+    {
+      "start": 48.76,
+      "end": 48.9,
+      "word": "tutto"
+    },
+    {
+      "start": 48.9,
+      "end": 49.16,
+      "word": "altro"
+    },
+    {
+      "start": 49.16,
+      "end": 49.52,
+      "word": "prodotto"
+    },
+    {
+      "start": 49.52,
+      "end": 49.72,
+      "word": "come"
+    },
+    {
+      "start": 49.72,
+      "end": 49.88,
+      "word": "può"
+    },
+    {
+      "start": 49.88,
+      "end": 50.24,
+      "word": "esserlo"
+    },
+    {
+      "start": 50.24,
+      "end": 50.36,
+      "word": "la"
+    },
+    {
+      "start": 50.36,
+      "end": 50.76,
+      "word": "hamburgher"
+    },
+    {
+      "start": 50.76,
+      "end": 50.86,
+      "word": "che"
+    },
+    {
+      "start": 50.86,
+      "end": 50.92,
+      "word": "è"
+    },
+    {
+      "start": 50.92,
+      "end": 51.02,
+      "word": "un"
+    },
+    {
+      "start": 51.02,
+      "end": 51.54,
+      "word": "'americanata,"
+    },
+    {
+      "start": 51.62,
+      "end": 51.86,
+      "word": "sì,"
+    },
+    {
+      "start": 52.0,
+      "end": 52.08,
+      "word": "ma"
+    },
+    {
+      "start": 52.08,
+      "end": 52.16,
+      "word": "in"
+    },
+    {
+      "start": 52.16,
+      "end": 52.32,
+      "word": "Italia"
+    },
+    {
+      "start": 52.32,
+      "end": 52.64,
+      "word": "viene"
+    },
+    {
+      "start": 52.64,
+      "end": 53.22,
+      "word": "consumato"
+    },
+    {
+      "start": 53.22,
+      "end": 53.42,
+      "word": "come"
+    },
+    {
+      "start": 53.42,
+      "end": 53.66,
+      "word": "tale"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833,
+      "transcript": "Proviamo la pizza di Domino's Pizza in"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.833,
+      "end": 3.3,
+      "dur": 1.467,
+      "transcript": "America per capire il perché del"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.3,
+      "end": 4.933,
+      "dur": 1.633,
+      "transcript": "fallimento di Domino's in Italia Io"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.933,
+      "end": 7.833,
+      "dur": 2.9,
+      "transcript": "mi trovo in Florida in una delle loro sedie, le tre pizza che ho voluto"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.833,
+      "end": 8.967,
+      "dur": 1.133,
+      "transcript": "provare sono la classica"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.967,
+      "end": 9.767,
+      "dur": 0.8,
+      "transcript": "pepperoni, una sorta"
+    },
+    {
+      "shot_idx": 6,
+      "start": 9.767,
+      "end": 12.7,
+      "dur": 2.933,
+      "transcript": "di mizza quindi con un sacco di tipologie di carne e la"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.7,
+      "end": 14.0,
+      "dur": 1.3,
+      "transcript": "pizza felici steak Ora"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.0,
+      "end": 14.833,
+      "dur": 0.833,
+      "transcript": "per quanto possono essere"
+    },
+    {
+      "shot_idx": 9,
+      "start": 14.833,
+      "end": 16.767,
+      "dur": 1.933,
+      "transcript": "diverse una pizza neopoletana non si può"
+    },
+    {
+      "shot_idx": 10,
+      "start": 16.767,
+      "end": 21.1,
+      "dur": 4.333,
+      "transcript": "dire che non si presentano bene l 'impasto ovviamente è poco lievitato e molto honte, infatti la"
+    },
+    {
+      "shot_idx": 11,
+      "start": 21.1,
+      "end": 25.567,
+      "dur": 4.467,
+      "transcript": "cottura è quasi una fettura tutti i sapori sono veramente forti tanto che il semplice pomodoro"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.567,
+      "end": 29.133,
+      "dur": 3.567,
+      "transcript": "viene completamente coperto motivo per cui quella col salame, il prosciutto,"
+    },
+    {
+      "shot_idx": 13,
+      "start": 29.133,
+      "end": 31.667,
+      "dur": 2.533,
+      "transcript": "il beco, la carne, il pollo è decisamente d 'orso"
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.667,
+      "end": 36.3,
+      "dur": 4.633,
+      "transcript": "la felici steak non aveva proprio il pomodoro anche se non si è sentita la differenza e al posto della mozzarella aveva"
+    },
+    {
+      "shot_idx": 15,
+      "start": 36.3,
+      "end": 38.133,
+      "dur": 1.833,
+      "transcript": "praticamente il classico formaggio del felici"
+    },
+    {
+      "shot_idx": 16,
+      "start": 38.133,
+      "end": 44.1,
+      "dur": 5.967,
+      "transcript": "steak e anche lei quindi troppo saporita mentre la pepperoni non si batta ma quindi perché ha fallito in Italia? semplicemente perché è un prodotto completamente"
+    },
+    {
+      "shot_idx": 17,
+      "start": 44.1,
+      "end": 46.8,
+      "dur": 2.7,
+      "transcript": "diverso e non è stato visto come tale è stato associato"
+    },
+    {
+      "shot_idx": 18,
+      "start": 46.8,
+      "end": 51.733,
+      "dur": 4.933,
+      "transcript": "alla pizza italiana e non è così è tutto altro prodotto come può esserlo la hamburgher che è un 'americanata,"
+    },
+    {
+      "shot_idx": 19,
+      "start": 51.733,
+      "end": 52.867,
+      "dur": 1.133,
+      "transcript": "sì, ma in Italia viene"
+    },
+    {
+      "shot_idx": 20,
+      "start": 52.867,
+      "end": 54.133,
+      "dur": 1.267,
+      "transcript": "consumato come tale"
+    }
+  ],
+  "full_text": "Proviamo la pizza di Domino's Pizza in America per capire il perché del fallimento di Domino's in Italia Io mi trovo in Florida in una delle loro sedie, le tre pizza che ho voluto provare sono la classica pepperoni, una sorta di mizza quindi con un sacco di tipologie di carne e la pizza felici steak Ora per quanto possono essere diverse una pizza neopoletana non si può dire che non si presentano bene l'impasto ovviamente è poco lievitato e molto honte, infatti la cottura è quasi una fettura tutti i sapori sono veramente forti tanto che il semplice pomodoro viene completamente coperto motivo per cui quella col salame, il prosciutto, il beco, la carne, il pollo è decisamente d'orso la felici steak non aveva proprio il pomodoro anche se non si è sentita la differenza e al posto della mozzarella aveva praticamente il classico formaggio del felici steak e anche lei quindi troppo saporita mentre la pepperoni non si batta ma quindi perché ha fallito in Italia? semplicemente perché è un prodotto completamente diverso e non è stato visto come tale è stato associato alla pizza italiana e non è così è tutto altro prodotto come può esserlo la hamburgher che è un'americanata, sì, ma in Italia viene consumato come tale",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

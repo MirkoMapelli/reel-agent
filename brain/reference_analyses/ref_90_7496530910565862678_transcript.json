@@ -1,0 +1,1992 @@
+{
+  "ref_id": "ref_90_7496530910565862678",
+  "video": "/opt/reel-agent/media/style_ref/ref_90_7496530910565862678.mp4",
+  "n_segments": 31,
+  "n_words": 310,
+  "n_shots": 39,
+  "full_text": "La miglior pizzeria di Milano! Oggi ragazzi continuiamo il nostro tour delle migliori pizzeria appunto di tutto Milano provando cocciuto. Un locale che in realtà è un ristorante pizzeria con un attenzione particolare alle materie prime e specializzate in pizza contemporanea. Noi abbiamo però ovviamente iniziato con degli antipastini, con queste frittatine caccio e pepe, super croccanti e filanti e perfette con questa salsa al pecorino romano. Per poi continuare con quella che viene chiamata scarpetta cocciuta, ovvero un acciota di salsa di pomodoro con della pasta fritta stile e mio occo fritto, che serve appunto per poter fare la scarpetta nel pomodoro. Davvero un ottimo idea soprattutto perché la salsa potevate letteralmente berla da quanto era buona. Ma passando al punto forte della serata, ovvero le due pizze, io ho provato la loro margherita stracciatella e la propole pizzeria, entrambi davvero davvero belle. Maldendo la margherita stracciatella troviamo il pomodoro, la stracciatella, una porre di pesto, parmigiano e olio, una pizza che vi assicuro che era tanto bella quanto buona. Tre ingredienti con colori e sapori ben distinti che compagnavano un impasto che a me piaciuto veramente tanto, soprattutto il cornicione, piuttosto spesso, perfetto e si è accompagnato con ciò che rimaneva della nostra scarpetta. Passando invece la prova alle pepe troviamo una bufra fumicata del pomodoro, una julienne di guanciale stagionato ed ovviamente il pepe, una pizza dei sapori molto forti e molto intensi e proprio per questo letteralmente clamo, rosa. Ed infine per concludere abbiamo i cociutelli con una crema di nocciola che sono in pratica di donuts fritti, ricoperti di zucchero che è accompagnati appunto con questa crema e il lingotto di cioccolato rocce, appunto il lingotto di cioccolato al latte, glassato rocce, con cioccolato bianco e frutti rossi. In conclusione direi cociuto assolutamente un posto da provare, soprattutto per la loro proposta di pizza contemporanea.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "La miglior pizzeria di Milano!"
+    },
+    {
+      "start": 1.48,
+      "end": 4.88,
+      "text": "Oggi ragazzi continuiamo il nostro tour delle migliori pizzeria appunto di tutto Milano"
+    },
+    {
+      "start": 4.88,
+      "end": 5.94,
+      "text": "provando cocciuto."
+    },
+    {
+      "start": 6.04,
+      "end": 9.48,
+      "text": "Un locale che in realtà è un ristorante pizzeria con un attenzione particolare alle materie"
+    },
+    {
+      "start": 9.48,
+      "end": 11.68,
+      "text": "prime e specializzate in pizza contemporanea."
+    },
+    {
+      "start": 11.74,
+      "end": 14.52,
+      "text": "Noi abbiamo però ovviamente iniziato con degli antipastini, con queste frittatine"
+    },
+    {
+      "start": 14.52,
+      "end": 18.24,
+      "text": "caccio e pepe, super croccanti e filanti e perfette con questa salsa al pecorino"
+    },
+    {
+      "start": 18.24,
+      "end": 18.64,
+      "text": "romano."
+    },
+    {
+      "start": 18.72,
+      "end": 21.94,
+      "text": "Per poi continuare con quella che viene chiamata scarpetta cocciuta, ovvero un"
+    },
+    {
+      "start": 21.94,
+      "end": 25.3,
+      "text": "acciota di salsa di pomodoro con della pasta fritta stile e mio occo fritto,"
+    },
+    {
+      "start": 25.38,
+      "end": 27.78,
+      "text": "che serve appunto per poter fare la scarpetta nel pomodoro."
+    },
+    {
+      "start": 27.78,
+      "end": 30.6,
+      "text": "Davvero un ottimo idea soprattutto perché la salsa potevate letteralmente"
+    },
+    {
+      "start": 30.6,
+      "end": 31.72,
+      "text": "berla da quanto era buona."
+    },
+    {
+      "start": 31.8,
+      "end": 35.16,
+      "text": "Ma passando al punto forte della serata, ovvero le due pizze, io ho provato la loro"
+    },
+    {
+      "start": 35.16,
+      "end": 38.58,
+      "text": "margherita stracciatella e la propole pizzeria, entrambi davvero davvero belle."
+    },
+    {
+      "start": 38.62,
+      "end": 41.96,
+      "text": "Maldendo la margherita stracciatella troviamo il pomodoro, la stracciatella,"
+    },
+    {
+      "start": 42.02,
+      "end": 45.58,
+      "text": "una porre di pesto, parmigiano e olio, una pizza che vi assicuro che era tanto bella"
+    },
+    {
+      "start": 45.58,
+      "end": 46.28,
+      "text": "quanto buona."
+    },
+    {
+      "start": 46.42,
+      "end": 50.08,
+      "text": "Tre ingredienti con colori e sapori ben distinti che compagnavano un impasto che a me"
+    },
+    {
+      "start": 50.08,
+      "end": 53.2,
+      "text": "piaciuto veramente tanto, soprattutto il cornicione, piuttosto spesso,"
+    },
+    {
+      "start": 53.32,
+      "end": 56.2,
+      "text": "perfetto e si è accompagnato con ciò che rimaneva della nostra scarpetta."
+    },
+    {
+      "start": 56.2,
+      "end": 59.54,
+      "text": "Passando invece la prova alle pepe troviamo una bufra fumicata del pomodoro,"
+    },
+    {
+      "start": 59.76,
+      "end": 63.38,
+      "text": "una julienne di guanciale stagionato ed ovviamente il pepe, una pizza dei sapori"
+    },
+    {
+      "start": 63.38,
+      "end": 67.64,
+      "text": "molto forti e molto intensi e proprio per questo letteralmente clamo, rosa."
+    },
+    {
+      "start": 67.82,
+      "end": 71.04,
+      "text": "Ed infine per concludere abbiamo i cociutelli con una crema di nocciola"
+    },
+    {
+      "start": 71.04,
+      "end": 74.3,
+      "text": "che sono in pratica di donuts fritti, ricoperti di zucchero che è accompagnati"
+    },
+    {
+      "start": 74.3,
+      "end": 76.92,
+      "text": "appunto con questa crema e il lingotto di cioccolato rocce,"
+    },
+    {
+      "start": 77.02,
+      "end": 79.94,
+      "text": "appunto il lingotto di cioccolato al latte, glassato rocce, con cioccolato"
+    },
+    {
+      "start": 79.94,
+      "end": 80.94,
+      "text": "bianco e frutti rossi."
+    },
+    {
+      "start": 80.96,
+      "end": 83.7,
+      "text": "In conclusione direi cociuto assolutamente un posto da provare,"
+    },
+    {
+      "start": 83.7,
+      "end": 86.38,
+      "text": "soprattutto per la loro proposta di pizza contemporanea."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "La"
+    },
+    {
+      "start": 0.22,
+      "end": 0.46,
+      "word": "miglior"
+    },
+    {
+      "start": 0.46,
+      "end": 0.92,
+      "word": "pizzeria"
+    },
+    {
+      "start": 0.92,
+      "end": 1.04,
+      "word": "di"
+    },
+    {
+      "start": 1.04,
+      "end": 1.44,
+      "word": "Milano!"
+    },
+    {
+      "start": 1.48,
+      "end": 1.62,
+      "word": "Oggi"
+    },
+    {
+      "start": 1.62,
+      "end": 1.92,
+      "word": "ragazzi"
+    },
+    {
+      "start": 1.92,
+      "end": 2.34,
+      "word": "continuiamo"
+    },
+    {
+      "start": 2.34,
+      "end": 2.46,
+      "word": "il"
+    },
+    {
+      "start": 2.46,
+      "end": 2.6,
+      "word": "nostro"
+    },
+    {
+      "start": 2.6,
+      "end": 2.92,
+      "word": "tour"
+    },
+    {
+      "start": 2.92,
+      "end": 3.06,
+      "word": "delle"
+    },
+    {
+      "start": 3.06,
+      "end": 3.48,
+      "word": "migliori"
+    },
+    {
+      "start": 3.48,
+      "end": 3.86,
+      "word": "pizzeria"
+    },
+    {
+      "start": 3.86,
+      "end": 4.14,
+      "word": "appunto"
+    },
+    {
+      "start": 4.14,
+      "end": 4.32,
+      "word": "di"
+    },
+    {
+      "start": 4.32,
+      "end": 4.46,
+      "word": "tutto"
+    },
+    {
+      "start": 4.46,
+      "end": 4.88,
+      "word": "Milano"
+    },
+    {
+      "start": 4.88,
+      "end": 5.3,
+      "word": "provando"
+    },
+    {
+      "start": 5.3,
+      "end": 5.94,
+      "word": "cocciuto."
+    },
+    {
+      "start": 6.04,
+      "end": 6.08,
+      "word": "Un"
+    },
+    {
+      "start": 6.08,
+      "end": 6.32,
+      "word": "locale"
+    },
+    {
+      "start": 6.32,
+      "end": 6.46,
+      "word": "che"
+    },
+    {
+      "start": 6.46,
+      "end": 6.54,
+      "word": "in"
+    },
+    {
+      "start": 6.54,
+      "end": 6.66,
+      "word": "realtà"
+    },
+    {
+      "start": 6.66,
+      "end": 6.78,
+      "word": "è"
+    },
+    {
+      "start": 6.78,
+      "end": 6.84,
+      "word": "un"
+    },
+    {
+      "start": 6.84,
+      "end": 7.34,
+      "word": "ristorante"
+    },
+    {
+      "start": 7.34,
+      "end": 7.9,
+      "word": "pizzeria"
+    },
+    {
+      "start": 7.9,
+      "end": 8.04,
+      "word": "con"
+    },
+    {
+      "start": 8.04,
+      "end": 8.18,
+      "word": "un"
+    },
+    {
+      "start": 8.18,
+      "end": 8.42,
+      "word": "attenzione"
+    },
+    {
+      "start": 8.42,
+      "end": 8.94,
+      "word": "particolare"
+    },
+    {
+      "start": 8.94,
+      "end": 9.14,
+      "word": "alle"
+    },
+    {
+      "start": 9.14,
+      "end": 9.48,
+      "word": "materie"
+    },
+    {
+      "start": 9.48,
+      "end": 9.76,
+      "word": "prime"
+    },
+    {
+      "start": 9.76,
+      "end": 9.92,
+      "word": "e"
+    },
+    {
+      "start": 9.92,
+      "end": 10.48,
+      "word": "specializzate"
+    },
+    {
+      "start": 10.48,
+      "end": 10.64,
+      "word": "in"
+    },
+    {
+      "start": 10.64,
+      "end": 10.88,
+      "word": "pizza"
+    },
+    {
+      "start": 10.88,
+      "end": 11.68,
+      "word": "contemporanea."
+    },
+    {
+      "start": 11.74,
+      "end": 11.84,
+      "word": "Noi"
+    },
+    {
+      "start": 11.84,
+      "end": 11.98,
+      "word": "abbiamo"
+    },
+    {
+      "start": 11.98,
+      "end": 12.18,
+      "word": "però"
+    },
+    {
+      "start": 12.18,
+      "end": 12.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 12.4,
+      "end": 12.86,
+      "word": "iniziato"
+    },
+    {
+      "start": 12.86,
+      "end": 13.04,
+      "word": "con"
+    },
+    {
+      "start": 13.04,
+      "end": 13.16,
+      "word": "degli"
+    },
+    {
+      "start": 13.16,
+      "end": 13.72,
+      "word": "antipastini,"
+    },
+    {
+      "start": 13.74,
+      "end": 13.86,
+      "word": "con"
+    },
+    {
+      "start": 13.86,
+      "end": 14.06,
+      "word": "queste"
+    },
+    {
+      "start": 14.06,
+      "end": 14.52,
+      "word": "frittatine"
+    },
+    {
+      "start": 14.52,
+      "end": 14.82,
+      "word": "caccio"
+    },
+    {
+      "start": 14.82,
+      "end": 14.9,
+      "word": "e"
+    },
+    {
+      "start": 14.9,
+      "end": 15.14,
+      "word": "pepe,"
+    },
+    {
+      "start": 15.24,
+      "end": 15.44,
+      "word": "super"
+    },
+    {
+      "start": 15.44,
+      "end": 15.94,
+      "word": "croccanti"
+    },
+    {
+      "start": 15.94,
+      "end": 16.12,
+      "word": "e"
+    },
+    {
+      "start": 16.12,
+      "end": 16.54,
+      "word": "filanti"
+    },
+    {
+      "start": 16.54,
+      "end": 16.76,
+      "word": "e"
+    },
+    {
+      "start": 16.76,
+      "end": 17.1,
+      "word": "perfette"
+    },
+    {
+      "start": 17.1,
+      "end": 17.24,
+      "word": "con"
+    },
+    {
+      "start": 17.24,
+      "end": 17.44,
+      "word": "questa"
+    },
+    {
+      "start": 17.44,
+      "end": 17.72,
+      "word": "salsa"
+    },
+    {
+      "start": 17.72,
+      "end": 17.94,
+      "word": "al"
+    },
+    {
+      "start": 17.94,
+      "end": 18.24,
+      "word": "pecorino"
+    },
+    {
+      "start": 18.24,
+      "end": 18.64,
+      "word": "romano."
+    },
+    {
+      "start": 18.72,
+      "end": 18.74,
+      "word": "Per"
+    },
+    {
+      "start": 18.74,
+      "end": 18.86,
+      "word": "poi"
+    },
+    {
+      "start": 18.86,
+      "end": 19.28,
+      "word": "continuare"
+    },
+    {
+      "start": 19.28,
+      "end": 19.44,
+      "word": "con"
+    },
+    {
+      "start": 19.44,
+      "end": 19.6,
+      "word": "quella"
+    },
+    {
+      "start": 19.6,
+      "end": 19.74,
+      "word": "che"
+    },
+    {
+      "start": 19.74,
+      "end": 19.86,
+      "word": "viene"
+    },
+    {
+      "start": 19.86,
+      "end": 20.24,
+      "word": "chiamata"
+    },
+    {
+      "start": 20.24,
+      "end": 20.98,
+      "word": "scarpetta"
+    },
+    {
+      "start": 20.98,
+      "end": 21.48,
+      "word": "cocciuta,"
+    },
+    {
+      "start": 21.56,
+      "end": 21.8,
+      "word": "ovvero"
+    },
+    {
+      "start": 21.8,
+      "end": 21.94,
+      "word": "un"
+    },
+    {
+      "start": 21.94,
+      "end": 22.24,
+      "word": "acciota"
+    },
+    {
+      "start": 22.24,
+      "end": 22.48,
+      "word": "di"
+    },
+    {
+      "start": 22.48,
+      "end": 22.7,
+      "word": "salsa"
+    },
+    {
+      "start": 22.7,
+      "end": 22.88,
+      "word": "di"
+    },
+    {
+      "start": 22.88,
+      "end": 23.36,
+      "word": "pomodoro"
+    },
+    {
+      "start": 23.36,
+      "end": 23.58,
+      "word": "con"
+    },
+    {
+      "start": 23.58,
+      "end": 23.74,
+      "word": "della"
+    },
+    {
+      "start": 23.74,
+      "end": 23.96,
+      "word": "pasta"
+    },
+    {
+      "start": 23.96,
+      "end": 24.34,
+      "word": "fritta"
+    },
+    {
+      "start": 24.34,
+      "end": 24.66,
+      "word": "stile"
+    },
+    {
+      "start": 24.66,
+      "end": 24.76,
+      "word": "e"
+    },
+    {
+      "start": 24.76,
+      "end": 24.84,
+      "word": "mio"
+    },
+    {
+      "start": 24.84,
+      "end": 25.04,
+      "word": "occo"
+    },
+    {
+      "start": 25.04,
+      "end": 25.3,
+      "word": "fritto,"
+    },
+    {
+      "start": 25.38,
+      "end": 25.42,
+      "word": "che"
+    },
+    {
+      "start": 25.42,
+      "end": 25.58,
+      "word": "serve"
+    },
+    {
+      "start": 25.58,
+      "end": 25.86,
+      "word": "appunto"
+    },
+    {
+      "start": 25.86,
+      "end": 26.08,
+      "word": "per"
+    },
+    {
+      "start": 26.08,
+      "end": 26.32,
+      "word": "poter"
+    },
+    {
+      "start": 26.32,
+      "end": 26.46,
+      "word": "fare"
+    },
+    {
+      "start": 26.46,
+      "end": 26.66,
+      "word": "la"
+    },
+    {
+      "start": 26.66,
+      "end": 27.22,
+      "word": "scarpetta"
+    },
+    {
+      "start": 27.22,
+      "end": 27.34,
+      "word": "nel"
+    },
+    {
+      "start": 27.34,
+      "end": 27.78,
+      "word": "pomodoro."
+    },
+    {
+      "start": 27.78,
+      "end": 28.0,
+      "word": "Davvero"
+    },
+    {
+      "start": 28.0,
+      "end": 28.12,
+      "word": "un"
+    },
+    {
+      "start": 28.12,
+      "end": 28.3,
+      "word": "ottimo"
+    },
+    {
+      "start": 28.3,
+      "end": 28.46,
+      "word": "idea"
+    },
+    {
+      "start": 28.46,
+      "end": 28.72,
+      "word": "soprattutto"
+    },
+    {
+      "start": 28.72,
+      "end": 29.1,
+      "word": "perché"
+    },
+    {
+      "start": 29.1,
+      "end": 29.26,
+      "word": "la"
+    },
+    {
+      "start": 29.26,
+      "end": 29.5,
+      "word": "salsa"
+    },
+    {
+      "start": 29.5,
+      "end": 29.88,
+      "word": "potevate"
+    },
+    {
+      "start": 29.88,
+      "end": 30.6,
+      "word": "letteralmente"
+    },
+    {
+      "start": 30.6,
+      "end": 30.96,
+      "word": "berla"
+    },
+    {
+      "start": 30.96,
+      "end": 31.08,
+      "word": "da"
+    },
+    {
+      "start": 31.08,
+      "end": 31.26,
+      "word": "quanto"
+    },
+    {
+      "start": 31.26,
+      "end": 31.42,
+      "word": "era"
+    },
+    {
+      "start": 31.42,
+      "end": 31.72,
+      "word": "buona."
+    },
+    {
+      "start": 31.8,
+      "end": 31.82,
+      "word": "Ma"
+    },
+    {
+      "start": 31.82,
+      "end": 32.12,
+      "word": "passando"
+    },
+    {
+      "start": 32.12,
+      "end": 32.24,
+      "word": "al"
+    },
+    {
+      "start": 32.24,
+      "end": 32.36,
+      "word": "punto"
+    },
+    {
+      "start": 32.36,
+      "end": 32.7,
+      "word": "forte"
+    },
+    {
+      "start": 32.7,
+      "end": 32.94,
+      "word": "della"
+    },
+    {
+      "start": 32.94,
+      "end": 33.32,
+      "word": "serata,"
+    },
+    {
+      "start": 33.4,
+      "end": 33.6,
+      "word": "ovvero"
+    },
+    {
+      "start": 33.6,
+      "end": 33.78,
+      "word": "le"
+    },
+    {
+      "start": 33.78,
+      "end": 33.96,
+      "word": "due"
+    },
+    {
+      "start": 33.96,
+      "end": 34.4,
+      "word": "pizze,"
+    },
+    {
+      "start": 34.46,
+      "end": 34.54,
+      "word": "io"
+    },
+    {
+      "start": 34.54,
+      "end": 34.64,
+      "word": "ho"
+    },
+    {
+      "start": 34.64,
+      "end": 34.84,
+      "word": "provato"
+    },
+    {
+      "start": 34.84,
+      "end": 35.0,
+      "word": "la"
+    },
+    {
+      "start": 35.0,
+      "end": 35.16,
+      "word": "loro"
+    },
+    {
+      "start": 35.16,
+      "end": 35.78,
+      "word": "margherita"
+    },
+    {
+      "start": 35.78,
+      "end": 36.56,
+      "word": "stracciatella"
+    },
+    {
+      "start": 36.56,
+      "end": 36.7,
+      "word": "e"
+    },
+    {
+      "start": 36.7,
+      "end": 36.8,
+      "word": "la"
+    },
+    {
+      "start": 36.8,
+      "end": 37.12,
+      "word": "propole"
+    },
+    {
+      "start": 37.12,
+      "end": 37.26,
+      "word": "pizzeria,"
+    },
+    {
+      "start": 37.34,
+      "end": 37.6,
+      "word": "entrambi"
+    },
+    {
+      "start": 37.6,
+      "end": 38.02,
+      "word": "davvero"
+    },
+    {
+      "start": 38.02,
+      "end": 38.36,
+      "word": "davvero"
+    },
+    {
+      "start": 38.36,
+      "end": 38.58,
+      "word": "belle."
+    },
+    {
+      "start": 38.62,
+      "end": 38.88,
+      "word": "Maldendo"
+    },
+    {
+      "start": 38.88,
+      "end": 39.08,
+      "word": "la"
+    },
+    {
+      "start": 39.08,
+      "end": 39.44,
+      "word": "margherita"
+    },
+    {
+      "start": 39.44,
+      "end": 40.04,
+      "word": "stracciatella"
+    },
+    {
+      "start": 40.04,
+      "end": 40.42,
+      "word": "troviamo"
+    },
+    {
+      "start": 40.42,
+      "end": 40.62,
+      "word": "il"
+    },
+    {
+      "start": 40.62,
+      "end": 41.02,
+      "word": "pomodoro,"
+    },
+    {
+      "start": 41.16,
+      "end": 41.28,
+      "word": "la"
+    },
+    {
+      "start": 41.28,
+      "end": 41.96,
+      "word": "stracciatella,"
+    },
+    {
+      "start": 42.02,
+      "end": 42.18,
+      "word": "una"
+    },
+    {
+      "start": 42.18,
+      "end": 42.36,
+      "word": "porre"
+    },
+    {
+      "start": 42.36,
+      "end": 42.52,
+      "word": "di"
+    },
+    {
+      "start": 42.52,
+      "end": 42.82,
+      "word": "pesto,"
+    },
+    {
+      "start": 42.92,
+      "end": 43.32,
+      "word": "parmigiano"
+    },
+    {
+      "start": 43.32,
+      "end": 43.52,
+      "word": "e"
+    },
+    {
+      "start": 43.52,
+      "end": 43.84,
+      "word": "olio,"
+    },
+    {
+      "start": 43.9,
+      "end": 44.04,
+      "word": "una"
+    },
+    {
+      "start": 44.04,
+      "end": 44.2,
+      "word": "pizza"
+    },
+    {
+      "start": 44.2,
+      "end": 44.34,
+      "word": "che"
+    },
+    {
+      "start": 44.34,
+      "end": 44.44,
+      "word": "vi"
+    },
+    {
+      "start": 44.44,
+      "end": 44.78,
+      "word": "assicuro"
+    },
+    {
+      "start": 44.78,
+      "end": 44.92,
+      "word": "che"
+    },
+    {
+      "start": 44.92,
+      "end": 45.0,
+      "word": "era"
+    },
+    {
+      "start": 45.0,
+      "end": 45.2,
+      "word": "tanto"
+    },
+    {
+      "start": 45.2,
+      "end": 45.58,
+      "word": "bella"
+    },
+    {
+      "start": 45.58,
+      "end": 45.76,
+      "word": "quanto"
+    },
+    {
+      "start": 45.76,
+      "end": 46.28,
+      "word": "buona."
+    },
+    {
+      "start": 46.42,
+      "end": 46.5,
+      "word": "Tre"
+    },
+    {
+      "start": 46.5,
+      "end": 47.02,
+      "word": "ingredienti"
+    },
+    {
+      "start": 47.02,
+      "end": 47.18,
+      "word": "con"
+    },
+    {
+      "start": 47.18,
+      "end": 47.58,
+      "word": "colori"
+    },
+    {
+      "start": 47.58,
+      "end": 47.68,
+      "word": "e"
+    },
+    {
+      "start": 47.68,
+      "end": 47.96,
+      "word": "sapori"
+    },
+    {
+      "start": 47.96,
+      "end": 48.2,
+      "word": "ben"
+    },
+    {
+      "start": 48.2,
+      "end": 48.74,
+      "word": "distinti"
+    },
+    {
+      "start": 48.74,
+      "end": 48.84,
+      "word": "che"
+    },
+    {
+      "start": 48.84,
+      "end": 49.34,
+      "word": "compagnavano"
+    },
+    {
+      "start": 49.34,
+      "end": 49.48,
+      "word": "un"
+    },
+    {
+      "start": 49.48,
+      "end": 49.8,
+      "word": "impasto"
+    },
+    {
+      "start": 49.8,
+      "end": 49.96,
+      "word": "che"
+    },
+    {
+      "start": 49.96,
+      "end": 50.04,
+      "word": "a"
+    },
+    {
+      "start": 50.04,
+      "end": 50.08,
+      "word": "me"
+    },
+    {
+      "start": 50.08,
+      "end": 50.4,
+      "word": "piaciuto"
+    },
+    {
+      "start": 50.4,
+      "end": 50.6,
+      "word": "veramente"
+    },
+    {
+      "start": 50.6,
+      "end": 51.1,
+      "word": "tanto,"
+    },
+    {
+      "start": 51.18,
+      "end": 51.42,
+      "word": "soprattutto"
+    },
+    {
+      "start": 51.42,
+      "end": 51.66,
+      "word": "il"
+    },
+    {
+      "start": 51.66,
+      "end": 52.24,
+      "word": "cornicione,"
+    },
+    {
+      "start": 52.24,
+      "end": 52.66,
+      "word": "piuttosto"
+    },
+    {
+      "start": 52.66,
+      "end": 53.2,
+      "word": "spesso,"
+    },
+    {
+      "start": 53.32,
+      "end": 53.7,
+      "word": "perfetto"
+    },
+    {
+      "start": 53.7,
+      "end": 53.8,
+      "word": "e"
+    },
+    {
+      "start": 53.8,
+      "end": 53.86,
+      "word": "si"
+    },
+    {
+      "start": 53.86,
+      "end": 53.9,
+      "word": "è"
+    },
+    {
+      "start": 53.9,
+      "end": 54.34,
+      "word": "accompagnato"
+    },
+    {
+      "start": 54.34,
+      "end": 54.52,
+      "word": "con"
+    },
+    {
+      "start": 54.52,
+      "end": 54.66,
+      "word": "ciò"
+    },
+    {
+      "start": 54.66,
+      "end": 54.74,
+      "word": "che"
+    },
+    {
+      "start": 54.74,
+      "end": 55.16,
+      "word": "rimaneva"
+    },
+    {
+      "start": 55.16,
+      "end": 55.3,
+      "word": "della"
+    },
+    {
+      "start": 55.3,
+      "end": 55.52,
+      "word": "nostra"
+    },
+    {
+      "start": 55.52,
+      "end": 56.2,
+      "word": "scarpetta."
+    },
+    {
+      "start": 56.2,
+      "end": 56.52,
+      "word": "Passando"
+    },
+    {
+      "start": 56.52,
+      "end": 56.72,
+      "word": "invece"
+    },
+    {
+      "start": 56.72,
+      "end": 56.88,
+      "word": "la"
+    },
+    {
+      "start": 56.88,
+      "end": 57.06,
+      "word": "prova"
+    },
+    {
+      "start": 57.06,
+      "end": 57.24,
+      "word": "alle"
+    },
+    {
+      "start": 57.24,
+      "end": 57.44,
+      "word": "pepe"
+    },
+    {
+      "start": 57.44,
+      "end": 57.78,
+      "word": "troviamo"
+    },
+    {
+      "start": 57.78,
+      "end": 58.02,
+      "word": "una"
+    },
+    {
+      "start": 58.02,
+      "end": 58.3,
+      "word": "bufra"
+    },
+    {
+      "start": 58.3,
+      "end": 58.78,
+      "word": "fumicata"
+    },
+    {
+      "start": 58.78,
+      "end": 59.06,
+      "word": "del"
+    },
+    {
+      "start": 59.06,
+      "end": 59.54,
+      "word": "pomodoro,"
+    },
+    {
+      "start": 59.76,
+      "end": 59.92,
+      "word": "una"
+    },
+    {
+      "start": 59.92,
+      "end": 60.34,
+      "word": "julienne"
+    },
+    {
+      "start": 60.34,
+      "end": 60.62,
+      "word": "di"
+    },
+    {
+      "start": 60.62,
+      "end": 61.14,
+      "word": "guanciale"
+    },
+    {
+      "start": 61.14,
+      "end": 61.7,
+      "word": "stagionato"
+    },
+    {
+      "start": 61.7,
+      "end": 61.84,
+      "word": "ed"
+    },
+    {
+      "start": 61.84,
+      "end": 62.1,
+      "word": "ovviamente"
+    },
+    {
+      "start": 62.1,
+      "end": 62.38,
+      "word": "il"
+    },
+    {
+      "start": 62.38,
+      "end": 62.62,
+      "word": "pepe,"
+    },
+    {
+      "start": 62.68,
+      "end": 62.76,
+      "word": "una"
+    },
+    {
+      "start": 62.76,
+      "end": 62.92,
+      "word": "pizza"
+    },
+    {
+      "start": 62.92,
+      "end": 63.1,
+      "word": "dei"
+    },
+    {
+      "start": 63.1,
+      "end": 63.38,
+      "word": "sapori"
+    },
+    {
+      "start": 63.38,
+      "end": 63.68,
+      "word": "molto"
+    },
+    {
+      "start": 63.68,
+      "end": 64.12,
+      "word": "forti"
+    },
+    {
+      "start": 64.12,
+      "end": 64.2,
+      "word": "e"
+    },
+    {
+      "start": 64.2,
+      "end": 64.36,
+      "word": "molto"
+    },
+    {
+      "start": 64.36,
+      "end": 64.8,
+      "word": "intensi"
+    },
+    {
+      "start": 64.8,
+      "end": 64.92,
+      "word": "e"
+    },
+    {
+      "start": 64.92,
+      "end": 65.06,
+      "word": "proprio"
+    },
+    {
+      "start": 65.06,
+      "end": 65.26,
+      "word": "per"
+    },
+    {
+      "start": 65.26,
+      "end": 65.56,
+      "word": "questo"
+    },
+    {
+      "start": 65.56,
+      "end": 66.32,
+      "word": "letteralmente"
+    },
+    {
+      "start": 66.32,
+      "end": 66.9,
+      "word": "clamo,"
+    },
+    {
+      "start": 67.14,
+      "end": 67.64,
+      "word": "rosa."
+    },
+    {
+      "start": 67.82,
+      "end": 67.88,
+      "word": "Ed"
+    },
+    {
+      "start": 67.88,
+      "end": 68.18,
+      "word": "infine"
+    },
+    {
+      "start": 68.18,
+      "end": 68.38,
+      "word": "per"
+    },
+    {
+      "start": 68.38,
+      "end": 68.86,
+      "word": "concludere"
+    },
+    {
+      "start": 68.86,
+      "end": 69.12,
+      "word": "abbiamo"
+    },
+    {
+      "start": 69.12,
+      "end": 69.38,
+      "word": "i"
+    },
+    {
+      "start": 69.38,
+      "end": 69.96,
+      "word": "cociutelli"
+    },
+    {
+      "start": 69.96,
+      "end": 70.14,
+      "word": "con"
+    },
+    {
+      "start": 70.14,
+      "end": 70.3,
+      "word": "una"
+    },
+    {
+      "start": 70.3,
+      "end": 70.48,
+      "word": "crema"
+    },
+    {
+      "start": 70.48,
+      "end": 70.58,
+      "word": "di"
+    },
+    {
+      "start": 70.58,
+      "end": 71.04,
+      "word": "nocciola"
+    },
+    {
+      "start": 71.04,
+      "end": 71.12,
+      "word": "che"
+    },
+    {
+      "start": 71.12,
+      "end": 71.24,
+      "word": "sono"
+    },
+    {
+      "start": 71.24,
+      "end": 71.34,
+      "word": "in"
+    },
+    {
+      "start": 71.34,
+      "end": 71.64,
+      "word": "pratica"
+    },
+    {
+      "start": 71.64,
+      "end": 71.78,
+      "word": "di"
+    },
+    {
+      "start": 71.78,
+      "end": 72.06,
+      "word": "donuts"
+    },
+    {
+      "start": 72.06,
+      "end": 72.6,
+      "word": "fritti,"
+    },
+    {
+      "start": 72.74,
+      "end": 73.14,
+      "word": "ricoperti"
+    },
+    {
+      "start": 73.14,
+      "end": 73.24,
+      "word": "di"
+    },
+    {
+      "start": 73.24,
+      "end": 73.72,
+      "word": "zucchero"
+    },
+    {
+      "start": 73.72,
+      "end": 73.82,
+      "word": "che"
+    },
+    {
+      "start": 73.82,
+      "end": 73.84,
+      "word": "è"
+    },
+    {
+      "start": 73.84,
+      "end": 74.3,
+      "word": "accompagnati"
+    },
+    {
+      "start": 74.3,
+      "end": 74.58,
+      "word": "appunto"
+    },
+    {
+      "start": 74.58,
+      "end": 74.78,
+      "word": "con"
+    },
+    {
+      "start": 74.78,
+      "end": 75.0,
+      "word": "questa"
+    },
+    {
+      "start": 75.0,
+      "end": 75.34,
+      "word": "crema"
+    },
+    {
+      "start": 75.34,
+      "end": 75.46,
+      "word": "e"
+    },
+    {
+      "start": 75.46,
+      "end": 75.58,
+      "word": "il"
+    },
+    {
+      "start": 75.58,
+      "end": 75.86,
+      "word": "lingotto"
+    },
+    {
+      "start": 75.86,
+      "end": 76.08,
+      "word": "di"
+    },
+    {
+      "start": 76.08,
+      "end": 76.54,
+      "word": "cioccolato"
+    },
+    {
+      "start": 76.54,
+      "end": 76.92,
+      "word": "rocce,"
+    },
+    {
+      "start": 77.02,
+      "end": 77.22,
+      "word": "appunto"
+    },
+    {
+      "start": 77.22,
+      "end": 77.38,
+      "word": "il"
+    },
+    {
+      "start": 77.38,
+      "end": 77.64,
+      "word": "lingotto"
+    },
+    {
+      "start": 77.64,
+      "end": 77.8,
+      "word": "di"
+    },
+    {
+      "start": 77.8,
+      "end": 78.12,
+      "word": "cioccolato"
+    },
+    {
+      "start": 78.12,
+      "end": 78.26,
+      "word": "al"
+    },
+    {
+      "start": 78.26,
+      "end": 78.48,
+      "word": "latte,"
+    },
+    {
+      "start": 78.6,
+      "end": 78.98,
+      "word": "glassato"
+    },
+    {
+      "start": 78.98,
+      "end": 79.44,
+      "word": "rocce,"
+    },
+    {
+      "start": 79.5,
+      "end": 79.6,
+      "word": "con"
+    },
+    {
+      "start": 79.6,
+      "end": 79.94,
+      "word": "cioccolato"
+    },
+    {
+      "start": 79.94,
+      "end": 80.3,
+      "word": "bianco"
+    },
+    {
+      "start": 80.3,
+      "end": 80.4,
+      "word": "e"
+    },
+    {
+      "start": 80.4,
+      "end": 80.64,
+      "word": "frutti"
+    },
+    {
+      "start": 80.64,
+      "end": 80.94,
+      "word": "rossi."
+    },
+    {
+      "start": 80.96,
+      "end": 81.06,
+      "word": "In"
+    },
+    {
+      "start": 81.06,
+      "end": 81.56,
+      "word": "conclusione"
+    },
+    {
+      "start": 81.56,
+      "end": 81.84,
+      "word": "direi"
+    },
+    {
+      "start": 81.84,
+      "end": 82.24,
+      "word": "cociuto"
+    },
+    {
+      "start": 82.24,
+      "end": 82.7,
+      "word": "assolutamente"
+    },
+    {
+      "start": 82.7,
+      "end": 82.9,
+      "word": "un"
+    },
+    {
+      "start": 82.9,
+      "end": 83.16,
+      "word": "posto"
+    },
+    {
+      "start": 83.16,
+      "end": 83.24,
+      "word": "da"
+    },
+    {
+      "start": 83.24,
+      "end": 83.7,
+      "word": "provare,"
+    },
+    {
+      "start": 83.7,
+      "end": 84.1,
+      "word": "soprattutto"
+    },
+    {
+      "start": 84.1,
+      "end": 84.4,
+      "word": "per"
+    },
+    {
+      "start": 84.4,
+      "end": 84.52,
+      "word": "la"
+    },
+    {
+      "start": 84.52,
+      "end": 84.68,
+      "word": "loro"
+    },
+    {
+      "start": 84.68,
+      "end": 85.2,
+      "word": "proposta"
+    },
+    {
+      "start": 85.2,
+      "end": 85.32,
+      "word": "di"
+    },
+    {
+      "start": 85.32,
+      "end": 85.56,
+      "word": "pizza"
+    },
+    {
+      "start": 85.56,
+      "end": 86.38,
+      "word": "contemporanea."
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.533,
+      "dur": 2.533,
+      "transcript": "La miglior pizzeria di Milano! Oggi ragazzi continuiamo il nostro"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.533,
+      "end": 3.733,
+      "dur": 1.2,
+      "transcript": "tour delle migliori pizzeria"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.733,
+      "end": 5.067,
+      "dur": 1.333,
+      "transcript": "appunto di tutto Milano"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.067,
+      "end": 7.033,
+      "dur": 1.967,
+      "transcript": "provando cocciuto. Un locale che in realtà è un"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.033,
+      "end": 8.667,
+      "dur": 1.633,
+      "transcript": "ristorante pizzeria con un attenzione"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.667,
+      "end": 10.867,
+      "dur": 2.2,
+      "transcript": "particolare alle materie prime e specializzate in pizza"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.867,
+      "end": 14.833,
+      "dur": 3.967,
+      "transcript": "contemporanea. Noi abbiamo però ovviamente iniziato con degli antipastini, con queste frittatine caccio"
+    },
+    {
+      "shot_idx": 7,
+      "start": 14.833,
+      "end": 16.633,
+      "dur": 1.8,
+      "transcript": "e pepe, super croccanti e filanti"
+    },
+    {
+      "shot_idx": 8,
+      "start": 16.633,
+      "end": 18.633,
+      "dur": 2.0,
+      "transcript": "e perfette con questa salsa al pecorino romano."
+    },
+    {
+      "shot_idx": 9,
+      "start": 18.633,
+      "end": 20.067,
+      "dur": 1.433,
+      "transcript": "Per poi continuare con quella che viene chiamata"
+    },
+    {
+      "shot_idx": 10,
+      "start": 20.067,
+      "end": 22.667,
+      "dur": 2.6,
+      "transcript": "scarpetta cocciuta, ovvero un acciota di salsa"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.667,
+      "end": 24.333,
+      "dur": 1.667,
+      "transcript": "di pomodoro con della pasta fritta"
+    },
+    {
+      "shot_idx": 12,
+      "start": 24.333,
+      "end": 26.367,
+      "dur": 2.033,
+      "transcript": "stile e mio occo fritto, che serve appunto per poter"
+    },
+    {
+      "shot_idx": 13,
+      "start": 26.367,
+      "end": 28.0,
+      "dur": 1.633,
+      "transcript": "fare la scarpetta nel pomodoro. Davvero"
+    },
+    {
+      "shot_idx": 14,
+      "start": 28.0,
+      "end": 29.933,
+      "dur": 1.933,
+      "transcript": "un ottimo idea soprattutto perché la salsa potevate"
+    },
+    {
+      "shot_idx": 15,
+      "start": 29.933,
+      "end": 31.733,
+      "dur": 1.8,
+      "transcript": "letteralmente berla da quanto era buona."
+    },
+    {
+      "shot_idx": 16,
+      "start": 31.733,
+      "end": 34.2,
+      "dur": 2.467,
+      "transcript": "Ma passando al punto forte della serata, ovvero le due pizze,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.2,
+      "end": 36.167,
+      "dur": 1.967,
+      "transcript": "io ho provato la loro margherita"
+    },
+    {
+      "shot_idx": 18,
+      "start": 36.167,
+      "end": 38.967,
+      "dur": 2.8,
+      "transcript": "stracciatella e la propole pizzeria, entrambi davvero davvero belle. Maldendo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 38.967,
+      "end": 40.967,
+      "dur": 2.0,
+      "transcript": "la margherita stracciatella troviamo il pomodoro,"
+    },
+    {
+      "shot_idx": 20,
+      "start": 40.967,
+      "end": 44.3,
+      "dur": 3.333,
+      "transcript": "la stracciatella, una porre di pesto, parmigiano e olio, una pizza che"
+    },
+    {
+      "shot_idx": 21,
+      "start": 44.3,
+      "end": 47.133,
+      "dur": 2.833,
+      "transcript": "vi assicuro che era tanto bella quanto buona. Tre ingredienti con"
+    },
+    {
+      "shot_idx": 22,
+      "start": 47.133,
+      "end": 49.433,
+      "dur": 2.3,
+      "transcript": "colori e sapori ben distinti che compagnavano un"
+    },
+    {
+      "shot_idx": 23,
+      "start": 49.433,
+      "end": 51.267,
+      "dur": 1.833,
+      "transcript": "impasto che a me piaciuto veramente tanto,"
+    },
+    {
+      "shot_idx": 24,
+      "start": 51.267,
+      "end": 53.1,
+      "dur": 1.833,
+      "transcript": "soprattutto il cornicione, piuttosto spesso,"
+    },
+    {
+      "shot_idx": 25,
+      "start": 53.1,
+      "end": 54.8,
+      "dur": 1.7,
+      "transcript": "perfetto e si è accompagnato con ciò che"
+    },
+    {
+      "shot_idx": 26,
+      "start": 54.8,
+      "end": 57.3,
+      "dur": 2.5,
+      "transcript": "rimaneva della nostra scarpetta. Passando invece la prova alle"
+    },
+    {
+      "shot_idx": 27,
+      "start": 57.3,
+      "end": 60.4,
+      "dur": 3.1,
+      "transcript": "pepe troviamo una bufra fumicata del pomodoro, una julienne"
+    },
+    {
+      "shot_idx": 28,
+      "start": 60.4,
+      "end": 62.033,
+      "dur": 1.633,
+      "transcript": "di guanciale stagionato ed ovviamente"
+    },
+    {
+      "shot_idx": 29,
+      "start": 62.033,
+      "end": 65.467,
+      "dur": 3.433,
+      "transcript": "il pepe, una pizza dei sapori molto forti e molto intensi e proprio per questo"
+    },
+    {
+      "shot_idx": 30,
+      "start": 65.467,
+      "end": 67.467,
+      "dur": 2.0,
+      "transcript": "letteralmente clamo, rosa."
+    },
+    {
+      "shot_idx": 31,
+      "start": 67.467,
+      "end": 69.033,
+      "dur": 1.567,
+      "transcript": "Ed infine per concludere abbiamo"
+    },
+    {
+      "shot_idx": 32,
+      "start": 69.033,
+      "end": 72.4,
+      "dur": 3.367,
+      "transcript": "i cociutelli con una crema di nocciola che sono in pratica di donuts fritti,"
+    },
+    {
+      "shot_idx": 33,
+      "start": 72.4,
+      "end": 75.933,
+      "dur": 3.533,
+      "transcript": "ricoperti di zucchero che è accompagnati appunto con questa crema e il lingotto"
+    },
+    {
+      "shot_idx": 34,
+      "start": 75.933,
+      "end": 78.167,
+      "dur": 2.233,
+      "transcript": "di cioccolato rocce, appunto il lingotto di cioccolato"
+    },
+    {
+      "shot_idx": 35,
+      "start": 78.167,
+      "end": 80.733,
+      "dur": 2.567,
+      "transcript": "al latte, glassato rocce, con cioccolato bianco e frutti"
+    },
+    {
+      "shot_idx": 36,
+      "start": 80.733,
+      "end": 82.333,
+      "dur": 1.6,
+      "transcript": "rossi. In conclusione direi cociuto"
+    },
+    {
+      "shot_idx": 37,
+      "start": 82.333,
+      "end": 84.533,
+      "dur": 2.2,
+      "transcript": "assolutamente un posto da provare, soprattutto per la"
+    },
+    {
+      "shot_idx": 38,
+      "start": 84.533,
+      "end": 86.6,
+      "dur": 2.067,
+      "transcript": "loro proposta di pizza contemporanea."
+    }
+  ]
+}

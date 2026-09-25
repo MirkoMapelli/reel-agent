@@ -1,0 +1,50 @@
+[Script Info]
+Title: reel-agent
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,ObelixPro,62,&H0000E6FF&,&H0000E6FF&,&H00010101&,&H00000000,1,0,0,0,100,100,0,0,1,5,0,2,20,20,155,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.33,Default,,0,0,0,,QUESTO
+Dialogue: 0,0:00:00.33,0:00:00.48,Default,,0,0,0,,È
+Dialogue: 0,0:00:00.48,0:00:00.63,Default,,0,0,0,,UN
+Dialogue: 0,0:00:00.63,0:00:00.90,Default,,0,0,0,,VIDEO
+Dialogue: 0,0:00:00.90,0:00:01.05,Default,,0,0,0,,DI
+Dialogue: 0,0:00:01.05,0:00:01.20,Default,,0,0,0,,PROVA
+Dialogue: 0,0:00:01.14,0:00:01.32,Default,,0,0,0,,PER
+Dialogue: 0,0:00:01.32,0:00:01.69,Default,,0,0,0,,VEDERE
+Dialogue: 0,0:00:01.69,0:00:01.84,Default,,0,0,0,,SE
+Dialogue: 0,0:00:01.84,0:00:01.99,Default,,0,0,0,,I
+Dialogue: 0,0:00:01.99,0:00:02.65,Default,,0,0,0,,SOTTOTITOLI
+Dialogue: 0,0:00:02.65,0:00:03.14,Default,,0,0,0,,FUNZIONANO
+Dialogue: 0,0:00:03.14,0:00:03.29,Default,,0,0,0,,E
+Dialogue: 0,0:00:03.29,0:00:03.44,Default,,0,0,0,,SE
+Dialogue: 0,0:00:03.44,0:00:03.81,Default,,0,0,0,,STANNO
+Dialogue: 0,0:00:03.81,0:00:04.18,Default,,0,0,0,,DIETRO
+Dialogue: 0,0:00:04.18,0:00:04.49,Default,,0,0,0,,ANCHE
+Dialogue: 0,0:00:04.49,0:00:04.64,Default,,0,0,0,,ALLA
+Dialogue: 0,0:00:04.62,0:00:05.13,Default,,0,0,0,,VELOCITÀ
+Dialogue: 0,0:00:05.13,0:00:05.28,Default,,0,0,0,,DI
+Dialogue: 0,0:00:05.28,0:00:05.53,Default,,0,0,0,,COME
+Dialogue: 0,0:00:05.53,0:00:05.72,Default,,0,0,0,,STO
+Dialogue: 0,0:00:05.72,0:00:06.30,Default,,0,0,0,,PARLANDO.
+Dialogue: 0,0:00:06.30,0:00:06.45,Default,,0,0,0,,SE
+Dialogue: 0,0:00:06.40,0:00:07.05,Default,,0,0,0,,CAPISCONO
+Dialogue: 0,0:00:07.05,0:00:07.48,Default,,0,0,0,,QUELLO
+Dialogue: 0,0:00:07.48,0:00:07.70,Default,,0,0,0,,CHE
+Dialogue: 0,0:00:07.70,0:00:07.98,Default,,0,0,0,,DICO
+Dialogue: 0,0:00:07.98,0:00:08.13,Default,,0,0,0,,E
+Dialogue: 0,0:00:08.13,0:00:08.28,Default,,0,0,0,,SE
+Dialogue: 0,0:00:08.20,0:00:08.53,Default,,0,0,0,,SONO
+Dialogue: 0,0:00:08.53,0:00:08.95,Default,,0,0,0,,MESSI
+Dialogue: 0,0:00:08.95,0:00:09.44,Default,,0,0,0,,GIUSTI
+Dialogue: 0,0:00:09.44,0:00:09.69,Default,,0,0,0,,NEI
+Dialogue: 0,0:00:09.69,0:00:10.03,Default,,0,0,0,,VARI
+Dialogue: 0,0:00:10.03,0:00:10.44,Default,,0,0,0,,CLIP.

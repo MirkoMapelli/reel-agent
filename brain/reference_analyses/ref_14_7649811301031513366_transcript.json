@@ -1,0 +1,1752 @@
+{
+  "ref_id": "ref_14_7649811301031513366",
+  "video": "/opt/reel-agent/media/style_ref/ref_14_7649811301031513366.mp4",
+  "n_segments": 17,
+  "n_words": 276,
+  "n_shots": 39,
+  "full_text": "Un panino che vi può far vincere un viaggio a New York, Chicago e Los Angeles. Sì ragazzi oggi siamo da America's a provare la limite di edition di giugno per festeggiare in 10 anni dalla loro apertura. Noi abbiamo iniziato con questi nachos e queste lemon pepper fries. Nachos con guacamole, fagioli, cheddar, picco de gallo, coriandolo e cream cheese. E fries anche loro con cheddar al fuso, mayonnaise al pepe e lime. Ragazzi queste patatine sono davvero una bomba una tira l'altra e questo lime da proprio quel senso di freschezza. Come di che siamo appunto passati allora a burger? Provandolo, smash alla Bama con anche le fries alla Bama. Quindi doppio patti smesciato, cheddar, cipolla fritta, ketchup, insalata e salsa 1000 island e alla Bama white BBQ. Un panino davvero folle, smesciato alla grande e accompagnato con queste patatine con la salsa alla Bama white BBQ, cedare e cipolla cranci che hanno creato una combo clamo rosa. Così come è stato clamo rosa la loro limite di edition di giugno ovvero il loro Chicago Smoke Burger. Un panino con 200 grammi di burger, pullet pork, bacon, cheddar, ciotro linee e salsa a bbq. E con il quale potete appunto iscrivervi a loro programma loyalty per poter vincere un viaggio nel città americano di New York, Chicago e Los Angeles. Due ingressi per un famoso parco divertimenti a Parigi o un buon ondo a spendere d'America. Noi abbiamo poi concluso il nostro pasto con questa cheesecake ai frutti di bosco e la key lime pie. Quindi ragazzi per festeggiare i 10 anni di America scorrete a provare il loro Chicago Smoke Burger.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Un panino che vi può far vincere un viaggio a New York, Chicago e Los Angeles."
+    },
+    {
+      "start": 3.68,
+      "end": 9.08,
+      "text": "Sì ragazzi oggi siamo da America's a provare la limite di edition di giugno per festeggiare in 10 anni dalla loro apertura."
+    },
+    {
+      "start": 9.18,
+      "end": 12.6,
+      "text": "Noi abbiamo iniziato con questi nachos e queste lemon pepper fries."
+    },
+    {
+      "start": 12.86,
+      "end": 16.98,
+      "text": "Nachos con guacamole, fagioli, cheddar, picco de gallo, coriandolo e cream cheese."
+    },
+    {
+      "start": 17.14,
+      "end": 20.38,
+      "text": "E fries anche loro con cheddar al fuso, mayonnaise al pepe e lime."
+    },
+    {
+      "start": 20.58,
+      "end": 25.78,
+      "text": "Ragazzi queste patatine sono davvero una bomba una tira l'altra e questo lime da proprio quel senso di freschezza."
+    },
+    {
+      "start": 25.78,
+      "end": 27.52,
+      "text": "Come di che siamo appunto passati allora a burger?"
+    },
+    {
+      "start": 27.8,
+      "end": 30.32,
+      "text": "Provandolo, smash alla Bama con anche le fries alla Bama."
+    },
+    {
+      "start": 30.36,
+      "end": 36.6,
+      "text": "Quindi doppio patti smesciato, cheddar, cipolla fritta, ketchup, insalata e salsa 1000 island e alla Bama white BBQ."
+    },
+    {
+      "start": 36.92,
+      "end": 42.16,
+      "text": "Un panino davvero folle, smesciato alla grande e accompagnato con queste patatine con la salsa alla Bama white BBQ,"
+    },
+    {
+      "start": 42.4,
+      "end": 45.88,
+      "text": "cedare e cipolla cranci che hanno creato una combo clamo rosa."
+    },
+    {
+      "start": 46.0,
+      "end": 50.42,
+      "text": "Così come è stato clamo rosa la loro limite di edition di giugno ovvero il loro Chicago Smoke Burger."
+    },
+    {
+      "start": 50.6,
+      "end": 55.5,
+      "text": "Un panino con 200 grammi di burger, pullet pork, bacon, cheddar, ciotro linee e salsa a bbq."
+    },
+    {
+      "start": 55.5,
+      "end": 61.62,
+      "text": "E con il quale potete appunto iscrivervi a loro programma loyalty per poter vincere un viaggio nel città americano di New York, Chicago e Los Angeles."
+    },
+    {
+      "start": 61.82,
+      "end": 65.26,
+      "text": "Due ingressi per un famoso parco divertimenti a Parigi o un buon ondo a spendere d'America."
+    },
+    {
+      "start": 65.36,
+      "end": 69.54,
+      "text": "Noi abbiamo poi concluso il nostro pasto con questa cheesecake ai frutti di bosco e la key lime pie."
+    },
+    {
+      "start": 69.68,
+      "end": 73.48,
+      "text": "Quindi ragazzi per festeggiare i 10 anni di America scorrete a provare il loro Chicago Smoke Burger."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "word": "Un"
+    },
+    {
+      "start": 0.28,
+      "end": 0.6,
+      "word": "panino"
+    },
+    {
+      "start": 0.6,
+      "end": 0.74,
+      "word": "che"
+    },
+    {
+      "start": 0.74,
+      "end": 0.84,
+      "word": "vi"
+    },
+    {
+      "start": 0.84,
+      "end": 0.98,
+      "word": "può"
+    },
+    {
+      "start": 0.98,
+      "end": 1.14,
+      "word": "far"
+    },
+    {
+      "start": 1.14,
+      "end": 1.44,
+      "word": "vincere"
+    },
+    {
+      "start": 1.44,
+      "end": 1.54,
+      "word": "un"
+    },
+    {
+      "start": 1.54,
+      "end": 1.76,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.76,
+      "end": 1.96,
+      "word": "a"
+    },
+    {
+      "start": 1.96,
+      "end": 1.96,
+      "word": "New"
+    },
+    {
+      "start": 1.96,
+      "end": 2.2,
+      "word": "York,"
+    },
+    {
+      "start": 2.4,
+      "end": 2.7,
+      "word": "Chicago"
+    },
+    {
+      "start": 2.7,
+      "end": 2.96,
+      "word": "e"
+    },
+    {
+      "start": 2.96,
+      "end": 3.1,
+      "word": "Los"
+    },
+    {
+      "start": 3.1,
+      "end": 3.5,
+      "word": "Angeles."
+    },
+    {
+      "start": 3.68,
+      "end": 3.76,
+      "word": "Sì"
+    },
+    {
+      "start": 3.76,
+      "end": 4.02,
+      "word": "ragazzi"
+    },
+    {
+      "start": 4.02,
+      "end": 4.16,
+      "word": "oggi"
+    },
+    {
+      "start": 4.16,
+      "end": 4.34,
+      "word": "siamo"
+    },
+    {
+      "start": 4.34,
+      "end": 4.52,
+      "word": "da"
+    },
+    {
+      "start": 4.52,
+      "end": 5.14,
+      "word": "America's"
+    },
+    {
+      "start": 5.14,
+      "end": 5.24,
+      "word": "a"
+    },
+    {
+      "start": 5.24,
+      "end": 5.54,
+      "word": "provare"
+    },
+    {
+      "start": 5.54,
+      "end": 5.7,
+      "word": "la"
+    },
+    {
+      "start": 5.7,
+      "end": 5.88,
+      "word": "limite"
+    },
+    {
+      "start": 5.88,
+      "end": 6.04,
+      "word": "di"
+    },
+    {
+      "start": 6.04,
+      "end": 6.36,
+      "word": "edition"
+    },
+    {
+      "start": 6.36,
+      "end": 6.56,
+      "word": "di"
+    },
+    {
+      "start": 6.56,
+      "end": 6.94,
+      "word": "giugno"
+    },
+    {
+      "start": 6.94,
+      "end": 7.16,
+      "word": "per"
+    },
+    {
+      "start": 7.16,
+      "end": 7.62,
+      "word": "festeggiare"
+    },
+    {
+      "start": 7.62,
+      "end": 7.74,
+      "word": "in"
+    },
+    {
+      "start": 7.74,
+      "end": 7.88,
+      "word": "10"
+    },
+    {
+      "start": 7.88,
+      "end": 8.24,
+      "word": "anni"
+    },
+    {
+      "start": 8.24,
+      "end": 8.42,
+      "word": "dalla"
+    },
+    {
+      "start": 8.42,
+      "end": 8.64,
+      "word": "loro"
+    },
+    {
+      "start": 8.64,
+      "end": 9.08,
+      "word": "apertura."
+    },
+    {
+      "start": 9.18,
+      "end": 9.32,
+      "word": "Noi"
+    },
+    {
+      "start": 9.32,
+      "end": 9.48,
+      "word": "abbiamo"
+    },
+    {
+      "start": 9.48,
+      "end": 9.88,
+      "word": "iniziato"
+    },
+    {
+      "start": 9.88,
+      "end": 10.02,
+      "word": "con"
+    },
+    {
+      "start": 10.02,
+      "end": 10.28,
+      "word": "questi"
+    },
+    {
+      "start": 10.28,
+      "end": 10.78,
+      "word": "nachos"
+    },
+    {
+      "start": 10.78,
+      "end": 11.14,
+      "word": "e"
+    },
+    {
+      "start": 11.14,
+      "end": 11.4,
+      "word": "queste"
+    },
+    {
+      "start": 11.4,
+      "end": 11.78,
+      "word": "lemon"
+    },
+    {
+      "start": 11.78,
+      "end": 12.08,
+      "word": "pepper"
+    },
+    {
+      "start": 12.08,
+      "end": 12.6,
+      "word": "fries."
+    },
+    {
+      "start": 12.86,
+      "end": 13.16,
+      "word": "Nachos"
+    },
+    {
+      "start": 13.16,
+      "end": 13.36,
+      "word": "con"
+    },
+    {
+      "start": 13.36,
+      "end": 13.92,
+      "word": "guacamole,"
+    },
+    {
+      "start": 14.0,
+      "end": 14.46,
+      "word": "fagioli,"
+    },
+    {
+      "start": 14.66,
+      "end": 14.86,
+      "word": "cheddar,"
+    },
+    {
+      "start": 15.08,
+      "end": 15.22,
+      "word": "picco"
+    },
+    {
+      "start": 15.22,
+      "end": 15.32,
+      "word": "de"
+    },
+    {
+      "start": 15.32,
+      "end": 15.72,
+      "word": "gallo,"
+    },
+    {
+      "start": 15.8,
+      "end": 16.36,
+      "word": "coriandolo"
+    },
+    {
+      "start": 16.36,
+      "end": 16.52,
+      "word": "e"
+    },
+    {
+      "start": 16.52,
+      "end": 16.68,
+      "word": "cream"
+    },
+    {
+      "start": 16.68,
+      "end": 16.98,
+      "word": "cheese."
+    },
+    {
+      "start": 17.14,
+      "end": 17.2,
+      "word": "E"
+    },
+    {
+      "start": 17.2,
+      "end": 17.46,
+      "word": "fries"
+    },
+    {
+      "start": 17.46,
+      "end": 17.72,
+      "word": "anche"
+    },
+    {
+      "start": 17.72,
+      "end": 17.98,
+      "word": "loro"
+    },
+    {
+      "start": 17.98,
+      "end": 18.18,
+      "word": "con"
+    },
+    {
+      "start": 18.18,
+      "end": 18.4,
+      "word": "cheddar"
+    },
+    {
+      "start": 18.4,
+      "end": 18.64,
+      "word": "al"
+    },
+    {
+      "start": 18.64,
+      "end": 18.84,
+      "word": "fuso,"
+    },
+    {
+      "start": 19.02,
+      "end": 19.22,
+      "word": "mayonnaise"
+    },
+    {
+      "start": 19.22,
+      "end": 19.52,
+      "word": "al"
+    },
+    {
+      "start": 19.52,
+      "end": 19.78,
+      "word": "pepe"
+    },
+    {
+      "start": 19.78,
+      "end": 20.04,
+      "word": "e"
+    },
+    {
+      "start": 20.04,
+      "end": 20.38,
+      "word": "lime."
+    },
+    {
+      "start": 20.58,
+      "end": 20.84,
+      "word": "Ragazzi"
+    },
+    {
+      "start": 20.84,
+      "end": 21.04,
+      "word": "queste"
+    },
+    {
+      "start": 21.04,
+      "end": 21.4,
+      "word": "patatine"
+    },
+    {
+      "start": 21.4,
+      "end": 21.6,
+      "word": "sono"
+    },
+    {
+      "start": 21.6,
+      "end": 22.06,
+      "word": "davvero"
+    },
+    {
+      "start": 22.06,
+      "end": 22.24,
+      "word": "una"
+    },
+    {
+      "start": 22.24,
+      "end": 22.66,
+      "word": "bomba"
+    },
+    {
+      "start": 22.66,
+      "end": 22.92,
+      "word": "una"
+    },
+    {
+      "start": 22.92,
+      "end": 23.16,
+      "word": "tira"
+    },
+    {
+      "start": 23.16,
+      "end": 23.3,
+      "word": "l"
+    },
+    {
+      "start": 23.3,
+      "end": 23.54,
+      "word": "'altra"
+    },
+    {
+      "start": 23.54,
+      "end": 23.78,
+      "word": "e"
+    },
+    {
+      "start": 23.78,
+      "end": 24.02,
+      "word": "questo"
+    },
+    {
+      "start": 24.02,
+      "end": 24.28,
+      "word": "lime"
+    },
+    {
+      "start": 24.28,
+      "end": 24.42,
+      "word": "da"
+    },
+    {
+      "start": 24.42,
+      "end": 24.62,
+      "word": "proprio"
+    },
+    {
+      "start": 24.62,
+      "end": 24.82,
+      "word": "quel"
+    },
+    {
+      "start": 24.82,
+      "end": 25.08,
+      "word": "senso"
+    },
+    {
+      "start": 25.08,
+      "end": 25.18,
+      "word": "di"
+    },
+    {
+      "start": 25.18,
+      "end": 25.78,
+      "word": "freschezza."
+    },
+    {
+      "start": 25.78,
+      "end": 25.96,
+      "word": "Come"
+    },
+    {
+      "start": 25.96,
+      "end": 26.04,
+      "word": "di"
+    },
+    {
+      "start": 26.04,
+      "end": 26.14,
+      "word": "che"
+    },
+    {
+      "start": 26.14,
+      "end": 26.32,
+      "word": "siamo"
+    },
+    {
+      "start": 26.32,
+      "end": 26.54,
+      "word": "appunto"
+    },
+    {
+      "start": 26.54,
+      "end": 26.92,
+      "word": "passati"
+    },
+    {
+      "start": 26.92,
+      "end": 27.1,
+      "word": "allora"
+    },
+    {
+      "start": 27.1,
+      "end": 27.3,
+      "word": "a"
+    },
+    {
+      "start": 27.3,
+      "end": 27.52,
+      "word": "burger?"
+    },
+    {
+      "start": 27.8,
+      "end": 28.24,
+      "word": "Provandolo,"
+    },
+    {
+      "start": 28.32,
+      "end": 28.44,
+      "word": "smash"
+    },
+    {
+      "start": 28.44,
+      "end": 28.66,
+      "word": "alla"
+    },
+    {
+      "start": 28.66,
+      "end": 28.86,
+      "word": "Bama"
+    },
+    {
+      "start": 28.86,
+      "end": 29.06,
+      "word": "con"
+    },
+    {
+      "start": 29.06,
+      "end": 29.28,
+      "word": "anche"
+    },
+    {
+      "start": 29.28,
+      "end": 29.44,
+      "word": "le"
+    },
+    {
+      "start": 29.44,
+      "end": 29.72,
+      "word": "fries"
+    },
+    {
+      "start": 29.72,
+      "end": 29.96,
+      "word": "alla"
+    },
+    {
+      "start": 29.96,
+      "end": 30.32,
+      "word": "Bama."
+    },
+    {
+      "start": 30.36,
+      "end": 30.52,
+      "word": "Quindi"
+    },
+    {
+      "start": 30.52,
+      "end": 30.88,
+      "word": "doppio"
+    },
+    {
+      "start": 30.88,
+      "end": 31.18,
+      "word": "patti"
+    },
+    {
+      "start": 31.18,
+      "end": 31.78,
+      "word": "smesciato,"
+    },
+    {
+      "start": 31.92,
+      "end": 32.1,
+      "word": "cheddar,"
+    },
+    {
+      "start": 32.34,
+      "end": 32.5,
+      "word": "cipolla"
+    },
+    {
+      "start": 32.5,
+      "end": 32.88,
+      "word": "fritta,"
+    },
+    {
+      "start": 32.98,
+      "end": 33.24,
+      "word": "ketchup,"
+    },
+    {
+      "start": 33.42,
+      "end": 33.94,
+      "word": "insalata"
+    },
+    {
+      "start": 33.94,
+      "end": 34.12,
+      "word": "e"
+    },
+    {
+      "start": 34.12,
+      "end": 34.34,
+      "word": "salsa"
+    },
+    {
+      "start": 34.34,
+      "end": 34.86,
+      "word": "1000"
+    },
+    {
+      "start": 34.86,
+      "end": 35.18,
+      "word": "island"
+    },
+    {
+      "start": 35.18,
+      "end": 35.48,
+      "word": "e"
+    },
+    {
+      "start": 35.48,
+      "end": 35.6,
+      "word": "alla"
+    },
+    {
+      "start": 35.6,
+      "end": 35.88,
+      "word": "Bama"
+    },
+    {
+      "start": 35.88,
+      "end": 36.28,
+      "word": "white"
+    },
+    {
+      "start": 36.28,
+      "end": 36.6,
+      "word": "BBQ."
+    },
+    {
+      "start": 36.92,
+      "end": 37.02,
+      "word": "Un"
+    },
+    {
+      "start": 37.02,
+      "end": 37.34,
+      "word": "panino"
+    },
+    {
+      "start": 37.34,
+      "end": 37.72,
+      "word": "davvero"
+    },
+    {
+      "start": 37.72,
+      "end": 38.1,
+      "word": "folle,"
+    },
+    {
+      "start": 38.22,
+      "end": 38.6,
+      "word": "smesciato"
+    },
+    {
+      "start": 38.6,
+      "end": 38.74,
+      "word": "alla"
+    },
+    {
+      "start": 38.74,
+      "end": 39.12,
+      "word": "grande"
+    },
+    {
+      "start": 39.12,
+      "end": 39.28,
+      "word": "e"
+    },
+    {
+      "start": 39.28,
+      "end": 39.68,
+      "word": "accompagnato"
+    },
+    {
+      "start": 39.68,
+      "end": 39.82,
+      "word": "con"
+    },
+    {
+      "start": 39.82,
+      "end": 40.02,
+      "word": "queste"
+    },
+    {
+      "start": 40.02,
+      "end": 40.56,
+      "word": "patatine"
+    },
+    {
+      "start": 40.56,
+      "end": 40.74,
+      "word": "con"
+    },
+    {
+      "start": 40.74,
+      "end": 40.86,
+      "word": "la"
+    },
+    {
+      "start": 40.86,
+      "end": 41.04,
+      "word": "salsa"
+    },
+    {
+      "start": 41.04,
+      "end": 41.24,
+      "word": "alla"
+    },
+    {
+      "start": 41.24,
+      "end": 41.44,
+      "word": "Bama"
+    },
+    {
+      "start": 41.44,
+      "end": 41.76,
+      "word": "white"
+    },
+    {
+      "start": 41.76,
+      "end": 42.16,
+      "word": "BBQ,"
+    },
+    {
+      "start": 42.4,
+      "end": 42.7,
+      "word": "cedare"
+    },
+    {
+      "start": 42.7,
+      "end": 42.82,
+      "word": "e"
+    },
+    {
+      "start": 42.82,
+      "end": 43.06,
+      "word": "cipolla"
+    },
+    {
+      "start": 43.06,
+      "end": 43.44,
+      "word": "cranci"
+    },
+    {
+      "start": 43.44,
+      "end": 43.7,
+      "word": "che"
+    },
+    {
+      "start": 43.7,
+      "end": 43.86,
+      "word": "hanno"
+    },
+    {
+      "start": 43.86,
+      "end": 44.14,
+      "word": "creato"
+    },
+    {
+      "start": 44.14,
+      "end": 44.26,
+      "word": "una"
+    },
+    {
+      "start": 44.26,
+      "end": 44.52,
+      "word": "combo"
+    },
+    {
+      "start": 44.52,
+      "end": 45.04,
+      "word": "clamo"
+    },
+    {
+      "start": 45.04,
+      "end": 45.88,
+      "word": "rosa."
+    },
+    {
+      "start": 46.0,
+      "end": 46.18,
+      "word": "Così"
+    },
+    {
+      "start": 46.18,
+      "end": 46.34,
+      "word": "come"
+    },
+    {
+      "start": 46.34,
+      "end": 46.42,
+      "word": "è"
+    },
+    {
+      "start": 46.42,
+      "end": 46.52,
+      "word": "stato"
+    },
+    {
+      "start": 46.52,
+      "end": 46.76,
+      "word": "clamo"
+    },
+    {
+      "start": 46.76,
+      "end": 47.14,
+      "word": "rosa"
+    },
+    {
+      "start": 47.14,
+      "end": 47.32,
+      "word": "la"
+    },
+    {
+      "start": 47.32,
+      "end": 47.52,
+      "word": "loro"
+    },
+    {
+      "start": 47.52,
+      "end": 47.78,
+      "word": "limite"
+    },
+    {
+      "start": 47.78,
+      "end": 47.96,
+      "word": "di"
+    },
+    {
+      "start": 47.96,
+      "end": 48.26,
+      "word": "edition"
+    },
+    {
+      "start": 48.26,
+      "end": 48.4,
+      "word": "di"
+    },
+    {
+      "start": 48.4,
+      "end": 48.72,
+      "word": "giugno"
+    },
+    {
+      "start": 48.72,
+      "end": 48.96,
+      "word": "ovvero"
+    },
+    {
+      "start": 48.96,
+      "end": 49.08,
+      "word": "il"
+    },
+    {
+      "start": 49.08,
+      "end": 49.16,
+      "word": "loro"
+    },
+    {
+      "start": 49.16,
+      "end": 49.58,
+      "word": "Chicago"
+    },
+    {
+      "start": 49.58,
+      "end": 49.92,
+      "word": "Smoke"
+    },
+    {
+      "start": 49.92,
+      "end": 50.42,
+      "word": "Burger."
+    },
+    {
+      "start": 50.6,
+      "end": 50.7,
+      "word": "Un"
+    },
+    {
+      "start": 50.7,
+      "end": 50.96,
+      "word": "panino"
+    },
+    {
+      "start": 50.96,
+      "end": 51.14,
+      "word": "con"
+    },
+    {
+      "start": 51.14,
+      "end": 51.34,
+      "word": "200"
+    },
+    {
+      "start": 51.34,
+      "end": 51.68,
+      "word": "grammi"
+    },
+    {
+      "start": 51.68,
+      "end": 51.78,
+      "word": "di"
+    },
+    {
+      "start": 51.78,
+      "end": 52.04,
+      "word": "burger,"
+    },
+    {
+      "start": 52.24,
+      "end": 52.54,
+      "word": "pullet"
+    },
+    {
+      "start": 52.54,
+      "end": 52.84,
+      "word": "pork,"
+    },
+    {
+      "start": 53.08,
+      "end": 53.24,
+      "word": "bacon,"
+    },
+    {
+      "start": 53.48,
+      "end": 53.74,
+      "word": "cheddar,"
+    },
+    {
+      "start": 53.98,
+      "end": 54.18,
+      "word": "ciotro"
+    },
+    {
+      "start": 54.18,
+      "end": 54.64,
+      "word": "linee"
+    },
+    {
+      "start": 54.64,
+      "end": 54.76,
+      "word": "e"
+    },
+    {
+      "start": 54.76,
+      "end": 54.96,
+      "word": "salsa"
+    },
+    {
+      "start": 54.96,
+      "end": 55.22,
+      "word": "a"
+    },
+    {
+      "start": 55.22,
+      "end": 55.5,
+      "word": "bbq."
+    },
+    {
+      "start": 55.5,
+      "end": 55.64,
+      "word": "E"
+    },
+    {
+      "start": 55.64,
+      "end": 55.78,
+      "word": "con"
+    },
+    {
+      "start": 55.78,
+      "end": 55.88,
+      "word": "il"
+    },
+    {
+      "start": 55.88,
+      "end": 56.08,
+      "word": "quale"
+    },
+    {
+      "start": 56.08,
+      "end": 56.3,
+      "word": "potete"
+    },
+    {
+      "start": 56.3,
+      "end": 56.54,
+      "word": "appunto"
+    },
+    {
+      "start": 56.54,
+      "end": 57.04,
+      "word": "iscrivervi"
+    },
+    {
+      "start": 57.04,
+      "end": 57.14,
+      "word": "a"
+    },
+    {
+      "start": 57.14,
+      "end": 57.28,
+      "word": "loro"
+    },
+    {
+      "start": 57.28,
+      "end": 57.7,
+      "word": "programma"
+    },
+    {
+      "start": 57.7,
+      "end": 58.1,
+      "word": "loyalty"
+    },
+    {
+      "start": 58.1,
+      "end": 58.36,
+      "word": "per"
+    },
+    {
+      "start": 58.36,
+      "end": 58.66,
+      "word": "poter"
+    },
+    {
+      "start": 58.66,
+      "end": 58.98,
+      "word": "vincere"
+    },
+    {
+      "start": 58.98,
+      "end": 59.08,
+      "word": "un"
+    },
+    {
+      "start": 59.08,
+      "end": 59.3,
+      "word": "viaggio"
+    },
+    {
+      "start": 59.3,
+      "end": 59.44,
+      "word": "nel"
+    },
+    {
+      "start": 59.44,
+      "end": 59.7,
+      "word": "città"
+    },
+    {
+      "start": 59.7,
+      "end": 60.06,
+      "word": "americano"
+    },
+    {
+      "start": 60.06,
+      "end": 60.2,
+      "word": "di"
+    },
+    {
+      "start": 60.2,
+      "end": 60.36,
+      "word": "New"
+    },
+    {
+      "start": 60.36,
+      "end": 60.6,
+      "word": "York,"
+    },
+    {
+      "start": 60.72,
+      "end": 61.0,
+      "word": "Chicago"
+    },
+    {
+      "start": 61.0,
+      "end": 61.16,
+      "word": "e"
+    },
+    {
+      "start": 61.16,
+      "end": 61.26,
+      "word": "Los"
+    },
+    {
+      "start": 61.26,
+      "end": 61.62,
+      "word": "Angeles."
+    },
+    {
+      "start": 61.82,
+      "end": 61.94,
+      "word": "Due"
+    },
+    {
+      "start": 61.94,
+      "end": 62.28,
+      "word": "ingressi"
+    },
+    {
+      "start": 62.28,
+      "end": 62.38,
+      "word": "per"
+    },
+    {
+      "start": 62.38,
+      "end": 62.46,
+      "word": "un"
+    },
+    {
+      "start": 62.46,
+      "end": 62.64,
+      "word": "famoso"
+    },
+    {
+      "start": 62.64,
+      "end": 63.04,
+      "word": "parco"
+    },
+    {
+      "start": 63.04,
+      "end": 63.6,
+      "word": "divertimenti"
+    },
+    {
+      "start": 63.6,
+      "end": 63.64,
+      "word": "a"
+    },
+    {
+      "start": 63.64,
+      "end": 64.0,
+      "word": "Parigi"
+    },
+    {
+      "start": 64.0,
+      "end": 64.12,
+      "word": "o"
+    },
+    {
+      "start": 64.12,
+      "end": 64.16,
+      "word": "un"
+    },
+    {
+      "start": 64.16,
+      "end": 64.32,
+      "word": "buon"
+    },
+    {
+      "start": 64.32,
+      "end": 64.44,
+      "word": "ondo"
+    },
+    {
+      "start": 64.44,
+      "end": 64.46,
+      "word": "a"
+    },
+    {
+      "start": 64.46,
+      "end": 64.76,
+      "word": "spendere"
+    },
+    {
+      "start": 64.76,
+      "end": 64.84,
+      "word": "d"
+    },
+    {
+      "start": 64.84,
+      "end": 65.26,
+      "word": "'America."
+    },
+    {
+      "start": 65.36,
+      "end": 65.62,
+      "word": "Noi"
+    },
+    {
+      "start": 65.62,
+      "end": 65.74,
+      "word": "abbiamo"
+    },
+    {
+      "start": 65.74,
+      "end": 65.88,
+      "word": "poi"
+    },
+    {
+      "start": 65.88,
+      "end": 66.28,
+      "word": "concluso"
+    },
+    {
+      "start": 66.28,
+      "end": 66.32,
+      "word": "il"
+    },
+    {
+      "start": 66.32,
+      "end": 66.48,
+      "word": "nostro"
+    },
+    {
+      "start": 66.48,
+      "end": 66.96,
+      "word": "pasto"
+    },
+    {
+      "start": 66.96,
+      "end": 67.08,
+      "word": "con"
+    },
+    {
+      "start": 67.08,
+      "end": 67.34,
+      "word": "questa"
+    },
+    {
+      "start": 67.34,
+      "end": 67.84,
+      "word": "cheesecake"
+    },
+    {
+      "start": 67.84,
+      "end": 68.06,
+      "word": "ai"
+    },
+    {
+      "start": 68.06,
+      "end": 68.32,
+      "word": "frutti"
+    },
+    {
+      "start": 68.32,
+      "end": 68.4,
+      "word": "di"
+    },
+    {
+      "start": 68.4,
+      "end": 68.74,
+      "word": "bosco"
+    },
+    {
+      "start": 68.74,
+      "end": 68.82,
+      "word": "e"
+    },
+    {
+      "start": 68.82,
+      "end": 68.92,
+      "word": "la"
+    },
+    {
+      "start": 68.92,
+      "end": 69.04,
+      "word": "key"
+    },
+    {
+      "start": 69.04,
+      "end": 69.2,
+      "word": "lime"
+    },
+    {
+      "start": 69.2,
+      "end": 69.54,
+      "word": "pie."
+    },
+    {
+      "start": 69.68,
+      "end": 69.78,
+      "word": "Quindi"
+    },
+    {
+      "start": 69.78,
+      "end": 70.08,
+      "word": "ragazzi"
+    },
+    {
+      "start": 70.08,
+      "end": 70.2,
+      "word": "per"
+    },
+    {
+      "start": 70.2,
+      "end": 70.68,
+      "word": "festeggiare"
+    },
+    {
+      "start": 70.68,
+      "end": 70.76,
+      "word": "i"
+    },
+    {
+      "start": 70.76,
+      "end": 70.88,
+      "word": "10"
+    },
+    {
+      "start": 70.88,
+      "end": 71.02,
+      "word": "anni"
+    },
+    {
+      "start": 71.02,
+      "end": 71.12,
+      "word": "di"
+    },
+    {
+      "start": 71.12,
+      "end": 71.36,
+      "word": "America"
+    },
+    {
+      "start": 71.36,
+      "end": 71.84,
+      "word": "scorrete"
+    },
+    {
+      "start": 71.84,
+      "end": 71.92,
+      "word": "a"
+    },
+    {
+      "start": 71.92,
+      "end": 72.24,
+      "word": "provare"
+    },
+    {
+      "start": 72.24,
+      "end": 72.32,
+      "word": "il"
+    },
+    {
+      "start": 72.32,
+      "end": 72.42,
+      "word": "loro"
+    },
+    {
+      "start": 72.42,
+      "end": 72.78,
+      "word": "Chicago"
+    },
+    {
+      "start": 72.78,
+      "end": 73.06,
+      "word": "Smoke"
+    },
+    {
+      "start": 73.06,
+      "end": 73.48,
+      "word": "Burger."
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "Un panino che vi può far vincere un viaggio a New"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.267,
+      "dur": 2.233,
+      "transcript": "York, Chicago e Los Angeles. Sì ragazzi oggi siamo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.267,
+      "end": 5.833,
+      "dur": 1.567,
+      "transcript": "da America's a provare la limite"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.833,
+      "end": 7.2,
+      "dur": 1.367,
+      "transcript": "di edition di giugno per"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.2,
+      "end": 8.767,
+      "dur": 1.567,
+      "transcript": "festeggiare in 10 anni dalla loro"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.767,
+      "end": 13.367,
+      "dur": 4.6,
+      "transcript": "apertura. Noi abbiamo iniziato con questi nachos e queste lemon pepper fries. Nachos con"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.367,
+      "end": 15.0,
+      "dur": 1.633,
+      "transcript": "guacamole, fagioli, cheddar,"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.0,
+      "end": 16.633,
+      "dur": 1.633,
+      "transcript": "picco de gallo, coriandolo e cream"
+    },
+    {
+      "shot_idx": 8,
+      "start": 16.633,
+      "end": 18.267,
+      "dur": 1.633,
+      "transcript": "cheese. E fries anche loro con"
+    },
+    {
+      "shot_idx": 9,
+      "start": 18.267,
+      "end": 19.667,
+      "dur": 1.4,
+      "transcript": "cheddar al fuso, mayonnaise al pepe"
+    },
+    {
+      "shot_idx": 10,
+      "start": 19.667,
+      "end": 21.6,
+      "dur": 1.933,
+      "transcript": "e lime. Ragazzi queste patatine sono"
+    },
+    {
+      "shot_idx": 11,
+      "start": 21.6,
+      "end": 23.6,
+      "dur": 2.0,
+      "transcript": "davvero una bomba una tira l 'altra"
+    },
+    {
+      "shot_idx": 12,
+      "start": 23.6,
+      "end": 24.767,
+      "dur": 1.167,
+      "transcript": "e questo lime da proprio quel"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.767,
+      "end": 27.533,
+      "dur": 2.767,
+      "transcript": "senso di freschezza. Come di che siamo appunto passati allora a burger?"
+    },
+    {
+      "shot_idx": 14,
+      "start": 27.533,
+      "end": 30.033,
+      "dur": 2.5,
+      "transcript": "Provandolo, smash alla Bama con anche le fries alla"
+    },
+    {
+      "shot_idx": 15,
+      "start": 30.033,
+      "end": 32.633,
+      "dur": 2.6,
+      "transcript": "Bama. Quindi doppio patti smesciato, cheddar, cipolla"
+    },
+    {
+      "shot_idx": 16,
+      "start": 32.633,
+      "end": 35.1,
+      "dur": 2.467,
+      "transcript": "fritta, ketchup, insalata e salsa 1000 island"
+    },
+    {
+      "shot_idx": 17,
+      "start": 35.1,
+      "end": 37.067,
+      "dur": 1.967,
+      "transcript": "e alla Bama white BBQ. Un"
+    },
+    {
+      "shot_idx": 18,
+      "start": 37.067,
+      "end": 39.033,
+      "dur": 1.967,
+      "transcript": "panino davvero folle, smesciato alla grande"
+    },
+    {
+      "shot_idx": 19,
+      "start": 39.033,
+      "end": 41.033,
+      "dur": 2.0,
+      "transcript": "e accompagnato con queste patatine con la salsa"
+    },
+    {
+      "shot_idx": 20,
+      "start": 41.033,
+      "end": 43.2,
+      "dur": 2.167,
+      "transcript": "alla Bama white BBQ, cedare e cipolla"
+    },
+    {
+      "shot_idx": 21,
+      "start": 43.2,
+      "end": 45.233,
+      "dur": 2.033,
+      "transcript": "cranci che hanno creato una combo clamo"
+    },
+    {
+      "shot_idx": 22,
+      "start": 45.233,
+      "end": 46.633,
+      "dur": 1.4,
+      "transcript": "rosa. Così come è stato"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.633,
+      "end": 49.133,
+      "dur": 2.5,
+      "transcript": "clamo rosa la loro limite di edition di giugno ovvero il loro"
+    },
+    {
+      "shot_idx": 24,
+      "start": 49.133,
+      "end": 51.4,
+      "dur": 2.267,
+      "transcript": "Chicago Smoke Burger. Un panino con 200"
+    },
+    {
+      "shot_idx": 25,
+      "start": 51.4,
+      "end": 52.8,
+      "dur": 1.4,
+      "transcript": "grammi di burger, pullet pork,"
+    },
+    {
+      "shot_idx": 26,
+      "start": 52.8,
+      "end": 55.033,
+      "dur": 2.233,
+      "transcript": "bacon, cheddar, ciotro linee e salsa"
+    },
+    {
+      "shot_idx": 27,
+      "start": 55.033,
+      "end": 57.2,
+      "dur": 2.167,
+      "transcript": "a bbq. E con il quale potete appunto iscrivervi a"
+    },
+    {
+      "shot_idx": 28,
+      "start": 57.2,
+      "end": 60.033,
+      "dur": 2.833,
+      "transcript": "loro programma loyalty per poter vincere un viaggio nel città americano"
+    },
+    {
+      "shot_idx": 29,
+      "start": 60.033,
+      "end": 61.633,
+      "dur": 1.6,
+      "transcript": "di New York, Chicago e Los Angeles."
+    },
+    {
+      "shot_idx": 30,
+      "start": 61.633,
+      "end": 63.133,
+      "dur": 1.5,
+      "transcript": "Due ingressi per un famoso parco"
+    },
+    {
+      "shot_idx": 31,
+      "start": 63.133,
+      "end": 64.1,
+      "dur": 0.967,
+      "transcript": "divertimenti a Parigi o"
+    },
+    {
+      "shot_idx": 32,
+      "start": 64.1,
+      "end": 65.333,
+      "dur": 1.233,
+      "transcript": "un buon ondo a spendere d 'America."
+    },
+    {
+      "shot_idx": 33,
+      "start": 65.333,
+      "end": 66.833,
+      "dur": 1.5,
+      "transcript": "Noi abbiamo poi concluso il nostro pasto"
+    },
+    {
+      "shot_idx": 34,
+      "start": 66.833,
+      "end": 68.4,
+      "dur": 1.567,
+      "transcript": "con questa cheesecake ai frutti di"
+    },
+    {
+      "shot_idx": 35,
+      "start": 68.4,
+      "end": 69.867,
+      "dur": 1.467,
+      "transcript": "bosco e la key lime pie. Quindi"
+    },
+    {
+      "shot_idx": 36,
+      "start": 69.867,
+      "end": 72.067,
+      "dur": 2.2,
+      "transcript": "ragazzi per festeggiare i 10 anni di America scorrete a"
+    },
+    {
+      "shot_idx": 37,
+      "start": 72.067,
+      "end": 73.767,
+      "dur": 1.7,
+      "transcript": "provare il loro Chicago Smoke Burger."
+    },
+    {
+      "shot_idx": 38,
+      "start": 73.767,
+      "end": 73.833,
+      "dur": 0.067,
+      "transcript": ""
+    }
+  ]
+}

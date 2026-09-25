@@ -1,0 +1,2928 @@
+{
+  "video_id": "7507255207726714134",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7507255207726714134",
+    "ref_id": "ref_84_7507255207726714134",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7507255207726714134",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 35,
+  "total_dur": 81.63,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.967,
+      "dur": 1.967,
+      "center": 0.983,
+      "role": "food_detail",
+      "subject": "pancakes con sciroppo",
+      "description": "Lo sciroppo che cola sui pancakes appena impiattati.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Il miglior branco di Milano, letteralmente"
+    },
+    {
+      "idx": 1,
+      "start": 1.967,
+      "end": 3.533,
+      "dur": 1.567,
+      "center": 2.75,
+      "role": "person_eating",
+      "subject": "ragazzo con bagel e toast",
+      "description": "Il ragazzo che mostra due piatti diversi, un bagel e un toast, con un edificio sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "davanti all 'arco della pace, oggi"
+    },
+    {
+      "idx": 2,
+      "start": 3.533,
+      "end": 4.967,
+      "dur": 1.433,
+      "center": 4.25,
+      "role": "food_detail",
+      "subject": "toast con uova e bacon",
+      "description": "Due fette di pane tostato con uova in camicia, bacon e erba cipollina.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "ragazzi vi porto da Dazzi Milano"
+    },
+    {
+      "idx": 3,
+      "start": 4.967,
+      "end": 7.0,
+      "dur": 2.033,
+      "center": 5.983,
+      "role": "food_plated",
+      "subject": "pancakes con panna",
+      "description": "Una pila di pancakes con zucchero a velo, panna montata e un fiore viola.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "a provare il loro branco disponibile dalle"
+    },
+    {
+      "idx": 4,
+      "start": 7.0,
+      "end": 8.567,
+      "dur": 1.567,
+      "center": 7.783,
+      "role": "person_eating",
+      "subject": "mani che tagliano pancake",
+      "description": "Le mani di una persona che tagliano un pancake con forchetta e coltello.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "unice alle 16 o New Cal Per"
+    },
+    {
+      "idx": 5,
+      "start": 8.567,
+      "end": 12.067,
+      "dur": 3.5,
+      "center": 10.317,
+      "role": "venue_exterior",
+      "subject": "edificio storico esterno",
+      "description": "L'imponente facciata di un edificio storico con colonne e un cartello 'BRUNCH'.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "iniziare non possiamo non notare la location che è veramente incredibile Noi"
+    },
+    {
+      "idx": 6,
+      "start": 12.067,
+      "end": 13.2,
+      "dur": 1.133,
+      "center": 12.633,
+      "role": "venue_exterior",
+      "subject": "Arco della Pace",
+      "description": "L'Arco della Pace con le sue sculture e il cielo azzurro.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abbiamo iniziato a gustarci un"
+    },
+    {
+      "idx": 7,
+      "start": 13.2,
+      "end": 15.067,
+      "dur": 1.867,
+      "center": 14.133,
+      "role": "person_eating",
+      "subject": "ragazzo mangia frutti",
+      "description": "Un ragazzo che sta per mangiare dei frutti di bosco mentre tiene un drink rosso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "diritto alcolico per poi passare alle due portate"
+    },
+    {
+      "idx": 8,
+      "start": 15.067,
+      "end": 17.033,
+      "dur": 1.967,
+      "center": 16.05,
+      "role": "person_eating",
+      "subject": "ragazzo beve cocktail",
+      "description": "Un ragazzo beve un cocktail rosso con frutti di bosco e menta, con un logo Calvin Klein sulla maglietta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "principali Con uova alla Benedict e"
+    },
+    {
+      "idx": 9,
+      "start": 17.033,
+      "end": 18.667,
+      "dur": 1.633,
+      "center": 17.85,
+      "role": "food_plated",
+      "subject": "uova alla Benedict",
+      "description": "Due uova alla Benedict su pane tostato con pancetta e salsa olandese.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "bagel salmore, entrambi veramente"
+    },
+    {
+      "idx": 10,
+      "start": 18.667,
+      "end": 22.867,
+      "dur": 4.2,
+      "center": 20.767,
+      "role": "food_closeup",
+      "subject": "bagel salmone spinaci",
+      "description": "Un bagel con salmone e spinaci è in primo piano, con la scritta 'ALLA' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "presentati benissimo Per quanto riguarda le uova alla Benedict abbiamo appunto delle uova al"
+    },
+    {
+      "idx": 11,
+      "start": 22.867,
+      "end": 25.6,
+      "dur": 2.733,
+      "center": 24.233,
+      "role": "food_detail",
+      "subject": "uovo in camicia",
+      "description": "Una persona taglia un uovo in camicia su una fetta di pane con bacon, rivelando il tuorlo liquido, con la scritta 'CREMOSO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "tenute col puorlo molto cremoso Servite con bacon e salsa"
+    },
+    {
+      "idx": 12,
+      "start": 25.6,
+      "end": 27.8,
+      "dur": 2.2,
+      "center": 26.7,
+      "role": "person_eating",
+      "subject": "ragazzo mangia uovo",
+      "description": "Un ragazzo sta mangiando un toast con uovo in camicia e bacon, con la scritta 'FETTE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "londese su due fette di panetto stato Dura"
+    },
+    {
+      "idx": 13,
+      "start": 27.8,
+      "end": 30.0,
+      "dur": 2.2,
+      "center": 28.9,
+      "role": "person_eating",
+      "subject": "ragazzo sorride cibo",
+      "description": "Il ragazzo sorride alla telecamera mentre tiene in mano il toast, con la scritta 'UOVA' in sovrimpressione e il logo Calvin Klein sulla maglietta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "del bacon e delle uova davvero perfetta e panne"
+    },
+    {
+      "idx": 14,
+      "start": 30.0,
+      "end": 32.567,
+      "dur": 2.567,
+      "center": 31.283,
+      "role": "person_eating",
+      "subject": "ragazzo mangia bagel",
+      "description": "Il ragazzo addenta un bagel con salmone e spinaci, con la scritta 'IL' in sovrimpressione e il logo Calvin Klein sulla maglietta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "che avrei apprezzato anche da solo Il bacon invece è farcito con"
+    },
+    {
+      "idx": 15,
+      "start": 32.567,
+      "end": 34.133,
+      "dur": 1.567,
+      "center": 33.35,
+      "role": "person_eating",
+      "subject": "ragazzo mangia bagel",
+      "description": "Un ragazzo sta addentando un bagel con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "salmone affumicato, mousse al formaggio"
+    },
+    {
+      "idx": 16,
+      "start": 34.133,
+      "end": 36.933,
+      "dur": 2.8,
+      "center": 35.533,
+      "role": "person_eating",
+      "subject": "ragazzo mangia bagel",
+      "description": "Il ragazzo ha appena morso il bagel e ha un po' di salsa bianca sul labbro superiore.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "alle erbe e spinacino Era veramente morbido e super"
+    },
+    {
+      "idx": 17,
+      "start": 36.933,
+      "end": 39.167,
+      "dur": 2.233,
+      "center": 38.05,
+      "role": "food_detail",
+      "subject": "bagel tagliato a metà",
+      "description": "Le mani di una persona tengono un bagel tagliato a metà, mostrando il ripieno di salmone, formaggio spalmabile e verdure.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "farcito ed direi che da un bacon non si può chiedere alzo"
+    },
+    {
+      "idx": 18,
+      "start": 39.167,
+      "end": 42.0,
+      "dur": 2.833,
+      "center": 40.583,
+      "role": "person_eating",
+      "subject": "ragazzo con patatine",
+      "description": "Un ragazzo tiene in mano due patatine fritte con ketchup, mentre un bagel è visibile sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Ed ovviamente è ottima anche le patatine che accompagnano tutti Stando"
+    },
+    {
+      "idx": 19,
+      "start": 42.0,
+      "end": 46.767,
+      "dur": 4.767,
+      "center": 44.383,
+      "role": "food_plated",
+      "subject": "dessert con fiori",
+      "description": "Un dessert composto da tre dolcetti spugnosi con crema e granella, decorati con piccoli fiori viola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "invece i piatti dolci abbiamo montitlami su 2 .0 E un piatto che per me rappresenta letteralmente"
+    },
+    {
+      "idx": 20,
+      "start": 46.767,
+      "end": 50.767,
+      "dur": 4.0,
+      "center": 48.767,
+      "role": "food_plated",
+      "subject": "pancakes con panna",
+      "description": "I pancakes sono il centro dell'attenzione, con panna e un fiore viola.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "il brancio Avere il pancake con lo sciroppo daccio Con un ottimo caffè seccherato da"
+    },
+    {
+      "idx": 21,
+      "start": 50.767,
+      "end": 53.2,
+      "dur": 2.433,
+      "center": 51.983,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Il ragazzo beve da un bicchiere, con i pancakes in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "accompagnare Vista la temperatura della giornata ho particolarmente"
+    },
+    {
+      "idx": 22,
+      "start": 53.2,
+      "end": 56.8,
+      "dur": 3.6,
+      "center": 55.0,
+      "role": "food_detail",
+      "subject": "sciroppo sui pancakes",
+      "description": "Lo sciroppo viene versato sui pancakes, creando un effetto visivo invitante.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "apprezzato Con il pancake ovviamente iniziato con la colata di sciroppo daccio Guardate"
+    },
+    {
+      "idx": 23,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6,
+      "center": 57.6,
+      "role": "food_detail",
+      "subject": "taglio dei pancakes",
+      "description": "Le mani tagliano i pancakes, mostrando la consistenza interna.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ragazzi che belli che erano"
+    },
+    {
+      "idx": 24,
+      "start": 58.4,
+      "end": 60.933,
+      "dur": 2.533,
+      "center": 59.667,
+      "role": "food_detail",
+      "subject": "interno dei pancakes",
+      "description": "Si vede l'interno soffice dei pancakes dopo il taglio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Morbidissimi, veramente soffici, ben lievitati Praticamente"
+    },
+    {
+      "idx": 25,
+      "start": 60.933,
+      "end": 62.633,
+      "dur": 1.7,
+      "center": 61.783,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Un ragazzo con una maglietta nera Calvin Klein sta mangiando un dolce con un cucchiaino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "i pancakes perfetti Mentre invece il"
+    },
+    {
+      "idx": 26,
+      "start": 62.633,
+      "end": 65.033,
+      "dur": 2.4,
+      "center": 63.833,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Il ragazzo continua a mangiare il dolce, con uno sfondo sfocato di un'area esterna.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "tiramisù è veramente stupido Essendo praticamente"
+    },
+    {
+      "idx": 27,
+      "start": 65.033,
+      "end": 70.4,
+      "dur": 5.367,
+      "center": 67.717,
+      "role": "food_detail",
+      "subject": "dolce al cucchiaio",
+      "description": "Un cucchiaino con un pezzo di dolce e panna montata è in primo piano sopra il piatto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "scomposto con tre spugne di nocciola al martini ambrato Che erano una cosa morbidissima E se accompagnate"
+    },
+    {
+      "idx": 28,
+      "start": 70.4,
+      "end": 71.433,
+      "dur": 1.033,
+      "center": 70.917,
+      "role": "person_eating",
+      "subject": "ragazzo guarda camera",
+      "description": "Il ragazzo guarda direttamente la telecamera con il piatto del dolce davanti a sé.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "con la mousse al mascarpone"
+    },
+    {
+      "idx": 29,
+      "start": 71.433,
+      "end": 75.033,
+      "dur": 3.6,
+      "center": 73.233,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Il ragazzo sta per portare un cucchiaino di dolce alla bocca, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "vaniglia e al crambolo al caffè Si componeva un tiramisù davvero"
+    },
+    {
+      "idx": 30,
+      "start": 75.033,
+      "end": 77.333,
+      "dur": 2.3,
+      "center": 76.183,
+      "role": "person_eating",
+      "subject": "ragazzo che beve birra",
+      "description": "Il ragazzo che beve da un calice di birra scura con uno sfondo urbano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "flammoroso Di somma ragazzi se nel"
+    },
+    {
+      "idx": 31,
+      "start": 77.333,
+      "end": 78.2,
+      "dur": 0.867,
+      "center": 77.767,
+      "role": "other",
+      "subject": "gambe che camminano",
+      "description": "Le gambe di una persona che cammina su un pavimento di piastrelle chiare.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "weekend avete voglia"
+    },
+    {
+      "idx": 32,
+      "start": 78.2,
+      "end": 79.2,
+      "dur": 1.0,
+      "center": 78.7,
+      "role": "venue_interior_wide",
+      "subject": "persone sedute all'aperto",
+      "description": "Una vista dall'alto di persone sedute su una scalinata e in un'area aperta con tende.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di farvi un brancio Di"
+    },
+    {
+      "idx": 33,
+      "start": 79.2,
+      "end": 80.933,
+      "dur": 1.733,
+      "center": 80.067,
+      "role": "venue_exterior",
+      "subject": "arco monumentale e persone",
+      "description": "Un'ampia veduta di un arco monumentale e persone in un'area aperta sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "godervi la bella stagione sapete dove andare"
+    },
+    {
+      "idx": 34,
+      "start": 80.933,
+      "end": 81.633,
+      "dur": 0.7,
+      "center": 81.283,
+      "role": "venue_exterior",
+      "subject": "arco della Pace",
+      "description": "Una prospettiva laterale dell'Arco della Pace con statue e colonne imponenti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "pancakes con sciroppo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Lo sciroppo che cola sui pancakes appena impiattati.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.967,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con bagel e toast",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo che mostra due piatti diversi, un bagel e un toast, con un edificio sullo sfondo.",
+      "shot_idx": 1,
+      "start": 1.967,
+      "end": 3.533,
+      "dur": 1.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "toast con uova e bacon",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Due fette di pane tostato con uova in camicia, bacon e erba cipollina.",
+      "shot_idx": 2,
+      "start": 3.533,
+      "end": 4.967,
+      "dur": 1.433
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "pancakes con panna",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una pila di pancakes con zucchero a velo, panna montata e un fiore viola.",
+      "shot_idx": 3,
+      "start": 4.967,
+      "end": 7.0,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "mani che tagliano pancake",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani di una persona che tagliano un pancake con forchetta e coltello.",
+      "shot_idx": 4,
+      "start": 7.0,
+      "end": 8.567,
+      "dur": 1.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio storico esterno",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'imponente facciata di un edificio storico con colonne e un cartello 'BRUNCH'.",
+      "shot_idx": 5,
+      "start": 8.567,
+      "end": 12.067,
+      "dur": 3.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "Arco della Pace",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'Arco della Pace con le sue sculture e il cielo azzurro.",
+      "shot_idx": 6,
+      "start": 12.067,
+      "end": 13.2,
+      "dur": 1.133
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia frutti",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo che sta per mangiare dei frutti di bosco mentre tiene un drink rosso.",
+      "shot_idx": 7,
+      "start": 13.2,
+      "end": 15.067,
+      "dur": 1.867
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve cocktail",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo beve un cocktail rosso con frutti di bosco e menta, con un logo Calvin Klein sulla maglietta.",
+      "shot_idx": 8,
+      "start": 15.067,
+      "end": 17.033,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "uova alla Benedict",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due uova alla Benedict su pane tostato con pancetta e salsa olandese.",
+      "shot_idx": 9,
+      "start": 17.033,
+      "end": 18.667,
+      "dur": 1.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "bagel salmone spinaci",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un bagel con salmone e spinaci è in primo piano, con la scritta 'ALLA' in sovrimpressione.",
+      "shot_idx": 10,
+      "start": 18.667,
+      "end": 22.867,
+      "dur": 4.2
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "uovo in camicia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona taglia un uovo in camicia su una fetta di pane con bacon, rivelando il tuorlo liquido, con la scritta 'CREMOSO' in sovrimpressione.",
+      "shot_idx": 11,
+      "start": 22.867,
+      "end": 25.6,
+      "dur": 2.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia uovo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sta mangiando un toast con uovo in camicia e bacon, con la scritta 'FETTE' in sovrimpressione.",
+      "shot_idx": 12,
+      "start": 25.6,
+      "end": 27.8,
+      "dur": 2.2
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorride cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera mentre tiene in mano il toast, con la scritta 'UOVA' in sovrimpressione e il logo Calvin Klein sulla maglietta.",
+      "shot_idx": 13,
+      "start": 27.8,
+      "end": 30.0,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia bagel",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo addenta un bagel con salmone e spinaci, con la scritta 'IL' in sovrimpressione e il logo Calvin Klein sulla maglietta.",
+      "shot_idx": 14,
+      "start": 30.0,
+      "end": 32.567,
+      "dur": 2.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia bagel",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sta addentando un bagel con un'espressione concentrata.",
+      "shot_idx": 15,
+      "start": 32.567,
+      "end": 34.133,
+      "dur": 1.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia bagel",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo ha appena morso il bagel e ha un po' di salsa bianca sul labbro superiore.",
+      "shot_idx": 16,
+      "start": 34.133,
+      "end": 36.933,
+      "dur": 2.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "bagel tagliato a metà",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani di una persona tengono un bagel tagliato a metà, mostrando il ripieno di salmone, formaggio spalmabile e verdure.",
+      "shot_idx": 17,
+      "start": 36.933,
+      "end": 39.167,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo tiene in mano due patatine fritte con ketchup, mentre un bagel è visibile sul tavolo.",
+      "shot_idx": 18,
+      "start": 39.167,
+      "end": 42.0,
+      "dur": 2.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "dessert con fiori",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un dessert composto da tre dolcetti spugnosi con crema e granella, decorati con piccoli fiori viola.",
+      "shot_idx": 19,
+      "start": 42.0,
+      "end": 46.767,
+      "dur": 4.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pancakes con panna",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "I pancakes sono il centro dell'attenzione, con panna e un fiore viola.",
+      "shot_idx": 20,
+      "start": 46.767,
+      "end": 50.767,
+      "dur": 4.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo beve da un bicchiere, con i pancakes in primo piano.",
+      "shot_idx": 21,
+      "start": 50.767,
+      "end": 53.2,
+      "dur": 2.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "sciroppo sui pancakes",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Lo sciroppo viene versato sui pancakes, creando un effetto visivo invitante.",
+      "shot_idx": 22,
+      "start": 53.2,
+      "end": 56.8,
+      "dur": 3.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "taglio dei pancakes",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani tagliano i pancakes, mostrando la consistenza interna.",
+      "shot_idx": 23,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "interno dei pancakes",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Si vede l'interno soffice dei pancakes dopo il taglio.",
+      "shot_idx": 24,
+      "start": 58.4,
+      "end": 60.933,
+      "dur": 2.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con una maglietta nera Calvin Klein sta mangiando un dolce con un cucchiaino.",
+      "shot_idx": 25,
+      "start": 60.933,
+      "end": 62.633,
+      "dur": 1.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo continua a mangiare il dolce, con uno sfondo sfocato di un'area esterna.",
+      "shot_idx": 26,
+      "start": 62.633,
+      "end": 65.033,
+      "dur": 2.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "dolce al cucchiaio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un cucchiaino con un pezzo di dolce e panna montata è in primo piano sopra il piatto.",
+      "shot_idx": 27,
+      "start": 65.033,
+      "end": 70.4,
+      "dur": 5.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo guarda camera",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda direttamente la telecamera con il piatto del dolce davanti a sé.",
+      "shot_idx": 28,
+      "start": 70.4,
+      "end": 71.433,
+      "dur": 1.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sta per portare un cucchiaino di dolce alla bocca, con un'espressione concentrata.",
+      "shot_idx": 29,
+      "start": 71.433,
+      "end": 75.033,
+      "dur": 3.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve birra",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo che beve da un calice di birra scura con uno sfondo urbano.",
+      "shot_idx": 30,
+      "start": 75.033,
+      "end": 77.333,
+      "dur": 2.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "gambe che camminano",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le gambe di una persona che cammina su un pavimento di piastrelle chiare.",
+      "shot_idx": 31,
+      "start": 77.333,
+      "end": 78.2,
+      "dur": 0.867
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "persone sedute all'aperto",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una vista dall'alto di persone sedute su una scalinata e in un'area aperta con tende.",
+      "shot_idx": 32,
+      "start": 78.2,
+      "end": 79.2,
+      "dur": 1.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "arco monumentale e persone",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'ampia veduta di un arco monumentale e persone in un'area aperta sotto un cielo azzurro.",
+      "shot_idx": 33,
+      "start": 79.2,
+      "end": 80.933,
+      "dur": 1.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "arco della Pace",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una prospettiva laterale dell'Arco della Pace con statue e colonne imponenti.",
+      "shot_idx": 34,
+      "start": 80.933,
+      "end": 81.633,
+      "dur": 0.7
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Il miglior branco di Milano, letteralmente davanti all'arco della pace, oggi ragazzi vi porto da Dazzi Milano"
+    },
+    {
+      "start": 5.16,
+      "end": 8.44,
+      "text": "a provare il loro branco disponibile dalle unice alle 16 o New Cal"
+    },
+    {
+      "start": 8.44,
+      "end": 11.86,
+      "text": "Per iniziare non possiamo non notare la location che è veramente incredibile"
+    },
+    {
+      "start": 11.86,
+      "end": 15.7,
+      "text": "Noi abbiamo iniziato a gustarci un diritto alcolico per poi passare alle due portate principali"
+    },
+    {
+      "start": 15.7,
+      "end": 19.68,
+      "text": "Con uova alla Benedict e bagel salmore, entrambi veramente presentati benissimo"
+    },
+    {
+      "start": 19.68,
+      "end": 24.56,
+      "text": "Per quanto riguarda le uova alla Benedict abbiamo appunto delle uova al tenute col puorlo molto cremoso"
+    },
+    {
+      "start": 24.56,
+      "end": 27.48,
+      "text": "Servite con bacon e salsa londese su due fette di panetto stato"
+    },
+    {
+      "start": 27.48,
+      "end": 31.18,
+      "text": "Dura del bacon e delle uova davvero perfetta e panne che avrei apprezzato anche da solo"
+    },
+    {
+      "start": 31.18,
+      "end": 35.38,
+      "text": "Il bacon invece è farcito con salmone affumicato, mousse al formaggio alle erbe e spinacino"
+    },
+    {
+      "start": 35.38,
+      "end": 39.3,
+      "text": "Era veramente morbido e super farcito ed direi che da un bacon non si può chiedere alzo"
+    },
+    {
+      "start": 39.3,
+      "end": 41.64,
+      "text": "Ed ovviamente è ottima anche le patatine che accompagnano tutti"
+    },
+    {
+      "start": 41.64,
+      "end": 44.56,
+      "text": "Stando invece i piatti dolci abbiamo montitlami su 2.0"
+    },
+    {
+      "start": 44.56,
+      "end": 47.5,
+      "text": "E un piatto che per me rappresenta letteralmente il brancio"
+    },
+    {
+      "start": 47.5,
+      "end": 49.14,
+      "text": "Avere il pancake con lo sciroppo daccio"
+    },
+    {
+      "start": 49.14,
+      "end": 51.1,
+      "text": "Con un ottimo caffè seccherato da accompagnare"
+    },
+    {
+      "start": 51.1,
+      "end": 53.68,
+      "text": "Vista la temperatura della giornata ho particolarmente apprezzato"
+    },
+    {
+      "start": 53.68,
+      "end": 56.6,
+      "text": "Con il pancake ovviamente iniziato con la colata di sciroppo daccio"
+    },
+    {
+      "start": 56.6,
+      "end": 58.12,
+      "text": "Guardate ragazzi che belli che erano"
+    },
+    {
+      "start": 58.12,
+      "end": 60.52,
+      "text": "Morbidissimi, veramente soffici, ben lievitati"
+    },
+    {
+      "start": 60.52,
+      "end": 62.04,
+      "text": "Praticamente i pancakes perfetti"
+    },
+    {
+      "start": 62.04,
+      "end": 64.3,
+      "text": "Mentre invece il tiramisù è veramente stupido"
+    },
+    {
+      "start": 64.3,
+      "end": 67.94,
+      "text": "Essendo praticamente scomposto con tre spugne di nocciola al martini ambrato"
+    },
+    {
+      "start": 67.94,
+      "end": 69.48,
+      "text": "Che erano una cosa morbidissima"
+    },
+    {
+      "start": 69.48,
+      "end": 73.18,
+      "text": "E se accompagnate con la mousse al mascarpone vaniglia e al crambolo al caffè"
+    },
+    {
+      "start": 73.18,
+      "end": 76.32,
+      "text": "Si componeva un tiramisù davvero flammoroso"
+    },
+    {
+      "start": 76.32,
+      "end": 79.02,
+      "text": "Di somma ragazzi se nel weekend avete voglia di farvi un brancio"
+    },
+    {
+      "start": 79.02,
+      "end": 80.9,
+      "text": "Di godervi la bella stagione sapete dove andare"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "word": "Il"
+    },
+    {
+      "start": 0.24,
+      "end": 0.56,
+      "word": "miglior"
+    },
+    {
+      "start": 0.56,
+      "end": 0.94,
+      "word": "branco"
+    },
+    {
+      "start": 0.94,
+      "end": 1.1,
+      "word": "di"
+    },
+    {
+      "start": 1.1,
+      "end": 1.46,
+      "word": "Milano,"
+    },
+    {
+      "start": 1.56,
+      "end": 2.06,
+      "word": "letteralmente"
+    },
+    {
+      "start": 2.06,
+      "end": 2.46,
+      "word": "davanti"
+    },
+    {
+      "start": 2.46,
+      "end": 2.62,
+      "word": "all"
+    },
+    {
+      "start": 2.62,
+      "end": 2.82,
+      "word": "'arco"
+    },
+    {
+      "start": 2.82,
+      "end": 2.98,
+      "word": "della"
+    },
+    {
+      "start": 2.98,
+      "end": 3.26,
+      "word": "pace,"
+    },
+    {
+      "start": 3.48,
+      "end": 3.58,
+      "word": "oggi"
+    },
+    {
+      "start": 3.58,
+      "end": 3.86,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.86,
+      "end": 4.0,
+      "word": "vi"
+    },
+    {
+      "start": 4.0,
+      "end": 4.28,
+      "word": "porto"
+    },
+    {
+      "start": 4.28,
+      "end": 4.42,
+      "word": "da"
+    },
+    {
+      "start": 4.42,
+      "end": 4.76,
+      "word": "Dazzi"
+    },
+    {
+      "start": 4.76,
+      "end": 5.16,
+      "word": "Milano"
+    },
+    {
+      "start": 5.16,
+      "end": 5.28,
+      "word": "a"
+    },
+    {
+      "start": 5.28,
+      "end": 5.58,
+      "word": "provare"
+    },
+    {
+      "start": 5.58,
+      "end": 5.7,
+      "word": "il"
+    },
+    {
+      "start": 5.7,
+      "end": 5.78,
+      "word": "loro"
+    },
+    {
+      "start": 5.78,
+      "end": 6.18,
+      "word": "branco"
+    },
+    {
+      "start": 6.18,
+      "end": 6.64,
+      "word": "disponibile"
+    },
+    {
+      "start": 6.64,
+      "end": 6.9,
+      "word": "dalle"
+    },
+    {
+      "start": 6.9,
+      "end": 7.22,
+      "word": "unice"
+    },
+    {
+      "start": 7.22,
+      "end": 7.36,
+      "word": "alle"
+    },
+    {
+      "start": 7.36,
+      "end": 7.6,
+      "word": "16"
+    },
+    {
+      "start": 7.6,
+      "end": 8.0,
+      "word": "o"
+    },
+    {
+      "start": 8.0,
+      "end": 8.16,
+      "word": "New"
+    },
+    {
+      "start": 8.16,
+      "end": 8.44,
+      "word": "Cal"
+    },
+    {
+      "start": 8.44,
+      "end": 8.64,
+      "word": "Per"
+    },
+    {
+      "start": 8.64,
+      "end": 9.02,
+      "word": "iniziare"
+    },
+    {
+      "start": 9.02,
+      "end": 9.18,
+      "word": "non"
+    },
+    {
+      "start": 9.18,
+      "end": 9.42,
+      "word": "possiamo"
+    },
+    {
+      "start": 9.42,
+      "end": 9.74,
+      "word": "non"
+    },
+    {
+      "start": 9.74,
+      "end": 10.12,
+      "word": "notare"
+    },
+    {
+      "start": 10.12,
+      "end": 10.26,
+      "word": "la"
+    },
+    {
+      "start": 10.26,
+      "end": 10.58,
+      "word": "location"
+    },
+    {
+      "start": 10.58,
+      "end": 10.82,
+      "word": "che"
+    },
+    {
+      "start": 10.82,
+      "end": 10.92,
+      "word": "è"
+    },
+    {
+      "start": 10.92,
+      "end": 11.18,
+      "word": "veramente"
+    },
+    {
+      "start": 11.18,
+      "end": 11.86,
+      "word": "incredibile"
+    },
+    {
+      "start": 11.86,
+      "end": 12.08,
+      "word": "Noi"
+    },
+    {
+      "start": 12.08,
+      "end": 12.22,
+      "word": "abbiamo"
+    },
+    {
+      "start": 12.22,
+      "end": 12.52,
+      "word": "iniziato"
+    },
+    {
+      "start": 12.52,
+      "end": 12.64,
+      "word": "a"
+    },
+    {
+      "start": 12.64,
+      "end": 13.06,
+      "word": "gustarci"
+    },
+    {
+      "start": 13.06,
+      "end": 13.16,
+      "word": "un"
+    },
+    {
+      "start": 13.16,
+      "end": 13.34,
+      "word": "diritto"
+    },
+    {
+      "start": 13.34,
+      "end": 13.84,
+      "word": "alcolico"
+    },
+    {
+      "start": 13.84,
+      "end": 14.0,
+      "word": "per"
+    },
+    {
+      "start": 14.0,
+      "end": 14.14,
+      "word": "poi"
+    },
+    {
+      "start": 14.14,
+      "end": 14.5,
+      "word": "passare"
+    },
+    {
+      "start": 14.5,
+      "end": 14.62,
+      "word": "alle"
+    },
+    {
+      "start": 14.62,
+      "end": 14.78,
+      "word": "due"
+    },
+    {
+      "start": 14.78,
+      "end": 15.06,
+      "word": "portate"
+    },
+    {
+      "start": 15.06,
+      "end": 15.7,
+      "word": "principali"
+    },
+    {
+      "start": 15.7,
+      "end": 15.86,
+      "word": "Con"
+    },
+    {
+      "start": 15.86,
+      "end": 16.12,
+      "word": "uova"
+    },
+    {
+      "start": 16.12,
+      "end": 16.3,
+      "word": "alla"
+    },
+    {
+      "start": 16.3,
+      "end": 16.64,
+      "word": "Benedict"
+    },
+    {
+      "start": 16.64,
+      "end": 17.14,
+      "word": "e"
+    },
+    {
+      "start": 17.14,
+      "end": 17.44,
+      "word": "bagel"
+    },
+    {
+      "start": 17.44,
+      "end": 17.86,
+      "word": "salmore,"
+    },
+    {
+      "start": 17.9,
+      "end": 18.24,
+      "word": "entrambi"
+    },
+    {
+      "start": 18.24,
+      "end": 18.58,
+      "word": "veramente"
+    },
+    {
+      "start": 18.58,
+      "end": 19.18,
+      "word": "presentati"
+    },
+    {
+      "start": 19.18,
+      "end": 19.68,
+      "word": "benissimo"
+    },
+    {
+      "start": 19.68,
+      "end": 19.88,
+      "word": "Per"
+    },
+    {
+      "start": 19.88,
+      "end": 20.04,
+      "word": "quanto"
+    },
+    {
+      "start": 20.04,
+      "end": 20.48,
+      "word": "riguarda"
+    },
+    {
+      "start": 20.48,
+      "end": 20.58,
+      "word": "le"
+    },
+    {
+      "start": 20.58,
+      "end": 20.76,
+      "word": "uova"
+    },
+    {
+      "start": 20.76,
+      "end": 20.9,
+      "word": "alla"
+    },
+    {
+      "start": 20.9,
+      "end": 21.22,
+      "word": "Benedict"
+    },
+    {
+      "start": 21.22,
+      "end": 21.52,
+      "word": "abbiamo"
+    },
+    {
+      "start": 21.52,
+      "end": 21.88,
+      "word": "appunto"
+    },
+    {
+      "start": 21.88,
+      "end": 22.14,
+      "word": "delle"
+    },
+    {
+      "start": 22.14,
+      "end": 22.64,
+      "word": "uova"
+    },
+    {
+      "start": 22.64,
+      "end": 22.82,
+      "word": "al"
+    },
+    {
+      "start": 22.82,
+      "end": 23.1,
+      "word": "tenute"
+    },
+    {
+      "start": 23.1,
+      "end": 23.32,
+      "word": "col"
+    },
+    {
+      "start": 23.32,
+      "end": 23.76,
+      "word": "puorlo"
+    },
+    {
+      "start": 23.76,
+      "end": 24.06,
+      "word": "molto"
+    },
+    {
+      "start": 24.06,
+      "end": 24.56,
+      "word": "cremoso"
+    },
+    {
+      "start": 24.56,
+      "end": 24.9,
+      "word": "Servite"
+    },
+    {
+      "start": 24.9,
+      "end": 25.12,
+      "word": "con"
+    },
+    {
+      "start": 25.12,
+      "end": 25.32,
+      "word": "bacon"
+    },
+    {
+      "start": 25.32,
+      "end": 25.54,
+      "word": "e"
+    },
+    {
+      "start": 25.54,
+      "end": 25.64,
+      "word": "salsa"
+    },
+    {
+      "start": 25.64,
+      "end": 26.12,
+      "word": "londese"
+    },
+    {
+      "start": 26.12,
+      "end": 26.36,
+      "word": "su"
+    },
+    {
+      "start": 26.36,
+      "end": 26.5,
+      "word": "due"
+    },
+    {
+      "start": 26.5,
+      "end": 26.7,
+      "word": "fette"
+    },
+    {
+      "start": 26.7,
+      "end": 26.86,
+      "word": "di"
+    },
+    {
+      "start": 26.86,
+      "end": 27.12,
+      "word": "panetto"
+    },
+    {
+      "start": 27.12,
+      "end": 27.48,
+      "word": "stato"
+    },
+    {
+      "start": 27.48,
+      "end": 27.74,
+      "word": "Dura"
+    },
+    {
+      "start": 27.74,
+      "end": 27.94,
+      "word": "del"
+    },
+    {
+      "start": 27.94,
+      "end": 28.12,
+      "word": "bacon"
+    },
+    {
+      "start": 28.12,
+      "end": 28.28,
+      "word": "e"
+    },
+    {
+      "start": 28.28,
+      "end": 28.42,
+      "word": "delle"
+    },
+    {
+      "start": 28.42,
+      "end": 28.68,
+      "word": "uova"
+    },
+    {
+      "start": 28.68,
+      "end": 29.04,
+      "word": "davvero"
+    },
+    {
+      "start": 29.04,
+      "end": 29.6,
+      "word": "perfetta"
+    },
+    {
+      "start": 29.6,
+      "end": 29.78,
+      "word": "e"
+    },
+    {
+      "start": 29.78,
+      "end": 30.02,
+      "word": "panne"
+    },
+    {
+      "start": 30.02,
+      "end": 30.08,
+      "word": "che"
+    },
+    {
+      "start": 30.08,
+      "end": 30.26,
+      "word": "avrei"
+    },
+    {
+      "start": 30.26,
+      "end": 30.62,
+      "word": "apprezzato"
+    },
+    {
+      "start": 30.62,
+      "end": 30.78,
+      "word": "anche"
+    },
+    {
+      "start": 30.78,
+      "end": 30.92,
+      "word": "da"
+    },
+    {
+      "start": 30.92,
+      "end": 31.18,
+      "word": "solo"
+    },
+    {
+      "start": 31.18,
+      "end": 31.34,
+      "word": "Il"
+    },
+    {
+      "start": 31.34,
+      "end": 31.54,
+      "word": "bacon"
+    },
+    {
+      "start": 31.54,
+      "end": 31.8,
+      "word": "invece"
+    },
+    {
+      "start": 31.8,
+      "end": 32.0,
+      "word": "è"
+    },
+    {
+      "start": 32.0,
+      "end": 32.3,
+      "word": "farcito"
+    },
+    {
+      "start": 32.3,
+      "end": 32.54,
+      "word": "con"
+    },
+    {
+      "start": 32.54,
+      "end": 32.78,
+      "word": "salmone"
+    },
+    {
+      "start": 32.78,
+      "end": 33.44,
+      "word": "affumicato,"
+    },
+    {
+      "start": 33.58,
+      "end": 33.78,
+      "word": "mousse"
+    },
+    {
+      "start": 33.78,
+      "end": 33.92,
+      "word": "al"
+    },
+    {
+      "start": 33.92,
+      "end": 34.28,
+      "word": "formaggio"
+    },
+    {
+      "start": 34.28,
+      "end": 34.48,
+      "word": "alle"
+    },
+    {
+      "start": 34.48,
+      "end": 34.7,
+      "word": "erbe"
+    },
+    {
+      "start": 34.7,
+      "end": 34.82,
+      "word": "e"
+    },
+    {
+      "start": 34.82,
+      "end": 35.38,
+      "word": "spinacino"
+    },
+    {
+      "start": 35.38,
+      "end": 35.58,
+      "word": "Era"
+    },
+    {
+      "start": 35.58,
+      "end": 35.94,
+      "word": "veramente"
+    },
+    {
+      "start": 35.94,
+      "end": 36.52,
+      "word": "morbido"
+    },
+    {
+      "start": 36.52,
+      "end": 36.7,
+      "word": "e"
+    },
+    {
+      "start": 36.7,
+      "end": 36.94,
+      "word": "super"
+    },
+    {
+      "start": 36.94,
+      "end": 37.42,
+      "word": "farcito"
+    },
+    {
+      "start": 37.42,
+      "end": 37.58,
+      "word": "ed"
+    },
+    {
+      "start": 37.58,
+      "end": 37.82,
+      "word": "direi"
+    },
+    {
+      "start": 37.82,
+      "end": 37.84,
+      "word": "che"
+    },
+    {
+      "start": 37.84,
+      "end": 37.98,
+      "word": "da"
+    },
+    {
+      "start": 37.98,
+      "end": 38.06,
+      "word": "un"
+    },
+    {
+      "start": 38.06,
+      "end": 38.24,
+      "word": "bacon"
+    },
+    {
+      "start": 38.24,
+      "end": 38.42,
+      "word": "non"
+    },
+    {
+      "start": 38.42,
+      "end": 38.56,
+      "word": "si"
+    },
+    {
+      "start": 38.56,
+      "end": 38.68,
+      "word": "può"
+    },
+    {
+      "start": 38.68,
+      "end": 38.92,
+      "word": "chiedere"
+    },
+    {
+      "start": 38.92,
+      "end": 39.3,
+      "word": "alzo"
+    },
+    {
+      "start": 39.3,
+      "end": 39.4,
+      "word": "Ed"
+    },
+    {
+      "start": 39.4,
+      "end": 39.7,
+      "word": "ovviamente"
+    },
+    {
+      "start": 39.7,
+      "end": 39.94,
+      "word": "è"
+    },
+    {
+      "start": 39.94,
+      "end": 40.08,
+      "word": "ottima"
+    },
+    {
+      "start": 40.08,
+      "end": 40.28,
+      "word": "anche"
+    },
+    {
+      "start": 40.28,
+      "end": 40.38,
+      "word": "le"
+    },
+    {
+      "start": 40.38,
+      "end": 40.72,
+      "word": "patatine"
+    },
+    {
+      "start": 40.72,
+      "end": 40.86,
+      "word": "che"
+    },
+    {
+      "start": 40.86,
+      "end": 41.34,
+      "word": "accompagnano"
+    },
+    {
+      "start": 41.34,
+      "end": 41.64,
+      "word": "tutti"
+    },
+    {
+      "start": 41.64,
+      "end": 42.06,
+      "word": "Stando"
+    },
+    {
+      "start": 42.06,
+      "end": 42.32,
+      "word": "invece"
+    },
+    {
+      "start": 42.32,
+      "end": 42.5,
+      "word": "i"
+    },
+    {
+      "start": 42.5,
+      "end": 42.66,
+      "word": "piatti"
+    },
+    {
+      "start": 42.66,
+      "end": 43.0,
+      "word": "dolci"
+    },
+    {
+      "start": 43.0,
+      "end": 43.16,
+      "word": "abbiamo"
+    },
+    {
+      "start": 43.16,
+      "end": 43.62,
+      "word": "montitlami"
+    },
+    {
+      "start": 43.62,
+      "end": 43.78,
+      "word": "su"
+    },
+    {
+      "start": 43.78,
+      "end": 44.0,
+      "word": "2"
+    },
+    {
+      "start": 44.0,
+      "end": 44.56,
+      "word": ".0"
+    },
+    {
+      "start": 44.56,
+      "end": 44.7,
+      "word": "E"
+    },
+    {
+      "start": 44.7,
+      "end": 44.84,
+      "word": "un"
+    },
+    {
+      "start": 44.84,
+      "end": 45.08,
+      "word": "piatto"
+    },
+    {
+      "start": 45.08,
+      "end": 45.2,
+      "word": "che"
+    },
+    {
+      "start": 45.2,
+      "end": 45.36,
+      "word": "per"
+    },
+    {
+      "start": 45.36,
+      "end": 45.5,
+      "word": "me"
+    },
+    {
+      "start": 45.5,
+      "end": 46.14,
+      "word": "rappresenta"
+    },
+    {
+      "start": 46.14,
+      "end": 46.88,
+      "word": "letteralmente"
+    },
+    {
+      "start": 46.88,
+      "end": 47.06,
+      "word": "il"
+    },
+    {
+      "start": 47.06,
+      "end": 47.5,
+      "word": "brancio"
+    },
+    {
+      "start": 47.5,
+      "end": 47.66,
+      "word": "Avere"
+    },
+    {
+      "start": 47.66,
+      "end": 47.82,
+      "word": "il"
+    },
+    {
+      "start": 47.82,
+      "end": 48.14,
+      "word": "pancake"
+    },
+    {
+      "start": 48.14,
+      "end": 48.44,
+      "word": "con"
+    },
+    {
+      "start": 48.44,
+      "end": 48.52,
+      "word": "lo"
+    },
+    {
+      "start": 48.52,
+      "end": 48.84,
+      "word": "sciroppo"
+    },
+    {
+      "start": 48.84,
+      "end": 49.14,
+      "word": "daccio"
+    },
+    {
+      "start": 49.14,
+      "end": 49.26,
+      "word": "Con"
+    },
+    {
+      "start": 49.26,
+      "end": 49.36,
+      "word": "un"
+    },
+    {
+      "start": 49.36,
+      "end": 49.56,
+      "word": "ottimo"
+    },
+    {
+      "start": 49.56,
+      "end": 49.84,
+      "word": "caffè"
+    },
+    {
+      "start": 49.84,
+      "end": 50.34,
+      "word": "seccherato"
+    },
+    {
+      "start": 50.34,
+      "end": 50.48,
+      "word": "da"
+    },
+    {
+      "start": 50.48,
+      "end": 51.1,
+      "word": "accompagnare"
+    },
+    {
+      "start": 51.1,
+      "end": 51.3,
+      "word": "Vista"
+    },
+    {
+      "start": 51.3,
+      "end": 51.42,
+      "word": "la"
+    },
+    {
+      "start": 51.42,
+      "end": 51.74,
+      "word": "temperatura"
+    },
+    {
+      "start": 51.74,
+      "end": 52.02,
+      "word": "della"
+    },
+    {
+      "start": 52.02,
+      "end": 52.46,
+      "word": "giornata"
+    },
+    {
+      "start": 52.46,
+      "end": 52.58,
+      "word": "ho"
+    },
+    {
+      "start": 52.58,
+      "end": 53.1,
+      "word": "particolarmente"
+    },
+    {
+      "start": 53.1,
+      "end": 53.68,
+      "word": "apprezzato"
+    },
+    {
+      "start": 53.68,
+      "end": 53.82,
+      "word": "Con"
+    },
+    {
+      "start": 53.82,
+      "end": 53.92,
+      "word": "il"
+    },
+    {
+      "start": 53.92,
+      "end": 54.18,
+      "word": "pancake"
+    },
+    {
+      "start": 54.18,
+      "end": 54.58,
+      "word": "ovviamente"
+    },
+    {
+      "start": 54.58,
+      "end": 55.14,
+      "word": "iniziato"
+    },
+    {
+      "start": 55.14,
+      "end": 55.28,
+      "word": "con"
+    },
+    {
+      "start": 55.28,
+      "end": 55.42,
+      "word": "la"
+    },
+    {
+      "start": 55.42,
+      "end": 55.76,
+      "word": "colata"
+    },
+    {
+      "start": 55.76,
+      "end": 55.9,
+      "word": "di"
+    },
+    {
+      "start": 55.9,
+      "end": 56.22,
+      "word": "sciroppo"
+    },
+    {
+      "start": 56.22,
+      "end": 56.6,
+      "word": "daccio"
+    },
+    {
+      "start": 56.6,
+      "end": 56.92,
+      "word": "Guardate"
+    },
+    {
+      "start": 56.92,
+      "end": 57.26,
+      "word": "ragazzi"
+    },
+    {
+      "start": 57.26,
+      "end": 57.38,
+      "word": "che"
+    },
+    {
+      "start": 57.38,
+      "end": 57.64,
+      "word": "belli"
+    },
+    {
+      "start": 57.64,
+      "end": 57.82,
+      "word": "che"
+    },
+    {
+      "start": 57.82,
+      "end": 58.12,
+      "word": "erano"
+    },
+    {
+      "start": 58.12,
+      "end": 58.8,
+      "word": "Morbidissimi,"
+    },
+    {
+      "start": 58.86,
+      "end": 59.06,
+      "word": "veramente"
+    },
+    {
+      "start": 59.06,
+      "end": 59.74,
+      "word": "soffici,"
+    },
+    {
+      "start": 59.76,
+      "end": 59.96,
+      "word": "ben"
+    },
+    {
+      "start": 59.96,
+      "end": 60.52,
+      "word": "lievitati"
+    },
+    {
+      "start": 60.52,
+      "end": 60.94,
+      "word": "Praticamente"
+    },
+    {
+      "start": 60.94,
+      "end": 61.12,
+      "word": "i"
+    },
+    {
+      "start": 61.12,
+      "end": 61.32,
+      "word": "pancakes"
+    },
+    {
+      "start": 61.32,
+      "end": 62.04,
+      "word": "perfetti"
+    },
+    {
+      "start": 62.04,
+      "end": 62.28,
+      "word": "Mentre"
+    },
+    {
+      "start": 62.28,
+      "end": 62.48,
+      "word": "invece"
+    },
+    {
+      "start": 62.48,
+      "end": 62.6,
+      "word": "il"
+    },
+    {
+      "start": 62.6,
+      "end": 63.04,
+      "word": "tiramisù"
+    },
+    {
+      "start": 63.04,
+      "end": 63.14,
+      "word": "è"
+    },
+    {
+      "start": 63.14,
+      "end": 63.46,
+      "word": "veramente"
+    },
+    {
+      "start": 63.46,
+      "end": 64.3,
+      "word": "stupido"
+    },
+    {
+      "start": 64.3,
+      "end": 64.6,
+      "word": "Essendo"
+    },
+    {
+      "start": 64.6,
+      "end": 64.92,
+      "word": "praticamente"
+    },
+    {
+      "start": 64.92,
+      "end": 65.68,
+      "word": "scomposto"
+    },
+    {
+      "start": 65.68,
+      "end": 65.9,
+      "word": "con"
+    },
+    {
+      "start": 65.9,
+      "end": 66.04,
+      "word": "tre"
+    },
+    {
+      "start": 66.04,
+      "end": 66.38,
+      "word": "spugne"
+    },
+    {
+      "start": 66.38,
+      "end": 66.46,
+      "word": "di"
+    },
+    {
+      "start": 66.46,
+      "end": 66.98,
+      "word": "nocciola"
+    },
+    {
+      "start": 66.98,
+      "end": 67.12,
+      "word": "al"
+    },
+    {
+      "start": 67.12,
+      "end": 67.48,
+      "word": "martini"
+    },
+    {
+      "start": 67.48,
+      "end": 67.94,
+      "word": "ambrato"
+    },
+    {
+      "start": 67.94,
+      "end": 68.04,
+      "word": "Che"
+    },
+    {
+      "start": 68.04,
+      "end": 68.2,
+      "word": "erano"
+    },
+    {
+      "start": 68.2,
+      "end": 68.34,
+      "word": "una"
+    },
+    {
+      "start": 68.34,
+      "end": 68.5,
+      "word": "cosa"
+    },
+    {
+      "start": 68.5,
+      "end": 69.48,
+      "word": "morbidissima"
+    },
+    {
+      "start": 69.48,
+      "end": 69.74,
+      "word": "E"
+    },
+    {
+      "start": 69.74,
+      "end": 69.88,
+      "word": "se"
+    },
+    {
+      "start": 69.88,
+      "end": 70.48,
+      "word": "accompagnate"
+    },
+    {
+      "start": 70.48,
+      "end": 70.62,
+      "word": "con"
+    },
+    {
+      "start": 70.62,
+      "end": 70.72,
+      "word": "la"
+    },
+    {
+      "start": 70.72,
+      "end": 70.92,
+      "word": "mousse"
+    },
+    {
+      "start": 70.92,
+      "end": 71.02,
+      "word": "al"
+    },
+    {
+      "start": 71.02,
+      "end": 71.48,
+      "word": "mascarpone"
+    },
+    {
+      "start": 71.48,
+      "end": 72.0,
+      "word": "vaniglia"
+    },
+    {
+      "start": 72.0,
+      "end": 72.12,
+      "word": "e"
+    },
+    {
+      "start": 72.12,
+      "end": 72.26,
+      "word": "al"
+    },
+    {
+      "start": 72.26,
+      "end": 72.66,
+      "word": "crambolo"
+    },
+    {
+      "start": 72.66,
+      "end": 72.78,
+      "word": "al"
+    },
+    {
+      "start": 72.78,
+      "end": 73.18,
+      "word": "caffè"
+    },
+    {
+      "start": 73.18,
+      "end": 73.4,
+      "word": "Si"
+    },
+    {
+      "start": 73.4,
+      "end": 73.88,
+      "word": "componeva"
+    },
+    {
+      "start": 73.88,
+      "end": 73.94,
+      "word": "un"
+    },
+    {
+      "start": 73.94,
+      "end": 74.5,
+      "word": "tiramisù"
+    },
+    {
+      "start": 74.5,
+      "end": 75.1,
+      "word": "davvero"
+    },
+    {
+      "start": 75.1,
+      "end": 76.32,
+      "word": "flammoroso"
+    },
+    {
+      "start": 76.32,
+      "end": 76.52,
+      "word": "Di"
+    },
+    {
+      "start": 76.52,
+      "end": 76.7,
+      "word": "somma"
+    },
+    {
+      "start": 76.7,
+      "end": 77.12,
+      "word": "ragazzi"
+    },
+    {
+      "start": 77.12,
+      "end": 77.26,
+      "word": "se"
+    },
+    {
+      "start": 77.26,
+      "end": 77.4,
+      "word": "nel"
+    },
+    {
+      "start": 77.4,
+      "end": 77.62,
+      "word": "weekend"
+    },
+    {
+      "start": 77.62,
+      "end": 77.92,
+      "word": "avete"
+    },
+    {
+      "start": 77.92,
+      "end": 78.2,
+      "word": "voglia"
+    },
+    {
+      "start": 78.2,
+      "end": 78.3,
+      "word": "di"
+    },
+    {
+      "start": 78.3,
+      "end": 78.54,
+      "word": "farvi"
+    },
+    {
+      "start": 78.54,
+      "end": 78.62,
+      "word": "un"
+    },
+    {
+      "start": 78.62,
+      "end": 79.02,
+      "word": "brancio"
+    },
+    {
+      "start": 79.02,
+      "end": 79.14,
+      "word": "Di"
+    },
+    {
+      "start": 79.14,
+      "end": 79.5,
+      "word": "godervi"
+    },
+    {
+      "start": 79.5,
+      "end": 79.58,
+      "word": "la"
+    },
+    {
+      "start": 79.58,
+      "end": 79.74,
+      "word": "bella"
+    },
+    {
+      "start": 79.74,
+      "end": 80.14,
+      "word": "stagione"
+    },
+    {
+      "start": 80.14,
+      "end": 80.5,
+      "word": "sapete"
+    },
+    {
+      "start": 80.5,
+      "end": 80.64,
+      "word": "dove"
+    },
+    {
+      "start": 80.64,
+      "end": 80.9,
+      "word": "andare"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.967,
+      "dur": 1.967,
+      "transcript": "Il miglior branco di Milano, letteralmente"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.967,
+      "end": 3.533,
+      "dur": 1.567,
+      "transcript": "davanti all 'arco della pace, oggi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.533,
+      "end": 4.967,
+      "dur": 1.433,
+      "transcript": "ragazzi vi porto da Dazzi Milano"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.967,
+      "end": 7.0,
+      "dur": 2.033,
+      "transcript": "a provare il loro branco disponibile dalle"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.0,
+      "end": 8.567,
+      "dur": 1.567,
+      "transcript": "unice alle 16 o New Cal Per"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.567,
+      "end": 12.067,
+      "dur": 3.5,
+      "transcript": "iniziare non possiamo non notare la location che è veramente incredibile Noi"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.067,
+      "end": 13.2,
+      "dur": 1.133,
+      "transcript": "abbiamo iniziato a gustarci un"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.2,
+      "end": 15.067,
+      "dur": 1.867,
+      "transcript": "diritto alcolico per poi passare alle due portate"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.067,
+      "end": 17.033,
+      "dur": 1.967,
+      "transcript": "principali Con uova alla Benedict e"
+    },
+    {
+      "shot_idx": 9,
+      "start": 17.033,
+      "end": 18.667,
+      "dur": 1.633,
+      "transcript": "bagel salmore, entrambi veramente"
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.667,
+      "end": 22.867,
+      "dur": 4.2,
+      "transcript": "presentati benissimo Per quanto riguarda le uova alla Benedict abbiamo appunto delle uova al"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.867,
+      "end": 25.6,
+      "dur": 2.733,
+      "transcript": "tenute col puorlo molto cremoso Servite con bacon e salsa"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.6,
+      "end": 27.8,
+      "dur": 2.2,
+      "transcript": "londese su due fette di panetto stato Dura"
+    },
+    {
+      "shot_idx": 13,
+      "start": 27.8,
+      "end": 30.0,
+      "dur": 2.2,
+      "transcript": "del bacon e delle uova davvero perfetta e panne"
+    },
+    {
+      "shot_idx": 14,
+      "start": 30.0,
+      "end": 32.567,
+      "dur": 2.567,
+      "transcript": "che avrei apprezzato anche da solo Il bacon invece è farcito con"
+    },
+    {
+      "shot_idx": 15,
+      "start": 32.567,
+      "end": 34.133,
+      "dur": 1.567,
+      "transcript": "salmone affumicato, mousse al formaggio"
+    },
+    {
+      "shot_idx": 16,
+      "start": 34.133,
+      "end": 36.933,
+      "dur": 2.8,
+      "transcript": "alle erbe e spinacino Era veramente morbido e super"
+    },
+    {
+      "shot_idx": 17,
+      "start": 36.933,
+      "end": 39.167,
+      "dur": 2.233,
+      "transcript": "farcito ed direi che da un bacon non si può chiedere alzo"
+    },
+    {
+      "shot_idx": 18,
+      "start": 39.167,
+      "end": 42.0,
+      "dur": 2.833,
+      "transcript": "Ed ovviamente è ottima anche le patatine che accompagnano tutti Stando"
+    },
+    {
+      "shot_idx": 19,
+      "start": 42.0,
+      "end": 46.767,
+      "dur": 4.767,
+      "transcript": "invece i piatti dolci abbiamo montitlami su 2 .0 E un piatto che per me rappresenta letteralmente"
+    },
+    {
+      "shot_idx": 20,
+      "start": 46.767,
+      "end": 50.767,
+      "dur": 4.0,
+      "transcript": "il brancio Avere il pancake con lo sciroppo daccio Con un ottimo caffè seccherato da"
+    },
+    {
+      "shot_idx": 21,
+      "start": 50.767,
+      "end": 53.2,
+      "dur": 2.433,
+      "transcript": "accompagnare Vista la temperatura della giornata ho particolarmente"
+    },
+    {
+      "shot_idx": 22,
+      "start": 53.2,
+      "end": 56.8,
+      "dur": 3.6,
+      "transcript": "apprezzato Con il pancake ovviamente iniziato con la colata di sciroppo daccio Guardate"
+    },
+    {
+      "shot_idx": 23,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6,
+      "transcript": "ragazzi che belli che erano"
+    },
+    {
+      "shot_idx": 24,
+      "start": 58.4,
+      "end": 60.933,
+      "dur": 2.533,
+      "transcript": "Morbidissimi, veramente soffici, ben lievitati Praticamente"
+    },
+    {
+      "shot_idx": 25,
+      "start": 60.933,
+      "end": 62.633,
+      "dur": 1.7,
+      "transcript": "i pancakes perfetti Mentre invece il"
+    },
+    {
+      "shot_idx": 26,
+      "start": 62.633,
+      "end": 65.033,
+      "dur": 2.4,
+      "transcript": "tiramisù è veramente stupido Essendo praticamente"
+    },
+    {
+      "shot_idx": 27,
+      "start": 65.033,
+      "end": 70.4,
+      "dur": 5.367,
+      "transcript": "scomposto con tre spugne di nocciola al martini ambrato Che erano una cosa morbidissima E se accompagnate"
+    },
+    {
+      "shot_idx": 28,
+      "start": 70.4,
+      "end": 71.433,
+      "dur": 1.033,
+      "transcript": "con la mousse al mascarpone"
+    },
+    {
+      "shot_idx": 29,
+      "start": 71.433,
+      "end": 75.033,
+      "dur": 3.6,
+      "transcript": "vaniglia e al crambolo al caffè Si componeva un tiramisù davvero"
+    },
+    {
+      "shot_idx": 30,
+      "start": 75.033,
+      "end": 77.333,
+      "dur": 2.3,
+      "transcript": "flammoroso Di somma ragazzi se nel"
+    },
+    {
+      "shot_idx": 31,
+      "start": 77.333,
+      "end": 78.2,
+      "dur": 0.867,
+      "transcript": "weekend avete voglia"
+    },
+    {
+      "shot_idx": 32,
+      "start": 78.2,
+      "end": 79.2,
+      "dur": 1.0,
+      "transcript": "di farvi un brancio Di"
+    },
+    {
+      "shot_idx": 33,
+      "start": 79.2,
+      "end": 80.933,
+      "dur": 1.733,
+      "transcript": "godervi la bella stagione sapete dove andare"
+    },
+    {
+      "shot_idx": 34,
+      "start": 80.933,
+      "end": 81.633,
+      "dur": 0.7,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Il miglior branco di Milano, letteralmente davanti all'arco della pace, oggi ragazzi vi porto da Dazzi Milano a provare il loro branco disponibile dalle unice alle 16 o New Cal Per iniziare non possiamo non notare la location che è veramente incredibile Noi abbiamo iniziato a gustarci un diritto alcolico per poi passare alle due portate principali Con uova alla Benedict e bagel salmore, entrambi veramente presentati benissimo Per quanto riguarda le uova alla Benedict abbiamo appunto delle uova al tenute col puorlo molto cremoso Servite con bacon e salsa londese su due fette di panetto stato Dura del bacon e delle uova davvero perfetta e panne che avrei apprezzato anche da solo Il bacon invece è farcito con salmone affumicato, mousse al formaggio alle erbe e spinacino Era veramente morbido e super farcito ed direi che da un bacon non si può chiedere alzo Ed ovviamente è ottima anche le patatine che accompagnano tutti Stando invece i piatti dolci abbiamo montitlami su 2.0 E un piatto che per me rappresenta letteralmente il brancio Avere il pancake con lo sciroppo daccio Con un ottimo caffè seccherato da accompagnare Vista la temperatura della giornata ho particolarmente apprezzato Con il pancake ovviamente iniziato con la colata di sciroppo daccio Guardate ragazzi che belli che erano Morbidissimi, veramente soffici, ben lievitati Praticamente i pancakes perfetti Mentre invece il tiramisù è veramente stupido Essendo praticamente scomposto con tre spugne di nocciola al martini ambrato Che erano una cosa morbidissima E se accompagnate con la mousse al mascarpone vaniglia e al crambolo al caffè Si componeva un tiramisù davvero flammoroso Di somma ragazzi se nel weekend avete voglia di farvi un brancio Di godervi la bella stagione sapete dove andare",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

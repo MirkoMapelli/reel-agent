@@ -1,0 +1,3301 @@
+{
+  "video_id": "7543949800182435094",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7543949800182435094",
+    "ref_id": "ref_71_7543949800182435094",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7543949800182435094",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 31,
+  "total_dur": 87.03,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.533,
+      "dur": 2.533,
+      "center": 1.267,
+      "role": "person_eating",
+      "subject": "ragazzo con costina gigante",
+      "description": "Un ragazzo tiene in mano una costina di carne molto grande, con espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giorno 7 è la mia viaggi in Texas e la scoperta dei migliori barbecue"
+    },
+    {
+      "idx": 1,
+      "start": 2.533,
+      "end": 3.967,
+      "dur": 1.433,
+      "center": 3.25,
+      "role": "food_closeup",
+      "subject": "costina di carne affumicata",
+      "description": "Una costina di carne affumicata con un bordo scuro e l'interno rosato è in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "di tutta l 'America. Giornata di"
+    },
+    {
+      "idx": 2,
+      "start": 3.967,
+      "end": 5.633,
+      "dur": 1.667,
+      "center": 4.8,
+      "role": "venue_interior_wide",
+      "subject": "ragazzo in palestra",
+      "description": "Un ragazzo muscoloso si scatta un selfie allo specchio in una palestra moderna.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "oggi che come sempre inizia con un allenamento"
+    },
+    {
+      "idx": 3,
+      "start": 5.633,
+      "end": 9.967,
+      "dur": 4.333,
+      "center": 7.8,
+      "role": "venue_interior_detail",
+      "subject": "cyclette in palestra",
+      "description": "Diverse cyclette sono allineate davanti a una grande finestra con vista sulla città.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "mattutino in quello di Austin, per poi uscire a fare un giro nel quartiere e nell 'università del"
+    },
+    {
+      "idx": 4,
+      "start": 9.967,
+      "end": 12.133,
+      "dur": 2.167,
+      "center": 11.05,
+      "role": "venue_exterior",
+      "subject": "edificio universitario alberi",
+      "description": "Un edificio storico con una torre si erge tra gli alberi, con una scritta 'The University of Texas at Austin' in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Texas ad Austin, la casa tra l 'altro dei"
+    },
+    {
+      "idx": 5,
+      "start": 12.133,
+      "end": 14.367,
+      "dur": 2.233,
+      "center": 13.25,
+      "role": "venue_exterior",
+      "subject": "ingresso edificio universitario",
+      "description": "L'ingresso di un edificio moderno con un cartello e un logo di un toro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Longhorns che è il nome delle squadre locali di"
+    },
+    {
+      "idx": 6,
+      "start": 14.367,
+      "end": 17.267,
+      "dur": 2.9,
+      "center": 15.817,
+      "role": "venue_exterior",
+      "subject": "strada con strisce pedonali",
+      "description": "Una strada con strisce pedonali rosse e persone che attraversano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "football, basket, baseball e devo dire che è davvero un bel campus."
+    },
+    {
+      "idx": 7,
+      "start": 17.267,
+      "end": 19.867,
+      "dur": 2.6,
+      "center": 18.567,
+      "role": "venue_exterior",
+      "subject": "stadio con logo toro",
+      "description": "Un grande stadio con un logo di un toro sul tetto, visto attraverso una rete.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "E anche se l 'avevo già visto ne basta la pena tornarci. Dopodiché"
+    },
+    {
+      "idx": 8,
+      "start": 19.867,
+      "end": 24.833,
+      "dur": 4.967,
+      "center": 22.35,
+      "role": "venue_interior_detail",
+      "subject": "persone in coda",
+      "description": "Un gruppo di persone in coda davanti a un edificio con una scala esterna.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "però è arrivato l 'orata del pranzo e quindi ho detto vabbè facciamo un tentativo da Franklin BBQ per vedere se è pattibile e mangiate."
+    },
+    {
+      "idx": 9,
+      "start": 24.833,
+      "end": 26.833,
+      "dur": 2.0,
+      "center": 25.833,
+      "role": "food_plated",
+      "subject": "costine di maiale",
+      "description": "Un vassoio rosso con costine di maiale affumicate e contorni.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ovviamente c 'era una coda incredibile e quindi abbiamo votato"
+    },
+    {
+      "idx": 10,
+      "start": 26.833,
+      "end": 28.867,
+      "dur": 2.033,
+      "center": 27.85,
+      "role": "food_plated",
+      "subject": "ragazzo con vassoio cibo",
+      "description": "Un ragazzo tiene in mano un vassoio pieno di carne e contorni, con la scritta 'PREFERITO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "per il mio BBQ preferito di tutto il Texas,"
+    },
+    {
+      "idx": 11,
+      "start": 28.867,
+      "end": 31.1,
+      "dur": 2.233,
+      "center": 29.983,
+      "role": "food_detail",
+      "subject": "costola di manzo",
+      "description": "Una grande costola di manzo affumicata è tenuta in verticale, con la scritta 'TERRY'S' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovvero Terry's Black BBQ, che tra l 'altro vi"
+    },
+    {
+      "idx": 12,
+      "start": 31.1,
+      "end": 35.0,
+      "dur": 3.9,
+      "center": 33.05,
+      "role": "food_detail",
+      "subject": "costola di manzo",
+      "description": "Il ragazzo del primo frame tiene in mano la costola di manzo, mostrando la carne succosa, con la scritta 'PROVATO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ho già mostrato ovviamente in un altro video avendolo già provato, ma l 'altra volta l 'hanno riuscito a prendere questo"
+    },
+    {
+      "idx": 13,
+      "start": 35.0,
+      "end": 38.233,
+      "dur": 3.233,
+      "center": 36.617,
+      "role": "food_detail",
+      "subject": "costola di manzo",
+      "description": "La costola di manzo è in primo piano, con uno sfondo sfocato che mostra altri piatti e una bottiglia di birra, con la scritta 'DI' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "brontosauro, questa rib di mangiate. Forse è stato il pezzo di carne"
+    },
+    {
+      "idx": 14,
+      "start": 38.233,
+      "end": 47.233,
+      "dur": 9.0,
+      "center": 42.733,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando con gusto la carne dalla costola, con la scritta 'QUA' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che più mi ha stupito del BBQ Texas. Forse è addirittura più morbido del brisket che ragazzi guardate qua, era mello morbido anche lui e poi per completare ovviamente ci volevano le pork ribs. Ma per completare il"
+    },
+    {
+      "idx": 15,
+      "start": 47.233,
+      "end": 49.133,
+      "dur": 1.9,
+      "center": 48.183,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patate",
+      "description": "Un ragazzo con un cappellino mangia patate da un contenitore di carta, con un pezzo di carne in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "pasto per bene ovviamente ci voleva al side, quindi"
+    },
+    {
+      "idx": 16,
+      "start": 49.133,
+      "end": 52.367,
+      "dur": 3.233,
+      "center": 50.75,
+      "role": "person_eating",
+      "subject": "ragazzo mostra ossa",
+      "description": "Il ragazzo con il cappellino mostra due grandi ossa pulite, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "potito salad, fatta molto bene che tra l 'altra volta non avevo provato perché"
+    },
+    {
+      "idx": 17,
+      "start": 52.367,
+      "end": 57.767,
+      "dur": 5.4,
+      "center": 55.067,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Il ragazzo tiene un bicchiere di dessert e un cucchiaio pieno di crema, con un'altra persona sfocata sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "avevo puttato per il mac n cheese. Prima invece guardate che bestia di osse di lino sauro e di infine per completare bene bene proprio tutto"
+    },
+    {
+      "idx": 18,
+      "start": 57.767,
+      "end": 61.467,
+      "dur": 3.7,
+      "center": 59.617,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Il ragazzo sta per mangiare un cucchiaio di dessert, con il bicchiere in mano e un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il pasto banana pudding come dolce. E questo è stato un po' lazzardo perché ero bello pieno però"
+    },
+    {
+      "idx": 19,
+      "start": 61.467,
+      "end": 62.5,
+      "dur": 1.033,
+      "center": 61.983,
+      "role": "venue_exterior",
+      "subject": "insegna Buc-ee's",
+      "description": "L'insegna rossa e gialla di 'Buc-ee's' con il logo di un castoro, sopra l'ingresso di un edificio.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "ci voleva per smorzare"
+    },
+    {
+      "idx": 20,
+      "start": 62.5,
+      "end": 64.367,
+      "dur": 1.867,
+      "center": 63.433,
+      "role": "venue_exterior",
+      "subject": "insegna Buc-ee's",
+      "description": "L'insegna rossa e gialla del negozio Buc-ee's con il castoro stilizzato.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "un po' il salato. Poi si partono in direzione e"
+    },
+    {
+      "idx": 21,
+      "start": 64.367,
+      "end": 66.833,
+      "dur": 2.467,
+      "center": 65.6,
+      "role": "drink_detail",
+      "subject": "bicchiere Buc-ee's",
+      "description": "Una mano che tiene un bicchiere bianco con il logo Buc-ee's e una cannuccia rossa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Houston ma vovano fermarti in una stazione di Bacchis. Rigamente"
+    },
+    {
+      "idx": 22,
+      "start": 66.833,
+      "end": 69.333,
+      "dur": 2.5,
+      "center": 68.083,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Un ragazzo con un cappellino che beve da un bicchiere Buc-ee's con espressione sorpresa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "è la versione Texana dell 'autogrill"
+    },
+    {
+      "idx": 23,
+      "start": 69.333,
+      "end": 69.967,
+      "dur": 0.633,
+      "center": 69.65,
+      "role": "food_detail",
+      "subject": "popcorn Triple Mix",
+      "description": "Un espositore a più livelli pieno di sacchetti di popcorn 'Triple Mix' con il logo Buc-ee's.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "mastodontico dove"
+    },
+    {
+      "idx": 24,
+      "start": 69.967,
+      "end": 70.567,
+      "dur": 0.6,
+      "center": 70.267,
+      "role": "food_detail",
+      "subject": "popcorn Triple Mix",
+      "description": "Un espositore a più livelli con sacchetti di popcorn 'Triple Mix', leggermente sfocato.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "un bel caffettino"
+    },
+    {
+      "idx": 25,
+      "start": 70.567,
+      "end": 72.333,
+      "dur": 1.767,
+      "center": 71.45,
+      "role": "food_detail",
+      "subject": "popcorn caramellato in bicchiere",
+      "description": "La mano che tiene il bicchierino di popcorn caramellato con il logo Buc-ee's sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "da un litro e mezzo non me lo toglio nessuno."
+    },
+    {
+      "idx": 26,
+      "start": 72.333,
+      "end": 75.9,
+      "dur": 3.567,
+      "center": 74.117,
+      "role": "venue_interior_wide",
+      "subject": "bandiera americana atrio hotel",
+      "description": "L'imponente bandiera americana che domina l'atrio di un edificio con molti piani.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Arrivate a Houston non che ci sia tanto da vedere, abbiamo fatto un giro in un centro commerciale"
+    },
+    {
+      "idx": 27,
+      "start": 75.9,
+      "end": 78.133,
+      "dur": 2.233,
+      "center": 77.017,
+      "role": "other",
+      "subject": "testa robotica esposta",
+      "description": "La testa robotica realistica esposta in una teca trasparente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "molto americano dove però ho visto delle cose parecchio"
+    },
+    {
+      "idx": 28,
+      "start": 78.133,
+      "end": 81.067,
+      "dur": 2.933,
+      "center": 79.6,
+      "role": "venue_exterior",
+      "subject": "grattacieli illuminati notte",
+      "description": "I grattacieli illuminati che si stagliano contro il cielo notturno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "strane. E niente, giretto serale per la città la ricerca di qualcosa da"
+    },
+    {
+      "idx": 29,
+      "start": 81.067,
+      "end": 84.933,
+      "dur": 3.867,
+      "center": 83.0,
+      "role": "other",
+      "subject": "Tesla Cybertruck parcheggiata",
+      "description": "Il design futuristico e angolare della Tesla Cybertruck parcheggiata di notte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "mangiare anche se eravamo parecchio pieni infatti non ho niente filmato. Ma quanto è bello il cyber"
+    },
+    {
+      "idx": 30,
+      "start": 84.933,
+      "end": 87.033,
+      "dur": 2.1,
+      "center": 85.983,
+      "role": "other",
+      "subject": "Tesla Cybertruck parcheggiato",
+      "description": "Il Tesla Cybertruck è parcheggiato di notte sotto un lampione, con edifici illuminati sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "track della Tesla? Più lo vedo più mi piace."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con costina gigante",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene in mano una costina di carne molto grande, con espressione sorpresa.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.533,
+      "dur": 2.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "costina di carne affumicata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una costina di carne affumicata con un bordo scuro e l'interno rosato è in primo piano.",
+      "shot_idx": 1,
+      "start": 2.533,
+      "end": 3.967,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "ragazzo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo muscoloso si scatta un selfie allo specchio in una palestra moderna.",
+      "shot_idx": 2,
+      "start": 3.967,
+      "end": 5.633,
+      "dur": 1.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cyclette in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Diverse cyclette sono allineate davanti a una grande finestra con vista sulla città.",
+      "shot_idx": 3,
+      "start": 5.633,
+      "end": 9.967,
+      "dur": 4.333
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio universitario alberi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un edificio storico con una torre si erge tra gli alberi, con una scritta 'The University of Texas at Austin' in primo piano.",
+      "shot_idx": 4,
+      "start": 9.967,
+      "end": 12.133,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso edificio universitario",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'ingresso di un edificio moderno con un cartello e un logo di un toro.",
+      "shot_idx": 5,
+      "start": 12.133,
+      "end": 14.367,
+      "dur": 2.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "strada con strisce pedonali",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una strada con strisce pedonali rosse e persone che attraversano.",
+      "shot_idx": 6,
+      "start": 14.367,
+      "end": 17.267,
+      "dur": 2.9
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "stadio con logo toro",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande stadio con un logo di un toro sul tetto, visto attraverso una rete.",
+      "shot_idx": 7,
+      "start": 17.267,
+      "end": 19.867,
+      "dur": 2.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "persone in coda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un gruppo di persone in coda davanti a un edificio con una scala esterna.",
+      "shot_idx": 8,
+      "start": 19.867,
+      "end": 24.833,
+      "dur": 4.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "costine di maiale",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un vassoio rosso con costine di maiale affumicate e contorni.",
+      "shot_idx": 9,
+      "start": 24.833,
+      "end": 26.833,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "ragazzo con vassoio cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano un vassoio pieno di carne e contorni, con la scritta 'PREFERITO' in sovrimpressione.",
+      "shot_idx": 10,
+      "start": 26.833,
+      "end": 28.867,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "costola di manzo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una grande costola di manzo affumicata è tenuta in verticale, con la scritta 'TERRY'S' in sovrimpressione.",
+      "shot_idx": 11,
+      "start": 28.867,
+      "end": 31.1,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "costola di manzo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo del primo frame tiene in mano la costola di manzo, mostrando la carne succosa, con la scritta 'PROVATO' in sovrimpressione.",
+      "shot_idx": 12,
+      "start": 31.1,
+      "end": 35.0,
+      "dur": 3.9
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "costola di manzo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La costola di manzo è in primo piano, con uno sfondo sfocato che mostra altri piatti e una bottiglia di birra, con la scritta 'DI' in sovrimpressione.",
+      "shot_idx": 13,
+      "start": 35.0,
+      "end": 38.233,
+      "dur": 3.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando con gusto la carne dalla costola, con la scritta 'QUA' in sovrimpressione.",
+      "shot_idx": 14,
+      "start": 38.233,
+      "end": 47.233,
+      "dur": 9.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patate",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con un cappellino mangia patate da un contenitore di carta, con un pezzo di carne in primo piano.",
+      "shot_idx": 15,
+      "start": 47.233,
+      "end": 49.133,
+      "dur": 1.9
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra ossa",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con il cappellino mostra due grandi ossa pulite, con un'espressione sorpresa.",
+      "shot_idx": 16,
+      "start": 49.133,
+      "end": 52.367,
+      "dur": 3.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un bicchiere di dessert e un cucchiaio pieno di crema, con un'altra persona sfocata sullo sfondo.",
+      "shot_idx": 17,
+      "start": 52.367,
+      "end": 57.767,
+      "dur": 5.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un cucchiaio di dessert, con il bicchiere in mano e un'espressione divertita.",
+      "shot_idx": 18,
+      "start": 57.767,
+      "end": 61.467,
+      "dur": 3.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Buc-ee's",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'insegna rossa e gialla di 'Buc-ee's' con il logo di un castoro, sopra l'ingresso di un edificio.",
+      "shot_idx": 19,
+      "start": 61.467,
+      "end": 62.5,
+      "dur": 1.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Buc-ee's",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'insegna rossa e gialla del negozio Buc-ee's con il castoro stilizzato.",
+      "shot_idx": 20,
+      "start": 62.5,
+      "end": 64.367,
+      "dur": 1.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere Buc-ee's",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano che tiene un bicchiere bianco con il logo Buc-ee's e una cannuccia rossa.",
+      "shot_idx": 21,
+      "start": 64.367,
+      "end": 66.833,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con un cappellino che beve da un bicchiere Buc-ee's con espressione sorpresa.",
+      "shot_idx": 22,
+      "start": 66.833,
+      "end": 69.333,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "popcorn Triple Mix",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un espositore a più livelli pieno di sacchetti di popcorn 'Triple Mix' con il logo Buc-ee's.",
+      "shot_idx": 23,
+      "start": 69.333,
+      "end": 69.967,
+      "dur": 0.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "popcorn Triple Mix",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un espositore a più livelli con sacchetti di popcorn 'Triple Mix', leggermente sfocato.",
+      "shot_idx": 24,
+      "start": 69.967,
+      "end": 70.567,
+      "dur": 0.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "popcorn caramellato in bicchiere",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "La mano che tiene il bicchierino di popcorn caramellato con il logo Buc-ee's sullo sfondo.",
+      "shot_idx": 25,
+      "start": 70.567,
+      "end": 72.333,
+      "dur": 1.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "bandiera americana atrio hotel",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'imponente bandiera americana che domina l'atrio di un edificio con molti piani.",
+      "shot_idx": 26,
+      "start": 72.333,
+      "end": 75.9,
+      "dur": 3.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "testa robotica esposta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La testa robotica realistica esposta in una teca trasparente.",
+      "shot_idx": 27,
+      "start": 75.9,
+      "end": 78.133,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "grattacieli illuminati notte",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I grattacieli illuminati che si stagliano contro il cielo notturno.",
+      "shot_idx": 28,
+      "start": 78.133,
+      "end": 81.067,
+      "dur": 2.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "Tesla Cybertruck parcheggiata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il design futuristico e angolare della Tesla Cybertruck parcheggiata di notte.",
+      "shot_idx": 29,
+      "start": 81.067,
+      "end": 84.933,
+      "dur": 3.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "Tesla Cybertruck parcheggiato",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il Tesla Cybertruck è parcheggiato di notte sotto un lampione, con edifici illuminati sullo sfondo.",
+      "shot_idx": 30,
+      "start": 84.933,
+      "end": 87.033,
+      "dur": 2.1
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Giorno 7 è la mia viaggi in Texas e la scoperta dei migliori barbecue di tutta l'America."
+    },
+    {
+      "start": 3.62,
+      "end": 7.24,
+      "text": "Giornata di oggi che come sempre inizia con un allenamento mattutino in quello di Austin,"
+    },
+    {
+      "start": 7.44,
+      "end": 10.84,
+      "text": "per poi uscire a fare un giro nel quartiere e nell'università del Texas ad Austin,"
+    },
+    {
+      "start": 11.06,
+      "end": 15.64,
+      "text": "la casa tra l'altro dei Longhorns che è il nome delle squadre locali di football, basket, baseball"
+    },
+    {
+      "start": 15.64,
+      "end": 17.32,
+      "text": "e devo dire che è davvero un bel campus."
+    },
+    {
+      "start": 17.44,
+      "end": 19.48,
+      "text": "E anche se l'avevo già visto ne basta la pena tornarci."
+    },
+    {
+      "start": 19.56,
+      "end": 23.48,
+      "text": "Dopodiché però è arrivato l'orata del pranzo e quindi ho detto vabbè facciamo un tentativo da Franklin BBQ"
+    },
+    {
+      "start": 23.48,
+      "end": 24.88,
+      "text": "per vedere se è pattibile e mangiate."
+    },
+    {
+      "start": 24.92,
+      "end": 28.98,
+      "text": "Ovviamente c'era una coda incredibile e quindi abbiamo votato per il mio BBQ preferito di tutto il Texas,"
+    },
+    {
+      "start": 28.98,
+      "end": 32.48,
+      "text": "ovvero Terry's Black BBQ, che tra l'altro vi ho già mostrato ovviamente in un altro video"
+    },
+    {
+      "start": 32.48,
+      "end": 35.8,
+      "text": "avendolo già provato, ma l'altra volta l'hanno riuscito a prendere questo brontosauro,"
+    },
+    {
+      "start": 35.88,
+      "end": 37.16,
+      "text": "questa rib di mangiate."
+    },
+    {
+      "start": 37.22,
+      "end": 40.1,
+      "text": "Forse è stato il pezzo di carne che più mi ha stupito del BBQ Texas."
+    },
+    {
+      "start": 40.34,
+      "end": 42.84,
+      "text": "Forse è addirittura più morbido del brisket che ragazzi guardate qua,"
+    },
+    {
+      "start": 42.9,
+      "end": 46.34,
+      "text": "era mello morbido anche lui e poi per completare ovviamente ci volevano le pork ribs."
+    },
+    {
+      "start": 46.52,
+      "end": 48.86,
+      "text": "Ma per completare il pasto per bene ovviamente ci voleva al side,"
+    },
+    {
+      "start": 48.92,
+      "end": 52.16,
+      "text": "quindi potito salad, fatta molto bene che tra l'altra volta non avevo provato"
+    },
+    {
+      "start": 52.16,
+      "end": 53.56,
+      "text": "perché avevo puttato per il mac n cheese."
+    },
+    {
+      "start": 53.7,
+      "end": 57.22,
+      "text": "Prima invece guardate che bestia di osse di lino sauro e di infine per completare bene bene"
+    },
+    {
+      "start": 57.22,
+      "end": 59.5,
+      "text": "proprio tutto il pasto banana pudding come dolce."
+    },
+    {
+      "start": 59.56,
+      "end": 63.12,
+      "text": "E questo è stato un po' lazzardo perché ero bello pieno però ci voleva per smorzare un po' il salato."
+    },
+    {
+      "start": 63.2,
+      "end": 66.52,
+      "text": "Poi si partono in direzione e Houston ma vovano fermarti in una stazione di Bacchis."
+    },
+    {
+      "start": 66.6,
+      "end": 72.48,
+      "text": "Rigamente è la versione Texana dell'autogrill mastodontico dove un bel caffettino da un litro e mezzo non me lo toglio nessuno."
+    },
+    {
+      "start": 72.54,
+      "end": 74.28,
+      "text": "Arrivate a Houston non che ci sia tanto da vedere,"
+    },
+    {
+      "start": 74.4,
+      "end": 78.4,
+      "text": "abbiamo fatto un giro in un centro commerciale molto americano dove però ho visto delle cose parecchio strane."
+    },
+    {
+      "start": 78.54,
+      "end": 83.86,
+      "text": "E niente, giretto serale per la città la ricerca di qualcosa da mangiare anche se eravamo parecchio pieni infatti non ho niente filmato."
+    },
+    {
+      "start": 83.9,
+      "end": 85.62,
+      "text": "Ma quanto è bello il cyber track della Tesla?"
+    },
+    {
+      "start": 85.62,
+      "end": 86.68,
+      "text": "Più lo vedo più mi piace."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "word": "Giorno"
+    },
+    {
+      "start": 0.36,
+      "end": 0.54,
+      "word": "7"
+    },
+    {
+      "start": 0.54,
+      "end": 0.7,
+      "word": "è"
+    },
+    {
+      "start": 0.7,
+      "end": 0.72,
+      "word": "la"
+    },
+    {
+      "start": 0.72,
+      "end": 0.8,
+      "word": "mia"
+    },
+    {
+      "start": 0.8,
+      "end": 1.0,
+      "word": "viaggi"
+    },
+    {
+      "start": 1.0,
+      "end": 1.14,
+      "word": "in"
+    },
+    {
+      "start": 1.14,
+      "end": 1.32,
+      "word": "Texas"
+    },
+    {
+      "start": 1.32,
+      "end": 1.5,
+      "word": "e"
+    },
+    {
+      "start": 1.5,
+      "end": 1.58,
+      "word": "la"
+    },
+    {
+      "start": 1.58,
+      "end": 1.86,
+      "word": "scoperta"
+    },
+    {
+      "start": 1.86,
+      "end": 2.04,
+      "word": "dei"
+    },
+    {
+      "start": 2.04,
+      "end": 2.32,
+      "word": "migliori"
+    },
+    {
+      "start": 2.32,
+      "end": 2.6,
+      "word": "barbecue"
+    },
+    {
+      "start": 2.6,
+      "end": 2.84,
+      "word": "di"
+    },
+    {
+      "start": 2.84,
+      "end": 3.1,
+      "word": "tutta"
+    },
+    {
+      "start": 3.1,
+      "end": 3.18,
+      "word": "l"
+    },
+    {
+      "start": 3.18,
+      "end": 3.56,
+      "word": "'America."
+    },
+    {
+      "start": 3.62,
+      "end": 3.8,
+      "word": "Giornata"
+    },
+    {
+      "start": 3.8,
+      "end": 3.96,
+      "word": "di"
+    },
+    {
+      "start": 3.96,
+      "end": 4.12,
+      "word": "oggi"
+    },
+    {
+      "start": 4.12,
+      "end": 4.28,
+      "word": "che"
+    },
+    {
+      "start": 4.28,
+      "end": 4.44,
+      "word": "come"
+    },
+    {
+      "start": 4.44,
+      "end": 4.66,
+      "word": "sempre"
+    },
+    {
+      "start": 4.66,
+      "end": 5.04,
+      "word": "inizia"
+    },
+    {
+      "start": 5.04,
+      "end": 5.14,
+      "word": "con"
+    },
+    {
+      "start": 5.14,
+      "end": 5.26,
+      "word": "un"
+    },
+    {
+      "start": 5.26,
+      "end": 5.62,
+      "word": "allenamento"
+    },
+    {
+      "start": 5.62,
+      "end": 6.3,
+      "word": "mattutino"
+    },
+    {
+      "start": 6.3,
+      "end": 6.42,
+      "word": "in"
+    },
+    {
+      "start": 6.42,
+      "end": 6.58,
+      "word": "quello"
+    },
+    {
+      "start": 6.58,
+      "end": 6.92,
+      "word": "di"
+    },
+    {
+      "start": 6.92,
+      "end": 7.24,
+      "word": "Austin,"
+    },
+    {
+      "start": 7.44,
+      "end": 7.52,
+      "word": "per"
+    },
+    {
+      "start": 7.52,
+      "end": 7.66,
+      "word": "poi"
+    },
+    {
+      "start": 7.66,
+      "end": 7.92,
+      "word": "uscire"
+    },
+    {
+      "start": 7.92,
+      "end": 8.0,
+      "word": "a"
+    },
+    {
+      "start": 8.0,
+      "end": 8.12,
+      "word": "fare"
+    },
+    {
+      "start": 8.12,
+      "end": 8.24,
+      "word": "un"
+    },
+    {
+      "start": 8.24,
+      "end": 8.42,
+      "word": "giro"
+    },
+    {
+      "start": 8.42,
+      "end": 8.56,
+      "word": "nel"
+    },
+    {
+      "start": 8.56,
+      "end": 9.02,
+      "word": "quartiere"
+    },
+    {
+      "start": 9.02,
+      "end": 9.14,
+      "word": "e"
+    },
+    {
+      "start": 9.14,
+      "end": 9.22,
+      "word": "nell"
+    },
+    {
+      "start": 9.22,
+      "end": 9.74,
+      "word": "'università"
+    },
+    {
+      "start": 9.74,
+      "end": 9.94,
+      "word": "del"
+    },
+    {
+      "start": 9.94,
+      "end": 10.3,
+      "word": "Texas"
+    },
+    {
+      "start": 10.3,
+      "end": 10.58,
+      "word": "ad"
+    },
+    {
+      "start": 10.58,
+      "end": 10.84,
+      "word": "Austin,"
+    },
+    {
+      "start": 11.06,
+      "end": 11.14,
+      "word": "la"
+    },
+    {
+      "start": 11.14,
+      "end": 11.32,
+      "word": "casa"
+    },
+    {
+      "start": 11.32,
+      "end": 11.52,
+      "word": "tra"
+    },
+    {
+      "start": 11.52,
+      "end": 11.64,
+      "word": "l"
+    },
+    {
+      "start": 11.64,
+      "end": 11.72,
+      "word": "'altro"
+    },
+    {
+      "start": 11.72,
+      "end": 11.9,
+      "word": "dei"
+    },
+    {
+      "start": 11.9,
+      "end": 12.46,
+      "word": "Longhorns"
+    },
+    {
+      "start": 12.46,
+      "end": 12.72,
+      "word": "che"
+    },
+    {
+      "start": 12.72,
+      "end": 12.78,
+      "word": "è"
+    },
+    {
+      "start": 12.78,
+      "end": 12.84,
+      "word": "il"
+    },
+    {
+      "start": 12.84,
+      "end": 13.02,
+      "word": "nome"
+    },
+    {
+      "start": 13.02,
+      "end": 13.3,
+      "word": "delle"
+    },
+    {
+      "start": 13.3,
+      "end": 13.64,
+      "word": "squadre"
+    },
+    {
+      "start": 13.64,
+      "end": 14.16,
+      "word": "locali"
+    },
+    {
+      "start": 14.16,
+      "end": 14.24,
+      "word": "di"
+    },
+    {
+      "start": 14.24,
+      "end": 14.5,
+      "word": "football,"
+    },
+    {
+      "start": 14.66,
+      "end": 15.04,
+      "word": "basket,"
+    },
+    {
+      "start": 15.4,
+      "end": 15.64,
+      "word": "baseball"
+    },
+    {
+      "start": 15.64,
+      "end": 15.84,
+      "word": "e"
+    },
+    {
+      "start": 15.84,
+      "end": 15.92,
+      "word": "devo"
+    },
+    {
+      "start": 15.92,
+      "end": 16.1,
+      "word": "dire"
+    },
+    {
+      "start": 16.1,
+      "end": 16.24,
+      "word": "che"
+    },
+    {
+      "start": 16.24,
+      "end": 16.32,
+      "word": "è"
+    },
+    {
+      "start": 16.32,
+      "end": 16.62,
+      "word": "davvero"
+    },
+    {
+      "start": 16.62,
+      "end": 16.78,
+      "word": "un"
+    },
+    {
+      "start": 16.78,
+      "end": 16.88,
+      "word": "bel"
+    },
+    {
+      "start": 16.88,
+      "end": 17.32,
+      "word": "campus."
+    },
+    {
+      "start": 17.44,
+      "end": 17.46,
+      "word": "E"
+    },
+    {
+      "start": 17.46,
+      "end": 17.58,
+      "word": "anche"
+    },
+    {
+      "start": 17.58,
+      "end": 17.7,
+      "word": "se"
+    },
+    {
+      "start": 17.7,
+      "end": 17.78,
+      "word": "l"
+    },
+    {
+      "start": 17.78,
+      "end": 17.88,
+      "word": "'avevo"
+    },
+    {
+      "start": 17.88,
+      "end": 18.02,
+      "word": "già"
+    },
+    {
+      "start": 18.02,
+      "end": 18.28,
+      "word": "visto"
+    },
+    {
+      "start": 18.28,
+      "end": 18.5,
+      "word": "ne"
+    },
+    {
+      "start": 18.5,
+      "end": 18.66,
+      "word": "basta"
+    },
+    {
+      "start": 18.66,
+      "end": 18.86,
+      "word": "la"
+    },
+    {
+      "start": 18.86,
+      "end": 18.96,
+      "word": "pena"
+    },
+    {
+      "start": 18.96,
+      "end": 19.48,
+      "word": "tornarci."
+    },
+    {
+      "start": 19.56,
+      "end": 19.92,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 19.92,
+      "end": 20.14,
+      "word": "però"
+    },
+    {
+      "start": 20.14,
+      "end": 20.24,
+      "word": "è"
+    },
+    {
+      "start": 20.24,
+      "end": 20.44,
+      "word": "arrivato"
+    },
+    {
+      "start": 20.44,
+      "end": 20.58,
+      "word": "l"
+    },
+    {
+      "start": 20.58,
+      "end": 20.76,
+      "word": "'orata"
+    },
+    {
+      "start": 20.76,
+      "end": 21.0,
+      "word": "del"
+    },
+    {
+      "start": 21.0,
+      "end": 21.34,
+      "word": "pranzo"
+    },
+    {
+      "start": 21.34,
+      "end": 21.4,
+      "word": "e"
+    },
+    {
+      "start": 21.4,
+      "end": 21.48,
+      "word": "quindi"
+    },
+    {
+      "start": 21.48,
+      "end": 21.6,
+      "word": "ho"
+    },
+    {
+      "start": 21.6,
+      "end": 21.7,
+      "word": "detto"
+    },
+    {
+      "start": 21.7,
+      "end": 22.0,
+      "word": "vabbè"
+    },
+    {
+      "start": 22.0,
+      "end": 22.26,
+      "word": "facciamo"
+    },
+    {
+      "start": 22.26,
+      "end": 22.4,
+      "word": "un"
+    },
+    {
+      "start": 22.4,
+      "end": 22.72,
+      "word": "tentativo"
+    },
+    {
+      "start": 22.72,
+      "end": 22.86,
+      "word": "da"
+    },
+    {
+      "start": 22.86,
+      "end": 23.12,
+      "word": "Franklin"
+    },
+    {
+      "start": 23.12,
+      "end": 23.48,
+      "word": "BBQ"
+    },
+    {
+      "start": 23.48,
+      "end": 23.72,
+      "word": "per"
+    },
+    {
+      "start": 23.72,
+      "end": 23.92,
+      "word": "vedere"
+    },
+    {
+      "start": 23.92,
+      "end": 24.1,
+      "word": "se"
+    },
+    {
+      "start": 24.1,
+      "end": 24.18,
+      "word": "è"
+    },
+    {
+      "start": 24.18,
+      "end": 24.48,
+      "word": "pattibile"
+    },
+    {
+      "start": 24.48,
+      "end": 24.62,
+      "word": "e"
+    },
+    {
+      "start": 24.62,
+      "end": 24.88,
+      "word": "mangiate."
+    },
+    {
+      "start": 24.92,
+      "end": 25.16,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 25.16,
+      "end": 25.4,
+      "word": "c"
+    },
+    {
+      "start": 25.4,
+      "end": 25.42,
+      "word": "'era"
+    },
+    {
+      "start": 25.42,
+      "end": 25.56,
+      "word": "una"
+    },
+    {
+      "start": 25.56,
+      "end": 25.68,
+      "word": "coda"
+    },
+    {
+      "start": 25.68,
+      "end": 26.16,
+      "word": "incredibile"
+    },
+    {
+      "start": 26.16,
+      "end": 26.26,
+      "word": "e"
+    },
+    {
+      "start": 26.26,
+      "end": 26.34,
+      "word": "quindi"
+    },
+    {
+      "start": 26.34,
+      "end": 26.52,
+      "word": "abbiamo"
+    },
+    {
+      "start": 26.52,
+      "end": 26.84,
+      "word": "votato"
+    },
+    {
+      "start": 26.84,
+      "end": 27.02,
+      "word": "per"
+    },
+    {
+      "start": 27.02,
+      "end": 27.16,
+      "word": "il"
+    },
+    {
+      "start": 27.16,
+      "end": 27.3,
+      "word": "mio"
+    },
+    {
+      "start": 27.3,
+      "end": 27.72,
+      "word": "BBQ"
+    },
+    {
+      "start": 27.72,
+      "end": 28.24,
+      "word": "preferito"
+    },
+    {
+      "start": 28.24,
+      "end": 28.38,
+      "word": "di"
+    },
+    {
+      "start": 28.38,
+      "end": 28.54,
+      "word": "tutto"
+    },
+    {
+      "start": 28.54,
+      "end": 28.72,
+      "word": "il"
+    },
+    {
+      "start": 28.72,
+      "end": 28.98,
+      "word": "Texas,"
+    },
+    {
+      "start": 28.98,
+      "end": 29.48,
+      "word": "ovvero"
+    },
+    {
+      "start": 29.48,
+      "end": 29.9,
+      "word": "Terry's"
+    },
+    {
+      "start": 29.9,
+      "end": 30.06,
+      "word": "Black"
+    },
+    {
+      "start": 30.06,
+      "end": 30.54,
+      "word": "BBQ,"
+    },
+    {
+      "start": 30.68,
+      "end": 30.72,
+      "word": "che"
+    },
+    {
+      "start": 30.72,
+      "end": 30.84,
+      "word": "tra"
+    },
+    {
+      "start": 30.84,
+      "end": 30.9,
+      "word": "l"
+    },
+    {
+      "start": 30.9,
+      "end": 30.94,
+      "word": "'altro"
+    },
+    {
+      "start": 30.94,
+      "end": 31.1,
+      "word": "vi"
+    },
+    {
+      "start": 31.1,
+      "end": 31.14,
+      "word": "ho"
+    },
+    {
+      "start": 31.14,
+      "end": 31.28,
+      "word": "già"
+    },
+    {
+      "start": 31.28,
+      "end": 31.56,
+      "word": "mostrato"
+    },
+    {
+      "start": 31.56,
+      "end": 31.82,
+      "word": "ovviamente"
+    },
+    {
+      "start": 31.82,
+      "end": 32.08,
+      "word": "in"
+    },
+    {
+      "start": 32.08,
+      "end": 32.14,
+      "word": "un"
+    },
+    {
+      "start": 32.14,
+      "end": 32.28,
+      "word": "altro"
+    },
+    {
+      "start": 32.28,
+      "end": 32.48,
+      "word": "video"
+    },
+    {
+      "start": 32.48,
+      "end": 32.8,
+      "word": "avendolo"
+    },
+    {
+      "start": 32.8,
+      "end": 32.96,
+      "word": "già"
+    },
+    {
+      "start": 32.96,
+      "end": 33.34,
+      "word": "provato,"
+    },
+    {
+      "start": 33.38,
+      "end": 33.44,
+      "word": "ma"
+    },
+    {
+      "start": 33.44,
+      "end": 33.56,
+      "word": "l"
+    },
+    {
+      "start": 33.56,
+      "end": 33.66,
+      "word": "'altra"
+    },
+    {
+      "start": 33.66,
+      "end": 33.96,
+      "word": "volta"
+    },
+    {
+      "start": 33.96,
+      "end": 34.14,
+      "word": "l"
+    },
+    {
+      "start": 34.14,
+      "end": 34.16,
+      "word": "'hanno"
+    },
+    {
+      "start": 34.16,
+      "end": 34.48,
+      "word": "riuscito"
+    },
+    {
+      "start": 34.48,
+      "end": 34.6,
+      "word": "a"
+    },
+    {
+      "start": 34.6,
+      "end": 34.78,
+      "word": "prendere"
+    },
+    {
+      "start": 34.78,
+      "end": 35.04,
+      "word": "questo"
+    },
+    {
+      "start": 35.04,
+      "end": 35.8,
+      "word": "brontosauro,"
+    },
+    {
+      "start": 35.88,
+      "end": 36.16,
+      "word": "questa"
+    },
+    {
+      "start": 36.16,
+      "end": 36.52,
+      "word": "rib"
+    },
+    {
+      "start": 36.52,
+      "end": 36.8,
+      "word": "di"
+    },
+    {
+      "start": 36.8,
+      "end": 37.16,
+      "word": "mangiate."
+    },
+    {
+      "start": 37.22,
+      "end": 37.4,
+      "word": "Forse"
+    },
+    {
+      "start": 37.4,
+      "end": 37.5,
+      "word": "è"
+    },
+    {
+      "start": 37.5,
+      "end": 37.62,
+      "word": "stato"
+    },
+    {
+      "start": 37.62,
+      "end": 37.8,
+      "word": "il"
+    },
+    {
+      "start": 37.8,
+      "end": 37.98,
+      "word": "pezzo"
+    },
+    {
+      "start": 37.98,
+      "end": 38.12,
+      "word": "di"
+    },
+    {
+      "start": 38.12,
+      "end": 38.34,
+      "word": "carne"
+    },
+    {
+      "start": 38.34,
+      "end": 38.54,
+      "word": "che"
+    },
+    {
+      "start": 38.54,
+      "end": 38.78,
+      "word": "più"
+    },
+    {
+      "start": 38.78,
+      "end": 38.9,
+      "word": "mi"
+    },
+    {
+      "start": 38.9,
+      "end": 38.98,
+      "word": "ha"
+    },
+    {
+      "start": 38.98,
+      "end": 39.34,
+      "word": "stupito"
+    },
+    {
+      "start": 39.34,
+      "end": 39.54,
+      "word": "del"
+    },
+    {
+      "start": 39.54,
+      "end": 39.82,
+      "word": "BBQ"
+    },
+    {
+      "start": 39.82,
+      "end": 40.1,
+      "word": "Texas."
+    },
+    {
+      "start": 40.34,
+      "end": 40.54,
+      "word": "Forse"
+    },
+    {
+      "start": 40.54,
+      "end": 40.62,
+      "word": "è"
+    },
+    {
+      "start": 40.62,
+      "end": 40.92,
+      "word": "addirittura"
+    },
+    {
+      "start": 40.92,
+      "end": 41.08,
+      "word": "più"
+    },
+    {
+      "start": 41.08,
+      "end": 41.34,
+      "word": "morbido"
+    },
+    {
+      "start": 41.34,
+      "end": 41.54,
+      "word": "del"
+    },
+    {
+      "start": 41.54,
+      "end": 41.9,
+      "word": "brisket"
+    },
+    {
+      "start": 41.9,
+      "end": 42.06,
+      "word": "che"
+    },
+    {
+      "start": 42.06,
+      "end": 42.36,
+      "word": "ragazzi"
+    },
+    {
+      "start": 42.36,
+      "end": 42.62,
+      "word": "guardate"
+    },
+    {
+      "start": 42.62,
+      "end": 42.84,
+      "word": "qua,"
+    },
+    {
+      "start": 42.9,
+      "end": 43.04,
+      "word": "era"
+    },
+    {
+      "start": 43.04,
+      "end": 43.32,
+      "word": "mello"
+    },
+    {
+      "start": 43.32,
+      "end": 43.66,
+      "word": "morbido"
+    },
+    {
+      "start": 43.66,
+      "end": 43.8,
+      "word": "anche"
+    },
+    {
+      "start": 43.8,
+      "end": 44.02,
+      "word": "lui"
+    },
+    {
+      "start": 44.02,
+      "end": 44.18,
+      "word": "e"
+    },
+    {
+      "start": 44.18,
+      "end": 44.3,
+      "word": "poi"
+    },
+    {
+      "start": 44.3,
+      "end": 44.44,
+      "word": "per"
+    },
+    {
+      "start": 44.44,
+      "end": 44.94,
+      "word": "completare"
+    },
+    {
+      "start": 44.94,
+      "end": 45.24,
+      "word": "ovviamente"
+    },
+    {
+      "start": 45.24,
+      "end": 45.48,
+      "word": "ci"
+    },
+    {
+      "start": 45.48,
+      "end": 45.78,
+      "word": "volevano"
+    },
+    {
+      "start": 45.78,
+      "end": 45.9,
+      "word": "le"
+    },
+    {
+      "start": 45.9,
+      "end": 46.06,
+      "word": "pork"
+    },
+    {
+      "start": 46.06,
+      "end": 46.34,
+      "word": "ribs."
+    },
+    {
+      "start": 46.52,
+      "end": 46.58,
+      "word": "Ma"
+    },
+    {
+      "start": 46.58,
+      "end": 46.72,
+      "word": "per"
+    },
+    {
+      "start": 46.72,
+      "end": 47.08,
+      "word": "completare"
+    },
+    {
+      "start": 47.08,
+      "end": 47.24,
+      "word": "il"
+    },
+    {
+      "start": 47.24,
+      "end": 47.58,
+      "word": "pasto"
+    },
+    {
+      "start": 47.58,
+      "end": 47.7,
+      "word": "per"
+    },
+    {
+      "start": 47.7,
+      "end": 47.88,
+      "word": "bene"
+    },
+    {
+      "start": 47.88,
+      "end": 48.14,
+      "word": "ovviamente"
+    },
+    {
+      "start": 48.14,
+      "end": 48.36,
+      "word": "ci"
+    },
+    {
+      "start": 48.36,
+      "end": 48.54,
+      "word": "voleva"
+    },
+    {
+      "start": 48.54,
+      "end": 48.68,
+      "word": "al"
+    },
+    {
+      "start": 48.68,
+      "end": 48.86,
+      "word": "side,"
+    },
+    {
+      "start": 48.92,
+      "end": 49.16,
+      "word": "quindi"
+    },
+    {
+      "start": 49.16,
+      "end": 49.5,
+      "word": "potito"
+    },
+    {
+      "start": 49.5,
+      "end": 49.9,
+      "word": "salad,"
+    },
+    {
+      "start": 50.04,
+      "end": 50.2,
+      "word": "fatta"
+    },
+    {
+      "start": 50.2,
+      "end": 50.38,
+      "word": "molto"
+    },
+    {
+      "start": 50.38,
+      "end": 50.62,
+      "word": "bene"
+    },
+    {
+      "start": 50.62,
+      "end": 50.76,
+      "word": "che"
+    },
+    {
+      "start": 50.76,
+      "end": 50.9,
+      "word": "tra"
+    },
+    {
+      "start": 50.9,
+      "end": 50.98,
+      "word": "l"
+    },
+    {
+      "start": 50.98,
+      "end": 51.06,
+      "word": "'altra"
+    },
+    {
+      "start": 51.06,
+      "end": 51.46,
+      "word": "volta"
+    },
+    {
+      "start": 51.46,
+      "end": 51.68,
+      "word": "non"
+    },
+    {
+      "start": 51.68,
+      "end": 51.8,
+      "word": "avevo"
+    },
+    {
+      "start": 51.8,
+      "end": 52.16,
+      "word": "provato"
+    },
+    {
+      "start": 52.16,
+      "end": 52.32,
+      "word": "perché"
+    },
+    {
+      "start": 52.32,
+      "end": 52.54,
+      "word": "avevo"
+    },
+    {
+      "start": 52.54,
+      "end": 52.86,
+      "word": "puttato"
+    },
+    {
+      "start": 52.86,
+      "end": 53.04,
+      "word": "per"
+    },
+    {
+      "start": 53.04,
+      "end": 53.14,
+      "word": "il"
+    },
+    {
+      "start": 53.14,
+      "end": 53.22,
+      "word": "mac"
+    },
+    {
+      "start": 53.22,
+      "end": 53.38,
+      "word": "n"
+    },
+    {
+      "start": 53.38,
+      "end": 53.56,
+      "word": "cheese."
+    },
+    {
+      "start": 53.7,
+      "end": 53.76,
+      "word": "Prima"
+    },
+    {
+      "start": 53.76,
+      "end": 53.92,
+      "word": "invece"
+    },
+    {
+      "start": 53.92,
+      "end": 54.16,
+      "word": "guardate"
+    },
+    {
+      "start": 54.16,
+      "end": 54.3,
+      "word": "che"
+    },
+    {
+      "start": 54.3,
+      "end": 54.78,
+      "word": "bestia"
+    },
+    {
+      "start": 54.78,
+      "end": 54.88,
+      "word": "di"
+    },
+    {
+      "start": 54.88,
+      "end": 55.14,
+      "word": "osse"
+    },
+    {
+      "start": 55.14,
+      "end": 55.24,
+      "word": "di"
+    },
+    {
+      "start": 55.24,
+      "end": 55.44,
+      "word": "lino"
+    },
+    {
+      "start": 55.44,
+      "end": 55.8,
+      "word": "sauro"
+    },
+    {
+      "start": 55.8,
+      "end": 55.88,
+      "word": "e"
+    },
+    {
+      "start": 55.88,
+      "end": 55.98,
+      "word": "di"
+    },
+    {
+      "start": 55.98,
+      "end": 56.22,
+      "word": "infine"
+    },
+    {
+      "start": 56.22,
+      "end": 56.38,
+      "word": "per"
+    },
+    {
+      "start": 56.38,
+      "end": 56.78,
+      "word": "completare"
+    },
+    {
+      "start": 56.78,
+      "end": 57.02,
+      "word": "bene"
+    },
+    {
+      "start": 57.02,
+      "end": 57.22,
+      "word": "bene"
+    },
+    {
+      "start": 57.22,
+      "end": 57.42,
+      "word": "proprio"
+    },
+    {
+      "start": 57.42,
+      "end": 57.72,
+      "word": "tutto"
+    },
+    {
+      "start": 57.72,
+      "end": 57.88,
+      "word": "il"
+    },
+    {
+      "start": 57.88,
+      "end": 58.32,
+      "word": "pasto"
+    },
+    {
+      "start": 58.32,
+      "end": 58.62,
+      "word": "banana"
+    },
+    {
+      "start": 58.62,
+      "end": 59.0,
+      "word": "pudding"
+    },
+    {
+      "start": 59.0,
+      "end": 59.26,
+      "word": "come"
+    },
+    {
+      "start": 59.26,
+      "end": 59.5,
+      "word": "dolce."
+    },
+    {
+      "start": 59.56,
+      "end": 59.56,
+      "word": "E"
+    },
+    {
+      "start": 59.56,
+      "end": 59.66,
+      "word": "questo"
+    },
+    {
+      "start": 59.66,
+      "end": 59.78,
+      "word": "è"
+    },
+    {
+      "start": 59.78,
+      "end": 59.94,
+      "word": "stato"
+    },
+    {
+      "start": 59.94,
+      "end": 60.02,
+      "word": "un"
+    },
+    {
+      "start": 60.02,
+      "end": 60.1,
+      "word": "po'"
+    },
+    {
+      "start": 60.16,
+      "end": 60.5,
+      "word": "lazzardo"
+    },
+    {
+      "start": 60.5,
+      "end": 60.72,
+      "word": "perché"
+    },
+    {
+      "start": 60.72,
+      "end": 60.86,
+      "word": "ero"
+    },
+    {
+      "start": 60.86,
+      "end": 61.08,
+      "word": "bello"
+    },
+    {
+      "start": 61.08,
+      "end": 61.36,
+      "word": "pieno"
+    },
+    {
+      "start": 61.36,
+      "end": 61.54,
+      "word": "però"
+    },
+    {
+      "start": 61.54,
+      "end": 61.74,
+      "word": "ci"
+    },
+    {
+      "start": 61.74,
+      "end": 62.04,
+      "word": "voleva"
+    },
+    {
+      "start": 62.04,
+      "end": 62.18,
+      "word": "per"
+    },
+    {
+      "start": 62.18,
+      "end": 62.54,
+      "word": "smorzare"
+    },
+    {
+      "start": 62.54,
+      "end": 62.68,
+      "word": "un"
+    },
+    {
+      "start": 62.68,
+      "end": 62.78,
+      "word": "po'"
+    },
+    {
+      "start": 62.92,
+      "end": 62.92,
+      "word": "il"
+    },
+    {
+      "start": 62.92,
+      "end": 63.12,
+      "word": "salato."
+    },
+    {
+      "start": 63.2,
+      "end": 63.38,
+      "word": "Poi"
+    },
+    {
+      "start": 63.38,
+      "end": 63.56,
+      "word": "si"
+    },
+    {
+      "start": 63.56,
+      "end": 63.8,
+      "word": "partono"
+    },
+    {
+      "start": 63.8,
+      "end": 63.9,
+      "word": "in"
+    },
+    {
+      "start": 63.9,
+      "end": 64.2,
+      "word": "direzione"
+    },
+    {
+      "start": 64.2,
+      "end": 64.34,
+      "word": "e"
+    },
+    {
+      "start": 64.34,
+      "end": 64.58,
+      "word": "Houston"
+    },
+    {
+      "start": 64.58,
+      "end": 64.84,
+      "word": "ma"
+    },
+    {
+      "start": 64.84,
+      "end": 65.02,
+      "word": "vovano"
+    },
+    {
+      "start": 65.02,
+      "end": 65.44,
+      "word": "fermarti"
+    },
+    {
+      "start": 65.44,
+      "end": 65.56,
+      "word": "in"
+    },
+    {
+      "start": 65.56,
+      "end": 65.66,
+      "word": "una"
+    },
+    {
+      "start": 65.66,
+      "end": 65.96,
+      "word": "stazione"
+    },
+    {
+      "start": 65.96,
+      "end": 66.14,
+      "word": "di"
+    },
+    {
+      "start": 66.14,
+      "end": 66.52,
+      "word": "Bacchis."
+    },
+    {
+      "start": 66.6,
+      "end": 66.78,
+      "word": "Rigamente"
+    },
+    {
+      "start": 66.78,
+      "end": 67.02,
+      "word": "è"
+    },
+    {
+      "start": 67.02,
+      "end": 67.06,
+      "word": "la"
+    },
+    {
+      "start": 67.06,
+      "end": 67.68,
+      "word": "versione"
+    },
+    {
+      "start": 67.68,
+      "end": 68.22,
+      "word": "Texana"
+    },
+    {
+      "start": 68.22,
+      "end": 68.4,
+      "word": "dell"
+    },
+    {
+      "start": 68.4,
+      "end": 68.84,
+      "word": "'autogrill"
+    },
+    {
+      "start": 68.84,
+      "end": 69.84,
+      "word": "mastodontico"
+    },
+    {
+      "start": 69.84,
+      "end": 70.02,
+      "word": "dove"
+    },
+    {
+      "start": 70.02,
+      "end": 70.16,
+      "word": "un"
+    },
+    {
+      "start": 70.16,
+      "end": 70.24,
+      "word": "bel"
+    },
+    {
+      "start": 70.24,
+      "end": 70.74,
+      "word": "caffettino"
+    },
+    {
+      "start": 70.74,
+      "end": 70.88,
+      "word": "da"
+    },
+    {
+      "start": 70.88,
+      "end": 70.98,
+      "word": "un"
+    },
+    {
+      "start": 70.98,
+      "end": 71.16,
+      "word": "litro"
+    },
+    {
+      "start": 71.16,
+      "end": 71.24,
+      "word": "e"
+    },
+    {
+      "start": 71.24,
+      "end": 71.56,
+      "word": "mezzo"
+    },
+    {
+      "start": 71.56,
+      "end": 71.7,
+      "word": "non"
+    },
+    {
+      "start": 71.7,
+      "end": 71.8,
+      "word": "me"
+    },
+    {
+      "start": 71.8,
+      "end": 71.86,
+      "word": "lo"
+    },
+    {
+      "start": 71.86,
+      "end": 72.04,
+      "word": "toglio"
+    },
+    {
+      "start": 72.04,
+      "end": 72.48,
+      "word": "nessuno."
+    },
+    {
+      "start": 72.54,
+      "end": 72.82,
+      "word": "Arrivate"
+    },
+    {
+      "start": 72.82,
+      "end": 72.92,
+      "word": "a"
+    },
+    {
+      "start": 72.92,
+      "end": 73.2,
+      "word": "Houston"
+    },
+    {
+      "start": 73.2,
+      "end": 73.4,
+      "word": "non"
+    },
+    {
+      "start": 73.4,
+      "end": 73.52,
+      "word": "che"
+    },
+    {
+      "start": 73.52,
+      "end": 73.62,
+      "word": "ci"
+    },
+    {
+      "start": 73.62,
+      "end": 73.72,
+      "word": "sia"
+    },
+    {
+      "start": 73.72,
+      "end": 73.92,
+      "word": "tanto"
+    },
+    {
+      "start": 73.92,
+      "end": 74.06,
+      "word": "da"
+    },
+    {
+      "start": 74.06,
+      "end": 74.28,
+      "word": "vedere,"
+    },
+    {
+      "start": 74.4,
+      "end": 74.46,
+      "word": "abbiamo"
+    },
+    {
+      "start": 74.46,
+      "end": 74.64,
+      "word": "fatto"
+    },
+    {
+      "start": 74.64,
+      "end": 74.8,
+      "word": "un"
+    },
+    {
+      "start": 74.8,
+      "end": 74.96,
+      "word": "giro"
+    },
+    {
+      "start": 74.96,
+      "end": 75.06,
+      "word": "in"
+    },
+    {
+      "start": 75.06,
+      "end": 75.1,
+      "word": "un"
+    },
+    {
+      "start": 75.1,
+      "end": 75.26,
+      "word": "centro"
+    },
+    {
+      "start": 75.26,
+      "end": 75.86,
+      "word": "commerciale"
+    },
+    {
+      "start": 75.86,
+      "end": 76.12,
+      "word": "molto"
+    },
+    {
+      "start": 76.12,
+      "end": 76.62,
+      "word": "americano"
+    },
+    {
+      "start": 76.62,
+      "end": 76.86,
+      "word": "dove"
+    },
+    {
+      "start": 76.86,
+      "end": 77.08,
+      "word": "però"
+    },
+    {
+      "start": 77.08,
+      "end": 77.24,
+      "word": "ho"
+    },
+    {
+      "start": 77.24,
+      "end": 77.24,
+      "word": "visto"
+    },
+    {
+      "start": 77.24,
+      "end": 77.44,
+      "word": "delle"
+    },
+    {
+      "start": 77.44,
+      "end": 77.6,
+      "word": "cose"
+    },
+    {
+      "start": 77.6,
+      "end": 78.04,
+      "word": "parecchio"
+    },
+    {
+      "start": 78.04,
+      "end": 78.4,
+      "word": "strane."
+    },
+    {
+      "start": 78.54,
+      "end": 78.6,
+      "word": "E"
+    },
+    {
+      "start": 78.6,
+      "end": 78.88,
+      "word": "niente,"
+    },
+    {
+      "start": 79.06,
+      "end": 79.26,
+      "word": "giretto"
+    },
+    {
+      "start": 79.26,
+      "end": 79.58,
+      "word": "serale"
+    },
+    {
+      "start": 79.58,
+      "end": 79.76,
+      "word": "per"
+    },
+    {
+      "start": 79.76,
+      "end": 79.88,
+      "word": "la"
+    },
+    {
+      "start": 79.88,
+      "end": 80.16,
+      "word": "città"
+    },
+    {
+      "start": 80.16,
+      "end": 80.32,
+      "word": "la"
+    },
+    {
+      "start": 80.32,
+      "end": 80.58,
+      "word": "ricerca"
+    },
+    {
+      "start": 80.58,
+      "end": 80.72,
+      "word": "di"
+    },
+    {
+      "start": 80.72,
+      "end": 80.94,
+      "word": "qualcosa"
+    },
+    {
+      "start": 80.94,
+      "end": 81.12,
+      "word": "da"
+    },
+    {
+      "start": 81.12,
+      "end": 81.46,
+      "word": "mangiare"
+    },
+    {
+      "start": 81.46,
+      "end": 81.6,
+      "word": "anche"
+    },
+    {
+      "start": 81.6,
+      "end": 81.76,
+      "word": "se"
+    },
+    {
+      "start": 81.76,
+      "end": 81.98,
+      "word": "eravamo"
+    },
+    {
+      "start": 81.98,
+      "end": 82.34,
+      "word": "parecchio"
+    },
+    {
+      "start": 82.34,
+      "end": 82.68,
+      "word": "pieni"
+    },
+    {
+      "start": 82.68,
+      "end": 82.92,
+      "word": "infatti"
+    },
+    {
+      "start": 82.92,
+      "end": 83.08,
+      "word": "non"
+    },
+    {
+      "start": 83.08,
+      "end": 83.2,
+      "word": "ho"
+    },
+    {
+      "start": 83.2,
+      "end": 83.3,
+      "word": "niente"
+    },
+    {
+      "start": 83.3,
+      "end": 83.86,
+      "word": "filmato."
+    },
+    {
+      "start": 83.9,
+      "end": 84.0,
+      "word": "Ma"
+    },
+    {
+      "start": 84.0,
+      "end": 84.16,
+      "word": "quanto"
+    },
+    {
+      "start": 84.16,
+      "end": 84.32,
+      "word": "è"
+    },
+    {
+      "start": 84.32,
+      "end": 84.5,
+      "word": "bello"
+    },
+    {
+      "start": 84.5,
+      "end": 84.64,
+      "word": "il"
+    },
+    {
+      "start": 84.64,
+      "end": 84.82,
+      "word": "cyber"
+    },
+    {
+      "start": 84.82,
+      "end": 85.06,
+      "word": "track"
+    },
+    {
+      "start": 85.06,
+      "end": 85.26,
+      "word": "della"
+    },
+    {
+      "start": 85.26,
+      "end": 85.62,
+      "word": "Tesla?"
+    },
+    {
+      "start": 85.62,
+      "end": 85.9,
+      "word": "Più"
+    },
+    {
+      "start": 85.9,
+      "end": 85.98,
+      "word": "lo"
+    },
+    {
+      "start": 85.98,
+      "end": 86.24,
+      "word": "vedo"
+    },
+    {
+      "start": 86.24,
+      "end": 86.36,
+      "word": "più"
+    },
+    {
+      "start": 86.36,
+      "end": 86.44,
+      "word": "mi"
+    },
+    {
+      "start": 86.44,
+      "end": 86.68,
+      "word": "piace."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.533,
+      "dur": 2.533,
+      "transcript": "Giorno 7 è la mia viaggi in Texas e la scoperta dei migliori barbecue"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.533,
+      "end": 3.967,
+      "dur": 1.433,
+      "transcript": "di tutta l 'America. Giornata di"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.967,
+      "end": 5.633,
+      "dur": 1.667,
+      "transcript": "oggi che come sempre inizia con un allenamento"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.633,
+      "end": 9.967,
+      "dur": 4.333,
+      "transcript": "mattutino in quello di Austin, per poi uscire a fare un giro nel quartiere e nell 'università del"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.967,
+      "end": 12.133,
+      "dur": 2.167,
+      "transcript": "Texas ad Austin, la casa tra l 'altro dei"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.133,
+      "end": 14.367,
+      "dur": 2.233,
+      "transcript": "Longhorns che è il nome delle squadre locali di"
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.367,
+      "end": 17.267,
+      "dur": 2.9,
+      "transcript": "football, basket, baseball e devo dire che è davvero un bel campus."
+    },
+    {
+      "shot_idx": 7,
+      "start": 17.267,
+      "end": 19.867,
+      "dur": 2.6,
+      "transcript": "E anche se l 'avevo già visto ne basta la pena tornarci. Dopodiché"
+    },
+    {
+      "shot_idx": 8,
+      "start": 19.867,
+      "end": 24.833,
+      "dur": 4.967,
+      "transcript": "però è arrivato l 'orata del pranzo e quindi ho detto vabbè facciamo un tentativo da Franklin BBQ per vedere se è pattibile e mangiate."
+    },
+    {
+      "shot_idx": 9,
+      "start": 24.833,
+      "end": 26.833,
+      "dur": 2.0,
+      "transcript": "Ovviamente c 'era una coda incredibile e quindi abbiamo votato"
+    },
+    {
+      "shot_idx": 10,
+      "start": 26.833,
+      "end": 28.867,
+      "dur": 2.033,
+      "transcript": "per il mio BBQ preferito di tutto il Texas,"
+    },
+    {
+      "shot_idx": 11,
+      "start": 28.867,
+      "end": 31.1,
+      "dur": 2.233,
+      "transcript": "ovvero Terry's Black BBQ, che tra l 'altro vi"
+    },
+    {
+      "shot_idx": 12,
+      "start": 31.1,
+      "end": 35.0,
+      "dur": 3.9,
+      "transcript": "ho già mostrato ovviamente in un altro video avendolo già provato, ma l 'altra volta l 'hanno riuscito a prendere questo"
+    },
+    {
+      "shot_idx": 13,
+      "start": 35.0,
+      "end": 38.233,
+      "dur": 3.233,
+      "transcript": "brontosauro, questa rib di mangiate. Forse è stato il pezzo di carne"
+    },
+    {
+      "shot_idx": 14,
+      "start": 38.233,
+      "end": 47.233,
+      "dur": 9.0,
+      "transcript": "che più mi ha stupito del BBQ Texas. Forse è addirittura più morbido del brisket che ragazzi guardate qua, era mello morbido anche lui e poi per completare ovviamente ci volevano le pork ribs. Ma per completare il"
+    },
+    {
+      "shot_idx": 15,
+      "start": 47.233,
+      "end": 49.133,
+      "dur": 1.9,
+      "transcript": "pasto per bene ovviamente ci voleva al side, quindi"
+    },
+    {
+      "shot_idx": 16,
+      "start": 49.133,
+      "end": 52.367,
+      "dur": 3.233,
+      "transcript": "potito salad, fatta molto bene che tra l 'altra volta non avevo provato perché"
+    },
+    {
+      "shot_idx": 17,
+      "start": 52.367,
+      "end": 57.767,
+      "dur": 5.4,
+      "transcript": "avevo puttato per il mac n cheese. Prima invece guardate che bestia di osse di lino sauro e di infine per completare bene bene proprio tutto"
+    },
+    {
+      "shot_idx": 18,
+      "start": 57.767,
+      "end": 61.467,
+      "dur": 3.7,
+      "transcript": "il pasto banana pudding come dolce. E questo è stato un po' lazzardo perché ero bello pieno però"
+    },
+    {
+      "shot_idx": 19,
+      "start": 61.467,
+      "end": 62.5,
+      "dur": 1.033,
+      "transcript": "ci voleva per smorzare"
+    },
+    {
+      "shot_idx": 20,
+      "start": 62.5,
+      "end": 64.367,
+      "dur": 1.867,
+      "transcript": "un po' il salato. Poi si partono in direzione e"
+    },
+    {
+      "shot_idx": 21,
+      "start": 64.367,
+      "end": 66.833,
+      "dur": 2.467,
+      "transcript": "Houston ma vovano fermarti in una stazione di Bacchis. Rigamente"
+    },
+    {
+      "shot_idx": 22,
+      "start": 66.833,
+      "end": 69.333,
+      "dur": 2.5,
+      "transcript": "è la versione Texana dell 'autogrill"
+    },
+    {
+      "shot_idx": 23,
+      "start": 69.333,
+      "end": 69.967,
+      "dur": 0.633,
+      "transcript": "mastodontico dove"
+    },
+    {
+      "shot_idx": 24,
+      "start": 69.967,
+      "end": 70.567,
+      "dur": 0.6,
+      "transcript": "un bel caffettino"
+    },
+    {
+      "shot_idx": 25,
+      "start": 70.567,
+      "end": 72.333,
+      "dur": 1.767,
+      "transcript": "da un litro e mezzo non me lo toglio nessuno."
+    },
+    {
+      "shot_idx": 26,
+      "start": 72.333,
+      "end": 75.9,
+      "dur": 3.567,
+      "transcript": "Arrivate a Houston non che ci sia tanto da vedere, abbiamo fatto un giro in un centro commerciale"
+    },
+    {
+      "shot_idx": 27,
+      "start": 75.9,
+      "end": 78.133,
+      "dur": 2.233,
+      "transcript": "molto americano dove però ho visto delle cose parecchio"
+    },
+    {
+      "shot_idx": 28,
+      "start": 78.133,
+      "end": 81.067,
+      "dur": 2.933,
+      "transcript": "strane. E niente, giretto serale per la città la ricerca di qualcosa da"
+    },
+    {
+      "shot_idx": 29,
+      "start": 81.067,
+      "end": 84.933,
+      "dur": 3.867,
+      "transcript": "mangiare anche se eravamo parecchio pieni infatti non ho niente filmato. Ma quanto è bello il cyber"
+    },
+    {
+      "shot_idx": 30,
+      "start": 84.933,
+      "end": 87.033,
+      "dur": 2.1,
+      "transcript": "track della Tesla? Più lo vedo più mi piace."
+    }
+  ],
+  "full_text": "Giorno 7 è la mia viaggi in Texas e la scoperta dei migliori barbecue di tutta l'America. Giornata di oggi che come sempre inizia con un allenamento mattutino in quello di Austin, per poi uscire a fare un giro nel quartiere e nell'università del Texas ad Austin, la casa tra l'altro dei Longhorns che è il nome delle squadre locali di football, basket, baseball e devo dire che è davvero un bel campus. E anche se l'avevo già visto ne basta la pena tornarci. Dopodiché però è arrivato l'orata del pranzo e quindi ho detto vabbè facciamo un tentativo da Franklin BBQ per vedere se è pattibile e mangiate. Ovviamente c'era una coda incredibile e quindi abbiamo votato per il mio BBQ preferito di tutto il Texas, ovvero Terry's Black BBQ, che tra l'altro vi ho già mostrato ovviamente in un altro video avendolo già provato, ma l'altra volta l'hanno riuscito a prendere questo brontosauro, questa rib di mangiate. Forse è stato il pezzo di carne che più mi ha stupito del BBQ Texas. Forse è addirittura più morbido del brisket che ragazzi guardate qua, era mello morbido anche lui e poi per completare ovviamente ci volevano le pork ribs. Ma per completare il pasto per bene ovviamente ci voleva al side, quindi potito salad, fatta molto bene che tra l'altra volta non avevo provato perché avevo puttato per il mac n cheese. Prima invece guardate che bestia di osse di lino sauro e di infine per completare bene bene proprio tutto il pasto banana pudding come dolce. E questo è stato un po' lazzardo perché ero bello pieno però ci voleva per smorzare un po' il salato. Poi si partono in direzione e Houston ma vovano fermarti in una stazione di Bacchis. Rigamente è la versione Texana dell'autogrill mastodontico dove un bel caffettino da un litro e mezzo non me lo toglio nessuno. Arrivate a Houston non che ci sia tanto da vedere, abbiamo fatto un giro in un centro commerciale molto americano dove però ho visto delle cose parecchio strane. E niente, giretto serale per la città la ricerca di qualcosa da mangiare anche se eravamo parecchio pieni infatti non ho niente filmato. Ma quanto è bello il cyber track della Tesla? Più lo vedo più mi piace.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,1595 @@
+{
+  "ref_id": "ref_09_7658959940307963168",
+  "video": "/opt/reel-agent/media/style_ref/ref_09_7658959940307963168.mp4",
+  "n_segments": 13,
+  "n_words": 257,
+  "n_shots": 33,
+  "full_text": "Giorn' 6 del mio viaggio a le Maldive alla scoperta di questo paradiso. Sì ragazzi oggi siamo arrivati al sesto giorno di questa settimana Ci siamo svegliati come sempre abbiamo fatto una bella colazione con un omelette dei pancakes appena fatti ovviamente vista mare e poi Abbiamo fatto un secondo giro con qualche altra sfeziosità è un bel caffè dopo di che relax tra piscine mare con un piccolo operativo in questo Barretto appunto sulla spiaggia un po di snorkeling sulla barriera corallina e un bel check del pump che grazie alle 5000 calorie giornaliere è praticamente sempre presente ed infatti eccoci qua che dichiarichiamo le nostre energie a franzo oggi con anche questo regalino fatto proprio dal cameriere che ci serve ogni giorno poi siamo andati in palestra per fare un bel push day e sì in questi giorni sono davvero ingressato tanto ma i muscoli sono davvero pieni di glicogino nel pomeriggio siamo poi partiti in barca con questo branco di squali nutrici che ci ha seguito per tutta la partenza e dopo aver Stisito un fantastico tramonto sul mare abbiamo iniziato a pescare semplicemente con questa lenza devo dire che dopo un paio di ore Qualche risultato abbiamo portato a casa tanta tesa ma poi anche un bel po di soddisfazione Anche perché i pesci che abbiamo pescato verano poi cucinati nel villaggio ed eccomi qua pronto per la cena Con un paio di giri ovviamente tra antipasti e primi è qualche dolcetto e infine per concludere la serata partita di calcetto Italia Maldive",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "Giorn' 6 del mio viaggio a le Maldive alla scoperta di questo paradiso. Sì ragazzi oggi siamo arrivati al sesto giorno di questa settimana"
+    },
+    {
+      "start": 6.02,
+      "end": 12.0,
+      "text": "Ci siamo svegliati come sempre abbiamo fatto una bella colazione con un omelette dei pancakes appena fatti ovviamente vista mare e poi"
+    },
+    {
+      "start": 12.0,
+      "end": 18.36,
+      "text": "Abbiamo fatto un secondo giro con qualche altra sfeziosità è un bel caffè dopo di che relax tra piscine mare con un piccolo operativo in questo"
+    },
+    {
+      "start": 18.36,
+      "end": 24.84,
+      "text": "Barretto appunto sulla spiaggia un po di snorkeling sulla barriera corallina e un bel check del pump che grazie alle 5000 calorie"
+    },
+    {
+      "start": 24.84,
+      "end": 29.98,
+      "text": "giornaliere è praticamente sempre presente ed infatti eccoci qua che dichiarichiamo le nostre energie a franzo"
+    },
+    {
+      "start": 30.0,
+      "end": 35.44,
+      "text": "oggi con anche questo regalino fatto proprio dal cameriere che ci serve ogni giorno poi siamo andati in palestra per fare un bel push day"
+    },
+    {
+      "start": 35.44,
+      "end": 39.0,
+      "text": "e sì in questi giorni sono davvero ingressato tanto ma i muscoli sono davvero pieni di glicogino"
+    },
+    {
+      "start": 39.52,
+      "end": 44.96,
+      "text": "nel pomeriggio siamo poi partiti in barca con questo branco di squali nutrici che ci ha seguito per tutta la partenza e dopo aver"
+    },
+    {
+      "start": 44.96,
+      "end": 50.52,
+      "text": "Stisito un fantastico tramonto sul mare abbiamo iniziato a pescare semplicemente con questa lenza devo dire che dopo un paio di ore"
+    },
+    {
+      "start": 50.52,
+      "end": 55.02,
+      "text": "Qualche risultato abbiamo portato a casa tanta tesa ma poi anche un bel po di soddisfazione"
+    },
+    {
+      "start": 55.02,
+      "end": 59.74,
+      "text": "Anche perché i pesci che abbiamo pescato verano poi cucinati nel villaggio ed eccomi qua pronto per la cena"
+    },
+    {
+      "start": 59.74,
+      "end": 66.22,
+      "text": "Con un paio di giri ovviamente tra antipasti e primi è qualche dolcetto e infine per concludere la serata partita di calcetto"
+    },
+    {
+      "start": 66.22,
+      "end": 67.16,
+      "text": "Italia Maldive"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "word": "Giorn'"
+    },
+    {
+      "start": 0.44,
+      "end": 0.64,
+      "word": "6"
+    },
+    {
+      "start": 0.64,
+      "end": 0.84,
+      "word": "del"
+    },
+    {
+      "start": 0.84,
+      "end": 0.94,
+      "word": "mio"
+    },
+    {
+      "start": 0.94,
+      "end": 1.18,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.18,
+      "end": 1.32,
+      "word": "a"
+    },
+    {
+      "start": 1.32,
+      "end": 1.34,
+      "word": "le"
+    },
+    {
+      "start": 1.34,
+      "end": 1.66,
+      "word": "Maldive"
+    },
+    {
+      "start": 1.66,
+      "end": 1.84,
+      "word": "alla"
+    },
+    {
+      "start": 1.84,
+      "end": 2.2,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.2,
+      "end": 2.38,
+      "word": "di"
+    },
+    {
+      "start": 2.38,
+      "end": 2.68,
+      "word": "questo"
+    },
+    {
+      "start": 2.68,
+      "end": 3.36,
+      "word": "paradiso."
+    },
+    {
+      "start": 3.48,
+      "end": 3.6,
+      "word": "Sì"
+    },
+    {
+      "start": 3.6,
+      "end": 3.94,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.94,
+      "end": 4.08,
+      "word": "oggi"
+    },
+    {
+      "start": 4.08,
+      "end": 4.24,
+      "word": "siamo"
+    },
+    {
+      "start": 4.24,
+      "end": 4.48,
+      "word": "arrivati"
+    },
+    {
+      "start": 4.48,
+      "end": 4.62,
+      "word": "al"
+    },
+    {
+      "start": 4.62,
+      "end": 4.86,
+      "word": "sesto"
+    },
+    {
+      "start": 4.86,
+      "end": 5.18,
+      "word": "giorno"
+    },
+    {
+      "start": 5.18,
+      "end": 5.36,
+      "word": "di"
+    },
+    {
+      "start": 5.36,
+      "end": 5.54,
+      "word": "questa"
+    },
+    {
+      "start": 5.54,
+      "end": 6.02,
+      "word": "settimana"
+    },
+    {
+      "start": 6.02,
+      "end": 6.24,
+      "word": "Ci"
+    },
+    {
+      "start": 6.24,
+      "end": 6.42,
+      "word": "siamo"
+    },
+    {
+      "start": 6.42,
+      "end": 6.74,
+      "word": "svegliati"
+    },
+    {
+      "start": 6.74,
+      "end": 6.96,
+      "word": "come"
+    },
+    {
+      "start": 6.96,
+      "end": 7.24,
+      "word": "sempre"
+    },
+    {
+      "start": 7.24,
+      "end": 7.46,
+      "word": "abbiamo"
+    },
+    {
+      "start": 7.46,
+      "end": 7.66,
+      "word": "fatto"
+    },
+    {
+      "start": 7.66,
+      "end": 7.8,
+      "word": "una"
+    },
+    {
+      "start": 7.8,
+      "end": 8.06,
+      "word": "bella"
+    },
+    {
+      "start": 8.06,
+      "end": 8.5,
+      "word": "colazione"
+    },
+    {
+      "start": 8.5,
+      "end": 8.72,
+      "word": "con"
+    },
+    {
+      "start": 8.72,
+      "end": 8.86,
+      "word": "un"
+    },
+    {
+      "start": 8.86,
+      "end": 9.2,
+      "word": "omelette"
+    },
+    {
+      "start": 9.2,
+      "end": 9.4,
+      "word": "dei"
+    },
+    {
+      "start": 9.4,
+      "end": 9.68,
+      "word": "pancakes"
+    },
+    {
+      "start": 9.68,
+      "end": 10.08,
+      "word": "appena"
+    },
+    {
+      "start": 10.08,
+      "end": 10.46,
+      "word": "fatti"
+    },
+    {
+      "start": 10.46,
+      "end": 10.86,
+      "word": "ovviamente"
+    },
+    {
+      "start": 10.86,
+      "end": 11.3,
+      "word": "vista"
+    },
+    {
+      "start": 11.3,
+      "end": 11.66,
+      "word": "mare"
+    },
+    {
+      "start": 11.66,
+      "end": 11.92,
+      "word": "e"
+    },
+    {
+      "start": 11.92,
+      "end": 12.0,
+      "word": "poi"
+    },
+    {
+      "start": 12.0,
+      "end": 12.18,
+      "word": "Abbiamo"
+    },
+    {
+      "start": 12.18,
+      "end": 12.38,
+      "word": "fatto"
+    },
+    {
+      "start": 12.38,
+      "end": 12.58,
+      "word": "un"
+    },
+    {
+      "start": 12.58,
+      "end": 12.82,
+      "word": "secondo"
+    },
+    {
+      "start": 12.82,
+      "end": 13.2,
+      "word": "giro"
+    },
+    {
+      "start": 13.2,
+      "end": 13.36,
+      "word": "con"
+    },
+    {
+      "start": 13.36,
+      "end": 13.6,
+      "word": "qualche"
+    },
+    {
+      "start": 13.6,
+      "end": 13.9,
+      "word": "altra"
+    },
+    {
+      "start": 13.9,
+      "end": 14.5,
+      "word": "sfeziosità"
+    },
+    {
+      "start": 14.5,
+      "end": 14.66,
+      "word": "è"
+    },
+    {
+      "start": 14.66,
+      "end": 14.74,
+      "word": "un"
+    },
+    {
+      "start": 14.74,
+      "end": 14.84,
+      "word": "bel"
+    },
+    {
+      "start": 14.84,
+      "end": 15.24,
+      "word": "caffè"
+    },
+    {
+      "start": 15.24,
+      "end": 15.42,
+      "word": "dopo"
+    },
+    {
+      "start": 15.42,
+      "end": 15.58,
+      "word": "di"
+    },
+    {
+      "start": 15.58,
+      "end": 15.7,
+      "word": "che"
+    },
+    {
+      "start": 15.7,
+      "end": 16.08,
+      "word": "relax"
+    },
+    {
+      "start": 16.08,
+      "end": 16.36,
+      "word": "tra"
+    },
+    {
+      "start": 16.36,
+      "end": 16.72,
+      "word": "piscine"
+    },
+    {
+      "start": 16.72,
+      "end": 17.04,
+      "word": "mare"
+    },
+    {
+      "start": 17.04,
+      "end": 17.24,
+      "word": "con"
+    },
+    {
+      "start": 17.24,
+      "end": 17.34,
+      "word": "un"
+    },
+    {
+      "start": 17.34,
+      "end": 17.62,
+      "word": "piccolo"
+    },
+    {
+      "start": 17.62,
+      "end": 18.04,
+      "word": "operativo"
+    },
+    {
+      "start": 18.04,
+      "end": 18.16,
+      "word": "in"
+    },
+    {
+      "start": 18.16,
+      "end": 18.36,
+      "word": "questo"
+    },
+    {
+      "start": 18.36,
+      "end": 18.86,
+      "word": "Barretto"
+    },
+    {
+      "start": 18.86,
+      "end": 19.06,
+      "word": "appunto"
+    },
+    {
+      "start": 19.06,
+      "end": 19.34,
+      "word": "sulla"
+    },
+    {
+      "start": 19.34,
+      "end": 19.88,
+      "word": "spiaggia"
+    },
+    {
+      "start": 19.88,
+      "end": 20.1,
+      "word": "un"
+    },
+    {
+      "start": 20.1,
+      "end": 20.18,
+      "word": "po"
+    },
+    {
+      "start": 20.18,
+      "end": 20.3,
+      "word": "di"
+    },
+    {
+      "start": 20.3,
+      "end": 20.8,
+      "word": "snorkeling"
+    },
+    {
+      "start": 20.8,
+      "end": 21.0,
+      "word": "sulla"
+    },
+    {
+      "start": 21.0,
+      "end": 21.36,
+      "word": "barriera"
+    },
+    {
+      "start": 21.36,
+      "end": 21.9,
+      "word": "corallina"
+    },
+    {
+      "start": 21.9,
+      "end": 22.2,
+      "word": "e"
+    },
+    {
+      "start": 22.2,
+      "end": 22.34,
+      "word": "un"
+    },
+    {
+      "start": 22.34,
+      "end": 22.44,
+      "word": "bel"
+    },
+    {
+      "start": 22.44,
+      "end": 22.7,
+      "word": "check"
+    },
+    {
+      "start": 22.7,
+      "end": 23.08,
+      "word": "del"
+    },
+    {
+      "start": 23.08,
+      "end": 23.46,
+      "word": "pump"
+    },
+    {
+      "start": 23.46,
+      "end": 23.7,
+      "word": "che"
+    },
+    {
+      "start": 23.7,
+      "end": 24.0,
+      "word": "grazie"
+    },
+    {
+      "start": 24.0,
+      "end": 24.16,
+      "word": "alle"
+    },
+    {
+      "start": 24.16,
+      "end": 24.32,
+      "word": "5000"
+    },
+    {
+      "start": 24.32,
+      "end": 24.84,
+      "word": "calorie"
+    },
+    {
+      "start": 24.84,
+      "end": 25.62,
+      "word": "giornaliere"
+    },
+    {
+      "start": 25.62,
+      "end": 25.84,
+      "word": "è"
+    },
+    {
+      "start": 25.84,
+      "end": 26.04,
+      "word": "praticamente"
+    },
+    {
+      "start": 26.04,
+      "end": 26.48,
+      "word": "sempre"
+    },
+    {
+      "start": 26.48,
+      "end": 26.96,
+      "word": "presente"
+    },
+    {
+      "start": 26.96,
+      "end": 27.16,
+      "word": "ed"
+    },
+    {
+      "start": 27.16,
+      "end": 27.46,
+      "word": "infatti"
+    },
+    {
+      "start": 27.46,
+      "end": 27.8,
+      "word": "eccoci"
+    },
+    {
+      "start": 27.8,
+      "end": 27.94,
+      "word": "qua"
+    },
+    {
+      "start": 27.94,
+      "end": 28.08,
+      "word": "che"
+    },
+    {
+      "start": 28.08,
+      "end": 28.62,
+      "word": "dichiarichiamo"
+    },
+    {
+      "start": 28.62,
+      "end": 28.76,
+      "word": "le"
+    },
+    {
+      "start": 28.76,
+      "end": 29.0,
+      "word": "nostre"
+    },
+    {
+      "start": 29.0,
+      "end": 29.4,
+      "word": "energie"
+    },
+    {
+      "start": 29.4,
+      "end": 29.56,
+      "word": "a"
+    },
+    {
+      "start": 29.56,
+      "end": 29.98,
+      "word": "franzo"
+    },
+    {
+      "start": 30.0,
+      "end": 30.26,
+      "word": "oggi"
+    },
+    {
+      "start": 30.26,
+      "end": 30.44,
+      "word": "con"
+    },
+    {
+      "start": 30.44,
+      "end": 30.58,
+      "word": "anche"
+    },
+    {
+      "start": 30.58,
+      "end": 30.84,
+      "word": "questo"
+    },
+    {
+      "start": 30.84,
+      "end": 31.2,
+      "word": "regalino"
+    },
+    {
+      "start": 31.2,
+      "end": 31.38,
+      "word": "fatto"
+    },
+    {
+      "start": 31.38,
+      "end": 31.62,
+      "word": "proprio"
+    },
+    {
+      "start": 31.62,
+      "end": 31.78,
+      "word": "dal"
+    },
+    {
+      "start": 31.78,
+      "end": 32.22,
+      "word": "cameriere"
+    },
+    {
+      "start": 32.22,
+      "end": 32.38,
+      "word": "che"
+    },
+    {
+      "start": 32.38,
+      "end": 32.5,
+      "word": "ci"
+    },
+    {
+      "start": 32.5,
+      "end": 32.7,
+      "word": "serve"
+    },
+    {
+      "start": 32.7,
+      "end": 32.9,
+      "word": "ogni"
+    },
+    {
+      "start": 32.9,
+      "end": 33.24,
+      "word": "giorno"
+    },
+    {
+      "start": 33.24,
+      "end": 33.44,
+      "word": "poi"
+    },
+    {
+      "start": 33.44,
+      "end": 33.56,
+      "word": "siamo"
+    },
+    {
+      "start": 33.56,
+      "end": 33.78,
+      "word": "andati"
+    },
+    {
+      "start": 33.78,
+      "end": 33.9,
+      "word": "in"
+    },
+    {
+      "start": 33.9,
+      "end": 34.16,
+      "word": "palestra"
+    },
+    {
+      "start": 34.16,
+      "end": 34.36,
+      "word": "per"
+    },
+    {
+      "start": 34.36,
+      "end": 34.5,
+      "word": "fare"
+    },
+    {
+      "start": 34.5,
+      "end": 34.66,
+      "word": "un"
+    },
+    {
+      "start": 34.66,
+      "end": 34.82,
+      "word": "bel"
+    },
+    {
+      "start": 34.82,
+      "end": 35.24,
+      "word": "push"
+    },
+    {
+      "start": 35.24,
+      "end": 35.44,
+      "word": "day"
+    },
+    {
+      "start": 35.44,
+      "end": 35.62,
+      "word": "e"
+    },
+    {
+      "start": 35.62,
+      "end": 35.76,
+      "word": "sì"
+    },
+    {
+      "start": 35.76,
+      "end": 35.8,
+      "word": "in"
+    },
+    {
+      "start": 35.8,
+      "end": 35.98,
+      "word": "questi"
+    },
+    {
+      "start": 35.98,
+      "end": 36.2,
+      "word": "giorni"
+    },
+    {
+      "start": 36.2,
+      "end": 36.34,
+      "word": "sono"
+    },
+    {
+      "start": 36.34,
+      "end": 36.66,
+      "word": "davvero"
+    },
+    {
+      "start": 36.66,
+      "end": 37.04,
+      "word": "ingressato"
+    },
+    {
+      "start": 37.04,
+      "end": 37.38,
+      "word": "tanto"
+    },
+    {
+      "start": 37.38,
+      "end": 37.74,
+      "word": "ma"
+    },
+    {
+      "start": 37.74,
+      "end": 37.82,
+      "word": "i"
+    },
+    {
+      "start": 37.82,
+      "end": 38.1,
+      "word": "muscoli"
+    },
+    {
+      "start": 38.1,
+      "end": 38.26,
+      "word": "sono"
+    },
+    {
+      "start": 38.26,
+      "end": 38.64,
+      "word": "davvero"
+    },
+    {
+      "start": 38.64,
+      "end": 38.84,
+      "word": "pieni"
+    },
+    {
+      "start": 38.84,
+      "end": 38.96,
+      "word": "di"
+    },
+    {
+      "start": 38.96,
+      "end": 39.18,
+      "word": "glicogino"
+    },
+    {
+      "start": 39.52,
+      "end": 39.74,
+      "word": "nel"
+    },
+    {
+      "start": 39.74,
+      "end": 40.12,
+      "word": "pomeriggio"
+    },
+    {
+      "start": 40.12,
+      "end": 40.28,
+      "word": "siamo"
+    },
+    {
+      "start": 40.28,
+      "end": 40.44,
+      "word": "poi"
+    },
+    {
+      "start": 40.44,
+      "end": 40.76,
+      "word": "partiti"
+    },
+    {
+      "start": 40.76,
+      "end": 40.9,
+      "word": "in"
+    },
+    {
+      "start": 40.9,
+      "end": 41.28,
+      "word": "barca"
+    },
+    {
+      "start": 41.28,
+      "end": 41.44,
+      "word": "con"
+    },
+    {
+      "start": 41.44,
+      "end": 41.62,
+      "word": "questo"
+    },
+    {
+      "start": 41.62,
+      "end": 42.0,
+      "word": "branco"
+    },
+    {
+      "start": 42.0,
+      "end": 42.12,
+      "word": "di"
+    },
+    {
+      "start": 42.12,
+      "end": 42.32,
+      "word": "squali"
+    },
+    {
+      "start": 42.32,
+      "end": 42.72,
+      "word": "nutrici"
+    },
+    {
+      "start": 42.72,
+      "end": 42.84,
+      "word": "che"
+    },
+    {
+      "start": 42.84,
+      "end": 42.96,
+      "word": "ci"
+    },
+    {
+      "start": 42.96,
+      "end": 43.0,
+      "word": "ha"
+    },
+    {
+      "start": 43.0,
+      "end": 43.26,
+      "word": "seguito"
+    },
+    {
+      "start": 43.26,
+      "end": 43.46,
+      "word": "per"
+    },
+    {
+      "start": 43.46,
+      "end": 43.7,
+      "word": "tutta"
+    },
+    {
+      "start": 43.7,
+      "end": 43.8,
+      "word": "la"
+    },
+    {
+      "start": 43.8,
+      "end": 44.3,
+      "word": "partenza"
+    },
+    {
+      "start": 44.3,
+      "end": 44.6,
+      "word": "e"
+    },
+    {
+      "start": 44.6,
+      "end": 44.78,
+      "word": "dopo"
+    },
+    {
+      "start": 44.78,
+      "end": 44.96,
+      "word": "aver"
+    },
+    {
+      "start": 44.96,
+      "end": 45.34,
+      "word": "Stisito"
+    },
+    {
+      "start": 45.34,
+      "end": 45.5,
+      "word": "un"
+    },
+    {
+      "start": 45.5,
+      "end": 46.0,
+      "word": "fantastico"
+    },
+    {
+      "start": 46.0,
+      "end": 46.26,
+      "word": "tramonto"
+    },
+    {
+      "start": 46.26,
+      "end": 46.54,
+      "word": "sul"
+    },
+    {
+      "start": 46.54,
+      "end": 46.76,
+      "word": "mare"
+    },
+    {
+      "start": 46.76,
+      "end": 47.04,
+      "word": "abbiamo"
+    },
+    {
+      "start": 47.04,
+      "end": 47.34,
+      "word": "iniziato"
+    },
+    {
+      "start": 47.34,
+      "end": 47.48,
+      "word": "a"
+    },
+    {
+      "start": 47.48,
+      "end": 47.78,
+      "word": "pescare"
+    },
+    {
+      "start": 47.78,
+      "end": 48.3,
+      "word": "semplicemente"
+    },
+    {
+      "start": 48.3,
+      "end": 48.48,
+      "word": "con"
+    },
+    {
+      "start": 48.48,
+      "end": 48.72,
+      "word": "questa"
+    },
+    {
+      "start": 48.72,
+      "end": 49.12,
+      "word": "lenza"
+    },
+    {
+      "start": 49.12,
+      "end": 49.4,
+      "word": "devo"
+    },
+    {
+      "start": 49.4,
+      "end": 49.6,
+      "word": "dire"
+    },
+    {
+      "start": 49.6,
+      "end": 49.72,
+      "word": "che"
+    },
+    {
+      "start": 49.72,
+      "end": 49.9,
+      "word": "dopo"
+    },
+    {
+      "start": 49.9,
+      "end": 50.02,
+      "word": "un"
+    },
+    {
+      "start": 50.02,
+      "end": 50.18,
+      "word": "paio"
+    },
+    {
+      "start": 50.18,
+      "end": 50.3,
+      "word": "di"
+    },
+    {
+      "start": 50.3,
+      "end": 50.52,
+      "word": "ore"
+    },
+    {
+      "start": 50.52,
+      "end": 50.98,
+      "word": "Qualche"
+    },
+    {
+      "start": 50.98,
+      "end": 51.46,
+      "word": "risultato"
+    },
+    {
+      "start": 51.46,
+      "end": 51.7,
+      "word": "abbiamo"
+    },
+    {
+      "start": 51.7,
+      "end": 52.02,
+      "word": "portato"
+    },
+    {
+      "start": 52.02,
+      "end": 52.14,
+      "word": "a"
+    },
+    {
+      "start": 52.14,
+      "end": 52.42,
+      "word": "casa"
+    },
+    {
+      "start": 52.42,
+      "end": 52.72,
+      "word": "tanta"
+    },
+    {
+      "start": 52.72,
+      "end": 53.18,
+      "word": "tesa"
+    },
+    {
+      "start": 53.18,
+      "end": 53.3,
+      "word": "ma"
+    },
+    {
+      "start": 53.3,
+      "end": 53.54,
+      "word": "poi"
+    },
+    {
+      "start": 53.54,
+      "end": 53.88,
+      "word": "anche"
+    },
+    {
+      "start": 53.88,
+      "end": 54.04,
+      "word": "un"
+    },
+    {
+      "start": 54.04,
+      "end": 54.08,
+      "word": "bel"
+    },
+    {
+      "start": 54.08,
+      "end": 54.22,
+      "word": "po"
+    },
+    {
+      "start": 54.22,
+      "end": 54.32,
+      "word": "di"
+    },
+    {
+      "start": 54.32,
+      "end": 55.02,
+      "word": "soddisfazione"
+    },
+    {
+      "start": 55.02,
+      "end": 55.36,
+      "word": "Anche"
+    },
+    {
+      "start": 55.36,
+      "end": 55.6,
+      "word": "perché"
+    },
+    {
+      "start": 55.6,
+      "end": 55.84,
+      "word": "i"
+    },
+    {
+      "start": 55.84,
+      "end": 55.98,
+      "word": "pesci"
+    },
+    {
+      "start": 55.98,
+      "end": 56.06,
+      "word": "che"
+    },
+    {
+      "start": 56.06,
+      "end": 56.2,
+      "word": "abbiamo"
+    },
+    {
+      "start": 56.2,
+      "end": 56.62,
+      "word": "pescato"
+    },
+    {
+      "start": 56.62,
+      "end": 56.92,
+      "word": "verano"
+    },
+    {
+      "start": 56.92,
+      "end": 57.14,
+      "word": "poi"
+    },
+    {
+      "start": 57.14,
+      "end": 57.62,
+      "word": "cucinati"
+    },
+    {
+      "start": 57.62,
+      "end": 57.9,
+      "word": "nel"
+    },
+    {
+      "start": 57.9,
+      "end": 58.34,
+      "word": "villaggio"
+    },
+    {
+      "start": 58.34,
+      "end": 58.46,
+      "word": "ed"
+    },
+    {
+      "start": 58.46,
+      "end": 58.72,
+      "word": "eccomi"
+    },
+    {
+      "start": 58.72,
+      "end": 58.9,
+      "word": "qua"
+    },
+    {
+      "start": 58.9,
+      "end": 59.14,
+      "word": "pronto"
+    },
+    {
+      "start": 59.14,
+      "end": 59.38,
+      "word": "per"
+    },
+    {
+      "start": 59.38,
+      "end": 59.52,
+      "word": "la"
+    },
+    {
+      "start": 59.52,
+      "end": 59.74,
+      "word": "cena"
+    },
+    {
+      "start": 59.74,
+      "end": 60.06,
+      "word": "Con"
+    },
+    {
+      "start": 60.06,
+      "end": 60.24,
+      "word": "un"
+    },
+    {
+      "start": 60.24,
+      "end": 60.5,
+      "word": "paio"
+    },
+    {
+      "start": 60.5,
+      "end": 60.64,
+      "word": "di"
+    },
+    {
+      "start": 60.64,
+      "end": 61.0,
+      "word": "giri"
+    },
+    {
+      "start": 61.0,
+      "end": 61.38,
+      "word": "ovviamente"
+    },
+    {
+      "start": 61.38,
+      "end": 61.66,
+      "word": "tra"
+    },
+    {
+      "start": 61.66,
+      "end": 62.2,
+      "word": "antipasti"
+    },
+    {
+      "start": 62.2,
+      "end": 62.3,
+      "word": "e"
+    },
+    {
+      "start": 62.3,
+      "end": 62.74,
+      "word": "primi"
+    },
+    {
+      "start": 62.74,
+      "end": 62.82,
+      "word": "è"
+    },
+    {
+      "start": 62.82,
+      "end": 63.08,
+      "word": "qualche"
+    },
+    {
+      "start": 63.08,
+      "end": 63.72,
+      "word": "dolcetto"
+    },
+    {
+      "start": 63.72,
+      "end": 63.98,
+      "word": "e"
+    },
+    {
+      "start": 63.98,
+      "end": 64.22,
+      "word": "infine"
+    },
+    {
+      "start": 64.22,
+      "end": 64.36,
+      "word": "per"
+    },
+    {
+      "start": 64.36,
+      "end": 64.78,
+      "word": "concludere"
+    },
+    {
+      "start": 64.78,
+      "end": 64.88,
+      "word": "la"
+    },
+    {
+      "start": 64.88,
+      "end": 65.22,
+      "word": "serata"
+    },
+    {
+      "start": 65.22,
+      "end": 65.62,
+      "word": "partita"
+    },
+    {
+      "start": 65.62,
+      "end": 65.72,
+      "word": "di"
+    },
+    {
+      "start": 65.72,
+      "end": 66.22,
+      "word": "calcetto"
+    },
+    {
+      "start": 66.22,
+      "end": 66.68,
+      "word": "Italia"
+    },
+    {
+      "start": 66.68,
+      "end": 67.16,
+      "word": "Maldive"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "Giorn' 6 del mio viaggio a le Maldive alla"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.267,
+      "dur": 2.267,
+      "transcript": "scoperta di questo paradiso. Sì ragazzi oggi siamo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.267,
+      "end": 6.0,
+      "dur": 1.733,
+      "transcript": "arrivati al sesto giorno di questa settimana"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.0,
+      "end": 7.433,
+      "dur": 1.433,
+      "transcript": "Ci siamo svegliati come sempre abbiamo"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.433,
+      "end": 10.2,
+      "dur": 2.767,
+      "transcript": "fatto una bella colazione con un omelette dei pancakes appena"
+    },
+    {
+      "shot_idx": 5,
+      "start": 10.2,
+      "end": 12.2,
+      "dur": 2.0,
+      "transcript": "fatti ovviamente vista mare e poi Abbiamo"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.2,
+      "end": 13.233,
+      "dur": 1.033,
+      "transcript": "fatto un secondo giro"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.233,
+      "end": 15.267,
+      "dur": 2.033,
+      "transcript": "con qualche altra sfeziosità è un bel caffè"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.267,
+      "end": 16.7,
+      "dur": 1.433,
+      "transcript": "dopo di che relax tra piscine"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.7,
+      "end": 18.7,
+      "dur": 2.0,
+      "transcript": "mare con un piccolo operativo in questo Barretto"
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.7,
+      "end": 20.433,
+      "dur": 1.733,
+      "transcript": "appunto sulla spiaggia un po di"
+    },
+    {
+      "shot_idx": 11,
+      "start": 20.433,
+      "end": 22.467,
+      "dur": 2.033,
+      "transcript": "snorkeling sulla barriera corallina e un bel"
+    },
+    {
+      "shot_idx": 12,
+      "start": 22.467,
+      "end": 24.933,
+      "dur": 2.467,
+      "transcript": "check del pump che grazie alle 5000 calorie"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.933,
+      "end": 26.933,
+      "dur": 2.0,
+      "transcript": "giornaliere è praticamente sempre presente"
+    },
+    {
+      "shot_idx": 14,
+      "start": 26.933,
+      "end": 27.967,
+      "dur": 1.033,
+      "transcript": "ed infatti eccoci qua"
+    },
+    {
+      "shot_idx": 15,
+      "start": 27.967,
+      "end": 29.867,
+      "dur": 1.9,
+      "transcript": "che dichiarichiamo le nostre energie a franzo"
+    },
+    {
+      "shot_idx": 16,
+      "start": 29.867,
+      "end": 31.833,
+      "dur": 1.967,
+      "transcript": "oggi con anche questo regalino fatto proprio dal"
+    },
+    {
+      "shot_idx": 17,
+      "start": 31.833,
+      "end": 33.333,
+      "dur": 1.5,
+      "transcript": "cameriere che ci serve ogni giorno"
+    },
+    {
+      "shot_idx": 18,
+      "start": 33.333,
+      "end": 35.733,
+      "dur": 2.4,
+      "transcript": "poi siamo andati in palestra per fare un bel push day e sì"
+    },
+    {
+      "shot_idx": 19,
+      "start": 35.733,
+      "end": 37.733,
+      "dur": 2.0,
+      "transcript": "in questi giorni sono davvero ingressato tanto ma"
+    },
+    {
+      "shot_idx": 20,
+      "start": 37.733,
+      "end": 40.733,
+      "dur": 3.0,
+      "transcript": "i muscoli sono davvero pieni di glicogino nel pomeriggio siamo poi partiti"
+    },
+    {
+      "shot_idx": 21,
+      "start": 40.733,
+      "end": 42.733,
+      "dur": 2.0,
+      "transcript": "in barca con questo branco di squali nutrici"
+    },
+    {
+      "shot_idx": 22,
+      "start": 42.733,
+      "end": 46.167,
+      "dur": 3.433,
+      "transcript": "che ci ha seguito per tutta la partenza e dopo aver Stisito un fantastico tramonto"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.167,
+      "end": 48.167,
+      "dur": 2.0,
+      "transcript": "sul mare abbiamo iniziato a pescare semplicemente"
+    },
+    {
+      "shot_idx": 24,
+      "start": 48.167,
+      "end": 49.7,
+      "dur": 1.533,
+      "transcript": "con questa lenza devo dire che"
+    },
+    {
+      "shot_idx": 25,
+      "start": 49.7,
+      "end": 51.9,
+      "dur": 2.2,
+      "transcript": "dopo un paio di ore Qualche risultato abbiamo portato"
+    },
+    {
+      "shot_idx": 26,
+      "start": 51.9,
+      "end": 55.933,
+      "dur": 4.033,
+      "transcript": "a casa tanta tesa ma poi anche un bel po di soddisfazione Anche perché i pesci"
+    },
+    {
+      "shot_idx": 27,
+      "start": 55.933,
+      "end": 57.933,
+      "dur": 2.0,
+      "transcript": "che abbiamo pescato verano poi cucinati nel"
+    },
+    {
+      "shot_idx": 28,
+      "start": 57.933,
+      "end": 60.233,
+      "dur": 2.3,
+      "transcript": "villaggio ed eccomi qua pronto per la cena Con un"
+    },
+    {
+      "shot_idx": 29,
+      "start": 60.233,
+      "end": 61.433,
+      "dur": 1.2,
+      "transcript": "paio di giri ovviamente"
+    },
+    {
+      "shot_idx": 30,
+      "start": 61.433,
+      "end": 63.433,
+      "dur": 2.0,
+      "transcript": "tra antipasti e primi è qualche dolcetto"
+    },
+    {
+      "shot_idx": 31,
+      "start": 63.433,
+      "end": 64.567,
+      "dur": 1.133,
+      "transcript": "e infine per"
+    },
+    {
+      "shot_idx": 32,
+      "start": 64.567,
+      "end": 67.533,
+      "dur": 2.967,
+      "transcript": "concludere la serata partita di calcetto Italia Maldive"
+    }
+  ]
+}

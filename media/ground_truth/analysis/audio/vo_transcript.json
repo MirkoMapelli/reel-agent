@@ -1,0 +1,2048 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.56,
+    "text": "Wingstop è finalmente arrivato in Italia e con lui quello che probabilmente sarà anche il miglior polofretto.",
+    "words": [
+      {
+        "word": " Wingstop",
+        "start": 0.0,
+        "end": 0.42,
+        "prob": 0.301
+      },
+      {
+        "word": " è",
+        "start": 0.42,
+        "end": 0.56,
+        "prob": 0.948
+      },
+      {
+        "word": " finalmente",
+        "start": 0.56,
+        "end": 0.76,
+        "prob": 0.945
+      },
+      {
+        "word": " arrivato",
+        "start": 0.76,
+        "end": 1.18,
+        "prob": 0.961
+      },
+      {
+        "word": " in",
+        "start": 1.18,
+        "end": 1.28,
+        "prob": 0.995
+      },
+      {
+        "word": " Italia",
+        "start": 1.28,
+        "end": 1.48,
+        "prob": 0.752
+      },
+      {
+        "word": " e",
+        "start": 1.48,
+        "end": 1.76,
+        "prob": 0.834
+      },
+      {
+        "word": " con",
+        "start": 1.76,
+        "end": 1.92,
+        "prob": 0.925
+      },
+      {
+        "word": " lui",
+        "start": 1.92,
+        "end": 2.14,
+        "prob": 0.996
+      },
+      {
+        "word": " quello",
+        "start": 2.14,
+        "end": 2.4,
+        "prob": 0.873
+      },
+      {
+        "word": " che",
+        "start": 2.4,
+        "end": 2.52,
+        "prob": 0.996
+      },
+      {
+        "word": " probabilmente",
+        "start": 2.52,
+        "end": 2.92,
+        "prob": 0.95
+      },
+      {
+        "word": " sarà",
+        "start": 2.92,
+        "end": 3.16,
+        "prob": 0.992
+      },
+      {
+        "word": " anche",
+        "start": 3.16,
+        "end": 3.62,
+        "prob": 0.992
+      },
+      {
+        "word": " il",
+        "start": 3.62,
+        "end": 3.72,
+        "prob": 0.985
+      },
+      {
+        "word": " miglior",
+        "start": 3.72,
+        "end": 3.96,
+        "prob": 0.969
+      },
+      {
+        "word": " polofretto.",
+        "start": 3.96,
+        "end": 4.56,
+        "prob": 0.549
+      }
+    ]
+  },
+  {
+    "start": 4.62,
+    "end": 9.36,
+    "text": "Oggi siamo a Milano nel loro evento di apertura del loro primo storio in Italia, aperto proprio un viadante 16.",
+    "words": [
+      {
+        "word": " Oggi",
+        "start": 4.62,
+        "end": 4.72,
+        "prob": 0.781
+      },
+      {
+        "word": " siamo",
+        "start": 4.72,
+        "end": 4.88,
+        "prob": 0.989
+      },
+      {
+        "word": " a",
+        "start": 4.88,
+        "end": 5.0,
+        "prob": 0.959
+      },
+      {
+        "word": " Milano",
+        "start": 5.0,
+        "end": 5.28,
+        "prob": 0.994
+      },
+      {
+        "word": " nel",
+        "start": 5.28,
+        "end": 5.48,
+        "prob": 0.795
+      },
+      {
+        "word": " loro",
+        "start": 5.48,
+        "end": 5.62,
+        "prob": 0.993
+      },
+      {
+        "word": " evento",
+        "start": 5.62,
+        "end": 5.98,
+        "prob": 0.993
+      },
+      {
+        "word": " di",
+        "start": 5.98,
+        "end": 6.14,
+        "prob": 0.964
+      },
+      {
+        "word": " apertura",
+        "start": 6.14,
+        "end": 6.58,
+        "prob": 0.982
+      },
+      {
+        "word": " del",
+        "start": 6.58,
+        "end": 6.72,
+        "prob": 0.693
+      },
+      {
+        "word": " loro",
+        "start": 6.72,
+        "end": 6.86,
+        "prob": 0.987
+      },
+      {
+        "word": " primo",
+        "start": 6.86,
+        "end": 7.12,
+        "prob": 0.998
+      },
+      {
+        "word": " storio",
+        "start": 7.12,
+        "end": 7.44,
+        "prob": 0.703
+      },
+      {
+        "word": " in",
+        "start": 7.44,
+        "end": 7.54,
+        "prob": 0.991
+      },
+      {
+        "word": " Italia,",
+        "start": 7.54,
+        "end": 7.8,
+        "prob": 0.988
+      },
+      {
+        "word": " aperto",
+        "start": 8.0,
+        "end": 8.28,
+        "prob": 0.962
+      },
+      {
+        "word": " proprio",
+        "start": 8.28,
+        "end": 8.44,
+        "prob": 0.963
+      },
+      {
+        "word": " un",
+        "start": 8.44,
+        "end": 8.62,
+        "prob": 0.519
+      },
+      {
+        "word": " viadante",
+        "start": 8.62,
+        "end": 9.04,
+        "prob": 0.856
+      },
+      {
+        "word": " 16.",
+        "start": 9.04,
+        "end": 9.36,
+        "prob": 0.749
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 12.02,
+    "text": "Posizione super centrale e location clamorosa.",
+    "words": [
+      {
+        "word": " Posizione",
+        "start": 9.6,
+        "end": 10.0,
+        "prob": 0.878
+      },
+      {
+        "word": " super",
+        "start": 10.0,
+        "end": 10.28,
+        "prob": 0.967
+      },
+      {
+        "word": " centrale",
+        "start": 10.28,
+        "end": 10.9,
+        "prob": 0.969
+      },
+      {
+        "word": " e",
+        "start": 10.9,
+        "end": 11.06,
+        "prob": 0.961
+      },
+      {
+        "word": " location",
+        "start": 11.06,
+        "end": 11.3,
+        "prob": 0.971
+      },
+      {
+        "word": " clamorosa.",
+        "start": 11.3,
+        "end": 12.02,
+        "prob": 0.961
+      }
+    ]
+  },
+  {
+    "start": 12.08,
+    "end": 15.52,
+    "text": "Noi abbiamo subito ordinato, siamo saliti al secondo piano dove tra l'altro c'era anche il DJ.",
+    "words": [
+      {
+        "word": " Noi",
+        "start": 12.08,
+        "end": 12.16,
+        "prob": 0.962
+      },
+      {
+        "word": " abbiamo",
+        "start": 12.16,
+        "end": 12.32,
+        "prob": 0.957
+      },
+      {
+        "word": " subito",
+        "start": 12.32,
+        "end": 12.6,
+        "prob": 0.989
+      },
+      {
+        "word": " ordinato,",
+        "start": 12.6,
+        "end": 13.02,
+        "prob": 0.972
+      },
+      {
+        "word": " siamo",
+        "start": 13.06,
+        "end": 13.2,
+        "prob": 0.976
+      },
+      {
+        "word": " saliti",
+        "start": 13.2,
+        "end": 13.5,
+        "prob": 0.833
+      },
+      {
+        "word": " al",
+        "start": 13.5,
+        "end": 13.62,
+        "prob": 0.786
+      },
+      {
+        "word": " secondo",
+        "start": 13.62,
+        "end": 13.84,
+        "prob": 0.986
+      },
+      {
+        "word": " piano",
+        "start": 13.84,
+        "end": 14.12,
+        "prob": 0.938
+      },
+      {
+        "word": " dove",
+        "start": 14.12,
+        "end": 14.38,
+        "prob": 0.82
+      },
+      {
+        "word": " tra",
+        "start": 14.38,
+        "end": 14.54,
+        "prob": 0.973
+      },
+      {
+        "word": " l",
+        "start": 14.54,
+        "end": 14.66,
+        "prob": 0.999
+      },
+      {
+        "word": "'altro",
+        "start": 14.66,
+        "end": 14.76,
+        "prob": 0.997
+      },
+      {
+        "word": " c",
+        "start": 14.76,
+        "end": 14.94,
+        "prob": 0.977
+      },
+      {
+        "word": "'era",
+        "start": 14.94,
+        "end": 15.02,
+        "prob": 0.973
+      },
+      {
+        "word": " anche",
+        "start": 15.02,
+        "end": 15.2,
+        "prob": 0.992
+      },
+      {
+        "word": " il",
+        "start": 15.2,
+        "end": 15.3,
+        "prob": 0.891
+      },
+      {
+        "word": " DJ.",
+        "start": 15.3,
+        "end": 15.52,
+        "prob": 0.896
+      }
+    ]
+  },
+  {
+    "start": 15.66,
+    "end": 17.1,
+    "text": "E questo è tutto ciò che abbiamo preso.",
+    "words": [
+      {
+        "word": " E",
+        "start": 15.66,
+        "end": 15.7,
+        "prob": 0.78
+      },
+      {
+        "word": " questo",
+        "start": 15.7,
+        "end": 15.86,
+        "prob": 0.984
+      },
+      {
+        "word": " è",
+        "start": 15.86,
+        "end": 16.0,
+        "prob": 0.987
+      },
+      {
+        "word": " tutto",
+        "start": 16.0,
+        "end": 16.22,
+        "prob": 0.973
+      },
+      {
+        "word": " ciò",
+        "start": 16.22,
+        "end": 16.44,
+        "prob": 0.984
+      },
+      {
+        "word": " che",
+        "start": 16.44,
+        "end": 16.52,
+        "prob": 0.999
+      },
+      {
+        "word": " abbiamo",
+        "start": 16.52,
+        "end": 16.68,
+        "prob": 0.994
+      },
+      {
+        "word": " preso.",
+        "start": 16.68,
+        "end": 17.1,
+        "prob": 0.99
+      }
+    ]
+  },
+  {
+    "start": 17.18,
+    "end": 20.44,
+    "text": "Di base abbiamo preso dei menu combo con 8 wings classiche o boneless,",
+    "words": [
+      {
+        "word": " Di",
+        "start": 17.18,
+        "end": 17.22,
+        "prob": 0.995
+      },
+      {
+        "word": " base",
+        "start": 17.22,
+        "end": 17.38,
+        "prob": 0.982
+      },
+      {
+        "word": " abbiamo",
+        "start": 17.38,
+        "end": 17.6,
+        "prob": 0.974
+      },
+      {
+        "word": " preso",
+        "start": 17.6,
+        "end": 17.88,
+        "prob": 0.993
+      },
+      {
+        "word": " dei",
+        "start": 17.88,
+        "end": 18.04,
+        "prob": 0.884
+      },
+      {
+        "word": " menu",
+        "start": 18.04,
+        "end": 18.18,
+        "prob": 0.78
+      },
+      {
+        "word": " combo",
+        "start": 18.18,
+        "end": 18.54,
+        "prob": 0.958
+      },
+      {
+        "word": " con",
+        "start": 18.54,
+        "end": 18.78,
+        "prob": 0.522
+      },
+      {
+        "word": " 8",
+        "start": 18.78,
+        "end": 18.9,
+        "prob": 0.54
+      },
+      {
+        "word": " wings",
+        "start": 18.9,
+        "end": 19.24,
+        "prob": 0.547
+      },
+      {
+        "word": " classiche",
+        "start": 19.24,
+        "end": 19.88,
+        "prob": 0.904
+      },
+      {
+        "word": " o",
+        "start": 19.88,
+        "end": 19.98,
+        "prob": 0.922
+      },
+      {
+        "word": " boneless,",
+        "start": 19.98,
+        "end": 20.44,
+        "prob": 0.987
+      }
+    ]
+  },
+  {
+    "start": 20.56,
+    "end": 23.04,
+    "text": "retenders e ovviamente fries e bibita frire fill.",
+    "words": [
+      {
+        "word": " retenders",
+        "start": 20.56,
+        "end": 21.12,
+        "prob": 0.886
+      },
+      {
+        "word": " e",
+        "start": 21.12,
+        "end": 21.4,
+        "prob": 0.393
+      },
+      {
+        "word": " ovviamente",
+        "start": 21.4,
+        "end": 21.66,
+        "prob": 0.967
+      },
+      {
+        "word": " fries",
+        "start": 21.66,
+        "end": 22.08,
+        "prob": 0.98
+      },
+      {
+        "word": " e",
+        "start": 22.08,
+        "end": 22.3,
+        "prob": 0.842
+      },
+      {
+        "word": " bibita",
+        "start": 22.3,
+        "end": 22.56,
+        "prob": 0.88
+      },
+      {
+        "word": " frire",
+        "start": 22.56,
+        "end": 22.78,
+        "prob": 0.233
+      },
+      {
+        "word": " fill.",
+        "start": 22.78,
+        "end": 23.04,
+        "prob": 0.664
+      }
+    ]
+  },
+  {
+    "start": 23.32,
+    "end": 25.66,
+    "text": "E di ognuno abbiamo dovuto ovviamente scegliere il loro flavor.",
+    "words": [
+      {
+        "word": " E",
+        "start": 23.32,
+        "end": 23.4,
+        "prob": 0.516
+      },
+      {
+        "word": " di",
+        "start": 23.4,
+        "end": 23.5,
+        "prob": 0.762
+      },
+      {
+        "word": " ognuno",
+        "start": 23.5,
+        "end": 23.84,
+        "prob": 0.857
+      },
+      {
+        "word": " abbiamo",
+        "start": 23.84,
+        "end": 24.0,
+        "prob": 0.923
+      },
+      {
+        "word": " dovuto",
+        "start": 24.0,
+        "end": 24.36,
+        "prob": 0.995
+      },
+      {
+        "word": " ovviamente",
+        "start": 24.36,
+        "end": 24.62,
+        "prob": 0.988
+      },
+      {
+        "word": " scegliere",
+        "start": 24.62,
+        "end": 25.1,
+        "prob": 0.969
+      },
+      {
+        "word": " il",
+        "start": 25.1,
+        "end": 25.22,
+        "prob": 0.997
+      },
+      {
+        "word": " loro",
+        "start": 25.22,
+        "end": 25.3,
+        "prob": 0.981
+      },
+      {
+        "word": " flavor.",
+        "start": 25.3,
+        "end": 25.66,
+        "prob": 0.911
+      }
+    ]
+  },
+  {
+    "start": 25.66,
+    "end": 29.58,
+    "text": "Io ho iniziato da queste boneless Hawaiian che è un sapore molto classico e delicato",
+    "words": [
+      {
+        "word": " Io",
+        "start": 25.66,
+        "end": 25.96,
+        "prob": 0.45
+      },
+      {
+        "word": " ho",
+        "start": 25.96,
+        "end": 26.0,
+        "prob": 0.953
+      },
+      {
+        "word": " iniziato",
+        "start": 26.0,
+        "end": 26.2,
+        "prob": 0.989
+      },
+      {
+        "word": " da",
+        "start": 26.2,
+        "end": 26.36,
+        "prob": 0.926
+      },
+      {
+        "word": " queste",
+        "start": 26.36,
+        "end": 26.6,
+        "prob": 0.843
+      },
+      {
+        "word": " boneless",
+        "start": 26.6,
+        "end": 27.18,
+        "prob": 0.798
+      },
+      {
+        "word": " Hawaiian",
+        "start": 27.18,
+        "end": 27.74,
+        "prob": 0.14
+      },
+      {
+        "word": " che",
+        "start": 27.74,
+        "end": 27.94,
+        "prob": 0.756
+      },
+      {
+        "word": " è",
+        "start": 27.94,
+        "end": 28.0,
+        "prob": 0.933
+      },
+      {
+        "word": " un",
+        "start": 28.0,
+        "end": 28.06,
+        "prob": 0.963
+      },
+      {
+        "word": " sapore",
+        "start": 28.06,
+        "end": 28.3,
+        "prob": 0.926
+      },
+      {
+        "word": " molto",
+        "start": 28.3,
+        "end": 28.54,
+        "prob": 0.988
+      },
+      {
+        "word": " classico",
+        "start": 28.54,
+        "end": 29.02,
+        "prob": 0.977
+      },
+      {
+        "word": " e",
+        "start": 29.02,
+        "end": 29.1,
+        "prob": 0.844
+      },
+      {
+        "word": " delicato",
+        "start": 29.1,
+        "end": 29.58,
+        "prob": 0.953
+      }
+    ]
+  },
+  {
+    "start": 29.58,
+    "end": 32.24,
+    "text": "che ovviamente fin da subito ha accompagnato con la loro salsa renna,",
+    "words": [
+      {
+        "word": " che",
+        "start": 29.58,
+        "end": 29.7,
+        "prob": 0.635
+      },
+      {
+        "word": " ovviamente",
+        "start": 29.7,
+        "end": 29.96,
+        "prob": 0.986
+      },
+      {
+        "word": " fin",
+        "start": 29.96,
+        "end": 30.24,
+        "prob": 0.919
+      },
+      {
+        "word": " da",
+        "start": 30.24,
+        "end": 30.34,
+        "prob": 0.996
+      },
+      {
+        "word": " subito",
+        "start": 30.34,
+        "end": 30.68,
+        "prob": 0.991
+      },
+      {
+        "word": " ha",
+        "start": 30.68,
+        "end": 30.78,
+        "prob": 0.395
+      },
+      {
+        "word": " accompagnato",
+        "start": 30.78,
+        "end": 31.18,
+        "prob": 0.854
+      },
+      {
+        "word": " con",
+        "start": 31.18,
+        "end": 31.36,
+        "prob": 0.702
+      },
+      {
+        "word": " la",
+        "start": 31.36,
+        "end": 31.5,
+        "prob": 0.897
+      },
+      {
+        "word": " loro",
+        "start": 31.5,
+        "end": 31.68,
+        "prob": 0.98
+      },
+      {
+        "word": " salsa",
+        "start": 31.68,
+        "end": 31.86,
+        "prob": 0.992
+      },
+      {
+        "word": " renna,",
+        "start": 31.86,
+        "end": 32.24,
+        "prob": 0.394
+      }
+    ]
+  },
+  {
+    "start": 32.3,
+    "end": 34.7,
+    "text": "che è una delle misalze preferite e col polofretto non può mancare.",
+    "words": [
+      {
+        "word": " che",
+        "start": 32.3,
+        "end": 32.32,
+        "prob": 0.906
+      },
+      {
+        "word": " è",
+        "start": 32.32,
+        "end": 32.38,
+        "prob": 0.983
+      },
+      {
+        "word": " una",
+        "start": 32.38,
+        "end": 32.5,
+        "prob": 0.981
+      },
+      {
+        "word": " delle",
+        "start": 32.5,
+        "end": 32.6,
+        "prob": 0.98
+      },
+      {
+        "word": " misalze",
+        "start": 32.6,
+        "end": 32.96,
+        "prob": 0.536
+      },
+      {
+        "word": " preferite",
+        "start": 32.96,
+        "end": 33.4,
+        "prob": 0.988
+      },
+      {
+        "word": " e",
+        "start": 33.4,
+        "end": 33.48,
+        "prob": 0.388
+      },
+      {
+        "word": " col",
+        "start": 33.48,
+        "end": 33.6,
+        "prob": 0.603
+      },
+      {
+        "word": " polofretto",
+        "start": 33.6,
+        "end": 34.14,
+        "prob": 0.29
+      },
+      {
+        "word": " non",
+        "start": 34.14,
+        "end": 34.24,
+        "prob": 0.988
+      },
+      {
+        "word": " può",
+        "start": 34.24,
+        "end": 34.36,
+        "prob": 0.986
+      },
+      {
+        "word": " mancare.",
+        "start": 34.36,
+        "end": 34.7,
+        "prob": 0.991
+      }
+    ]
+  },
+  {
+    "start": 34.82,
+    "end": 38.82,
+    "text": "Un po' di fries col cedar oppure lemon pepper, anche loro ingiuppate nell'arence.",
+    "words": [
+      {
+        "word": " Un",
+        "start": 34.82,
+        "end": 34.84,
+        "prob": 0.966
+      },
+      {
+        "word": " po'",
+        "start": 34.84,
+        "end": 34.94,
+        "prob": 0.965
+      },
+      {
+        "word": " di",
+        "start": 34.98,
+        "end": 35.04,
+        "prob": 0.99
+      },
+      {
+        "word": " fries",
+        "start": 35.04,
+        "end": 35.3,
+        "prob": 0.856
+      },
+      {
+        "word": " col",
+        "start": 35.3,
+        "end": 35.6,
+        "prob": 0.639
+      },
+      {
+        "word": " cedar",
+        "start": 35.6,
+        "end": 36.02,
+        "prob": 0.503
+      },
+      {
+        "word": " oppure",
+        "start": 36.02,
+        "end": 36.46,
+        "prob": 0.829
+      },
+      {
+        "word": " lemon",
+        "start": 36.46,
+        "end": 36.68,
+        "prob": 0.693
+      },
+      {
+        "word": " pepper,",
+        "start": 36.68,
+        "end": 36.98,
+        "prob": 0.936
+      },
+      {
+        "word": " anche",
+        "start": 37.26,
+        "end": 37.46,
+        "prob": 0.98
+      },
+      {
+        "word": " loro",
+        "start": 37.46,
+        "end": 37.68,
+        "prob": 0.716
+      },
+      {
+        "word": " ingiuppate",
+        "start": 37.68,
+        "end": 38.18,
+        "prob": 0.739
+      },
+      {
+        "word": " nell",
+        "start": 38.18,
+        "end": 38.34,
+        "prob": 0.786
+      },
+      {
+        "word": "'arence.",
+        "start": 38.34,
+        "end": 38.82,
+        "prob": 0.854
+      }
+    ]
+  },
+  {
+    "start": 38.9,
+    "end": 42.5,
+    "text": "E ho continuato con questi tender croccanti super morbidi all'interno,",
+    "words": [
+      {
+        "word": " E",
+        "start": 38.9,
+        "end": 38.92,
+        "prob": 0.388
+      },
+      {
+        "word": " ho",
+        "start": 38.92,
+        "end": 39.0,
+        "prob": 0.947
+      },
+      {
+        "word": " continuato",
+        "start": 39.0,
+        "end": 39.34,
+        "prob": 0.997
+      },
+      {
+        "word": " con",
+        "start": 39.34,
+        "end": 39.5,
+        "prob": 0.995
+      },
+      {
+        "word": " questi",
+        "start": 39.5,
+        "end": 39.7,
+        "prob": 0.995
+      },
+      {
+        "word": " tender",
+        "start": 39.7,
+        "end": 40.02,
+        "prob": 0.982
+      },
+      {
+        "word": " croccanti",
+        "start": 40.02,
+        "end": 40.78,
+        "prob": 0.909
+      },
+      {
+        "word": " super",
+        "start": 40.78,
+        "end": 41.2,
+        "prob": 0.782
+      },
+      {
+        "word": " morbidi",
+        "start": 41.2,
+        "end": 41.7,
+        "prob": 0.97
+      },
+      {
+        "word": " all",
+        "start": 41.7,
+        "end": 41.8,
+        "prob": 0.99
+      },
+      {
+        "word": "'interno,",
+        "start": 41.8,
+        "end": 42.5,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 42.6,
+    "end": 45.58,
+    "text": "ovviamente anche loro lemon pepper che è forse il mio gusto preferito.",
+    "words": [
+      {
+        "word": " ovviamente",
+        "start": 42.6,
+        "end": 42.84,
+        "prob": 0.986
+      },
+      {
+        "word": " anche",
+        "start": 42.84,
+        "end": 43.08,
+        "prob": 0.985
+      },
+      {
+        "word": " loro",
+        "start": 43.08,
+        "end": 43.34,
+        "prob": 0.967
+      },
+      {
+        "word": " lemon",
+        "start": 43.34,
+        "end": 43.64,
+        "prob": 0.967
+      },
+      {
+        "word": " pepper",
+        "start": 43.64,
+        "end": 43.98,
+        "prob": 0.983
+      },
+      {
+        "word": " che",
+        "start": 43.98,
+        "end": 44.18,
+        "prob": 0.874
+      },
+      {
+        "word": " è",
+        "start": 44.18,
+        "end": 44.38,
+        "prob": 0.447
+      },
+      {
+        "word": " forse",
+        "start": 44.38,
+        "end": 44.72,
+        "prob": 0.991
+      },
+      {
+        "word": " il",
+        "start": 44.72,
+        "end": 44.88,
+        "prob": 0.996
+      },
+      {
+        "word": " mio",
+        "start": 44.88,
+        "end": 44.96,
+        "prob": 0.996
+      },
+      {
+        "word": " gusto",
+        "start": 44.96,
+        "end": 45.16,
+        "prob": 0.983
+      },
+      {
+        "word": " preferito.",
+        "start": 45.16,
+        "end": 45.58,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 45.64,
+    "end": 49.16,
+    "text": "In quanto adoro questo leggero pepato e il sapore di limone un po' grumato.",
+    "words": [
+      {
+        "word": " In",
+        "start": 45.64,
+        "end": 45.7,
+        "prob": 0.598
+      },
+      {
+        "word": " quanto",
+        "start": 45.7,
+        "end": 45.86,
+        "prob": 0.954
+      },
+      {
+        "word": " adoro",
+        "start": 45.86,
+        "end": 46.12,
+        "prob": 0.986
+      },
+      {
+        "word": " questo",
+        "start": 46.12,
+        "end": 46.36,
+        "prob": 0.994
+      },
+      {
+        "word": " leggero",
+        "start": 46.36,
+        "end": 46.7,
+        "prob": 0.963
+      },
+      {
+        "word": " pepato",
+        "start": 46.7,
+        "end": 47.16,
+        "prob": 0.989
+      },
+      {
+        "word": " e",
+        "start": 47.16,
+        "end": 47.46,
+        "prob": 0.9
+      },
+      {
+        "word": " il",
+        "start": 47.46,
+        "end": 47.74,
+        "prob": 0.997
+      },
+      {
+        "word": " sapore",
+        "start": 47.74,
+        "end": 47.96,
+        "prob": 0.971
+      },
+      {
+        "word": " di",
+        "start": 47.96,
+        "end": 48.14,
+        "prob": 0.996
+      },
+      {
+        "word": " limone",
+        "start": 48.14,
+        "end": 48.44,
+        "prob": 0.994
+      },
+      {
+        "word": " un",
+        "start": 48.44,
+        "end": 48.62,
+        "prob": 0.767
+      },
+      {
+        "word": " po'",
+        "start": 48.62,
+        "end": 48.7,
+        "prob": 0.906
+      },
+      {
+        "word": " grumato.",
+        "start": 48.78,
+        "end": 49.16,
+        "prob": 0.914
+      }
+    ]
+  },
+  {
+    "start": 49.24,
+    "end": 52.46,
+    "text": "Poi sono passato alle wings classiche che anche se preferisco le boneless",
+    "words": [
+      {
+        "word": " Poi",
+        "start": 49.24,
+        "end": 49.32,
+        "prob": 0.874
+      },
+      {
+        "word": " sono",
+        "start": 49.32,
+        "end": 49.48,
+        "prob": 0.979
+      },
+      {
+        "word": " passato",
+        "start": 49.48,
+        "end": 49.88,
+        "prob": 0.994
+      },
+      {
+        "word": " alle",
+        "start": 49.88,
+        "end": 50.02,
+        "prob": 0.973
+      },
+      {
+        "word": " wings",
+        "start": 50.02,
+        "end": 50.26,
+        "prob": 0.047
+      },
+      {
+        "word": " classiche",
+        "start": 50.26,
+        "end": 50.9,
+        "prob": 0.977
+      },
+      {
+        "word": " che",
+        "start": 50.9,
+        "end": 51.16,
+        "prob": 0.789
+      },
+      {
+        "word": " anche",
+        "start": 51.16,
+        "end": 51.34,
+        "prob": 0.939
+      },
+      {
+        "word": " se",
+        "start": 51.34,
+        "end": 51.48,
+        "prob": 0.998
+      },
+      {
+        "word": " preferisco",
+        "start": 51.48,
+        "end": 51.84,
+        "prob": 0.888
+      },
+      {
+        "word": " le",
+        "start": 51.84,
+        "end": 51.98,
+        "prob": 0.993
+      },
+      {
+        "word": " boneless",
+        "start": 51.98,
+        "end": 52.46,
+        "prob": 0.977
+      }
+    ]
+  },
+  {
+    "start": 52.46,
+    "end": 54.58,
+    "text": "loro sono sempre soddisfacenti da mangiare.",
+    "words": [
+      {
+        "word": " loro",
+        "start": 52.46,
+        "end": 52.92,
+        "prob": 0.532
+      },
+      {
+        "word": " sono",
+        "start": 52.92,
+        "end": 53.16,
+        "prob": 0.997
+      },
+      {
+        "word": " sempre",
+        "start": 53.16,
+        "end": 53.4,
+        "prob": 0.995
+      },
+      {
+        "word": " soddisfacenti",
+        "start": 53.4,
+        "end": 54.02,
+        "prob": 0.979
+      },
+      {
+        "word": " da",
+        "start": 54.02,
+        "end": 54.16,
+        "prob": 0.997
+      },
+      {
+        "word": " mangiare.",
+        "start": 54.16,
+        "end": 54.58,
+        "prob": 0.993
+      }
+    ]
+  },
+  {
+    "start": 54.58,
+    "end": 58.36,
+    "text": "Sono tornato su questi tender super dolci ma allo stesso tempo affumicati,",
+    "words": [
+      {
+        "word": " Sono",
+        "start": 54.58,
+        "end": 54.86,
+        "prob": 0.545
+      },
+      {
+        "word": " tornato",
+        "start": 54.86,
+        "end": 55.24,
+        "prob": 0.993
+      },
+      {
+        "word": " su",
+        "start": 55.24,
+        "end": 55.42,
+        "prob": 0.976
+      },
+      {
+        "word": " questi",
+        "start": 55.42,
+        "end": 55.7,
+        "prob": 0.983
+      },
+      {
+        "word": " tender",
+        "start": 55.7,
+        "end": 56.08,
+        "prob": 0.934
+      },
+      {
+        "word": " super",
+        "start": 56.08,
+        "end": 56.54,
+        "prob": 0.877
+      },
+      {
+        "word": " dolci",
+        "start": 56.54,
+        "end": 57.16,
+        "prob": 0.991
+      },
+      {
+        "word": " ma",
+        "start": 57.16,
+        "end": 57.26,
+        "prob": 0.283
+      },
+      {
+        "word": " allo",
+        "start": 57.26,
+        "end": 57.38,
+        "prob": 0.673
+      },
+      {
+        "word": " stesso",
+        "start": 57.38,
+        "end": 57.48,
+        "prob": 0.993
+      },
+      {
+        "word": " tempo",
+        "start": 57.48,
+        "end": 57.74,
+        "prob": 0.99
+      },
+      {
+        "word": " affumicati,",
+        "start": 57.74,
+        "end": 58.36,
+        "prob": 0.844
+      }
+    ]
+  },
+  {
+    "start": 58.42,
+    "end": 60.3,
+    "text": "ovviamente inzuppati nella salsa renna anche loro.",
+    "words": [
+      {
+        "word": " ovviamente",
+        "start": 58.42,
+        "end": 58.7,
+        "prob": 0.916
+      },
+      {
+        "word": " inzuppati",
+        "start": 58.7,
+        "end": 59.22,
+        "prob": 0.758
+      },
+      {
+        "word": " nella",
+        "start": 59.22,
+        "end": 59.34,
+        "prob": 0.64
+      },
+      {
+        "word": " salsa",
+        "start": 59.34,
+        "end": 59.56,
+        "prob": 0.936
+      },
+      {
+        "word": " renna",
+        "start": 59.56,
+        "end": 59.84,
+        "prob": 0.355
+      },
+      {
+        "word": " anche",
+        "start": 59.84,
+        "end": 60.04,
+        "prob": 0.844
+      },
+      {
+        "word": " loro.",
+        "start": 60.04,
+        "end": 60.3,
+        "prob": 0.79
+      }
+    ]
+  },
+  {
+    "start": 60.4,
+    "end": 64.92,
+    "text": "Ho davvero provato quindi un misto di flavor ma devo mettere che non mi sono spinto troppo sul piccante.",
+    "words": [
+      {
+        "word": " Ho",
+        "start": 60.4,
+        "end": 60.4,
+        "prob": 0.419
+      },
+      {
+        "word": " davvero",
+        "start": 60.4,
+        "end": 60.58,
+        "prob": 0.964
+      },
+      {
+        "word": " provato",
+        "start": 60.58,
+        "end": 60.86,
+        "prob": 0.996
+      },
+      {
+        "word": " quindi",
+        "start": 60.86,
+        "end": 61.02,
+        "prob": 0.968
+      },
+      {
+        "word": " un",
+        "start": 61.02,
+        "end": 61.18,
+        "prob": 0.989
+      },
+      {
+        "word": " misto",
+        "start": 61.18,
+        "end": 61.58,
+        "prob": 0.964
+      },
+      {
+        "word": " di",
+        "start": 61.58,
+        "end": 61.68,
+        "prob": 0.994
+      },
+      {
+        "word": " flavor",
+        "start": 61.68,
+        "end": 62.02,
+        "prob": 0.826
+      },
+      {
+        "word": " ma",
+        "start": 62.02,
+        "end": 62.48,
+        "prob": 0.687
+      },
+      {
+        "word": " devo",
+        "start": 62.48,
+        "end": 62.66,
+        "prob": 0.989
+      },
+      {
+        "word": " mettere",
+        "start": 62.66,
+        "end": 63.0,
+        "prob": 0.814
+      },
+      {
+        "word": " che",
+        "start": 63.0,
+        "end": 63.12,
+        "prob": 0.992
+      },
+      {
+        "word": " non",
+        "start": 63.12,
+        "end": 63.2,
+        "prob": 0.593
+      },
+      {
+        "word": " mi",
+        "start": 63.2,
+        "end": 63.3,
+        "prob": 0.997
+      },
+      {
+        "word": " sono",
+        "start": 63.3,
+        "end": 63.42,
+        "prob": 0.997
+      },
+      {
+        "word": " spinto",
+        "start": 63.42,
+        "end": 63.84,
+        "prob": 0.956
+      },
+      {
+        "word": " troppo",
+        "start": 63.84,
+        "end": 64.2,
+        "prob": 0.997
+      },
+      {
+        "word": " sul",
+        "start": 64.2,
+        "end": 64.34,
+        "prob": 0.987
+      },
+      {
+        "word": " piccante.",
+        "start": 64.34,
+        "end": 64.92,
+        "prob": 0.986
+      }
+    ]
+  },
+  {
+    "start": 65.04,
+    "end": 68.82,
+    "text": "Cosa che farò la prossima volta perché sono davvero curioso di provare le loro wings più piccanti.",
+    "words": [
+      {
+        "word": " Cosa",
+        "start": 65.04,
+        "end": 65.2,
+        "prob": 0.939
+      },
+      {
+        "word": " che",
+        "start": 65.2,
+        "end": 65.32,
+        "prob": 0.97
+      },
+      {
+        "word": " farò",
+        "start": 65.32,
+        "end": 65.52,
+        "prob": 0.964
+      },
+      {
+        "word": " la",
+        "start": 65.52,
+        "end": 65.6,
+        "prob": 0.685
+      },
+      {
+        "word": " prossima",
+        "start": 65.6,
+        "end": 65.88,
+        "prob": 0.997
+      },
+      {
+        "word": " volta",
+        "start": 65.88,
+        "end": 66.04,
+        "prob": 0.997
+      },
+      {
+        "word": " perché",
+        "start": 66.04,
+        "end": 66.28,
+        "prob": 0.82
+      },
+      {
+        "word": " sono",
+        "start": 66.28,
+        "end": 66.42,
+        "prob": 0.928
+      },
+      {
+        "word": " davvero",
+        "start": 66.42,
+        "end": 66.66,
+        "prob": 0.999
+      },
+      {
+        "word": " curioso",
+        "start": 66.66,
+        "end": 67.04,
+        "prob": 0.963
+      },
+      {
+        "word": " di",
+        "start": 67.04,
+        "end": 67.08,
+        "prob": 0.994
+      },
+      {
+        "word": " provare",
+        "start": 67.08,
+        "end": 67.38,
+        "prob": 0.996
+      },
+      {
+        "word": " le",
+        "start": 67.38,
+        "end": 67.56,
+        "prob": 0.748
+      },
+      {
+        "word": " loro",
+        "start": 67.56,
+        "end": 67.72,
+        "prob": 0.991
+      },
+      {
+        "word": " wings",
+        "start": 67.72,
+        "end": 68.06,
+        "prob": 0.482
+      },
+      {
+        "word": " più",
+        "start": 68.06,
+        "end": 68.32,
+        "prob": 0.988
+      },
+      {
+        "word": " piccanti.",
+        "start": 68.32,
+        "end": 68.82,
+        "prob": 0.992
+      }
+    ]
+  },
+  {
+    "start": 68.92,
+    "end": 71.1,
+    "text": "Non in caso il pollo è davvero morbido e fritto alla grande.",
+    "words": [
+      {
+        "word": " Non",
+        "start": 68.92,
+        "end": 68.96,
+        "prob": 0.578
+      },
+      {
+        "word": " in",
+        "start": 68.96,
+        "end": 69.06,
+        "prob": 0.969
+      },
+      {
+        "word": " caso",
+        "start": 69.06,
+        "end": 69.22,
+        "prob": 0.982
+      },
+      {
+        "word": " il",
+        "start": 69.22,
+        "end": 69.38,
+        "prob": 0.765
+      },
+      {
+        "word": " pollo",
+        "start": 69.38,
+        "end": 69.52,
+        "prob": 0.62
+      },
+      {
+        "word": " è",
+        "start": 69.52,
+        "end": 69.58,
+        "prob": 0.948
+      },
+      {
+        "word": " davvero",
+        "start": 69.58,
+        "end": 69.94,
+        "prob": 0.998
+      },
+      {
+        "word": " morbido",
+        "start": 69.94,
+        "end": 70.34,
+        "prob": 0.995
+      },
+      {
+        "word": " e",
+        "start": 70.34,
+        "end": 70.42,
+        "prob": 0.91
+      },
+      {
+        "word": " fritto",
+        "start": 70.42,
+        "end": 70.66,
+        "prob": 0.921
+      },
+      {
+        "word": " alla",
+        "start": 70.66,
+        "end": 70.76,
+        "prob": 0.987
+      },
+      {
+        "word": " grande.",
+        "start": 70.76,
+        "end": 71.1,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 71.24,
+    "end": 75.34,
+    "text": "Il fatto che avete così tante scelta di flavor vi darà possibilità di provare tanti gusti diversi.",
+    "words": [
+      {
+        "word": " Il",
+        "start": 71.24,
+        "end": 71.32,
+        "prob": 0.973
+      },
+      {
+        "word": " fatto",
+        "start": 71.32,
+        "end": 71.48,
+        "prob": 0.997
+      },
+      {
+        "word": " che",
+        "start": 71.48,
+        "end": 71.64,
+        "prob": 0.992
+      },
+      {
+        "word": " avete",
+        "start": 71.64,
+        "end": 71.76,
+        "prob": 0.998
+      },
+      {
+        "word": " così",
+        "start": 71.76,
+        "end": 71.92,
+        "prob": 0.986
+      },
+      {
+        "word": " tante",
+        "start": 71.92,
+        "end": 72.26,
+        "prob": 0.951
+      },
+      {
+        "word": " scelta",
+        "start": 72.26,
+        "end": 72.56,
+        "prob": 0.805
+      },
+      {
+        "word": " di",
+        "start": 72.56,
+        "end": 72.66,
+        "prob": 0.986
+      },
+      {
+        "word": " flavor",
+        "start": 72.66,
+        "end": 73.02,
+        "prob": 0.987
+      },
+      {
+        "word": " vi",
+        "start": 73.02,
+        "end": 73.26,
+        "prob": 0.858
+      },
+      {
+        "word": " darà",
+        "start": 73.26,
+        "end": 73.42,
+        "prob": 0.82
+      },
+      {
+        "word": " possibilità",
+        "start": 73.42,
+        "end": 73.9,
+        "prob": 0.894
+      },
+      {
+        "word": " di",
+        "start": 73.9,
+        "end": 73.98,
+        "prob": 0.999
+      },
+      {
+        "word": " provare",
+        "start": 73.98,
+        "end": 74.28,
+        "prob": 0.999
+      },
+      {
+        "word": " tanti",
+        "start": 74.28,
+        "end": 74.54,
+        "prob": 0.966
+      },
+      {
+        "word": " gusti",
+        "start": 74.54,
+        "end": 74.84,
+        "prob": 0.991
+      },
+      {
+        "word": " diversi.",
+        "start": 74.84,
+        "end": 75.34,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 75.38,
+    "end": 79.2,
+    "text": "Ed infine anche se non sono riuscito a vincere lo andiamo a casa con la doggy bag e la mascotta renci.",
+    "words": [
+      {
+        "word": " Ed",
+        "start": 75.38,
+        "end": 75.44,
+        "prob": 0.883
+      },
+      {
+        "word": " infine",
+        "start": 75.44,
+        "end": 75.76,
+        "prob": 0.984
+      },
+      {
+        "word": " anche",
+        "start": 75.76,
+        "end": 76.0,
+        "prob": 0.829
+      },
+      {
+        "word": " se",
+        "start": 76.0,
+        "end": 76.16,
+        "prob": 0.998
+      },
+      {
+        "word": " non",
+        "start": 76.16,
+        "end": 76.26,
+        "prob": 0.996
+      },
+      {
+        "word": " sono",
+        "start": 76.26,
+        "end": 76.42,
+        "prob": 0.983
+      },
+      {
+        "word": " riuscito",
+        "start": 76.42,
+        "end": 76.68,
+        "prob": 0.888
+      },
+      {
+        "word": " a",
+        "start": 76.68,
+        "end": 76.78,
+        "prob": 0.96
+      },
+      {
+        "word": " vincere",
+        "start": 76.78,
+        "end": 77.06,
+        "prob": 0.846
+      },
+      {
+        "word": " lo",
+        "start": 77.06,
+        "end": 77.14,
+        "prob": 0.305
+      },
+      {
+        "word": " andiamo",
+        "start": 77.14,
+        "end": 77.3,
+        "prob": 0.613
+      },
+      {
+        "word": " a",
+        "start": 77.3,
+        "end": 77.32,
+        "prob": 0.99
+      },
+      {
+        "word": " casa",
+        "start": 77.32,
+        "end": 77.5,
+        "prob": 0.999
+      },
+      {
+        "word": " con",
+        "start": 77.5,
+        "end": 77.62,
+        "prob": 0.977
+      },
+      {
+        "word": " la",
+        "start": 77.62,
+        "end": 77.72,
+        "prob": 0.985
+      },
+      {
+        "word": " doggy",
+        "start": 77.72,
+        "end": 77.94,
+        "prob": 0.77
+      },
+      {
+        "word": " bag",
+        "start": 77.94,
+        "end": 78.12,
+        "prob": 0.941
+      },
+      {
+        "word": " e",
+        "start": 78.12,
+        "end": 78.36,
+        "prob": 0.986
+      },
+      {
+        "word": " la",
+        "start": 78.36,
+        "end": 78.42,
+        "prob": 0.98
+      },
+      {
+        "word": " mascotta",
+        "start": 78.42,
+        "end": 78.8,
+        "prob": 0.602
+      },
+      {
+        "word": " renci.",
+        "start": 78.8,
+        "end": 79.2,
+        "prob": 0.929
+      }
+    ]
+  }
+]

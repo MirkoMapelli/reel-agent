@@ -1,0 +1,906 @@
+{
+  "ref_id": "ref_42_7582925833254358294",
+  "video": "/opt/reel-agent/media/style_ref/ref_42_7582925833254358294.mp4",
+  "n_segments": 7,
+  "n_words": 156,
+  "n_shots": 11,
+  "full_text": "Pepperoni pizza gigante in California con anche i pepperoni più crispi che io abbiamo provato oggi ragazzi siamo a provare monta in Mike's Pizza Overe una catena americana di pizzerie famosa soprattutto per i suoi pepperoni super croccanti e per questo formato di pizza mega gigante in uno dei miei ultimi giorni in california avevo super voglia di questa pizza americana Di questo formato direi che è il formato giusto ovviamente il livello di honto di questo prodotto è al pare dei suoi competitor come domino se pizzat ed è quindi un livello di honto altissimo ma perfettamente in linea con la media americana ottimo anche questa scelta ovviamente di tagliarli in fette molto fini è più che l'impasto che comunque non era male della bello croccante ciò che mi ha stupito sono appunti i loro pepperoni belli saporiti con una croccantezza clamo rosa che quindi reso monta in Mike's Pizza una catena da ricordare",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Pepperoni pizza gigante in California con anche i pepperoni più crispi che io abbiamo provato oggi ragazzi siamo a provare monta in Mike's Pizza"
+    },
+    {
+      "start": 7.0,
+      "end": 11.04,
+      "text": "Overe una catena americana di pizzerie famosa soprattutto per i suoi pepperoni"
+    },
+    {
+      "start": 11.04,
+      "end": 17.86,
+      "text": "super croccanti e per questo formato di pizza mega gigante in uno dei miei ultimi giorni in california avevo super voglia di questa pizza americana"
+    },
+    {
+      "start": 17.86,
+      "end": 23.74,
+      "text": "Di questo formato direi che è il formato giusto ovviamente il livello di honto di questo prodotto è al pare dei suoi"
+    },
+    {
+      "start": 23.74,
+      "end": 29.56,
+      "text": "competitor come domino se pizzat ed è quindi un livello di honto altissimo ma perfettamente in linea con la media americana"
+    },
+    {
+      "start": 29.56,
+      "end": 35.66,
+      "text": "ottimo anche questa scelta ovviamente di tagliarli in fette molto fini è più che l'impasto che comunque non era male della bello croccante"
+    },
+    {
+      "start": 35.66,
+      "end": 44.1,
+      "text": "ciò che mi ha stupito sono appunti i loro pepperoni belli saporiti con una croccantezza clamo rosa che quindi reso monta in Mike's Pizza una catena da ricordare"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "word": "Pepperoni"
+    },
+    {
+      "start": 0.6,
+      "end": 0.84,
+      "word": "pizza"
+    },
+    {
+      "start": 0.84,
+      "end": 1.56,
+      "word": "gigante"
+    },
+    {
+      "start": 1.56,
+      "end": 1.82,
+      "word": "in"
+    },
+    {
+      "start": 1.82,
+      "end": 2.26,
+      "word": "California"
+    },
+    {
+      "start": 2.26,
+      "end": 2.64,
+      "word": "con"
+    },
+    {
+      "start": 2.64,
+      "end": 2.84,
+      "word": "anche"
+    },
+    {
+      "start": 2.84,
+      "end": 3.02,
+      "word": "i"
+    },
+    {
+      "start": 3.02,
+      "end": 3.32,
+      "word": "pepperoni"
+    },
+    {
+      "start": 3.32,
+      "end": 3.44,
+      "word": "più"
+    },
+    {
+      "start": 3.44,
+      "end": 3.8,
+      "word": "crispi"
+    },
+    {
+      "start": 3.8,
+      "end": 3.94,
+      "word": "che"
+    },
+    {
+      "start": 3.94,
+      "end": 4.06,
+      "word": "io"
+    },
+    {
+      "start": 4.06,
+      "end": 4.24,
+      "word": "abbiamo"
+    },
+    {
+      "start": 4.24,
+      "end": 4.74,
+      "word": "provato"
+    },
+    {
+      "start": 4.74,
+      "end": 4.94,
+      "word": "oggi"
+    },
+    {
+      "start": 4.94,
+      "end": 5.2,
+      "word": "ragazzi"
+    },
+    {
+      "start": 5.2,
+      "end": 5.42,
+      "word": "siamo"
+    },
+    {
+      "start": 5.42,
+      "end": 5.54,
+      "word": "a"
+    },
+    {
+      "start": 5.54,
+      "end": 5.82,
+      "word": "provare"
+    },
+    {
+      "start": 5.82,
+      "end": 6.24,
+      "word": "monta"
+    },
+    {
+      "start": 6.24,
+      "end": 6.3,
+      "word": "in"
+    },
+    {
+      "start": 6.3,
+      "end": 6.72,
+      "word": "Mike's"
+    },
+    {
+      "start": 6.72,
+      "end": 7.0,
+      "word": "Pizza"
+    },
+    {
+      "start": 7.0,
+      "end": 7.26,
+      "word": "Overe"
+    },
+    {
+      "start": 7.26,
+      "end": 7.44,
+      "word": "una"
+    },
+    {
+      "start": 7.44,
+      "end": 7.76,
+      "word": "catena"
+    },
+    {
+      "start": 7.76,
+      "end": 8.24,
+      "word": "americana"
+    },
+    {
+      "start": 8.24,
+      "end": 8.48,
+      "word": "di"
+    },
+    {
+      "start": 8.48,
+      "end": 9.0,
+      "word": "pizzerie"
+    },
+    {
+      "start": 9.0,
+      "end": 9.34,
+      "word": "famosa"
+    },
+    {
+      "start": 9.34,
+      "end": 9.74,
+      "word": "soprattutto"
+    },
+    {
+      "start": 9.74,
+      "end": 10.04,
+      "word": "per"
+    },
+    {
+      "start": 10.04,
+      "end": 10.1,
+      "word": "i"
+    },
+    {
+      "start": 10.1,
+      "end": 10.3,
+      "word": "suoi"
+    },
+    {
+      "start": 10.3,
+      "end": 11.04,
+      "word": "pepperoni"
+    },
+    {
+      "start": 11.04,
+      "end": 11.24,
+      "word": "super"
+    },
+    {
+      "start": 11.24,
+      "end": 11.78,
+      "word": "croccanti"
+    },
+    {
+      "start": 11.78,
+      "end": 11.92,
+      "word": "e"
+    },
+    {
+      "start": 11.92,
+      "end": 12.02,
+      "word": "per"
+    },
+    {
+      "start": 12.02,
+      "end": 12.3,
+      "word": "questo"
+    },
+    {
+      "start": 12.3,
+      "end": 12.84,
+      "word": "formato"
+    },
+    {
+      "start": 12.84,
+      "end": 13.0,
+      "word": "di"
+    },
+    {
+      "start": 13.0,
+      "end": 13.34,
+      "word": "pizza"
+    },
+    {
+      "start": 13.34,
+      "end": 13.76,
+      "word": "mega"
+    },
+    {
+      "start": 13.76,
+      "end": 14.26,
+      "word": "gigante"
+    },
+    {
+      "start": 14.26,
+      "end": 14.46,
+      "word": "in"
+    },
+    {
+      "start": 14.46,
+      "end": 14.6,
+      "word": "uno"
+    },
+    {
+      "start": 14.6,
+      "end": 14.74,
+      "word": "dei"
+    },
+    {
+      "start": 14.74,
+      "end": 14.88,
+      "word": "miei"
+    },
+    {
+      "start": 14.88,
+      "end": 15.1,
+      "word": "ultimi"
+    },
+    {
+      "start": 15.1,
+      "end": 15.4,
+      "word": "giorni"
+    },
+    {
+      "start": 15.4,
+      "end": 15.5,
+      "word": "in"
+    },
+    {
+      "start": 15.5,
+      "end": 15.98,
+      "word": "california"
+    },
+    {
+      "start": 15.98,
+      "end": 16.2,
+      "word": "avevo"
+    },
+    {
+      "start": 16.2,
+      "end": 16.46,
+      "word": "super"
+    },
+    {
+      "start": 16.46,
+      "end": 16.74,
+      "word": "voglia"
+    },
+    {
+      "start": 16.74,
+      "end": 16.86,
+      "word": "di"
+    },
+    {
+      "start": 16.86,
+      "end": 17.1,
+      "word": "questa"
+    },
+    {
+      "start": 17.1,
+      "end": 17.32,
+      "word": "pizza"
+    },
+    {
+      "start": 17.32,
+      "end": 17.86,
+      "word": "americana"
+    },
+    {
+      "start": 17.86,
+      "end": 17.98,
+      "word": "Di"
+    },
+    {
+      "start": 17.98,
+      "end": 18.16,
+      "word": "questo"
+    },
+    {
+      "start": 18.16,
+      "end": 18.56,
+      "word": "formato"
+    },
+    {
+      "start": 18.56,
+      "end": 18.92,
+      "word": "direi"
+    },
+    {
+      "start": 18.92,
+      "end": 18.94,
+      "word": "che"
+    },
+    {
+      "start": 18.94,
+      "end": 19.04,
+      "word": "è"
+    },
+    {
+      "start": 19.04,
+      "end": 19.12,
+      "word": "il"
+    },
+    {
+      "start": 19.12,
+      "end": 19.38,
+      "word": "formato"
+    },
+    {
+      "start": 19.38,
+      "end": 19.74,
+      "word": "giusto"
+    },
+    {
+      "start": 19.74,
+      "end": 20.04,
+      "word": "ovviamente"
+    },
+    {
+      "start": 20.04,
+      "end": 20.28,
+      "word": "il"
+    },
+    {
+      "start": 20.28,
+      "end": 20.6,
+      "word": "livello"
+    },
+    {
+      "start": 20.6,
+      "end": 20.84,
+      "word": "di"
+    },
+    {
+      "start": 20.84,
+      "end": 21.3,
+      "word": "honto"
+    },
+    {
+      "start": 21.3,
+      "end": 21.82,
+      "word": "di"
+    },
+    {
+      "start": 21.82,
+      "end": 22.06,
+      "word": "questo"
+    },
+    {
+      "start": 22.06,
+      "end": 22.56,
+      "word": "prodotto"
+    },
+    {
+      "start": 22.56,
+      "end": 22.9,
+      "word": "è"
+    },
+    {
+      "start": 22.9,
+      "end": 23.08,
+      "word": "al"
+    },
+    {
+      "start": 23.08,
+      "end": 23.32,
+      "word": "pare"
+    },
+    {
+      "start": 23.32,
+      "end": 23.54,
+      "word": "dei"
+    },
+    {
+      "start": 23.54,
+      "end": 23.74,
+      "word": "suoi"
+    },
+    {
+      "start": 23.74,
+      "end": 24.2,
+      "word": "competitor"
+    },
+    {
+      "start": 24.2,
+      "end": 24.52,
+      "word": "come"
+    },
+    {
+      "start": 24.52,
+      "end": 24.9,
+      "word": "domino"
+    },
+    {
+      "start": 24.9,
+      "end": 25.06,
+      "word": "se"
+    },
+    {
+      "start": 25.06,
+      "end": 25.62,
+      "word": "pizzat"
+    },
+    {
+      "start": 25.62,
+      "end": 25.82,
+      "word": "ed"
+    },
+    {
+      "start": 25.82,
+      "end": 25.86,
+      "word": "è"
+    },
+    {
+      "start": 25.86,
+      "end": 26.02,
+      "word": "quindi"
+    },
+    {
+      "start": 26.02,
+      "end": 26.12,
+      "word": "un"
+    },
+    {
+      "start": 26.12,
+      "end": 26.36,
+      "word": "livello"
+    },
+    {
+      "start": 26.36,
+      "end": 26.52,
+      "word": "di"
+    },
+    {
+      "start": 26.52,
+      "end": 26.8,
+      "word": "honto"
+    },
+    {
+      "start": 26.8,
+      "end": 27.44,
+      "word": "altissimo"
+    },
+    {
+      "start": 27.44,
+      "end": 27.66,
+      "word": "ma"
+    },
+    {
+      "start": 27.66,
+      "end": 28.16,
+      "word": "perfettamente"
+    },
+    {
+      "start": 28.16,
+      "end": 28.34,
+      "word": "in"
+    },
+    {
+      "start": 28.34,
+      "end": 28.62,
+      "word": "linea"
+    },
+    {
+      "start": 28.62,
+      "end": 28.74,
+      "word": "con"
+    },
+    {
+      "start": 28.74,
+      "end": 28.88,
+      "word": "la"
+    },
+    {
+      "start": 28.88,
+      "end": 29.04,
+      "word": "media"
+    },
+    {
+      "start": 29.04,
+      "end": 29.56,
+      "word": "americana"
+    },
+    {
+      "start": 29.56,
+      "end": 29.82,
+      "word": "ottimo"
+    },
+    {
+      "start": 29.82,
+      "end": 30.0,
+      "word": "anche"
+    },
+    {
+      "start": 30.0,
+      "end": 30.26,
+      "word": "questa"
+    },
+    {
+      "start": 30.26,
+      "end": 30.58,
+      "word": "scelta"
+    },
+    {
+      "start": 30.58,
+      "end": 30.86,
+      "word": "ovviamente"
+    },
+    {
+      "start": 30.86,
+      "end": 31.04,
+      "word": "di"
+    },
+    {
+      "start": 31.04,
+      "end": 31.52,
+      "word": "tagliarli"
+    },
+    {
+      "start": 31.52,
+      "end": 31.6,
+      "word": "in"
+    },
+    {
+      "start": 31.6,
+      "end": 31.86,
+      "word": "fette"
+    },
+    {
+      "start": 31.86,
+      "end": 32.12,
+      "word": "molto"
+    },
+    {
+      "start": 32.12,
+      "end": 32.62,
+      "word": "fini"
+    },
+    {
+      "start": 32.62,
+      "end": 32.68,
+      "word": "è"
+    },
+    {
+      "start": 32.68,
+      "end": 32.8,
+      "word": "più"
+    },
+    {
+      "start": 32.8,
+      "end": 32.92,
+      "word": "che"
+    },
+    {
+      "start": 32.92,
+      "end": 33.0,
+      "word": "l"
+    },
+    {
+      "start": 33.0,
+      "end": 33.52,
+      "word": "'impasto"
+    },
+    {
+      "start": 33.52,
+      "end": 33.92,
+      "word": "che"
+    },
+    {
+      "start": 33.92,
+      "end": 34.14,
+      "word": "comunque"
+    },
+    {
+      "start": 34.14,
+      "end": 34.36,
+      "word": "non"
+    },
+    {
+      "start": 34.36,
+      "end": 34.52,
+      "word": "era"
+    },
+    {
+      "start": 34.52,
+      "end": 34.74,
+      "word": "male"
+    },
+    {
+      "start": 34.74,
+      "end": 34.9,
+      "word": "della"
+    },
+    {
+      "start": 34.9,
+      "end": 35.16,
+      "word": "bello"
+    },
+    {
+      "start": 35.16,
+      "end": 35.66,
+      "word": "croccante"
+    },
+    {
+      "start": 35.66,
+      "end": 35.92,
+      "word": "ciò"
+    },
+    {
+      "start": 35.92,
+      "end": 36.0,
+      "word": "che"
+    },
+    {
+      "start": 36.0,
+      "end": 36.12,
+      "word": "mi"
+    },
+    {
+      "start": 36.12,
+      "end": 36.2,
+      "word": "ha"
+    },
+    {
+      "start": 36.2,
+      "end": 36.56,
+      "word": "stupito"
+    },
+    {
+      "start": 36.56,
+      "end": 36.74,
+      "word": "sono"
+    },
+    {
+      "start": 36.74,
+      "end": 37.1,
+      "word": "appunti"
+    },
+    {
+      "start": 37.1,
+      "end": 37.14,
+      "word": "i"
+    },
+    {
+      "start": 37.14,
+      "end": 37.22,
+      "word": "loro"
+    },
+    {
+      "start": 37.22,
+      "end": 37.82,
+      "word": "pepperoni"
+    },
+    {
+      "start": 37.82,
+      "end": 37.98,
+      "word": "belli"
+    },
+    {
+      "start": 37.98,
+      "end": 38.54,
+      "word": "saporiti"
+    },
+    {
+      "start": 38.54,
+      "end": 38.72,
+      "word": "con"
+    },
+    {
+      "start": 38.72,
+      "end": 38.82,
+      "word": "una"
+    },
+    {
+      "start": 38.82,
+      "end": 39.54,
+      "word": "croccantezza"
+    },
+    {
+      "start": 39.54,
+      "end": 40.14,
+      "word": "clamo"
+    },
+    {
+      "start": 40.14,
+      "end": 40.98,
+      "word": "rosa"
+    },
+    {
+      "start": 40.98,
+      "end": 41.1,
+      "word": "che"
+    },
+    {
+      "start": 41.1,
+      "end": 41.28,
+      "word": "quindi"
+    },
+    {
+      "start": 41.28,
+      "end": 41.64,
+      "word": "reso"
+    },
+    {
+      "start": 41.64,
+      "end": 41.96,
+      "word": "monta"
+    },
+    {
+      "start": 41.96,
+      "end": 42.02,
+      "word": "in"
+    },
+    {
+      "start": 42.02,
+      "end": 42.28,
+      "word": "Mike's"
+    },
+    {
+      "start": 42.28,
+      "end": 42.58,
+      "word": "Pizza"
+    },
+    {
+      "start": 42.58,
+      "end": 42.86,
+      "word": "una"
+    },
+    {
+      "start": 42.86,
+      "end": 43.32,
+      "word": "catena"
+    },
+    {
+      "start": 43.32,
+      "end": 43.52,
+      "word": "da"
+    },
+    {
+      "start": 43.52,
+      "end": 44.1,
+      "word": "ricordare"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.433,
+      "dur": 2.433,
+      "transcript": "Pepperoni pizza gigante in California"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.433,
+      "end": 3.867,
+      "dur": 1.433,
+      "transcript": "con anche i pepperoni più crispi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.867,
+      "end": 6.4,
+      "dur": 2.533,
+      "transcript": "che io abbiamo provato oggi ragazzi siamo a provare monta in"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.4,
+      "end": 10.2,
+      "dur": 3.8,
+      "transcript": "Mike's Pizza Overe una catena americana di pizzerie famosa soprattutto per i"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.2,
+      "end": 15.7,
+      "dur": 5.5,
+      "transcript": "suoi pepperoni super croccanti e per questo formato di pizza mega gigante in uno dei miei ultimi giorni in"
+    },
+    {
+      "shot_idx": 5,
+      "start": 15.7,
+      "end": 19.7,
+      "dur": 4.0,
+      "transcript": "california avevo super voglia di questa pizza americana Di questo formato direi che è il formato giusto"
+    },
+    {
+      "shot_idx": 6,
+      "start": 19.7,
+      "end": 23.667,
+      "dur": 3.967,
+      "transcript": "ovviamente il livello di honto di questo prodotto è al pare dei suoi"
+    },
+    {
+      "shot_idx": 7,
+      "start": 23.667,
+      "end": 26.467,
+      "dur": 2.8,
+      "transcript": "competitor come domino se pizzat ed è quindi un livello di"
+    },
+    {
+      "shot_idx": 8,
+      "start": 26.467,
+      "end": 35.1,
+      "dur": 8.633,
+      "transcript": "honto altissimo ma perfettamente in linea con la media americana ottimo anche questa scelta ovviamente di tagliarli in fette molto fini è più che l 'impasto che comunque non era male della bello"
+    },
+    {
+      "shot_idx": 9,
+      "start": 35.1,
+      "end": 40.5,
+      "dur": 5.4,
+      "transcript": "croccante ciò che mi ha stupito sono appunti i loro pepperoni belli saporiti con una croccantezza clamo"
+    },
+    {
+      "shot_idx": 10,
+      "start": 40.5,
+      "end": 44.8,
+      "dur": 4.3,
+      "transcript": "rosa che quindi reso monta in Mike's Pizza una catena da ricordare"
+    }
+  ]
+}

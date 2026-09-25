@@ -1,0 +1,1838 @@
+{
+  "ref_id": "ref_11_7655280554383838496",
+  "video": "/opt/reel-agent/media/style_ref/ref_11_7655280554383838496.mp4",
+  "n_segments": 17,
+  "n_words": 289,
+  "n_shots": 42,
+  "full_text": "giorno 5 del mio viaggio alle Maldive, alla scoperta di questo paradiso perché sì ragazzi qua stiamo parlando tutti gli effetti di un paradiso, a partire proprio da questa corazione con un omelette fatta sul momento vista mare che come inizio possiamo già dire che erasenta la perfezione, dopo di che in mattina sono stato un po' tra mare e piscina per poi tornare a ricaricare l'energia con il nostro pranzo dopo aver provato un po' di gerire siamo ripartiti in barca come il giorno precedente ma questa volta alla ricerca della Tartaluga Marina e anche in questo caso siamo stati piuttosto fortunati perché ne abbiamo subito trovate un paio e ci siamo quindi immersi per notarci accanto ovviamente nonostante qualche piccolo momento in cui ci siamo avvicinati tanto non le abbiamo mai toccate questo per non darle troppo fastidio, cosa che è molto importante nonostante comunque possono abbastanza vicini anche questa volta incontrare un animale del genere in mare aperto è davvero qualcosa di clavo, molto prozzo, abbiamo proseguito il giro andando a visitare anche questo relito che per me è diventata la casa di migliaia di pesci incontrando anche una carinissima razza, tornati poi al villaggio abbiamo fatto una bella partita di paddel che è sempre divertente nonostante 40 gradi, tramonto sulla spiaggia e poi cena tra l'altro oggi era la serata a Tartaluaida, io ho iniziato da questo carpaccio tagliato al momento ed a buon italiano doppia porzione di pasta poi un giro veloce dei secondi e ovviamente dolce con crepa anche qua preparata sul momento, un bicchiere di bollicine che non riesco mai ad apprezzare drink sulla spiaggia che anche qua non ho apprezzato, qualche ballo e qualche squaletto con pudera alla serata",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "giorno 5 del mio viaggio alle Maldive, alla scoperta di questo paradiso"
+    },
+    {
+      "start": 3.74,
+      "end": 10.02,
+      "text": "perché sì ragazzi qua stiamo parlando tutti gli effetti di un paradiso, a partire proprio da questa corazione con un omelette fatta sul momento"
+    },
+    {
+      "start": 10.02,
+      "end": 14.64,
+      "text": "vista mare che come inizio possiamo già dire che erasenta la perfezione, dopo di che in mattina"
+    },
+    {
+      "start": 14.64,
+      "end": 20.1,
+      "text": "sono stato un po' tra mare e piscina per poi tornare a ricaricare l'energia con il nostro pranzo"
+    },
+    {
+      "start": 20.1,
+      "end": 26.14,
+      "text": "dopo aver provato un po' di gerire siamo ripartiti in barca come il giorno precedente ma questa volta alla ricerca della Tartaluga Marina"
+    },
+    {
+      "start": 26.14,
+      "end": 27.72,
+      "text": "e anche in questo caso siamo stati piuttosto"
+    },
+    {
+      "start": 27.72,
+      "end": 32.02,
+      "text": "fortunati perché ne abbiamo subito trovate un paio e ci siamo quindi immersi per notarci accanto"
+    },
+    {
+      "start": 32.02,
+      "end": 36.08,
+      "text": "ovviamente nonostante qualche piccolo momento in cui ci siamo avvicinati tanto non le abbiamo mai toccate"
+    },
+    {
+      "start": 36.08,
+      "end": 40.74,
+      "text": "questo per non darle troppo fastidio, cosa che è molto importante nonostante comunque possono abbastanza vicini"
+    },
+    {
+      "start": 40.74,
+      "end": 45.52,
+      "text": "anche questa volta incontrare un animale del genere in mare aperto è davvero qualcosa di clavo, molto"
+    },
+    {
+      "start": 45.52,
+      "end": 51.1,
+      "text": "prozzo, abbiamo proseguito il giro andando a visitare anche questo relito che per me è diventata la casa di migliaia di pesci"
+    },
+    {
+      "start": 51.1,
+      "end": 55.64,
+      "text": "incontrando anche una carinissima razza, tornati poi al villaggio abbiamo fatto una bella partita di paddel"
+    },
+    {
+      "start": 55.64,
+      "end": 59.78,
+      "text": "che è sempre divertente nonostante 40 gradi, tramonto sulla spiaggia e poi cena"
+    },
+    {
+      "start": 59.78,
+      "end": 64.06,
+      "text": "tra l'altro oggi era la serata a Tartaluaida, io ho iniziato da questo carpaccio tagliato al momento"
+    },
+    {
+      "start": 64.06,
+      "end": 69.46,
+      "text": "ed a buon italiano doppia porzione di pasta poi un giro veloce dei secondi e ovviamente dolce con crepa"
+    },
+    {
+      "start": 69.46,
+      "end": 73.04,
+      "text": "anche qua preparata sul momento, un bicchiere di bollicine che non riesco mai ad apprezzare"
+    },
+    {
+      "start": 73.04,
+      "end": 77.74,
+      "text": "drink sulla spiaggia che anche qua non ho apprezzato, qualche ballo e qualche squaletto con pudera alla serata"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "word": "giorno"
+    },
+    {
+      "start": 0.38,
+      "end": 0.7,
+      "word": "5"
+    },
+    {
+      "start": 0.7,
+      "end": 0.92,
+      "word": "del"
+    },
+    {
+      "start": 0.92,
+      "end": 1.06,
+      "word": "mio"
+    },
+    {
+      "start": 1.06,
+      "end": 1.38,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.38,
+      "end": 1.56,
+      "word": "alle"
+    },
+    {
+      "start": 1.56,
+      "end": 2.0,
+      "word": "Maldive,"
+    },
+    {
+      "start": 2.12,
+      "end": 2.26,
+      "word": "alla"
+    },
+    {
+      "start": 2.26,
+      "end": 2.64,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.64,
+      "end": 2.84,
+      "word": "di"
+    },
+    {
+      "start": 2.84,
+      "end": 3.06,
+      "word": "questo"
+    },
+    {
+      "start": 3.06,
+      "end": 3.74,
+      "word": "paradiso"
+    },
+    {
+      "start": 3.74,
+      "end": 4.02,
+      "word": "perché"
+    },
+    {
+      "start": 4.02,
+      "end": 4.3,
+      "word": "sì"
+    },
+    {
+      "start": 4.3,
+      "end": 4.62,
+      "word": "ragazzi"
+    },
+    {
+      "start": 4.62,
+      "end": 4.8,
+      "word": "qua"
+    },
+    {
+      "start": 4.8,
+      "end": 4.94,
+      "word": "stiamo"
+    },
+    {
+      "start": 4.94,
+      "end": 5.22,
+      "word": "parlando"
+    },
+    {
+      "start": 5.22,
+      "end": 5.48,
+      "word": "tutti"
+    },
+    {
+      "start": 5.48,
+      "end": 5.66,
+      "word": "gli"
+    },
+    {
+      "start": 5.66,
+      "end": 5.98,
+      "word": "effetti"
+    },
+    {
+      "start": 5.98,
+      "end": 6.16,
+      "word": "di"
+    },
+    {
+      "start": 6.16,
+      "end": 6.3,
+      "word": "un"
+    },
+    {
+      "start": 6.3,
+      "end": 6.88,
+      "word": "paradiso,"
+    },
+    {
+      "start": 6.9,
+      "end": 7.06,
+      "word": "a"
+    },
+    {
+      "start": 7.06,
+      "end": 7.38,
+      "word": "partire"
+    },
+    {
+      "start": 7.38,
+      "end": 7.54,
+      "word": "proprio"
+    },
+    {
+      "start": 7.54,
+      "end": 7.72,
+      "word": "da"
+    },
+    {
+      "start": 7.72,
+      "end": 8.0,
+      "word": "questa"
+    },
+    {
+      "start": 8.0,
+      "end": 8.48,
+      "word": "corazione"
+    },
+    {
+      "start": 8.48,
+      "end": 8.76,
+      "word": "con"
+    },
+    {
+      "start": 8.76,
+      "end": 8.9,
+      "word": "un"
+    },
+    {
+      "start": 8.9,
+      "end": 9.22,
+      "word": "omelette"
+    },
+    {
+      "start": 9.22,
+      "end": 9.54,
+      "word": "fatta"
+    },
+    {
+      "start": 9.54,
+      "end": 9.7,
+      "word": "sul"
+    },
+    {
+      "start": 9.7,
+      "end": 10.02,
+      "word": "momento"
+    },
+    {
+      "start": 10.02,
+      "end": 10.52,
+      "word": "vista"
+    },
+    {
+      "start": 10.52,
+      "end": 10.9,
+      "word": "mare"
+    },
+    {
+      "start": 10.9,
+      "end": 11.16,
+      "word": "che"
+    },
+    {
+      "start": 11.16,
+      "end": 11.34,
+      "word": "come"
+    },
+    {
+      "start": 11.34,
+      "end": 11.62,
+      "word": "inizio"
+    },
+    {
+      "start": 11.62,
+      "end": 11.88,
+      "word": "possiamo"
+    },
+    {
+      "start": 11.88,
+      "end": 12.1,
+      "word": "già"
+    },
+    {
+      "start": 12.1,
+      "end": 12.32,
+      "word": "dire"
+    },
+    {
+      "start": 12.32,
+      "end": 12.5,
+      "word": "che"
+    },
+    {
+      "start": 12.5,
+      "end": 12.9,
+      "word": "erasenta"
+    },
+    {
+      "start": 12.9,
+      "end": 13.06,
+      "word": "la"
+    },
+    {
+      "start": 13.06,
+      "end": 13.62,
+      "word": "perfezione,"
+    },
+    {
+      "start": 13.74,
+      "end": 13.9,
+      "word": "dopo"
+    },
+    {
+      "start": 13.9,
+      "end": 14.02,
+      "word": "di"
+    },
+    {
+      "start": 14.02,
+      "end": 14.12,
+      "word": "che"
+    },
+    {
+      "start": 14.12,
+      "end": 14.3,
+      "word": "in"
+    },
+    {
+      "start": 14.3,
+      "end": 14.64,
+      "word": "mattina"
+    },
+    {
+      "start": 14.64,
+      "end": 14.88,
+      "word": "sono"
+    },
+    {
+      "start": 14.88,
+      "end": 15.24,
+      "word": "stato"
+    },
+    {
+      "start": 15.24,
+      "end": 15.44,
+      "word": "un"
+    },
+    {
+      "start": 15.44,
+      "end": 15.64,
+      "word": "po'"
+    },
+    {
+      "start": 15.82,
+      "end": 15.9,
+      "word": "tra"
+    },
+    {
+      "start": 15.9,
+      "end": 16.42,
+      "word": "mare"
+    },
+    {
+      "start": 16.42,
+      "end": 16.72,
+      "word": "e"
+    },
+    {
+      "start": 16.72,
+      "end": 17.16,
+      "word": "piscina"
+    },
+    {
+      "start": 17.16,
+      "end": 17.4,
+      "word": "per"
+    },
+    {
+      "start": 17.4,
+      "end": 17.58,
+      "word": "poi"
+    },
+    {
+      "start": 17.58,
+      "end": 17.96,
+      "word": "tornare"
+    },
+    {
+      "start": 17.96,
+      "end": 18.12,
+      "word": "a"
+    },
+    {
+      "start": 18.12,
+      "end": 18.5,
+      "word": "ricaricare"
+    },
+    {
+      "start": 18.5,
+      "end": 18.68,
+      "word": "l"
+    },
+    {
+      "start": 18.68,
+      "end": 19.04,
+      "word": "'energia"
+    },
+    {
+      "start": 19.04,
+      "end": 19.26,
+      "word": "con"
+    },
+    {
+      "start": 19.26,
+      "end": 19.36,
+      "word": "il"
+    },
+    {
+      "start": 19.36,
+      "end": 19.5,
+      "word": "nostro"
+    },
+    {
+      "start": 19.5,
+      "end": 20.1,
+      "word": "pranzo"
+    },
+    {
+      "start": 20.1,
+      "end": 20.3,
+      "word": "dopo"
+    },
+    {
+      "start": 20.3,
+      "end": 20.48,
+      "word": "aver"
+    },
+    {
+      "start": 20.48,
+      "end": 20.76,
+      "word": "provato"
+    },
+    {
+      "start": 20.76,
+      "end": 20.9,
+      "word": "un"
+    },
+    {
+      "start": 20.9,
+      "end": 21.0,
+      "word": "po'"
+    },
+    {
+      "start": 21.08,
+      "end": 21.12,
+      "word": "di"
+    },
+    {
+      "start": 21.12,
+      "end": 21.48,
+      "word": "gerire"
+    },
+    {
+      "start": 21.48,
+      "end": 21.7,
+      "word": "siamo"
+    },
+    {
+      "start": 21.7,
+      "end": 22.22,
+      "word": "ripartiti"
+    },
+    {
+      "start": 22.22,
+      "end": 22.4,
+      "word": "in"
+    },
+    {
+      "start": 22.4,
+      "end": 22.74,
+      "word": "barca"
+    },
+    {
+      "start": 22.74,
+      "end": 22.92,
+      "word": "come"
+    },
+    {
+      "start": 22.92,
+      "end": 23.04,
+      "word": "il"
+    },
+    {
+      "start": 23.04,
+      "end": 23.18,
+      "word": "giorno"
+    },
+    {
+      "start": 23.18,
+      "end": 23.7,
+      "word": "precedente"
+    },
+    {
+      "start": 23.7,
+      "end": 23.88,
+      "word": "ma"
+    },
+    {
+      "start": 23.88,
+      "end": 24.1,
+      "word": "questa"
+    },
+    {
+      "start": 24.1,
+      "end": 24.32,
+      "word": "volta"
+    },
+    {
+      "start": 24.32,
+      "end": 24.64,
+      "word": "alla"
+    },
+    {
+      "start": 24.64,
+      "end": 25.0,
+      "word": "ricerca"
+    },
+    {
+      "start": 25.0,
+      "end": 25.3,
+      "word": "della"
+    },
+    {
+      "start": 25.3,
+      "end": 25.8,
+      "word": "Tartaluga"
+    },
+    {
+      "start": 25.8,
+      "end": 26.14,
+      "word": "Marina"
+    },
+    {
+      "start": 26.14,
+      "end": 26.28,
+      "word": "e"
+    },
+    {
+      "start": 26.28,
+      "end": 26.48,
+      "word": "anche"
+    },
+    {
+      "start": 26.48,
+      "end": 26.58,
+      "word": "in"
+    },
+    {
+      "start": 26.58,
+      "end": 26.76,
+      "word": "questo"
+    },
+    {
+      "start": 26.76,
+      "end": 26.96,
+      "word": "caso"
+    },
+    {
+      "start": 26.96,
+      "end": 27.14,
+      "word": "siamo"
+    },
+    {
+      "start": 27.14,
+      "end": 27.38,
+      "word": "stati"
+    },
+    {
+      "start": 27.38,
+      "end": 27.72,
+      "word": "piuttosto"
+    },
+    {
+      "start": 27.72,
+      "end": 28.28,
+      "word": "fortunati"
+    },
+    {
+      "start": 28.28,
+      "end": 28.5,
+      "word": "perché"
+    },
+    {
+      "start": 28.5,
+      "end": 28.62,
+      "word": "ne"
+    },
+    {
+      "start": 28.62,
+      "end": 28.76,
+      "word": "abbiamo"
+    },
+    {
+      "start": 28.76,
+      "end": 29.1,
+      "word": "subito"
+    },
+    {
+      "start": 29.1,
+      "end": 29.42,
+      "word": "trovate"
+    },
+    {
+      "start": 29.42,
+      "end": 29.58,
+      "word": "un"
+    },
+    {
+      "start": 29.58,
+      "end": 29.88,
+      "word": "paio"
+    },
+    {
+      "start": 29.88,
+      "end": 30.04,
+      "word": "e"
+    },
+    {
+      "start": 30.04,
+      "end": 30.1,
+      "word": "ci"
+    },
+    {
+      "start": 30.1,
+      "end": 30.26,
+      "word": "siamo"
+    },
+    {
+      "start": 30.26,
+      "end": 30.52,
+      "word": "quindi"
+    },
+    {
+      "start": 30.52,
+      "end": 31.0,
+      "word": "immersi"
+    },
+    {
+      "start": 31.0,
+      "end": 31.14,
+      "word": "per"
+    },
+    {
+      "start": 31.14,
+      "end": 31.58,
+      "word": "notarci"
+    },
+    {
+      "start": 31.58,
+      "end": 32.02,
+      "word": "accanto"
+    },
+    {
+      "start": 32.02,
+      "end": 32.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 32.4,
+      "end": 32.94,
+      "word": "nonostante"
+    },
+    {
+      "start": 32.94,
+      "end": 33.16,
+      "word": "qualche"
+    },
+    {
+      "start": 33.16,
+      "end": 33.56,
+      "word": "piccolo"
+    },
+    {
+      "start": 33.56,
+      "end": 33.78,
+      "word": "momento"
+    },
+    {
+      "start": 33.78,
+      "end": 34.04,
+      "word": "in"
+    },
+    {
+      "start": 34.04,
+      "end": 34.06,
+      "word": "cui"
+    },
+    {
+      "start": 34.06,
+      "end": 34.18,
+      "word": "ci"
+    },
+    {
+      "start": 34.18,
+      "end": 34.3,
+      "word": "siamo"
+    },
+    {
+      "start": 34.3,
+      "end": 34.68,
+      "word": "avvicinati"
+    },
+    {
+      "start": 34.68,
+      "end": 34.9,
+      "word": "tanto"
+    },
+    {
+      "start": 34.9,
+      "end": 35.08,
+      "word": "non"
+    },
+    {
+      "start": 35.08,
+      "end": 35.18,
+      "word": "le"
+    },
+    {
+      "start": 35.18,
+      "end": 35.32,
+      "word": "abbiamo"
+    },
+    {
+      "start": 35.32,
+      "end": 35.6,
+      "word": "mai"
+    },
+    {
+      "start": 35.6,
+      "end": 36.08,
+      "word": "toccate"
+    },
+    {
+      "start": 36.08,
+      "end": 36.44,
+      "word": "questo"
+    },
+    {
+      "start": 36.44,
+      "end": 36.6,
+      "word": "per"
+    },
+    {
+      "start": 36.6,
+      "end": 36.72,
+      "word": "non"
+    },
+    {
+      "start": 36.72,
+      "end": 36.94,
+      "word": "darle"
+    },
+    {
+      "start": 36.94,
+      "end": 37.26,
+      "word": "troppo"
+    },
+    {
+      "start": 37.26,
+      "end": 37.74,
+      "word": "fastidio,"
+    },
+    {
+      "start": 37.76,
+      "end": 37.86,
+      "word": "cosa"
+    },
+    {
+      "start": 37.86,
+      "end": 38.04,
+      "word": "che"
+    },
+    {
+      "start": 38.04,
+      "end": 38.1,
+      "word": "è"
+    },
+    {
+      "start": 38.1,
+      "end": 38.2,
+      "word": "molto"
+    },
+    {
+      "start": 38.2,
+      "end": 38.68,
+      "word": "importante"
+    },
+    {
+      "start": 38.68,
+      "end": 39.2,
+      "word": "nonostante"
+    },
+    {
+      "start": 39.2,
+      "end": 39.54,
+      "word": "comunque"
+    },
+    {
+      "start": 39.54,
+      "end": 39.94,
+      "word": "possono"
+    },
+    {
+      "start": 39.94,
+      "end": 40.34,
+      "word": "abbastanza"
+    },
+    {
+      "start": 40.34,
+      "end": 40.74,
+      "word": "vicini"
+    },
+    {
+      "start": 40.74,
+      "end": 40.9,
+      "word": "anche"
+    },
+    {
+      "start": 40.9,
+      "end": 41.14,
+      "word": "questa"
+    },
+    {
+      "start": 41.14,
+      "end": 41.4,
+      "word": "volta"
+    },
+    {
+      "start": 41.4,
+      "end": 41.84,
+      "word": "incontrare"
+    },
+    {
+      "start": 41.84,
+      "end": 42.0,
+      "word": "un"
+    },
+    {
+      "start": 42.0,
+      "end": 42.2,
+      "word": "animale"
+    },
+    {
+      "start": 42.2,
+      "end": 42.4,
+      "word": "del"
+    },
+    {
+      "start": 42.4,
+      "end": 42.7,
+      "word": "genere"
+    },
+    {
+      "start": 42.7,
+      "end": 43.16,
+      "word": "in"
+    },
+    {
+      "start": 43.16,
+      "end": 43.34,
+      "word": "mare"
+    },
+    {
+      "start": 43.34,
+      "end": 43.86,
+      "word": "aperto"
+    },
+    {
+      "start": 43.86,
+      "end": 43.94,
+      "word": "è"
+    },
+    {
+      "start": 43.94,
+      "end": 44.18,
+      "word": "davvero"
+    },
+    {
+      "start": 44.18,
+      "end": 44.46,
+      "word": "qualcosa"
+    },
+    {
+      "start": 44.46,
+      "end": 44.66,
+      "word": "di"
+    },
+    {
+      "start": 44.66,
+      "end": 45.14,
+      "word": "clavo,"
+    },
+    {
+      "start": 45.18,
+      "end": 45.52,
+      "word": "molto"
+    },
+    {
+      "start": 45.52,
+      "end": 45.98,
+      "word": "prozzo,"
+    },
+    {
+      "start": 46.04,
+      "end": 46.2,
+      "word": "abbiamo"
+    },
+    {
+      "start": 46.2,
+      "end": 46.66,
+      "word": "proseguito"
+    },
+    {
+      "start": 46.66,
+      "end": 46.84,
+      "word": "il"
+    },
+    {
+      "start": 46.84,
+      "end": 47.1,
+      "word": "giro"
+    },
+    {
+      "start": 47.1,
+      "end": 47.44,
+      "word": "andando"
+    },
+    {
+      "start": 47.44,
+      "end": 47.52,
+      "word": "a"
+    },
+    {
+      "start": 47.52,
+      "end": 47.82,
+      "word": "visitare"
+    },
+    {
+      "start": 47.82,
+      "end": 47.98,
+      "word": "anche"
+    },
+    {
+      "start": 47.98,
+      "end": 48.26,
+      "word": "questo"
+    },
+    {
+      "start": 48.26,
+      "end": 48.82,
+      "word": "relito"
+    },
+    {
+      "start": 48.82,
+      "end": 48.92,
+      "word": "che"
+    },
+    {
+      "start": 48.92,
+      "end": 48.98,
+      "word": "per"
+    },
+    {
+      "start": 48.98,
+      "end": 49.06,
+      "word": "me"
+    },
+    {
+      "start": 49.06,
+      "end": 49.2,
+      "word": "è"
+    },
+    {
+      "start": 49.2,
+      "end": 49.38,
+      "word": "diventata"
+    },
+    {
+      "start": 49.38,
+      "end": 49.58,
+      "word": "la"
+    },
+    {
+      "start": 49.58,
+      "end": 49.86,
+      "word": "casa"
+    },
+    {
+      "start": 49.86,
+      "end": 50.08,
+      "word": "di"
+    },
+    {
+      "start": 50.08,
+      "end": 50.6,
+      "word": "migliaia"
+    },
+    {
+      "start": 50.6,
+      "end": 50.76,
+      "word": "di"
+    },
+    {
+      "start": 50.76,
+      "end": 51.1,
+      "word": "pesci"
+    },
+    {
+      "start": 51.1,
+      "end": 51.48,
+      "word": "incontrando"
+    },
+    {
+      "start": 51.48,
+      "end": 51.76,
+      "word": "anche"
+    },
+    {
+      "start": 51.76,
+      "end": 51.96,
+      "word": "una"
+    },
+    {
+      "start": 51.96,
+      "end": 52.6,
+      "word": "carinissima"
+    },
+    {
+      "start": 52.6,
+      "end": 52.98,
+      "word": "razza,"
+    },
+    {
+      "start": 53.06,
+      "end": 53.36,
+      "word": "tornati"
+    },
+    {
+      "start": 53.36,
+      "end": 53.52,
+      "word": "poi"
+    },
+    {
+      "start": 53.52,
+      "end": 53.64,
+      "word": "al"
+    },
+    {
+      "start": 53.64,
+      "end": 53.98,
+      "word": "villaggio"
+    },
+    {
+      "start": 53.98,
+      "end": 54.2,
+      "word": "abbiamo"
+    },
+    {
+      "start": 54.2,
+      "end": 54.4,
+      "word": "fatto"
+    },
+    {
+      "start": 54.4,
+      "end": 54.58,
+      "word": "una"
+    },
+    {
+      "start": 54.58,
+      "end": 54.82,
+      "word": "bella"
+    },
+    {
+      "start": 54.82,
+      "end": 55.16,
+      "word": "partita"
+    },
+    {
+      "start": 55.16,
+      "end": 55.3,
+      "word": "di"
+    },
+    {
+      "start": 55.3,
+      "end": 55.64,
+      "word": "paddel"
+    },
+    {
+      "start": 55.64,
+      "end": 55.76,
+      "word": "che"
+    },
+    {
+      "start": 55.76,
+      "end": 55.8,
+      "word": "è"
+    },
+    {
+      "start": 55.8,
+      "end": 56.0,
+      "word": "sempre"
+    },
+    {
+      "start": 56.0,
+      "end": 56.5,
+      "word": "divertente"
+    },
+    {
+      "start": 56.5,
+      "end": 56.98,
+      "word": "nonostante"
+    },
+    {
+      "start": 56.98,
+      "end": 57.24,
+      "word": "40"
+    },
+    {
+      "start": 57.24,
+      "end": 57.74,
+      "word": "gradi,"
+    },
+    {
+      "start": 57.76,
+      "end": 58.14,
+      "word": "tramonto"
+    },
+    {
+      "start": 58.14,
+      "end": 58.34,
+      "word": "sulla"
+    },
+    {
+      "start": 58.34,
+      "end": 58.96,
+      "word": "spiaggia"
+    },
+    {
+      "start": 58.96,
+      "end": 59.22,
+      "word": "e"
+    },
+    {
+      "start": 59.22,
+      "end": 59.42,
+      "word": "poi"
+    },
+    {
+      "start": 59.42,
+      "end": 59.78,
+      "word": "cena"
+    },
+    {
+      "start": 59.78,
+      "end": 59.98,
+      "word": "tra"
+    },
+    {
+      "start": 59.98,
+      "end": 60.08,
+      "word": "l"
+    },
+    {
+      "start": 60.08,
+      "end": 60.24,
+      "word": "'altro"
+    },
+    {
+      "start": 60.24,
+      "end": 60.46,
+      "word": "oggi"
+    },
+    {
+      "start": 60.46,
+      "end": 60.56,
+      "word": "era"
+    },
+    {
+      "start": 60.56,
+      "end": 60.7,
+      "word": "la"
+    },
+    {
+      "start": 60.7,
+      "end": 61.0,
+      "word": "serata"
+    },
+    {
+      "start": 61.0,
+      "end": 61.16,
+      "word": "a"
+    },
+    {
+      "start": 61.16,
+      "end": 61.76,
+      "word": "Tartaluaida,"
+    },
+    {
+      "start": 61.82,
+      "end": 61.9,
+      "word": "io"
+    },
+    {
+      "start": 61.9,
+      "end": 61.96,
+      "word": "ho"
+    },
+    {
+      "start": 61.96,
+      "end": 62.28,
+      "word": "iniziato"
+    },
+    {
+      "start": 62.28,
+      "end": 62.4,
+      "word": "da"
+    },
+    {
+      "start": 62.4,
+      "end": 62.64,
+      "word": "questo"
+    },
+    {
+      "start": 62.64,
+      "end": 63.3,
+      "word": "carpaccio"
+    },
+    {
+      "start": 63.3,
+      "end": 63.62,
+      "word": "tagliato"
+    },
+    {
+      "start": 63.62,
+      "end": 63.7,
+      "word": "al"
+    },
+    {
+      "start": 63.7,
+      "end": 64.06,
+      "word": "momento"
+    },
+    {
+      "start": 64.06,
+      "end": 64.4,
+      "word": "ed"
+    },
+    {
+      "start": 64.4,
+      "end": 64.52,
+      "word": "a"
+    },
+    {
+      "start": 64.52,
+      "end": 64.66,
+      "word": "buon"
+    },
+    {
+      "start": 64.66,
+      "end": 64.94,
+      "word": "italiano"
+    },
+    {
+      "start": 64.94,
+      "end": 65.38,
+      "word": "doppia"
+    },
+    {
+      "start": 65.38,
+      "end": 65.7,
+      "word": "porzione"
+    },
+    {
+      "start": 65.7,
+      "end": 65.84,
+      "word": "di"
+    },
+    {
+      "start": 65.84,
+      "end": 66.14,
+      "word": "pasta"
+    },
+    {
+      "start": 66.14,
+      "end": 66.5,
+      "word": "poi"
+    },
+    {
+      "start": 66.5,
+      "end": 66.76,
+      "word": "un"
+    },
+    {
+      "start": 66.76,
+      "end": 67.02,
+      "word": "giro"
+    },
+    {
+      "start": 67.02,
+      "end": 67.34,
+      "word": "veloce"
+    },
+    {
+      "start": 67.34,
+      "end": 67.48,
+      "word": "dei"
+    },
+    {
+      "start": 67.48,
+      "end": 68.04,
+      "word": "secondi"
+    },
+    {
+      "start": 68.04,
+      "end": 68.14,
+      "word": "e"
+    },
+    {
+      "start": 68.14,
+      "end": 68.44,
+      "word": "ovviamente"
+    },
+    {
+      "start": 68.44,
+      "end": 68.92,
+      "word": "dolce"
+    },
+    {
+      "start": 68.92,
+      "end": 69.08,
+      "word": "con"
+    },
+    {
+      "start": 69.08,
+      "end": 69.46,
+      "word": "crepa"
+    },
+    {
+      "start": 69.46,
+      "end": 69.62,
+      "word": "anche"
+    },
+    {
+      "start": 69.62,
+      "end": 69.8,
+      "word": "qua"
+    },
+    {
+      "start": 69.8,
+      "end": 70.28,
+      "word": "preparata"
+    },
+    {
+      "start": 70.28,
+      "end": 70.44,
+      "word": "sul"
+    },
+    {
+      "start": 70.44,
+      "end": 70.7,
+      "word": "momento,"
+    },
+    {
+      "start": 70.84,
+      "end": 70.96,
+      "word": "un"
+    },
+    {
+      "start": 70.96,
+      "end": 71.26,
+      "word": "bicchiere"
+    },
+    {
+      "start": 71.26,
+      "end": 71.36,
+      "word": "di"
+    },
+    {
+      "start": 71.36,
+      "end": 71.74,
+      "word": "bollicine"
+    },
+    {
+      "start": 71.74,
+      "end": 71.86,
+      "word": "che"
+    },
+    {
+      "start": 71.86,
+      "end": 71.98,
+      "word": "non"
+    },
+    {
+      "start": 71.98,
+      "end": 72.22,
+      "word": "riesco"
+    },
+    {
+      "start": 72.22,
+      "end": 72.38,
+      "word": "mai"
+    },
+    {
+      "start": 72.38,
+      "end": 72.48,
+      "word": "ad"
+    },
+    {
+      "start": 72.48,
+      "end": 73.04,
+      "word": "apprezzare"
+    },
+    {
+      "start": 73.04,
+      "end": 73.26,
+      "word": "drink"
+    },
+    {
+      "start": 73.26,
+      "end": 73.44,
+      "word": "sulla"
+    },
+    {
+      "start": 73.44,
+      "end": 73.9,
+      "word": "spiaggia"
+    },
+    {
+      "start": 73.9,
+      "end": 73.98,
+      "word": "che"
+    },
+    {
+      "start": 73.98,
+      "end": 74.1,
+      "word": "anche"
+    },
+    {
+      "start": 74.1,
+      "end": 74.38,
+      "word": "qua"
+    },
+    {
+      "start": 74.38,
+      "end": 74.52,
+      "word": "non"
+    },
+    {
+      "start": 74.52,
+      "end": 74.66,
+      "word": "ho"
+    },
+    {
+      "start": 74.66,
+      "end": 75.2,
+      "word": "apprezzato,"
+    },
+    {
+      "start": 75.28,
+      "end": 75.48,
+      "word": "qualche"
+    },
+    {
+      "start": 75.48,
+      "end": 75.94,
+      "word": "ballo"
+    },
+    {
+      "start": 75.94,
+      "end": 76.02,
+      "word": "e"
+    },
+    {
+      "start": 76.02,
+      "end": 76.24,
+      "word": "qualche"
+    },
+    {
+      "start": 76.24,
+      "end": 76.72,
+      "word": "squaletto"
+    },
+    {
+      "start": 76.72,
+      "end": 76.92,
+      "word": "con"
+    },
+    {
+      "start": 76.92,
+      "end": 77.18,
+      "word": "pudera"
+    },
+    {
+      "start": 77.18,
+      "end": 77.34,
+      "word": "alla"
+    },
+    {
+      "start": 77.34,
+      "end": 77.74,
+      "word": "serata"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "transcript": "giorno 5 del mio viaggio alle Maldive,"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 3.667,
+      "dur": 1.6,
+      "transcript": "alla scoperta di questo paradiso"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.667,
+      "end": 4.467,
+      "dur": 0.8,
+      "transcript": "perché sì ragazzi"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.467,
+      "end": 7.1,
+      "dur": 2.633,
+      "transcript": "qua stiamo parlando tutti gli effetti di un paradiso, a"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.1,
+      "end": 8.567,
+      "dur": 1.467,
+      "transcript": "partire proprio da questa corazione"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.567,
+      "end": 10.067,
+      "dur": 1.5,
+      "transcript": "con un omelette fatta sul momento"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.067,
+      "end": 13.1,
+      "dur": 3.033,
+      "transcript": "vista mare che come inizio possiamo già dire che erasenta la"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.1,
+      "end": 14.4,
+      "dur": 1.3,
+      "transcript": "perfezione, dopo di che in"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.4,
+      "end": 16.2,
+      "dur": 1.8,
+      "transcript": "mattina sono stato un po' tra mare"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.2,
+      "end": 18.033,
+      "dur": 1.833,
+      "transcript": "e piscina per poi tornare"
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.033,
+      "end": 19.4,
+      "dur": 1.367,
+      "transcript": "a ricaricare l 'energia con il"
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.4,
+      "end": 20.7,
+      "dur": 1.3,
+      "transcript": "nostro pranzo dopo aver provato"
+    },
+    {
+      "shot_idx": 12,
+      "start": 20.7,
+      "end": 22.233,
+      "dur": 1.533,
+      "transcript": "un po' di gerire siamo ripartiti"
+    },
+    {
+      "shot_idx": 13,
+      "start": 22.233,
+      "end": 24.067,
+      "dur": 1.833,
+      "transcript": "in barca come il giorno precedente ma questa"
+    },
+    {
+      "shot_idx": 14,
+      "start": 24.067,
+      "end": 24.567,
+      "dur": 0.5,
+      "transcript": "volta alla"
+    },
+    {
+      "shot_idx": 15,
+      "start": 24.567,
+      "end": 25.4,
+      "dur": 0.833,
+      "transcript": "ricerca della"
+    },
+    {
+      "shot_idx": 16,
+      "start": 25.4,
+      "end": 26.433,
+      "dur": 1.033,
+      "transcript": "Tartaluga Marina e anche"
+    },
+    {
+      "shot_idx": 17,
+      "start": 26.433,
+      "end": 29.4,
+      "dur": 2.967,
+      "transcript": "in questo caso siamo stati piuttosto fortunati perché ne abbiamo subito trovate"
+    },
+    {
+      "shot_idx": 18,
+      "start": 29.4,
+      "end": 31.867,
+      "dur": 2.467,
+      "transcript": "un paio e ci siamo quindi immersi per notarci accanto"
+    },
+    {
+      "shot_idx": 19,
+      "start": 31.867,
+      "end": 34.433,
+      "dur": 2.567,
+      "transcript": "ovviamente nonostante qualche piccolo momento in cui ci siamo"
+    },
+    {
+      "shot_idx": 20,
+      "start": 34.433,
+      "end": 39.433,
+      "dur": 5.0,
+      "transcript": "avvicinati tanto non le abbiamo mai toccate questo per non darle troppo fastidio, cosa che è molto importante nonostante comunque"
+    },
+    {
+      "shot_idx": 21,
+      "start": 39.433,
+      "end": 41.933,
+      "dur": 2.5,
+      "transcript": "possono abbastanza vicini anche questa volta incontrare un"
+    },
+    {
+      "shot_idx": 22,
+      "start": 41.933,
+      "end": 43.733,
+      "dur": 1.8,
+      "transcript": "animale del genere in mare aperto"
+    },
+    {
+      "shot_idx": 23,
+      "start": 43.733,
+      "end": 45.9,
+      "dur": 2.167,
+      "transcript": "è davvero qualcosa di clavo, molto prozzo,"
+    },
+    {
+      "shot_idx": 24,
+      "start": 45.9,
+      "end": 47.867,
+      "dur": 1.967,
+      "transcript": "abbiamo proseguito il giro andando a visitare"
+    },
+    {
+      "shot_idx": 25,
+      "start": 47.867,
+      "end": 50.7,
+      "dur": 2.833,
+      "transcript": "anche questo relito che per me è diventata la casa di migliaia di"
+    },
+    {
+      "shot_idx": 26,
+      "start": 50.7,
+      "end": 52.5,
+      "dur": 1.8,
+      "transcript": "pesci incontrando anche una carinissima"
+    },
+    {
+      "shot_idx": 27,
+      "start": 52.5,
+      "end": 54.267,
+      "dur": 1.767,
+      "transcript": "razza, tornati poi al villaggio abbiamo"
+    },
+    {
+      "shot_idx": 28,
+      "start": 54.267,
+      "end": 56.0,
+      "dur": 1.733,
+      "transcript": "fatto una bella partita di paddel che è sempre"
+    },
+    {
+      "shot_idx": 29,
+      "start": 56.0,
+      "end": 58.0,
+      "dur": 2.0,
+      "transcript": "divertente nonostante 40 gradi, tramonto"
+    },
+    {
+      "shot_idx": 30,
+      "start": 58.0,
+      "end": 59.7,
+      "dur": 1.7,
+      "transcript": "sulla spiaggia e poi cena"
+    },
+    {
+      "shot_idx": 31,
+      "start": 59.7,
+      "end": 61.467,
+      "dur": 1.767,
+      "transcript": "tra l 'altro oggi era la serata a Tartaluaida,"
+    },
+    {
+      "shot_idx": 32,
+      "start": 61.467,
+      "end": 63.1,
+      "dur": 1.633,
+      "transcript": "io ho iniziato da questo carpaccio"
+    },
+    {
+      "shot_idx": 33,
+      "start": 63.1,
+      "end": 65.2,
+      "dur": 2.1,
+      "transcript": "tagliato al momento ed a buon italiano doppia"
+    },
+    {
+      "shot_idx": 34,
+      "start": 65.2,
+      "end": 66.933,
+      "dur": 1.733,
+      "transcript": "porzione di pasta poi un giro"
+    },
+    {
+      "shot_idx": 35,
+      "start": 66.933,
+      "end": 68.433,
+      "dur": 1.5,
+      "transcript": "veloce dei secondi e ovviamente"
+    },
+    {
+      "shot_idx": 36,
+      "start": 68.433,
+      "end": 69.967,
+      "dur": 1.533,
+      "transcript": "dolce con crepa anche qua"
+    },
+    {
+      "shot_idx": 37,
+      "start": 69.967,
+      "end": 71.7,
+      "dur": 1.733,
+      "transcript": "preparata sul momento, un bicchiere di bollicine"
+    },
+    {
+      "shot_idx": 38,
+      "start": 71.7,
+      "end": 73.1,
+      "dur": 1.4,
+      "transcript": "che non riesco mai ad apprezzare"
+    },
+    {
+      "shot_idx": 39,
+      "start": 73.1,
+      "end": 74.7,
+      "dur": 1.6,
+      "transcript": "drink sulla spiaggia che anche qua non ho"
+    },
+    {
+      "shot_idx": 40,
+      "start": 74.7,
+      "end": 76.7,
+      "dur": 2.0,
+      "transcript": "apprezzato, qualche ballo e qualche squaletto"
+    },
+    {
+      "shot_idx": 41,
+      "start": 76.7,
+      "end": 78.3,
+      "dur": 1.6,
+      "transcript": "con pudera alla serata"
+    }
+  ]
+}

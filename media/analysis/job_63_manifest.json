@@ -1,0 +1,938 @@
+{
+  "videos": [
+    {
+      "name": "IMG_6813.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 3.77
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 3.77
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 3.77,
+          "scene_duration": 3.77,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6813/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6815.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6815.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 2.97
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 2.97
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 2.97,
+          "scene_duration": 2.97,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6815/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6816.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6816.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 5.6
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 5.6
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 5.6,
+          "scene_duration": 5.6,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6816/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6820.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 7.8
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 7.8
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 7.8,
+          "scene_duration": 7.8,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6820/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6821.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 27.04
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 27.04
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 27.04,
+          "scene_duration": 27.04,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6821/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 4.72,
+          "end": 5.72,
+          "text": "Alla prossima!"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6822.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 13.33
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 13.33
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 13.33,
+          "scene_duration": 13.33,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6822/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 1.62,
+          "end": 4.62,
+          "text": "Ho un piccolo colloquio di opzionato e io ho un sacco di rada."
+        },
+        {
+          "start": 4.62,
+          "end": 5.62,
+          "text": "Sì."
+        },
+        {
+          "start": 5.62,
+          "end": 6.62,
+          "text": "Ma..."
+        },
+        {
+          "start": 6.62,
+          "end": 7.62,
+          "text": "Però, ma c'è?"
+        },
+        {
+          "start": 7.62,
+          "end": 8.62,
+          "text": "No."
+        }
+      ]
+    },
+    {
+      "name": "IMG_6823.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 27.27
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 27.27
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 27.27,
+          "scene_duration": 27.27,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6823/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 14.7,
+          "end": 15.7,
+          "text": "In grado più."
+        }
+      ]
+    },
+    {
+      "name": "IMG_6824.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 43.2
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 43.2
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 43.2,
+          "scene_duration": 43.2,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6824/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 4.78,
+          "end": 7.28,
+          "text": "Smetta, avvicina di più."
+        },
+        {
+          "start": 10.57,
+          "end": 11.57,
+          "text": "Ok?"
+        },
+        {
+          "start": 12.57,
+          "end": 15.57,
+          "text": "Smetta, fermo, fermo, fermo, fermo, fermo."
+        },
+        {
+          "start": 16.07,
+          "end": 17.07,
+          "text": "Vai."
+        },
+        {
+          "start": 22.37,
+          "end": 23.37,
+          "text": "Smetta a mangiare."
+        },
+        {
+          "start": 23.87,
+          "end": 24.87,
+          "text": "Vai."
+        }
+      ]
+    },
+    {
+      "name": "IMG_6825.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 29.64
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 29.64
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 29.64,
+          "scene_duration": 29.64,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6825/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 0.11,
+          "end": 1.11,
+          "text": "Vai!"
+        },
+        {
+          "start": 1.11,
+          "end": 8.26,
+          "text": "Vetta!"
+        },
+        {
+          "start": 9.26,
+          "end": 10.26,
+          "text": "Vetta!"
+        },
+        {
+          "start": 11.26,
+          "end": 12.26,
+          "text": "Io non direi!"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6826.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 22.03
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 22.03
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 22.03,
+          "scene_duration": 22.03,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6826/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 11.34,
+          "end": 13.34,
+          "text": "Assaggiano un altro paio"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6827.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 17.54
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 17.54
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 17.54,
+          "scene_duration": 17.54,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6827/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "Sì, assolutamente! Volevo i mangianti per il rischio."
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "text": "Vai, vai!"
+        },
+        {
+          "start": 3.0,
+          "end": 6.89,
+          "text": "Sperta, sperta!"
+        },
+        {
+          "start": 6.89,
+          "end": 7.89,
+          "text": "Sperta!"
+        },
+        {
+          "start": 7.89,
+          "end": 12.19,
+          "text": "Oggi devi ascoltare!"
+        },
+        {
+          "start": 12.19,
+          "end": 14.19,
+          "text": "Buon tesino!"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6828.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 24.8
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 24.8
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 24.8,
+          "scene_duration": 24.8,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6828/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 5.1,
+          "end": 8.38,
+          "text": "Sperta, stai lì, stai lì, a vicino."
+        },
+        {
+          "start": 8.38,
+          "end": 16.31,
+          "text": "No, vai."
+        }
+      ]
+    },
+    {
+      "name": "IMG_6829.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 22.17
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 22.17
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 22.17,
+          "scene_duration": 22.17,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6829/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 6.9,
+          "end": 7.9,
+          "text": "Alla prossima!"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6830.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 9.87
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 9.87
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 9.87,
+          "scene_duration": 9.87,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6830/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 0.53,
+          "end": 5.29,
+          "text": "Stiamo con te a piccante, tu hai trovato?"
+        },
+        {
+          "start": 7.29,
+          "end": 9.29,
+          "text": "Con lo piccante non ancora"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6831.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 17.61
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 3.2
+        },
+        {
+          "start": 3.2,
+          "end": 4.5
+        },
+        {
+          "start": 4.5,
+          "end": 6.04
+        },
+        {
+          "start": 6.04,
+          "end": 17.61
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 3.2,
+          "scene_duration": 3.2,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6831/frame_0000.jpg"
+        },
+        {
+          "index": 1,
+          "scene_start": 3.2,
+          "scene_end": 4.5,
+          "scene_duration": 1.3,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6831/frame_0001.jpg"
+        },
+        {
+          "index": 2,
+          "scene_start": 4.5,
+          "scene_end": 6.04,
+          "scene_duration": 1.53,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6831/frame_0002.jpg"
+        },
+        {
+          "index": 3,
+          "scene_start": 6.04,
+          "scene_end": 17.61,
+          "scene_duration": 11.57,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6831/frame_0003.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6832.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 1.3
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 1.3
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 1.3,
+          "scene_duration": 1.3,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6832/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6833.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 25.57
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 25.57
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 25.57,
+          "scene_duration": 25.57,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6833/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 4.24,
+          "end": 5.24,
+          "text": "Aspetta!"
+        },
+        {
+          "start": 6.24,
+          "end": 7.24,
+          "text": "Avvicino qua!"
+        },
+        {
+          "start": 13.65,
+          "end": 14.65,
+          "text": "Bye!"
+        },
+        {
+          "start": 14.65,
+          "end": 15.65,
+          "text": "Bye!"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6834.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 14.23
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 14.23
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 14.23,
+          "scene_duration": 14.23,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6834/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "text": "Right."
+        },
+        {
+          "start": 2.0,
+          "end": 7.64,
+          "text": "Right."
+        }
+      ]
+    },
+    {
+      "name": "IMG_6835.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 26.43
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 26.43
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 26.43,
+          "scene_duration": 26.43,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6835/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 1.07,
+          "end": 3.07,
+          "text": "ok vai"
+        },
+        {
+          "start": 3.07,
+          "end": 4.07,
+          "text": "bento"
+        },
+        {
+          "start": 4.07,
+          "end": 5.07,
+          "text": "vado a mangiare"
+        },
+        {
+          "start": 5.07,
+          "end": 6.07,
+          "text": "mangio"
+        },
+        {
+          "start": 7.07,
+          "end": 8.07,
+          "text": "bento"
+        },
+        {
+          "start": 8.07,
+          "end": 10.07,
+          "text": "va bene qui lo veniamo solo qui"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6836.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 8.33
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 8.33
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 8.33,
+          "scene_duration": 8.33,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6836/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6837.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "duration": 30.0
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 30.0
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 30.0,
+          "scene_duration": 30.0,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6837/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6838.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 16.27
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 16.27
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 16.27,
+          "scene_duration": 16.27,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6838/frame_0000.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "Sottotitoli e revisione a cura di QTSS"
+        }
+      ]
+    },
+    {
+      "name": "IMG_6839.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 7.8
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 7.8
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 7.8,
+          "scene_duration": 7.8,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6839/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6840.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 4.3
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 4.3
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 4.3,
+          "scene_duration": 4.3,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6840/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6844.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 15.18
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 15.18
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 15.18,
+          "scene_duration": 15.18,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6844/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "name": "IMG_6848.MOV",
+      "path": "/opt/reel-agent/media/raw/IMG_6848.MOV",
+      "info": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "duration": 5.07
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 5.07
+        }
+      ],
+      "keyframes": [
+        {
+          "index": 0,
+          "scene_start": 0.0,
+          "scene_end": 5.07,
+          "scene_duration": 5.07,
+          "frame_path": "/opt/reel-agent/media/frames/raw_job_63/IMG_6848/frame_0000.jpg"
+        }
+      ],
+      "transcript": []
+    }
+  ],
+  "total": 26
+}

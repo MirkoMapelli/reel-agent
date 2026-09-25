@@ -1,0 +1,1661 @@
+{
+  "video_id": "7531329595161808151",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7531329595161808151",
+    "ref_id": "ref_76_7531329595161808151",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7531329595161808151",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 16,
+  "total_dur": 54.83,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "role": "food_closeup",
+      "subject": "hamburger con anelli cipolla",
+      "description": "Un hamburger con anelli di cipolla e salsa BBQ è tenuto in mano, con testo in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Un panino davvero clamo,"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 5.233,
+      "dur": 3.2,
+      "center": 3.633,
+      "role": "person_eating",
+      "subject": "ragazzo che addenta hamburger",
+      "description": "Un ragazzo sta addentando un hamburger, con un piatto di patatine fritte in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "rosso. Oggi ragazzi siamo da America per provare il loro nuovo BBQ Crunch"
+    },
+    {
+      "idx": 2,
+      "start": 5.233,
+      "end": 11.733,
+      "dur": 6.5,
+      "center": 8.483,
+      "role": "food_plated",
+      "subject": "nachos con salse",
+      "description": "Un piatto di nachos con guacamole, fagioli e panna acida è visibile su un tavolo con un menu.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Smash, ovvero la loro Limited Edition di luglio. Ma prima di arrivare a lui partiamo dagli appetizer, con Deben Agios, con Wakamole,"
+    },
+    {
+      "idx": 3,
+      "start": 11.733,
+      "end": 15.167,
+      "dur": 3.433,
+      "center": 13.45,
+      "role": "food_closeup",
+      "subject": "nachos con guacamole",
+      "description": "Un primo piano di nachos con abbondante guacamole, panna acida e fagioli rossi.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Panacido, Pico De Gaio e ovviamente una bella colata di cedda. E ragazzi con"
+    },
+    {
+      "idx": 4,
+      "start": 15.167,
+      "end": 16.8,
+      "dur": 1.633,
+      "center": 15.983,
+      "role": "person_eating",
+      "subject": "mano che tiene nacho",
+      "description": "Una mano tiene un singolo nacho con formaggio e panna acida, mentre il viso del ragazzo è sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "i Nagios si va sempre sul sicuro."
+    },
+    {
+      "idx": 5,
+      "start": 16.8,
+      "end": 19.3,
+      "dur": 2.5,
+      "center": 18.05,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nachos",
+      "description": "Un ragazzo sta mangiando dei nachos con una forchetta, con un piatto di mozzarella sticks e una salsa in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "E poi degli ottimi mozzarella stick accompagnati da questa"
+    },
+    {
+      "idx": 6,
+      "start": 19.3,
+      "end": 22.233,
+      "dur": 2.933,
+      "center": 20.767,
+      "role": "food_detail",
+      "subject": "mozzarella stick in mano",
+      "description": "Una mano tiene in alto un mozzarella stick, con altri mozzarella sticks in una ciotola di carta in basso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "salsa rosa piuttosto piccante, ma molto molto"
+    },
+    {
+      "idx": 7,
+      "start": 22.233,
+      "end": 27.367,
+      "dur": 5.133,
+      "center": 24.8,
+      "role": "hands_gesture",
+      "subject": "mano con mozzarella stick",
+      "description": "Una mano tiene un mozzarella stick, con un piatto vuoto e una salsa in primo piano e un piatto di nachos sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "buona. Così come mozzarella stick comunque mi hanno soddisfatto. E poi ragazzi finalmente arriviamo a lui al BBQ Crunch"
+    },
+    {
+      "idx": 8,
+      "start": 27.367,
+      "end": 29.967,
+      "dur": 2.6,
+      "center": 28.667,
+      "role": "person_eating",
+      "subject": "ragazzo mangia mozzarella stick",
+      "description": "Un ragazzo sta mangiando un mozzarella stick, con un piatto di mozzarella sticks e una salsa in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Smash. Appunto un panino in Limited Edition dopo il grande"
+    },
+    {
+      "idx": 9,
+      "start": 29.967,
+      "end": 34.467,
+      "dur": 4.5,
+      "center": 32.217,
+      "role": "food_plated",
+      "subject": "hamburger con anelli cipolla",
+      "description": "Un hamburger con anelli di cipolla fritti, lattuga e salsa è servito su un piatto grigio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "successo dell 'Oklahoma che prevede 200 grammi di manzo diviso in due smash burger con formaggio"
+    },
+    {
+      "idx": 10,
+      "start": 34.467,
+      "end": 42.567,
+      "dur": 8.1,
+      "center": 38.517,
+      "role": "food_plated",
+      "subject": "hamburger patatine fritte",
+      "description": "Un ragazzo tiene in mano un piatto con un hamburger e un secchiello di patatine fritte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Monteray Jack, cipolla caramellata, bacon, onion rings, lattuga ed ovviamente salsa BBQ. Il tutto chiaramente accompagnate dalle sojite fries. Devo dire davvero"
+    },
+    {
+      "idx": 11,
+      "start": 42.567,
+      "end": 45.6,
+      "dur": 3.033,
+      "center": 44.083,
+      "role": "food_detail",
+      "subject": "hamburger anelli cipolla",
+      "description": "Dettaglio di un hamburger con anelli di cipolla e salsa, tenuto da mani.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "un gran panino soprattutto per il contrasto tra fumicato e dolce"
+    },
+    {
+      "idx": 12,
+      "start": 45.6,
+      "end": 49.067,
+      "dur": 3.467,
+      "center": 47.333,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Un ragazzo sta addentando un hamburger con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "dato dal forte sapore della carne smashata dal bacon, del formaggio"
+    },
+    {
+      "idx": 13,
+      "start": 49.067,
+      "end": 50.2,
+      "dur": 1.133,
+      "center": 49.633,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Il ragazzo continua a mangiare l'hamburger, con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e dal dolce della"
+    },
+    {
+      "idx": 14,
+      "start": 50.2,
+      "end": 54.7,
+      "dur": 4.5,
+      "center": 52.45,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Il ragazzo ha la bocca piena e del formaggio che cola dall'hamburger.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cipolla caramellata e della salsa BBQ. Insomma ragazzi affrettatevi da andare da America a saprovarlo."
+    },
+    {
+      "idx": 15,
+      "start": 54.7,
+      "end": 54.833,
+      "dur": 0.133,
+      "center": 54.767,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "L'immagine è completamente nera, non si distingue alcun dettaglio.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "hamburger con anelli cipolla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un hamburger con anelli di cipolla e salsa BBQ è tenuto in mano, con testo in sovrimpressione.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che addenta hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta addentando un hamburger, con un piatto di patatine fritte in primo piano.",
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 5.233,
+      "dur": 3.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "nachos con salse",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di nachos con guacamole, fagioli e panna acida è visibile su un tavolo con un menu.",
+      "shot_idx": 2,
+      "start": 5.233,
+      "end": 11.733,
+      "dur": 6.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "nachos con guacamole",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano di nachos con abbondante guacamole, panna acida e fagioli rossi.",
+      "shot_idx": 3,
+      "start": 11.733,
+      "end": 15.167,
+      "dur": 3.433
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "mano che tiene nacho",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene un singolo nacho con formaggio e panna acida, mentre il viso del ragazzo è sfocato sullo sfondo.",
+      "shot_idx": 4,
+      "start": 15.167,
+      "end": 16.8,
+      "dur": 1.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando dei nachos con una forchetta, con un piatto di mozzarella sticks e una salsa in primo piano.",
+      "shot_idx": 5,
+      "start": 16.8,
+      "end": 19.3,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "mozzarella stick in mano",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene in alto un mozzarella stick, con altri mozzarella sticks in una ciotola di carta in basso.",
+      "shot_idx": 6,
+      "start": 19.3,
+      "end": 22.233,
+      "dur": 2.933
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano con mozzarella stick",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene un mozzarella stick, con un piatto vuoto e una salsa in primo piano e un piatto di nachos sullo sfondo.",
+      "shot_idx": 7,
+      "start": 22.233,
+      "end": 27.367,
+      "dur": 5.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia mozzarella stick",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando un mozzarella stick, con un piatto di mozzarella sticks e una salsa in primo piano.",
+      "shot_idx": 8,
+      "start": 27.367,
+      "end": 29.967,
+      "dur": 2.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "hamburger con anelli cipolla",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un hamburger con anelli di cipolla fritti, lattuga e salsa è servito su un piatto grigio.",
+      "shot_idx": 9,
+      "start": 29.967,
+      "end": 34.467,
+      "dur": 4.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "hamburger patatine fritte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene in mano un piatto con un hamburger e un secchiello di patatine fritte.",
+      "shot_idx": 10,
+      "start": 34.467,
+      "end": 42.567,
+      "dur": 8.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "hamburger anelli cipolla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Dettaglio di un hamburger con anelli di cipolla e salsa, tenuto da mani.",
+      "shot_idx": 11,
+      "start": 42.567,
+      "end": 45.6,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta addentando un hamburger con espressione concentrata.",
+      "shot_idx": 12,
+      "start": 45.6,
+      "end": 49.067,
+      "dur": 3.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo continua a mangiare l'hamburger, con un'espressione divertita.",
+      "shot_idx": 13,
+      "start": 49.067,
+      "end": 50.2,
+      "dur": 1.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ha la bocca piena e del formaggio che cola dall'hamburger.",
+      "shot_idx": 14,
+      "start": 50.2,
+      "end": 54.7,
+      "dur": 4.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'immagine è completamente nera, non si distingue alcun dettaglio.",
+      "shot_idx": 15,
+      "start": 54.7,
+      "end": 54.833,
+      "dur": 0.133
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Un panino davvero clamo, rosso."
+    },
+    {
+      "start": 2.52,
+      "end": 3.56,
+      "text": "Oggi ragazzi siamo da America"
+    },
+    {
+      "start": 3.56,
+      "end": 5.86,
+      "text": "per provare il loro nuovo BBQ Crunch Smash,"
+    },
+    {
+      "start": 6.0,
+      "end": 7.78,
+      "text": "ovvero la loro Limited Edition di luglio."
+    },
+    {
+      "start": 7.86,
+      "end": 9.92,
+      "text": "Ma prima di arrivare a lui partiamo dagli appetizer,"
+    },
+    {
+      "start": 10.12,
+      "end": 12.92,
+      "text": "con Deben Agios, con Wakamole, Panacido, Pico De Gaio"
+    },
+    {
+      "start": 12.92,
+      "end": 14.54,
+      "text": "e ovviamente una bella colata di cedda."
+    },
+    {
+      "start": 14.66,
+      "end": 16.84,
+      "text": "E ragazzi con i Nagios si va sempre sul sicuro."
+    },
+    {
+      "start": 16.96,
+      "end": 20.18,
+      "text": "E poi degli ottimi mozzarella stick accompagnati da questa salsa rosa"
+    },
+    {
+      "start": 20.18,
+      "end": 22.56,
+      "text": "piuttosto piccante, ma molto molto buona."
+    },
+    {
+      "start": 22.6,
+      "end": 24.78,
+      "text": "Così come mozzarella stick comunque mi hanno soddisfatto."
+    },
+    {
+      "start": 24.9,
+      "end": 27.82,
+      "text": "E poi ragazzi finalmente arriviamo a lui al BBQ Crunch Smash."
+    },
+    {
+      "start": 27.82,
+      "end": 30.98,
+      "text": "Appunto un panino in Limited Edition dopo il grande successo dell'Oklahoma"
+    },
+    {
+      "start": 30.98,
+      "end": 33.98,
+      "text": "che prevede 200 grammi di manzo diviso in due smash burger"
+    },
+    {
+      "start": 33.98,
+      "end": 37.76,
+      "text": "con formaggio Monteray Jack, cipolla caramellata, bacon, onion rings,"
+    },
+    {
+      "start": 37.86,
+      "end": 39.44,
+      "text": "lattuga ed ovviamente salsa BBQ."
+    },
+    {
+      "start": 39.76,
+      "end": 41.86,
+      "text": "Il tutto chiaramente accompagnate dalle sojite fries."
+    },
+    {
+      "start": 42.12,
+      "end": 45.54,
+      "text": "Devo dire davvero un gran panino soprattutto per il contrasto tra fumicato e dolce"
+    },
+    {
+      "start": 45.54,
+      "end": 48.22,
+      "text": "dato dal forte sapore della carne smashata dal bacon,"
+    },
+    {
+      "start": 48.44,
+      "end": 51.74,
+      "text": "del formaggio e dal dolce della cipolla caramellata e della salsa BBQ."
+    },
+    {
+      "start": 51.94,
+      "end": 54.5,
+      "text": "Insomma ragazzi affrettatevi da andare da America a saprovarlo."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "Un"
+    },
+    {
+      "start": 0.22,
+      "end": 0.64,
+      "word": "panino"
+    },
+    {
+      "start": 0.64,
+      "end": 1.1,
+      "word": "davvero"
+    },
+    {
+      "start": 1.1,
+      "end": 1.62,
+      "word": "clamo,"
+    },
+    {
+      "start": 1.92,
+      "end": 2.46,
+      "word": "rosso."
+    },
+    {
+      "start": 2.52,
+      "end": 2.64,
+      "word": "Oggi"
+    },
+    {
+      "start": 2.64,
+      "end": 2.96,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.96,
+      "end": 3.16,
+      "word": "siamo"
+    },
+    {
+      "start": 3.16,
+      "end": 3.3,
+      "word": "da"
+    },
+    {
+      "start": 3.3,
+      "end": 3.56,
+      "word": "America"
+    },
+    {
+      "start": 3.56,
+      "end": 3.84,
+      "word": "per"
+    },
+    {
+      "start": 3.84,
+      "end": 4.22,
+      "word": "provare"
+    },
+    {
+      "start": 4.22,
+      "end": 4.34,
+      "word": "il"
+    },
+    {
+      "start": 4.34,
+      "end": 4.42,
+      "word": "loro"
+    },
+    {
+      "start": 4.42,
+      "end": 4.7,
+      "word": "nuovo"
+    },
+    {
+      "start": 4.7,
+      "end": 4.98,
+      "word": "BBQ"
+    },
+    {
+      "start": 4.98,
+      "end": 5.44,
+      "word": "Crunch"
+    },
+    {
+      "start": 5.44,
+      "end": 5.86,
+      "word": "Smash,"
+    },
+    {
+      "start": 6.0,
+      "end": 6.18,
+      "word": "ovvero"
+    },
+    {
+      "start": 6.18,
+      "end": 6.34,
+      "word": "la"
+    },
+    {
+      "start": 6.34,
+      "end": 6.52,
+      "word": "loro"
+    },
+    {
+      "start": 6.52,
+      "end": 6.84,
+      "word": "Limited"
+    },
+    {
+      "start": 6.84,
+      "end": 7.24,
+      "word": "Edition"
+    },
+    {
+      "start": 7.24,
+      "end": 7.42,
+      "word": "di"
+    },
+    {
+      "start": 7.42,
+      "end": 7.78,
+      "word": "luglio."
+    },
+    {
+      "start": 7.86,
+      "end": 7.94,
+      "word": "Ma"
+    },
+    {
+      "start": 7.94,
+      "end": 8.08,
+      "word": "prima"
+    },
+    {
+      "start": 8.08,
+      "end": 8.24,
+      "word": "di"
+    },
+    {
+      "start": 8.24,
+      "end": 8.46,
+      "word": "arrivare"
+    },
+    {
+      "start": 8.46,
+      "end": 8.58,
+      "word": "a"
+    },
+    {
+      "start": 8.58,
+      "end": 8.72,
+      "word": "lui"
+    },
+    {
+      "start": 8.72,
+      "end": 9.08,
+      "word": "partiamo"
+    },
+    {
+      "start": 9.08,
+      "end": 9.36,
+      "word": "dagli"
+    },
+    {
+      "start": 9.36,
+      "end": 9.92,
+      "word": "appetizer,"
+    },
+    {
+      "start": 10.12,
+      "end": 10.26,
+      "word": "con"
+    },
+    {
+      "start": 10.26,
+      "end": 10.52,
+      "word": "Deben"
+    },
+    {
+      "start": 10.52,
+      "end": 10.86,
+      "word": "Agios,"
+    },
+    {
+      "start": 10.98,
+      "end": 11.0,
+      "word": "con"
+    },
+    {
+      "start": 11.0,
+      "end": 11.52,
+      "word": "Wakamole,"
+    },
+    {
+      "start": 11.52,
+      "end": 12.08,
+      "word": "Panacido,"
+    },
+    {
+      "start": 12.18,
+      "end": 12.36,
+      "word": "Pico"
+    },
+    {
+      "start": 12.36,
+      "end": 12.52,
+      "word": "De"
+    },
+    {
+      "start": 12.52,
+      "end": 12.92,
+      "word": "Gaio"
+    },
+    {
+      "start": 12.92,
+      "end": 13.02,
+      "word": "e"
+    },
+    {
+      "start": 13.02,
+      "end": 13.34,
+      "word": "ovviamente"
+    },
+    {
+      "start": 13.34,
+      "end": 13.56,
+      "word": "una"
+    },
+    {
+      "start": 13.56,
+      "end": 13.78,
+      "word": "bella"
+    },
+    {
+      "start": 13.78,
+      "end": 14.04,
+      "word": "colata"
+    },
+    {
+      "start": 14.04,
+      "end": 14.2,
+      "word": "di"
+    },
+    {
+      "start": 14.2,
+      "end": 14.54,
+      "word": "cedda."
+    },
+    {
+      "start": 14.66,
+      "end": 14.74,
+      "word": "E"
+    },
+    {
+      "start": 14.74,
+      "end": 15.06,
+      "word": "ragazzi"
+    },
+    {
+      "start": 15.06,
+      "end": 15.22,
+      "word": "con"
+    },
+    {
+      "start": 15.22,
+      "end": 15.3,
+      "word": "i"
+    },
+    {
+      "start": 15.3,
+      "end": 15.56,
+      "word": "Nagios"
+    },
+    {
+      "start": 15.56,
+      "end": 15.74,
+      "word": "si"
+    },
+    {
+      "start": 15.74,
+      "end": 15.84,
+      "word": "va"
+    },
+    {
+      "start": 15.84,
+      "end": 16.18,
+      "word": "sempre"
+    },
+    {
+      "start": 16.18,
+      "end": 16.38,
+      "word": "sul"
+    },
+    {
+      "start": 16.38,
+      "end": 16.84,
+      "word": "sicuro."
+    },
+    {
+      "start": 16.96,
+      "end": 16.98,
+      "word": "E"
+    },
+    {
+      "start": 16.98,
+      "end": 17.1,
+      "word": "poi"
+    },
+    {
+      "start": 17.1,
+      "end": 17.28,
+      "word": "degli"
+    },
+    {
+      "start": 17.28,
+      "end": 17.74,
+      "word": "ottimi"
+    },
+    {
+      "start": 17.74,
+      "end": 18.06,
+      "word": "mozzarella"
+    },
+    {
+      "start": 18.06,
+      "end": 18.48,
+      "word": "stick"
+    },
+    {
+      "start": 18.48,
+      "end": 19.02,
+      "word": "accompagnati"
+    },
+    {
+      "start": 19.02,
+      "end": 19.16,
+      "word": "da"
+    },
+    {
+      "start": 19.16,
+      "end": 19.42,
+      "word": "questa"
+    },
+    {
+      "start": 19.42,
+      "end": 19.72,
+      "word": "salsa"
+    },
+    {
+      "start": 19.72,
+      "end": 20.18,
+      "word": "rosa"
+    },
+    {
+      "start": 20.18,
+      "end": 20.6,
+      "word": "piuttosto"
+    },
+    {
+      "start": 20.6,
+      "end": 21.24,
+      "word": "piccante,"
+    },
+    {
+      "start": 21.42,
+      "end": 21.6,
+      "word": "ma"
+    },
+    {
+      "start": 21.6,
+      "end": 21.92,
+      "word": "molto"
+    },
+    {
+      "start": 21.92,
+      "end": 22.2,
+      "word": "molto"
+    },
+    {
+      "start": 22.2,
+      "end": 22.56,
+      "word": "buona."
+    },
+    {
+      "start": 22.6,
+      "end": 22.74,
+      "word": "Così"
+    },
+    {
+      "start": 22.74,
+      "end": 22.88,
+      "word": "come"
+    },
+    {
+      "start": 22.88,
+      "end": 23.16,
+      "word": "mozzarella"
+    },
+    {
+      "start": 23.16,
+      "end": 23.62,
+      "word": "stick"
+    },
+    {
+      "start": 23.62,
+      "end": 23.9,
+      "word": "comunque"
+    },
+    {
+      "start": 23.9,
+      "end": 24.16,
+      "word": "mi"
+    },
+    {
+      "start": 24.16,
+      "end": 24.24,
+      "word": "hanno"
+    },
+    {
+      "start": 24.24,
+      "end": 24.78,
+      "word": "soddisfatto."
+    },
+    {
+      "start": 24.9,
+      "end": 24.96,
+      "word": "E"
+    },
+    {
+      "start": 24.96,
+      "end": 25.06,
+      "word": "poi"
+    },
+    {
+      "start": 25.06,
+      "end": 25.34,
+      "word": "ragazzi"
+    },
+    {
+      "start": 25.34,
+      "end": 25.54,
+      "word": "finalmente"
+    },
+    {
+      "start": 25.54,
+      "end": 26.06,
+      "word": "arriviamo"
+    },
+    {
+      "start": 26.06,
+      "end": 26.18,
+      "word": "a"
+    },
+    {
+      "start": 26.18,
+      "end": 26.28,
+      "word": "lui"
+    },
+    {
+      "start": 26.28,
+      "end": 26.42,
+      "word": "al"
+    },
+    {
+      "start": 26.42,
+      "end": 26.72,
+      "word": "BBQ"
+    },
+    {
+      "start": 26.72,
+      "end": 27.3,
+      "word": "Crunch"
+    },
+    {
+      "start": 27.3,
+      "end": 27.82,
+      "word": "Smash."
+    },
+    {
+      "start": 27.82,
+      "end": 28.18,
+      "word": "Appunto"
+    },
+    {
+      "start": 28.18,
+      "end": 28.32,
+      "word": "un"
+    },
+    {
+      "start": 28.32,
+      "end": 28.64,
+      "word": "panino"
+    },
+    {
+      "start": 28.64,
+      "end": 28.72,
+      "word": "in"
+    },
+    {
+      "start": 28.72,
+      "end": 28.98,
+      "word": "Limited"
+    },
+    {
+      "start": 28.98,
+      "end": 29.34,
+      "word": "Edition"
+    },
+    {
+      "start": 29.34,
+      "end": 29.56,
+      "word": "dopo"
+    },
+    {
+      "start": 29.56,
+      "end": 29.68,
+      "word": "il"
+    },
+    {
+      "start": 29.68,
+      "end": 29.86,
+      "word": "grande"
+    },
+    {
+      "start": 29.86,
+      "end": 30.36,
+      "word": "successo"
+    },
+    {
+      "start": 30.36,
+      "end": 30.46,
+      "word": "dell"
+    },
+    {
+      "start": 30.46,
+      "end": 30.98,
+      "word": "'Oklahoma"
+    },
+    {
+      "start": 30.98,
+      "end": 31.1,
+      "word": "che"
+    },
+    {
+      "start": 31.1,
+      "end": 31.44,
+      "word": "prevede"
+    },
+    {
+      "start": 31.44,
+      "end": 31.66,
+      "word": "200"
+    },
+    {
+      "start": 31.66,
+      "end": 32.16,
+      "word": "grammi"
+    },
+    {
+      "start": 32.16,
+      "end": 32.26,
+      "word": "di"
+    },
+    {
+      "start": 32.26,
+      "end": 32.7,
+      "word": "manzo"
+    },
+    {
+      "start": 32.7,
+      "end": 33.04,
+      "word": "diviso"
+    },
+    {
+      "start": 33.04,
+      "end": 33.12,
+      "word": "in"
+    },
+    {
+      "start": 33.12,
+      "end": 33.32,
+      "word": "due"
+    },
+    {
+      "start": 33.32,
+      "end": 33.52,
+      "word": "smash"
+    },
+    {
+      "start": 33.52,
+      "end": 33.98,
+      "word": "burger"
+    },
+    {
+      "start": 33.98,
+      "end": 34.16,
+      "word": "con"
+    },
+    {
+      "start": 34.16,
+      "end": 34.58,
+      "word": "formaggio"
+    },
+    {
+      "start": 34.58,
+      "end": 35.08,
+      "word": "Monteray"
+    },
+    {
+      "start": 35.08,
+      "end": 35.38,
+      "word": "Jack,"
+    },
+    {
+      "start": 35.58,
+      "end": 35.88,
+      "word": "cipolla"
+    },
+    {
+      "start": 35.88,
+      "end": 36.48,
+      "word": "caramellata,"
+    },
+    {
+      "start": 36.6,
+      "end": 36.86,
+      "word": "bacon,"
+    },
+    {
+      "start": 37.14,
+      "end": 37.32,
+      "word": "onion"
+    },
+    {
+      "start": 37.32,
+      "end": 37.76,
+      "word": "rings,"
+    },
+    {
+      "start": 37.86,
+      "end": 38.22,
+      "word": "lattuga"
+    },
+    {
+      "start": 38.22,
+      "end": 38.42,
+      "word": "ed"
+    },
+    {
+      "start": 38.42,
+      "end": 38.82,
+      "word": "ovviamente"
+    },
+    {
+      "start": 38.82,
+      "end": 39.12,
+      "word": "salsa"
+    },
+    {
+      "start": 39.12,
+      "end": 39.44,
+      "word": "BBQ."
+    },
+    {
+      "start": 39.76,
+      "end": 39.9,
+      "word": "Il"
+    },
+    {
+      "start": 39.9,
+      "end": 40.06,
+      "word": "tutto"
+    },
+    {
+      "start": 40.06,
+      "end": 40.5,
+      "word": "chiaramente"
+    },
+    {
+      "start": 40.5,
+      "end": 41.06,
+      "word": "accompagnate"
+    },
+    {
+      "start": 41.06,
+      "end": 41.3,
+      "word": "dalle"
+    },
+    {
+      "start": 41.3,
+      "end": 41.58,
+      "word": "sojite"
+    },
+    {
+      "start": 41.58,
+      "end": 41.86,
+      "word": "fries."
+    },
+    {
+      "start": 42.12,
+      "end": 42.26,
+      "word": "Devo"
+    },
+    {
+      "start": 42.26,
+      "end": 42.38,
+      "word": "dire"
+    },
+    {
+      "start": 42.38,
+      "end": 42.72,
+      "word": "davvero"
+    },
+    {
+      "start": 42.72,
+      "end": 42.8,
+      "word": "un"
+    },
+    {
+      "start": 42.8,
+      "end": 42.9,
+      "word": "gran"
+    },
+    {
+      "start": 42.9,
+      "end": 43.26,
+      "word": "panino"
+    },
+    {
+      "start": 43.26,
+      "end": 43.46,
+      "word": "soprattutto"
+    },
+    {
+      "start": 43.46,
+      "end": 43.78,
+      "word": "per"
+    },
+    {
+      "start": 43.78,
+      "end": 43.88,
+      "word": "il"
+    },
+    {
+      "start": 43.88,
+      "end": 44.36,
+      "word": "contrasto"
+    },
+    {
+      "start": 44.36,
+      "end": 44.48,
+      "word": "tra"
+    },
+    {
+      "start": 44.48,
+      "end": 45.04,
+      "word": "fumicato"
+    },
+    {
+      "start": 45.04,
+      "end": 45.24,
+      "word": "e"
+    },
+    {
+      "start": 45.24,
+      "end": 45.54,
+      "word": "dolce"
+    },
+    {
+      "start": 45.54,
+      "end": 45.7,
+      "word": "dato"
+    },
+    {
+      "start": 45.7,
+      "end": 45.98,
+      "word": "dal"
+    },
+    {
+      "start": 45.98,
+      "end": 46.18,
+      "word": "forte"
+    },
+    {
+      "start": 46.18,
+      "end": 46.52,
+      "word": "sapore"
+    },
+    {
+      "start": 46.52,
+      "end": 46.72,
+      "word": "della"
+    },
+    {
+      "start": 46.72,
+      "end": 47.02,
+      "word": "carne"
+    },
+    {
+      "start": 47.02,
+      "end": 47.72,
+      "word": "smashata"
+    },
+    {
+      "start": 47.72,
+      "end": 47.86,
+      "word": "dal"
+    },
+    {
+      "start": 47.86,
+      "end": 48.22,
+      "word": "bacon,"
+    },
+    {
+      "start": 48.44,
+      "end": 48.58,
+      "word": "del"
+    },
+    {
+      "start": 48.58,
+      "end": 49.14,
+      "word": "formaggio"
+    },
+    {
+      "start": 49.14,
+      "end": 49.34,
+      "word": "e"
+    },
+    {
+      "start": 49.34,
+      "end": 49.52,
+      "word": "dal"
+    },
+    {
+      "start": 49.52,
+      "end": 49.92,
+      "word": "dolce"
+    },
+    {
+      "start": 49.92,
+      "end": 50.08,
+      "word": "della"
+    },
+    {
+      "start": 50.08,
+      "end": 50.4,
+      "word": "cipolla"
+    },
+    {
+      "start": 50.4,
+      "end": 51.0,
+      "word": "caramellata"
+    },
+    {
+      "start": 51.0,
+      "end": 51.08,
+      "word": "e"
+    },
+    {
+      "start": 51.08,
+      "end": 51.2,
+      "word": "della"
+    },
+    {
+      "start": 51.2,
+      "end": 51.38,
+      "word": "salsa"
+    },
+    {
+      "start": 51.38,
+      "end": 51.74,
+      "word": "BBQ."
+    },
+    {
+      "start": 51.94,
+      "end": 52.18,
+      "word": "Insomma"
+    },
+    {
+      "start": 52.18,
+      "end": 52.52,
+      "word": "ragazzi"
+    },
+    {
+      "start": 52.52,
+      "end": 53.04,
+      "word": "affrettatevi"
+    },
+    {
+      "start": 53.04,
+      "end": 53.16,
+      "word": "da"
+    },
+    {
+      "start": 53.16,
+      "end": 53.32,
+      "word": "andare"
+    },
+    {
+      "start": 53.32,
+      "end": 53.48,
+      "word": "da"
+    },
+    {
+      "start": 53.48,
+      "end": 53.72,
+      "word": "America"
+    },
+    {
+      "start": 53.72,
+      "end": 53.94,
+      "word": "a"
+    },
+    {
+      "start": 53.94,
+      "end": 54.5,
+      "word": "saprovarlo."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "Un panino davvero clamo,"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 5.233,
+      "dur": 3.2,
+      "transcript": "rosso. Oggi ragazzi siamo da America per provare il loro nuovo BBQ Crunch"
+    },
+    {
+      "shot_idx": 2,
+      "start": 5.233,
+      "end": 11.733,
+      "dur": 6.5,
+      "transcript": "Smash, ovvero la loro Limited Edition di luglio. Ma prima di arrivare a lui partiamo dagli appetizer, con Deben Agios, con Wakamole,"
+    },
+    {
+      "shot_idx": 3,
+      "start": 11.733,
+      "end": 15.167,
+      "dur": 3.433,
+      "transcript": "Panacido, Pico De Gaio e ovviamente una bella colata di cedda. E ragazzi con"
+    },
+    {
+      "shot_idx": 4,
+      "start": 15.167,
+      "end": 16.8,
+      "dur": 1.633,
+      "transcript": "i Nagios si va sempre sul sicuro."
+    },
+    {
+      "shot_idx": 5,
+      "start": 16.8,
+      "end": 19.3,
+      "dur": 2.5,
+      "transcript": "E poi degli ottimi mozzarella stick accompagnati da questa"
+    },
+    {
+      "shot_idx": 6,
+      "start": 19.3,
+      "end": 22.233,
+      "dur": 2.933,
+      "transcript": "salsa rosa piuttosto piccante, ma molto molto"
+    },
+    {
+      "shot_idx": 7,
+      "start": 22.233,
+      "end": 27.367,
+      "dur": 5.133,
+      "transcript": "buona. Così come mozzarella stick comunque mi hanno soddisfatto. E poi ragazzi finalmente arriviamo a lui al BBQ Crunch"
+    },
+    {
+      "shot_idx": 8,
+      "start": 27.367,
+      "end": 29.967,
+      "dur": 2.6,
+      "transcript": "Smash. Appunto un panino in Limited Edition dopo il grande"
+    },
+    {
+      "shot_idx": 9,
+      "start": 29.967,
+      "end": 34.467,
+      "dur": 4.5,
+      "transcript": "successo dell 'Oklahoma che prevede 200 grammi di manzo diviso in due smash burger con formaggio"
+    },
+    {
+      "shot_idx": 10,
+      "start": 34.467,
+      "end": 42.567,
+      "dur": 8.1,
+      "transcript": "Monteray Jack, cipolla caramellata, bacon, onion rings, lattuga ed ovviamente salsa BBQ. Il tutto chiaramente accompagnate dalle sojite fries. Devo dire davvero"
+    },
+    {
+      "shot_idx": 11,
+      "start": 42.567,
+      "end": 45.6,
+      "dur": 3.033,
+      "transcript": "un gran panino soprattutto per il contrasto tra fumicato e dolce"
+    },
+    {
+      "shot_idx": 12,
+      "start": 45.6,
+      "end": 49.067,
+      "dur": 3.467,
+      "transcript": "dato dal forte sapore della carne smashata dal bacon, del formaggio"
+    },
+    {
+      "shot_idx": 13,
+      "start": 49.067,
+      "end": 50.2,
+      "dur": 1.133,
+      "transcript": "e dal dolce della"
+    },
+    {
+      "shot_idx": 14,
+      "start": 50.2,
+      "end": 54.7,
+      "dur": 4.5,
+      "transcript": "cipolla caramellata e della salsa BBQ. Insomma ragazzi affrettatevi da andare da America a saprovarlo."
+    },
+    {
+      "shot_idx": 15,
+      "start": 54.7,
+      "end": 54.833,
+      "dur": 0.133,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Un panino davvero clamo, rosso. Oggi ragazzi siamo da America per provare il loro nuovo BBQ Crunch Smash, ovvero la loro Limited Edition di luglio. Ma prima di arrivare a lui partiamo dagli appetizer, con Deben Agios, con Wakamole, Panacido, Pico De Gaio e ovviamente una bella colata di cedda. E ragazzi con i Nagios si va sempre sul sicuro. E poi degli ottimi mozzarella stick accompagnati da questa salsa rosa piuttosto piccante, ma molto molto buona. Così come mozzarella stick comunque mi hanno soddisfatto. E poi ragazzi finalmente arriviamo a lui al BBQ Crunch Smash. Appunto un panino in Limited Edition dopo il grande successo dell'Oklahoma che prevede 200 grammi di manzo diviso in due smash burger con formaggio Monteray Jack, cipolla caramellata, bacon, onion rings, lattuga ed ovviamente salsa BBQ. Il tutto chiaramente accompagnate dalle sojite fries. Devo dire davvero un gran panino soprattutto per il contrasto tra fumicato e dolce dato dal forte sapore della carne smashata dal bacon, del formaggio e dal dolce della cipolla caramellata e della salsa BBQ. Insomma ragazzi affrettatevi da andare da America a saprovarlo.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

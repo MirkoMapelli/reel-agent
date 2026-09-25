@@ -1,0 +1,6040 @@
+{
+  "video_id": "7560719919130660118",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7560719919130660118",
+    "ref_id": "ref_56_7560719919130660118",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7560719919130660118",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 69,
+  "total_dur": 155.77,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5,
+      "center": 1.25,
+      "role": "food_plated",
+      "subject": "pizza e pasta",
+      "description": "Due piatti di cibo, una pizza e un piatto di pasta, tenuti da una persona.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giornon 11 del mio viaggio in Florida, alla scoperta della"
+    },
+    {
+      "idx": 1,
+      "start": 2.5,
+      "end": 4.2,
+      "dur": 1.7,
+      "center": 3.35,
+      "role": "person_eating",
+      "subject": "uomo con patatine e panino",
+      "description": "Un uomo tiene in mano un cartone di patatine fritte di McDonald's e un panino, con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "vera cucina americana, sì, quella è la"
+    },
+    {
+      "idx": 2,
+      "start": 4.2,
+      "end": 5.733,
+      "dur": 1.533,
+      "center": 4.967,
+      "role": "food_plated",
+      "subject": "pizza e pasta",
+      "description": "Un uomo tiene un piatto di pasta e una pizza grande è in primo piano sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "pizza, la pasta del McDonald. Ma"
+    },
+    {
+      "idx": 3,
+      "start": 5.733,
+      "end": 7.7,
+      "dur": 1.967,
+      "center": 6.717,
+      "role": "other",
+      "subject": "due ragazzi su giostra",
+      "description": "Due ragazzi sono seduti su una giostra, uno dei quali guarda direttamente la telecamera con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "partiamo con l 'ordine perché oggi è una giornata davvero"
+    },
+    {
+      "idx": 4,
+      "start": 7.7,
+      "end": 10.6,
+      "dur": 2.9,
+      "center": 9.15,
+      "role": "other",
+      "subject": "uomo che solleva pesi",
+      "description": "Un uomo esegue uno squat con un bilanciere in una palestra.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "davvero clamorosa. Ci troviamo a Dorland, questa mattina mi sono"
+    },
+    {
+      "idx": 5,
+      "start": 10.6,
+      "end": 12.567,
+      "dur": 1.967,
+      "center": 11.583,
+      "role": "other",
+      "subject": "uomo in palestra",
+      "description": "Un uomo si scatta un selfie allo specchio in palestra, mostrando i muscoli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "vedato molto presto per fare un bel allenamento in una"
+    },
+    {
+      "idx": 6,
+      "start": 12.567,
+      "end": 15.033,
+      "dur": 2.467,
+      "center": 13.8,
+      "role": "other",
+      "subject": "uomo in palestra",
+      "description": "L'uomo si guarda allo specchio in palestra, con attrezzature sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "palestra dell 'hotel che aveva tutto ciò di cui avevo bisogno. Piccolo flex"
+    },
+    {
+      "idx": 7,
+      "start": 15.033,
+      "end": 17.033,
+      "dur": 2.0,
+      "center": 16.033,
+      "role": "other",
+      "subject": "uomo a bordo piscina",
+      "description": "Un uomo si riprende a bordo piscina con un edificio moderno e palme sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "anche se hai rialtato le nato gambe e poi ci"
+    },
+    {
+      "idx": 8,
+      "start": 17.033,
+      "end": 21.067,
+      "dur": 4.033,
+      "center": 19.05,
+      "role": "food_plated",
+      "subject": "colazione abbondante",
+      "description": "Un piatto con uova strapazzate, bacon, salsicce e patate, più un panino.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "dirigiamo verso la colazione, che anche lei non è stata da meno. E dopo quindi aver fatto una bella"
+    },
+    {
+      "idx": 9,
+      "start": 21.067,
+      "end": 23.067,
+      "dur": 2.0,
+      "center": 22.067,
+      "role": "other",
+      "subject": "uomo di spalle",
+      "description": "Un uomo di spalle guarda un grande orologio ornamentale in un parco a tema.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ricarica post workout ci siamo riccati a The"
+    },
+    {
+      "idx": 10,
+      "start": 23.067,
+      "end": 24.9,
+      "dur": 1.833,
+      "center": 23.983,
+      "role": "venue_exterior",
+      "subject": "ingresso Epic Universe",
+      "description": "L'imponente ingresso del parco a tema con la scritta 'EPIC UNIVERSE' e persone che entrano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Pick Universe, che dovrebbe essere il miglior"
+    },
+    {
+      "idx": 11,
+      "start": 24.9,
+      "end": 28.4,
+      "dur": 3.5,
+      "center": 26.65,
+      "role": "venue_exterior",
+      "subject": "arco ingresso parco",
+      "description": "Un arco decorato con una citazione e una colonna che si innalza verso il cielo azzurro.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "parco divertimenti di tutto il mondo, adorando il pieno di parchi di Disney e"
+    },
+    {
+      "idx": 12,
+      "start": 28.4,
+      "end": 30.4,
+      "dur": 2.0,
+      "center": 29.4,
+      "role": "venue_interior_wide",
+      "subject": "arco di pietra",
+      "description": "Un grande arco di pietra che incornicia una strada affollata con edifici in stile europeo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Universal. Ma questo è il più nuovo e il più"
+    },
+    {
+      "idx": 13,
+      "start": 30.4,
+      "end": 32.433,
+      "dur": 2.033,
+      "center": 31.417,
+      "role": "venue_interior_wide",
+      "subject": "strada affollata",
+      "description": "Una strada di un parco a tema con edifici elaborati, bandiere e una folla di persone.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "costoso mai realizzato ed infatti avevo crosto"
+    },
+    {
+      "idx": 14,
+      "start": 32.433,
+      "end": 34.167,
+      "dur": 1.733,
+      "center": 33.3,
+      "role": "person_talking",
+      "subject": "ragazzo in coda",
+      "description": "Un ragazzo in primo piano che si fa un selfie mentre è in coda, con altre persone sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "aspettative. Una volta tratti nel parco abbiamo"
+    },
+    {
+      "idx": 15,
+      "start": 34.167,
+      "end": 35.1,
+      "dur": 0.933,
+      "center": 34.633,
+      "role": "venue_interior_detail",
+      "subject": "schermo con Umbridge",
+      "description": "Lo schermo mostra un personaggio sorridente in bianco e nero, con scritte ai lati.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "detto, dai, iniziamo subito"
+    },
+    {
+      "idx": 16,
+      "start": 35.1,
+      "end": 36.533,
+      "dur": 1.433,
+      "center": 35.817,
+      "role": "venue_interior_wide",
+      "subject": "folla nell'attrazione",
+      "description": "Una folla di persone si trova in un ambiente scuro con un grande schermo e un soffitto che simula un cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dall 'attrazione di Harry Potter. E"
+    },
+    {
+      "idx": 17,
+      "start": 36.533,
+      "end": 39.2,
+      "dur": 2.667,
+      "center": 37.867,
+      "role": "venue_interior_wide",
+      "subject": "edificio illuminato",
+      "description": "Un edificio alto e curvo con molte finestre illuminate domina la scena, con persone in basso.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dopo aver fatto davvero ore e ore di fila, che però almeno"
+    },
+    {
+      "idx": 18,
+      "start": 39.2,
+      "end": 41.167,
+      "dur": 1.967,
+      "center": 40.183,
+      "role": "venue_interior_detail",
+      "subject": "statua dorata mago",
+      "description": "Una statua dorata di un mago con un bastone e una sfera è in primo piano, con un edificio illuminato sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbiamo fatto in mezzo letteralmente al mondo"
+    },
+    {
+      "idx": 19,
+      "start": 41.167,
+      "end": 44.133,
+      "dur": 2.967,
+      "center": 42.65,
+      "role": "venue_interior_detail",
+      "subject": "creatura seduta",
+      "description": "Una creatura con grandi orecchie e vestiti stracciati è seduta su una sedia dorata, con un libro in mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "di Harry Potter, infatti era tutto ben tematizzato, siamo arrivati"
+    },
+    {
+      "idx": 20,
+      "start": 44.133,
+      "end": 47.133,
+      "dur": 3.0,
+      "center": 45.633,
+      "role": "other",
+      "subject": "persone in ascensore",
+      "description": "Due persone in un ascensore, una delle quali sembra spaventata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "all 'attrazione che tramite degli schermi super mega realistici, vite"
+    },
+    {
+      "idx": 21,
+      "start": 47.133,
+      "end": 51.1,
+      "dur": 3.967,
+      "center": 49.117,
+      "role": "other",
+      "subject": "edifici illuminati",
+      "description": "Un'ambientazione urbana notturna con edifici illuminati da luci blu e arancioni.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "le trasporta pieno nel mondo di Harry Potter e quindi, direi che le tre ore di coda ne"
+    },
+    {
+      "idx": 22,
+      "start": 51.1,
+      "end": 53.567,
+      "dur": 2.467,
+      "center": 52.333,
+      "role": "other",
+      "subject": "struttura architettonica",
+      "description": "Una struttura architettonica complessa con archi e luci blu, che ricorda un ambiente fantasy.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "sono massero a pena. Sì ragazzi, vi assicuro che questa attrazione è stata"
+    },
+    {
+      "idx": 23,
+      "start": 53.567,
+      "end": 56.767,
+      "dur": 3.2,
+      "center": 55.167,
+      "role": "other",
+      "subject": "uomo in fumo",
+      "description": "Un uomo avvolto da fumo verde brillante all'interno di una struttura a griglia.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "veramente, veramente figa. E alla fine la coda fa parte dell"
+    },
+    {
+      "idx": 24,
+      "start": 56.767,
+      "end": 59.233,
+      "dur": 2.467,
+      "center": 58.0,
+      "role": "other",
+      "subject": "creatura in valigia",
+      "description": "Una creatura dall'aspetto scimmiesco che spunta da una valigia, con occhi gialli e un'espressione curiosa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "'attrazione. Dopodiché, già che ci trovavamo in questo mondo, siamo"
+    },
+    {
+      "idx": 25,
+      "start": 59.233,
+      "end": 61.967,
+      "dur": 2.733,
+      "center": 60.6,
+      "role": "other",
+      "subject": "creatura pelosa palco",
+      "description": "Una creatura pelosa si muove sul palco con luci calde.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "andati a vedere lo spettacolo di animali fantastici. Anche"
+    },
+    {
+      "idx": 26,
+      "start": 61.967,
+      "end": 64.767,
+      "dur": 2.8,
+      "center": 63.367,
+      "role": "other",
+      "subject": "performer costume spruzza",
+      "description": "Un performer in costume spruzza qualcosa in aria con uno sfondo blu.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "lui, molto molto carino, si sieta in Universal, non potete perdere"
+    },
+    {
+      "idx": 27,
+      "start": 64.767,
+      "end": 65.467,
+      "dur": 0.7,
+      "center": 65.117,
+      "role": "other",
+      "subject": "creatura gigante palco",
+      "description": "Una grande creatura con occhi luminosi domina il palco con luci rosse.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovviamente gli"
+    },
+    {
+      "idx": 28,
+      "start": 65.467,
+      "end": 66.167,
+      "dur": 0.7,
+      "center": 65.817,
+      "role": "other",
+      "subject": "creatura gigante performer",
+      "description": "La creatura gigante interagisce con un performer sul palco.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "spettacoli. Che"
+    },
+    {
+      "idx": 29,
+      "start": 66.167,
+      "end": 68.733,
+      "dur": 2.567,
+      "center": 67.45,
+      "role": "other",
+      "subject": "creatura gigante performer",
+      "description": "Il performer si allontana dalla creatura gigante sul palco illuminato.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "direi che sono sempre ben fatti. Dal mondo di Harry Potter siamo poi"
+    },
+    {
+      "idx": 30,
+      "start": 68.733,
+      "end": 70.767,
+      "dur": 2.033,
+      "center": 69.75,
+      "role": "venue_exterior",
+      "subject": "ingresso parco a tema",
+      "description": "L'imponente ingresso a forma di arco con una torre gotica in cima e la scritta 'IT'S ALIVE! IT'S ALIVE!'.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "passati al Dark Universe, che è praticamente il mondo"
+    },
+    {
+      "idx": 31,
+      "start": 70.767,
+      "end": 72.967,
+      "dur": 2.2,
+      "center": 71.867,
+      "role": "venue_exterior",
+      "subject": "castello gotico imponente",
+      "description": "L'architettura dettagliata del castello con rampicanti e un'atmosfera antica.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "dedicato ai mostri classici come Dracula,"
+    },
+    {
+      "idx": 32,
+      "start": 72.967,
+      "end": 73.6,
+      "dur": 0.633,
+      "center": 73.283,
+      "role": "venue_interior_detail",
+      "subject": "bara aperta e sarcofago",
+      "description": "La bara rossa aperta e il sarcofago con dettagli di serpenti, immersi in un'ambientazione scura e terrosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Frankenstein,"
+    },
+    {
+      "idx": 33,
+      "start": 73.6,
+      "end": 74.7,
+      "dur": 1.1,
+      "center": 74.15,
+      "role": "venue_interior_detail",
+      "subject": "bara e sarcofago",
+      "description": "La bara rossa e il sarcofago sono il fulcro, con un'illuminazione che crea ombre drammatiche.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ed anche qui dopo aver fatto"
+    },
+    {
+      "idx": 34,
+      "start": 74.7,
+      "end": 75.233,
+      "dur": 0.533,
+      "center": 74.967,
+      "role": "venue_interior_detail",
+      "subject": "bara e sarcofago",
+      "description": "La scena è dominata dalla bara e dal sarcofago, con una luce calda che ne esalta i dettagli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "un bel po' di"
+    },
+    {
+      "idx": 35,
+      "start": 75.233,
+      "end": 78.533,
+      "dur": 3.3,
+      "center": 76.883,
+      "role": "other",
+      "subject": "persone su giostra",
+      "description": "Due persone su una giostra a tema, con un'insegna circolare sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "coda, comunque ben tematizzata, siamo arrivati praticamente alla"
+    },
+    {
+      "idx": 36,
+      "start": 78.533,
+      "end": 79.967,
+      "dur": 1.433,
+      "center": 79.25,
+      "role": "person_talking",
+      "subject": "ragazzo in giostra",
+      "description": "Un ragazzo con una canotta bianca Adidas guarda di lato, seduto su una giostra con altre persone sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "montagna russa, e è stata molto"
+    },
+    {
+      "idx": 37,
+      "start": 79.967,
+      "end": 81.133,
+      "dur": 1.167,
+      "center": 80.55,
+      "role": "other",
+      "subject": "gambe e giostra",
+      "description": "Si vedono le gambe di una persona e parte della struttura della giostra, con un ambiente sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "molto figa anche a giudicare"
+    },
+    {
+      "idx": 38,
+      "start": 81.133,
+      "end": 84.9,
+      "dur": 3.767,
+      "center": 83.017,
+      "role": "person_talking",
+      "subject": "ragazzo in giostra",
+      "description": "Un ragazzo con una canotta bianca Adidas si sistema i capelli, seduto su una giostra con un ambiente esterno visibile sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dalla mia faccia alla fine. Dopodiché usciti dal Dark Universe, ho dovuto provare"
+    },
+    {
+      "idx": 39,
+      "start": 84.9,
+      "end": 85.8,
+      "dur": 0.9,
+      "center": 85.35,
+      "role": "other",
+      "subject": "giostra esterna",
+      "description": "Una giostra esterna con binari gialli si snoda tra alberi verdi sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "la Stardust Racer,"
+    },
+    {
+      "idx": 40,
+      "start": 85.8,
+      "end": 87.4,
+      "dur": 1.6,
+      "center": 86.6,
+      "role": "venue_exterior",
+      "subject": "montagne russe gialle",
+      "description": "Le montagne russe gialle si stagliano contro il cielo azzurro con nuvole bianche.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "che è senza dubbio la montagna"
+    },
+    {
+      "idx": 41,
+      "start": 87.4,
+      "end": 89.433,
+      "dur": 2.033,
+      "center": 88.417,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo in primo piano con una canotta bianca Adidas parla alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "russa più figa di tutto il parco, e"
+    },
+    {
+      "idx": 42,
+      "start": 89.433,
+      "end": 91.367,
+      "dur": 1.933,
+      "center": 90.4,
+      "role": "venue_exterior",
+      "subject": "ingresso parco a tema",
+      "description": "Un grande ingresso decorato con scritte e persone che camminano sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di solito non andiamo anche troppo a coda. Quindi questa è"
+    },
+    {
+      "idx": 43,
+      "start": 91.367,
+      "end": 93.933,
+      "dur": 2.567,
+      "center": 92.65,
+      "role": "venue_exterior",
+      "subject": "statue draghi acqua",
+      "description": "Due grandi statue di draghi si ergono dall'acqua con un paesaggio montuoso sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "assolutamente consigliata. Dopodiché si passa al mondo"
+    },
+    {
+      "idx": 44,
+      "start": 93.933,
+      "end": 95.967,
+      "dur": 2.033,
+      "center": 94.95,
+      "role": "venue_exterior",
+      "subject": "villaggio a tema",
+      "description": "Un villaggio a tema con edifici in legno e una montagna verde sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di Auto Train Your Dragon. Sì ragazzi, un"
+    },
+    {
+      "idx": 45,
+      "start": 95.967,
+      "end": 98.1,
+      "dur": 2.133,
+      "center": 97.033,
+      "role": "other",
+      "subject": "sedile giostra colorato",
+      "description": "Il sedile di una giostra con colori vivaci come giallo, verde e arancione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "intero mondo dedicato a Dragon Trainer, in cui"
+    },
+    {
+      "idx": 46,
+      "start": 98.1,
+      "end": 99.9,
+      "dur": 1.8,
+      "center": 99.0,
+      "role": "other",
+      "subject": "ragazzo in giostra",
+      "description": "Un ragazzo in canottiera bianca e tracolla gialla con scritta 'OFF-WHITE' seduto su una giostra, con altre persone in fila sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "abbiamo anche qua fatto l 'allora attrazione principale,"
+    },
+    {
+      "idx": 47,
+      "start": 99.9,
+      "end": 104.4,
+      "dur": 4.5,
+      "center": 102.15,
+      "role": "other",
+      "subject": "drago sputafuoco spettacolo",
+      "description": "Un drago meccanico colorato che sputa fuoco rosso su un palco scuro, con il pubblico in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e visto lo spettacolo, molto carino, con ovviamente tutte le colonne sonore dei film, e quindi"
+    },
+    {
+      "idx": 48,
+      "start": 104.4,
+      "end": 105.7,
+      "dur": 1.3,
+      "center": 105.05,
+      "role": "venue_exterior",
+      "subject": "ingresso parco divertimenti",
+      "description": "L'ingresso di un parco divertimenti con un arco colorato e una torre alta, sotto un cielo azzurro con nuvole.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "molto emozionante. Ultimo"
+    },
+    {
+      "idx": 49,
+      "start": 105.7,
+      "end": 107.2,
+      "dur": 1.5,
+      "center": 106.45,
+      "role": "venue_exterior",
+      "subject": "ragazzo selfie ingresso",
+      "description": "Il creator si fa un selfie davanti all'ingresso colorato del parco divertimenti, con altre persone sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "mondo che non potevamo non visitare,"
+    },
+    {
+      "idx": 50,
+      "start": 107.2,
+      "end": 112.2,
+      "dur": 5.0,
+      "center": 109.7,
+      "role": "venue_interior_wide",
+      "subject": "parco a tema Mario",
+      "description": "Il parco a tema di Super Mario con i suoi colori vivaci e le strutture iconiche.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "il mondo del Super Nintendo World, anche se lo avevo già visto all 'Universal Studios di Hollywood, a Los Angeles, ed è per questo"
+    },
+    {
+      "idx": 51,
+      "start": 112.2,
+      "end": 114.233,
+      "dur": 2.033,
+      "center": 113.217,
+      "role": "person_talking",
+      "subject": "ragazzo in canotta",
+      "description": "Un ragazzo in canotta bianca che si riprende in un ambiente interno illuminato artificialmente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che siamo andati a fare l 'attrazione di Donkey Kong. Uffine,"
+    },
+    {
+      "idx": 52,
+      "start": 114.233,
+      "end": 115.733,
+      "dur": 1.5,
+      "center": 114.983,
+      "role": "person_talking",
+      "subject": "ragazzo in canotta",
+      "description": "Il ragazzo si riprende in un parco a tema con edifici in stile medievale sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "ultimo giro nel Dark Universe,"
+    },
+    {
+      "idx": 53,
+      "start": 115.733,
+      "end": 118.567,
+      "dur": 2.833,
+      "center": 117.15,
+      "role": "venue_exterior",
+      "subject": "torre orologio Epic Universe",
+      "description": "Una torre orologio elaborata con elementi celesti e luci, sotto un cielo rosato.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "prima che più dal parco, e dopo l 'intera giornata di file,"
+    },
+    {
+      "idx": 54,
+      "start": 118.567,
+      "end": 121.033,
+      "dur": 2.467,
+      "center": 119.8,
+      "role": "venue_exterior",
+      "subject": "ingresso Epic Universe",
+      "description": "L'ingresso di 'Epic Universe' con la torre orologio e un cielo arancione al tramonto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "siamo finalmente usciti, comunque sono disfatti, anche se"
+    },
+    {
+      "idx": 55,
+      "start": 121.033,
+      "end": 123.2,
+      "dur": 2.167,
+      "center": 122.117,
+      "role": "venue_exterior",
+      "subject": "ragazzo davanti McDonald's",
+      "description": "Un ragazzo in canotta bianca si fa un selfie davanti a un McDonald's illuminato di notte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mi aspettavo un po' di più. E ora ragazzi, per recuperare"
+    },
+    {
+      "idx": 56,
+      "start": 123.2,
+      "end": 125.4,
+      "dur": 2.2,
+      "center": 124.3,
+      "role": "food_plated",
+      "subject": "ragazzo con pasta e pizza",
+      "description": "Il ragazzo del frame precedente tiene in mano un piatto di pasta e una pizza intera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "tutte le energie che abbiamo speso in questa giornata,"
+    },
+    {
+      "idx": 57,
+      "start": 125.4,
+      "end": 128.4,
+      "dur": 3.0,
+      "center": 126.9,
+      "role": "food_detail",
+      "subject": "spaghetti con polpette e pane",
+      "description": "Un primo piano di un piatto di spaghetti con sugo, polpette e una fetta di pane all'aglio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "dovevo per forza andare a provare il McDonald più grande del mondo. McDonald"
+    },
+    {
+      "idx": 58,
+      "start": 128.4,
+      "end": 130.9,
+      "dur": 2.5,
+      "center": 129.65,
+      "role": "food_detail",
+      "subject": "pizza margherita intera",
+      "description": "Un primo piano di una pizza margherita con formaggio fuso e crosta dorata.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "che come potete vedere fa anche la pizza e la pasta."
+    },
+    {
+      "idx": 59,
+      "start": 130.9,
+      "end": 132.9,
+      "dur": 2.0,
+      "center": 131.9,
+      "role": "person_eating",
+      "subject": "forchetta con spaghetti",
+      "description": "Una forchetta avvolge gli spaghetti con sugo e polpette, pronta per essere mangiata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Partendo dalla pasta, io ho selezionato delle linguine"
+    },
+    {
+      "idx": 60,
+      "start": 132.9,
+      "end": 135.433,
+      "dur": 2.533,
+      "center": 134.167,
+      "role": "person_eating",
+      "subject": "ragazzo mangia spaghetti",
+      "description": "Un ragazzo sta mangiando spaghetti con la forchetta, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "con raguola bolognese. Non chiedetemi perché ve lo servono"
+    },
+    {
+      "idx": 61,
+      "start": 135.433,
+      "end": 137.233,
+      "dur": 1.8,
+      "center": 136.333,
+      "role": "person_eating",
+      "subject": "ragazzo mangia spaghetti",
+      "description": "Il ragazzo continua a mangiare gli spaghetti, con la bocca piena e gli occhi spalancati.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "con un pezzetto di pizza bianca, ma la"
+    },
+    {
+      "idx": 62,
+      "start": 137.233,
+      "end": 140.833,
+      "dur": 3.6,
+      "center": 139.033,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta mangiando un pezzo di pizza, con il formaggio che si allunga.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "pasta era ovviamente scotta, il sugo messo solo in mezzo, proprio all 'americana."
+    },
+    {
+      "idx": 63,
+      "start": 140.833,
+      "end": 143.367,
+      "dur": 2.533,
+      "center": 142.1,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo tiene in mano un pezzo di pizza e guarda verso la telecamera con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Passando invece la pizza, beh ragazzi, la vedete. È praticamente"
+    },
+    {
+      "idx": 64,
+      "start": 143.367,
+      "end": 145.067,
+      "dur": 1.7,
+      "center": 144.217,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatine",
+      "description": "Il ragazzo sta mangiando patatine fritte da un contenitore McDonald's, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "una pietina con un po' di pomodore,"
+    },
+    {
+      "idx": 65,
+      "start": 145.067,
+      "end": 147.567,
+      "dur": 2.5,
+      "center": 146.317,
+      "role": "food_closeup",
+      "subject": "panino con insalata",
+      "description": "Il panino è ripreso dall'alto, con molta insalata fresca in evidenza.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "tanta mozzarella. Alte esclusiva di questo McDonald è"
+    },
+    {
+      "idx": 66,
+      "start": 147.567,
+      "end": 150.067,
+      "dur": 2.5,
+      "center": 148.817,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia panino",
+      "description": "Un ragazzo sta addentando un panino, con un contenitore nero vuoto in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "il Philly C Steak, un panino tipico di fila delfie che però"
+    },
+    {
+      "idx": 67,
+      "start": 150.067,
+      "end": 152.567,
+      "dur": 2.5,
+      "center": 151.317,
+      "role": "food_detail",
+      "subject": "interno panino ripieno",
+      "description": "Si vede l'interno del panino, con carne, formaggio e salse, tenuto da una mano.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "vi servono anche qua. Ed effettivamente un po' il panino originale"
+    },
+    {
+      "idx": 68,
+      "start": 152.567,
+      "end": 155.767,
+      "dur": 3.2,
+      "center": 154.167,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolcetto",
+      "description": "Il ragazzo sta mangiando un piccolo dolcetto, con altre persone sullo sfondo in un locale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "lo ricorda. E per concludere questa cena clamorosa, Apple Pie."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza e pasta",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due piatti di cibo, una pizza e un piatto di pasta, tenuti da una persona.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con patatine e panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo tiene in mano un cartone di patatine fritte di McDonald's e un panino, con un'espressione divertita.",
+      "shot_idx": 1,
+      "start": 2.5,
+      "end": 4.2,
+      "dur": 1.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza e pasta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo tiene un piatto di pasta e una pizza grande è in primo piano sul tavolo.",
+      "shot_idx": 2,
+      "start": 4.2,
+      "end": 5.733,
+      "dur": 1.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "due ragazzi su giostra",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Due ragazzi sono seduti su una giostra, uno dei quali guarda direttamente la telecamera con un'espressione sorpresa.",
+      "shot_idx": 3,
+      "start": 5.733,
+      "end": 7.7,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "uomo che solleva pesi",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo esegue uno squat con un bilanciere in una palestra.",
+      "shot_idx": 4,
+      "start": 7.7,
+      "end": 10.6,
+      "dur": 2.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "uomo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo si scatta un selfie allo specchio in palestra, mostrando i muscoli.",
+      "shot_idx": 5,
+      "start": 10.6,
+      "end": 12.567,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "uomo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'uomo si guarda allo specchio in palestra, con attrezzature sullo sfondo.",
+      "shot_idx": 6,
+      "start": 12.567,
+      "end": 15.033,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "uomo a bordo piscina",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo si riprende a bordo piscina con un edificio moderno e palme sullo sfondo.",
+      "shot_idx": 7,
+      "start": 15.033,
+      "end": 17.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "colazione abbondante",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto con uova strapazzate, bacon, salsicce e patate, più un panino.",
+      "shot_idx": 8,
+      "start": 17.033,
+      "end": 21.067,
+      "dur": 4.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "uomo di spalle",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo di spalle guarda un grande orologio ornamentale in un parco a tema.",
+      "shot_idx": 9,
+      "start": 21.067,
+      "end": 23.067,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso Epic Universe",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'imponente ingresso del parco a tema con la scritta 'EPIC UNIVERSE' e persone che entrano.",
+      "shot_idx": 10,
+      "start": 23.067,
+      "end": 24.9,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "arco ingresso parco",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un arco decorato con una citazione e una colonna che si innalza verso il cielo azzurro.",
+      "shot_idx": 11,
+      "start": 24.9,
+      "end": 28.4,
+      "dur": 3.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "arco di pietra",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande arco di pietra che incornicia una strada affollata con edifici in stile europeo.",
+      "shot_idx": 12,
+      "start": 28.4,
+      "end": 30.4,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "strada affollata",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una strada di un parco a tema con edifici elaborati, bandiere e una folla di persone.",
+      "shot_idx": 13,
+      "start": 30.4,
+      "end": 32.433,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in coda",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo in primo piano che si fa un selfie mentre è in coda, con altre persone sullo sfondo.",
+      "shot_idx": 14,
+      "start": 32.433,
+      "end": 34.167,
+      "dur": 1.733
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "schermo con Umbridge",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo schermo mostra un personaggio sorridente in bianco e nero, con scritte ai lati.",
+      "shot_idx": 15,
+      "start": 34.167,
+      "end": 35.1,
+      "dur": 0.933
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "folla nell'attrazione",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una folla di persone si trova in un ambiente scuro con un grande schermo e un soffitto che simula un cielo nuvoloso.",
+      "shot_idx": 16,
+      "start": 35.1,
+      "end": 36.533,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "edificio illuminato",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un edificio alto e curvo con molte finestre illuminate domina la scena, con persone in basso.",
+      "shot_idx": 17,
+      "start": 36.533,
+      "end": 39.2,
+      "dur": 2.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "statua dorata mago",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una statua dorata di un mago con un bastone e una sfera è in primo piano, con un edificio illuminato sullo sfondo.",
+      "shot_idx": 18,
+      "start": 39.2,
+      "end": 41.167,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "creatura seduta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una creatura con grandi orecchie e vestiti stracciati è seduta su una sedia dorata, con un libro in mano.",
+      "shot_idx": 19,
+      "start": 41.167,
+      "end": 44.133,
+      "dur": 2.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "persone in ascensore",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due persone in un ascensore, una delle quali sembra spaventata.",
+      "shot_idx": 20,
+      "start": 44.133,
+      "end": 47.133,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "edifici illuminati",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un'ambientazione urbana notturna con edifici illuminati da luci blu e arancioni.",
+      "shot_idx": 21,
+      "start": 47.133,
+      "end": 51.1,
+      "dur": 3.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "struttura architettonica",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una struttura architettonica complessa con archi e luci blu, che ricorda un ambiente fantasy.",
+      "shot_idx": 22,
+      "start": 51.1,
+      "end": 53.567,
+      "dur": 2.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "uomo in fumo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo avvolto da fumo verde brillante all'interno di una struttura a griglia.",
+      "shot_idx": 23,
+      "start": 53.567,
+      "end": 56.767,
+      "dur": 3.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "creatura in valigia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una creatura dall'aspetto scimmiesco che spunta da una valigia, con occhi gialli e un'espressione curiosa.",
+      "shot_idx": 24,
+      "start": 56.767,
+      "end": 59.233,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "creatura pelosa palco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una creatura pelosa si muove sul palco con luci calde.",
+      "shot_idx": 25,
+      "start": 59.233,
+      "end": 61.967,
+      "dur": 2.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "performer costume spruzza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un performer in costume spruzza qualcosa in aria con uno sfondo blu.",
+      "shot_idx": 26,
+      "start": 61.967,
+      "end": 64.767,
+      "dur": 2.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "creatura gigante palco",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una grande creatura con occhi luminosi domina il palco con luci rosse.",
+      "shot_idx": 27,
+      "start": 64.767,
+      "end": 65.467,
+      "dur": 0.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "creatura gigante performer",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La creatura gigante interagisce con un performer sul palco.",
+      "shot_idx": 28,
+      "start": 65.467,
+      "end": 66.167,
+      "dur": 0.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "creatura gigante performer",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il performer si allontana dalla creatura gigante sul palco illuminato.",
+      "shot_idx": 29,
+      "start": 66.167,
+      "end": 68.733,
+      "dur": 2.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso parco a tema",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'imponente ingresso a forma di arco con una torre gotica in cima e la scritta 'IT'S ALIVE! IT'S ALIVE!'.",
+      "shot_idx": 30,
+      "start": 68.733,
+      "end": 70.767,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "castello gotico imponente",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'architettura dettagliata del castello con rampicanti e un'atmosfera antica.",
+      "shot_idx": 31,
+      "start": 70.767,
+      "end": 72.967,
+      "dur": 2.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "bara aperta e sarcofago",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La bara rossa aperta e il sarcofago con dettagli di serpenti, immersi in un'ambientazione scura e terrosa.",
+      "shot_idx": 32,
+      "start": 72.967,
+      "end": 73.6,
+      "dur": 0.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "bara e sarcofago",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La bara rossa e il sarcofago sono il fulcro, con un'illuminazione che crea ombre drammatiche.",
+      "shot_idx": 33,
+      "start": 73.6,
+      "end": 74.7,
+      "dur": 1.1
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "bara e sarcofago",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La scena è dominata dalla bara e dal sarcofago, con una luce calda che ne esalta i dettagli.",
+      "shot_idx": 34,
+      "start": 74.7,
+      "end": 75.233,
+      "dur": 0.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "persone su giostra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due persone su una giostra a tema, con un'insegna circolare sullo sfondo.",
+      "shot_idx": 35,
+      "start": 75.233,
+      "end": 78.533,
+      "dur": 3.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in giostra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una canotta bianca Adidas guarda di lato, seduto su una giostra con altre persone sullo sfondo.",
+      "shot_idx": 36,
+      "start": 78.533,
+      "end": 79.967,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "gambe e giostra",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Si vedono le gambe di una persona e parte della struttura della giostra, con un ambiente sfocato sullo sfondo.",
+      "shot_idx": 37,
+      "start": 79.967,
+      "end": 81.133,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in giostra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una canotta bianca Adidas si sistema i capelli, seduto su una giostra con un ambiente esterno visibile sullo sfondo.",
+      "shot_idx": 38,
+      "start": 81.133,
+      "end": 84.9,
+      "dur": 3.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "giostra esterna",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una giostra esterna con binari gialli si snoda tra alberi verdi sotto un cielo azzurro.",
+      "shot_idx": 39,
+      "start": 84.9,
+      "end": 85.8,
+      "dur": 0.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "montagne russe gialle",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le montagne russe gialle si stagliano contro il cielo azzurro con nuvole bianche.",
+      "shot_idx": 40,
+      "start": 85.8,
+      "end": 87.4,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo in primo piano con una canotta bianca Adidas parla alla telecamera.",
+      "shot_idx": 41,
+      "start": 87.4,
+      "end": 89.433,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso parco a tema",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande ingresso decorato con scritte e persone che camminano sotto un cielo azzurro.",
+      "shot_idx": 42,
+      "start": 89.433,
+      "end": 91.367,
+      "dur": 1.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "statue draghi acqua",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due grandi statue di draghi si ergono dall'acqua con un paesaggio montuoso sullo sfondo.",
+      "shot_idx": 43,
+      "start": 91.367,
+      "end": 93.933,
+      "dur": 2.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "villaggio a tema",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un villaggio a tema con edifici in legno e una montagna verde sullo sfondo.",
+      "shot_idx": 44,
+      "start": 93.933,
+      "end": 95.967,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "sedile giostra colorato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il sedile di una giostra con colori vivaci come giallo, verde e arancione.",
+      "shot_idx": 45,
+      "start": 95.967,
+      "end": 98.1,
+      "dur": 2.133
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in giostra",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo in canottiera bianca e tracolla gialla con scritta 'OFF-WHITE' seduto su una giostra, con altre persone in fila sullo sfondo.",
+      "shot_idx": 46,
+      "start": 98.1,
+      "end": 99.9,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "drago sputafuoco spettacolo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un drago meccanico colorato che sputa fuoco rosso su un palco scuro, con il pubblico in primo piano.",
+      "shot_idx": 47,
+      "start": 99.9,
+      "end": 104.4,
+      "dur": 4.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso parco divertimenti",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'ingresso di un parco divertimenti con un arco colorato e una torre alta, sotto un cielo azzurro con nuvole.",
+      "shot_idx": 48,
+      "start": 104.4,
+      "end": 105.7,
+      "dur": 1.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ragazzo selfie ingresso",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator si fa un selfie davanti all'ingresso colorato del parco divertimenti, con altre persone sullo sfondo.",
+      "shot_idx": 49,
+      "start": 105.7,
+      "end": 107.2,
+      "dur": 1.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "parco a tema Mario",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il parco a tema di Super Mario con i suoi colori vivaci e le strutture iconiche.",
+      "shot_idx": 50,
+      "start": 107.2,
+      "end": 112.2,
+      "dur": 5.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in canotta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo in canotta bianca che si riprende in un ambiente interno illuminato artificialmente.",
+      "shot_idx": 51,
+      "start": 112.2,
+      "end": 114.233,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in canotta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo si riprende in un parco a tema con edifici in stile medievale sullo sfondo.",
+      "shot_idx": 52,
+      "start": 114.233,
+      "end": 115.733,
+      "dur": 1.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "torre orologio Epic Universe",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una torre orologio elaborata con elementi celesti e luci, sotto un cielo rosato.",
+      "shot_idx": 53,
+      "start": 115.733,
+      "end": 118.567,
+      "dur": 2.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso Epic Universe",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'ingresso di 'Epic Universe' con la torre orologio e un cielo arancione al tramonto.",
+      "shot_idx": 54,
+      "start": 118.567,
+      "end": 121.033,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ragazzo davanti McDonald's",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo in canotta bianca si fa un selfie davanti a un McDonald's illuminato di notte.",
+      "shot_idx": 55,
+      "start": 121.033,
+      "end": 123.2,
+      "dur": 2.167
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "ragazzo con pasta e pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo del frame precedente tiene in mano un piatto di pasta e una pizza intera.",
+      "shot_idx": 56,
+      "start": 123.2,
+      "end": 125.4,
+      "dur": 2.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "spaghetti con polpette e pane",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un primo piano di un piatto di spaghetti con sugo, polpette e una fetta di pane all'aglio.",
+      "shot_idx": 57,
+      "start": 125.4,
+      "end": 128.4,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza margherita intera",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un primo piano di una pizza margherita con formaggio fuso e crosta dorata.",
+      "shot_idx": 58,
+      "start": 128.4,
+      "end": 130.9,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "forchetta con spaghetti",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una forchetta avvolge gli spaghetti con sugo e polpette, pronta per essere mangiata.",
+      "shot_idx": 59,
+      "start": 130.9,
+      "end": 132.9,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia spaghetti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sta mangiando spaghetti con la forchetta, con un'espressione concentrata.",
+      "shot_idx": 60,
+      "start": 132.9,
+      "end": 135.433,
+      "dur": 2.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia spaghetti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo continua a mangiare gli spaghetti, con la bocca piena e gli occhi spalancati.",
+      "shot_idx": 61,
+      "start": 135.433,
+      "end": 137.233,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di pizza, con il formaggio che si allunga.",
+      "shot_idx": 62,
+      "start": 137.233,
+      "end": 140.833,
+      "dur": 3.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di pizza e guarda verso la telecamera con un'espressione divertita.",
+      "shot_idx": 63,
+      "start": 140.833,
+      "end": 143.367,
+      "dur": 2.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta mangiando patatine fritte da un contenitore McDonald's, con un'espressione sorpresa.",
+      "shot_idx": 64,
+      "start": 143.367,
+      "end": 145.067,
+      "dur": 1.7
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino con insalata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il panino è ripreso dall'alto, con molta insalata fresca in evidenza.",
+      "shot_idx": 65,
+      "start": 145.067,
+      "end": 147.567,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sta addentando un panino, con un contenitore nero vuoto in primo piano.",
+      "shot_idx": 66,
+      "start": 147.567,
+      "end": 150.067,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "interno panino ripieno",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Si vede l'interno del panino, con carne, formaggio e salse, tenuto da una mano.",
+      "shot_idx": 67,
+      "start": 150.067,
+      "end": 152.567,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolcetto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un piccolo dolcetto, con altre persone sullo sfondo in un locale.",
+      "shot_idx": 68,
+      "start": 152.567,
+      "end": 155.767,
+      "dur": 3.2
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Giornon 11 del mio viaggio in Florida, alla scoperta della vera cucina americana, sì, quella è la pizza, la pasta del McDonald."
+    },
+    {
+      "start": 5.62,
+      "end": 8.68,
+      "text": "Ma partiamo con l'ordine perché oggi è una giornata davvero davvero clamorosa."
+    },
+    {
+      "start": 8.76,
+      "end": 14.56,
+      "text": "Ci troviamo a Dorland, questa mattina mi sono vedato molto presto per fare un bel allenamento in una palestra dell'hotel che aveva tutto ciò di cui avevo bisogno."
+    },
+    {
+      "start": 14.62,
+      "end": 19.52,
+      "text": "Piccolo flex anche se hai rialtato le nato gambe e poi ci dirigiamo verso la colazione, che anche lei non è stata da meno."
+    },
+    {
+      "start": 19.68,
+      "end": 23.72,
+      "text": "E dopo quindi aver fatto una bella ricarica post workout ci siamo riccati a The Pick Universe,"
+    },
+    {
+      "start": 23.94,
+      "end": 28.8,
+      "text": "che dovrebbe essere il miglior parco divertimenti di tutto il mondo, adorando il pieno di parchi di Disney e Universal."
+    },
+    {
+      "start": 28.8,
+      "end": 33.0,
+      "text": "Ma questo è il più nuovo e il più costoso mai realizzato ed infatti avevo crosto aspettative."
+    },
+    {
+      "start": 33.12,
+      "end": 36.36,
+      "text": "Una volta tratti nel parco abbiamo detto, dai, iniziamo subito dall'attrazione di Harry Potter."
+    },
+    {
+      "start": 36.5,
+      "end": 41.9,
+      "text": "E dopo aver fatto davvero ore e ore di fila, che però almeno abbiamo fatto in mezzo letteralmente al mondo di Harry Potter,"
+    },
+    {
+      "start": 42.02,
+      "end": 46.94,
+      "text": "infatti era tutto ben tematizzato, siamo arrivati all'attrazione che tramite degli schermi super mega realistici,"
+    },
+    {
+      "start": 46.98,
+      "end": 51.74,
+      "text": "vite le trasporta pieno nel mondo di Harry Potter e quindi, direi che le tre ore di coda ne sono massero a pena."
+    },
+    {
+      "start": 51.86,
+      "end": 54.98,
+      "text": "Sì ragazzi, vi assicuro che questa attrazione è stata veramente, veramente figa."
+    },
+    {
+      "start": 55.06,
+      "end": 57.12,
+      "text": "E alla fine la coda fa parte dell'attrazione."
+    },
+    {
+      "start": 57.12,
+      "end": 61.6,
+      "text": "Dopodiché, già che ci trovavamo in questo mondo, siamo andati a vedere lo spettacolo di animali fantastici."
+    },
+    {
+      "start": 61.72,
+      "end": 65.88,
+      "text": "Anche lui, molto molto carino, si sieta in Universal, non potete perdere ovviamente gli spettacoli."
+    },
+    {
+      "start": 66.04,
+      "end": 67.34,
+      "text": "Che direi che sono sempre ben fatti."
+    },
+    {
+      "start": 67.46,
+      "end": 69.76,
+      "text": "Dal mondo di Harry Potter siamo poi passati al Dark Universe,"
+    },
+    {
+      "start": 69.94,
+      "end": 73.62,
+      "text": "che è praticamente il mondo dedicato ai mostri classici come Dracula, Frankenstein,"
+    },
+    {
+      "start": 73.7,
+      "end": 77.0,
+      "text": "ed anche qui dopo aver fatto un bel po' di coda, comunque ben tematizzata,"
+    },
+    {
+      "start": 77.18,
+      "end": 79.32,
+      "text": "siamo arrivati praticamente alla montagna russa,"
+    },
+    {
+      "start": 79.46,
+      "end": 82.22,
+      "text": "e è stata molto molto figa anche a giudicare dalla mia faccia alla fine."
+    },
+    {
+      "start": 82.38,
+      "end": 85.92,
+      "text": "Dopodiché usciti dal Dark Universe, ho dovuto provare la Stardust Racer,"
+    },
+    {
+      "start": 85.92,
+      "end": 89.32,
+      "text": "che è senza dubbio la montagna russa più figa di tutto il parco,"
+    },
+    {
+      "start": 89.38,
+      "end": 90.8,
+      "text": "e di solito non andiamo anche troppo a coda."
+    },
+    {
+      "start": 90.88,
+      "end": 92.38,
+      "text": "Quindi questa è assolutamente consigliata."
+    },
+    {
+      "start": 92.66,
+      "end": 95.14,
+      "text": "Dopodiché si passa al mondo di Auto Train Your Dragon."
+    },
+    {
+      "start": 95.38,
+      "end": 97.72,
+      "text": "Sì ragazzi, un intero mondo dedicato a Dragon Trainer,"
+    },
+    {
+      "start": 97.9,
+      "end": 100.16,
+      "text": "in cui abbiamo anche qua fatto l'allora attrazione principale,"
+    },
+    {
+      "start": 100.26,
+      "end": 102.08,
+      "text": "e visto lo spettacolo, molto carino,"
+    },
+    {
+      "start": 102.16,
+      "end": 104.12,
+      "text": "con ovviamente tutte le colonne sonore dei film,"
+    },
+    {
+      "start": 104.24,
+      "end": 105.32,
+      "text": "e quindi molto emozionante."
+    },
+    {
+      "start": 105.42,
+      "end": 107.1,
+      "text": "Ultimo mondo che non potevamo non visitare,"
+    },
+    {
+      "start": 107.2,
+      "end": 108.68,
+      "text": "il mondo del Super Nintendo World,"
+    },
+    {
+      "start": 108.76,
+      "end": 111.72,
+      "text": "anche se lo avevo già visto all'Universal Studios di Hollywood, a Los Angeles,"
+    },
+    {
+      "start": 111.84,
+      "end": 114.0,
+      "text": "ed è per questo che siamo andati a fare l'attrazione di Donkey Kong."
+    },
+    {
+      "start": 114.0,
+      "end": 116.86,
+      "text": "Uffine, ultimo giro nel Dark Universe, prima che più dal parco,"
+    },
+    {
+      "start": 116.92,
+      "end": 119.62,
+      "text": "e dopo l'intera giornata di file, siamo finalmente usciti,"
+    },
+    {
+      "start": 119.7,
+      "end": 122.0,
+      "text": "comunque sono disfatti, anche se mi aspettavo un po' di più."
+    },
+    {
+      "start": 122.12,
+      "end": 125.32,
+      "text": "E ora ragazzi, per recuperare tutte le energie che abbiamo speso in questa giornata,"
+    },
+    {
+      "start": 125.4,
+      "end": 128.02,
+      "text": "dovevo per forza andare a provare il McDonald più grande del mondo."
+    },
+    {
+      "start": 128.16,
+      "end": 130.88,
+      "text": "McDonald che come potete vedere fa anche la pizza e la pasta."
+    },
+    {
+      "start": 131.04,
+      "end": 134.2,
+      "text": "Partendo dalla pasta, io ho selezionato delle linguine con raguola bolognese."
+    },
+    {
+      "start": 134.3,
+      "end": 136.88,
+      "text": "Non chiedetemi perché ve lo servono con un pezzetto di pizza bianca,"
+    },
+    {
+      "start": 136.98,
+      "end": 140.88,
+      "text": "ma la pasta era ovviamente scotta, il sugo messo solo in mezzo, proprio all'americana."
+    },
+    {
+      "start": 140.98,
+      "end": 143.02,
+      "text": "Passando invece la pizza, beh ragazzi, la vedete."
+    },
+    {
+      "start": 143.02,
+      "end": 145.66,
+      "text": "È praticamente una pietina con un po' di pomodore, tanta mozzarella."
+    },
+    {
+      "start": 145.92,
+      "end": 148.5,
+      "text": "Alte esclusiva di questo McDonald è il Philly C Steak,"
+    },
+    {
+      "start": 148.56,
+      "end": 151.06,
+      "text": "un panino tipico di fila delfie che però vi servono anche qua."
+    },
+    {
+      "start": 151.14,
+      "end": 153.34,
+      "text": "Ed effettivamente un po' il panino originale lo ricorda."
+    },
+    {
+      "start": 153.36,
+      "end": 155.56,
+      "text": "E per concludere questa cena clamorosa, Apple Pie."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "word": "Giornon"
+    },
+    {
+      "start": 0.46,
+      "end": 0.72,
+      "word": "11"
+    },
+    {
+      "start": 0.72,
+      "end": 0.9,
+      "word": "del"
+    },
+    {
+      "start": 0.9,
+      "end": 1.02,
+      "word": "mio"
+    },
+    {
+      "start": 1.02,
+      "end": 1.24,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.24,
+      "end": 1.4,
+      "word": "in"
+    },
+    {
+      "start": 1.4,
+      "end": 1.68,
+      "word": "Florida,"
+    },
+    {
+      "start": 1.9,
+      "end": 2.0,
+      "word": "alla"
+    },
+    {
+      "start": 2.0,
+      "end": 2.34,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.34,
+      "end": 2.54,
+      "word": "della"
+    },
+    {
+      "start": 2.54,
+      "end": 2.76,
+      "word": "vera"
+    },
+    {
+      "start": 2.76,
+      "end": 3.02,
+      "word": "cucina"
+    },
+    {
+      "start": 3.02,
+      "end": 3.46,
+      "word": "americana,"
+    },
+    {
+      "start": 3.52,
+      "end": 3.76,
+      "word": "sì,"
+    },
+    {
+      "start": 3.84,
+      "end": 3.98,
+      "word": "quella"
+    },
+    {
+      "start": 3.98,
+      "end": 4.08,
+      "word": "è"
+    },
+    {
+      "start": 4.08,
+      "end": 4.18,
+      "word": "la"
+    },
+    {
+      "start": 4.18,
+      "end": 4.38,
+      "word": "pizza,"
+    },
+    {
+      "start": 4.56,
+      "end": 4.58,
+      "word": "la"
+    },
+    {
+      "start": 4.58,
+      "end": 4.76,
+      "word": "pasta"
+    },
+    {
+      "start": 4.76,
+      "end": 4.98,
+      "word": "del"
+    },
+    {
+      "start": 4.98,
+      "end": 5.2,
+      "word": "McDonald."
+    },
+    {
+      "start": 5.62,
+      "end": 5.78,
+      "word": "Ma"
+    },
+    {
+      "start": 5.78,
+      "end": 6.08,
+      "word": "partiamo"
+    },
+    {
+      "start": 6.08,
+      "end": 6.24,
+      "word": "con"
+    },
+    {
+      "start": 6.24,
+      "end": 6.36,
+      "word": "l"
+    },
+    {
+      "start": 6.36,
+      "end": 6.48,
+      "word": "'ordine"
+    },
+    {
+      "start": 6.48,
+      "end": 6.68,
+      "word": "perché"
+    },
+    {
+      "start": 6.68,
+      "end": 6.86,
+      "word": "oggi"
+    },
+    {
+      "start": 6.86,
+      "end": 6.98,
+      "word": "è"
+    },
+    {
+      "start": 6.98,
+      "end": 7.0,
+      "word": "una"
+    },
+    {
+      "start": 7.0,
+      "end": 7.34,
+      "word": "giornata"
+    },
+    {
+      "start": 7.34,
+      "end": 7.8,
+      "word": "davvero"
+    },
+    {
+      "start": 7.8,
+      "end": 8.16,
+      "word": "davvero"
+    },
+    {
+      "start": 8.16,
+      "end": 8.68,
+      "word": "clamorosa."
+    },
+    {
+      "start": 8.76,
+      "end": 8.82,
+      "word": "Ci"
+    },
+    {
+      "start": 8.82,
+      "end": 9.1,
+      "word": "troviamo"
+    },
+    {
+      "start": 9.1,
+      "end": 9.26,
+      "word": "a"
+    },
+    {
+      "start": 9.26,
+      "end": 9.64,
+      "word": "Dorland,"
+    },
+    {
+      "start": 9.78,
+      "end": 9.96,
+      "word": "questa"
+    },
+    {
+      "start": 9.96,
+      "end": 10.24,
+      "word": "mattina"
+    },
+    {
+      "start": 10.24,
+      "end": 10.36,
+      "word": "mi"
+    },
+    {
+      "start": 10.36,
+      "end": 10.48,
+      "word": "sono"
+    },
+    {
+      "start": 10.48,
+      "end": 10.72,
+      "word": "vedato"
+    },
+    {
+      "start": 10.72,
+      "end": 10.98,
+      "word": "molto"
+    },
+    {
+      "start": 10.98,
+      "end": 11.42,
+      "word": "presto"
+    },
+    {
+      "start": 11.42,
+      "end": 11.52,
+      "word": "per"
+    },
+    {
+      "start": 11.52,
+      "end": 11.66,
+      "word": "fare"
+    },
+    {
+      "start": 11.66,
+      "end": 11.8,
+      "word": "un"
+    },
+    {
+      "start": 11.8,
+      "end": 11.9,
+      "word": "bel"
+    },
+    {
+      "start": 11.9,
+      "end": 12.22,
+      "word": "allenamento"
+    },
+    {
+      "start": 12.22,
+      "end": 12.38,
+      "word": "in"
+    },
+    {
+      "start": 12.38,
+      "end": 12.5,
+      "word": "una"
+    },
+    {
+      "start": 12.5,
+      "end": 12.7,
+      "word": "palestra"
+    },
+    {
+      "start": 12.7,
+      "end": 12.88,
+      "word": "dell"
+    },
+    {
+      "start": 12.88,
+      "end": 13.08,
+      "word": "'hotel"
+    },
+    {
+      "start": 13.08,
+      "end": 13.14,
+      "word": "che"
+    },
+    {
+      "start": 13.14,
+      "end": 13.32,
+      "word": "aveva"
+    },
+    {
+      "start": 13.32,
+      "end": 13.5,
+      "word": "tutto"
+    },
+    {
+      "start": 13.5,
+      "end": 13.74,
+      "word": "ciò"
+    },
+    {
+      "start": 13.74,
+      "end": 13.84,
+      "word": "di"
+    },
+    {
+      "start": 13.84,
+      "end": 13.94,
+      "word": "cui"
+    },
+    {
+      "start": 13.94,
+      "end": 14.1,
+      "word": "avevo"
+    },
+    {
+      "start": 14.1,
+      "end": 14.56,
+      "word": "bisogno."
+    },
+    {
+      "start": 14.62,
+      "end": 14.86,
+      "word": "Piccolo"
+    },
+    {
+      "start": 14.86,
+      "end": 15.08,
+      "word": "flex"
+    },
+    {
+      "start": 15.08,
+      "end": 15.34,
+      "word": "anche"
+    },
+    {
+      "start": 15.34,
+      "end": 15.48,
+      "word": "se"
+    },
+    {
+      "start": 15.48,
+      "end": 15.54,
+      "word": "hai"
+    },
+    {
+      "start": 15.54,
+      "end": 15.68,
+      "word": "rialtato"
+    },
+    {
+      "start": 15.68,
+      "end": 15.82,
+      "word": "le"
+    },
+    {
+      "start": 15.82,
+      "end": 16.06,
+      "word": "nato"
+    },
+    {
+      "start": 16.06,
+      "end": 16.42,
+      "word": "gambe"
+    },
+    {
+      "start": 16.42,
+      "end": 16.58,
+      "word": "e"
+    },
+    {
+      "start": 16.58,
+      "end": 16.7,
+      "word": "poi"
+    },
+    {
+      "start": 16.7,
+      "end": 16.84,
+      "word": "ci"
+    },
+    {
+      "start": 16.84,
+      "end": 17.26,
+      "word": "dirigiamo"
+    },
+    {
+      "start": 17.26,
+      "end": 17.5,
+      "word": "verso"
+    },
+    {
+      "start": 17.5,
+      "end": 17.7,
+      "word": "la"
+    },
+    {
+      "start": 17.7,
+      "end": 18.12,
+      "word": "colazione,"
+    },
+    {
+      "start": 18.24,
+      "end": 18.3,
+      "word": "che"
+    },
+    {
+      "start": 18.3,
+      "end": 18.42,
+      "word": "anche"
+    },
+    {
+      "start": 18.42,
+      "end": 18.66,
+      "word": "lei"
+    },
+    {
+      "start": 18.66,
+      "end": 18.82,
+      "word": "non"
+    },
+    {
+      "start": 18.82,
+      "end": 18.92,
+      "word": "è"
+    },
+    {
+      "start": 18.92,
+      "end": 19.06,
+      "word": "stata"
+    },
+    {
+      "start": 19.06,
+      "end": 19.26,
+      "word": "da"
+    },
+    {
+      "start": 19.26,
+      "end": 19.52,
+      "word": "meno."
+    },
+    {
+      "start": 19.68,
+      "end": 19.7,
+      "word": "E"
+    },
+    {
+      "start": 19.7,
+      "end": 19.88,
+      "word": "dopo"
+    },
+    {
+      "start": 19.88,
+      "end": 20.14,
+      "word": "quindi"
+    },
+    {
+      "start": 20.14,
+      "end": 20.26,
+      "word": "aver"
+    },
+    {
+      "start": 20.26,
+      "end": 20.52,
+      "word": "fatto"
+    },
+    {
+      "start": 20.52,
+      "end": 20.72,
+      "word": "una"
+    },
+    {
+      "start": 20.72,
+      "end": 20.96,
+      "word": "bella"
+    },
+    {
+      "start": 20.96,
+      "end": 21.38,
+      "word": "ricarica"
+    },
+    {
+      "start": 21.38,
+      "end": 21.6,
+      "word": "post"
+    },
+    {
+      "start": 21.6,
+      "end": 21.98,
+      "word": "workout"
+    },
+    {
+      "start": 21.98,
+      "end": 22.24,
+      "word": "ci"
+    },
+    {
+      "start": 22.24,
+      "end": 22.4,
+      "word": "siamo"
+    },
+    {
+      "start": 22.4,
+      "end": 22.8,
+      "word": "riccati"
+    },
+    {
+      "start": 22.8,
+      "end": 22.98,
+      "word": "a"
+    },
+    {
+      "start": 22.98,
+      "end": 23.12,
+      "word": "The"
+    },
+    {
+      "start": 23.12,
+      "end": 23.3,
+      "word": "Pick"
+    },
+    {
+      "start": 23.3,
+      "end": 23.72,
+      "word": "Universe,"
+    },
+    {
+      "start": 23.94,
+      "end": 24.0,
+      "word": "che"
+    },
+    {
+      "start": 24.0,
+      "end": 24.22,
+      "word": "dovrebbe"
+    },
+    {
+      "start": 24.22,
+      "end": 24.56,
+      "word": "essere"
+    },
+    {
+      "start": 24.56,
+      "end": 24.7,
+      "word": "il"
+    },
+    {
+      "start": 24.7,
+      "end": 25.02,
+      "word": "miglior"
+    },
+    {
+      "start": 25.02,
+      "end": 25.38,
+      "word": "parco"
+    },
+    {
+      "start": 25.38,
+      "end": 26.02,
+      "word": "divertimenti"
+    },
+    {
+      "start": 26.02,
+      "end": 26.12,
+      "word": "di"
+    },
+    {
+      "start": 26.12,
+      "end": 26.3,
+      "word": "tutto"
+    },
+    {
+      "start": 26.3,
+      "end": 26.48,
+      "word": "il"
+    },
+    {
+      "start": 26.48,
+      "end": 26.76,
+      "word": "mondo,"
+    },
+    {
+      "start": 26.88,
+      "end": 27.18,
+      "word": "adorando"
+    },
+    {
+      "start": 27.18,
+      "end": 27.34,
+      "word": "il"
+    },
+    {
+      "start": 27.34,
+      "end": 27.58,
+      "word": "pieno"
+    },
+    {
+      "start": 27.58,
+      "end": 27.68,
+      "word": "di"
+    },
+    {
+      "start": 27.68,
+      "end": 27.94,
+      "word": "parchi"
+    },
+    {
+      "start": 27.94,
+      "end": 28.08,
+      "word": "di"
+    },
+    {
+      "start": 28.08,
+      "end": 28.26,
+      "word": "Disney"
+    },
+    {
+      "start": 28.26,
+      "end": 28.4,
+      "word": "e"
+    },
+    {
+      "start": 28.4,
+      "end": 28.8,
+      "word": "Universal."
+    },
+    {
+      "start": 28.8,
+      "end": 29.04,
+      "word": "Ma"
+    },
+    {
+      "start": 29.04,
+      "end": 29.26,
+      "word": "questo"
+    },
+    {
+      "start": 29.26,
+      "end": 29.34,
+      "word": "è"
+    },
+    {
+      "start": 29.34,
+      "end": 29.4,
+      "word": "il"
+    },
+    {
+      "start": 29.4,
+      "end": 29.5,
+      "word": "più"
+    },
+    {
+      "start": 29.5,
+      "end": 29.8,
+      "word": "nuovo"
+    },
+    {
+      "start": 29.8,
+      "end": 30.04,
+      "word": "e"
+    },
+    {
+      "start": 30.04,
+      "end": 30.1,
+      "word": "il"
+    },
+    {
+      "start": 30.1,
+      "end": 30.22,
+      "word": "più"
+    },
+    {
+      "start": 30.22,
+      "end": 30.6,
+      "word": "costoso"
+    },
+    {
+      "start": 30.6,
+      "end": 30.92,
+      "word": "mai"
+    },
+    {
+      "start": 30.92,
+      "end": 31.5,
+      "word": "realizzato"
+    },
+    {
+      "start": 31.5,
+      "end": 31.66,
+      "word": "ed"
+    },
+    {
+      "start": 31.66,
+      "end": 31.92,
+      "word": "infatti"
+    },
+    {
+      "start": 31.92,
+      "end": 32.18,
+      "word": "avevo"
+    },
+    {
+      "start": 32.18,
+      "end": 32.42,
+      "word": "crosto"
+    },
+    {
+      "start": 32.42,
+      "end": 33.0,
+      "word": "aspettative."
+    },
+    {
+      "start": 33.12,
+      "end": 33.22,
+      "word": "Una"
+    },
+    {
+      "start": 33.22,
+      "end": 33.36,
+      "word": "volta"
+    },
+    {
+      "start": 33.36,
+      "end": 33.64,
+      "word": "tratti"
+    },
+    {
+      "start": 33.64,
+      "end": 33.82,
+      "word": "nel"
+    },
+    {
+      "start": 33.82,
+      "end": 34.08,
+      "word": "parco"
+    },
+    {
+      "start": 34.08,
+      "end": 34.2,
+      "word": "abbiamo"
+    },
+    {
+      "start": 34.2,
+      "end": 34.4,
+      "word": "detto,"
+    },
+    {
+      "start": 34.48,
+      "end": 34.62,
+      "word": "dai,"
+    },
+    {
+      "start": 34.7,
+      "end": 34.92,
+      "word": "iniziamo"
+    },
+    {
+      "start": 34.92,
+      "end": 35.24,
+      "word": "subito"
+    },
+    {
+      "start": 35.24,
+      "end": 35.4,
+      "word": "dall"
+    },
+    {
+      "start": 35.4,
+      "end": 35.76,
+      "word": "'attrazione"
+    },
+    {
+      "start": 35.76,
+      "end": 35.9,
+      "word": "di"
+    },
+    {
+      "start": 35.9,
+      "end": 36.0,
+      "word": "Harry"
+    },
+    {
+      "start": 36.0,
+      "end": 36.36,
+      "word": "Potter."
+    },
+    {
+      "start": 36.5,
+      "end": 36.54,
+      "word": "E"
+    },
+    {
+      "start": 36.54,
+      "end": 36.68,
+      "word": "dopo"
+    },
+    {
+      "start": 36.68,
+      "end": 36.82,
+      "word": "aver"
+    },
+    {
+      "start": 36.82,
+      "end": 37.02,
+      "word": "fatto"
+    },
+    {
+      "start": 37.02,
+      "end": 37.54,
+      "word": "davvero"
+    },
+    {
+      "start": 37.54,
+      "end": 37.96,
+      "word": "ore"
+    },
+    {
+      "start": 37.96,
+      "end": 38.1,
+      "word": "e"
+    },
+    {
+      "start": 38.1,
+      "end": 38.24,
+      "word": "ore"
+    },
+    {
+      "start": 38.24,
+      "end": 38.4,
+      "word": "di"
+    },
+    {
+      "start": 38.4,
+      "end": 38.74,
+      "word": "fila,"
+    },
+    {
+      "start": 38.8,
+      "end": 38.86,
+      "word": "che"
+    },
+    {
+      "start": 38.86,
+      "end": 39.06,
+      "word": "però"
+    },
+    {
+      "start": 39.06,
+      "end": 39.26,
+      "word": "almeno"
+    },
+    {
+      "start": 39.26,
+      "end": 39.46,
+      "word": "abbiamo"
+    },
+    {
+      "start": 39.46,
+      "end": 39.72,
+      "word": "fatto"
+    },
+    {
+      "start": 39.72,
+      "end": 39.94,
+      "word": "in"
+    },
+    {
+      "start": 39.94,
+      "end": 40.24,
+      "word": "mezzo"
+    },
+    {
+      "start": 40.24,
+      "end": 40.7,
+      "word": "letteralmente"
+    },
+    {
+      "start": 40.7,
+      "end": 40.9,
+      "word": "al"
+    },
+    {
+      "start": 40.9,
+      "end": 41.16,
+      "word": "mondo"
+    },
+    {
+      "start": 41.16,
+      "end": 41.36,
+      "word": "di"
+    },
+    {
+      "start": 41.36,
+      "end": 41.44,
+      "word": "Harry"
+    },
+    {
+      "start": 41.44,
+      "end": 41.9,
+      "word": "Potter,"
+    },
+    {
+      "start": 42.02,
+      "end": 42.28,
+      "word": "infatti"
+    },
+    {
+      "start": 42.28,
+      "end": 42.38,
+      "word": "era"
+    },
+    {
+      "start": 42.38,
+      "end": 42.66,
+      "word": "tutto"
+    },
+    {
+      "start": 42.66,
+      "end": 42.9,
+      "word": "ben"
+    },
+    {
+      "start": 42.9,
+      "end": 43.56,
+      "word": "tematizzato,"
+    },
+    {
+      "start": 43.68,
+      "end": 43.82,
+      "word": "siamo"
+    },
+    {
+      "start": 43.82,
+      "end": 44.1,
+      "word": "arrivati"
+    },
+    {
+      "start": 44.1,
+      "end": 44.22,
+      "word": "all"
+    },
+    {
+      "start": 44.22,
+      "end": 44.68,
+      "word": "'attrazione"
+    },
+    {
+      "start": 44.68,
+      "end": 44.84,
+      "word": "che"
+    },
+    {
+      "start": 44.84,
+      "end": 45.16,
+      "word": "tramite"
+    },
+    {
+      "start": 45.16,
+      "end": 45.4,
+      "word": "degli"
+    },
+    {
+      "start": 45.4,
+      "end": 45.78,
+      "word": "schermi"
+    },
+    {
+      "start": 45.78,
+      "end": 45.98,
+      "word": "super"
+    },
+    {
+      "start": 45.98,
+      "end": 46.2,
+      "word": "mega"
+    },
+    {
+      "start": 46.2,
+      "end": 46.94,
+      "word": "realistici,"
+    },
+    {
+      "start": 46.98,
+      "end": 47.18,
+      "word": "vite"
+    },
+    {
+      "start": 47.18,
+      "end": 47.34,
+      "word": "le"
+    },
+    {
+      "start": 47.34,
+      "end": 47.84,
+      "word": "trasporta"
+    },
+    {
+      "start": 47.84,
+      "end": 48.16,
+      "word": "pieno"
+    },
+    {
+      "start": 48.16,
+      "end": 48.28,
+      "word": "nel"
+    },
+    {
+      "start": 48.28,
+      "end": 48.4,
+      "word": "mondo"
+    },
+    {
+      "start": 48.4,
+      "end": 48.56,
+      "word": "di"
+    },
+    {
+      "start": 48.56,
+      "end": 48.66,
+      "word": "Harry"
+    },
+    {
+      "start": 48.66,
+      "end": 48.98,
+      "word": "Potter"
+    },
+    {
+      "start": 48.98,
+      "end": 49.08,
+      "word": "e"
+    },
+    {
+      "start": 49.08,
+      "end": 49.24,
+      "word": "quindi,"
+    },
+    {
+      "start": 49.36,
+      "end": 49.8,
+      "word": "direi"
+    },
+    {
+      "start": 49.8,
+      "end": 49.9,
+      "word": "che"
+    },
+    {
+      "start": 49.9,
+      "end": 50.16,
+      "word": "le"
+    },
+    {
+      "start": 50.16,
+      "end": 50.34,
+      "word": "tre"
+    },
+    {
+      "start": 50.34,
+      "end": 50.5,
+      "word": "ore"
+    },
+    {
+      "start": 50.5,
+      "end": 50.66,
+      "word": "di"
+    },
+    {
+      "start": 50.66,
+      "end": 50.88,
+      "word": "coda"
+    },
+    {
+      "start": 50.88,
+      "end": 51.04,
+      "word": "ne"
+    },
+    {
+      "start": 51.04,
+      "end": 51.2,
+      "word": "sono"
+    },
+    {
+      "start": 51.2,
+      "end": 51.5,
+      "word": "massero"
+    },
+    {
+      "start": 51.5,
+      "end": 51.6,
+      "word": "a"
+    },
+    {
+      "start": 51.6,
+      "end": 51.74,
+      "word": "pena."
+    },
+    {
+      "start": 51.86,
+      "end": 51.94,
+      "word": "Sì"
+    },
+    {
+      "start": 51.94,
+      "end": 52.22,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 52.3,
+      "end": 52.4,
+      "word": "vi"
+    },
+    {
+      "start": 52.4,
+      "end": 52.6,
+      "word": "assicuro"
+    },
+    {
+      "start": 52.6,
+      "end": 52.74,
+      "word": "che"
+    },
+    {
+      "start": 52.74,
+      "end": 52.94,
+      "word": "questa"
+    },
+    {
+      "start": 52.94,
+      "end": 53.38,
+      "word": "attrazione"
+    },
+    {
+      "start": 53.38,
+      "end": 53.5,
+      "word": "è"
+    },
+    {
+      "start": 53.5,
+      "end": 53.6,
+      "word": "stata"
+    },
+    {
+      "start": 53.6,
+      "end": 54.06,
+      "word": "veramente,"
+    },
+    {
+      "start": 54.2,
+      "end": 54.44,
+      "word": "veramente"
+    },
+    {
+      "start": 54.44,
+      "end": 54.98,
+      "word": "figa."
+    },
+    {
+      "start": 55.06,
+      "end": 55.08,
+      "word": "E"
+    },
+    {
+      "start": 55.08,
+      "end": 55.2,
+      "word": "alla"
+    },
+    {
+      "start": 55.2,
+      "end": 55.44,
+      "word": "fine"
+    },
+    {
+      "start": 55.44,
+      "end": 55.64,
+      "word": "la"
+    },
+    {
+      "start": 55.64,
+      "end": 55.9,
+      "word": "coda"
+    },
+    {
+      "start": 55.9,
+      "end": 56.12,
+      "word": "fa"
+    },
+    {
+      "start": 56.12,
+      "end": 56.34,
+      "word": "parte"
+    },
+    {
+      "start": 56.34,
+      "end": 56.52,
+      "word": "dell"
+    },
+    {
+      "start": 56.52,
+      "end": 57.12,
+      "word": "'attrazione."
+    },
+    {
+      "start": 57.12,
+      "end": 57.58,
+      "word": "Dopodiché,"
+    },
+    {
+      "start": 57.66,
+      "end": 57.78,
+      "word": "già"
+    },
+    {
+      "start": 57.78,
+      "end": 57.86,
+      "word": "che"
+    },
+    {
+      "start": 57.86,
+      "end": 57.96,
+      "word": "ci"
+    },
+    {
+      "start": 57.96,
+      "end": 58.38,
+      "word": "trovavamo"
+    },
+    {
+      "start": 58.38,
+      "end": 58.46,
+      "word": "in"
+    },
+    {
+      "start": 58.46,
+      "end": 58.7,
+      "word": "questo"
+    },
+    {
+      "start": 58.7,
+      "end": 58.94,
+      "word": "mondo,"
+    },
+    {
+      "start": 59.02,
+      "end": 59.14,
+      "word": "siamo"
+    },
+    {
+      "start": 59.14,
+      "end": 59.36,
+      "word": "andati"
+    },
+    {
+      "start": 59.36,
+      "end": 59.46,
+      "word": "a"
+    },
+    {
+      "start": 59.46,
+      "end": 59.66,
+      "word": "vedere"
+    },
+    {
+      "start": 59.66,
+      "end": 59.9,
+      "word": "lo"
+    },
+    {
+      "start": 59.9,
+      "end": 60.42,
+      "word": "spettacolo"
+    },
+    {
+      "start": 60.42,
+      "end": 60.58,
+      "word": "di"
+    },
+    {
+      "start": 60.58,
+      "end": 60.84,
+      "word": "animali"
+    },
+    {
+      "start": 60.84,
+      "end": 61.6,
+      "word": "fantastici."
+    },
+    {
+      "start": 61.72,
+      "end": 61.92,
+      "word": "Anche"
+    },
+    {
+      "start": 61.92,
+      "end": 62.06,
+      "word": "lui,"
+    },
+    {
+      "start": 62.16,
+      "end": 62.32,
+      "word": "molto"
+    },
+    {
+      "start": 62.32,
+      "end": 62.52,
+      "word": "molto"
+    },
+    {
+      "start": 62.52,
+      "end": 62.9,
+      "word": "carino,"
+    },
+    {
+      "start": 62.96,
+      "end": 63.06,
+      "word": "si"
+    },
+    {
+      "start": 63.06,
+      "end": 63.3,
+      "word": "sieta"
+    },
+    {
+      "start": 63.3,
+      "end": 63.44,
+      "word": "in"
+    },
+    {
+      "start": 63.44,
+      "end": 63.86,
+      "word": "Universal,"
+    },
+    {
+      "start": 64.0,
+      "end": 64.14,
+      "word": "non"
+    },
+    {
+      "start": 64.14,
+      "end": 64.4,
+      "word": "potete"
+    },
+    {
+      "start": 64.4,
+      "end": 64.72,
+      "word": "perdere"
+    },
+    {
+      "start": 64.72,
+      "end": 65.1,
+      "word": "ovviamente"
+    },
+    {
+      "start": 65.1,
+      "end": 65.28,
+      "word": "gli"
+    },
+    {
+      "start": 65.28,
+      "end": 65.88,
+      "word": "spettacoli."
+    },
+    {
+      "start": 66.04,
+      "end": 66.1,
+      "word": "Che"
+    },
+    {
+      "start": 66.1,
+      "end": 66.32,
+      "word": "direi"
+    },
+    {
+      "start": 66.32,
+      "end": 66.38,
+      "word": "che"
+    },
+    {
+      "start": 66.38,
+      "end": 66.58,
+      "word": "sono"
+    },
+    {
+      "start": 66.58,
+      "end": 66.86,
+      "word": "sempre"
+    },
+    {
+      "start": 66.86,
+      "end": 67.06,
+      "word": "ben"
+    },
+    {
+      "start": 67.06,
+      "end": 67.34,
+      "word": "fatti."
+    },
+    {
+      "start": 67.46,
+      "end": 67.58,
+      "word": "Dal"
+    },
+    {
+      "start": 67.58,
+      "end": 67.8,
+      "word": "mondo"
+    },
+    {
+      "start": 67.8,
+      "end": 67.96,
+      "word": "di"
+    },
+    {
+      "start": 67.96,
+      "end": 68.04,
+      "word": "Harry"
+    },
+    {
+      "start": 68.04,
+      "end": 68.28,
+      "word": "Potter"
+    },
+    {
+      "start": 68.28,
+      "end": 68.5,
+      "word": "siamo"
+    },
+    {
+      "start": 68.5,
+      "end": 68.66,
+      "word": "poi"
+    },
+    {
+      "start": 68.66,
+      "end": 69.0,
+      "word": "passati"
+    },
+    {
+      "start": 69.0,
+      "end": 69.12,
+      "word": "al"
+    },
+    {
+      "start": 69.12,
+      "end": 69.34,
+      "word": "Dark"
+    },
+    {
+      "start": 69.34,
+      "end": 69.76,
+      "word": "Universe,"
+    },
+    {
+      "start": 69.94,
+      "end": 69.98,
+      "word": "che"
+    },
+    {
+      "start": 69.98,
+      "end": 70.04,
+      "word": "è"
+    },
+    {
+      "start": 70.04,
+      "end": 70.28,
+      "word": "praticamente"
+    },
+    {
+      "start": 70.28,
+      "end": 70.56,
+      "word": "il"
+    },
+    {
+      "start": 70.56,
+      "end": 70.7,
+      "word": "mondo"
+    },
+    {
+      "start": 70.7,
+      "end": 71.16,
+      "word": "dedicato"
+    },
+    {
+      "start": 71.16,
+      "end": 71.3,
+      "word": "ai"
+    },
+    {
+      "start": 71.3,
+      "end": 71.62,
+      "word": "mostri"
+    },
+    {
+      "start": 71.62,
+      "end": 72.18,
+      "word": "classici"
+    },
+    {
+      "start": 72.18,
+      "end": 72.32,
+      "word": "come"
+    },
+    {
+      "start": 72.32,
+      "end": 72.64,
+      "word": "Dracula,"
+    },
+    {
+      "start": 72.98,
+      "end": 73.62,
+      "word": "Frankenstein,"
+    },
+    {
+      "start": 73.7,
+      "end": 73.74,
+      "word": "ed"
+    },
+    {
+      "start": 73.74,
+      "end": 73.86,
+      "word": "anche"
+    },
+    {
+      "start": 73.86,
+      "end": 74.12,
+      "word": "qui"
+    },
+    {
+      "start": 74.12,
+      "end": 74.32,
+      "word": "dopo"
+    },
+    {
+      "start": 74.32,
+      "end": 74.5,
+      "word": "aver"
+    },
+    {
+      "start": 74.5,
+      "end": 74.72,
+      "word": "fatto"
+    },
+    {
+      "start": 74.72,
+      "end": 74.9,
+      "word": "un"
+    },
+    {
+      "start": 74.9,
+      "end": 74.98,
+      "word": "bel"
+    },
+    {
+      "start": 74.98,
+      "end": 75.12,
+      "word": "po'"
+    },
+    {
+      "start": 75.2,
+      "end": 75.26,
+      "word": "di"
+    },
+    {
+      "start": 75.26,
+      "end": 75.56,
+      "word": "coda,"
+    },
+    {
+      "start": 75.64,
+      "end": 75.88,
+      "word": "comunque"
+    },
+    {
+      "start": 75.88,
+      "end": 76.2,
+      "word": "ben"
+    },
+    {
+      "start": 76.2,
+      "end": 77.0,
+      "word": "tematizzata,"
+    },
+    {
+      "start": 77.18,
+      "end": 77.34,
+      "word": "siamo"
+    },
+    {
+      "start": 77.34,
+      "end": 77.62,
+      "word": "arrivati"
+    },
+    {
+      "start": 77.62,
+      "end": 77.88,
+      "word": "praticamente"
+    },
+    {
+      "start": 77.88,
+      "end": 78.3,
+      "word": "alla"
+    },
+    {
+      "start": 78.3,
+      "end": 78.9,
+      "word": "montagna"
+    },
+    {
+      "start": 78.9,
+      "end": 79.32,
+      "word": "russa,"
+    },
+    {
+      "start": 79.46,
+      "end": 79.52,
+      "word": "e"
+    },
+    {
+      "start": 79.52,
+      "end": 79.56,
+      "word": "è"
+    },
+    {
+      "start": 79.56,
+      "end": 79.66,
+      "word": "stata"
+    },
+    {
+      "start": 79.66,
+      "end": 79.94,
+      "word": "molto"
+    },
+    {
+      "start": 79.94,
+      "end": 80.16,
+      "word": "molto"
+    },
+    {
+      "start": 80.16,
+      "end": 80.48,
+      "word": "figa"
+    },
+    {
+      "start": 80.48,
+      "end": 80.7,
+      "word": "anche"
+    },
+    {
+      "start": 80.7,
+      "end": 80.78,
+      "word": "a"
+    },
+    {
+      "start": 80.78,
+      "end": 81.1,
+      "word": "giudicare"
+    },
+    {
+      "start": 81.1,
+      "end": 81.28,
+      "word": "dalla"
+    },
+    {
+      "start": 81.28,
+      "end": 81.48,
+      "word": "mia"
+    },
+    {
+      "start": 81.48,
+      "end": 81.86,
+      "word": "faccia"
+    },
+    {
+      "start": 81.86,
+      "end": 82.0,
+      "word": "alla"
+    },
+    {
+      "start": 82.0,
+      "end": 82.22,
+      "word": "fine."
+    },
+    {
+      "start": 82.38,
+      "end": 82.72,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 82.72,
+      "end": 83.02,
+      "word": "usciti"
+    },
+    {
+      "start": 83.02,
+      "end": 83.22,
+      "word": "dal"
+    },
+    {
+      "start": 83.22,
+      "end": 83.48,
+      "word": "Dark"
+    },
+    {
+      "start": 83.48,
+      "end": 83.9,
+      "word": "Universe,"
+    },
+    {
+      "start": 84.22,
+      "end": 84.3,
+      "word": "ho"
+    },
+    {
+      "start": 84.3,
+      "end": 84.5,
+      "word": "dovuto"
+    },
+    {
+      "start": 84.5,
+      "end": 84.9,
+      "word": "provare"
+    },
+    {
+      "start": 84.9,
+      "end": 85.04,
+      "word": "la"
+    },
+    {
+      "start": 85.04,
+      "end": 85.52,
+      "word": "Stardust"
+    },
+    {
+      "start": 85.52,
+      "end": 85.92,
+      "word": "Racer,"
+    },
+    {
+      "start": 85.92,
+      "end": 86.26,
+      "word": "che"
+    },
+    {
+      "start": 86.26,
+      "end": 86.36,
+      "word": "è"
+    },
+    {
+      "start": 86.36,
+      "end": 86.64,
+      "word": "senza"
+    },
+    {
+      "start": 86.64,
+      "end": 87.14,
+      "word": "dubbio"
+    },
+    {
+      "start": 87.14,
+      "end": 87.26,
+      "word": "la"
+    },
+    {
+      "start": 87.26,
+      "end": 87.5,
+      "word": "montagna"
+    },
+    {
+      "start": 87.5,
+      "end": 87.8,
+      "word": "russa"
+    },
+    {
+      "start": 87.8,
+      "end": 88.0,
+      "word": "più"
+    },
+    {
+      "start": 88.0,
+      "end": 88.42,
+      "word": "figa"
+    },
+    {
+      "start": 88.42,
+      "end": 88.56,
+      "word": "di"
+    },
+    {
+      "start": 88.56,
+      "end": 88.72,
+      "word": "tutto"
+    },
+    {
+      "start": 88.72,
+      "end": 88.9,
+      "word": "il"
+    },
+    {
+      "start": 88.9,
+      "end": 89.32,
+      "word": "parco,"
+    },
+    {
+      "start": 89.38,
+      "end": 89.46,
+      "word": "e"
+    },
+    {
+      "start": 89.46,
+      "end": 89.58,
+      "word": "di"
+    },
+    {
+      "start": 89.58,
+      "end": 89.78,
+      "word": "solito"
+    },
+    {
+      "start": 89.78,
+      "end": 89.98,
+      "word": "non"
+    },
+    {
+      "start": 89.98,
+      "end": 90.1,
+      "word": "andiamo"
+    },
+    {
+      "start": 90.1,
+      "end": 90.28,
+      "word": "anche"
+    },
+    {
+      "start": 90.28,
+      "end": 90.54,
+      "word": "troppo"
+    },
+    {
+      "start": 90.54,
+      "end": 90.64,
+      "word": "a"
+    },
+    {
+      "start": 90.64,
+      "end": 90.8,
+      "word": "coda."
+    },
+    {
+      "start": 90.88,
+      "end": 90.9,
+      "word": "Quindi"
+    },
+    {
+      "start": 90.9,
+      "end": 91.08,
+      "word": "questa"
+    },
+    {
+      "start": 91.08,
+      "end": 91.22,
+      "word": "è"
+    },
+    {
+      "start": 91.22,
+      "end": 91.68,
+      "word": "assolutamente"
+    },
+    {
+      "start": 91.68,
+      "end": 92.38,
+      "word": "consigliata."
+    },
+    {
+      "start": 92.66,
+      "end": 93.02,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 93.02,
+      "end": 93.18,
+      "word": "si"
+    },
+    {
+      "start": 93.18,
+      "end": 93.4,
+      "word": "passa"
+    },
+    {
+      "start": 93.4,
+      "end": 93.68,
+      "word": "al"
+    },
+    {
+      "start": 93.68,
+      "end": 93.82,
+      "word": "mondo"
+    },
+    {
+      "start": 93.82,
+      "end": 94.1,
+      "word": "di"
+    },
+    {
+      "start": 94.1,
+      "end": 94.28,
+      "word": "Auto"
+    },
+    {
+      "start": 94.28,
+      "end": 94.56,
+      "word": "Train"
+    },
+    {
+      "start": 94.56,
+      "end": 94.74,
+      "word": "Your"
+    },
+    {
+      "start": 94.74,
+      "end": 95.14,
+      "word": "Dragon."
+    },
+    {
+      "start": 95.38,
+      "end": 95.46,
+      "word": "Sì"
+    },
+    {
+      "start": 95.46,
+      "end": 95.72,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 95.82,
+      "end": 95.88,
+      "word": "un"
+    },
+    {
+      "start": 95.88,
+      "end": 96.12,
+      "word": "intero"
+    },
+    {
+      "start": 96.12,
+      "end": 96.42,
+      "word": "mondo"
+    },
+    {
+      "start": 96.42,
+      "end": 97.0,
+      "word": "dedicato"
+    },
+    {
+      "start": 97.0,
+      "end": 97.12,
+      "word": "a"
+    },
+    {
+      "start": 97.12,
+      "end": 97.26,
+      "word": "Dragon"
+    },
+    {
+      "start": 97.26,
+      "end": 97.72,
+      "word": "Trainer,"
+    },
+    {
+      "start": 97.9,
+      "end": 98.08,
+      "word": "in"
+    },
+    {
+      "start": 98.08,
+      "end": 98.08,
+      "word": "cui"
+    },
+    {
+      "start": 98.08,
+      "end": 98.3,
+      "word": "abbiamo"
+    },
+    {
+      "start": 98.3,
+      "end": 98.48,
+      "word": "anche"
+    },
+    {
+      "start": 98.48,
+      "end": 98.66,
+      "word": "qua"
+    },
+    {
+      "start": 98.66,
+      "end": 98.92,
+      "word": "fatto"
+    },
+    {
+      "start": 98.92,
+      "end": 99.14,
+      "word": "l"
+    },
+    {
+      "start": 99.14,
+      "end": 99.22,
+      "word": "'allora"
+    },
+    {
+      "start": 99.22,
+      "end": 99.58,
+      "word": "attrazione"
+    },
+    {
+      "start": 99.58,
+      "end": 100.16,
+      "word": "principale,"
+    },
+    {
+      "start": 100.26,
+      "end": 100.28,
+      "word": "e"
+    },
+    {
+      "start": 100.28,
+      "end": 100.48,
+      "word": "visto"
+    },
+    {
+      "start": 100.48,
+      "end": 100.6,
+      "word": "lo"
+    },
+    {
+      "start": 100.6,
+      "end": 101.26,
+      "word": "spettacolo,"
+    },
+    {
+      "start": 101.34,
+      "end": 101.66,
+      "word": "molto"
+    },
+    {
+      "start": 101.66,
+      "end": 102.08,
+      "word": "carino,"
+    },
+    {
+      "start": 102.16,
+      "end": 102.26,
+      "word": "con"
+    },
+    {
+      "start": 102.26,
+      "end": 102.52,
+      "word": "ovviamente"
+    },
+    {
+      "start": 102.52,
+      "end": 102.82,
+      "word": "tutte"
+    },
+    {
+      "start": 102.82,
+      "end": 103.0,
+      "word": "le"
+    },
+    {
+      "start": 103.0,
+      "end": 103.3,
+      "word": "colonne"
+    },
+    {
+      "start": 103.3,
+      "end": 103.58,
+      "word": "sonore"
+    },
+    {
+      "start": 103.58,
+      "end": 103.8,
+      "word": "dei"
+    },
+    {
+      "start": 103.8,
+      "end": 104.12,
+      "word": "film,"
+    },
+    {
+      "start": 104.24,
+      "end": 104.26,
+      "word": "e"
+    },
+    {
+      "start": 104.26,
+      "end": 104.46,
+      "word": "quindi"
+    },
+    {
+      "start": 104.46,
+      "end": 104.66,
+      "word": "molto"
+    },
+    {
+      "start": 104.66,
+      "end": 105.32,
+      "word": "emozionante."
+    },
+    {
+      "start": 105.42,
+      "end": 105.68,
+      "word": "Ultimo"
+    },
+    {
+      "start": 105.68,
+      "end": 105.96,
+      "word": "mondo"
+    },
+    {
+      "start": 105.96,
+      "end": 106.1,
+      "word": "che"
+    },
+    {
+      "start": 106.1,
+      "end": 106.2,
+      "word": "non"
+    },
+    {
+      "start": 106.2,
+      "end": 106.5,
+      "word": "potevamo"
+    },
+    {
+      "start": 106.5,
+      "end": 106.64,
+      "word": "non"
+    },
+    {
+      "start": 106.64,
+      "end": 107.1,
+      "word": "visitare,"
+    },
+    {
+      "start": 107.2,
+      "end": 107.24,
+      "word": "il"
+    },
+    {
+      "start": 107.24,
+      "end": 107.38,
+      "word": "mondo"
+    },
+    {
+      "start": 107.38,
+      "end": 107.62,
+      "word": "del"
+    },
+    {
+      "start": 107.62,
+      "end": 107.84,
+      "word": "Super"
+    },
+    {
+      "start": 107.84,
+      "end": 108.14,
+      "word": "Nintendo"
+    },
+    {
+      "start": 108.14,
+      "end": 108.68,
+      "word": "World,"
+    },
+    {
+      "start": 108.76,
+      "end": 108.9,
+      "word": "anche"
+    },
+    {
+      "start": 108.9,
+      "end": 109.08,
+      "word": "se"
+    },
+    {
+      "start": 109.08,
+      "end": 109.18,
+      "word": "lo"
+    },
+    {
+      "start": 109.18,
+      "end": 109.36,
+      "word": "avevo"
+    },
+    {
+      "start": 109.36,
+      "end": 109.5,
+      "word": "già"
+    },
+    {
+      "start": 109.5,
+      "end": 109.66,
+      "word": "visto"
+    },
+    {
+      "start": 109.66,
+      "end": 109.8,
+      "word": "all"
+    },
+    {
+      "start": 109.8,
+      "end": 110.22,
+      "word": "'Universal"
+    },
+    {
+      "start": 110.22,
+      "end": 110.5,
+      "word": "Studios"
+    },
+    {
+      "start": 110.5,
+      "end": 110.74,
+      "word": "di"
+    },
+    {
+      "start": 110.74,
+      "end": 111.04,
+      "word": "Hollywood,"
+    },
+    {
+      "start": 111.2,
+      "end": 111.24,
+      "word": "a"
+    },
+    {
+      "start": 111.24,
+      "end": 111.34,
+      "word": "Los"
+    },
+    {
+      "start": 111.34,
+      "end": 111.72,
+      "word": "Angeles,"
+    },
+    {
+      "start": 111.84,
+      "end": 111.9,
+      "word": "ed"
+    },
+    {
+      "start": 111.9,
+      "end": 111.96,
+      "word": "è"
+    },
+    {
+      "start": 111.96,
+      "end": 112.04,
+      "word": "per"
+    },
+    {
+      "start": 112.04,
+      "end": 112.24,
+      "word": "questo"
+    },
+    {
+      "start": 112.24,
+      "end": 112.38,
+      "word": "che"
+    },
+    {
+      "start": 112.38,
+      "end": 112.5,
+      "word": "siamo"
+    },
+    {
+      "start": 112.5,
+      "end": 112.72,
+      "word": "andati"
+    },
+    {
+      "start": 112.72,
+      "end": 112.78,
+      "word": "a"
+    },
+    {
+      "start": 112.78,
+      "end": 112.88,
+      "word": "fare"
+    },
+    {
+      "start": 112.88,
+      "end": 113.0,
+      "word": "l"
+    },
+    {
+      "start": 113.0,
+      "end": 113.34,
+      "word": "'attrazione"
+    },
+    {
+      "start": 113.34,
+      "end": 113.52,
+      "word": "di"
+    },
+    {
+      "start": 113.52,
+      "end": 113.7,
+      "word": "Donkey"
+    },
+    {
+      "start": 113.7,
+      "end": 114.0,
+      "word": "Kong."
+    },
+    {
+      "start": 114.0,
+      "end": 114.44,
+      "word": "Uffine,"
+    },
+    {
+      "start": 114.56,
+      "end": 114.82,
+      "word": "ultimo"
+    },
+    {
+      "start": 114.82,
+      "end": 115.06,
+      "word": "giro"
+    },
+    {
+      "start": 115.06,
+      "end": 115.22,
+      "word": "nel"
+    },
+    {
+      "start": 115.22,
+      "end": 115.36,
+      "word": "Dark"
+    },
+    {
+      "start": 115.36,
+      "end": 115.72,
+      "word": "Universe,"
+    },
+    {
+      "start": 115.86,
+      "end": 116.0,
+      "word": "prima"
+    },
+    {
+      "start": 116.0,
+      "end": 116.14,
+      "word": "che"
+    },
+    {
+      "start": 116.14,
+      "end": 116.26,
+      "word": "più"
+    },
+    {
+      "start": 116.26,
+      "end": 116.42,
+      "word": "dal"
+    },
+    {
+      "start": 116.42,
+      "end": 116.86,
+      "word": "parco,"
+    },
+    {
+      "start": 116.92,
+      "end": 116.94,
+      "word": "e"
+    },
+    {
+      "start": 116.94,
+      "end": 117.12,
+      "word": "dopo"
+    },
+    {
+      "start": 117.12,
+      "end": 117.26,
+      "word": "l"
+    },
+    {
+      "start": 117.26,
+      "end": 117.46,
+      "word": "'intera"
+    },
+    {
+      "start": 117.46,
+      "end": 117.9,
+      "word": "giornata"
+    },
+    {
+      "start": 117.9,
+      "end": 118.1,
+      "word": "di"
+    },
+    {
+      "start": 118.1,
+      "end": 118.38,
+      "word": "file,"
+    },
+    {
+      "start": 118.56,
+      "end": 118.78,
+      "word": "siamo"
+    },
+    {
+      "start": 118.78,
+      "end": 119.12,
+      "word": "finalmente"
+    },
+    {
+      "start": 119.12,
+      "end": 119.62,
+      "word": "usciti,"
+    },
+    {
+      "start": 119.7,
+      "end": 119.96,
+      "word": "comunque"
+    },
+    {
+      "start": 119.96,
+      "end": 120.22,
+      "word": "sono"
+    },
+    {
+      "start": 120.22,
+      "end": 120.68,
+      "word": "disfatti,"
+    },
+    {
+      "start": 120.74,
+      "end": 120.88,
+      "word": "anche"
+    },
+    {
+      "start": 120.88,
+      "end": 121.0,
+      "word": "se"
+    },
+    {
+      "start": 121.0,
+      "end": 121.12,
+      "word": "mi"
+    },
+    {
+      "start": 121.12,
+      "end": 121.48,
+      "word": "aspettavo"
+    },
+    {
+      "start": 121.48,
+      "end": 121.6,
+      "word": "un"
+    },
+    {
+      "start": 121.6,
+      "end": 121.7,
+      "word": "po'"
+    },
+    {
+      "start": 121.78,
+      "end": 121.8,
+      "word": "di"
+    },
+    {
+      "start": 121.8,
+      "end": 122.0,
+      "word": "più."
+    },
+    {
+      "start": 122.12,
+      "end": 122.16,
+      "word": "E"
+    },
+    {
+      "start": 122.16,
+      "end": 122.32,
+      "word": "ora"
+    },
+    {
+      "start": 122.32,
+      "end": 122.7,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 122.8,
+      "end": 122.84,
+      "word": "per"
+    },
+    {
+      "start": 122.84,
+      "end": 123.22,
+      "word": "recuperare"
+    },
+    {
+      "start": 123.22,
+      "end": 123.42,
+      "word": "tutte"
+    },
+    {
+      "start": 123.42,
+      "end": 123.6,
+      "word": "le"
+    },
+    {
+      "start": 123.6,
+      "end": 123.96,
+      "word": "energie"
+    },
+    {
+      "start": 123.96,
+      "end": 124.1,
+      "word": "che"
+    },
+    {
+      "start": 124.1,
+      "end": 124.26,
+      "word": "abbiamo"
+    },
+    {
+      "start": 124.26,
+      "end": 124.54,
+      "word": "speso"
+    },
+    {
+      "start": 124.54,
+      "end": 124.66,
+      "word": "in"
+    },
+    {
+      "start": 124.66,
+      "end": 124.86,
+      "word": "questa"
+    },
+    {
+      "start": 124.86,
+      "end": 125.32,
+      "word": "giornata,"
+    },
+    {
+      "start": 125.4,
+      "end": 125.6,
+      "word": "dovevo"
+    },
+    {
+      "start": 125.6,
+      "end": 125.74,
+      "word": "per"
+    },
+    {
+      "start": 125.74,
+      "end": 126.06,
+      "word": "forza"
+    },
+    {
+      "start": 126.06,
+      "end": 126.18,
+      "word": "andare"
+    },
+    {
+      "start": 126.18,
+      "end": 126.3,
+      "word": "a"
+    },
+    {
+      "start": 126.3,
+      "end": 126.66,
+      "word": "provare"
+    },
+    {
+      "start": 126.66,
+      "end": 126.78,
+      "word": "il"
+    },
+    {
+      "start": 126.78,
+      "end": 126.96,
+      "word": "McDonald"
+    },
+    {
+      "start": 126.96,
+      "end": 127.36,
+      "word": "più"
+    },
+    {
+      "start": 127.36,
+      "end": 127.62,
+      "word": "grande"
+    },
+    {
+      "start": 127.62,
+      "end": 127.82,
+      "word": "del"
+    },
+    {
+      "start": 127.82,
+      "end": 128.02,
+      "word": "mondo."
+    },
+    {
+      "start": 128.16,
+      "end": 128.4,
+      "word": "McDonald"
+    },
+    {
+      "start": 128.4,
+      "end": 128.66,
+      "word": "che"
+    },
+    {
+      "start": 128.66,
+      "end": 128.86,
+      "word": "come"
+    },
+    {
+      "start": 128.86,
+      "end": 129.14,
+      "word": "potete"
+    },
+    {
+      "start": 129.14,
+      "end": 129.4,
+      "word": "vedere"
+    },
+    {
+      "start": 129.4,
+      "end": 129.62,
+      "word": "fa"
+    },
+    {
+      "start": 129.62,
+      "end": 129.78,
+      "word": "anche"
+    },
+    {
+      "start": 129.78,
+      "end": 129.96,
+      "word": "la"
+    },
+    {
+      "start": 129.96,
+      "end": 130.24,
+      "word": "pizza"
+    },
+    {
+      "start": 130.24,
+      "end": 130.5,
+      "word": "e"
+    },
+    {
+      "start": 130.5,
+      "end": 130.64,
+      "word": "la"
+    },
+    {
+      "start": 130.64,
+      "end": 130.88,
+      "word": "pasta."
+    },
+    {
+      "start": 131.04,
+      "end": 131.24,
+      "word": "Partendo"
+    },
+    {
+      "start": 131.24,
+      "end": 131.42,
+      "word": "dalla"
+    },
+    {
+      "start": 131.42,
+      "end": 131.76,
+      "word": "pasta,"
+    },
+    {
+      "start": 131.84,
+      "end": 131.9,
+      "word": "io"
+    },
+    {
+      "start": 131.9,
+      "end": 131.96,
+      "word": "ho"
+    },
+    {
+      "start": 131.96,
+      "end": 132.38,
+      "word": "selezionato"
+    },
+    {
+      "start": 132.38,
+      "end": 132.66,
+      "word": "delle"
+    },
+    {
+      "start": 132.66,
+      "end": 133.14,
+      "word": "linguine"
+    },
+    {
+      "start": 133.14,
+      "end": 133.3,
+      "word": "con"
+    },
+    {
+      "start": 133.3,
+      "end": 133.66,
+      "word": "raguola"
+    },
+    {
+      "start": 133.66,
+      "end": 134.2,
+      "word": "bolognese."
+    },
+    {
+      "start": 134.3,
+      "end": 134.38,
+      "word": "Non"
+    },
+    {
+      "start": 134.38,
+      "end": 134.74,
+      "word": "chiedetemi"
+    },
+    {
+      "start": 134.74,
+      "end": 134.94,
+      "word": "perché"
+    },
+    {
+      "start": 134.94,
+      "end": 135.12,
+      "word": "ve"
+    },
+    {
+      "start": 135.12,
+      "end": 135.2,
+      "word": "lo"
+    },
+    {
+      "start": 135.2,
+      "end": 135.52,
+      "word": "servono"
+    },
+    {
+      "start": 135.52,
+      "end": 135.7,
+      "word": "con"
+    },
+    {
+      "start": 135.7,
+      "end": 135.8,
+      "word": "un"
+    },
+    {
+      "start": 135.8,
+      "end": 136.1,
+      "word": "pezzetto"
+    },
+    {
+      "start": 136.1,
+      "end": 136.24,
+      "word": "di"
+    },
+    {
+      "start": 136.24,
+      "end": 136.44,
+      "word": "pizza"
+    },
+    {
+      "start": 136.44,
+      "end": 136.88,
+      "word": "bianca,"
+    },
+    {
+      "start": 136.98,
+      "end": 137.06,
+      "word": "ma"
+    },
+    {
+      "start": 137.06,
+      "end": 137.18,
+      "word": "la"
+    },
+    {
+      "start": 137.18,
+      "end": 137.4,
+      "word": "pasta"
+    },
+    {
+      "start": 137.4,
+      "end": 137.52,
+      "word": "era"
+    },
+    {
+      "start": 137.52,
+      "end": 137.74,
+      "word": "ovviamente"
+    },
+    {
+      "start": 137.74,
+      "end": 138.22,
+      "word": "scotta,"
+    },
+    {
+      "start": 138.32,
+      "end": 138.42,
+      "word": "il"
+    },
+    {
+      "start": 138.42,
+      "end": 138.7,
+      "word": "sugo"
+    },
+    {
+      "start": 138.7,
+      "end": 139.14,
+      "word": "messo"
+    },
+    {
+      "start": 139.14,
+      "end": 139.46,
+      "word": "solo"
+    },
+    {
+      "start": 139.46,
+      "end": 139.74,
+      "word": "in"
+    },
+    {
+      "start": 139.74,
+      "end": 140.1,
+      "word": "mezzo,"
+    },
+    {
+      "start": 140.18,
+      "end": 140.3,
+      "word": "proprio"
+    },
+    {
+      "start": 140.3,
+      "end": 140.46,
+      "word": "all"
+    },
+    {
+      "start": 140.46,
+      "end": 140.88,
+      "word": "'americana."
+    },
+    {
+      "start": 140.98,
+      "end": 141.2,
+      "word": "Passando"
+    },
+    {
+      "start": 141.2,
+      "end": 141.38,
+      "word": "invece"
+    },
+    {
+      "start": 141.38,
+      "end": 141.54,
+      "word": "la"
+    },
+    {
+      "start": 141.54,
+      "end": 141.8,
+      "word": "pizza,"
+    },
+    {
+      "start": 142.14,
+      "end": 142.24,
+      "word": "beh"
+    },
+    {
+      "start": 142.24,
+      "end": 142.58,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 142.64,
+      "end": 142.72,
+      "word": "la"
+    },
+    {
+      "start": 142.72,
+      "end": 143.02,
+      "word": "vedete."
+    },
+    {
+      "start": 143.02,
+      "end": 143.16,
+      "word": "È"
+    },
+    {
+      "start": 143.16,
+      "end": 143.36,
+      "word": "praticamente"
+    },
+    {
+      "start": 143.36,
+      "end": 143.68,
+      "word": "una"
+    },
+    {
+      "start": 143.68,
+      "end": 144.06,
+      "word": "pietina"
+    },
+    {
+      "start": 144.06,
+      "end": 144.24,
+      "word": "con"
+    },
+    {
+      "start": 144.24,
+      "end": 144.34,
+      "word": "un"
+    },
+    {
+      "start": 144.34,
+      "end": 144.44,
+      "word": "po'"
+    },
+    {
+      "start": 144.5,
+      "end": 144.5,
+      "word": "di"
+    },
+    {
+      "start": 144.5,
+      "end": 144.98,
+      "word": "pomodore,"
+    },
+    {
+      "start": 145.02,
+      "end": 145.2,
+      "word": "tanta"
+    },
+    {
+      "start": 145.2,
+      "end": 145.66,
+      "word": "mozzarella."
+    },
+    {
+      "start": 145.92,
+      "end": 146.12,
+      "word": "Alte"
+    },
+    {
+      "start": 146.12,
+      "end": 146.62,
+      "word": "esclusiva"
+    },
+    {
+      "start": 146.62,
+      "end": 146.72,
+      "word": "di"
+    },
+    {
+      "start": 146.72,
+      "end": 146.9,
+      "word": "questo"
+    },
+    {
+      "start": 146.9,
+      "end": 147.2,
+      "word": "McDonald"
+    },
+    {
+      "start": 147.2,
+      "end": 147.66,
+      "word": "è"
+    },
+    {
+      "start": 147.66,
+      "end": 147.76,
+      "word": "il"
+    },
+    {
+      "start": 147.76,
+      "end": 147.96,
+      "word": "Philly"
+    },
+    {
+      "start": 147.96,
+      "end": 148.06,
+      "word": "C"
+    },
+    {
+      "start": 148.06,
+      "end": 148.5,
+      "word": "Steak,"
+    },
+    {
+      "start": 148.56,
+      "end": 148.66,
+      "word": "un"
+    },
+    {
+      "start": 148.66,
+      "end": 148.92,
+      "word": "panino"
+    },
+    {
+      "start": 148.92,
+      "end": 149.26,
+      "word": "tipico"
+    },
+    {
+      "start": 149.26,
+      "end": 149.36,
+      "word": "di"
+    },
+    {
+      "start": 149.36,
+      "end": 149.56,
+      "word": "fila"
+    },
+    {
+      "start": 149.56,
+      "end": 149.88,
+      "word": "delfie"
+    },
+    {
+      "start": 149.88,
+      "end": 149.9,
+      "word": "che"
+    },
+    {
+      "start": 149.9,
+      "end": 150.14,
+      "word": "però"
+    },
+    {
+      "start": 150.14,
+      "end": 150.4,
+      "word": "vi"
+    },
+    {
+      "start": 150.4,
+      "end": 150.72,
+      "word": "servono"
+    },
+    {
+      "start": 150.72,
+      "end": 150.88,
+      "word": "anche"
+    },
+    {
+      "start": 150.88,
+      "end": 151.06,
+      "word": "qua."
+    },
+    {
+      "start": 151.14,
+      "end": 151.18,
+      "word": "Ed"
+    },
+    {
+      "start": 151.18,
+      "end": 151.68,
+      "word": "effettivamente"
+    },
+    {
+      "start": 151.68,
+      "end": 151.82,
+      "word": "un"
+    },
+    {
+      "start": 151.82,
+      "end": 151.92,
+      "word": "po'"
+    },
+    {
+      "start": 152.0,
+      "end": 152.0,
+      "word": "il"
+    },
+    {
+      "start": 152.0,
+      "end": 152.24,
+      "word": "panino"
+    },
+    {
+      "start": 152.24,
+      "end": 152.72,
+      "word": "originale"
+    },
+    {
+      "start": 152.72,
+      "end": 152.84,
+      "word": "lo"
+    },
+    {
+      "start": 152.84,
+      "end": 153.34,
+      "word": "ricorda."
+    },
+    {
+      "start": 153.36,
+      "end": 153.4,
+      "word": "E"
+    },
+    {
+      "start": 153.4,
+      "end": 153.48,
+      "word": "per"
+    },
+    {
+      "start": 153.48,
+      "end": 153.92,
+      "word": "concludere"
+    },
+    {
+      "start": 153.92,
+      "end": 154.12,
+      "word": "questa"
+    },
+    {
+      "start": 154.12,
+      "end": 154.32,
+      "word": "cena"
+    },
+    {
+      "start": 154.32,
+      "end": 154.92,
+      "word": "clamorosa,"
+    },
+    {
+      "start": 155.08,
+      "end": 155.26,
+      "word": "Apple"
+    },
+    {
+      "start": 155.26,
+      "end": 155.56,
+      "word": "Pie."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5,
+      "transcript": "Giornon 11 del mio viaggio in Florida, alla scoperta della"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.5,
+      "end": 4.2,
+      "dur": 1.7,
+      "transcript": "vera cucina americana, sì, quella è la"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.2,
+      "end": 5.733,
+      "dur": 1.533,
+      "transcript": "pizza, la pasta del McDonald. Ma"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.733,
+      "end": 7.7,
+      "dur": 1.967,
+      "transcript": "partiamo con l 'ordine perché oggi è una giornata davvero"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.7,
+      "end": 10.6,
+      "dur": 2.9,
+      "transcript": "davvero clamorosa. Ci troviamo a Dorland, questa mattina mi sono"
+    },
+    {
+      "shot_idx": 5,
+      "start": 10.6,
+      "end": 12.567,
+      "dur": 1.967,
+      "transcript": "vedato molto presto per fare un bel allenamento in una"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.567,
+      "end": 15.033,
+      "dur": 2.467,
+      "transcript": "palestra dell 'hotel che aveva tutto ciò di cui avevo bisogno. Piccolo flex"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.033,
+      "end": 17.033,
+      "dur": 2.0,
+      "transcript": "anche se hai rialtato le nato gambe e poi ci"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.033,
+      "end": 21.067,
+      "dur": 4.033,
+      "transcript": "dirigiamo verso la colazione, che anche lei non è stata da meno. E dopo quindi aver fatto una bella"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.067,
+      "end": 23.067,
+      "dur": 2.0,
+      "transcript": "ricarica post workout ci siamo riccati a The"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.067,
+      "end": 24.9,
+      "dur": 1.833,
+      "transcript": "Pick Universe, che dovrebbe essere il miglior"
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.9,
+      "end": 28.4,
+      "dur": 3.5,
+      "transcript": "parco divertimenti di tutto il mondo, adorando il pieno di parchi di Disney e"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.4,
+      "end": 30.4,
+      "dur": 2.0,
+      "transcript": "Universal. Ma questo è il più nuovo e il più"
+    },
+    {
+      "shot_idx": 13,
+      "start": 30.4,
+      "end": 32.433,
+      "dur": 2.033,
+      "transcript": "costoso mai realizzato ed infatti avevo crosto"
+    },
+    {
+      "shot_idx": 14,
+      "start": 32.433,
+      "end": 34.167,
+      "dur": 1.733,
+      "transcript": "aspettative. Una volta tratti nel parco abbiamo"
+    },
+    {
+      "shot_idx": 15,
+      "start": 34.167,
+      "end": 35.1,
+      "dur": 0.933,
+      "transcript": "detto, dai, iniziamo subito"
+    },
+    {
+      "shot_idx": 16,
+      "start": 35.1,
+      "end": 36.533,
+      "dur": 1.433,
+      "transcript": "dall 'attrazione di Harry Potter. E"
+    },
+    {
+      "shot_idx": 17,
+      "start": 36.533,
+      "end": 39.2,
+      "dur": 2.667,
+      "transcript": "dopo aver fatto davvero ore e ore di fila, che però almeno"
+    },
+    {
+      "shot_idx": 18,
+      "start": 39.2,
+      "end": 41.167,
+      "dur": 1.967,
+      "transcript": "abbiamo fatto in mezzo letteralmente al mondo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 41.167,
+      "end": 44.133,
+      "dur": 2.967,
+      "transcript": "di Harry Potter, infatti era tutto ben tematizzato, siamo arrivati"
+    },
+    {
+      "shot_idx": 20,
+      "start": 44.133,
+      "end": 47.133,
+      "dur": 3.0,
+      "transcript": "all 'attrazione che tramite degli schermi super mega realistici, vite"
+    },
+    {
+      "shot_idx": 21,
+      "start": 47.133,
+      "end": 51.1,
+      "dur": 3.967,
+      "transcript": "le trasporta pieno nel mondo di Harry Potter e quindi, direi che le tre ore di coda ne"
+    },
+    {
+      "shot_idx": 22,
+      "start": 51.1,
+      "end": 53.567,
+      "dur": 2.467,
+      "transcript": "sono massero a pena. Sì ragazzi, vi assicuro che questa attrazione è stata"
+    },
+    {
+      "shot_idx": 23,
+      "start": 53.567,
+      "end": 56.767,
+      "dur": 3.2,
+      "transcript": "veramente, veramente figa. E alla fine la coda fa parte dell"
+    },
+    {
+      "shot_idx": 24,
+      "start": 56.767,
+      "end": 59.233,
+      "dur": 2.467,
+      "transcript": "'attrazione. Dopodiché, già che ci trovavamo in questo mondo, siamo"
+    },
+    {
+      "shot_idx": 25,
+      "start": 59.233,
+      "end": 61.967,
+      "dur": 2.733,
+      "transcript": "andati a vedere lo spettacolo di animali fantastici. Anche"
+    },
+    {
+      "shot_idx": 26,
+      "start": 61.967,
+      "end": 64.767,
+      "dur": 2.8,
+      "transcript": "lui, molto molto carino, si sieta in Universal, non potete perdere"
+    },
+    {
+      "shot_idx": 27,
+      "start": 64.767,
+      "end": 65.467,
+      "dur": 0.7,
+      "transcript": "ovviamente gli"
+    },
+    {
+      "shot_idx": 28,
+      "start": 65.467,
+      "end": 66.167,
+      "dur": 0.7,
+      "transcript": "spettacoli. Che"
+    },
+    {
+      "shot_idx": 29,
+      "start": 66.167,
+      "end": 68.733,
+      "dur": 2.567,
+      "transcript": "direi che sono sempre ben fatti. Dal mondo di Harry Potter siamo poi"
+    },
+    {
+      "shot_idx": 30,
+      "start": 68.733,
+      "end": 70.767,
+      "dur": 2.033,
+      "transcript": "passati al Dark Universe, che è praticamente il mondo"
+    },
+    {
+      "shot_idx": 31,
+      "start": 70.767,
+      "end": 72.967,
+      "dur": 2.2,
+      "transcript": "dedicato ai mostri classici come Dracula,"
+    },
+    {
+      "shot_idx": 32,
+      "start": 72.967,
+      "end": 73.6,
+      "dur": 0.633,
+      "transcript": "Frankenstein,"
+    },
+    {
+      "shot_idx": 33,
+      "start": 73.6,
+      "end": 74.7,
+      "dur": 1.1,
+      "transcript": "ed anche qui dopo aver fatto"
+    },
+    {
+      "shot_idx": 34,
+      "start": 74.7,
+      "end": 75.233,
+      "dur": 0.533,
+      "transcript": "un bel po' di"
+    },
+    {
+      "shot_idx": 35,
+      "start": 75.233,
+      "end": 78.533,
+      "dur": 3.3,
+      "transcript": "coda, comunque ben tematizzata, siamo arrivati praticamente alla"
+    },
+    {
+      "shot_idx": 36,
+      "start": 78.533,
+      "end": 79.967,
+      "dur": 1.433,
+      "transcript": "montagna russa, e è stata molto"
+    },
+    {
+      "shot_idx": 37,
+      "start": 79.967,
+      "end": 81.133,
+      "dur": 1.167,
+      "transcript": "molto figa anche a giudicare"
+    },
+    {
+      "shot_idx": 38,
+      "start": 81.133,
+      "end": 84.9,
+      "dur": 3.767,
+      "transcript": "dalla mia faccia alla fine. Dopodiché usciti dal Dark Universe, ho dovuto provare"
+    },
+    {
+      "shot_idx": 39,
+      "start": 84.9,
+      "end": 85.8,
+      "dur": 0.9,
+      "transcript": "la Stardust Racer,"
+    },
+    {
+      "shot_idx": 40,
+      "start": 85.8,
+      "end": 87.4,
+      "dur": 1.6,
+      "transcript": "che è senza dubbio la montagna"
+    },
+    {
+      "shot_idx": 41,
+      "start": 87.4,
+      "end": 89.433,
+      "dur": 2.033,
+      "transcript": "russa più figa di tutto il parco, e"
+    },
+    {
+      "shot_idx": 42,
+      "start": 89.433,
+      "end": 91.367,
+      "dur": 1.933,
+      "transcript": "di solito non andiamo anche troppo a coda. Quindi questa è"
+    },
+    {
+      "shot_idx": 43,
+      "start": 91.367,
+      "end": 93.933,
+      "dur": 2.567,
+      "transcript": "assolutamente consigliata. Dopodiché si passa al mondo"
+    },
+    {
+      "shot_idx": 44,
+      "start": 93.933,
+      "end": 95.967,
+      "dur": 2.033,
+      "transcript": "di Auto Train Your Dragon. Sì ragazzi, un"
+    },
+    {
+      "shot_idx": 45,
+      "start": 95.967,
+      "end": 98.1,
+      "dur": 2.133,
+      "transcript": "intero mondo dedicato a Dragon Trainer, in cui"
+    },
+    {
+      "shot_idx": 46,
+      "start": 98.1,
+      "end": 99.9,
+      "dur": 1.8,
+      "transcript": "abbiamo anche qua fatto l 'allora attrazione principale,"
+    },
+    {
+      "shot_idx": 47,
+      "start": 99.9,
+      "end": 104.4,
+      "dur": 4.5,
+      "transcript": "e visto lo spettacolo, molto carino, con ovviamente tutte le colonne sonore dei film, e quindi"
+    },
+    {
+      "shot_idx": 48,
+      "start": 104.4,
+      "end": 105.7,
+      "dur": 1.3,
+      "transcript": "molto emozionante. Ultimo"
+    },
+    {
+      "shot_idx": 49,
+      "start": 105.7,
+      "end": 107.2,
+      "dur": 1.5,
+      "transcript": "mondo che non potevamo non visitare,"
+    },
+    {
+      "shot_idx": 50,
+      "start": 107.2,
+      "end": 112.2,
+      "dur": 5.0,
+      "transcript": "il mondo del Super Nintendo World, anche se lo avevo già visto all 'Universal Studios di Hollywood, a Los Angeles, ed è per questo"
+    },
+    {
+      "shot_idx": 51,
+      "start": 112.2,
+      "end": 114.233,
+      "dur": 2.033,
+      "transcript": "che siamo andati a fare l 'attrazione di Donkey Kong. Uffine,"
+    },
+    {
+      "shot_idx": 52,
+      "start": 114.233,
+      "end": 115.733,
+      "dur": 1.5,
+      "transcript": "ultimo giro nel Dark Universe,"
+    },
+    {
+      "shot_idx": 53,
+      "start": 115.733,
+      "end": 118.567,
+      "dur": 2.833,
+      "transcript": "prima che più dal parco, e dopo l 'intera giornata di file,"
+    },
+    {
+      "shot_idx": 54,
+      "start": 118.567,
+      "end": 121.033,
+      "dur": 2.467,
+      "transcript": "siamo finalmente usciti, comunque sono disfatti, anche se"
+    },
+    {
+      "shot_idx": 55,
+      "start": 121.033,
+      "end": 123.2,
+      "dur": 2.167,
+      "transcript": "mi aspettavo un po' di più. E ora ragazzi, per recuperare"
+    },
+    {
+      "shot_idx": 56,
+      "start": 123.2,
+      "end": 125.4,
+      "dur": 2.2,
+      "transcript": "tutte le energie che abbiamo speso in questa giornata,"
+    },
+    {
+      "shot_idx": 57,
+      "start": 125.4,
+      "end": 128.4,
+      "dur": 3.0,
+      "transcript": "dovevo per forza andare a provare il McDonald più grande del mondo. McDonald"
+    },
+    {
+      "shot_idx": 58,
+      "start": 128.4,
+      "end": 130.9,
+      "dur": 2.5,
+      "transcript": "che come potete vedere fa anche la pizza e la pasta."
+    },
+    {
+      "shot_idx": 59,
+      "start": 130.9,
+      "end": 132.9,
+      "dur": 2.0,
+      "transcript": "Partendo dalla pasta, io ho selezionato delle linguine"
+    },
+    {
+      "shot_idx": 60,
+      "start": 132.9,
+      "end": 135.433,
+      "dur": 2.533,
+      "transcript": "con raguola bolognese. Non chiedetemi perché ve lo servono"
+    },
+    {
+      "shot_idx": 61,
+      "start": 135.433,
+      "end": 137.233,
+      "dur": 1.8,
+      "transcript": "con un pezzetto di pizza bianca, ma la"
+    },
+    {
+      "shot_idx": 62,
+      "start": 137.233,
+      "end": 140.833,
+      "dur": 3.6,
+      "transcript": "pasta era ovviamente scotta, il sugo messo solo in mezzo, proprio all 'americana."
+    },
+    {
+      "shot_idx": 63,
+      "start": 140.833,
+      "end": 143.367,
+      "dur": 2.533,
+      "transcript": "Passando invece la pizza, beh ragazzi, la vedete. È praticamente"
+    },
+    {
+      "shot_idx": 64,
+      "start": 143.367,
+      "end": 145.067,
+      "dur": 1.7,
+      "transcript": "una pietina con un po' di pomodore,"
+    },
+    {
+      "shot_idx": 65,
+      "start": 145.067,
+      "end": 147.567,
+      "dur": 2.5,
+      "transcript": "tanta mozzarella. Alte esclusiva di questo McDonald è"
+    },
+    {
+      "shot_idx": 66,
+      "start": 147.567,
+      "end": 150.067,
+      "dur": 2.5,
+      "transcript": "il Philly C Steak, un panino tipico di fila delfie che però"
+    },
+    {
+      "shot_idx": 67,
+      "start": 150.067,
+      "end": 152.567,
+      "dur": 2.5,
+      "transcript": "vi servono anche qua. Ed effettivamente un po' il panino originale"
+    },
+    {
+      "shot_idx": 68,
+      "start": 152.567,
+      "end": 155.767,
+      "dur": 3.2,
+      "transcript": "lo ricorda. E per concludere questa cena clamorosa, Apple Pie."
+    }
+  ],
+  "full_text": "Giornon 11 del mio viaggio in Florida, alla scoperta della vera cucina americana, sì, quella è la pizza, la pasta del McDonald. Ma partiamo con l'ordine perché oggi è una giornata davvero davvero clamorosa. Ci troviamo a Dorland, questa mattina mi sono vedato molto presto per fare un bel allenamento in una palestra dell'hotel che aveva tutto ciò di cui avevo bisogno. Piccolo flex anche se hai rialtato le nato gambe e poi ci dirigiamo verso la colazione, che anche lei non è stata da meno. E dopo quindi aver fatto una bella ricarica post workout ci siamo riccati a The Pick Universe, che dovrebbe essere il miglior parco divertimenti di tutto il mondo, adorando il pieno di parchi di Disney e Universal. Ma questo è il più nuovo e il più costoso mai realizzato ed infatti avevo crosto aspettative. Una volta tratti nel parco abbiamo detto, dai, iniziamo subito dall'attrazione di Harry Potter. E dopo aver fatto davvero ore e ore di fila, che però almeno abbiamo fatto in mezzo letteralmente al mondo di Harry Potter, infatti era tutto ben tematizzato, siamo arrivati all'attrazione che tramite degli schermi super mega realistici, vite le trasporta pieno nel mondo di Harry Potter e quindi, direi che le tre ore di coda ne sono massero a pena. Sì ragazzi, vi assicuro che questa attrazione è stata veramente, veramente figa. E alla fine la coda fa parte dell'attrazione. Dopodiché, già che ci trovavamo in questo mondo, siamo andati a vedere lo spettacolo di animali fantastici. Anche lui, molto molto carino, si sieta in Universal, non potete perdere ovviamente gli spettacoli. Che direi che sono sempre ben fatti. Dal mondo di Harry Potter siamo poi passati al Dark Universe, che è praticamente il mondo dedicato ai mostri classici come Dracula, Frankenstein, ed anche qui dopo aver fatto un bel po' di coda, comunque ben tematizzata, siamo arrivati praticamente alla montagna russa, e è stata molto molto figa anche a giudicare dalla mia faccia alla fine. Dopodiché usciti dal Dark Universe, ho dovuto provare la Stardust Racer, che è senza dubbio la montagna russa più figa di tutto il parco, e di solito non andiamo anche troppo a coda. Quindi questa è assolutamente consigliata. Dopodiché si passa al mondo di Auto Train Your Dragon. Sì ragazzi, un intero mondo dedicato a Dragon Trainer, in cui abbiamo anche qua fatto l'allora attrazione principale, e visto lo spettacolo, molto carino, con ovviamente tutte le colonne sonore dei film, e quindi molto emozionante. Ultimo mondo che non potevamo non visitare, il mondo del Super Nintendo World, anche se lo avevo già visto all'Universal Studios di Hollywood, a Los Angeles, ed è per questo che siamo andati a fare l'attrazione di Donkey Kong. Uffine, ultimo giro nel Dark Universe, prima che più dal parco, e dopo l'intera giornata di file, siamo finalmente usciti, comunque sono disfatti, anche se mi aspettavo un po' di più. E ora ragazzi, per recuperare tutte le energie che abbiamo speso in questa giornata, dovevo per forza andare a provare il McDonald più grande del mondo. McDonald che come potete vedere fa anche la pizza e la pasta. Partendo dalla pasta, io ho selezionato delle linguine con raguola bolognese. Non chiedetemi perché ve lo servono con un pezzetto di pizza bianca, ma la pasta era ovviamente scotta, il sugo messo solo in mezzo, proprio all'americana. Passando invece la pizza, beh ragazzi, la vedete. È praticamente una pietina con un po' di pomodore, tanta mozzarella. Alte esclusiva di questo McDonald è il Philly C Steak, un panino tipico di fila delfie che però vi servono anche qua. Ed effettivamente un po' il panino originale lo ricorda. E per concludere questa cena clamorosa, Apple Pie.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

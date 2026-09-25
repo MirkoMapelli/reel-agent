@@ -1,0 +1,280 @@
+{
+  "title": "Nicolettona: Wings & Fries Clamorosi",
+  "voiceover_script": "Oggi sono finalmente andato a Nicolettona e vi assicuro che è stato clamoroso. Ragazzi, guardate questi wings: dorati, croccanti fuori e succosi dentro, con una glassa che vi fa impazzire. Le fries invece sono taglia perfetta, croccanti e salate alla perfezione. Poi abbiamo i nuggets, insomma, pezzi di petto di pollo che si sciolgono letteralmente in bocca. La panatura è folle, ultra croccante con quel finishing che non potete non notare. E non finisce qui: guardate la consistenza, la cottura è proprio bomba. Tutto il menu qui è davvero un'esperienza che dovete assolutamente provare. Venite a scoprire perché Nicolettona sta facendo impazzire tutti. Non potete farvi scappare questa occasione. WINGS",
+  "timeline": [
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.185,
+      "out_sec": 3.315,
+      "duration": 3.13,
+      "role": "food",
+      "subtitle_text": "Oggi sono finalmente andato a Nicolettona e vi assicuro che è stato clamoroso."
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.505,
+      "out_sec": 6.195,
+      "duration": 2.69,
+      "role": "reaction",
+      "subtitle_text": "Ragazzi, guardate questi wings:"
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.316,
+      "out_sec": 3.184,
+      "duration": 2.87,
+      "role": "detail",
+      "subtitle_text": "dorati, croccanti fuori e succosi dentro,"
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.434,
+      "out_sec": 6.266,
+      "duration": 2.83,
+      "role": "detail",
+      "subtitle_text": "con una glassa che vi fa impazzire."
+    },
+    {
+      "scene_id": 14,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 24.8,
+      "out_sec": 27.04,
+      "duration": 2.24,
+      "role": "detail",
+      "subtitle_text": "Le fries invece sono taglia perfetta, croccanti e salate alla perfezione."
+    },
+    {
+      "scene_id": 42,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 0.172,
+      "out_sec": 3.328,
+      "duration": 3.16,
+      "role": "food",
+      "subtitle_text": "Poi abbiamo i nuggets,"
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.55,
+      "out_sec": 15.75,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": "insomma, pezzi di petto di pollo che si sciolgono letteralmente in bocca."
+    },
+    {
+      "scene_id": 64,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 0.383,
+      "out_sec": 3.117,
+      "duration": 2.73,
+      "role": "detail",
+      "subtitle_text": "La panatura è folle, ultra croccante"
+    },
+    {
+      "scene_id": 81,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "clip_name": "IMG_6830.MOV",
+      "in_sec": 6.463,
+      "out_sec": 9.437,
+      "duration": 2.97,
+      "role": "detail",
+      "subtitle_text": "con quel finishing che non potete non notare."
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.404,
+      "out_sec": 3.096,
+      "duration": 2.69,
+      "role": "action",
+      "subtitle_text": "E non finisce qui: guardate la consistenza,"
+    },
+    {
+      "scene_id": 30,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 6.536,
+      "out_sec": 9.364,
+      "duration": 2.83,
+      "role": "reaction",
+      "subtitle_text": "la cottura è proprio bomba."
+    },
+    {
+      "scene_id": 15,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 0.233,
+      "out_sec": 3.267,
+      "duration": 3.03,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 35,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 22.105,
+      "out_sec": 24.795,
+      "duration": 2.69,
+      "role": "reaction",
+      "subtitle_text": "Tutto il menu qui è davvero un'esperienza"
+    },
+    {
+      "scene_id": 18,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 9.643,
+      "out_sec": 12.457,
+      "duration": 2.81,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 36,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 24.982,
+      "out_sec": 28.118,
+      "duration": 3.14,
+      "role": "action",
+      "subtitle_text": "che dovete assolutamente provare."
+    },
+    {
+      "scene_id": 19,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 0.219,
+      "out_sec": 3.281,
+      "duration": 3.06,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 44,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 6.535,
+      "out_sec": 9.365,
+      "duration": 2.83,
+      "role": "action",
+      "subtitle_text": "Venite a scoprire perché Nicolettona"
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 15.703,
+      "out_sec": 18.797,
+      "duration": 3.09,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 45,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "action",
+      "subtitle_text": "sta facendo impazzire tutti."
+    },
+    {
+      "scene_id": 26,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 22.112,
+      "out_sec": 24.788,
+      "duration": 2.68,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 58,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "action",
+      "subtitle_text": "Non potete farvi scappare questa occasione."
+    },
+    {
+      "scene_id": 76,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 12.564,
+      "out_sec": 15.736,
+      "duration": 3.17,
+      "role": "action",
+      "subtitle_text": "Vi assicuro che ogni boccone"
+    },
+    {
+      "scene_id": 85,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 6.332,
+      "out_sec": 9.248,
+      "duration": 2.92,
+      "role": "action",
+      "subtitle_text": "è una vera scoperta che vale la visita."
+    },
+    {
+      "scene_id": 97,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "clip_name": "IMG_6833.MOV",
+      "in_sec": 22.059,
+      "out_sec": 24.841,
+      "duration": 2.78,
+      "role": "reaction",
+      "subtitle_text": "Passate da Nicolettona,"
+    },
+    {
+      "scene_id": 98,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "clip_name": "IMG_6834.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "action",
+      "subtitle_text": "dovrebbe andare provato tutto il menu."
+    },
+    {
+      "scene_id": 102,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 0.294,
+      "out_sec": 3.206,
+      "duration": 2.91,
+      "role": "food",
+      "subtitle_text": "Ragazzi davvero, non ve ne pentirete."
+    },
+    {
+      "scene_id": 82,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 0.231,
+      "out_sec": 2.969,
+      "duration": 2.74,
+      "role": "detail",
+      "subtitle_text": "WINGS"
+    }
+  ],
+  "total_duration": 78.79,
+  "n_clips": 27,
+  "profile_id": 13,
+  "generated_at": "2026-09-18T10:07:13"
+}

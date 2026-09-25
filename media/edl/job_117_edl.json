@@ -1,0 +1,340 @@
+{
+  "title": "WingStop Milano: Ali Clamorose",
+  "voiceover_script": "Ragazzi, devo dirvi che WingStop è il paradiso del pollo fritto a Milano. Qui scelgono il loro flavour e vi assicuro, le ali sono incredibili. Guardate la consistenza esterna, croccante perfetta. Dentro è succoso, letteralmente scoppia in bocca. Poi abbiamo le patatine, friabili e dorate come si deve. Gli stuzzichini sono una bomba, cotti a regola d'arte. E questi sughi? Clamorosi. Devo dire che l'equilibrio tra croccantezza e umidità è raro trovarlo. La carne si stacca dall'osso facilmente, non è gomma tipo altre catene. Le porzioni sono generose, guardate quanta roba. Se siete amanti del pollo non potete non passare da WingStop. Fatemi sapere se l'avete già provato, perché questa esperienza merita di essere condivisa. WingStop, clamoroso.",
+  "timeline": [
+    {
+      "scene_id": 135,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "clip_name": "IMG_6844.MOV",
+      "in_sec": 12.4,
+      "out_sec": 15.18,
+      "duration": 2.78,
+      "role": "venue_interior_wide",
+      "subtitle_text": "Ragazzi, devo dirvi che WingStop è il paradiso del pollo fritto a Milano."
+    },
+    {
+      "scene_id": 123,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 0.378,
+      "out_sec": 3.122,
+      "duration": 2.74,
+      "role": "venue_interior_detail",
+      "subtitle_text": "Ragazzi, devo dirvi che WingStop è il paradiso del pollo fritto a Milano."
+    },
+    {
+      "scene_id": 131,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "clip_name": "IMG_6844.MOV",
+      "in_sec": 0.289,
+      "out_sec": 3.211,
+      "duration": 2.92,
+      "role": "venue_interior_detail",
+      "subtitle_text": "Qui scelgono il loro flavour e vi assicuro, le ali sono incredibili."
+    },
+    {
+      "scene_id": 124,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 3.408,
+      "out_sec": 6.292,
+      "duration": 2.88,
+      "role": "drink_detail",
+      "subtitle_text": "Qui scelgono il loro flavour e vi assicuro, le ali sono incredibili."
+    },
+    {
+      "scene_id": 0,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "clip_name": "IMG_6813.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "menu_board",
+      "subtitle_text": "Guardate la consistenza esterna, croccante perfetta."
+    },
+    {
+      "scene_id": 125,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "drink_pour",
+      "subtitle_text": "Dentro è succoso, letteralmente scoppia in bocca."
+    },
+    {
+      "scene_id": 17,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "Dentro è succoso, letteralmente scoppia in bocca."
+    },
+    {
+      "scene_id": 16,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 3.456,
+      "out_sec": 6.244,
+      "duration": 2.79,
+      "role": "food_closeup",
+      "subtitle_text": "Poi abbiamo le patatine, friabili e dorate come si deve."
+    },
+    {
+      "scene_id": 21,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 6.437,
+      "out_sec": 9.463,
+      "duration": 3.03,
+      "role": "person_eating",
+      "subtitle_text": "Poi abbiamo le patatine, friabili e dorate come si deve."
+    },
+    {
+      "scene_id": 8,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 6.577,
+      "out_sec": 9.323,
+      "duration": 2.75,
+      "role": "food_closeup",
+      "subtitle_text": "Gli stuzzichini sono una bomba, cotti a regola d'arte."
+    },
+    {
+      "scene_id": 13,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 22.009,
+      "out_sec": 24.891,
+      "duration": 2.88,
+      "role": "food_closeup",
+      "subtitle_text": "E questi sughi? Clamorosi."
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.307,
+      "out_sec": 6.393,
+      "duration": 3.09,
+      "role": "person_eating",
+      "subtitle_text": "E questi sughi? Clamorosi."
+    },
+    {
+      "scene_id": 9,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 9.678,
+      "out_sec": 12.422,
+      "duration": 2.74,
+      "role": "food_closeup",
+      "subtitle_text": "Devo dire che l'equilibrio tra croccantezza e umidità è raro trovarlo."
+    },
+    {
+      "scene_id": 11,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 15.816,
+      "out_sec": 18.684,
+      "duration": 2.87,
+      "role": "food_closeup",
+      "subtitle_text": "Devo dire che l'equilibrio tra croccantezza e umidità è raro trovarlo."
+    },
+    {
+      "scene_id": 19,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 0.156,
+      "out_sec": 3.344,
+      "duration": 3.19,
+      "role": "person_eating",
+      "subtitle_text": "La carne si stacca dall'osso facilmente, non è gomma tipo altre catene."
+    },
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.193,
+      "out_sec": 3.307,
+      "duration": 3.11,
+      "role": "food_plated",
+      "subtitle_text": "Le porzioni sono generose, guardate quanta roba."
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.709,
+      "out_sec": 15.591,
+      "duration": 2.88,
+      "role": "food_closeup",
+      "subtitle_text": "Le porzioni sono generose, guardate quanta roba."
+    },
+    {
+      "scene_id": 26,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 21.877,
+      "out_sec": 25.023,
+      "duration": 3.15,
+      "role": "person_eating",
+      "subtitle_text": "Se siete amanti del pollo non potete non passare da WingStop."
+    },
+    {
+      "scene_id": 14,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 24.8,
+      "out_sec": 27.04,
+      "duration": 2.24,
+      "role": "food_closeup",
+      "subtitle_text": "Se siete amanti del pollo non potete non passare da WingStop."
+    },
+    {
+      "scene_id": 12,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 18.985,
+      "out_sec": 21.715,
+      "duration": 2.73,
+      "role": "food_closeup",
+      "subtitle_text": "Fatemi sapere se l'avete già provato, perché questa esperienza merita di essere condivisa."
+    },
+    {
+      "scene_id": 23,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 12.55,
+      "out_sec": 15.75,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": "Il sapore è intenso, le ali mantengono la struttura."
+    },
+    {
+      "scene_id": 5,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 3.25,
+      "out_sec": 6.45,
+      "duration": 3.2,
+      "role": "food_plated",
+      "subtitle_text": "Il sapore è intenso, le ali mantengono la struttura."
+    },
+    {
+      "scene_id": 15,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 0.266,
+      "out_sec": 3.234,
+      "duration": 2.97,
+      "role": "food_closeup",
+      "subtitle_text": "Assaggiate questa croccantezza, perfetto contrasto col succo interno."
+    },
+    {
+      "scene_id": 25,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 18.932,
+      "out_sec": 21.768,
+      "duration": 2.84,
+      "role": "person_eating",
+      "subtitle_text": "Assaggiate questa croccantezza, perfetto contrasto col succo interno."
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "Le salse sono il complemento ideale, creamy e saporite."
+    },
+    {
+      "scene_id": 18,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 9.567,
+      "out_sec": 12.533,
+      "duration": 2.97,
+      "role": "food_closeup",
+      "subtitle_text": "Ogni morso è una conferma della qualità."
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 15.854,
+      "out_sec": 18.646,
+      "duration": 2.79,
+      "role": "person_eating",
+      "subtitle_text": "Ogni morso è una conferma della qualità."
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.453,
+      "out_sec": 6.247,
+      "duration": 2.79,
+      "role": "food_closeup",
+      "subtitle_text": "Le patatine assorbono tutti i sapori, niente di grezzo."
+    },
+    {
+      "scene_id": 22,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": "Le patatine assorbono tutti i sapori, niente di grezzo."
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.172,
+      "out_sec": 3.328,
+      "duration": 3.16,
+      "role": "person_eating",
+      "subtitle_text": "Intingete nelle salse, il marriage è totale."
+    },
+    {
+      "scene_id": 126,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "drink_detail",
+      "subtitle_text": "Texture impeccabile, calore che persiste, profilo aromatico completo."
+    },
+    {
+      "scene_id": 128,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "clip_name": "IMG_6839.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "drink_detail",
+      "subtitle_text": "Texture impeccabile, calore che persiste, profilo aromatico completo."
+    },
+    {
+      "scene_id": 129,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "clip_name": "IMG_6839.MOV",
+      "in_sec": 3.296,
+      "out_sec": 6.404,
+      "duration": 3.11,
+      "role": "drink_detail",
+      "subtitle_text": "WingStop, clamoroso."
+    }
+  ],
+  "total_duration": 98.2,
+  "n_clips": 33,
+  "profile_id": 14,
+  "generated_at": "2026-09-18T10:46:34"
+}

@@ -1,0 +1,2525 @@
+{
+  "video_id": "7506876111545208087",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7506876111545208087",
+    "ref_id": "ref_85_7506876111545208087",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7506876111545208087",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 29,
+  "total_dur": 72.23,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "center": 1.0,
+      "role": "food_closeup",
+      "subject": "fetta pizza pepperoni",
+      "description": "Una fetta di pizza pepperoni è tenuta in primo piano da una mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "La vera pizza nuyorkese finalmente arrivata"
+    },
+    {
+      "idx": 1,
+      "start": 2.0,
+      "end": 4.5,
+      "dur": 2.5,
+      "center": 3.25,
+      "role": "food_plated",
+      "subject": "fette pizza pepperoni",
+      "description": "Diverse fette di pizza pepperoni sono disposte su un bancone rosso con scatole rosse sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "a Milano. Oggi ragazzi proviamo pepperoni pizza. La"
+    },
+    {
+      "idx": 2,
+      "start": 4.5,
+      "end": 6.267,
+      "dur": 1.767,
+      "center": 5.383,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo sta mangiando una fetta di pizza, con il formaggio che si allunga dalla bocca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "prima realtà di pizza New York style"
+    },
+    {
+      "idx": 3,
+      "start": 6.267,
+      "end": 7.867,
+      "dur": 1.6,
+      "center": 7.067,
+      "role": "venue_exterior",
+      "subject": "ingresso pizzeria",
+      "description": "L'ingresso di una pizzeria con il logo 'Pepperoni Pizza' in rosso sopra la porta.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "aperta appunto a Milano. In zona"
+    },
+    {
+      "idx": 4,
+      "start": 7.867,
+      "end": 8.833,
+      "dur": 0.967,
+      "center": 8.35,
+      "role": "venue_interior_detail",
+      "subject": "pavimento pizzeria",
+      "description": "Una persona cammina verso l'interno di un locale con il logo 'Pepperoni Pizza' sul soffitto rosso.",
+      "composition": "detail",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Sant 'Ambrogio accanto"
+    },
+    {
+      "idx": 5,
+      "start": 8.833,
+      "end": 10.033,
+      "dur": 1.2,
+      "center": 9.433,
+      "role": "venue_interior_detail",
+      "subject": "sgabelli gialli vuoti",
+      "description": "Gli sgabelli gialli spiccano sul pavimento rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "all 'università cattolica."
+    },
+    {
+      "idx": 6,
+      "start": 10.033,
+      "end": 15.833,
+      "dur": 5.8,
+      "center": 12.933,
+      "role": "venue_interior_wide",
+      "subject": "bancone pizzeria menu",
+      "description": "Il bancone con il menu e il frigo Coca-Cola dominano la scena.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Il loro file è molto carino ed è tutto ben brandizzato. E sembra davvero di stare a New York. Noi prima di passare alle slice abbiamo"
+    },
+    {
+      "idx": 7,
+      "start": 15.833,
+      "end": 16.333,
+      "dur": 0.5,
+      "center": 16.083,
+      "role": "venue_interior_detail",
+      "subject": "quadro Tartarughe Ninja",
+      "description": "Il quadro delle Tartarughe Ninja con la scritta 'Pepperoni Pizza' è il punto focale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "iniziato con"
+    },
+    {
+      "idx": 8,
+      "start": 16.333,
+      "end": 19.233,
+      "dur": 2.9,
+      "center": 17.783,
+      "role": "food_detail",
+      "subject": "scatola pizza bibite",
+      "description": "La scatola di pizza rossa con il logo e le bibite sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "qualche fritto. Con il loro Mac & Cheese e il loro Nuggets."
+    },
+    {
+      "idx": 9,
+      "start": 19.233,
+      "end": 21.767,
+      "dur": 2.533,
+      "center": 20.5,
+      "role": "person_eating",
+      "subject": "ragazzo crocchetta scatola",
+      "description": "Il ragazzo tiene una crocchetta sopra una scatola di pizza aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Intrami con una paratura clamorosa che le"
+    },
+    {
+      "idx": 10,
+      "start": 21.767,
+      "end": 23.4,
+      "dur": 1.633,
+      "center": 22.583,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nugget",
+      "description": "Il ragazzo sta per addentare un nugget con gli occhi chiusi.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "eresi perfettamente croccanti nonostante"
+    },
+    {
+      "idx": 11,
+      "start": 23.4,
+      "end": 25.6,
+      "dur": 2.2,
+      "center": 24.5,
+      "role": "food_detail",
+      "subject": "nugget aperto formaggio",
+      "description": "Le mani del ragazzo tengono un nugget spezzato che rivela un ripieno giallo e filante.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "comunque dentro che sono morbidissimi. Mac &"
+    },
+    {
+      "idx": 12,
+      "start": 25.6,
+      "end": 27.067,
+      "dur": 1.467,
+      "center": 26.333,
+      "role": "food_detail",
+      "subject": "nugget formaggio filante",
+      "description": "Il formaggio all'interno del nugget è molto filante, creando un effetto visivo appetitoso.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Cheese davvero ottimo, molto saporito"
+    },
+    {
+      "idx": 13,
+      "start": 27.067,
+      "end": 28.333,
+      "dur": 1.267,
+      "center": 27.7,
+      "role": "person_eating",
+      "subject": "ragazzo tiene nugget",
+      "description": "Il ragazzo tiene in mano i due pezzi del nugget, con un'espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "e da punto fritto"
+    },
+    {
+      "idx": 14,
+      "start": 28.333,
+      "end": 30.7,
+      "dur": 2.367,
+      "center": 29.517,
+      "role": "food_detail",
+      "subject": "ala fritta croccante",
+      "description": "Una mano tiene un'ala fritta dalla panatura molto croccante, con una scatola rossa sfocata sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "alla perfezione. Così come i Nuggets fatti proprio con il"
+    },
+    {
+      "idx": 15,
+      "start": 30.7,
+      "end": 32.3,
+      "dur": 1.6,
+      "center": 31.5,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nugget",
+      "description": "Un ragazzo con gli occhi chiusi sta addentando un nugget di pollo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "filetto di pollo. Passando invece al punto"
+    },
+    {
+      "idx": 16,
+      "start": 32.3,
+      "end": 34.0,
+      "dur": 1.7,
+      "center": 33.15,
+      "role": "person_eating",
+      "subject": "ragazzo mostra nugget",
+      "description": "Il ragazzo tiene in mano un nugget di pollo morso, mostrando l'interno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "forte di pepperoni pizza abbiamo appunto"
+    },
+    {
+      "idx": 17,
+      "start": 34.0,
+      "end": 38.533,
+      "dur": 4.533,
+      "center": 36.267,
+      "role": "food_plated",
+      "subject": "fette pizza patatine",
+      "description": "Due fette di pizza, una con patatine fritte e wurstel, l'altra con salame piccante, sono su un bancone rosso.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "la loro slice. Noi abbiamo provato tre slice diverse. Iniziamo subito da una pepperoni con quattro"
+    },
+    {
+      "idx": 18,
+      "start": 38.533,
+      "end": 41.033,
+      "dur": 2.5,
+      "center": 39.783,
+      "role": "food_closeup",
+      "subject": "pizza salame piccante",
+      "description": "Un primo piano di una fetta di pizza con abbondante salame piccante e formaggio fuso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "formaggi. Una pizza clamorosa cotta"
+    },
+    {
+      "idx": 19,
+      "start": 41.033,
+      "end": 43.167,
+      "dur": 2.133,
+      "center": 42.1,
+      "role": "person_eating",
+      "subject": "ragazzo mostra pizza",
+      "description": "Un ragazzo con un'espressione sorpresa tiene in mano una fetta di pizza al salame piccante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "perfettamente. Ovviamente molto saporita,"
+    },
+    {
+      "idx": 20,
+      "start": 43.167,
+      "end": 45.433,
+      "dur": 2.267,
+      "center": 44.3,
+      "role": "food_detail",
+      "subject": "pizza piegata",
+      "description": "Una fetta di pizza piegata con una crosta ben cotta è tenuta in mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "nonostante comunque i pepperoni sentissero alla grande."
+    },
+    {
+      "idx": 21,
+      "start": 45.433,
+      "end": 47.667,
+      "dur": 2.233,
+      "center": 46.55,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pizza",
+      "description": "Un ragazzo sta addentando una fetta di pizza piegata, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Essendo veri i pepperoni quindi 50 %"
+    },
+    {
+      "idx": 22,
+      "start": 47.667,
+      "end": 52.733,
+      "dur": 5.067,
+      "center": 50.2,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pizza",
+      "description": "Il formaggio della pizza si allunga mentre il ragazzo la mangia, creando un effetto visivo accattivante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "maiale, 50 % manzo. Per un risultato leggermente speziato, leggermente piccante. Siamo poi passati"
+    },
+    {
+      "idx": 23,
+      "start": 52.733,
+      "end": 54.9,
+      "dur": 2.167,
+      "center": 53.817,
+      "role": "food_closeup",
+      "subject": "pizza con patatine",
+      "description": "Una fetta di pizza è guarnita con patatine fritte e fette di salame, con un logo di pizza sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "alla loro Gliustera e Panapine. Che resta sempre una"
+    },
+    {
+      "idx": 24,
+      "start": 54.9,
+      "end": 57.533,
+      "dur": 2.633,
+      "center": 56.217,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pizza",
+      "description": "Il ragazzo sta mangiando una fetta di pizza, con una scatola di pizza aperta in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "pizza devastante. Secondo me è ottimo con questa tipologia di"
+    },
+    {
+      "idx": 25,
+      "start": 57.533,
+      "end": 60.3,
+      "dur": 2.767,
+      "center": 58.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta addentando una fetta di pizza con patatine fritte e würstel.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "pizza fatta a slice. Per poi finire con la più classica,"
+    },
+    {
+      "idx": 26,
+      "start": 60.3,
+      "end": 66.433,
+      "dur": 6.133,
+      "center": 63.367,
+      "role": "person_eating",
+      "subject": "ragazzo tiene pizza",
+      "description": "Il ragazzo tiene in mano una fetta di pizza e guarda in camera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "se non forse la migliore di tutto, vero, la classica pepperoni. Una pizza che sa proprio di New York. E che honestamente a me mancava veramente"
+    },
+    {
+      "idx": 27,
+      "start": 66.433,
+      "end": 69.167,
+      "dur": 2.733,
+      "center": 67.8,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta addentando la pizza con un'espressione soddisfatta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "tanto. Quindi ragazzi che conoscete o meno questa tipologia di"
+    },
+    {
+      "idx": 28,
+      "start": 69.167,
+      "end": 72.233,
+      "dur": 3.067,
+      "center": 70.7,
+      "role": "food_plated",
+      "subject": "due fette pizza",
+      "description": "Due fette di pizza con salamino piccante sono in primo piano, con bibite sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "pizza, state a provarla perché davvero clamo, rosa."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una fetta di pizza pepperoni è tenuta in primo piano da una mano.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "fette pizza pepperoni",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Diverse fette di pizza pepperoni sono disposte su un bancone rosso con scatole rosse sullo sfondo.",
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.5,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sta mangiando una fetta di pizza, con il formaggio che si allunga dalla bocca.",
+      "shot_idx": 2,
+      "start": 4.5,
+      "end": 6.267,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso pizzeria",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'ingresso di una pizzeria con il logo 'Pepperoni Pizza' in rosso sopra la porta.",
+      "shot_idx": 3,
+      "start": 6.267,
+      "end": 7.867,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "pavimento pizzeria",
+      "composizione": "detail",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una persona cammina verso l'interno di un locale con il logo 'Pepperoni Pizza' sul soffitto rosso.",
+      "shot_idx": 4,
+      "start": 7.867,
+      "end": 8.833,
+      "dur": 0.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "sgabelli gialli vuoti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Gli sgabelli gialli spiccano sul pavimento rosso.",
+      "shot_idx": 5,
+      "start": 8.833,
+      "end": 10.033,
+      "dur": 1.2
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "bancone pizzeria menu",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il bancone con il menu e il frigo Coca-Cola dominano la scena.",
+      "shot_idx": 6,
+      "start": 10.033,
+      "end": 15.833,
+      "dur": 5.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "quadro Tartarughe Ninja",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il quadro delle Tartarughe Ninja con la scritta 'Pepperoni Pizza' è il punto focale.",
+      "shot_idx": 7,
+      "start": 15.833,
+      "end": 16.333,
+      "dur": 0.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "scatola pizza bibite",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La scatola di pizza rossa con il logo e le bibite sullo sfondo.",
+      "shot_idx": 8,
+      "start": 16.333,
+      "end": 19.233,
+      "dur": 2.9
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo crocchetta scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene una crocchetta sopra una scatola di pizza aperta.",
+      "shot_idx": 9,
+      "start": 19.233,
+      "end": 21.767,
+      "dur": 2.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nugget",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta per addentare un nugget con gli occhi chiusi.",
+      "shot_idx": 10,
+      "start": 21.767,
+      "end": 23.4,
+      "dur": 1.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "nugget aperto formaggio",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Le mani del ragazzo tengono un nugget spezzato che rivela un ripieno giallo e filante.",
+      "shot_idx": 11,
+      "start": 23.4,
+      "end": 25.6,
+      "dur": 2.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "nugget formaggio filante",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il formaggio all'interno del nugget è molto filante, creando un effetto visivo appetitoso.",
+      "shot_idx": 12,
+      "start": 25.6,
+      "end": 27.067,
+      "dur": 1.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene nugget",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene in mano i due pezzi del nugget, con un'espressione soddisfatta.",
+      "shot_idx": 13,
+      "start": 27.067,
+      "end": 28.333,
+      "dur": 1.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "ala fritta croccante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene un'ala fritta dalla panatura molto croccante, con una scatola rossa sfocata sullo sfondo.",
+      "shot_idx": 14,
+      "start": 28.333,
+      "end": 30.7,
+      "dur": 2.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nugget",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con gli occhi chiusi sta addentando un nugget di pollo.",
+      "shot_idx": 15,
+      "start": 30.7,
+      "end": 32.3,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra nugget",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un nugget di pollo morso, mostrando l'interno.",
+      "shot_idx": 16,
+      "start": 32.3,
+      "end": 34.0,
+      "dur": 1.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "fette pizza patatine",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due fette di pizza, una con patatine fritte e wurstel, l'altra con salame piccante, sono su un bancone rosso.",
+      "shot_idx": 17,
+      "start": 34.0,
+      "end": 38.533,
+      "dur": 4.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza salame piccante",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un primo piano di una fetta di pizza con abbondante salame piccante e formaggio fuso.",
+      "shot_idx": 18,
+      "start": 38.533,
+      "end": 41.033,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con un'espressione sorpresa tiene in mano una fetta di pizza al salame piccante.",
+      "shot_idx": 19,
+      "start": 41.033,
+      "end": 43.167,
+      "dur": 2.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza piegata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una fetta di pizza piegata con una crosta ben cotta è tenuta in mano.",
+      "shot_idx": 20,
+      "start": 43.167,
+      "end": 45.433,
+      "dur": 2.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sta addentando una fetta di pizza piegata, con un'espressione concentrata.",
+      "shot_idx": 21,
+      "start": 45.433,
+      "end": 47.667,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il formaggio della pizza si allunga mentre il ragazzo la mangia, creando un effetto visivo accattivante.",
+      "shot_idx": 22,
+      "start": 47.667,
+      "end": 52.733,
+      "dur": 5.067
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con patatine",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una fetta di pizza è guarnita con patatine fritte e fette di salame, con un logo di pizza sullo sfondo.",
+      "shot_idx": 23,
+      "start": 52.733,
+      "end": 54.9,
+      "dur": 2.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta mangiando una fetta di pizza, con una scatola di pizza aperta in primo piano.",
+      "shot_idx": 24,
+      "start": 54.9,
+      "end": 57.533,
+      "dur": 2.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta addentando una fetta di pizza con patatine fritte e würstel.",
+      "shot_idx": 25,
+      "start": 57.533,
+      "end": 60.3,
+      "dur": 2.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene in mano una fetta di pizza e guarda in camera.",
+      "shot_idx": 26,
+      "start": 60.3,
+      "end": 66.433,
+      "dur": 6.133
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta addentando la pizza con un'espressione soddisfatta.",
+      "shot_idx": 27,
+      "start": 66.433,
+      "end": 69.167,
+      "dur": 2.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "due fette pizza",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due fette di pizza con salamino piccante sono in primo piano, con bibite sullo sfondo.",
+      "shot_idx": 28,
+      "start": 69.167,
+      "end": 72.233,
+      "dur": 3.067
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "La vera pizza nuyorkese finalmente arrivata a Milano."
+    },
+    {
+      "start": 2.5,
+      "end": 4.2,
+      "text": "Oggi ragazzi proviamo pepperoni pizza."
+    },
+    {
+      "start": 4.38,
+      "end": 7.64,
+      "text": "La prima realtà di pizza New York style aperta appunto a Milano."
+    },
+    {
+      "start": 7.76,
+      "end": 10.06,
+      "text": "In zona Sant'Ambrogio accanto all'università cattolica."
+    },
+    {
+      "start": 10.22,
+      "end": 12.8,
+      "text": "Il loro file è molto carino ed è tutto ben brandizzato."
+    },
+    {
+      "start": 12.9,
+      "end": 14.2,
+      "text": "E sembra davvero di stare a New York."
+    },
+    {
+      "start": 14.46,
+      "end": 17.02,
+      "text": "Noi prima di passare alle slice abbiamo iniziato con qualche fritto."
+    },
+    {
+      "start": 17.16,
+      "end": 19.44,
+      "text": "Con il loro Mac & Cheese e il loro Nuggets."
+    },
+    {
+      "start": 19.56,
+      "end": 23.06,
+      "text": "Intrami con una paratura clamorosa che le eresi perfettamente croccanti"
+    },
+    {
+      "start": 23.06,
+      "end": 25.24,
+      "text": "nonostante comunque dentro che sono morbidissimi."
+    },
+    {
+      "start": 25.32,
+      "end": 29.02,
+      "text": "Mac & Cheese davvero ottimo, molto saporito e da punto fritto alla perfezione."
+    },
+    {
+      "start": 29.02,
+      "end": 31.42,
+      "text": "Così come i Nuggets fatti proprio con il filetto di pollo."
+    },
+    {
+      "start": 31.48,
+      "end": 34.7,
+      "text": "Passando invece al punto forte di pepperoni pizza abbiamo appunto la loro slice."
+    },
+    {
+      "start": 34.9,
+      "end": 36.28,
+      "text": "Noi abbiamo provato tre slice diverse."
+    },
+    {
+      "start": 36.44,
+      "end": 38.88,
+      "text": "Iniziamo subito da una pepperoni con quattro formaggi."
+    },
+    {
+      "start": 38.92,
+      "end": 41.6,
+      "text": "Una pizza clamorosa cotta perfettamente."
+    },
+    {
+      "start": 41.78,
+      "end": 43.04,
+      "text": "Ovviamente molto saporita,"
+    },
+    {
+      "start": 43.14,
+      "end": 45.46,
+      "text": "nonostante comunque i pepperoni sentissero alla grande."
+    },
+    {
+      "start": 45.58,
+      "end": 49.42,
+      "text": "Essendo veri i pepperoni quindi 50% maiale, 50% manzo."
+    },
+    {
+      "start": 49.48,
+      "end": 51.96,
+      "text": "Per un risultato leggermente speziato, leggermente piccante."
+    },
+    {
+      "start": 52.16,
+      "end": 53.94,
+      "text": "Siamo poi passati alla loro Gliustera e Panapine."
+    },
+    {
+      "start": 54.06,
+      "end": 55.88,
+      "text": "Che resta sempre una pizza devastante."
+    },
+    {
+      "start": 56.04,
+      "end": 58.54,
+      "text": "Secondo me è ottimo con questa tipologia di pizza fatta a slice."
+    },
+    {
+      "start": 58.54,
+      "end": 61.7,
+      "text": "Per poi finire con la più classica, se non forse la migliore di tutto,"
+    },
+    {
+      "start": 61.84,
+      "end": 63.0,
+      "text": "vero, la classica pepperoni."
+    },
+    {
+      "start": 63.06,
+      "end": 64.82,
+      "text": "Una pizza che sa proprio di New York."
+    },
+    {
+      "start": 65.02,
+      "end": 66.8,
+      "text": "E che honestamente a me mancava veramente tanto."
+    },
+    {
+      "start": 66.9,
+      "end": 69.32,
+      "text": "Quindi ragazzi che conoscete o meno questa tipologia di pizza,"
+    },
+    {
+      "start": 69.44,
+      "end": 71.86,
+      "text": "state a provarla perché davvero clamo, rosa."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "La"
+    },
+    {
+      "start": 0.22,
+      "end": 0.44,
+      "word": "vera"
+    },
+    {
+      "start": 0.44,
+      "end": 0.66,
+      "word": "pizza"
+    },
+    {
+      "start": 0.66,
+      "end": 1.22,
+      "word": "nuyorkese"
+    },
+    {
+      "start": 1.22,
+      "end": 1.54,
+      "word": "finalmente"
+    },
+    {
+      "start": 1.54,
+      "end": 2.06,
+      "word": "arrivata"
+    },
+    {
+      "start": 2.06,
+      "end": 2.18,
+      "word": "a"
+    },
+    {
+      "start": 2.18,
+      "end": 2.46,
+      "word": "Milano."
+    },
+    {
+      "start": 2.5,
+      "end": 2.68,
+      "word": "Oggi"
+    },
+    {
+      "start": 2.68,
+      "end": 2.96,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.96,
+      "end": 3.32,
+      "word": "proviamo"
+    },
+    {
+      "start": 3.32,
+      "end": 3.84,
+      "word": "pepperoni"
+    },
+    {
+      "start": 3.84,
+      "end": 4.2,
+      "word": "pizza."
+    },
+    {
+      "start": 4.38,
+      "end": 4.44,
+      "word": "La"
+    },
+    {
+      "start": 4.44,
+      "end": 4.6,
+      "word": "prima"
+    },
+    {
+      "start": 4.6,
+      "end": 5.0,
+      "word": "realtà"
+    },
+    {
+      "start": 5.0,
+      "end": 5.3,
+      "word": "di"
+    },
+    {
+      "start": 5.3,
+      "end": 5.56,
+      "word": "pizza"
+    },
+    {
+      "start": 5.56,
+      "end": 5.84,
+      "word": "New"
+    },
+    {
+      "start": 5.84,
+      "end": 6.06,
+      "word": "York"
+    },
+    {
+      "start": 6.06,
+      "end": 6.44,
+      "word": "style"
+    },
+    {
+      "start": 6.44,
+      "end": 6.98,
+      "word": "aperta"
+    },
+    {
+      "start": 6.98,
+      "end": 7.16,
+      "word": "appunto"
+    },
+    {
+      "start": 7.16,
+      "end": 7.34,
+      "word": "a"
+    },
+    {
+      "start": 7.34,
+      "end": 7.64,
+      "word": "Milano."
+    },
+    {
+      "start": 7.76,
+      "end": 7.78,
+      "word": "In"
+    },
+    {
+      "start": 7.78,
+      "end": 7.94,
+      "word": "zona"
+    },
+    {
+      "start": 7.94,
+      "end": 8.18,
+      "word": "Sant"
+    },
+    {
+      "start": 8.18,
+      "end": 8.58,
+      "word": "'Ambrogio"
+    },
+    {
+      "start": 8.58,
+      "end": 8.88,
+      "word": "accanto"
+    },
+    {
+      "start": 8.88,
+      "end": 9.04,
+      "word": "all"
+    },
+    {
+      "start": 9.04,
+      "end": 9.46,
+      "word": "'università"
+    },
+    {
+      "start": 9.46,
+      "end": 10.06,
+      "word": "cattolica."
+    },
+    {
+      "start": 10.22,
+      "end": 10.26,
+      "word": "Il"
+    },
+    {
+      "start": 10.26,
+      "end": 10.38,
+      "word": "loro"
+    },
+    {
+      "start": 10.38,
+      "end": 10.62,
+      "word": "file"
+    },
+    {
+      "start": 10.62,
+      "end": 10.82,
+      "word": "è"
+    },
+    {
+      "start": 10.82,
+      "end": 11.1,
+      "word": "molto"
+    },
+    {
+      "start": 11.1,
+      "end": 11.52,
+      "word": "carino"
+    },
+    {
+      "start": 11.52,
+      "end": 11.64,
+      "word": "ed"
+    },
+    {
+      "start": 11.64,
+      "end": 11.74,
+      "word": "è"
+    },
+    {
+      "start": 11.74,
+      "end": 11.92,
+      "word": "tutto"
+    },
+    {
+      "start": 11.92,
+      "end": 12.14,
+      "word": "ben"
+    },
+    {
+      "start": 12.14,
+      "end": 12.8,
+      "word": "brandizzato."
+    },
+    {
+      "start": 12.9,
+      "end": 12.92,
+      "word": "E"
+    },
+    {
+      "start": 12.92,
+      "end": 13.16,
+      "word": "sembra"
+    },
+    {
+      "start": 13.16,
+      "end": 13.46,
+      "word": "davvero"
+    },
+    {
+      "start": 13.46,
+      "end": 13.62,
+      "word": "di"
+    },
+    {
+      "start": 13.62,
+      "end": 13.8,
+      "word": "stare"
+    },
+    {
+      "start": 13.8,
+      "end": 13.88,
+      "word": "a"
+    },
+    {
+      "start": 13.88,
+      "end": 14.0,
+      "word": "New"
+    },
+    {
+      "start": 14.0,
+      "end": 14.2,
+      "word": "York."
+    },
+    {
+      "start": 14.46,
+      "end": 14.66,
+      "word": "Noi"
+    },
+    {
+      "start": 14.66,
+      "end": 14.82,
+      "word": "prima"
+    },
+    {
+      "start": 14.82,
+      "end": 14.96,
+      "word": "di"
+    },
+    {
+      "start": 14.96,
+      "end": 15.2,
+      "word": "passare"
+    },
+    {
+      "start": 15.2,
+      "end": 15.34,
+      "word": "alle"
+    },
+    {
+      "start": 15.34,
+      "end": 15.62,
+      "word": "slice"
+    },
+    {
+      "start": 15.62,
+      "end": 15.86,
+      "word": "abbiamo"
+    },
+    {
+      "start": 15.86,
+      "end": 16.2,
+      "word": "iniziato"
+    },
+    {
+      "start": 16.2,
+      "end": 16.36,
+      "word": "con"
+    },
+    {
+      "start": 16.36,
+      "end": 16.56,
+      "word": "qualche"
+    },
+    {
+      "start": 16.56,
+      "end": 17.02,
+      "word": "fritto."
+    },
+    {
+      "start": 17.16,
+      "end": 17.26,
+      "word": "Con"
+    },
+    {
+      "start": 17.26,
+      "end": 17.36,
+      "word": "il"
+    },
+    {
+      "start": 17.36,
+      "end": 17.52,
+      "word": "loro"
+    },
+    {
+      "start": 17.52,
+      "end": 17.84,
+      "word": "Mac"
+    },
+    {
+      "start": 17.84,
+      "end": 18.06,
+      "word": "&"
+    },
+    {
+      "start": 18.06,
+      "end": 18.28,
+      "word": "Cheese"
+    },
+    {
+      "start": 18.28,
+      "end": 18.72,
+      "word": "e"
+    },
+    {
+      "start": 18.72,
+      "end": 18.86,
+      "word": "il"
+    },
+    {
+      "start": 18.86,
+      "end": 19.02,
+      "word": "loro"
+    },
+    {
+      "start": 19.02,
+      "end": 19.44,
+      "word": "Nuggets."
+    },
+    {
+      "start": 19.56,
+      "end": 19.96,
+      "word": "Intrami"
+    },
+    {
+      "start": 19.96,
+      "end": 20.06,
+      "word": "con"
+    },
+    {
+      "start": 20.06,
+      "end": 20.2,
+      "word": "una"
+    },
+    {
+      "start": 20.2,
+      "end": 20.56,
+      "word": "paratura"
+    },
+    {
+      "start": 20.56,
+      "end": 21.36,
+      "word": "clamorosa"
+    },
+    {
+      "start": 21.36,
+      "end": 21.56,
+      "word": "che"
+    },
+    {
+      "start": 21.56,
+      "end": 21.66,
+      "word": "le"
+    },
+    {
+      "start": 21.66,
+      "end": 21.9,
+      "word": "eresi"
+    },
+    {
+      "start": 21.9,
+      "end": 22.48,
+      "word": "perfettamente"
+    },
+    {
+      "start": 22.48,
+      "end": 23.06,
+      "word": "croccanti"
+    },
+    {
+      "start": 23.06,
+      "end": 23.6,
+      "word": "nonostante"
+    },
+    {
+      "start": 23.6,
+      "end": 23.88,
+      "word": "comunque"
+    },
+    {
+      "start": 23.88,
+      "end": 24.22,
+      "word": "dentro"
+    },
+    {
+      "start": 24.22,
+      "end": 24.38,
+      "word": "che"
+    },
+    {
+      "start": 24.38,
+      "end": 24.58,
+      "word": "sono"
+    },
+    {
+      "start": 24.58,
+      "end": 25.24,
+      "word": "morbidissimi."
+    },
+    {
+      "start": 25.32,
+      "end": 25.4,
+      "word": "Mac"
+    },
+    {
+      "start": 25.4,
+      "end": 25.58,
+      "word": "&"
+    },
+    {
+      "start": 25.58,
+      "end": 25.68,
+      "word": "Cheese"
+    },
+    {
+      "start": 25.68,
+      "end": 26.14,
+      "word": "davvero"
+    },
+    {
+      "start": 26.14,
+      "end": 26.48,
+      "word": "ottimo,"
+    },
+    {
+      "start": 26.68,
+      "end": 26.78,
+      "word": "molto"
+    },
+    {
+      "start": 26.78,
+      "end": 27.32,
+      "word": "saporito"
+    },
+    {
+      "start": 27.32,
+      "end": 27.5,
+      "word": "e"
+    },
+    {
+      "start": 27.5,
+      "end": 27.6,
+      "word": "da"
+    },
+    {
+      "start": 27.6,
+      "end": 27.74,
+      "word": "punto"
+    },
+    {
+      "start": 27.74,
+      "end": 28.28,
+      "word": "fritto"
+    },
+    {
+      "start": 28.28,
+      "end": 28.5,
+      "word": "alla"
+    },
+    {
+      "start": 28.5,
+      "end": 29.02,
+      "word": "perfezione."
+    },
+    {
+      "start": 29.02,
+      "end": 29.34,
+      "word": "Così"
+    },
+    {
+      "start": 29.34,
+      "end": 29.48,
+      "word": "come"
+    },
+    {
+      "start": 29.48,
+      "end": 29.64,
+      "word": "i"
+    },
+    {
+      "start": 29.64,
+      "end": 29.86,
+      "word": "Nuggets"
+    },
+    {
+      "start": 29.86,
+      "end": 30.08,
+      "word": "fatti"
+    },
+    {
+      "start": 30.08,
+      "end": 30.28,
+      "word": "proprio"
+    },
+    {
+      "start": 30.28,
+      "end": 30.54,
+      "word": "con"
+    },
+    {
+      "start": 30.54,
+      "end": 30.64,
+      "word": "il"
+    },
+    {
+      "start": 30.64,
+      "end": 31.0,
+      "word": "filetto"
+    },
+    {
+      "start": 31.0,
+      "end": 31.14,
+      "word": "di"
+    },
+    {
+      "start": 31.14,
+      "end": 31.42,
+      "word": "pollo."
+    },
+    {
+      "start": 31.48,
+      "end": 31.72,
+      "word": "Passando"
+    },
+    {
+      "start": 31.72,
+      "end": 31.96,
+      "word": "invece"
+    },
+    {
+      "start": 31.96,
+      "end": 32.12,
+      "word": "al"
+    },
+    {
+      "start": 32.12,
+      "end": 32.22,
+      "word": "punto"
+    },
+    {
+      "start": 32.22,
+      "end": 32.58,
+      "word": "forte"
+    },
+    {
+      "start": 32.58,
+      "end": 32.76,
+      "word": "di"
+    },
+    {
+      "start": 32.76,
+      "end": 33.1,
+      "word": "pepperoni"
+    },
+    {
+      "start": 33.1,
+      "end": 33.4,
+      "word": "pizza"
+    },
+    {
+      "start": 33.4,
+      "end": 33.6,
+      "word": "abbiamo"
+    },
+    {
+      "start": 33.6,
+      "end": 33.9,
+      "word": "appunto"
+    },
+    {
+      "start": 33.9,
+      "end": 34.2,
+      "word": "la"
+    },
+    {
+      "start": 34.2,
+      "end": 34.38,
+      "word": "loro"
+    },
+    {
+      "start": 34.38,
+      "end": 34.7,
+      "word": "slice."
+    },
+    {
+      "start": 34.9,
+      "end": 34.96,
+      "word": "Noi"
+    },
+    {
+      "start": 34.96,
+      "end": 35.1,
+      "word": "abbiamo"
+    },
+    {
+      "start": 35.1,
+      "end": 35.4,
+      "word": "provato"
+    },
+    {
+      "start": 35.4,
+      "end": 35.62,
+      "word": "tre"
+    },
+    {
+      "start": 35.62,
+      "end": 35.88,
+      "word": "slice"
+    },
+    {
+      "start": 35.88,
+      "end": 36.28,
+      "word": "diverse."
+    },
+    {
+      "start": 36.44,
+      "end": 36.7,
+      "word": "Iniziamo"
+    },
+    {
+      "start": 36.7,
+      "end": 37.06,
+      "word": "subito"
+    },
+    {
+      "start": 37.06,
+      "end": 37.2,
+      "word": "da"
+    },
+    {
+      "start": 37.2,
+      "end": 37.32,
+      "word": "una"
+    },
+    {
+      "start": 37.32,
+      "end": 37.82,
+      "word": "pepperoni"
+    },
+    {
+      "start": 37.82,
+      "end": 38.0,
+      "word": "con"
+    },
+    {
+      "start": 38.0,
+      "end": 38.34,
+      "word": "quattro"
+    },
+    {
+      "start": 38.34,
+      "end": 38.88,
+      "word": "formaggi."
+    },
+    {
+      "start": 38.92,
+      "end": 39.02,
+      "word": "Una"
+    },
+    {
+      "start": 39.02,
+      "end": 39.26,
+      "word": "pizza"
+    },
+    {
+      "start": 39.26,
+      "end": 40.22,
+      "word": "clamorosa"
+    },
+    {
+      "start": 40.22,
+      "end": 40.7,
+      "word": "cotta"
+    },
+    {
+      "start": 40.7,
+      "end": 41.6,
+      "word": "perfettamente."
+    },
+    {
+      "start": 41.78,
+      "end": 42.1,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 42.1,
+      "end": 42.48,
+      "word": "molto"
+    },
+    {
+      "start": 42.48,
+      "end": 43.04,
+      "word": "saporita,"
+    },
+    {
+      "start": 43.14,
+      "end": 43.48,
+      "word": "nonostante"
+    },
+    {
+      "start": 43.48,
+      "end": 43.78,
+      "word": "comunque"
+    },
+    {
+      "start": 43.78,
+      "end": 44.04,
+      "word": "i"
+    },
+    {
+      "start": 44.04,
+      "end": 44.4,
+      "word": "pepperoni"
+    },
+    {
+      "start": 44.4,
+      "end": 44.98,
+      "word": "sentissero"
+    },
+    {
+      "start": 44.98,
+      "end": 45.14,
+      "word": "alla"
+    },
+    {
+      "start": 45.14,
+      "end": 45.46,
+      "word": "grande."
+    },
+    {
+      "start": 45.58,
+      "end": 45.84,
+      "word": "Essendo"
+    },
+    {
+      "start": 45.84,
+      "end": 46.32,
+      "word": "veri"
+    },
+    {
+      "start": 46.32,
+      "end": 46.48,
+      "word": "i"
+    },
+    {
+      "start": 46.48,
+      "end": 46.88,
+      "word": "pepperoni"
+    },
+    {
+      "start": 46.88,
+      "end": 47.04,
+      "word": "quindi"
+    },
+    {
+      "start": 47.04,
+      "end": 47.4,
+      "word": "50"
+    },
+    {
+      "start": 47.4,
+      "end": 47.74,
+      "word": "%"
+    },
+    {
+      "start": 47.74,
+      "end": 48.22,
+      "word": "maiale,"
+    },
+    {
+      "start": 48.34,
+      "end": 48.56,
+      "word": "50"
+    },
+    {
+      "start": 48.56,
+      "end": 49.04,
+      "word": "%"
+    },
+    {
+      "start": 49.04,
+      "end": 49.42,
+      "word": "manzo."
+    },
+    {
+      "start": 49.48,
+      "end": 49.54,
+      "word": "Per"
+    },
+    {
+      "start": 49.54,
+      "end": 49.62,
+      "word": "un"
+    },
+    {
+      "start": 49.62,
+      "end": 50.08,
+      "word": "risultato"
+    },
+    {
+      "start": 50.08,
+      "end": 50.52,
+      "word": "leggermente"
+    },
+    {
+      "start": 50.52,
+      "end": 51.02,
+      "word": "speziato,"
+    },
+    {
+      "start": 51.06,
+      "end": 51.44,
+      "word": "leggermente"
+    },
+    {
+      "start": 51.44,
+      "end": 51.96,
+      "word": "piccante."
+    },
+    {
+      "start": 52.16,
+      "end": 52.26,
+      "word": "Siamo"
+    },
+    {
+      "start": 52.26,
+      "end": 52.46,
+      "word": "poi"
+    },
+    {
+      "start": 52.46,
+      "end": 52.78,
+      "word": "passati"
+    },
+    {
+      "start": 52.78,
+      "end": 52.92,
+      "word": "alla"
+    },
+    {
+      "start": 52.92,
+      "end": 53.08,
+      "word": "loro"
+    },
+    {
+      "start": 53.08,
+      "end": 53.44,
+      "word": "Gliustera"
+    },
+    {
+      "start": 53.44,
+      "end": 53.54,
+      "word": "e"
+    },
+    {
+      "start": 53.54,
+      "end": 53.94,
+      "word": "Panapine."
+    },
+    {
+      "start": 54.06,
+      "end": 54.14,
+      "word": "Che"
+    },
+    {
+      "start": 54.14,
+      "end": 54.38,
+      "word": "resta"
+    },
+    {
+      "start": 54.38,
+      "end": 54.78,
+      "word": "sempre"
+    },
+    {
+      "start": 54.78,
+      "end": 54.98,
+      "word": "una"
+    },
+    {
+      "start": 54.98,
+      "end": 55.2,
+      "word": "pizza"
+    },
+    {
+      "start": 55.2,
+      "end": 55.88,
+      "word": "devastante."
+    },
+    {
+      "start": 56.04,
+      "end": 56.14,
+      "word": "Secondo"
+    },
+    {
+      "start": 56.14,
+      "end": 56.3,
+      "word": "me"
+    },
+    {
+      "start": 56.3,
+      "end": 56.42,
+      "word": "è"
+    },
+    {
+      "start": 56.42,
+      "end": 56.66,
+      "word": "ottimo"
+    },
+    {
+      "start": 56.66,
+      "end": 56.82,
+      "word": "con"
+    },
+    {
+      "start": 56.82,
+      "end": 57.0,
+      "word": "questa"
+    },
+    {
+      "start": 57.0,
+      "end": 57.36,
+      "word": "tipologia"
+    },
+    {
+      "start": 57.36,
+      "end": 57.54,
+      "word": "di"
+    },
+    {
+      "start": 57.54,
+      "end": 57.8,
+      "word": "pizza"
+    },
+    {
+      "start": 57.8,
+      "end": 58.14,
+      "word": "fatta"
+    },
+    {
+      "start": 58.14,
+      "end": 58.46,
+      "word": "a"
+    },
+    {
+      "start": 58.46,
+      "end": 58.54,
+      "word": "slice."
+    },
+    {
+      "start": 58.54,
+      "end": 58.8,
+      "word": "Per"
+    },
+    {
+      "start": 58.8,
+      "end": 58.92,
+      "word": "poi"
+    },
+    {
+      "start": 58.92,
+      "end": 59.24,
+      "word": "finire"
+    },
+    {
+      "start": 59.24,
+      "end": 59.36,
+      "word": "con"
+    },
+    {
+      "start": 59.36,
+      "end": 59.48,
+      "word": "la"
+    },
+    {
+      "start": 59.48,
+      "end": 59.58,
+      "word": "più"
+    },
+    {
+      "start": 59.58,
+      "end": 60.12,
+      "word": "classica,"
+    },
+    {
+      "start": 60.34,
+      "end": 60.44,
+      "word": "se"
+    },
+    {
+      "start": 60.44,
+      "end": 60.54,
+      "word": "non"
+    },
+    {
+      "start": 60.54,
+      "end": 60.84,
+      "word": "forse"
+    },
+    {
+      "start": 60.84,
+      "end": 60.96,
+      "word": "la"
+    },
+    {
+      "start": 60.96,
+      "end": 61.34,
+      "word": "migliore"
+    },
+    {
+      "start": 61.34,
+      "end": 61.48,
+      "word": "di"
+    },
+    {
+      "start": 61.48,
+      "end": 61.7,
+      "word": "tutto,"
+    },
+    {
+      "start": 61.84,
+      "end": 62.02,
+      "word": "vero,"
+    },
+    {
+      "start": 62.04,
+      "end": 62.12,
+      "word": "la"
+    },
+    {
+      "start": 62.12,
+      "end": 62.52,
+      "word": "classica"
+    },
+    {
+      "start": 62.52,
+      "end": 63.0,
+      "word": "pepperoni."
+    },
+    {
+      "start": 63.06,
+      "end": 63.2,
+      "word": "Una"
+    },
+    {
+      "start": 63.2,
+      "end": 63.48,
+      "word": "pizza"
+    },
+    {
+      "start": 63.48,
+      "end": 63.64,
+      "word": "che"
+    },
+    {
+      "start": 63.64,
+      "end": 63.78,
+      "word": "sa"
+    },
+    {
+      "start": 63.78,
+      "end": 64.1,
+      "word": "proprio"
+    },
+    {
+      "start": 64.1,
+      "end": 64.38,
+      "word": "di"
+    },
+    {
+      "start": 64.38,
+      "end": 64.52,
+      "word": "New"
+    },
+    {
+      "start": 64.52,
+      "end": 64.82,
+      "word": "York."
+    },
+    {
+      "start": 65.02,
+      "end": 65.08,
+      "word": "E"
+    },
+    {
+      "start": 65.08,
+      "end": 65.16,
+      "word": "che"
+    },
+    {
+      "start": 65.16,
+      "end": 65.62,
+      "word": "honestamente"
+    },
+    {
+      "start": 65.62,
+      "end": 65.74,
+      "word": "a"
+    },
+    {
+      "start": 65.74,
+      "end": 65.8,
+      "word": "me"
+    },
+    {
+      "start": 65.8,
+      "end": 66.16,
+      "word": "mancava"
+    },
+    {
+      "start": 66.16,
+      "end": 66.4,
+      "word": "veramente"
+    },
+    {
+      "start": 66.4,
+      "end": 66.8,
+      "word": "tanto."
+    },
+    {
+      "start": 66.9,
+      "end": 67.02,
+      "word": "Quindi"
+    },
+    {
+      "start": 67.02,
+      "end": 67.42,
+      "word": "ragazzi"
+    },
+    {
+      "start": 67.42,
+      "end": 67.54,
+      "word": "che"
+    },
+    {
+      "start": 67.54,
+      "end": 67.98,
+      "word": "conoscete"
+    },
+    {
+      "start": 67.98,
+      "end": 68.06,
+      "word": "o"
+    },
+    {
+      "start": 68.06,
+      "end": 68.2,
+      "word": "meno"
+    },
+    {
+      "start": 68.2,
+      "end": 68.44,
+      "word": "questa"
+    },
+    {
+      "start": 68.44,
+      "end": 68.92,
+      "word": "tipologia"
+    },
+    {
+      "start": 68.92,
+      "end": 69.02,
+      "word": "di"
+    },
+    {
+      "start": 69.02,
+      "end": 69.32,
+      "word": "pizza,"
+    },
+    {
+      "start": 69.44,
+      "end": 69.58,
+      "word": "state"
+    },
+    {
+      "start": 69.58,
+      "end": 69.68,
+      "word": "a"
+    },
+    {
+      "start": 69.68,
+      "end": 70.08,
+      "word": "provarla"
+    },
+    {
+      "start": 70.08,
+      "end": 70.28,
+      "word": "perché"
+    },
+    {
+      "start": 70.28,
+      "end": 70.66,
+      "word": "davvero"
+    },
+    {
+      "start": 70.66,
+      "end": 71.2,
+      "word": "clamo,"
+    },
+    {
+      "start": 71.38,
+      "end": 71.86,
+      "word": "rosa."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "La vera pizza nuyorkese finalmente arrivata"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.5,
+      "dur": 2.5,
+      "transcript": "a Milano. Oggi ragazzi proviamo pepperoni pizza. La"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.5,
+      "end": 6.267,
+      "dur": 1.767,
+      "transcript": "prima realtà di pizza New York style"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.267,
+      "end": 7.867,
+      "dur": 1.6,
+      "transcript": "aperta appunto a Milano. In zona"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.867,
+      "end": 8.833,
+      "dur": 0.967,
+      "transcript": "Sant 'Ambrogio accanto"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.833,
+      "end": 10.033,
+      "dur": 1.2,
+      "transcript": "all 'università cattolica."
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.033,
+      "end": 15.833,
+      "dur": 5.8,
+      "transcript": "Il loro file è molto carino ed è tutto ben brandizzato. E sembra davvero di stare a New York. Noi prima di passare alle slice abbiamo"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.833,
+      "end": 16.333,
+      "dur": 0.5,
+      "transcript": "iniziato con"
+    },
+    {
+      "shot_idx": 8,
+      "start": 16.333,
+      "end": 19.233,
+      "dur": 2.9,
+      "transcript": "qualche fritto. Con il loro Mac & Cheese e il loro Nuggets."
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.233,
+      "end": 21.767,
+      "dur": 2.533,
+      "transcript": "Intrami con una paratura clamorosa che le"
+    },
+    {
+      "shot_idx": 10,
+      "start": 21.767,
+      "end": 23.4,
+      "dur": 1.633,
+      "transcript": "eresi perfettamente croccanti nonostante"
+    },
+    {
+      "shot_idx": 11,
+      "start": 23.4,
+      "end": 25.6,
+      "dur": 2.2,
+      "transcript": "comunque dentro che sono morbidissimi. Mac &"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.6,
+      "end": 27.067,
+      "dur": 1.467,
+      "transcript": "Cheese davvero ottimo, molto saporito"
+    },
+    {
+      "shot_idx": 13,
+      "start": 27.067,
+      "end": 28.333,
+      "dur": 1.267,
+      "transcript": "e da punto fritto"
+    },
+    {
+      "shot_idx": 14,
+      "start": 28.333,
+      "end": 30.7,
+      "dur": 2.367,
+      "transcript": "alla perfezione. Così come i Nuggets fatti proprio con il"
+    },
+    {
+      "shot_idx": 15,
+      "start": 30.7,
+      "end": 32.3,
+      "dur": 1.6,
+      "transcript": "filetto di pollo. Passando invece al punto"
+    },
+    {
+      "shot_idx": 16,
+      "start": 32.3,
+      "end": 34.0,
+      "dur": 1.7,
+      "transcript": "forte di pepperoni pizza abbiamo appunto"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.0,
+      "end": 38.533,
+      "dur": 4.533,
+      "transcript": "la loro slice. Noi abbiamo provato tre slice diverse. Iniziamo subito da una pepperoni con quattro"
+    },
+    {
+      "shot_idx": 18,
+      "start": 38.533,
+      "end": 41.033,
+      "dur": 2.5,
+      "transcript": "formaggi. Una pizza clamorosa cotta"
+    },
+    {
+      "shot_idx": 19,
+      "start": 41.033,
+      "end": 43.167,
+      "dur": 2.133,
+      "transcript": "perfettamente. Ovviamente molto saporita,"
+    },
+    {
+      "shot_idx": 20,
+      "start": 43.167,
+      "end": 45.433,
+      "dur": 2.267,
+      "transcript": "nonostante comunque i pepperoni sentissero alla grande."
+    },
+    {
+      "shot_idx": 21,
+      "start": 45.433,
+      "end": 47.667,
+      "dur": 2.233,
+      "transcript": "Essendo veri i pepperoni quindi 50 %"
+    },
+    {
+      "shot_idx": 22,
+      "start": 47.667,
+      "end": 52.733,
+      "dur": 5.067,
+      "transcript": "maiale, 50 % manzo. Per un risultato leggermente speziato, leggermente piccante. Siamo poi passati"
+    },
+    {
+      "shot_idx": 23,
+      "start": 52.733,
+      "end": 54.9,
+      "dur": 2.167,
+      "transcript": "alla loro Gliustera e Panapine. Che resta sempre una"
+    },
+    {
+      "shot_idx": 24,
+      "start": 54.9,
+      "end": 57.533,
+      "dur": 2.633,
+      "transcript": "pizza devastante. Secondo me è ottimo con questa tipologia di"
+    },
+    {
+      "shot_idx": 25,
+      "start": 57.533,
+      "end": 60.3,
+      "dur": 2.767,
+      "transcript": "pizza fatta a slice. Per poi finire con la più classica,"
+    },
+    {
+      "shot_idx": 26,
+      "start": 60.3,
+      "end": 66.433,
+      "dur": 6.133,
+      "transcript": "se non forse la migliore di tutto, vero, la classica pepperoni. Una pizza che sa proprio di New York. E che honestamente a me mancava veramente"
+    },
+    {
+      "shot_idx": 27,
+      "start": 66.433,
+      "end": 69.167,
+      "dur": 2.733,
+      "transcript": "tanto. Quindi ragazzi che conoscete o meno questa tipologia di"
+    },
+    {
+      "shot_idx": 28,
+      "start": 69.167,
+      "end": 72.233,
+      "dur": 3.067,
+      "transcript": "pizza, state a provarla perché davvero clamo, rosa."
+    }
+  ],
+  "full_text": "La vera pizza nuyorkese finalmente arrivata a Milano. Oggi ragazzi proviamo pepperoni pizza. La prima realtà di pizza New York style aperta appunto a Milano. In zona Sant'Ambrogio accanto all'università cattolica. Il loro file è molto carino ed è tutto ben brandizzato. E sembra davvero di stare a New York. Noi prima di passare alle slice abbiamo iniziato con qualche fritto. Con il loro Mac & Cheese e il loro Nuggets. Intrami con una paratura clamorosa che le eresi perfettamente croccanti nonostante comunque dentro che sono morbidissimi. Mac & Cheese davvero ottimo, molto saporito e da punto fritto alla perfezione. Così come i Nuggets fatti proprio con il filetto di pollo. Passando invece al punto forte di pepperoni pizza abbiamo appunto la loro slice. Noi abbiamo provato tre slice diverse. Iniziamo subito da una pepperoni con quattro formaggi. Una pizza clamorosa cotta perfettamente. Ovviamente molto saporita, nonostante comunque i pepperoni sentissero alla grande. Essendo veri i pepperoni quindi 50% maiale, 50% manzo. Per un risultato leggermente speziato, leggermente piccante. Siamo poi passati alla loro Gliustera e Panapine. Che resta sempre una pizza devastante. Secondo me è ottimo con questa tipologia di pizza fatta a slice. Per poi finire con la più classica, se non forse la migliore di tutto, vero, la classica pepperoni. Una pizza che sa proprio di New York. E che honestamente a me mancava veramente tanto. Quindi ragazzi che conoscete o meno questa tipologia di pizza, state a provarla perché davvero clamo, rosa.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

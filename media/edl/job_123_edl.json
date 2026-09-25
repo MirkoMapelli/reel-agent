@@ -1,0 +1,330 @@
+{
+  "title": "Wings Top Milano - Il Nuovo Arrivo",
+  "voiceover_script": "Ragazzi, Wings Top è finalmente arrivato in Italia e abbiamo dovuto provarli subito. Questo nuovo locale a Milano offre un menu incredibile di ali, tenders e pezzi di pollo fritto con sei flavor diversi. Abbiamo ordinato un po' di tutto: le classiche ali al mango habanero, dolcissime e piccantini, poi le spicy korean che picchiano davvero, i boneless tenders super croccanti fuori e morbidi dentro. Le patatine fritte sono perfette, dorate e leggermente salate. Ma il vero protagonista sono i flavor: il mango habanero ha vinto su tutto, cremoso e equilibrato. Le ali glazed sono appiccicose nel migliore dei modi, mentre i tenders con salsa bianca sono un'altra storia. Ogni boccone è soddisfacente, ogni flavor diverso dall'altro. Se siete amanti del pollo fritto, Wings Top Milano non potete perderlo.",
+  "timeline": [
+    {
+      "scene_id": 123,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "venue_interior_detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 131,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "clip_name": "IMG_6844.MOV",
+      "in_sec": 0.316,
+      "out_sec": 3.184,
+      "duration": 2.87,
+      "role": "venue_interior_detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 0,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "clip_name": "IMG_6813.MOV",
+      "in_sec": 0.227,
+      "out_sec": 3.273,
+      "duration": 3.05,
+      "role": "menu_board",
+      "subtitle_text": "Ragazzi, Wings Top è finalmente arrivato in Italia"
+    },
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.245,
+      "out_sec": 3.255,
+      "duration": 3.01,
+      "role": "food_plated",
+      "subtitle_text": "e abbiamo dovuto provarli subito."
+    },
+    {
+      "scene_id": 135,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "clip_name": "IMG_6844.MOV",
+      "in_sec": 12.4,
+      "out_sec": 15.18,
+      "duration": 2.78,
+      "role": "venue_interior_wide",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 5,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 3.25,
+      "out_sec": 6.45,
+      "duration": 3.2,
+      "role": "food_plated",
+      "subtitle_text": "Questo nuovo locale a Milano offre un menu incredibile di ali, tenders e pezzi di pollo fritto"
+    },
+    {
+      "scene_id": 124,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 3.25,
+      "out_sec": 6.45,
+      "duration": 3.2,
+      "role": "drink_detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.294,
+      "out_sec": 3.206,
+      "duration": 2.91,
+      "role": "food_closeup",
+      "subtitle_text": "con sei flavor diversi."
+    },
+    {
+      "scene_id": 19,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 0.174,
+      "out_sec": 3.326,
+      "duration": 3.15,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 125,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 6.515,
+      "out_sec": 9.385,
+      "duration": 2.87,
+      "role": "drink_pour",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.347,
+      "out_sec": 6.353,
+      "duration": 3.01,
+      "role": "food_closeup",
+      "subtitle_text": "Abbiamo ordinato un po' di tutto: le classiche ali al mango habanero,"
+    },
+    {
+      "scene_id": 126,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "drink_detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 15.816,
+      "out_sec": 18.684,
+      "duration": 2.87,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 8,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 6.454,
+      "out_sec": 9.446,
+      "duration": 2.99,
+      "role": "food_closeup",
+      "subtitle_text": "dolcissime e piccantini,"
+    },
+    {
+      "scene_id": 9,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "poi le spicy korean che picchiano davvero,"
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.55,
+      "out_sec": 15.75,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "i boneless tenders super croccanti fuori e morbidi dentro."
+    },
+    {
+      "scene_id": 25,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 18.846,
+      "out_sec": 21.854,
+      "duration": 3.01,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 11,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 15.65,
+      "out_sec": 18.85,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "Le patatine fritte sono perfette,"
+    },
+    {
+      "scene_id": 12,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 18.75,
+      "out_sec": 21.95,
+      "duration": 3.2,
+      "role": "food_closeup",
+      "subtitle_text": "dorate e leggermente salate."
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.423,
+      "out_sec": 6.277,
+      "duration": 2.85,
+      "role": "person_eating",
+      "subtitle_text": "Ma il vero protagonista sono i flavor:"
+    },
+    {
+      "scene_id": 26,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 21.85,
+      "out_sec": 25.05,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 21,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": "il mango habanero ha vinto su tutto,"
+    },
+    {
+      "scene_id": 22,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 9.503,
+      "out_sec": 12.597,
+      "duration": 3.09,
+      "role": "person_eating",
+      "subtitle_text": "cremoso e equilibrato."
+    },
+    {
+      "scene_id": 23,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 12.67,
+      "out_sec": 15.63,
+      "duration": 2.96,
+      "role": "person_eating",
+      "subtitle_text": "Le ali glazed sono appiccicose nel migliore dei modi,"
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 29,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 3.304,
+      "out_sec": 6.396,
+      "duration": 3.09,
+      "role": "person_eating",
+      "subtitle_text": "mentre i tenders con salsa bianca sono un'altra storia."
+    },
+    {
+      "scene_id": 32,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 12.692,
+      "out_sec": 15.608,
+      "duration": 2.92,
+      "role": "food_closeup",
+      "subtitle_text": "Ogni boccone è soddisfacente,"
+    },
+    {
+      "scene_id": 36,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 25.091,
+      "out_sec": 28.009,
+      "duration": 2.92,
+      "role": "person_eating",
+      "subtitle_text": "ogni flavor diverso dall'altro."
+    },
+    {
+      "scene_id": 30,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 42,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "hands_gesture",
+      "subtitle_text": "Se siete amanti del pollo fritto,"
+    },
+    {
+      "scene_id": 52,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "clip_name": "IMG_6826.MOV",
+      "in_sec": 3.25,
+      "out_sec": 6.45,
+      "duration": 3.2,
+      "role": "food_detail",
+      "subtitle_text": "Wings Top Milano non potete perderlo."
+    },
+    {
+      "scene_id": 31,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 9.45,
+      "out_sec": 12.65,
+      "duration": 3.2,
+      "role": "person_eating",
+      "subtitle_text": ""
+    }
+  ],
+  "total_duration": 98.35,
+  "n_clips": 32,
+  "profile_id": 15,
+  "generated_at": "2026-09-18T10:58:39"
+}

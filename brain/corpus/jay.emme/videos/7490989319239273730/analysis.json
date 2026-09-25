@@ -1,0 +1,3815 @@
+{
+  "video_id": "7490989319239273730",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7490989319239273730",
+    "ref_id": "ref_94_7490989319239273730",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7490989319239273730",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 44,
+  "total_dur": 97.06,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6,
+      "center": 0.8,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patate",
+      "description": "Un ragazzo mangia con un cucchiaino in un ambiente affollato, con scritte e emoji in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Ma come si mangia nella lounge della"
+    },
+    {
+      "idx": 1,
+      "start": 1.6,
+      "end": 3.2,
+      "dur": 1.6,
+      "center": 2.4,
+      "role": "drink_detail",
+      "subject": "ragazzo bicchiere spumante",
+      "description": "Un ragazzo sorride mentre tiene in mano un bicchiere di spumante, con scritte e emoji in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Virtus Bologna? Oggi ragazzi assistiamo"
+    },
+    {
+      "idx": 2,
+      "start": 3.2,
+      "end": 3.933,
+      "dur": 0.733,
+      "center": 3.567,
+      "role": "venue_interior_wide",
+      "subject": "campo da basket",
+      "description": "Una vista ampia di un campo da basket durante una partita, con spettatori in primo piano e scritte in sovrimpressione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "una parte di"
+    },
+    {
+      "idx": 3,
+      "start": 3.933,
+      "end": 5.433,
+      "dur": 1.5,
+      "center": 4.683,
+      "role": "venue_interior_wide",
+      "subject": "giocatore basket schiaccia",
+      "description": "Un giocatore di basket sta schiacciando a canestro, con il tabellone segnapunti visibile e scritte in sovrimpressione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Eurolega tra Virtus Bologna"
+    },
+    {
+      "idx": 4,
+      "start": 5.433,
+      "end": 7.367,
+      "dur": 1.933,
+      "center": 6.4,
+      "role": "food_detail",
+      "subject": "chef serve patate",
+      "description": "Uno chef versa patate da una pentola in contenitori monoporzione, con un altro uomo in piedi sullo sfondo e scritte in sovrimpressione.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "e Real Madrid provando ovviamente l"
+    },
+    {
+      "idx": 5,
+      "start": 7.367,
+      "end": 10.367,
+      "dur": 3.0,
+      "center": 8.867,
+      "role": "venue_interior_detail",
+      "subject": "logo Segafredo Zanetti",
+      "description": "Il grande logo Segafredo Zanetti su una parete scura.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "'esperienza della loro lounge perché sì o che è l 'Eurolega ma anche il"
+    },
+    {
+      "idx": 6,
+      "start": 10.367,
+      "end": 12.4,
+      "dur": 2.033,
+      "center": 11.383,
+      "role": "venue_interior_wide",
+      "subject": "persone in fiera",
+      "description": "Una sala ampia con diverse persone che camminano e siedono.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "cibo vuole la sua parte Appena entrati abbiamo subito"
+    },
+    {
+      "idx": 7,
+      "start": 12.4,
+      "end": 13.5,
+      "dur": 1.1,
+      "center": 12.95,
+      "role": "food_detail",
+      "subject": "pizza al taglio",
+      "description": "Una pizza al taglio con salame piccante e formaggio su un tagliere di legno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_mista",
+      "transcript": "notato uno stand di Ital"
+    },
+    {
+      "idx": 8,
+      "start": 13.5,
+      "end": 14.933,
+      "dur": 1.433,
+      "center": 14.217,
+      "role": "person_eating",
+      "subject": "donna che serve pizza",
+      "description": "Una donna con grembiule rosso che serve una fetta di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_mista",
+      "transcript": "Pizza che è la mia pizza su"
+    },
+    {
+      "idx": 9,
+      "start": 14.933,
+      "end": 16.467,
+      "dur": 1.533,
+      "center": 15.7,
+      "role": "food_closeup",
+      "subject": "fette di pizza",
+      "description": "Due fette di pizza con salame piccante e formaggio in un cartoncino.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": "gelata preferita e quindi stanno subito"
+    },
+    {
+      "idx": 10,
+      "start": 16.467,
+      "end": 18.467,
+      "dur": 2.0,
+      "center": 17.467,
+      "role": "drink_detail",
+      "subject": "bicchiere spumante offerto",
+      "description": "La mano che porge il bicchiere di spumante e la fila di bicchieri vuoti in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "fermati a prendere qualche fettina con i peperoni"
+    },
+    {
+      "idx": 11,
+      "start": 18.467,
+      "end": 21.2,
+      "dur": 2.733,
+      "center": 19.833,
+      "role": "drink_detail",
+      "subject": "bicchiere spumante e piadina",
+      "description": "Il bicchiere di spumante in primo piano con una piadina sfocata sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "champagne di benvenuto e poi un po' di pizza bianca con"
+    },
+    {
+      "idx": 12,
+      "start": 21.2,
+      "end": 23.167,
+      "dur": 1.967,
+      "center": 22.183,
+      "role": "person_eating",
+      "subject": "ragazzo beve spumante",
+      "description": "Il ragazzo che beve dal bicchiere di spumante, con altre persone sfocate sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "la mortadella anzi direi con la Bologna"
+    },
+    {
+      "idx": 13,
+      "start": 23.167,
+      "end": 24.833,
+      "dur": 1.667,
+      "center": 24.0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo che addenta una fetta di pizza con formaggio filante.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "anche se la focaccia non era proprio il massimo"
+    },
+    {
+      "idx": 14,
+      "start": 24.833,
+      "end": 26.967,
+      "dur": 2.133,
+      "center": 25.9,
+      "role": "person_eating",
+      "subject": "ragazzo mangia piadina",
+      "description": "Il ragazzo che mangia un pezzo di piadina, con un anello blu in evidenza.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "infatti mi è piaciuta molto di più la pizza poi ho trovato quest"
+    },
+    {
+      "idx": 15,
+      "start": 26.967,
+      "end": 30.467,
+      "dur": 3.5,
+      "center": 28.717,
+      "role": "food_plated",
+      "subject": "tramezzini su vassoio",
+      "description": "Un vassoio d'acciaio pieno di tramezzini tagliati a triangolo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "'altro stand con dei salumi vegani quindi boh un po' preso con la curiosità ho"
+    },
+    {
+      "idx": 16,
+      "start": 30.467,
+      "end": 32.467,
+      "dur": 2.0,
+      "center": 31.467,
+      "role": "food_detail",
+      "subject": "tramezzino in mano",
+      "description": "Un tramezzino triangolare con ripieno di salume e formaggio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "detto vabbè proviamo un paio di questi tramazzini salumi"
+    },
+    {
+      "idx": 17,
+      "start": 32.467,
+      "end": 34.467,
+      "dur": 2.0,
+      "center": 33.467,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo con un anello blu al dito che addenta un tramezzino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "buoni anche se non ricordiamo tanto"
+    },
+    {
+      "idx": 18,
+      "start": 34.467,
+      "end": 39.667,
+      "dur": 5.2,
+      "center": 37.067,
+      "role": "venue_interior_detail",
+      "subject": "chef che serve cibo",
+      "description": "Uno chef in divisa bianca che serve patate da una pentola grande.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "con gli normali però sapore diverso ma appunto buono e poi finalmente lo stand che aspettavo di più ovvero quello di tortellini"
+    },
+    {
+      "idx": 19,
+      "start": 39.667,
+      "end": 45.733,
+      "dur": 6.067,
+      "center": 42.7,
+      "role": "food_detail",
+      "subject": "tortelli con formaggio",
+      "description": "Una ciotola di tortelli ripieni con formaggio grattugiato sopra.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "bolognese tortellini che venivano scolati ogni 5 minuti semplici semplici con burre grana ripieno ricotte spinaci devo dire"
+    },
+    {
+      "idx": 20,
+      "start": 45.733,
+      "end": 48.033,
+      "dur": 2.3,
+      "center": 46.883,
+      "role": "food_detail",
+      "subject": "tortellini in ciotola",
+      "description": "Una ciotola di tortellini con una forchetta di plastica bianca.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "loro molto molto buoni tra l 'altro anche la cottura"
+    },
+    {
+      "idx": 21,
+      "start": 48.033,
+      "end": 51.433,
+      "dur": 3.4,
+      "center": 49.733,
+      "role": "person_eating",
+      "subject": "ragazzo mangia tortellino",
+      "description": "Un ragazzo sorride mentre porta un tortellino alla bocca con una forchetta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "perfetta nonostante continuassene a farne anche se poi alla fine ho dovuto tornare"
+    },
+    {
+      "idx": 22,
+      "start": 51.433,
+      "end": 53.233,
+      "dur": 1.8,
+      "center": 52.333,
+      "role": "food_detail",
+      "subject": "fetta pizza formaggio",
+      "description": "Una mano tiene una fetta di pizza al formaggio sopra altre fette in un cartone.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "sempre sulla mia solita Ital Pizza che non"
+    },
+    {
+      "idx": 23,
+      "start": 53.233,
+      "end": 55.833,
+      "dur": 2.6,
+      "center": 54.533,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo morde una fetta di pizza, con un'espressione di gusto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "delude mai e per concludere con qualche dolcetto un bacio"
+    },
+    {
+      "idx": 24,
+      "start": 55.833,
+      "end": 57.467,
+      "dur": 1.633,
+      "center": 56.65,
+      "role": "food_detail",
+      "subject": "dolce cioccolato granella",
+      "description": "Una mano tiene un dolcetto al cioccolato ricoperto di granella.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "di dama e questa palla gigante"
+    },
+    {
+      "idx": 25,
+      "start": 57.467,
+      "end": 59.567,
+      "dur": 2.1,
+      "center": 58.517,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Un ragazzo con gli occhi spalancati mangia un dolce scuro.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "di cioccolato ripiene di cioccolato ricoperte il"
+    },
+    {
+      "idx": 26,
+      "start": 59.567,
+      "end": 60.933,
+      "dur": 1.367,
+      "center": 60.25,
+      "role": "other",
+      "subject": "sfondo scuro",
+      "description": "L'immagine è quasi completamente nera con del testo bianco in basso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "cioccolato una roba pesantissima"
+    },
+    {
+      "idx": 27,
+      "start": 60.933,
+      "end": 63.667,
+      "dur": 2.733,
+      "center": 62.3,
+      "role": "venue_interior_wide",
+      "subject": "campo da basket vuoto",
+      "description": "Un campo da basket illuminato con spalti vuoti e un tabellone luminoso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "che veniva solo stomaco per tutto il primo tempo che tra l 'altro per"
+    },
+    {
+      "idx": 28,
+      "start": 63.667,
+      "end": 66.567,
+      "dur": 2.9,
+      "center": 65.117,
+      "role": "venue_interior_wide",
+      "subject": "partita di basket",
+      "description": "Giocatori di basket in azione su un campo con spalti pieni di pubblico.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "la virtuos non è partita niente anche molto bene essendo stati doppiati"
+    },
+    {
+      "idx": 29,
+      "start": 66.567,
+      "end": 69.1,
+      "dur": 2.533,
+      "center": 67.833,
+      "role": "venue_interior_wide",
+      "subject": "giocatore di basket tira",
+      "description": "Un giocatore di basket sta per tirare a canestro, con altri giocatori e pubblico sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "il punteggio per praticamente tutti i primi due quarti ma"
+    },
+    {
+      "idx": 30,
+      "start": 69.1,
+      "end": 71.8,
+      "dur": 2.7,
+      "center": 70.45,
+      "role": "drink_detail",
+      "subject": "ragazzo con calice",
+      "description": "Il ragazzo sorride mentre tiene in mano un calice di spumante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "noi all 'intervallo ci siamo quindi consolati con un altro champagne"
+    },
+    {
+      "idx": 31,
+      "start": 71.8,
+      "end": 73.633,
+      "dur": 1.833,
+      "center": 72.717,
+      "role": "drink_detail",
+      "subject": "lattine di succo",
+      "description": "Una mano tiene due lattine di succo di frutta L'Angelica.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "e un paio di drink al mango e"
+    },
+    {
+      "idx": 32,
+      "start": 73.633,
+      "end": 75.3,
+      "dur": 1.667,
+      "center": 74.467,
+      "role": "person_eating",
+      "subject": "ragazzo beve caffè",
+      "description": "Il ragazzo beve da una tazzina di caffè con il logo Segafredo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "ananas poi un altro bel caffettino"
+    },
+    {
+      "idx": 33,
+      "start": 75.3,
+      "end": 77.4,
+      "dur": 2.1,
+      "center": 76.35,
+      "role": "venue_interior_wide",
+      "subject": "campo da basket",
+      "description": "Un campo da basket con giocatori e pubblico, illuminato da luci artificiali.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "e siamo ritornati in campo per il secondo"
+    },
+    {
+      "idx": 34,
+      "start": 77.4,
+      "end": 79.8,
+      "dur": 2.4,
+      "center": 78.6,
+      "role": "person_talking",
+      "subject": "ragazzo in palazzetto",
+      "description": "Il ragazzo si filma con il campo da basket sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "tempo dove devo dire che qualche cosa carina da parte"
+    },
+    {
+      "idx": 35,
+      "start": 79.8,
+      "end": 82.267,
+      "dur": 2.467,
+      "center": 81.033,
+      "role": "other",
+      "subject": "partita di basket",
+      "description": "Un'ampia inquadratura di una partita di basket con giocatori in campo e pubblico sugli spalti.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "della virtuos si è comunque vista nonostante comunque il risultato"
+    },
+    {
+      "idx": 36,
+      "start": 82.267,
+      "end": 84.3,
+      "dur": 2.033,
+      "center": 83.283,
+      "role": "other",
+      "subject": "giocatori di basket",
+      "description": "I giocatori di basket sono al centro dell'azione, con uno che salta per un tiro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "si è stato piuttosto deludente anche se comunque"
+    },
+    {
+      "idx": 37,
+      "start": 84.3,
+      "end": 85.433,
+      "dur": 1.133,
+      "center": 84.867,
+      "role": "other",
+      "subject": "campo da basket",
+      "description": "Il campo da basket è visibile con i giocatori in movimento e il pubblico in lontananza.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "ce lo aspettavamo"
+    },
+    {
+      "idx": 38,
+      "start": 85.433,
+      "end": 86.967,
+      "dur": 1.533,
+      "center": 86.2,
+      "role": "other",
+      "subject": "giocatore che schiaccia",
+      "description": "Un giocatore di basket sta saltando per schiacciare, con il tabellone segnapunti in alto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "giocando con real madrid in generale"
+    },
+    {
+      "idx": 39,
+      "start": 86.967,
+      "end": 89.333,
+      "dur": 2.367,
+      "center": 88.15,
+      "role": "other",
+      "subject": "azione di gioco",
+      "description": "Diversi giocatori sono raggruppati sotto il canestro, indicando un'azione di gioco intensa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "però è una esperienza molto carina anche perché il palazzetto"
+    },
+    {
+      "idx": 40,
+      "start": 89.333,
+      "end": 89.833,
+      "dur": 0.5,
+      "center": 89.583,
+      "role": "other",
+      "subject": "giocatore basket saluta",
+      "description": "Un giocatore di basket saluta qualcuno fuori campo, con la scritta 'ESSENDO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "non essendo"
+    },
+    {
+      "idx": 41,
+      "start": 89.833,
+      "end": 90.367,
+      "dur": 0.533,
+      "center": 90.1,
+      "role": "venue_interior_wide",
+      "subject": "campo da basket vuoto",
+      "description": "Il campo da basket è visibile con le tribune piene di persone e la scritta 'TROPPO' in sovrimpressione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "neanche troppo"
+    },
+    {
+      "idx": 42,
+      "start": 90.367,
+      "end": 91.133,
+      "dur": 0.767,
+      "center": 90.75,
+      "role": "other",
+      "subject": "giocatori basket salutano",
+      "description": "Due giocatori di basket salutano con le mani alzate, uno con un asciugamano sulle spalle, e la scritta 'LO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "grande lo giri"
+    },
+    {
+      "idx": 43,
+      "start": 91.133,
+      "end": 97.067,
+      "dur": 5.933,
+      "center": 94.1,
+      "role": "other",
+      "subject": "giocatore basket cammina",
+      "description": "Un giocatore di basket cammina sul campo, con la scritta 'DARGLI' in sovrimpressione e il tabellone dei punteggi in alto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "molto facile vedi i giocatori davvero da vicino tanto che puoi dargli anche la mano fine partita quindi direi approvata"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patate",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo mangia con un cucchiaino in un ambiente affollato, con scritte e emoji in sovrimpressione.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo bicchiere spumante",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sorride mentre tiene in mano un bicchiere di spumante, con scritte e emoji in sovrimpressione.",
+      "shot_idx": 1,
+      "start": 1.6,
+      "end": 3.2,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "campo da basket",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una vista ampia di un campo da basket durante una partita, con spettatori in primo piano e scritte in sovrimpressione.",
+      "shot_idx": 2,
+      "start": 3.2,
+      "end": 3.933,
+      "dur": 0.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "giocatore basket schiaccia",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un giocatore di basket sta schiacciando a canestro, con il tabellone segnapunti visibile e scritte in sovrimpressione.",
+      "shot_idx": 3,
+      "start": 3.933,
+      "end": 5.433,
+      "dur": 1.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "chef serve patate",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno chef versa patate da una pentola in contenitori monoporzione, con un altro uomo in piedi sullo sfondo e scritte in sovrimpressione.",
+      "shot_idx": 4,
+      "start": 5.433,
+      "end": 7.367,
+      "dur": 1.933
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "logo Segafredo Zanetti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il grande logo Segafredo Zanetti su una parete scura.",
+      "shot_idx": 5,
+      "start": 7.367,
+      "end": 10.367,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "persone in fiera",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una sala ampia con diverse persone che camminano e siedono.",
+      "shot_idx": 6,
+      "start": 10.367,
+      "end": 12.4,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza al taglio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Una pizza al taglio con salame piccante e formaggio su un tagliere di legno.",
+      "shot_idx": 7,
+      "start": 12.4,
+      "end": 13.5,
+      "dur": 1.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "donna che serve pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Una donna con grembiule rosso che serve una fetta di pizza.",
+      "shot_idx": 8,
+      "start": 13.5,
+      "end": 14.933,
+      "dur": 1.433
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "fette di pizza",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Due fette di pizza con salame piccante e formaggio in un cartoncino.",
+      "shot_idx": 9,
+      "start": 14.933,
+      "end": 16.467,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere spumante offerto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La mano che porge il bicchiere di spumante e la fila di bicchieri vuoti in primo piano.",
+      "shot_idx": 10,
+      "start": 16.467,
+      "end": 18.467,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere spumante e piadina",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il bicchiere di spumante in primo piano con una piadina sfocata sullo sfondo.",
+      "shot_idx": 11,
+      "start": 18.467,
+      "end": 21.2,
+      "dur": 2.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve spumante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che beve dal bicchiere di spumante, con altre persone sfocate sullo sfondo.",
+      "shot_idx": 12,
+      "start": 21.2,
+      "end": 23.167,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che addenta una fetta di pizza con formaggio filante.",
+      "shot_idx": 13,
+      "start": 23.167,
+      "end": 24.833,
+      "dur": 1.667
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia piadina",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che mangia un pezzo di piadina, con un anello blu in evidenza.",
+      "shot_idx": 14,
+      "start": 24.833,
+      "end": 26.967,
+      "dur": 2.133
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "tramezzini su vassoio",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un vassoio d'acciaio pieno di tramezzini tagliati a triangolo.",
+      "shot_idx": 15,
+      "start": 26.967,
+      "end": 30.467,
+      "dur": 3.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "tramezzino in mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un tramezzino triangolare con ripieno di salume e formaggio.",
+      "shot_idx": 16,
+      "start": 30.467,
+      "end": 32.467,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con un anello blu al dito che addenta un tramezzino.",
+      "shot_idx": 17,
+      "start": 32.467,
+      "end": 34.467,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "chef che serve cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno chef in divisa bianca che serve patate da una pentola grande.",
+      "shot_idx": 18,
+      "start": 34.467,
+      "end": 39.667,
+      "dur": 5.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "tortelli con formaggio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una ciotola di tortelli ripieni con formaggio grattugiato sopra.",
+      "shot_idx": 19,
+      "start": 39.667,
+      "end": 45.733,
+      "dur": 6.067
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "tortellini in ciotola",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una ciotola di tortellini con una forchetta di plastica bianca.",
+      "shot_idx": 20,
+      "start": 45.733,
+      "end": 48.033,
+      "dur": 2.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia tortellino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo sorride mentre porta un tortellino alla bocca con una forchetta.",
+      "shot_idx": 21,
+      "start": 48.033,
+      "end": 51.433,
+      "dur": 3.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta pizza formaggio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene una fetta di pizza al formaggio sopra altre fette in un cartone.",
+      "shot_idx": 22,
+      "start": 51.433,
+      "end": 53.233,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo morde una fetta di pizza, con un'espressione di gusto.",
+      "shot_idx": 23,
+      "start": 53.233,
+      "end": 55.833,
+      "dur": 2.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "dolce cioccolato granella",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene un dolcetto al cioccolato ricoperto di granella.",
+      "shot_idx": 24,
+      "start": 55.833,
+      "end": 57.467,
+      "dur": 1.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con gli occhi spalancati mangia un dolce scuro.",
+      "shot_idx": 25,
+      "start": 57.467,
+      "end": 59.567,
+      "dur": 2.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "sfondo scuro",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'immagine è quasi completamente nera con del testo bianco in basso.",
+      "shot_idx": 26,
+      "start": 59.567,
+      "end": 60.933,
+      "dur": 1.367
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "campo da basket vuoto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un campo da basket illuminato con spalti vuoti e un tabellone luminoso.",
+      "shot_idx": 27,
+      "start": 60.933,
+      "end": 63.667,
+      "dur": 2.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "partita di basket",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Giocatori di basket in azione su un campo con spalti pieni di pubblico.",
+      "shot_idx": 28,
+      "start": 63.667,
+      "end": 66.567,
+      "dur": 2.9
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "giocatore di basket tira",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un giocatore di basket sta per tirare a canestro, con altri giocatori e pubblico sullo sfondo.",
+      "shot_idx": 29,
+      "start": 66.567,
+      "end": 69.1,
+      "dur": 2.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo con calice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sorride mentre tiene in mano un calice di spumante.",
+      "shot_idx": 30,
+      "start": 69.1,
+      "end": 71.8,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "lattine di succo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene due lattine di succo di frutta L'Angelica.",
+      "shot_idx": 31,
+      "start": 71.8,
+      "end": 73.633,
+      "dur": 1.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve caffè",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo beve da una tazzina di caffè con il logo Segafredo.",
+      "shot_idx": 32,
+      "start": 73.633,
+      "end": 75.3,
+      "dur": 1.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "campo da basket",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un campo da basket con giocatori e pubblico, illuminato da luci artificiali.",
+      "shot_idx": 33,
+      "start": 75.3,
+      "end": 77.4,
+      "dur": 2.1
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in palazzetto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo si filma con il campo da basket sullo sfondo.",
+      "shot_idx": 34,
+      "start": 77.4,
+      "end": 79.8,
+      "dur": 2.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "partita di basket",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un'ampia inquadratura di una partita di basket con giocatori in campo e pubblico sugli spalti.",
+      "shot_idx": 35,
+      "start": 79.8,
+      "end": 82.267,
+      "dur": 2.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "giocatori di basket",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "I giocatori di basket sono al centro dell'azione, con uno che salta per un tiro.",
+      "shot_idx": 36,
+      "start": 82.267,
+      "end": 84.3,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "campo da basket",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il campo da basket è visibile con i giocatori in movimento e il pubblico in lontananza.",
+      "shot_idx": 37,
+      "start": 84.3,
+      "end": 85.433,
+      "dur": 1.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "giocatore che schiaccia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un giocatore di basket sta saltando per schiacciare, con il tabellone segnapunti in alto.",
+      "shot_idx": 38,
+      "start": 85.433,
+      "end": 86.967,
+      "dur": 1.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "azione di gioco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Diversi giocatori sono raggruppati sotto il canestro, indicando un'azione di gioco intensa.",
+      "shot_idx": 39,
+      "start": 86.967,
+      "end": 89.333,
+      "dur": 2.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "giocatore basket saluta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un giocatore di basket saluta qualcuno fuori campo, con la scritta 'ESSENDO' in sovrimpressione.",
+      "shot_idx": 40,
+      "start": 89.333,
+      "end": 89.833,
+      "dur": 0.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "campo da basket vuoto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il campo da basket è visibile con le tribune piene di persone e la scritta 'TROPPO' in sovrimpressione.",
+      "shot_idx": 41,
+      "start": 89.833,
+      "end": 90.367,
+      "dur": 0.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "giocatori basket salutano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due giocatori di basket salutano con le mani alzate, uno con un asciugamano sulle spalle, e la scritta 'LO' in sovrimpressione.",
+      "shot_idx": 42,
+      "start": 90.367,
+      "end": 91.133,
+      "dur": 0.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "giocatore basket cammina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un giocatore di basket cammina sul campo, con la scritta 'DARGLI' in sovrimpressione e il tabellone dei punteggi in alto.",
+      "shot_idx": 43,
+      "start": 91.133,
+      "end": 97.067,
+      "dur": 5.933
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Ma come si mangia nella lounge della Virtus Bologna?"
+    },
+    {
+      "start": 2.5,
+      "end": 6.1,
+      "text": "Oggi ragazzi assistiamo una parte di Eurolega tra Virtus Bologna e Real Madrid"
+    },
+    {
+      "start": 6.1,
+      "end": 8.62,
+      "text": "provando ovviamente l'esperienza della loro lounge"
+    },
+    {
+      "start": 8.62,
+      "end": 11.26,
+      "text": "perché sì o che è l'Eurolega ma anche il cibo vuole la sua parte"
+    },
+    {
+      "start": 11.26,
+      "end": 13.88,
+      "text": "Appena entrati abbiamo subito notato uno stand di Ital Pizza"
+    },
+    {
+      "start": 13.88,
+      "end": 15.82,
+      "text": "che è la mia pizza su gelata preferita"
+    },
+    {
+      "start": 15.82,
+      "end": 18.58,
+      "text": "e quindi stanno subito fermati a prendere qualche fettina con i peperoni"
+    },
+    {
+      "start": 18.58,
+      "end": 19.86,
+      "text": "champagne di benvenuto"
+    },
+    {
+      "start": 19.86,
+      "end": 21.84,
+      "text": "e poi un po' di pizza bianca con la mortadella"
+    },
+    {
+      "start": 21.84,
+      "end": 23.14,
+      "text": "anzi direi con la Bologna"
+    },
+    {
+      "start": 23.14,
+      "end": 26.38,
+      "text": "anche se la focaccia non era proprio il massimo infatti mi è piaciuta molto di più la pizza"
+    },
+    {
+      "start": 26.38,
+      "end": 28.8,
+      "text": "poi ho trovato quest'altro stand con dei salumi vegani"
+    },
+    {
+      "start": 28.8,
+      "end": 32.26,
+      "text": "quindi boh un po' preso con la curiosità ho detto vabbè proviamo un paio di questi tramazzini"
+    },
+    {
+      "start": 32.26,
+      "end": 35.2,
+      "text": "salumi buoni anche se non ricordiamo tanto con gli normali"
+    },
+    {
+      "start": 35.2,
+      "end": 36.84,
+      "text": "però sapore diverso ma appunto buono"
+    },
+    {
+      "start": 36.84,
+      "end": 40.46,
+      "text": "e poi finalmente lo stand che aspettavo di più ovvero quello di tortellini bolognese"
+    },
+    {
+      "start": 40.46,
+      "end": 42.82,
+      "text": "tortellini che venivano scolati ogni 5 minuti"
+    },
+    {
+      "start": 42.82,
+      "end": 44.2,
+      "text": "semplici semplici con burre grana"
+    },
+    {
+      "start": 44.2,
+      "end": 47.08,
+      "text": "ripieno ricotte spinaci devo dire loro molto molto buoni"
+    },
+    {
+      "start": 47.08,
+      "end": 49.74,
+      "text": "tra l'altro anche la cottura perfetta nonostante continuassene a farne"
+    },
+    {
+      "start": 49.74,
+      "end": 54.02,
+      "text": "anche se poi alla fine ho dovuto tornare sempre sulla mia solita Ital Pizza che non delude mai"
+    },
+    {
+      "start": 54.02,
+      "end": 56.18,
+      "text": "e per concludere con qualche dolcetto un bacio di dama"
+    },
+    {
+      "start": 56.18,
+      "end": 59.06,
+      "text": "e questa palla gigante di cioccolato ripiene di cioccolato"
+    },
+    {
+      "start": 59.06,
+      "end": 59.9,
+      "text": "ricoperte il cioccolato"
+    },
+    {
+      "start": 59.9,
+      "end": 62.86,
+      "text": "una roba pesantissima che veniva solo stomaco per tutto il primo tempo"
+    },
+    {
+      "start": 62.86,
+      "end": 65.66,
+      "text": "che tra l'altro per la virtuos non è partita niente anche molto bene"
+    },
+    {
+      "start": 65.66,
+      "end": 69.0,
+      "text": "essendo stati doppiati il punteggio per praticamente tutti i primi due quarti"
+    },
+    {
+      "start": 69.0,
+      "end": 71.64,
+      "text": "ma noi all'intervallo ci siamo quindi consolati con un altro champagne"
+    },
+    {
+      "start": 71.64,
+      "end": 73.86,
+      "text": "e un paio di drink al mango e ananas"
+    },
+    {
+      "start": 73.86,
+      "end": 77.82,
+      "text": "poi un altro bel caffettino e siamo ritornati in campo per il secondo tempo"
+    },
+    {
+      "start": 77.82,
+      "end": 81.28,
+      "text": "dove devo dire che qualche cosa carina da parte della virtuos si è comunque vista"
+    },
+    {
+      "start": 81.28,
+      "end": 83.6,
+      "text": "nonostante comunque il risultato si è stato piuttosto deludente"
+    },
+    {
+      "start": 83.6,
+      "end": 86.44,
+      "text": "anche se comunque ce lo aspettavamo giocando con real madrid"
+    },
+    {
+      "start": 86.44,
+      "end": 89.28,
+      "text": "in generale però è una esperienza molto carina anche perché il palazzetto"
+    },
+    {
+      "start": 89.28,
+      "end": 90.58,
+      "text": "non essendo neanche troppo grande"
+    },
+    {
+      "start": 90.58,
+      "end": 91.76,
+      "text": "lo giri molto facile"
+    },
+    {
+      "start": 91.76,
+      "end": 95.42,
+      "text": "vedi i giocatori davvero da vicino tanto che puoi dargli anche la mano fine partita"
+    },
+    {
+      "start": 95.42,
+      "end": 96.6,
+      "text": "quindi direi approvata"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "word": "Ma"
+    },
+    {
+      "start": 0.14,
+      "end": 0.32,
+      "word": "come"
+    },
+    {
+      "start": 0.32,
+      "end": 0.48,
+      "word": "si"
+    },
+    {
+      "start": 0.48,
+      "end": 0.74,
+      "word": "mangia"
+    },
+    {
+      "start": 0.74,
+      "end": 0.94,
+      "word": "nella"
+    },
+    {
+      "start": 0.94,
+      "end": 1.4,
+      "word": "lounge"
+    },
+    {
+      "start": 1.4,
+      "end": 1.66,
+      "word": "della"
+    },
+    {
+      "start": 1.66,
+      "end": 2.06,
+      "word": "Virtus"
+    },
+    {
+      "start": 2.06,
+      "end": 2.44,
+      "word": "Bologna?"
+    },
+    {
+      "start": 2.5,
+      "end": 2.6,
+      "word": "Oggi"
+    },
+    {
+      "start": 2.6,
+      "end": 2.88,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.88,
+      "end": 3.28,
+      "word": "assistiamo"
+    },
+    {
+      "start": 3.28,
+      "end": 3.46,
+      "word": "una"
+    },
+    {
+      "start": 3.46,
+      "end": 3.64,
+      "word": "parte"
+    },
+    {
+      "start": 3.64,
+      "end": 3.94,
+      "word": "di"
+    },
+    {
+      "start": 3.94,
+      "end": 4.46,
+      "word": "Eurolega"
+    },
+    {
+      "start": 4.46,
+      "end": 4.66,
+      "word": "tra"
+    },
+    {
+      "start": 4.66,
+      "end": 5.1,
+      "word": "Virtus"
+    },
+    {
+      "start": 5.1,
+      "end": 5.54,
+      "word": "Bologna"
+    },
+    {
+      "start": 5.54,
+      "end": 5.66,
+      "word": "e"
+    },
+    {
+      "start": 5.66,
+      "end": 5.8,
+      "word": "Real"
+    },
+    {
+      "start": 5.8,
+      "end": 6.1,
+      "word": "Madrid"
+    },
+    {
+      "start": 6.1,
+      "end": 6.68,
+      "word": "provando"
+    },
+    {
+      "start": 6.68,
+      "end": 6.96,
+      "word": "ovviamente"
+    },
+    {
+      "start": 6.96,
+      "end": 7.2,
+      "word": "l"
+    },
+    {
+      "start": 7.2,
+      "end": 7.7,
+      "word": "'esperienza"
+    },
+    {
+      "start": 7.7,
+      "end": 7.96,
+      "word": "della"
+    },
+    {
+      "start": 7.96,
+      "end": 8.2,
+      "word": "loro"
+    },
+    {
+      "start": 8.2,
+      "end": 8.62,
+      "word": "lounge"
+    },
+    {
+      "start": 8.62,
+      "end": 8.86,
+      "word": "perché"
+    },
+    {
+      "start": 8.86,
+      "end": 9.1,
+      "word": "sì"
+    },
+    {
+      "start": 9.1,
+      "end": 9.2,
+      "word": "o"
+    },
+    {
+      "start": 9.2,
+      "end": 9.3,
+      "word": "che"
+    },
+    {
+      "start": 9.3,
+      "end": 9.4,
+      "word": "è"
+    },
+    {
+      "start": 9.4,
+      "end": 9.44,
+      "word": "l"
+    },
+    {
+      "start": 9.44,
+      "end": 9.84,
+      "word": "'Eurolega"
+    },
+    {
+      "start": 9.84,
+      "end": 9.98,
+      "word": "ma"
+    },
+    {
+      "start": 9.98,
+      "end": 10.18,
+      "word": "anche"
+    },
+    {
+      "start": 10.18,
+      "end": 10.3,
+      "word": "il"
+    },
+    {
+      "start": 10.3,
+      "end": 10.48,
+      "word": "cibo"
+    },
+    {
+      "start": 10.48,
+      "end": 10.7,
+      "word": "vuole"
+    },
+    {
+      "start": 10.7,
+      "end": 10.84,
+      "word": "la"
+    },
+    {
+      "start": 10.84,
+      "end": 10.94,
+      "word": "sua"
+    },
+    {
+      "start": 10.94,
+      "end": 11.26,
+      "word": "parte"
+    },
+    {
+      "start": 11.26,
+      "end": 11.52,
+      "word": "Appena"
+    },
+    {
+      "start": 11.52,
+      "end": 11.82,
+      "word": "entrati"
+    },
+    {
+      "start": 11.82,
+      "end": 12.0,
+      "word": "abbiamo"
+    },
+    {
+      "start": 12.0,
+      "end": 12.38,
+      "word": "subito"
+    },
+    {
+      "start": 12.38,
+      "end": 12.68,
+      "word": "notato"
+    },
+    {
+      "start": 12.68,
+      "end": 12.82,
+      "word": "uno"
+    },
+    {
+      "start": 12.82,
+      "end": 13.04,
+      "word": "stand"
+    },
+    {
+      "start": 13.04,
+      "end": 13.24,
+      "word": "di"
+    },
+    {
+      "start": 13.24,
+      "end": 13.54,
+      "word": "Ital"
+    },
+    {
+      "start": 13.54,
+      "end": 13.88,
+      "word": "Pizza"
+    },
+    {
+      "start": 13.88,
+      "end": 14.16,
+      "word": "che"
+    },
+    {
+      "start": 14.16,
+      "end": 14.36,
+      "word": "è"
+    },
+    {
+      "start": 14.36,
+      "end": 14.42,
+      "word": "la"
+    },
+    {
+      "start": 14.42,
+      "end": 14.54,
+      "word": "mia"
+    },
+    {
+      "start": 14.54,
+      "end": 14.78,
+      "word": "pizza"
+    },
+    {
+      "start": 14.78,
+      "end": 15.02,
+      "word": "su"
+    },
+    {
+      "start": 15.02,
+      "end": 15.36,
+      "word": "gelata"
+    },
+    {
+      "start": 15.36,
+      "end": 15.82,
+      "word": "preferita"
+    },
+    {
+      "start": 15.82,
+      "end": 15.9,
+      "word": "e"
+    },
+    {
+      "start": 15.9,
+      "end": 16.06,
+      "word": "quindi"
+    },
+    {
+      "start": 16.06,
+      "end": 16.26,
+      "word": "stanno"
+    },
+    {
+      "start": 16.26,
+      "end": 16.54,
+      "word": "subito"
+    },
+    {
+      "start": 16.54,
+      "end": 16.86,
+      "word": "fermati"
+    },
+    {
+      "start": 16.86,
+      "end": 16.94,
+      "word": "a"
+    },
+    {
+      "start": 16.94,
+      "end": 17.1,
+      "word": "prendere"
+    },
+    {
+      "start": 17.1,
+      "end": 17.3,
+      "word": "qualche"
+    },
+    {
+      "start": 17.3,
+      "end": 17.84,
+      "word": "fettina"
+    },
+    {
+      "start": 17.84,
+      "end": 18.04,
+      "word": "con"
+    },
+    {
+      "start": 18.04,
+      "end": 18.14,
+      "word": "i"
+    },
+    {
+      "start": 18.14,
+      "end": 18.58,
+      "word": "peperoni"
+    },
+    {
+      "start": 18.58,
+      "end": 18.88,
+      "word": "champagne"
+    },
+    {
+      "start": 18.88,
+      "end": 19.3,
+      "word": "di"
+    },
+    {
+      "start": 19.3,
+      "end": 19.86,
+      "word": "benvenuto"
+    },
+    {
+      "start": 19.86,
+      "end": 19.98,
+      "word": "e"
+    },
+    {
+      "start": 19.98,
+      "end": 20.08,
+      "word": "poi"
+    },
+    {
+      "start": 20.08,
+      "end": 20.2,
+      "word": "un"
+    },
+    {
+      "start": 20.2,
+      "end": 20.28,
+      "word": "po'"
+    },
+    {
+      "start": 20.38,
+      "end": 20.42,
+      "word": "di"
+    },
+    {
+      "start": 20.42,
+      "end": 20.64,
+      "word": "pizza"
+    },
+    {
+      "start": 20.64,
+      "end": 21.06,
+      "word": "bianca"
+    },
+    {
+      "start": 21.06,
+      "end": 21.2,
+      "word": "con"
+    },
+    {
+      "start": 21.2,
+      "end": 21.3,
+      "word": "la"
+    },
+    {
+      "start": 21.3,
+      "end": 21.84,
+      "word": "mortadella"
+    },
+    {
+      "start": 21.84,
+      "end": 22.16,
+      "word": "anzi"
+    },
+    {
+      "start": 22.16,
+      "end": 22.54,
+      "word": "direi"
+    },
+    {
+      "start": 22.54,
+      "end": 22.6,
+      "word": "con"
+    },
+    {
+      "start": 22.6,
+      "end": 22.7,
+      "word": "la"
+    },
+    {
+      "start": 22.7,
+      "end": 23.14,
+      "word": "Bologna"
+    },
+    {
+      "start": 23.14,
+      "end": 23.32,
+      "word": "anche"
+    },
+    {
+      "start": 23.32,
+      "end": 23.48,
+      "word": "se"
+    },
+    {
+      "start": 23.48,
+      "end": 23.58,
+      "word": "la"
+    },
+    {
+      "start": 23.58,
+      "end": 23.9,
+      "word": "focaccia"
+    },
+    {
+      "start": 23.9,
+      "end": 24.04,
+      "word": "non"
+    },
+    {
+      "start": 24.04,
+      "end": 24.18,
+      "word": "era"
+    },
+    {
+      "start": 24.18,
+      "end": 24.32,
+      "word": "proprio"
+    },
+    {
+      "start": 24.32,
+      "end": 24.48,
+      "word": "il"
+    },
+    {
+      "start": 24.48,
+      "end": 24.78,
+      "word": "massimo"
+    },
+    {
+      "start": 24.78,
+      "end": 25.0,
+      "word": "infatti"
+    },
+    {
+      "start": 25.0,
+      "end": 25.14,
+      "word": "mi"
+    },
+    {
+      "start": 25.14,
+      "end": 25.2,
+      "word": "è"
+    },
+    {
+      "start": 25.2,
+      "end": 25.46,
+      "word": "piaciuta"
+    },
+    {
+      "start": 25.46,
+      "end": 25.8,
+      "word": "molto"
+    },
+    {
+      "start": 25.8,
+      "end": 26.0,
+      "word": "di"
+    },
+    {
+      "start": 26.0,
+      "end": 26.08,
+      "word": "più"
+    },
+    {
+      "start": 26.08,
+      "end": 26.18,
+      "word": "la"
+    },
+    {
+      "start": 26.18,
+      "end": 26.38,
+      "word": "pizza"
+    },
+    {
+      "start": 26.38,
+      "end": 26.52,
+      "word": "poi"
+    },
+    {
+      "start": 26.52,
+      "end": 26.58,
+      "word": "ho"
+    },
+    {
+      "start": 26.58,
+      "end": 26.8,
+      "word": "trovato"
+    },
+    {
+      "start": 26.8,
+      "end": 27.0,
+      "word": "quest"
+    },
+    {
+      "start": 27.0,
+      "end": 27.14,
+      "word": "'altro"
+    },
+    {
+      "start": 27.14,
+      "end": 27.46,
+      "word": "stand"
+    },
+    {
+      "start": 27.46,
+      "end": 27.74,
+      "word": "con"
+    },
+    {
+      "start": 27.74,
+      "end": 27.92,
+      "word": "dei"
+    },
+    {
+      "start": 27.92,
+      "end": 28.24,
+      "word": "salumi"
+    },
+    {
+      "start": 28.24,
+      "end": 28.8,
+      "word": "vegani"
+    },
+    {
+      "start": 28.8,
+      "end": 29.02,
+      "word": "quindi"
+    },
+    {
+      "start": 29.02,
+      "end": 29.36,
+      "word": "boh"
+    },
+    {
+      "start": 29.36,
+      "end": 29.44,
+      "word": "un"
+    },
+    {
+      "start": 29.44,
+      "end": 29.54,
+      "word": "po'"
+    },
+    {
+      "start": 29.66,
+      "end": 29.8,
+      "word": "preso"
+    },
+    {
+      "start": 29.8,
+      "end": 29.88,
+      "word": "con"
+    },
+    {
+      "start": 29.88,
+      "end": 29.98,
+      "word": "la"
+    },
+    {
+      "start": 29.98,
+      "end": 30.34,
+      "word": "curiosità"
+    },
+    {
+      "start": 30.34,
+      "end": 30.54,
+      "word": "ho"
+    },
+    {
+      "start": 30.54,
+      "end": 30.56,
+      "word": "detto"
+    },
+    {
+      "start": 30.56,
+      "end": 30.84,
+      "word": "vabbè"
+    },
+    {
+      "start": 30.84,
+      "end": 31.14,
+      "word": "proviamo"
+    },
+    {
+      "start": 31.14,
+      "end": 31.26,
+      "word": "un"
+    },
+    {
+      "start": 31.26,
+      "end": 31.36,
+      "word": "paio"
+    },
+    {
+      "start": 31.36,
+      "end": 31.46,
+      "word": "di"
+    },
+    {
+      "start": 31.46,
+      "end": 31.66,
+      "word": "questi"
+    },
+    {
+      "start": 31.66,
+      "end": 32.26,
+      "word": "tramazzini"
+    },
+    {
+      "start": 32.26,
+      "end": 32.58,
+      "word": "salumi"
+    },
+    {
+      "start": 32.58,
+      "end": 33.08,
+      "word": "buoni"
+    },
+    {
+      "start": 33.08,
+      "end": 33.4,
+      "word": "anche"
+    },
+    {
+      "start": 33.4,
+      "end": 33.58,
+      "word": "se"
+    },
+    {
+      "start": 33.58,
+      "end": 33.72,
+      "word": "non"
+    },
+    {
+      "start": 33.72,
+      "end": 34.18,
+      "word": "ricordiamo"
+    },
+    {
+      "start": 34.18,
+      "end": 34.44,
+      "word": "tanto"
+    },
+    {
+      "start": 34.44,
+      "end": 34.68,
+      "word": "con"
+    },
+    {
+      "start": 34.68,
+      "end": 34.74,
+      "word": "gli"
+    },
+    {
+      "start": 34.74,
+      "end": 35.2,
+      "word": "normali"
+    },
+    {
+      "start": 35.2,
+      "end": 35.38,
+      "word": "però"
+    },
+    {
+      "start": 35.38,
+      "end": 35.7,
+      "word": "sapore"
+    },
+    {
+      "start": 35.7,
+      "end": 36.1,
+      "word": "diverso"
+    },
+    {
+      "start": 36.1,
+      "end": 36.22,
+      "word": "ma"
+    },
+    {
+      "start": 36.22,
+      "end": 36.4,
+      "word": "appunto"
+    },
+    {
+      "start": 36.4,
+      "end": 36.84,
+      "word": "buono"
+    },
+    {
+      "start": 36.84,
+      "end": 36.94,
+      "word": "e"
+    },
+    {
+      "start": 36.94,
+      "end": 37.06,
+      "word": "poi"
+    },
+    {
+      "start": 37.06,
+      "end": 37.3,
+      "word": "finalmente"
+    },
+    {
+      "start": 37.3,
+      "end": 37.6,
+      "word": "lo"
+    },
+    {
+      "start": 37.6,
+      "end": 37.82,
+      "word": "stand"
+    },
+    {
+      "start": 37.82,
+      "end": 37.98,
+      "word": "che"
+    },
+    {
+      "start": 37.98,
+      "end": 38.38,
+      "word": "aspettavo"
+    },
+    {
+      "start": 38.38,
+      "end": 38.5,
+      "word": "di"
+    },
+    {
+      "start": 38.5,
+      "end": 38.7,
+      "word": "più"
+    },
+    {
+      "start": 38.7,
+      "end": 38.94,
+      "word": "ovvero"
+    },
+    {
+      "start": 38.94,
+      "end": 39.16,
+      "word": "quello"
+    },
+    {
+      "start": 39.16,
+      "end": 39.34,
+      "word": "di"
+    },
+    {
+      "start": 39.34,
+      "end": 39.84,
+      "word": "tortellini"
+    },
+    {
+      "start": 39.84,
+      "end": 40.46,
+      "word": "bolognese"
+    },
+    {
+      "start": 40.46,
+      "end": 40.88,
+      "word": "tortellini"
+    },
+    {
+      "start": 40.88,
+      "end": 41.02,
+      "word": "che"
+    },
+    {
+      "start": 41.02,
+      "end": 41.32,
+      "word": "venivano"
+    },
+    {
+      "start": 41.32,
+      "end": 41.74,
+      "word": "scolati"
+    },
+    {
+      "start": 41.74,
+      "end": 42.12,
+      "word": "ogni"
+    },
+    {
+      "start": 42.12,
+      "end": 42.32,
+      "word": "5"
+    },
+    {
+      "start": 42.32,
+      "end": 42.82,
+      "word": "minuti"
+    },
+    {
+      "start": 42.82,
+      "end": 43.24,
+      "word": "semplici"
+    },
+    {
+      "start": 43.24,
+      "end": 43.6,
+      "word": "semplici"
+    },
+    {
+      "start": 43.6,
+      "end": 43.74,
+      "word": "con"
+    },
+    {
+      "start": 43.74,
+      "end": 43.96,
+      "word": "burre"
+    },
+    {
+      "start": 43.96,
+      "end": 44.2,
+      "word": "grana"
+    },
+    {
+      "start": 44.2,
+      "end": 44.58,
+      "word": "ripieno"
+    },
+    {
+      "start": 44.58,
+      "end": 44.92,
+      "word": "ricotte"
+    },
+    {
+      "start": 44.92,
+      "end": 45.4,
+      "word": "spinaci"
+    },
+    {
+      "start": 45.4,
+      "end": 45.6,
+      "word": "devo"
+    },
+    {
+      "start": 45.6,
+      "end": 45.82,
+      "word": "dire"
+    },
+    {
+      "start": 45.82,
+      "end": 46.1,
+      "word": "loro"
+    },
+    {
+      "start": 46.1,
+      "end": 46.5,
+      "word": "molto"
+    },
+    {
+      "start": 46.5,
+      "end": 46.72,
+      "word": "molto"
+    },
+    {
+      "start": 46.72,
+      "end": 47.08,
+      "word": "buoni"
+    },
+    {
+      "start": 47.08,
+      "end": 47.22,
+      "word": "tra"
+    },
+    {
+      "start": 47.22,
+      "end": 47.3,
+      "word": "l"
+    },
+    {
+      "start": 47.3,
+      "end": 47.4,
+      "word": "'altro"
+    },
+    {
+      "start": 47.4,
+      "end": 47.54,
+      "word": "anche"
+    },
+    {
+      "start": 47.54,
+      "end": 47.66,
+      "word": "la"
+    },
+    {
+      "start": 47.66,
+      "end": 47.9,
+      "word": "cottura"
+    },
+    {
+      "start": 47.9,
+      "end": 48.36,
+      "word": "perfetta"
+    },
+    {
+      "start": 48.36,
+      "end": 48.74,
+      "word": "nonostante"
+    },
+    {
+      "start": 48.74,
+      "end": 49.28,
+      "word": "continuassene"
+    },
+    {
+      "start": 49.28,
+      "end": 49.4,
+      "word": "a"
+    },
+    {
+      "start": 49.4,
+      "end": 49.74,
+      "word": "farne"
+    },
+    {
+      "start": 49.74,
+      "end": 49.9,
+      "word": "anche"
+    },
+    {
+      "start": 49.9,
+      "end": 50.1,
+      "word": "se"
+    },
+    {
+      "start": 50.1,
+      "end": 50.26,
+      "word": "poi"
+    },
+    {
+      "start": 50.26,
+      "end": 50.42,
+      "word": "alla"
+    },
+    {
+      "start": 50.42,
+      "end": 50.64,
+      "word": "fine"
+    },
+    {
+      "start": 50.64,
+      "end": 50.82,
+      "word": "ho"
+    },
+    {
+      "start": 50.82,
+      "end": 51.0,
+      "word": "dovuto"
+    },
+    {
+      "start": 51.0,
+      "end": 51.44,
+      "word": "tornare"
+    },
+    {
+      "start": 51.44,
+      "end": 51.72,
+      "word": "sempre"
+    },
+    {
+      "start": 51.72,
+      "end": 51.98,
+      "word": "sulla"
+    },
+    {
+      "start": 51.98,
+      "end": 52.12,
+      "word": "mia"
+    },
+    {
+      "start": 52.12,
+      "end": 52.38,
+      "word": "solita"
+    },
+    {
+      "start": 52.38,
+      "end": 52.6,
+      "word": "Ital"
+    },
+    {
+      "start": 52.6,
+      "end": 52.92,
+      "word": "Pizza"
+    },
+    {
+      "start": 52.92,
+      "end": 53.1,
+      "word": "che"
+    },
+    {
+      "start": 53.1,
+      "end": 53.24,
+      "word": "non"
+    },
+    {
+      "start": 53.24,
+      "end": 53.6,
+      "word": "delude"
+    },
+    {
+      "start": 53.6,
+      "end": 54.02,
+      "word": "mai"
+    },
+    {
+      "start": 54.02,
+      "end": 54.1,
+      "word": "e"
+    },
+    {
+      "start": 54.1,
+      "end": 54.2,
+      "word": "per"
+    },
+    {
+      "start": 54.2,
+      "end": 54.58,
+      "word": "concludere"
+    },
+    {
+      "start": 54.58,
+      "end": 54.72,
+      "word": "con"
+    },
+    {
+      "start": 54.72,
+      "end": 54.9,
+      "word": "qualche"
+    },
+    {
+      "start": 54.9,
+      "end": 55.38,
+      "word": "dolcetto"
+    },
+    {
+      "start": 55.38,
+      "end": 55.58,
+      "word": "un"
+    },
+    {
+      "start": 55.58,
+      "end": 55.82,
+      "word": "bacio"
+    },
+    {
+      "start": 55.82,
+      "end": 55.92,
+      "word": "di"
+    },
+    {
+      "start": 55.92,
+      "end": 56.18,
+      "word": "dama"
+    },
+    {
+      "start": 56.18,
+      "end": 56.4,
+      "word": "e"
+    },
+    {
+      "start": 56.4,
+      "end": 56.66,
+      "word": "questa"
+    },
+    {
+      "start": 56.66,
+      "end": 57.06,
+      "word": "palla"
+    },
+    {
+      "start": 57.06,
+      "end": 57.5,
+      "word": "gigante"
+    },
+    {
+      "start": 57.5,
+      "end": 57.64,
+      "word": "di"
+    },
+    {
+      "start": 57.64,
+      "end": 58.14,
+      "word": "cioccolato"
+    },
+    {
+      "start": 58.14,
+      "end": 58.46,
+      "word": "ripiene"
+    },
+    {
+      "start": 58.46,
+      "end": 58.6,
+      "word": "di"
+    },
+    {
+      "start": 58.6,
+      "end": 59.06,
+      "word": "cioccolato"
+    },
+    {
+      "start": 59.06,
+      "end": 59.44,
+      "word": "ricoperte"
+    },
+    {
+      "start": 59.44,
+      "end": 59.6,
+      "word": "il"
+    },
+    {
+      "start": 59.6,
+      "end": 59.9,
+      "word": "cioccolato"
+    },
+    {
+      "start": 59.9,
+      "end": 60.0,
+      "word": "una"
+    },
+    {
+      "start": 60.0,
+      "end": 60.16,
+      "word": "roba"
+    },
+    {
+      "start": 60.16,
+      "end": 60.9,
+      "word": "pesantissima"
+    },
+    {
+      "start": 60.9,
+      "end": 61.02,
+      "word": "che"
+    },
+    {
+      "start": 61.02,
+      "end": 61.24,
+      "word": "veniva"
+    },
+    {
+      "start": 61.24,
+      "end": 61.54,
+      "word": "solo"
+    },
+    {
+      "start": 61.54,
+      "end": 61.88,
+      "word": "stomaco"
+    },
+    {
+      "start": 61.88,
+      "end": 62.1,
+      "word": "per"
+    },
+    {
+      "start": 62.1,
+      "end": 62.28,
+      "word": "tutto"
+    },
+    {
+      "start": 62.28,
+      "end": 62.44,
+      "word": "il"
+    },
+    {
+      "start": 62.44,
+      "end": 62.54,
+      "word": "primo"
+    },
+    {
+      "start": 62.54,
+      "end": 62.86,
+      "word": "tempo"
+    },
+    {
+      "start": 62.86,
+      "end": 63.04,
+      "word": "che"
+    },
+    {
+      "start": 63.04,
+      "end": 63.24,
+      "word": "tra"
+    },
+    {
+      "start": 63.24,
+      "end": 63.36,
+      "word": "l"
+    },
+    {
+      "start": 63.36,
+      "end": 63.54,
+      "word": "'altro"
+    },
+    {
+      "start": 63.54,
+      "end": 63.76,
+      "word": "per"
+    },
+    {
+      "start": 63.76,
+      "end": 63.88,
+      "word": "la"
+    },
+    {
+      "start": 63.88,
+      "end": 64.28,
+      "word": "virtuos"
+    },
+    {
+      "start": 64.28,
+      "end": 64.38,
+      "word": "non"
+    },
+    {
+      "start": 64.38,
+      "end": 64.48,
+      "word": "è"
+    },
+    {
+      "start": 64.48,
+      "end": 64.78,
+      "word": "partita"
+    },
+    {
+      "start": 64.78,
+      "end": 65.02,
+      "word": "niente"
+    },
+    {
+      "start": 65.02,
+      "end": 65.22,
+      "word": "anche"
+    },
+    {
+      "start": 65.22,
+      "end": 65.38,
+      "word": "molto"
+    },
+    {
+      "start": 65.38,
+      "end": 65.66,
+      "word": "bene"
+    },
+    {
+      "start": 65.66,
+      "end": 65.96,
+      "word": "essendo"
+    },
+    {
+      "start": 65.96,
+      "end": 66.26,
+      "word": "stati"
+    },
+    {
+      "start": 66.26,
+      "end": 66.74,
+      "word": "doppiati"
+    },
+    {
+      "start": 66.74,
+      "end": 66.88,
+      "word": "il"
+    },
+    {
+      "start": 66.88,
+      "end": 67.3,
+      "word": "punteggio"
+    },
+    {
+      "start": 67.3,
+      "end": 67.42,
+      "word": "per"
+    },
+    {
+      "start": 67.42,
+      "end": 67.68,
+      "word": "praticamente"
+    },
+    {
+      "start": 67.68,
+      "end": 68.1,
+      "word": "tutti"
+    },
+    {
+      "start": 68.1,
+      "end": 68.26,
+      "word": "i"
+    },
+    {
+      "start": 68.26,
+      "end": 68.42,
+      "word": "primi"
+    },
+    {
+      "start": 68.42,
+      "end": 68.52,
+      "word": "due"
+    },
+    {
+      "start": 68.52,
+      "end": 69.0,
+      "word": "quarti"
+    },
+    {
+      "start": 69.0,
+      "end": 69.14,
+      "word": "ma"
+    },
+    {
+      "start": 69.14,
+      "end": 69.36,
+      "word": "noi"
+    },
+    {
+      "start": 69.36,
+      "end": 69.5,
+      "word": "all"
+    },
+    {
+      "start": 69.5,
+      "end": 69.98,
+      "word": "'intervallo"
+    },
+    {
+      "start": 69.98,
+      "end": 70.12,
+      "word": "ci"
+    },
+    {
+      "start": 70.12,
+      "end": 70.24,
+      "word": "siamo"
+    },
+    {
+      "start": 70.24,
+      "end": 70.44,
+      "word": "quindi"
+    },
+    {
+      "start": 70.44,
+      "end": 70.98,
+      "word": "consolati"
+    },
+    {
+      "start": 70.98,
+      "end": 71.16,
+      "word": "con"
+    },
+    {
+      "start": 71.16,
+      "end": 71.24,
+      "word": "un"
+    },
+    {
+      "start": 71.24,
+      "end": 71.38,
+      "word": "altro"
+    },
+    {
+      "start": 71.38,
+      "end": 71.64,
+      "word": "champagne"
+    },
+    {
+      "start": 71.64,
+      "end": 72.14,
+      "word": "e"
+    },
+    {
+      "start": 72.14,
+      "end": 72.3,
+      "word": "un"
+    },
+    {
+      "start": 72.3,
+      "end": 72.5,
+      "word": "paio"
+    },
+    {
+      "start": 72.5,
+      "end": 72.64,
+      "word": "di"
+    },
+    {
+      "start": 72.64,
+      "end": 72.84,
+      "word": "drink"
+    },
+    {
+      "start": 72.84,
+      "end": 73.06,
+      "word": "al"
+    },
+    {
+      "start": 73.06,
+      "end": 73.32,
+      "word": "mango"
+    },
+    {
+      "start": 73.32,
+      "end": 73.48,
+      "word": "e"
+    },
+    {
+      "start": 73.48,
+      "end": 73.86,
+      "word": "ananas"
+    },
+    {
+      "start": 73.86,
+      "end": 74.14,
+      "word": "poi"
+    },
+    {
+      "start": 74.14,
+      "end": 74.36,
+      "word": "un"
+    },
+    {
+      "start": 74.36,
+      "end": 74.56,
+      "word": "altro"
+    },
+    {
+      "start": 74.56,
+      "end": 74.78,
+      "word": "bel"
+    },
+    {
+      "start": 74.78,
+      "end": 75.42,
+      "word": "caffettino"
+    },
+    {
+      "start": 75.42,
+      "end": 75.54,
+      "word": "e"
+    },
+    {
+      "start": 75.54,
+      "end": 75.7,
+      "word": "siamo"
+    },
+    {
+      "start": 75.7,
+      "end": 76.32,
+      "word": "ritornati"
+    },
+    {
+      "start": 76.32,
+      "end": 76.52,
+      "word": "in"
+    },
+    {
+      "start": 76.52,
+      "end": 76.74,
+      "word": "campo"
+    },
+    {
+      "start": 76.74,
+      "end": 77.06,
+      "word": "per"
+    },
+    {
+      "start": 77.06,
+      "end": 77.2,
+      "word": "il"
+    },
+    {
+      "start": 77.2,
+      "end": 77.38,
+      "word": "secondo"
+    },
+    {
+      "start": 77.38,
+      "end": 77.82,
+      "word": "tempo"
+    },
+    {
+      "start": 77.82,
+      "end": 78.04,
+      "word": "dove"
+    },
+    {
+      "start": 78.04,
+      "end": 78.26,
+      "word": "devo"
+    },
+    {
+      "start": 78.26,
+      "end": 78.46,
+      "word": "dire"
+    },
+    {
+      "start": 78.46,
+      "end": 78.6,
+      "word": "che"
+    },
+    {
+      "start": 78.6,
+      "end": 78.8,
+      "word": "qualche"
+    },
+    {
+      "start": 78.8,
+      "end": 79.12,
+      "word": "cosa"
+    },
+    {
+      "start": 79.12,
+      "end": 79.46,
+      "word": "carina"
+    },
+    {
+      "start": 79.46,
+      "end": 79.58,
+      "word": "da"
+    },
+    {
+      "start": 79.58,
+      "end": 79.74,
+      "word": "parte"
+    },
+    {
+      "start": 79.74,
+      "end": 79.96,
+      "word": "della"
+    },
+    {
+      "start": 79.96,
+      "end": 80.46,
+      "word": "virtuos"
+    },
+    {
+      "start": 80.46,
+      "end": 80.54,
+      "word": "si"
+    },
+    {
+      "start": 80.54,
+      "end": 80.62,
+      "word": "è"
+    },
+    {
+      "start": 80.62,
+      "end": 80.78,
+      "word": "comunque"
+    },
+    {
+      "start": 80.78,
+      "end": 81.28,
+      "word": "vista"
+    },
+    {
+      "start": 81.28,
+      "end": 81.62,
+      "word": "nonostante"
+    },
+    {
+      "start": 81.62,
+      "end": 81.86,
+      "word": "comunque"
+    },
+    {
+      "start": 81.86,
+      "end": 82.04,
+      "word": "il"
+    },
+    {
+      "start": 82.04,
+      "end": 82.36,
+      "word": "risultato"
+    },
+    {
+      "start": 82.36,
+      "end": 82.52,
+      "word": "si"
+    },
+    {
+      "start": 82.52,
+      "end": 82.58,
+      "word": "è"
+    },
+    {
+      "start": 82.58,
+      "end": 82.74,
+      "word": "stato"
+    },
+    {
+      "start": 82.74,
+      "end": 83.08,
+      "word": "piuttosto"
+    },
+    {
+      "start": 83.08,
+      "end": 83.6,
+      "word": "deludente"
+    },
+    {
+      "start": 83.6,
+      "end": 83.86,
+      "word": "anche"
+    },
+    {
+      "start": 83.86,
+      "end": 84.06,
+      "word": "se"
+    },
+    {
+      "start": 84.06,
+      "end": 84.32,
+      "word": "comunque"
+    },
+    {
+      "start": 84.32,
+      "end": 84.6,
+      "word": "ce"
+    },
+    {
+      "start": 84.6,
+      "end": 84.68,
+      "word": "lo"
+    },
+    {
+      "start": 84.68,
+      "end": 85.3,
+      "word": "aspettavamo"
+    },
+    {
+      "start": 85.3,
+      "end": 85.78,
+      "word": "giocando"
+    },
+    {
+      "start": 85.78,
+      "end": 85.9,
+      "word": "con"
+    },
+    {
+      "start": 85.9,
+      "end": 86.04,
+      "word": "real"
+    },
+    {
+      "start": 86.04,
+      "end": 86.44,
+      "word": "madrid"
+    },
+    {
+      "start": 86.44,
+      "end": 86.62,
+      "word": "in"
+    },
+    {
+      "start": 86.62,
+      "end": 87.0,
+      "word": "generale"
+    },
+    {
+      "start": 87.0,
+      "end": 87.2,
+      "word": "però"
+    },
+    {
+      "start": 87.2,
+      "end": 87.3,
+      "word": "è"
+    },
+    {
+      "start": 87.3,
+      "end": 87.3,
+      "word": "una"
+    },
+    {
+      "start": 87.3,
+      "end": 87.68,
+      "word": "esperienza"
+    },
+    {
+      "start": 87.68,
+      "end": 87.88,
+      "word": "molto"
+    },
+    {
+      "start": 87.88,
+      "end": 88.3,
+      "word": "carina"
+    },
+    {
+      "start": 88.3,
+      "end": 88.42,
+      "word": "anche"
+    },
+    {
+      "start": 88.42,
+      "end": 88.68,
+      "word": "perché"
+    },
+    {
+      "start": 88.68,
+      "end": 88.84,
+      "word": "il"
+    },
+    {
+      "start": 88.84,
+      "end": 89.28,
+      "word": "palazzetto"
+    },
+    {
+      "start": 89.28,
+      "end": 89.42,
+      "word": "non"
+    },
+    {
+      "start": 89.42,
+      "end": 89.74,
+      "word": "essendo"
+    },
+    {
+      "start": 89.74,
+      "end": 89.94,
+      "word": "neanche"
+    },
+    {
+      "start": 89.94,
+      "end": 90.22,
+      "word": "troppo"
+    },
+    {
+      "start": 90.22,
+      "end": 90.58,
+      "word": "grande"
+    },
+    {
+      "start": 90.58,
+      "end": 90.82,
+      "word": "lo"
+    },
+    {
+      "start": 90.82,
+      "end": 91.04,
+      "word": "giri"
+    },
+    {
+      "start": 91.04,
+      "end": 91.3,
+      "word": "molto"
+    },
+    {
+      "start": 91.3,
+      "end": 91.76,
+      "word": "facile"
+    },
+    {
+      "start": 91.76,
+      "end": 92.06,
+      "word": "vedi"
+    },
+    {
+      "start": 92.06,
+      "end": 92.14,
+      "word": "i"
+    },
+    {
+      "start": 92.14,
+      "end": 92.46,
+      "word": "giocatori"
+    },
+    {
+      "start": 92.46,
+      "end": 92.82,
+      "word": "davvero"
+    },
+    {
+      "start": 92.82,
+      "end": 92.94,
+      "word": "da"
+    },
+    {
+      "start": 92.94,
+      "end": 93.38,
+      "word": "vicino"
+    },
+    {
+      "start": 93.38,
+      "end": 93.68,
+      "word": "tanto"
+    },
+    {
+      "start": 93.68,
+      "end": 93.86,
+      "word": "che"
+    },
+    {
+      "start": 93.86,
+      "end": 94.06,
+      "word": "puoi"
+    },
+    {
+      "start": 94.06,
+      "end": 94.28,
+      "word": "dargli"
+    },
+    {
+      "start": 94.28,
+      "end": 94.36,
+      "word": "anche"
+    },
+    {
+      "start": 94.36,
+      "end": 94.52,
+      "word": "la"
+    },
+    {
+      "start": 94.52,
+      "end": 94.74,
+      "word": "mano"
+    },
+    {
+      "start": 94.74,
+      "end": 94.94,
+      "word": "fine"
+    },
+    {
+      "start": 94.94,
+      "end": 95.42,
+      "word": "partita"
+    },
+    {
+      "start": 95.42,
+      "end": 95.74,
+      "word": "quindi"
+    },
+    {
+      "start": 95.74,
+      "end": 96.22,
+      "word": "direi"
+    },
+    {
+      "start": 96.22,
+      "end": 96.6,
+      "word": "approvata"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6,
+      "transcript": "Ma come si mangia nella lounge della"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.6,
+      "end": 3.2,
+      "dur": 1.6,
+      "transcript": "Virtus Bologna? Oggi ragazzi assistiamo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.2,
+      "end": 3.933,
+      "dur": 0.733,
+      "transcript": "una parte di"
+    },
+    {
+      "shot_idx": 3,
+      "start": 3.933,
+      "end": 5.433,
+      "dur": 1.5,
+      "transcript": "Eurolega tra Virtus Bologna"
+    },
+    {
+      "shot_idx": 4,
+      "start": 5.433,
+      "end": 7.367,
+      "dur": 1.933,
+      "transcript": "e Real Madrid provando ovviamente l"
+    },
+    {
+      "shot_idx": 5,
+      "start": 7.367,
+      "end": 10.367,
+      "dur": 3.0,
+      "transcript": "'esperienza della loro lounge perché sì o che è l 'Eurolega ma anche il"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.367,
+      "end": 12.4,
+      "dur": 2.033,
+      "transcript": "cibo vuole la sua parte Appena entrati abbiamo subito"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.4,
+      "end": 13.5,
+      "dur": 1.1,
+      "transcript": "notato uno stand di Ital"
+    },
+    {
+      "shot_idx": 8,
+      "start": 13.5,
+      "end": 14.933,
+      "dur": 1.433,
+      "transcript": "Pizza che è la mia pizza su"
+    },
+    {
+      "shot_idx": 9,
+      "start": 14.933,
+      "end": 16.467,
+      "dur": 1.533,
+      "transcript": "gelata preferita e quindi stanno subito"
+    },
+    {
+      "shot_idx": 10,
+      "start": 16.467,
+      "end": 18.467,
+      "dur": 2.0,
+      "transcript": "fermati a prendere qualche fettina con i peperoni"
+    },
+    {
+      "shot_idx": 11,
+      "start": 18.467,
+      "end": 21.2,
+      "dur": 2.733,
+      "transcript": "champagne di benvenuto e poi un po' di pizza bianca con"
+    },
+    {
+      "shot_idx": 12,
+      "start": 21.2,
+      "end": 23.167,
+      "dur": 1.967,
+      "transcript": "la mortadella anzi direi con la Bologna"
+    },
+    {
+      "shot_idx": 13,
+      "start": 23.167,
+      "end": 24.833,
+      "dur": 1.667,
+      "transcript": "anche se la focaccia non era proprio il massimo"
+    },
+    {
+      "shot_idx": 14,
+      "start": 24.833,
+      "end": 26.967,
+      "dur": 2.133,
+      "transcript": "infatti mi è piaciuta molto di più la pizza poi ho trovato quest"
+    },
+    {
+      "shot_idx": 15,
+      "start": 26.967,
+      "end": 30.467,
+      "dur": 3.5,
+      "transcript": "'altro stand con dei salumi vegani quindi boh un po' preso con la curiosità ho"
+    },
+    {
+      "shot_idx": 16,
+      "start": 30.467,
+      "end": 32.467,
+      "dur": 2.0,
+      "transcript": "detto vabbè proviamo un paio di questi tramazzini salumi"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.467,
+      "end": 34.467,
+      "dur": 2.0,
+      "transcript": "buoni anche se non ricordiamo tanto"
+    },
+    {
+      "shot_idx": 18,
+      "start": 34.467,
+      "end": 39.667,
+      "dur": 5.2,
+      "transcript": "con gli normali però sapore diverso ma appunto buono e poi finalmente lo stand che aspettavo di più ovvero quello di tortellini"
+    },
+    {
+      "shot_idx": 19,
+      "start": 39.667,
+      "end": 45.733,
+      "dur": 6.067,
+      "transcript": "bolognese tortellini che venivano scolati ogni 5 minuti semplici semplici con burre grana ripieno ricotte spinaci devo dire"
+    },
+    {
+      "shot_idx": 20,
+      "start": 45.733,
+      "end": 48.033,
+      "dur": 2.3,
+      "transcript": "loro molto molto buoni tra l 'altro anche la cottura"
+    },
+    {
+      "shot_idx": 21,
+      "start": 48.033,
+      "end": 51.433,
+      "dur": 3.4,
+      "transcript": "perfetta nonostante continuassene a farne anche se poi alla fine ho dovuto tornare"
+    },
+    {
+      "shot_idx": 22,
+      "start": 51.433,
+      "end": 53.233,
+      "dur": 1.8,
+      "transcript": "sempre sulla mia solita Ital Pizza che non"
+    },
+    {
+      "shot_idx": 23,
+      "start": 53.233,
+      "end": 55.833,
+      "dur": 2.6,
+      "transcript": "delude mai e per concludere con qualche dolcetto un bacio"
+    },
+    {
+      "shot_idx": 24,
+      "start": 55.833,
+      "end": 57.467,
+      "dur": 1.633,
+      "transcript": "di dama e questa palla gigante"
+    },
+    {
+      "shot_idx": 25,
+      "start": 57.467,
+      "end": 59.567,
+      "dur": 2.1,
+      "transcript": "di cioccolato ripiene di cioccolato ricoperte il"
+    },
+    {
+      "shot_idx": 26,
+      "start": 59.567,
+      "end": 60.933,
+      "dur": 1.367,
+      "transcript": "cioccolato una roba pesantissima"
+    },
+    {
+      "shot_idx": 27,
+      "start": 60.933,
+      "end": 63.667,
+      "dur": 2.733,
+      "transcript": "che veniva solo stomaco per tutto il primo tempo che tra l 'altro per"
+    },
+    {
+      "shot_idx": 28,
+      "start": 63.667,
+      "end": 66.567,
+      "dur": 2.9,
+      "transcript": "la virtuos non è partita niente anche molto bene essendo stati doppiati"
+    },
+    {
+      "shot_idx": 29,
+      "start": 66.567,
+      "end": 69.1,
+      "dur": 2.533,
+      "transcript": "il punteggio per praticamente tutti i primi due quarti ma"
+    },
+    {
+      "shot_idx": 30,
+      "start": 69.1,
+      "end": 71.8,
+      "dur": 2.7,
+      "transcript": "noi all 'intervallo ci siamo quindi consolati con un altro champagne"
+    },
+    {
+      "shot_idx": 31,
+      "start": 71.8,
+      "end": 73.633,
+      "dur": 1.833,
+      "transcript": "e un paio di drink al mango e"
+    },
+    {
+      "shot_idx": 32,
+      "start": 73.633,
+      "end": 75.3,
+      "dur": 1.667,
+      "transcript": "ananas poi un altro bel caffettino"
+    },
+    {
+      "shot_idx": 33,
+      "start": 75.3,
+      "end": 77.4,
+      "dur": 2.1,
+      "transcript": "e siamo ritornati in campo per il secondo"
+    },
+    {
+      "shot_idx": 34,
+      "start": 77.4,
+      "end": 79.8,
+      "dur": 2.4,
+      "transcript": "tempo dove devo dire che qualche cosa carina da parte"
+    },
+    {
+      "shot_idx": 35,
+      "start": 79.8,
+      "end": 82.267,
+      "dur": 2.467,
+      "transcript": "della virtuos si è comunque vista nonostante comunque il risultato"
+    },
+    {
+      "shot_idx": 36,
+      "start": 82.267,
+      "end": 84.3,
+      "dur": 2.033,
+      "transcript": "si è stato piuttosto deludente anche se comunque"
+    },
+    {
+      "shot_idx": 37,
+      "start": 84.3,
+      "end": 85.433,
+      "dur": 1.133,
+      "transcript": "ce lo aspettavamo"
+    },
+    {
+      "shot_idx": 38,
+      "start": 85.433,
+      "end": 86.967,
+      "dur": 1.533,
+      "transcript": "giocando con real madrid in generale"
+    },
+    {
+      "shot_idx": 39,
+      "start": 86.967,
+      "end": 89.333,
+      "dur": 2.367,
+      "transcript": "però è una esperienza molto carina anche perché il palazzetto"
+    },
+    {
+      "shot_idx": 40,
+      "start": 89.333,
+      "end": 89.833,
+      "dur": 0.5,
+      "transcript": "non essendo"
+    },
+    {
+      "shot_idx": 41,
+      "start": 89.833,
+      "end": 90.367,
+      "dur": 0.533,
+      "transcript": "neanche troppo"
+    },
+    {
+      "shot_idx": 42,
+      "start": 90.367,
+      "end": 91.133,
+      "dur": 0.767,
+      "transcript": "grande lo giri"
+    },
+    {
+      "shot_idx": 43,
+      "start": 91.133,
+      "end": 97.067,
+      "dur": 5.933,
+      "transcript": "molto facile vedi i giocatori davvero da vicino tanto che puoi dargli anche la mano fine partita quindi direi approvata"
+    }
+  ],
+  "full_text": "Ma come si mangia nella lounge della Virtus Bologna? Oggi ragazzi assistiamo una parte di Eurolega tra Virtus Bologna e Real Madrid provando ovviamente l'esperienza della loro lounge perché sì o che è l'Eurolega ma anche il cibo vuole la sua parte Appena entrati abbiamo subito notato uno stand di Ital Pizza che è la mia pizza su gelata preferita e quindi stanno subito fermati a prendere qualche fettina con i peperoni champagne di benvenuto e poi un po' di pizza bianca con la mortadella anzi direi con la Bologna anche se la focaccia non era proprio il massimo infatti mi è piaciuta molto di più la pizza poi ho trovato quest'altro stand con dei salumi vegani quindi boh un po' preso con la curiosità ho detto vabbè proviamo un paio di questi tramazzini salumi buoni anche se non ricordiamo tanto con gli normali però sapore diverso ma appunto buono e poi finalmente lo stand che aspettavo di più ovvero quello di tortellini bolognese tortellini che venivano scolati ogni 5 minuti semplici semplici con burre grana ripieno ricotte spinaci devo dire loro molto molto buoni tra l'altro anche la cottura perfetta nonostante continuassene a farne anche se poi alla fine ho dovuto tornare sempre sulla mia solita Ital Pizza che non delude mai e per concludere con qualche dolcetto un bacio di dama e questa palla gigante di cioccolato ripiene di cioccolato ricoperte il cioccolato una roba pesantissima che veniva solo stomaco per tutto il primo tempo che tra l'altro per la virtuos non è partita niente anche molto bene essendo stati doppiati il punteggio per praticamente tutti i primi due quarti ma noi all'intervallo ci siamo quindi consolati con un altro champagne e un paio di drink al mango e ananas poi un altro bel caffettino e siamo ritornati in campo per il secondo tempo dove devo dire che qualche cosa carina da parte della virtuos si è comunque vista nonostante comunque il risultato si è stato piuttosto deludente anche se comunque ce lo aspettavamo giocando con real madrid in generale però è una esperienza molto carina anche perché il palazzetto non essendo neanche troppo grande lo giri molto facile vedi i giocatori davvero da vicino tanto che puoi dargli anche la mano fine partita quindi direi approvata",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,3431 @@
+{
+  "video_id": "7552855433220787478",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7552855433220787478",
+    "ref_id": "ref_61_7552855433220787478",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7552855433220787478",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 31,
+  "total_dur": 102.36,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.8,
+      "dur": 2.8,
+      "center": 1.4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo fritto",
+      "description": "Un ragazzo con un cappellino rosso morde un pezzo di pollo fritto con espressione intensa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Giornostetta del mio viaggio in flore da la scoperta della vera cucina"
+    },
+    {
+      "idx": 1,
+      "start": 2.8,
+      "end": 5.033,
+      "dur": 2.233,
+      "center": 3.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pretzel",
+      "description": "Un ragazzo con una maglietta nera morde un pretzel lungo in un ambiente interno con luci calde.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "americana. Se oggi ragazzi non siamo stati particolarmente"
+    },
+    {
+      "idx": 2,
+      "start": 5.033,
+      "end": 9.5,
+      "dur": 4.467,
+      "center": 7.267,
+      "role": "other",
+      "subject": "ragazzo solleva peso",
+      "description": "Un ragazzo in canottiera bianca solleva un manubrio in una palestra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "fortunati con il tempo e quindi ci dedichiamo al cibo. Oggi siamo a Fort Myers ed andremo fino"
+    },
+    {
+      "idx": 3,
+      "start": 9.5,
+      "end": 15.733,
+      "dur": 6.233,
+      "center": 12.617,
+      "role": "food_plated",
+      "subject": "colazione americana abbondante",
+      "description": "Un piatto di colazione con uova strapazzate, salsicce e biscotti, con un waffle sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "a Sarasota. Partendo ovviamente però con un ottimo allenamento nella palestrina dell 'hotel, per poi arrivare subito a far colazione, con uova,"
+    },
+    {
+      "idx": 4,
+      "start": 15.733,
+      "end": 19.267,
+      "dur": 3.533,
+      "center": 17.5,
+      "role": "person_eating",
+      "subject": "ragazzo mangia waffle",
+      "description": "Un ragazzo con una canottiera bianca morde un pezzo di waffle con un'espressione di piacere.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "un panino, questi due mini hamburger, e un bel waffle con sciroppo d 'acero e"
+    },
+    {
+      "idx": 5,
+      "start": 19.267,
+      "end": 21.067,
+      "dur": 1.8,
+      "center": 20.167,
+      "role": "person_eating",
+      "subject": "uomo mangia waffle",
+      "description": "Un uomo sta mangiando un waffle con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "frutta caramelata. Infine,"
+    },
+    {
+      "idx": 6,
+      "start": 21.067,
+      "end": 23.533,
+      "dur": 2.467,
+      "center": 22.3,
+      "role": "food_detail",
+      "subject": "cereali colorati yogurt",
+      "description": "Una ciotola di cereali colorati con un cucchiaio e yogurt Dannon sullo sfondo.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "yogurtino con deceriali e siamo poi partiti cercando"
+    },
+    {
+      "idx": 7,
+      "start": 23.533,
+      "end": 29.833,
+      "dur": 6.3,
+      "center": 26.683,
+      "role": "venue_exterior",
+      "subject": "spiaggia mare nuvole",
+      "description": "Una vista POV di una spiaggia sabbiosa con il mare e un cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "una spiaggia perché l 'intenzione era quella di fare mare oggi. Ma come potete ben vedere, il tempo della flore da regare a sempre emozioni. Qui dopo"
+    },
+    {
+      "idx": 8,
+      "start": 29.833,
+      "end": 32.867,
+      "dur": 3.033,
+      "center": 31.35,
+      "role": "venue_interior_detail",
+      "subject": "cibo fritto esposto",
+      "description": "Un bancone espositivo con vari cibi fritti in un negozio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "un veloce gireto ci siamo rimessi in macchina in direzione Sanibel e"
+    },
+    {
+      "idx": 9,
+      "start": 32.867,
+      "end": 38.1,
+      "dur": 5.233,
+      "center": 35.483,
+      "role": "food_detail",
+      "subject": "scatola cibo fritto",
+      "description": "Una scatola di cartone con cibo fritto, probabilmente pollo, su un tavolo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "ci siamo fermati a provare il pollo fritto di questa stazione di servizio di cui ci avevano parlato il giorno prima due locals, due"
+    },
+    {
+      "idx": 10,
+      "start": 38.1,
+      "end": 40.6,
+      "dur": 2.5,
+      "center": 39.35,
+      "role": "food_closeup",
+      "subject": "fetta pizza bianca",
+      "description": "Una fetta di pizza con condimento bianco e pezzetti di pancetta è presentata in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "tipi strani, ma davvero della Florida. E qui ne"
+    },
+    {
+      "idx": 11,
+      "start": 40.6,
+      "end": 43.133,
+      "dur": 2.533,
+      "center": 41.867,
+      "role": "food_closeup",
+      "subject": "fetta pizza pepperoni",
+      "description": "Una fetta di pizza al pepperoni con formaggio fuso è mostrata in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "abbiamo dato una scensa, questo pollo fritto è un paio di slice di pizza"
+    },
+    {
+      "idx": 12,
+      "start": 43.133,
+      "end": 45.833,
+      "dur": 2.7,
+      "center": 44.483,
+      "role": "food_detail",
+      "subject": "pollo fritto croccante",
+      "description": "Una mano tiene un pezzo di pollo fritto dorato e croccante con uno sfondo sfocato di natura.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "da dividere. Pollo fritto che era veramente tanta roba."
+    },
+    {
+      "idx": 13,
+      "start": 45.833,
+      "end": 48.967,
+      "dur": 3.133,
+      "center": 47.4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo",
+      "description": "Un ragazzo con un cappellino rosso morde un pezzo di pollo fritto, con un'espressione di gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Pensare che l 'abbiamo preso da sport, ci siamo fermati poi in un parco a mangiarlo"
+    },
+    {
+      "idx": 14,
+      "start": 48.967,
+      "end": 51.2,
+      "dur": 2.233,
+      "center": 50.083,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo",
+      "description": "Il ragazzo continua a mangiare il pollo fritto, con un'espressione intensa e gli occhi chiusi per il piacere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ed era comunque ancora bollente. Certo, forse la"
+    },
+    {
+      "idx": 15,
+      "start": 51.2,
+      "end": 53.133,
+      "dur": 1.933,
+      "center": 52.167,
+      "role": "food_closeup",
+      "subject": "fetta pizza pancetta",
+      "description": "Una fetta di pizza con formaggio e pancetta in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "frittura era un po' pesante. E dopo di che ho staggiato questa"
+    },
+    {
+      "idx": 16,
+      "start": 53.133,
+      "end": 58.767,
+      "dur": 5.633,
+      "center": 55.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con un cappellino che addenta una fetta di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "slice di pizza con formaggio becor, che vi dirò come impasto mi ha stupito, che se il condimento era un po' collochiera. Pranzo"
+    },
+    {
+      "idx": 17,
+      "start": 58.767,
+      "end": 60.433,
+      "dur": 1.667,
+      "center": 59.6,
+      "role": "person_eating",
+      "subject": "ragazzo sorride mangiando",
+      "description": "Il ragazzo sorride mentre mangia la pizza, mostrando il suo cappellino rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "che tra l 'altro abbiamo fatto circondati"
+    },
+    {
+      "idx": 18,
+      "start": 60.433,
+      "end": 65.667,
+      "dur": 5.233,
+      "center": 63.05,
+      "role": "other",
+      "subject": "coniglio nel bosco",
+      "description": "Un coniglio selvatico si muove tra l'erba e le foglie secche.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "da scoyattoli e da questa simpaticissima lepre. Molto molto carina e che ha apprezzato particolarmente il pollo. Dopo di che siamo"
+    },
+    {
+      "idx": 19,
+      "start": 65.667,
+      "end": 69.633,
+      "dur": 3.967,
+      "center": 67.65,
+      "role": "other",
+      "subject": "ragazzo spiaggia cartello",
+      "description": "Un ragazzo si fa un selfie in spiaggia con un cartello blu sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "arrivati in una delle spiagge più famose di tutta l 'America. La spiagge è letta appunto come numero"
+    },
+    {
+      "idx": 20,
+      "start": 69.633,
+      "end": 73.633,
+      "dur": 4.0,
+      "center": 71.633,
+      "role": "other",
+      "subject": "cartello Siesta Beach",
+      "description": "Un cartello blu con la scritta 'Siesta Beach #1 Beach in the USA!' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "uno negli Stati Uniti. Sto parlando di siesta beach, che però ovviamente abbiamo"
+    },
+    {
+      "idx": 21,
+      "start": 73.633,
+      "end": 78.533,
+      "dur": 4.9,
+      "center": 76.083,
+      "role": "venue_exterior",
+      "subject": "spiaggia affollata",
+      "description": "Una spiaggia ampia con sabbia bianca e molte persone sotto un cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "trovato con questo tempo molto nuvoloso. Ma non abbiamo potuto apprezzare a pieno questa spiagge che dovrebbe essere"
+    },
+    {
+      "idx": 22,
+      "start": 78.533,
+      "end": 82.033,
+      "dur": 3.5,
+      "center": 80.283,
+      "role": "food_plated",
+      "subject": "pretzel con salsa",
+      "description": "Tre bastoncini di pretzel marroni su un piatto bianco con una ciotola di salsa chiara.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "una delle migliori. Ci siamo poi rimessi in macchina, siamo quindi arrivati a Sarasota. Dove"
+    },
+    {
+      "idx": 23,
+      "start": 82.033,
+      "end": 84.233,
+      "dur": 2.2,
+      "center": 83.133,
+      "role": "food_detail",
+      "subject": "pretzel nella salsa",
+      "description": "Un bastoncino di pretzel viene immerso in una ciotola di salsa bianca su un piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "percire, ne essendo tali, ci siamo fermati da Applebees."
+    },
+    {
+      "idx": 24,
+      "start": 84.233,
+      "end": 87.433,
+      "dur": 3.2,
+      "center": 85.833,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pretzel",
+      "description": "Un ragazzo con una maglietta nera e il logo Calvin Klein mangia un bastoncino di pretzel con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Dopo che abbiamo provato questi brezz, è molto particolare che qui in America ovviamente"
+    },
+    {
+      "idx": 25,
+      "start": 87.433,
+      "end": 92.133,
+      "dur": 4.7,
+      "center": 89.783,
+      "role": "food_closeup",
+      "subject": "tagliata pollo patatine",
+      "description": "Il piatto di tagliata di pollo con patatine waffle è il focus principale.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ti accompagnano con il cheddar e quest 'altra salsa con formaggio fuso. E come piatto principale mi sono preso questa tagliata"
+    },
+    {
+      "idx": 26,
+      "start": 92.133,
+      "end": 94.133,
+      "dur": 2.0,
+      "center": 93.133,
+      "role": "person_eating",
+      "subject": "uomo tiene patatina",
+      "description": "Un uomo tiene in mano una patatina waffle, con il piatto di fronte a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "con patate. Tagliata ovviamente ricoperta"
+    },
+    {
+      "idx": 27,
+      "start": 94.133,
+      "end": 96.833,
+      "dur": 2.7,
+      "center": 95.483,
+      "role": "person_eating",
+      "subject": "uomo mangia patatina",
+      "description": "L'uomo sta mangiando una patatina waffle, con il piatto in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di miele per dare quell 'effetto caramellizzazione che era molto"
+    },
+    {
+      "idx": 28,
+      "start": 96.833,
+      "end": 98.633,
+      "dur": 1.8,
+      "center": 97.733,
+      "role": "person_eating",
+      "subject": "uomo tiene pollo forchetta",
+      "description": "L'uomo tiene un pezzo di pollo con la forchetta, pronto a mangiarlo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "buona. E waffle fries che devo dire sono"
+    },
+    {
+      "idx": 29,
+      "start": 98.633,
+      "end": 100.233,
+      "dur": 1.6,
+      "center": 99.433,
+      "role": "person_eating",
+      "subject": "uomo mangia pollo",
+      "description": "L'uomo sta mangiando un pezzo di pollo dal piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "sempre il mio preferite. Insomma una giornata"
+    },
+    {
+      "idx": 30,
+      "start": 100.233,
+      "end": 102.367,
+      "dur": 2.133,
+      "center": 101.3,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo sta mangiando del cibo da un piatto caldo con una forchetta, con la bocca aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "tranquila di viaggio, ma comunque molto americana."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso morde un pezzo di pollo fritto con espressione intensa.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.8,
+      "dur": 2.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pretzel",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta nera morde un pretzel lungo in un ambiente interno con luci calde.",
+      "shot_idx": 1,
+      "start": 2.8,
+      "end": 5.033,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo solleva peso",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo in canottiera bianca solleva un manubrio in una palestra.",
+      "shot_idx": 2,
+      "start": 5.033,
+      "end": 9.5,
+      "dur": 4.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "colazione americana abbondante",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un piatto di colazione con uova strapazzate, salsicce e biscotti, con un waffle sullo sfondo.",
+      "shot_idx": 3,
+      "start": 9.5,
+      "end": 15.733,
+      "dur": 6.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia waffle",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con una canottiera bianca morde un pezzo di waffle con un'espressione di piacere.",
+      "shot_idx": 4,
+      "start": 15.733,
+      "end": 19.267,
+      "dur": 3.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia waffle",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo sta mangiando un waffle con un'espressione divertita.",
+      "shot_idx": 5,
+      "start": 19.267,
+      "end": 21.067,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "cereali colorati yogurt",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una ciotola di cereali colorati con un cucchiaio e yogurt Dannon sullo sfondo.",
+      "shot_idx": 6,
+      "start": 21.067,
+      "end": 23.533,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "spiaggia mare nuvole",
+      "composizione": "wide",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una vista POV di una spiaggia sabbiosa con il mare e un cielo nuvoloso.",
+      "shot_idx": 7,
+      "start": 23.533,
+      "end": 29.833,
+      "dur": 6.3
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cibo fritto esposto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un bancone espositivo con vari cibi fritti in un negozio.",
+      "shot_idx": 8,
+      "start": 29.833,
+      "end": 32.867,
+      "dur": 3.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "scatola cibo fritto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una scatola di cartone con cibo fritto, probabilmente pollo, su un tavolo.",
+      "shot_idx": 9,
+      "start": 32.867,
+      "end": 38.1,
+      "dur": 5.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta pizza bianca",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una fetta di pizza con condimento bianco e pezzetti di pancetta è presentata in una scatola di cartone.",
+      "shot_idx": 10,
+      "start": 38.1,
+      "end": 40.6,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una fetta di pizza al pepperoni con formaggio fuso è mostrata in una scatola di cartone.",
+      "shot_idx": 11,
+      "start": 40.6,
+      "end": 43.133,
+      "dur": 2.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto croccante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una mano tiene un pezzo di pollo fritto dorato e croccante con uno sfondo sfocato di natura.",
+      "shot_idx": 12,
+      "start": 43.133,
+      "end": 45.833,
+      "dur": 2.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso morde un pezzo di pollo fritto, con un'espressione di gusto.",
+      "shot_idx": 13,
+      "start": 45.833,
+      "end": 48.967,
+      "dur": 3.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo continua a mangiare il pollo fritto, con un'espressione intensa e gli occhi chiusi per il piacere.",
+      "shot_idx": 14,
+      "start": 48.967,
+      "end": 51.2,
+      "dur": 2.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta pizza pancetta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una fetta di pizza con formaggio e pancetta in una scatola di cartone.",
+      "shot_idx": 15,
+      "start": 51.2,
+      "end": 53.133,
+      "dur": 1.933
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino che addenta una fetta di pizza.",
+      "shot_idx": 16,
+      "start": 53.133,
+      "end": 58.767,
+      "dur": 5.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorride mangiando",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre mangia la pizza, mostrando il suo cappellino rosso.",
+      "shot_idx": 17,
+      "start": 58.767,
+      "end": 60.433,
+      "dur": 1.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "coniglio nel bosco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un coniglio selvatico si muove tra l'erba e le foglie secche.",
+      "shot_idx": 18,
+      "start": 60.433,
+      "end": 65.667,
+      "dur": 5.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo spiaggia cartello",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo si fa un selfie in spiaggia con un cartello blu sullo sfondo.",
+      "shot_idx": 19,
+      "start": 65.667,
+      "end": 69.633,
+      "dur": 3.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "cartello Siesta Beach",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un cartello blu con la scritta 'Siesta Beach #1 Beach in the USA!' in primo piano.",
+      "shot_idx": 20,
+      "start": 69.633,
+      "end": 73.633,
+      "dur": 4.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "spiaggia affollata",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una spiaggia ampia con sabbia bianca e molte persone sotto un cielo nuvoloso.",
+      "shot_idx": 21,
+      "start": 73.633,
+      "end": 78.533,
+      "dur": 4.9
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "pretzel con salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Tre bastoncini di pretzel marroni su un piatto bianco con una ciotola di salsa chiara.",
+      "shot_idx": 22,
+      "start": 78.533,
+      "end": 82.033,
+      "dur": 3.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pretzel nella salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un bastoncino di pretzel viene immerso in una ciotola di salsa bianca su un piatto.",
+      "shot_idx": 23,
+      "start": 82.033,
+      "end": 84.233,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pretzel",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta nera e il logo Calvin Klein mangia un bastoncino di pretzel con un'espressione divertita.",
+      "shot_idx": 24,
+      "start": 84.233,
+      "end": 87.433,
+      "dur": 3.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "tagliata pollo patatine",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto di tagliata di pollo con patatine waffle è il focus principale.",
+      "shot_idx": 25,
+      "start": 87.433,
+      "end": 92.133,
+      "dur": 4.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo tiene patatina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano una patatina waffle, con il piatto di fronte a lui.",
+      "shot_idx": 26,
+      "start": 92.133,
+      "end": 94.133,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia patatina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta mangiando una patatina waffle, con il piatto in primo piano.",
+      "shot_idx": 27,
+      "start": 94.133,
+      "end": 96.833,
+      "dur": 2.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo tiene pollo forchetta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene un pezzo di pollo con la forchetta, pronto a mangiarlo.",
+      "shot_idx": 28,
+      "start": 96.833,
+      "end": 98.633,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta mangiando un pezzo di pollo dal piatto.",
+      "shot_idx": 29,
+      "start": 98.633,
+      "end": 100.233,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando del cibo da un piatto caldo con una forchetta, con la bocca aperta.",
+      "shot_idx": 30,
+      "start": 100.233,
+      "end": 102.367,
+      "dur": 2.133
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Giornostetta del mio viaggio in flore da la scoperta della vera cucina americana."
+    },
+    {
+      "start": 3.36,
+      "end": 7.44,
+      "text": "Se oggi ragazzi non siamo stati particolarmente fortunati con il tempo e quindi ci dedichiamo al cibo."
+    },
+    {
+      "start": 7.48,
+      "end": 10.12,
+      "text": "Oggi siamo a Fort Myers ed andremo fino a Sarasota."
+    },
+    {
+      "start": 10.3,
+      "end": 13.46,
+      "text": "Partendo ovviamente però con un ottimo allenamento nella palestrina dell'hotel,"
+    },
+    {
+      "start": 13.54,
+      "end": 17.18,
+      "text": "per poi arrivare subito a far colazione, con uova, un panino, questi due mini hamburger,"
+    },
+    {
+      "start": 17.44,
+      "end": 20.26,
+      "text": "e un bel waffle con sciroppo d'acero e frutta caramelata."
+    },
+    {
+      "start": 20.34,
+      "end": 24.18,
+      "text": "Infine, yogurtino con deceriali e siamo poi partiti cercando una spiaggia"
+    },
+    {
+      "start": 24.18,
+      "end": 26.22,
+      "text": "perché l'intenzione era quella di fare mare oggi."
+    },
+    {
+      "start": 26.34,
+      "end": 29.56,
+      "text": "Ma come potete ben vedere, il tempo della flore da regare a sempre emozioni."
+    },
+    {
+      "start": 29.56,
+      "end": 32.66,
+      "text": "Qui dopo un veloce gireto ci siamo rimessi in macchina in direzione Sanibel"
+    },
+    {
+      "start": 32.66,
+      "end": 35.78,
+      "text": "e ci siamo fermati a provare il pollo fritto di questa stazione di servizio"
+    },
+    {
+      "start": 35.78,
+      "end": 40.06,
+      "text": "di cui ci avevano parlato il giorno prima due locals, due tipi strani, ma davvero della Florida."
+    },
+    {
+      "start": 40.32,
+      "end": 43.78,
+      "text": "E qui ne abbiamo dato una scensa, questo pollo fritto è un paio di slice di pizza da dividere."
+    },
+    {
+      "start": 43.82,
+      "end": 46.08,
+      "text": "Pollo fritto che era veramente tanta roba."
+    },
+    {
+      "start": 46.12,
+      "end": 49.0,
+      "text": "Pensare che l'abbiamo preso da sport, ci siamo fermati poi in un parco a mangiarlo"
+    },
+    {
+      "start": 49.0,
+      "end": 52.22,
+      "text": "ed era comunque ancora bollente. Certo, forse la frittura era un po' pesante."
+    },
+    {
+      "start": 52.32,
+      "end": 55.06,
+      "text": "E dopo di che ho staggiato questa slice di pizza con formaggio becor,"
+    },
+    {
+      "start": 55.16,
+      "end": 58.26,
+      "text": "che vi dirò come impasto mi ha stupito, che se il condimento era un po' collochiera."
+    },
+    {
+      "start": 58.26,
+      "end": 62.72,
+      "text": "Pranzo che tra l'altro abbiamo fatto circondati da scoyattoli e da questa simpaticissima lepre."
+    },
+    {
+      "start": 62.78,
+      "end": 65.08,
+      "text": "Molto molto carina e che ha apprezzato particolarmente il pollo."
+    },
+    {
+      "start": 65.22,
+      "end": 68.22,
+      "text": "Dopo di che siamo arrivati in una delle spiagge più famose di tutta l'America."
+    },
+    {
+      "start": 68.26,
+      "end": 70.86,
+      "text": "La spiagge è letta appunto come numero uno negli Stati Uniti."
+    },
+    {
+      "start": 71.0,
+      "end": 75.82,
+      "text": "Sto parlando di siesta beach, che però ovviamente abbiamo trovato con questo tempo molto nuvoloso."
+    },
+    {
+      "start": 75.88,
+      "end": 79.44,
+      "text": "Ma non abbiamo potuto apprezzare a pieno questa spiagge che dovrebbe essere una delle migliori."
+    },
+    {
+      "start": 79.48,
+      "end": 81.82,
+      "text": "Ci siamo poi rimessi in macchina, siamo quindi arrivati a Sarasota."
+    },
+    {
+      "start": 81.92,
+      "end": 84.36,
+      "text": "Dove percire, ne essendo tali, ci siamo fermati da Applebees."
+    },
+    {
+      "start": 84.36,
+      "end": 88.7,
+      "text": "Dopo che abbiamo provato questi brezz, è molto particolare che qui in America ovviamente ti accompagnano con il cheddar"
+    },
+    {
+      "start": 88.7,
+      "end": 90.46,
+      "text": "e quest'altra salsa con formaggio fuso."
+    },
+    {
+      "start": 90.54,
+      "end": 92.84,
+      "text": "E come piatto principale mi sono preso questa tagliata con patate."
+    },
+    {
+      "start": 92.9,
+      "end": 97.18,
+      "text": "Tagliata ovviamente ricoperta di miele per dare quell'effetto caramellizzazione che era molto buona."
+    },
+    {
+      "start": 97.22,
+      "end": 99.5,
+      "text": "E waffle fries che devo dire sono sempre il mio preferite."
+    },
+    {
+      "start": 99.58,
+      "end": 102.08,
+      "text": "Insomma una giornata tranquila di viaggio, ma comunque molto americana."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "word": "Giornostetta"
+    },
+    {
+      "start": 0.54,
+      "end": 0.74,
+      "word": "del"
+    },
+    {
+      "start": 0.74,
+      "end": 0.82,
+      "word": "mio"
+    },
+    {
+      "start": 0.82,
+      "end": 1.04,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.04,
+      "end": 1.16,
+      "word": "in"
+    },
+    {
+      "start": 1.16,
+      "end": 1.4,
+      "word": "flore"
+    },
+    {
+      "start": 1.4,
+      "end": 1.52,
+      "word": "da"
+    },
+    {
+      "start": 1.52,
+      "end": 1.64,
+      "word": "la"
+    },
+    {
+      "start": 1.64,
+      "end": 1.98,
+      "word": "scoperta"
+    },
+    {
+      "start": 1.98,
+      "end": 2.2,
+      "word": "della"
+    },
+    {
+      "start": 2.2,
+      "end": 2.48,
+      "word": "vera"
+    },
+    {
+      "start": 2.48,
+      "end": 2.82,
+      "word": "cucina"
+    },
+    {
+      "start": 2.82,
+      "end": 3.24,
+      "word": "americana."
+    },
+    {
+      "start": 3.36,
+      "end": 3.4,
+      "word": "Se"
+    },
+    {
+      "start": 3.4,
+      "end": 3.56,
+      "word": "oggi"
+    },
+    {
+      "start": 3.56,
+      "end": 3.86,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.86,
+      "end": 3.98,
+      "word": "non"
+    },
+    {
+      "start": 3.98,
+      "end": 4.14,
+      "word": "siamo"
+    },
+    {
+      "start": 4.14,
+      "end": 4.4,
+      "word": "stati"
+    },
+    {
+      "start": 4.4,
+      "end": 4.88,
+      "word": "particolarmente"
+    },
+    {
+      "start": 4.88,
+      "end": 5.44,
+      "word": "fortunati"
+    },
+    {
+      "start": 5.44,
+      "end": 5.62,
+      "word": "con"
+    },
+    {
+      "start": 5.62,
+      "end": 5.76,
+      "word": "il"
+    },
+    {
+      "start": 5.76,
+      "end": 5.98,
+      "word": "tempo"
+    },
+    {
+      "start": 5.98,
+      "end": 6.1,
+      "word": "e"
+    },
+    {
+      "start": 6.1,
+      "end": 6.28,
+      "word": "quindi"
+    },
+    {
+      "start": 6.28,
+      "end": 6.48,
+      "word": "ci"
+    },
+    {
+      "start": 6.48,
+      "end": 6.88,
+      "word": "dedichiamo"
+    },
+    {
+      "start": 6.88,
+      "end": 7.14,
+      "word": "al"
+    },
+    {
+      "start": 7.14,
+      "end": 7.44,
+      "word": "cibo."
+    },
+    {
+      "start": 7.48,
+      "end": 7.58,
+      "word": "Oggi"
+    },
+    {
+      "start": 7.58,
+      "end": 7.78,
+      "word": "siamo"
+    },
+    {
+      "start": 7.78,
+      "end": 7.92,
+      "word": "a"
+    },
+    {
+      "start": 7.92,
+      "end": 8.08,
+      "word": "Fort"
+    },
+    {
+      "start": 8.08,
+      "end": 8.54,
+      "word": "Myers"
+    },
+    {
+      "start": 8.54,
+      "end": 8.9,
+      "word": "ed"
+    },
+    {
+      "start": 8.9,
+      "end": 9.2,
+      "word": "andremo"
+    },
+    {
+      "start": 9.2,
+      "end": 9.46,
+      "word": "fino"
+    },
+    {
+      "start": 9.46,
+      "end": 9.62,
+      "word": "a"
+    },
+    {
+      "start": 9.62,
+      "end": 10.12,
+      "word": "Sarasota."
+    },
+    {
+      "start": 10.3,
+      "end": 10.5,
+      "word": "Partendo"
+    },
+    {
+      "start": 10.5,
+      "end": 10.84,
+      "word": "ovviamente"
+    },
+    {
+      "start": 10.84,
+      "end": 11.18,
+      "word": "però"
+    },
+    {
+      "start": 11.18,
+      "end": 11.46,
+      "word": "con"
+    },
+    {
+      "start": 11.46,
+      "end": 11.6,
+      "word": "un"
+    },
+    {
+      "start": 11.6,
+      "end": 11.84,
+      "word": "ottimo"
+    },
+    {
+      "start": 11.84,
+      "end": 12.24,
+      "word": "allenamento"
+    },
+    {
+      "start": 12.24,
+      "end": 12.54,
+      "word": "nella"
+    },
+    {
+      "start": 12.54,
+      "end": 12.92,
+      "word": "palestrina"
+    },
+    {
+      "start": 12.92,
+      "end": 13.1,
+      "word": "dell"
+    },
+    {
+      "start": 13.1,
+      "end": 13.46,
+      "word": "'hotel,"
+    },
+    {
+      "start": 13.54,
+      "end": 13.58,
+      "word": "per"
+    },
+    {
+      "start": 13.58,
+      "end": 13.72,
+      "word": "poi"
+    },
+    {
+      "start": 13.72,
+      "end": 13.98,
+      "word": "arrivare"
+    },
+    {
+      "start": 13.98,
+      "end": 14.36,
+      "word": "subito"
+    },
+    {
+      "start": 14.36,
+      "end": 14.44,
+      "word": "a"
+    },
+    {
+      "start": 14.44,
+      "end": 14.56,
+      "word": "far"
+    },
+    {
+      "start": 14.56,
+      "end": 15.12,
+      "word": "colazione,"
+    },
+    {
+      "start": 15.26,
+      "end": 15.36,
+      "word": "con"
+    },
+    {
+      "start": 15.36,
+      "end": 15.62,
+      "word": "uova,"
+    },
+    {
+      "start": 15.76,
+      "end": 15.8,
+      "word": "un"
+    },
+    {
+      "start": 15.8,
+      "end": 16.12,
+      "word": "panino,"
+    },
+    {
+      "start": 16.22,
+      "end": 16.4,
+      "word": "questi"
+    },
+    {
+      "start": 16.4,
+      "end": 16.6,
+      "word": "due"
+    },
+    {
+      "start": 16.6,
+      "end": 16.8,
+      "word": "mini"
+    },
+    {
+      "start": 16.8,
+      "end": 17.18,
+      "word": "hamburger,"
+    },
+    {
+      "start": 17.44,
+      "end": 17.46,
+      "word": "e"
+    },
+    {
+      "start": 17.46,
+      "end": 17.58,
+      "word": "un"
+    },
+    {
+      "start": 17.58,
+      "end": 17.7,
+      "word": "bel"
+    },
+    {
+      "start": 17.7,
+      "end": 18.0,
+      "word": "waffle"
+    },
+    {
+      "start": 18.0,
+      "end": 18.26,
+      "word": "con"
+    },
+    {
+      "start": 18.26,
+      "end": 18.66,
+      "word": "sciroppo"
+    },
+    {
+      "start": 18.66,
+      "end": 18.84,
+      "word": "d"
+    },
+    {
+      "start": 18.84,
+      "end": 19.04,
+      "word": "'acero"
+    },
+    {
+      "start": 19.04,
+      "end": 19.24,
+      "word": "e"
+    },
+    {
+      "start": 19.24,
+      "end": 19.5,
+      "word": "frutta"
+    },
+    {
+      "start": 19.5,
+      "end": 20.26,
+      "word": "caramelata."
+    },
+    {
+      "start": 20.34,
+      "end": 20.7,
+      "word": "Infine,"
+    },
+    {
+      "start": 20.88,
+      "end": 21.4,
+      "word": "yogurtino"
+    },
+    {
+      "start": 21.4,
+      "end": 21.58,
+      "word": "con"
+    },
+    {
+      "start": 21.58,
+      "end": 22.36,
+      "word": "deceriali"
+    },
+    {
+      "start": 22.36,
+      "end": 22.5,
+      "word": "e"
+    },
+    {
+      "start": 22.5,
+      "end": 22.64,
+      "word": "siamo"
+    },
+    {
+      "start": 22.64,
+      "end": 22.82,
+      "word": "poi"
+    },
+    {
+      "start": 22.82,
+      "end": 23.16,
+      "word": "partiti"
+    },
+    {
+      "start": 23.16,
+      "end": 23.56,
+      "word": "cercando"
+    },
+    {
+      "start": 23.56,
+      "end": 23.72,
+      "word": "una"
+    },
+    {
+      "start": 23.72,
+      "end": 24.18,
+      "word": "spiaggia"
+    },
+    {
+      "start": 24.18,
+      "end": 24.36,
+      "word": "perché"
+    },
+    {
+      "start": 24.36,
+      "end": 24.52,
+      "word": "l"
+    },
+    {
+      "start": 24.52,
+      "end": 24.9,
+      "word": "'intenzione"
+    },
+    {
+      "start": 24.9,
+      "end": 25.1,
+      "word": "era"
+    },
+    {
+      "start": 25.1,
+      "end": 25.24,
+      "word": "quella"
+    },
+    {
+      "start": 25.24,
+      "end": 25.42,
+      "word": "di"
+    },
+    {
+      "start": 25.42,
+      "end": 25.58,
+      "word": "fare"
+    },
+    {
+      "start": 25.58,
+      "end": 25.86,
+      "word": "mare"
+    },
+    {
+      "start": 25.86,
+      "end": 26.22,
+      "word": "oggi."
+    },
+    {
+      "start": 26.34,
+      "end": 26.4,
+      "word": "Ma"
+    },
+    {
+      "start": 26.4,
+      "end": 26.6,
+      "word": "come"
+    },
+    {
+      "start": 26.6,
+      "end": 26.92,
+      "word": "potete"
+    },
+    {
+      "start": 26.92,
+      "end": 27.14,
+      "word": "ben"
+    },
+    {
+      "start": 27.14,
+      "end": 27.38,
+      "word": "vedere,"
+    },
+    {
+      "start": 27.58,
+      "end": 27.62,
+      "word": "il"
+    },
+    {
+      "start": 27.62,
+      "end": 27.78,
+      "word": "tempo"
+    },
+    {
+      "start": 27.78,
+      "end": 28.02,
+      "word": "della"
+    },
+    {
+      "start": 28.02,
+      "end": 28.32,
+      "word": "flore"
+    },
+    {
+      "start": 28.32,
+      "end": 28.46,
+      "word": "da"
+    },
+    {
+      "start": 28.46,
+      "end": 28.72,
+      "word": "regare"
+    },
+    {
+      "start": 28.72,
+      "end": 28.84,
+      "word": "a"
+    },
+    {
+      "start": 28.84,
+      "end": 29.08,
+      "word": "sempre"
+    },
+    {
+      "start": 29.08,
+      "end": 29.56,
+      "word": "emozioni."
+    },
+    {
+      "start": 29.56,
+      "end": 29.7,
+      "word": "Qui"
+    },
+    {
+      "start": 29.7,
+      "end": 29.9,
+      "word": "dopo"
+    },
+    {
+      "start": 29.9,
+      "end": 30.04,
+      "word": "un"
+    },
+    {
+      "start": 30.04,
+      "end": 30.3,
+      "word": "veloce"
+    },
+    {
+      "start": 30.3,
+      "end": 30.7,
+      "word": "gireto"
+    },
+    {
+      "start": 30.7,
+      "end": 30.82,
+      "word": "ci"
+    },
+    {
+      "start": 30.82,
+      "end": 30.96,
+      "word": "siamo"
+    },
+    {
+      "start": 30.96,
+      "end": 31.32,
+      "word": "rimessi"
+    },
+    {
+      "start": 31.32,
+      "end": 31.44,
+      "word": "in"
+    },
+    {
+      "start": 31.44,
+      "end": 31.7,
+      "word": "macchina"
+    },
+    {
+      "start": 31.7,
+      "end": 31.82,
+      "word": "in"
+    },
+    {
+      "start": 31.82,
+      "end": 32.12,
+      "word": "direzione"
+    },
+    {
+      "start": 32.12,
+      "end": 32.66,
+      "word": "Sanibel"
+    },
+    {
+      "start": 32.66,
+      "end": 32.82,
+      "word": "e"
+    },
+    {
+      "start": 32.82,
+      "end": 32.94,
+      "word": "ci"
+    },
+    {
+      "start": 32.94,
+      "end": 33.14,
+      "word": "siamo"
+    },
+    {
+      "start": 33.14,
+      "end": 33.54,
+      "word": "fermati"
+    },
+    {
+      "start": 33.54,
+      "end": 33.64,
+      "word": "a"
+    },
+    {
+      "start": 33.64,
+      "end": 33.9,
+      "word": "provare"
+    },
+    {
+      "start": 33.9,
+      "end": 34.02,
+      "word": "il"
+    },
+    {
+      "start": 34.02,
+      "end": 34.16,
+      "word": "pollo"
+    },
+    {
+      "start": 34.16,
+      "end": 34.38,
+      "word": "fritto"
+    },
+    {
+      "start": 34.38,
+      "end": 34.52,
+      "word": "di"
+    },
+    {
+      "start": 34.52,
+      "end": 34.72,
+      "word": "questa"
+    },
+    {
+      "start": 34.72,
+      "end": 35.08,
+      "word": "stazione"
+    },
+    {
+      "start": 35.08,
+      "end": 35.24,
+      "word": "di"
+    },
+    {
+      "start": 35.24,
+      "end": 35.78,
+      "word": "servizio"
+    },
+    {
+      "start": 35.78,
+      "end": 35.9,
+      "word": "di"
+    },
+    {
+      "start": 35.9,
+      "end": 35.98,
+      "word": "cui"
+    },
+    {
+      "start": 35.98,
+      "end": 36.1,
+      "word": "ci"
+    },
+    {
+      "start": 36.1,
+      "end": 36.38,
+      "word": "avevano"
+    },
+    {
+      "start": 36.38,
+      "end": 36.72,
+      "word": "parlato"
+    },
+    {
+      "start": 36.72,
+      "end": 36.84,
+      "word": "il"
+    },
+    {
+      "start": 36.84,
+      "end": 36.96,
+      "word": "giorno"
+    },
+    {
+      "start": 36.96,
+      "end": 37.26,
+      "word": "prima"
+    },
+    {
+      "start": 37.26,
+      "end": 37.5,
+      "word": "due"
+    },
+    {
+      "start": 37.5,
+      "end": 37.88,
+      "word": "locals,"
+    },
+    {
+      "start": 38.02,
+      "end": 38.14,
+      "word": "due"
+    },
+    {
+      "start": 38.14,
+      "end": 38.34,
+      "word": "tipi"
+    },
+    {
+      "start": 38.34,
+      "end": 38.78,
+      "word": "strani,"
+    },
+    {
+      "start": 38.84,
+      "end": 39.04,
+      "word": "ma"
+    },
+    {
+      "start": 39.04,
+      "end": 39.52,
+      "word": "davvero"
+    },
+    {
+      "start": 39.52,
+      "end": 39.72,
+      "word": "della"
+    },
+    {
+      "start": 39.72,
+      "end": 40.06,
+      "word": "Florida."
+    },
+    {
+      "start": 40.32,
+      "end": 40.38,
+      "word": "E"
+    },
+    {
+      "start": 40.38,
+      "end": 40.5,
+      "word": "qui"
+    },
+    {
+      "start": 40.5,
+      "end": 40.6,
+      "word": "ne"
+    },
+    {
+      "start": 40.6,
+      "end": 40.72,
+      "word": "abbiamo"
+    },
+    {
+      "start": 40.72,
+      "end": 40.92,
+      "word": "dato"
+    },
+    {
+      "start": 40.92,
+      "end": 41.06,
+      "word": "una"
+    },
+    {
+      "start": 41.06,
+      "end": 41.3,
+      "word": "scensa,"
+    },
+    {
+      "start": 41.44,
+      "end": 41.64,
+      "word": "questo"
+    },
+    {
+      "start": 41.64,
+      "end": 41.84,
+      "word": "pollo"
+    },
+    {
+      "start": 41.84,
+      "end": 42.16,
+      "word": "fritto"
+    },
+    {
+      "start": 42.16,
+      "end": 42.34,
+      "word": "è"
+    },
+    {
+      "start": 42.34,
+      "end": 42.34,
+      "word": "un"
+    },
+    {
+      "start": 42.34,
+      "end": 42.48,
+      "word": "paio"
+    },
+    {
+      "start": 42.48,
+      "end": 42.58,
+      "word": "di"
+    },
+    {
+      "start": 42.58,
+      "end": 42.8,
+      "word": "slice"
+    },
+    {
+      "start": 42.8,
+      "end": 43.02,
+      "word": "di"
+    },
+    {
+      "start": 43.02,
+      "end": 43.22,
+      "word": "pizza"
+    },
+    {
+      "start": 43.22,
+      "end": 43.36,
+      "word": "da"
+    },
+    {
+      "start": 43.36,
+      "end": 43.78,
+      "word": "dividere."
+    },
+    {
+      "start": 43.82,
+      "end": 44.0,
+      "word": "Pollo"
+    },
+    {
+      "start": 44.0,
+      "end": 44.34,
+      "word": "fritto"
+    },
+    {
+      "start": 44.34,
+      "end": 44.52,
+      "word": "che"
+    },
+    {
+      "start": 44.52,
+      "end": 44.66,
+      "word": "era"
+    },
+    {
+      "start": 44.66,
+      "end": 45.08,
+      "word": "veramente"
+    },
+    {
+      "start": 45.08,
+      "end": 45.58,
+      "word": "tanta"
+    },
+    {
+      "start": 45.58,
+      "end": 46.08,
+      "word": "roba."
+    },
+    {
+      "start": 46.12,
+      "end": 46.26,
+      "word": "Pensare"
+    },
+    {
+      "start": 46.26,
+      "end": 46.42,
+      "word": "che"
+    },
+    {
+      "start": 46.42,
+      "end": 46.5,
+      "word": "l"
+    },
+    {
+      "start": 46.5,
+      "end": 46.62,
+      "word": "'abbiamo"
+    },
+    {
+      "start": 46.62,
+      "end": 46.86,
+      "word": "preso"
+    },
+    {
+      "start": 46.86,
+      "end": 47.0,
+      "word": "da"
+    },
+    {
+      "start": 47.0,
+      "end": 47.26,
+      "word": "sport,"
+    },
+    {
+      "start": 47.26,
+      "end": 47.5,
+      "word": "ci"
+    },
+    {
+      "start": 47.5,
+      "end": 47.62,
+      "word": "siamo"
+    },
+    {
+      "start": 47.62,
+      "end": 47.94,
+      "word": "fermati"
+    },
+    {
+      "start": 47.94,
+      "end": 48.08,
+      "word": "poi"
+    },
+    {
+      "start": 48.08,
+      "end": 48.16,
+      "word": "in"
+    },
+    {
+      "start": 48.16,
+      "end": 48.24,
+      "word": "un"
+    },
+    {
+      "start": 48.24,
+      "end": 48.42,
+      "word": "parco"
+    },
+    {
+      "start": 48.42,
+      "end": 48.54,
+      "word": "a"
+    },
+    {
+      "start": 48.54,
+      "end": 49.0,
+      "word": "mangiarlo"
+    },
+    {
+      "start": 49.0,
+      "end": 49.18,
+      "word": "ed"
+    },
+    {
+      "start": 49.18,
+      "end": 49.34,
+      "word": "era"
+    },
+    {
+      "start": 49.34,
+      "end": 49.56,
+      "word": "comunque"
+    },
+    {
+      "start": 49.56,
+      "end": 49.92,
+      "word": "ancora"
+    },
+    {
+      "start": 49.92,
+      "end": 50.42,
+      "word": "bollente."
+    },
+    {
+      "start": 50.52,
+      "end": 50.62,
+      "word": "Certo,"
+    },
+    {
+      "start": 50.76,
+      "end": 50.92,
+      "word": "forse"
+    },
+    {
+      "start": 50.92,
+      "end": 51.04,
+      "word": "la"
+    },
+    {
+      "start": 51.04,
+      "end": 51.44,
+      "word": "frittura"
+    },
+    {
+      "start": 51.44,
+      "end": 51.62,
+      "word": "era"
+    },
+    {
+      "start": 51.62,
+      "end": 51.7,
+      "word": "un"
+    },
+    {
+      "start": 51.7,
+      "end": 51.78,
+      "word": "po'"
+    },
+    {
+      "start": 51.86,
+      "end": 52.22,
+      "word": "pesante."
+    },
+    {
+      "start": 52.32,
+      "end": 52.36,
+      "word": "E"
+    },
+    {
+      "start": 52.36,
+      "end": 52.44,
+      "word": "dopo"
+    },
+    {
+      "start": 52.44,
+      "end": 52.56,
+      "word": "di"
+    },
+    {
+      "start": 52.56,
+      "end": 52.64,
+      "word": "che"
+    },
+    {
+      "start": 52.64,
+      "end": 52.7,
+      "word": "ho"
+    },
+    {
+      "start": 52.7,
+      "end": 52.94,
+      "word": "staggiato"
+    },
+    {
+      "start": 52.94,
+      "end": 53.18,
+      "word": "questa"
+    },
+    {
+      "start": 53.18,
+      "end": 53.54,
+      "word": "slice"
+    },
+    {
+      "start": 53.54,
+      "end": 53.7,
+      "word": "di"
+    },
+    {
+      "start": 53.7,
+      "end": 54.0,
+      "word": "pizza"
+    },
+    {
+      "start": 54.0,
+      "end": 54.18,
+      "word": "con"
+    },
+    {
+      "start": 54.18,
+      "end": 54.64,
+      "word": "formaggio"
+    },
+    {
+      "start": 54.64,
+      "end": 55.06,
+      "word": "becor,"
+    },
+    {
+      "start": 55.16,
+      "end": 55.22,
+      "word": "che"
+    },
+    {
+      "start": 55.22,
+      "end": 55.34,
+      "word": "vi"
+    },
+    {
+      "start": 55.34,
+      "end": 55.58,
+      "word": "dirò"
+    },
+    {
+      "start": 55.58,
+      "end": 55.78,
+      "word": "come"
+    },
+    {
+      "start": 55.78,
+      "end": 56.08,
+      "word": "impasto"
+    },
+    {
+      "start": 56.08,
+      "end": 56.22,
+      "word": "mi"
+    },
+    {
+      "start": 56.22,
+      "end": 56.28,
+      "word": "ha"
+    },
+    {
+      "start": 56.28,
+      "end": 56.68,
+      "word": "stupito,"
+    },
+    {
+      "start": 56.82,
+      "end": 56.88,
+      "word": "che"
+    },
+    {
+      "start": 56.88,
+      "end": 56.98,
+      "word": "se"
+    },
+    {
+      "start": 56.98,
+      "end": 57.08,
+      "word": "il"
+    },
+    {
+      "start": 57.08,
+      "end": 57.4,
+      "word": "condimento"
+    },
+    {
+      "start": 57.4,
+      "end": 57.66,
+      "word": "era"
+    },
+    {
+      "start": 57.66,
+      "end": 57.74,
+      "word": "un"
+    },
+    {
+      "start": 57.74,
+      "end": 57.82,
+      "word": "po'"
+    },
+    {
+      "start": 57.88,
+      "end": 58.26,
+      "word": "collochiera."
+    },
+    {
+      "start": 58.26,
+      "end": 58.76,
+      "word": "Pranzo"
+    },
+    {
+      "start": 58.76,
+      "end": 58.84,
+      "word": "che"
+    },
+    {
+      "start": 58.84,
+      "end": 58.96,
+      "word": "tra"
+    },
+    {
+      "start": 58.96,
+      "end": 59.06,
+      "word": "l"
+    },
+    {
+      "start": 59.06,
+      "end": 59.16,
+      "word": "'altro"
+    },
+    {
+      "start": 59.16,
+      "end": 59.34,
+      "word": "abbiamo"
+    },
+    {
+      "start": 59.34,
+      "end": 59.7,
+      "word": "fatto"
+    },
+    {
+      "start": 59.7,
+      "end": 60.46,
+      "word": "circondati"
+    },
+    {
+      "start": 60.46,
+      "end": 60.64,
+      "word": "da"
+    },
+    {
+      "start": 60.64,
+      "end": 61.24,
+      "word": "scoyattoli"
+    },
+    {
+      "start": 61.24,
+      "end": 61.38,
+      "word": "e"
+    },
+    {
+      "start": 61.38,
+      "end": 61.44,
+      "word": "da"
+    },
+    {
+      "start": 61.44,
+      "end": 61.68,
+      "word": "questa"
+    },
+    {
+      "start": 61.68,
+      "end": 62.44,
+      "word": "simpaticissima"
+    },
+    {
+      "start": 62.44,
+      "end": 62.72,
+      "word": "lepre."
+    },
+    {
+      "start": 62.78,
+      "end": 62.94,
+      "word": "Molto"
+    },
+    {
+      "start": 62.94,
+      "end": 63.1,
+      "word": "molto"
+    },
+    {
+      "start": 63.1,
+      "end": 63.46,
+      "word": "carina"
+    },
+    {
+      "start": 63.46,
+      "end": 63.58,
+      "word": "e"
+    },
+    {
+      "start": 63.58,
+      "end": 63.62,
+      "word": "che"
+    },
+    {
+      "start": 63.62,
+      "end": 63.74,
+      "word": "ha"
+    },
+    {
+      "start": 63.74,
+      "end": 64.02,
+      "word": "apprezzato"
+    },
+    {
+      "start": 64.02,
+      "end": 64.64,
+      "word": "particolarmente"
+    },
+    {
+      "start": 64.64,
+      "end": 64.8,
+      "word": "il"
+    },
+    {
+      "start": 64.8,
+      "end": 65.08,
+      "word": "pollo."
+    },
+    {
+      "start": 65.22,
+      "end": 65.32,
+      "word": "Dopo"
+    },
+    {
+      "start": 65.32,
+      "end": 65.42,
+      "word": "di"
+    },
+    {
+      "start": 65.42,
+      "end": 65.52,
+      "word": "che"
+    },
+    {
+      "start": 65.52,
+      "end": 65.7,
+      "word": "siamo"
+    },
+    {
+      "start": 65.7,
+      "end": 66.06,
+      "word": "arrivati"
+    },
+    {
+      "start": 66.06,
+      "end": 66.18,
+      "word": "in"
+    },
+    {
+      "start": 66.18,
+      "end": 66.3,
+      "word": "una"
+    },
+    {
+      "start": 66.3,
+      "end": 66.44,
+      "word": "delle"
+    },
+    {
+      "start": 66.44,
+      "end": 66.78,
+      "word": "spiagge"
+    },
+    {
+      "start": 66.78,
+      "end": 66.94,
+      "word": "più"
+    },
+    {
+      "start": 66.94,
+      "end": 67.28,
+      "word": "famose"
+    },
+    {
+      "start": 67.28,
+      "end": 67.46,
+      "word": "di"
+    },
+    {
+      "start": 67.46,
+      "end": 67.7,
+      "word": "tutta"
+    },
+    {
+      "start": 67.7,
+      "end": 67.76,
+      "word": "l"
+    },
+    {
+      "start": 67.76,
+      "end": 68.22,
+      "word": "'America."
+    },
+    {
+      "start": 68.26,
+      "end": 68.32,
+      "word": "La"
+    },
+    {
+      "start": 68.32,
+      "end": 68.58,
+      "word": "spiagge"
+    },
+    {
+      "start": 68.58,
+      "end": 68.72,
+      "word": "è"
+    },
+    {
+      "start": 68.72,
+      "end": 68.92,
+      "word": "letta"
+    },
+    {
+      "start": 68.92,
+      "end": 69.16,
+      "word": "appunto"
+    },
+    {
+      "start": 69.16,
+      "end": 69.42,
+      "word": "come"
+    },
+    {
+      "start": 69.42,
+      "end": 69.66,
+      "word": "numero"
+    },
+    {
+      "start": 69.66,
+      "end": 70.0,
+      "word": "uno"
+    },
+    {
+      "start": 70.0,
+      "end": 70.32,
+      "word": "negli"
+    },
+    {
+      "start": 70.32,
+      "end": 70.52,
+      "word": "Stati"
+    },
+    {
+      "start": 70.52,
+      "end": 70.86,
+      "word": "Uniti."
+    },
+    {
+      "start": 71.0,
+      "end": 71.08,
+      "word": "Sto"
+    },
+    {
+      "start": 71.08,
+      "end": 71.36,
+      "word": "parlando"
+    },
+    {
+      "start": 71.36,
+      "end": 71.52,
+      "word": "di"
+    },
+    {
+      "start": 71.52,
+      "end": 71.88,
+      "word": "siesta"
+    },
+    {
+      "start": 71.88,
+      "end": 72.14,
+      "word": "beach,"
+    },
+    {
+      "start": 72.4,
+      "end": 72.48,
+      "word": "che"
+    },
+    {
+      "start": 72.48,
+      "end": 72.7,
+      "word": "però"
+    },
+    {
+      "start": 72.7,
+      "end": 73.22,
+      "word": "ovviamente"
+    },
+    {
+      "start": 73.22,
+      "end": 73.62,
+      "word": "abbiamo"
+    },
+    {
+      "start": 73.62,
+      "end": 74.16,
+      "word": "trovato"
+    },
+    {
+      "start": 74.16,
+      "end": 74.34,
+      "word": "con"
+    },
+    {
+      "start": 74.34,
+      "end": 74.58,
+      "word": "questo"
+    },
+    {
+      "start": 74.58,
+      "end": 74.88,
+      "word": "tempo"
+    },
+    {
+      "start": 74.88,
+      "end": 75.32,
+      "word": "molto"
+    },
+    {
+      "start": 75.32,
+      "end": 75.82,
+      "word": "nuvoloso."
+    },
+    {
+      "start": 75.88,
+      "end": 75.94,
+      "word": "Ma"
+    },
+    {
+      "start": 75.94,
+      "end": 76.02,
+      "word": "non"
+    },
+    {
+      "start": 76.02,
+      "end": 76.18,
+      "word": "abbiamo"
+    },
+    {
+      "start": 76.18,
+      "end": 76.5,
+      "word": "potuto"
+    },
+    {
+      "start": 76.5,
+      "end": 76.92,
+      "word": "apprezzare"
+    },
+    {
+      "start": 76.92,
+      "end": 77.06,
+      "word": "a"
+    },
+    {
+      "start": 77.06,
+      "end": 77.32,
+      "word": "pieno"
+    },
+    {
+      "start": 77.32,
+      "end": 77.52,
+      "word": "questa"
+    },
+    {
+      "start": 77.52,
+      "end": 77.9,
+      "word": "spiagge"
+    },
+    {
+      "start": 77.9,
+      "end": 78.02,
+      "word": "che"
+    },
+    {
+      "start": 78.02,
+      "end": 78.26,
+      "word": "dovrebbe"
+    },
+    {
+      "start": 78.26,
+      "end": 78.58,
+      "word": "essere"
+    },
+    {
+      "start": 78.58,
+      "end": 78.74,
+      "word": "una"
+    },
+    {
+      "start": 78.74,
+      "end": 78.86,
+      "word": "delle"
+    },
+    {
+      "start": 78.86,
+      "end": 79.44,
+      "word": "migliori."
+    },
+    {
+      "start": 79.48,
+      "end": 79.54,
+      "word": "Ci"
+    },
+    {
+      "start": 79.54,
+      "end": 79.68,
+      "word": "siamo"
+    },
+    {
+      "start": 79.68,
+      "end": 79.84,
+      "word": "poi"
+    },
+    {
+      "start": 79.84,
+      "end": 80.16,
+      "word": "rimessi"
+    },
+    {
+      "start": 80.16,
+      "end": 80.26,
+      "word": "in"
+    },
+    {
+      "start": 80.26,
+      "end": 80.46,
+      "word": "macchina,"
+    },
+    {
+      "start": 80.62,
+      "end": 80.64,
+      "word": "siamo"
+    },
+    {
+      "start": 80.64,
+      "end": 80.84,
+      "word": "quindi"
+    },
+    {
+      "start": 80.84,
+      "end": 81.22,
+      "word": "arrivati"
+    },
+    {
+      "start": 81.22,
+      "end": 81.34,
+      "word": "a"
+    },
+    {
+      "start": 81.34,
+      "end": 81.82,
+      "word": "Sarasota."
+    },
+    {
+      "start": 81.92,
+      "end": 82.04,
+      "word": "Dove"
+    },
+    {
+      "start": 82.04,
+      "end": 82.38,
+      "word": "percire,"
+    },
+    {
+      "start": 82.38,
+      "end": 82.46,
+      "word": "ne"
+    },
+    {
+      "start": 82.46,
+      "end": 82.62,
+      "word": "essendo"
+    },
+    {
+      "start": 82.62,
+      "end": 82.92,
+      "word": "tali,"
+    },
+    {
+      "start": 82.98,
+      "end": 83.04,
+      "word": "ci"
+    },
+    {
+      "start": 83.04,
+      "end": 83.16,
+      "word": "siamo"
+    },
+    {
+      "start": 83.16,
+      "end": 83.58,
+      "word": "fermati"
+    },
+    {
+      "start": 83.58,
+      "end": 83.74,
+      "word": "da"
+    },
+    {
+      "start": 83.74,
+      "end": 84.36,
+      "word": "Applebees."
+    },
+    {
+      "start": 84.36,
+      "end": 84.56,
+      "word": "Dopo"
+    },
+    {
+      "start": 84.56,
+      "end": 84.56,
+      "word": "che"
+    },
+    {
+      "start": 84.56,
+      "end": 84.68,
+      "word": "abbiamo"
+    },
+    {
+      "start": 84.68,
+      "end": 85.08,
+      "word": "provato"
+    },
+    {
+      "start": 85.08,
+      "end": 85.3,
+      "word": "questi"
+    },
+    {
+      "start": 85.3,
+      "end": 85.74,
+      "word": "brezz,"
+    },
+    {
+      "start": 85.8,
+      "end": 85.8,
+      "word": "è"
+    },
+    {
+      "start": 85.8,
+      "end": 85.96,
+      "word": "molto"
+    },
+    {
+      "start": 85.96,
+      "end": 86.56,
+      "word": "particolare"
+    },
+    {
+      "start": 86.56,
+      "end": 86.7,
+      "word": "che"
+    },
+    {
+      "start": 86.7,
+      "end": 86.86,
+      "word": "qui"
+    },
+    {
+      "start": 86.86,
+      "end": 86.92,
+      "word": "in"
+    },
+    {
+      "start": 86.92,
+      "end": 87.1,
+      "word": "America"
+    },
+    {
+      "start": 87.1,
+      "end": 87.48,
+      "word": "ovviamente"
+    },
+    {
+      "start": 87.48,
+      "end": 87.7,
+      "word": "ti"
+    },
+    {
+      "start": 87.7,
+      "end": 88.18,
+      "word": "accompagnano"
+    },
+    {
+      "start": 88.18,
+      "end": 88.32,
+      "word": "con"
+    },
+    {
+      "start": 88.32,
+      "end": 88.44,
+      "word": "il"
+    },
+    {
+      "start": 88.44,
+      "end": 88.7,
+      "word": "cheddar"
+    },
+    {
+      "start": 88.7,
+      "end": 88.88,
+      "word": "e"
+    },
+    {
+      "start": 88.88,
+      "end": 89.0,
+      "word": "quest"
+    },
+    {
+      "start": 89.0,
+      "end": 89.28,
+      "word": "'altra"
+    },
+    {
+      "start": 89.28,
+      "end": 89.52,
+      "word": "salsa"
+    },
+    {
+      "start": 89.52,
+      "end": 89.76,
+      "word": "con"
+    },
+    {
+      "start": 89.76,
+      "end": 90.12,
+      "word": "formaggio"
+    },
+    {
+      "start": 90.12,
+      "end": 90.46,
+      "word": "fuso."
+    },
+    {
+      "start": 90.54,
+      "end": 90.54,
+      "word": "E"
+    },
+    {
+      "start": 90.54,
+      "end": 90.68,
+      "word": "come"
+    },
+    {
+      "start": 90.68,
+      "end": 90.9,
+      "word": "piatto"
+    },
+    {
+      "start": 90.9,
+      "end": 91.34,
+      "word": "principale"
+    },
+    {
+      "start": 91.34,
+      "end": 91.4,
+      "word": "mi"
+    },
+    {
+      "start": 91.4,
+      "end": 91.52,
+      "word": "sono"
+    },
+    {
+      "start": 91.52,
+      "end": 91.74,
+      "word": "preso"
+    },
+    {
+      "start": 91.74,
+      "end": 91.92,
+      "word": "questa"
+    },
+    {
+      "start": 91.92,
+      "end": 92.28,
+      "word": "tagliata"
+    },
+    {
+      "start": 92.28,
+      "end": 92.44,
+      "word": "con"
+    },
+    {
+      "start": 92.44,
+      "end": 92.84,
+      "word": "patate."
+    },
+    {
+      "start": 92.9,
+      "end": 93.12,
+      "word": "Tagliata"
+    },
+    {
+      "start": 93.12,
+      "end": 93.44,
+      "word": "ovviamente"
+    },
+    {
+      "start": 93.44,
+      "end": 94.08,
+      "word": "ricoperta"
+    },
+    {
+      "start": 94.08,
+      "end": 94.28,
+      "word": "di"
+    },
+    {
+      "start": 94.28,
+      "end": 94.68,
+      "word": "miele"
+    },
+    {
+      "start": 94.68,
+      "end": 94.84,
+      "word": "per"
+    },
+    {
+      "start": 94.84,
+      "end": 95.0,
+      "word": "dare"
+    },
+    {
+      "start": 95.0,
+      "end": 95.22,
+      "word": "quell"
+    },
+    {
+      "start": 95.22,
+      "end": 95.48,
+      "word": "'effetto"
+    },
+    {
+      "start": 95.48,
+      "end": 96.36,
+      "word": "caramellizzazione"
+    },
+    {
+      "start": 96.36,
+      "end": 96.52,
+      "word": "che"
+    },
+    {
+      "start": 96.52,
+      "end": 96.62,
+      "word": "era"
+    },
+    {
+      "start": 96.62,
+      "end": 96.8,
+      "word": "molto"
+    },
+    {
+      "start": 96.8,
+      "end": 97.18,
+      "word": "buona."
+    },
+    {
+      "start": 97.22,
+      "end": 97.26,
+      "word": "E"
+    },
+    {
+      "start": 97.26,
+      "end": 97.5,
+      "word": "waffle"
+    },
+    {
+      "start": 97.5,
+      "end": 97.9,
+      "word": "fries"
+    },
+    {
+      "start": 97.9,
+      "end": 98.06,
+      "word": "che"
+    },
+    {
+      "start": 98.06,
+      "end": 98.22,
+      "word": "devo"
+    },
+    {
+      "start": 98.22,
+      "end": 98.42,
+      "word": "dire"
+    },
+    {
+      "start": 98.42,
+      "end": 98.6,
+      "word": "sono"
+    },
+    {
+      "start": 98.6,
+      "end": 98.86,
+      "word": "sempre"
+    },
+    {
+      "start": 98.86,
+      "end": 98.96,
+      "word": "il"
+    },
+    {
+      "start": 98.96,
+      "end": 99.08,
+      "word": "mio"
+    },
+    {
+      "start": 99.08,
+      "end": 99.5,
+      "word": "preferite."
+    },
+    {
+      "start": 99.58,
+      "end": 99.78,
+      "word": "Insomma"
+    },
+    {
+      "start": 99.78,
+      "end": 99.94,
+      "word": "una"
+    },
+    {
+      "start": 99.94,
+      "end": 100.24,
+      "word": "giornata"
+    },
+    {
+      "start": 100.24,
+      "end": 100.62,
+      "word": "tranquila"
+    },
+    {
+      "start": 100.62,
+      "end": 100.7,
+      "word": "di"
+    },
+    {
+      "start": 100.7,
+      "end": 101.02,
+      "word": "viaggio,"
+    },
+    {
+      "start": 101.12,
+      "end": 101.18,
+      "word": "ma"
+    },
+    {
+      "start": 101.18,
+      "end": 101.4,
+      "word": "comunque"
+    },
+    {
+      "start": 101.4,
+      "end": 101.62,
+      "word": "molto"
+    },
+    {
+      "start": 101.62,
+      "end": 102.08,
+      "word": "americana."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.8,
+      "dur": 2.8,
+      "transcript": "Giornostetta del mio viaggio in flore da la scoperta della vera cucina"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.8,
+      "end": 5.033,
+      "dur": 2.233,
+      "transcript": "americana. Se oggi ragazzi non siamo stati particolarmente"
+    },
+    {
+      "shot_idx": 2,
+      "start": 5.033,
+      "end": 9.5,
+      "dur": 4.467,
+      "transcript": "fortunati con il tempo e quindi ci dedichiamo al cibo. Oggi siamo a Fort Myers ed andremo fino"
+    },
+    {
+      "shot_idx": 3,
+      "start": 9.5,
+      "end": 15.733,
+      "dur": 6.233,
+      "transcript": "a Sarasota. Partendo ovviamente però con un ottimo allenamento nella palestrina dell 'hotel, per poi arrivare subito a far colazione, con uova,"
+    },
+    {
+      "shot_idx": 4,
+      "start": 15.733,
+      "end": 19.267,
+      "dur": 3.533,
+      "transcript": "un panino, questi due mini hamburger, e un bel waffle con sciroppo d 'acero e"
+    },
+    {
+      "shot_idx": 5,
+      "start": 19.267,
+      "end": 21.067,
+      "dur": 1.8,
+      "transcript": "frutta caramelata. Infine,"
+    },
+    {
+      "shot_idx": 6,
+      "start": 21.067,
+      "end": 23.533,
+      "dur": 2.467,
+      "transcript": "yogurtino con deceriali e siamo poi partiti cercando"
+    },
+    {
+      "shot_idx": 7,
+      "start": 23.533,
+      "end": 29.833,
+      "dur": 6.3,
+      "transcript": "una spiaggia perché l 'intenzione era quella di fare mare oggi. Ma come potete ben vedere, il tempo della flore da regare a sempre emozioni. Qui dopo"
+    },
+    {
+      "shot_idx": 8,
+      "start": 29.833,
+      "end": 32.867,
+      "dur": 3.033,
+      "transcript": "un veloce gireto ci siamo rimessi in macchina in direzione Sanibel e"
+    },
+    {
+      "shot_idx": 9,
+      "start": 32.867,
+      "end": 38.1,
+      "dur": 5.233,
+      "transcript": "ci siamo fermati a provare il pollo fritto di questa stazione di servizio di cui ci avevano parlato il giorno prima due locals, due"
+    },
+    {
+      "shot_idx": 10,
+      "start": 38.1,
+      "end": 40.6,
+      "dur": 2.5,
+      "transcript": "tipi strani, ma davvero della Florida. E qui ne"
+    },
+    {
+      "shot_idx": 11,
+      "start": 40.6,
+      "end": 43.133,
+      "dur": 2.533,
+      "transcript": "abbiamo dato una scensa, questo pollo fritto è un paio di slice di pizza"
+    },
+    {
+      "shot_idx": 12,
+      "start": 43.133,
+      "end": 45.833,
+      "dur": 2.7,
+      "transcript": "da dividere. Pollo fritto che era veramente tanta roba."
+    },
+    {
+      "shot_idx": 13,
+      "start": 45.833,
+      "end": 48.967,
+      "dur": 3.133,
+      "transcript": "Pensare che l 'abbiamo preso da sport, ci siamo fermati poi in un parco a mangiarlo"
+    },
+    {
+      "shot_idx": 14,
+      "start": 48.967,
+      "end": 51.2,
+      "dur": 2.233,
+      "transcript": "ed era comunque ancora bollente. Certo, forse la"
+    },
+    {
+      "shot_idx": 15,
+      "start": 51.2,
+      "end": 53.133,
+      "dur": 1.933,
+      "transcript": "frittura era un po' pesante. E dopo di che ho staggiato questa"
+    },
+    {
+      "shot_idx": 16,
+      "start": 53.133,
+      "end": 58.767,
+      "dur": 5.633,
+      "transcript": "slice di pizza con formaggio becor, che vi dirò come impasto mi ha stupito, che se il condimento era un po' collochiera. Pranzo"
+    },
+    {
+      "shot_idx": 17,
+      "start": 58.767,
+      "end": 60.433,
+      "dur": 1.667,
+      "transcript": "che tra l 'altro abbiamo fatto circondati"
+    },
+    {
+      "shot_idx": 18,
+      "start": 60.433,
+      "end": 65.667,
+      "dur": 5.233,
+      "transcript": "da scoyattoli e da questa simpaticissima lepre. Molto molto carina e che ha apprezzato particolarmente il pollo. Dopo di che siamo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 65.667,
+      "end": 69.633,
+      "dur": 3.967,
+      "transcript": "arrivati in una delle spiagge più famose di tutta l 'America. La spiagge è letta appunto come numero"
+    },
+    {
+      "shot_idx": 20,
+      "start": 69.633,
+      "end": 73.633,
+      "dur": 4.0,
+      "transcript": "uno negli Stati Uniti. Sto parlando di siesta beach, che però ovviamente abbiamo"
+    },
+    {
+      "shot_idx": 21,
+      "start": 73.633,
+      "end": 78.533,
+      "dur": 4.9,
+      "transcript": "trovato con questo tempo molto nuvoloso. Ma non abbiamo potuto apprezzare a pieno questa spiagge che dovrebbe essere"
+    },
+    {
+      "shot_idx": 22,
+      "start": 78.533,
+      "end": 82.033,
+      "dur": 3.5,
+      "transcript": "una delle migliori. Ci siamo poi rimessi in macchina, siamo quindi arrivati a Sarasota. Dove"
+    },
+    {
+      "shot_idx": 23,
+      "start": 82.033,
+      "end": 84.233,
+      "dur": 2.2,
+      "transcript": "percire, ne essendo tali, ci siamo fermati da Applebees."
+    },
+    {
+      "shot_idx": 24,
+      "start": 84.233,
+      "end": 87.433,
+      "dur": 3.2,
+      "transcript": "Dopo che abbiamo provato questi brezz, è molto particolare che qui in America ovviamente"
+    },
+    {
+      "shot_idx": 25,
+      "start": 87.433,
+      "end": 92.133,
+      "dur": 4.7,
+      "transcript": "ti accompagnano con il cheddar e quest 'altra salsa con formaggio fuso. E come piatto principale mi sono preso questa tagliata"
+    },
+    {
+      "shot_idx": 26,
+      "start": 92.133,
+      "end": 94.133,
+      "dur": 2.0,
+      "transcript": "con patate. Tagliata ovviamente ricoperta"
+    },
+    {
+      "shot_idx": 27,
+      "start": 94.133,
+      "end": 96.833,
+      "dur": 2.7,
+      "transcript": "di miele per dare quell 'effetto caramellizzazione che era molto"
+    },
+    {
+      "shot_idx": 28,
+      "start": 96.833,
+      "end": 98.633,
+      "dur": 1.8,
+      "transcript": "buona. E waffle fries che devo dire sono"
+    },
+    {
+      "shot_idx": 29,
+      "start": 98.633,
+      "end": 100.233,
+      "dur": 1.6,
+      "transcript": "sempre il mio preferite. Insomma una giornata"
+    },
+    {
+      "shot_idx": 30,
+      "start": 100.233,
+      "end": 102.367,
+      "dur": 2.133,
+      "transcript": "tranquila di viaggio, ma comunque molto americana."
+    }
+  ],
+  "full_text": "Giornostetta del mio viaggio in flore da la scoperta della vera cucina americana. Se oggi ragazzi non siamo stati particolarmente fortunati con il tempo e quindi ci dedichiamo al cibo. Oggi siamo a Fort Myers ed andremo fino a Sarasota. Partendo ovviamente però con un ottimo allenamento nella palestrina dell'hotel, per poi arrivare subito a far colazione, con uova, un panino, questi due mini hamburger, e un bel waffle con sciroppo d'acero e frutta caramelata. Infine, yogurtino con deceriali e siamo poi partiti cercando una spiaggia perché l'intenzione era quella di fare mare oggi. Ma come potete ben vedere, il tempo della flore da regare a sempre emozioni. Qui dopo un veloce gireto ci siamo rimessi in macchina in direzione Sanibel e ci siamo fermati a provare il pollo fritto di questa stazione di servizio di cui ci avevano parlato il giorno prima due locals, due tipi strani, ma davvero della Florida. E qui ne abbiamo dato una scensa, questo pollo fritto è un paio di slice di pizza da dividere. Pollo fritto che era veramente tanta roba. Pensare che l'abbiamo preso da sport, ci siamo fermati poi in un parco a mangiarlo ed era comunque ancora bollente. Certo, forse la frittura era un po' pesante. E dopo di che ho staggiato questa slice di pizza con formaggio becor, che vi dirò come impasto mi ha stupito, che se il condimento era un po' collochiera. Pranzo che tra l'altro abbiamo fatto circondati da scoyattoli e da questa simpaticissima lepre. Molto molto carina e che ha apprezzato particolarmente il pollo. Dopo di che siamo arrivati in una delle spiagge più famose di tutta l'America. La spiagge è letta appunto come numero uno negli Stati Uniti. Sto parlando di siesta beach, che però ovviamente abbiamo trovato con questo tempo molto nuvoloso. Ma non abbiamo potuto apprezzare a pieno questa spiagge che dovrebbe essere una delle migliori. Ci siamo poi rimessi in macchina, siamo quindi arrivati a Sarasota. Dove percire, ne essendo tali, ci siamo fermati da Applebees. Dopo che abbiamo provato questi brezz, è molto particolare che qui in America ovviamente ti accompagnano con il cheddar e quest'altra salsa con formaggio fuso. E come piatto principale mi sono preso questa tagliata con patate. Tagliata ovviamente ricoperta di miele per dare quell'effetto caramellizzazione che era molto buona. E waffle fries che devo dire sono sempre il mio preferite. Insomma una giornata tranquila di viaggio, ma comunque molto americana.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

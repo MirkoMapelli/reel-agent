@@ -1,0 +1,1646 @@
+{
+  "video_id": "7571430417119612182",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7571430417119612182",
+    "ref_id": "ref_49_7571430417119612182",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7571430417119612182",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 21,
+  "total_dur": 60.5,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.233,
+      "dur": 1.233,
+      "center": 0.617,
+      "role": "person_talking",
+      "subject": "ragazzo sorridente prodotti",
+      "description": "Il ragazzo sorride mentre mostra una friggitrice ad aria e una borraccia.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Un box inditemu"
+    },
+    {
+      "idx": 1,
+      "start": 1.233,
+      "end": 3.4,
+      "dur": 2.167,
+      "center": 2.317,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo ha la bocca aperta come se stesse parlando o esclamando qualcosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "clamoroso a 0 euro"
+    },
+    {
+      "idx": 2,
+      "start": 3.4,
+      "end": 4.433,
+      "dur": 1.033,
+      "center": 3.917,
+      "role": "person_talking",
+      "subject": "ragazzo con scatola",
+      "description": "Il ragazzo tiene in mano una scatola di cartone con immagini di cibo fritto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "iniziamo da lei"
+    },
+    {
+      "idx": 3,
+      "start": 4.433,
+      "end": 5.633,
+      "dur": 1.2,
+      "center": 5.033,
+      "role": "other",
+      "subject": "scatola aperta prodotto",
+      "description": "Una scatola di cartone aperta mostra immagini di cibo fritto e il bordo di un prodotto all'interno.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 4,
+      "start": 5.633,
+      "end": 8.2,
+      "dur": 2.567,
+      "center": 6.917,
+      "role": "other",
+      "subject": "prodotto imballato scatola",
+      "description": "Un oggetto rotondo e imballato è visibile all'interno di una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ed ecco la cua ragazzi"
+    },
+    {
+      "idx": 5,
+      "start": 8.2,
+      "end": 9.967,
+      "dur": 1.767,
+      "center": 9.083,
+      "role": "other",
+      "subject": "friggitrice ad aria",
+      "description": "La friggitrice ad aria è aperta e si vede il cestello vuoto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "una frigitrici ad aria"
+    },
+    {
+      "idx": 6,
+      "start": 9.967,
+      "end": 12.067,
+      "dur": 2.1,
+      "center": 11.017,
+      "role": "person_talking",
+      "subject": "ragazzo con friggitrice",
+      "description": "Il ragazzo tiene in mano la friggitrice ad aria e sta parlando.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "cioè ragazzi guardate che bella guardate anche il colore"
+    },
+    {
+      "idx": 7,
+      "start": 12.067,
+      "end": 15.167,
+      "dur": 3.1,
+      "center": 13.617,
+      "role": "person_talking",
+      "subject": "ragazzo con friggitrice",
+      "description": "Il ragazzo continua a parlare tenendo la friggitrice ad aria.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "lei per la dieta e non solo ci sarà molto utile"
+    },
+    {
+      "idx": 8,
+      "start": 15.167,
+      "end": 16.7,
+      "dur": 1.533,
+      "center": 15.933,
+      "role": "person_talking",
+      "subject": "ragazzo con friggitrice",
+      "description": "Il ragazzo guarda la friggitrice ad aria con un'espressione pensierosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 9,
+      "start": 16.7,
+      "end": 18.667,
+      "dur": 1.967,
+      "center": 17.683,
+      "role": "person_talking",
+      "subject": "ragazzo con friggitrice",
+      "description": "Il ragazzo sta per inserire il cestello nella friggitrice ad aria.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "spettacolo"
+    },
+    {
+      "idx": 10,
+      "start": 18.667,
+      "end": 22.6,
+      "dur": 3.933,
+      "center": 20.633,
+      "role": "other",
+      "subject": "ragazzo apre scatola",
+      "description": "Il ragazzo sta per aprire una scatola bianca, con la scritta 'VEDO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Dopodiché ragazzi cosa abbiamo vedo già una bella cannucci che sporce"
+    },
+    {
+      "idx": 11,
+      "start": 22.6,
+      "end": 23.633,
+      "dur": 1.033,
+      "center": 23.117,
+      "role": "other",
+      "subject": "ragazzo apre scatola",
+      "description": "Il ragazzo sta aprendo la scatola, rivelando un oggetto avvolto nel pluriball.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 12,
+      "start": 23.633,
+      "end": 25.6,
+      "dur": 1.967,
+      "center": 24.617,
+      "role": "other",
+      "subject": "ragazzo mostra oggetto",
+      "description": "Il ragazzo tiene in mano l'oggetto avvolto nel pluriball, con la scritta 'DA' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Questa la volevo da troppo tempo"
+    },
+    {
+      "idx": 13,
+      "start": 25.6,
+      "end": 29.333,
+      "dur": 3.733,
+      "center": 27.467,
+      "role": "other",
+      "subject": "ragazzo mostra oggetto",
+      "description": "Il ragazzo tiene in mano l'oggetto, parzialmente svelato dal pluriball, con la scritta 'E' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "La vedo sempre nei video americani e mi servivo una mega borraciona"
+    },
+    {
+      "idx": 14,
+      "start": 29.333,
+      "end": 36.033,
+      "dur": 6.7,
+      "center": 32.683,
+      "role": "other",
+      "subject": "ragazzo mostra thermos",
+      "description": "Il ragazzo mostra un thermos bianco, completamente disimballato, mentre parla alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "così che io posso studiare posso lavorare e avere sempre di fianco Il mio bel bicchierone di caffè americano da due litri"
+    },
+    {
+      "idx": 15,
+      "start": 36.033,
+      "end": 38.067,
+      "dur": 2.033,
+      "center": 37.05,
+      "role": "person_talking",
+      "subject": "ragazzo con tazza",
+      "description": "Il ragazzo tiene in mano una tazza bianca con cannuccia e parla.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ed eccola qui pronta e"
+    },
+    {
+      "idx": 16,
+      "start": 38.067,
+      "end": 39.9,
+      "dur": 1.833,
+      "center": 38.983,
+      "role": "person_talking",
+      "subject": "ragazzo che apre scatola",
+      "description": "Il ragazzo sta aprendo una scatola nera, mostrando il contenuto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "poi abbiamo lei"
+    },
+    {
+      "idx": 17,
+      "start": 39.9,
+      "end": 45.233,
+      "dur": 5.333,
+      "center": 42.567,
+      "role": "person_talking",
+      "subject": "ragazzo con massaggiatore",
+      "description": "Il ragazzo tiene in mano un massaggiatore nero e lo sta esaminando.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Una comodissima pistola massaggiante pure taccio E"
+    },
+    {
+      "idx": 18,
+      "start": 45.233,
+      "end": 50.6,
+      "dur": 5.367,
+      "center": 47.917,
+      "role": "person_talking",
+      "subject": "ragazzo usa massaggiatore",
+      "description": "Il ragazzo si massaggia il bicipite con l'apparecchio, mostrando il muscolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "così ve la passate su i muscoli sui bicipiti sul petto per le contratture Avendo"
+    },
+    {
+      "idx": 19,
+      "start": 50.6,
+      "end": 53.467,
+      "dur": 2.867,
+      "center": 52.033,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla guardando in camera, tenendo il massaggiatore in mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "allenato gambe ieri direi che mi sarà molto utile"
+    },
+    {
+      "idx": 20,
+      "start": 53.467,
+      "end": 60.5,
+      "dur": 7.033,
+      "center": 56.983,
+      "role": "other",
+      "subject": "ragazzo con prodotti",
+      "description": "Il ragazzo sorridente che mostra una borraccia, una pistola massaggiante e una friggitrice ad aria.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "quindi ragazzi se volete anche voi acquistare questi prodotti a 0 euro vi Basterà digitare questo codice nella barra di ricerca di temo"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo sorridente prodotti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre mostra una friggitrice ad aria e una borraccia.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.233,
+      "dur": 1.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo ha la bocca aperta come se stesse parlando o esclamando qualcosa.",
+      "shot_idx": 1,
+      "start": 1.233,
+      "end": 3.4,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano una scatola di cartone con immagini di cibo fritto.",
+      "shot_idx": 2,
+      "start": 3.4,
+      "end": 4.433,
+      "dur": 1.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "scatola aperta prodotto",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una scatola di cartone aperta mostra immagini di cibo fritto e il bordo di un prodotto all'interno.",
+      "shot_idx": 3,
+      "start": 4.433,
+      "end": 5.633,
+      "dur": 1.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "prodotto imballato scatola",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un oggetto rotondo e imballato è visibile all'interno di una scatola di cartone.",
+      "shot_idx": 4,
+      "start": 5.633,
+      "end": 8.2,
+      "dur": 2.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "friggitrice ad aria",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La friggitrice ad aria è aperta e si vede il cestello vuoto.",
+      "shot_idx": 5,
+      "start": 8.2,
+      "end": 9.967,
+      "dur": 1.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con friggitrice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano la friggitrice ad aria e sta parlando.",
+      "shot_idx": 6,
+      "start": 9.967,
+      "end": 12.067,
+      "dur": 2.1
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con friggitrice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo continua a parlare tenendo la friggitrice ad aria.",
+      "shot_idx": 7,
+      "start": 12.067,
+      "end": 15.167,
+      "dur": 3.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con friggitrice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda la friggitrice ad aria con un'espressione pensierosa.",
+      "shot_idx": 8,
+      "start": 15.167,
+      "end": 16.7,
+      "dur": 1.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con friggitrice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta per inserire il cestello nella friggitrice ad aria.",
+      "shot_idx": 9,
+      "start": 16.7,
+      "end": 18.667,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo apre scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta per aprire una scatola bianca, con la scritta 'VEDO' in sovrimpressione.",
+      "shot_idx": 10,
+      "start": 18.667,
+      "end": 22.6,
+      "dur": 3.933
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo apre scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta aprendo la scatola, rivelando un oggetto avvolto nel pluriball.",
+      "shot_idx": 11,
+      "start": 22.6,
+      "end": 23.633,
+      "dur": 1.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo mostra oggetto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano l'oggetto avvolto nel pluriball, con la scritta 'DA' in sovrimpressione.",
+      "shot_idx": 12,
+      "start": 23.633,
+      "end": 25.6,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo mostra oggetto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano l'oggetto, parzialmente svelato dal pluriball, con la scritta 'E' in sovrimpressione.",
+      "shot_idx": 13,
+      "start": 25.6,
+      "end": 29.333,
+      "dur": 3.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo mostra thermos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra un thermos bianco, completamente disimballato, mentre parla alla telecamera.",
+      "shot_idx": 14,
+      "start": 29.333,
+      "end": 36.033,
+      "dur": 6.7
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con tazza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una tazza bianca con cannuccia e parla.",
+      "shot_idx": 15,
+      "start": 36.033,
+      "end": 38.067,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che apre scatola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta aprendo una scatola nera, mostrando il contenuto.",
+      "shot_idx": 16,
+      "start": 38.067,
+      "end": 39.9,
+      "dur": 1.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con massaggiatore",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un massaggiatore nero e lo sta esaminando.",
+      "shot_idx": 17,
+      "start": 39.9,
+      "end": 45.233,
+      "dur": 5.333
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo usa massaggiatore",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo si massaggia il bicipite con l'apparecchio, mostrando il muscolo.",
+      "shot_idx": 18,
+      "start": 45.233,
+      "end": 50.6,
+      "dur": 5.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla guardando in camera, tenendo il massaggiatore in mano.",
+      "shot_idx": 19,
+      "start": 50.6,
+      "end": 53.467,
+      "dur": 2.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo con prodotti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorridente che mostra una borraccia, una pistola massaggiante e una friggitrice ad aria.",
+      "shot_idx": 20,
+      "start": 53.467,
+      "end": 60.5,
+      "dur": 7.033
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Un box inditemu clamoroso a 0 euro iniziamo da lei"
+    },
+    {
+      "start": 6.3,
+      "end": 15.12,
+      "text": "Ed ecco la cua ragazzi una frigitrici ad aria cioè ragazzi guardate che bella guardate anche il colore lei per la dieta e non solo ci sarà molto utile"
+    },
+    {
+      "start": 16.76,
+      "end": 17.32,
+      "text": "spettacolo"
+    },
+    {
+      "start": 18.54,
+      "end": 22.48,
+      "text": "Dopodiché ragazzi cosa abbiamo vedo già una bella cannucci che sporce"
+    },
+    {
+      "start": 23.38,
+      "end": 25.1,
+      "text": "Questa la volevo da troppo tempo"
+    },
+    {
+      "start": 25.7,
+      "end": 32.6,
+      "text": "La vedo sempre nei video americani e mi servivo una mega borraciona così che io posso studiare posso lavorare e avere sempre di fianco"
+    },
+    {
+      "start": 32.6,
+      "end": 38.8,
+      "text": "Il mio bel bicchierone di caffè americano da due litri ed eccola qui pronta e poi abbiamo lei"
+    },
+    {
+      "start": 39.62,
+      "end": 43.2,
+      "text": "Una comodissima pistola massaggiante pure taccio"
+    },
+    {
+      "start": 44.66,
+      "end": 49.82,
+      "text": "E così ve la passate su i muscoli sui bicipiti sul petto per le contratture"
+    },
+    {
+      "start": 49.98,
+      "end": 56.58,
+      "text": "Avendo allenato gambe ieri direi che mi sarà molto utile quindi ragazzi se volete anche voi acquistare questi prodotti a 0 euro vi"
+    },
+    {
+      "start": 56.58,
+      "end": 59.92,
+      "text": "Basterà digitare questo codice nella barra di ricerca di temo"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "word": "Un"
+    },
+    {
+      "start": 0.3,
+      "end": 0.48,
+      "word": "box"
+    },
+    {
+      "start": 0.48,
+      "end": 1.1,
+      "word": "inditemu"
+    },
+    {
+      "start": 1.1,
+      "end": 2.1,
+      "word": "clamoroso"
+    },
+    {
+      "start": 2.1,
+      "end": 2.48,
+      "word": "a"
+    },
+    {
+      "start": 2.48,
+      "end": 2.8,
+      "word": "0"
+    },
+    {
+      "start": 2.8,
+      "end": 3.2,
+      "word": "euro"
+    },
+    {
+      "start": 3.2,
+      "end": 3.84,
+      "word": "iniziamo"
+    },
+    {
+      "start": 3.84,
+      "end": 4.02,
+      "word": "da"
+    },
+    {
+      "start": 4.02,
+      "end": 4.3,
+      "word": "lei"
+    },
+    {
+      "start": 6.3,
+      "end": 6.86,
+      "word": "Ed"
+    },
+    {
+      "start": 6.86,
+      "end": 7.14,
+      "word": "ecco"
+    },
+    {
+      "start": 7.14,
+      "end": 7.28,
+      "word": "la"
+    },
+    {
+      "start": 7.28,
+      "end": 7.5,
+      "word": "cua"
+    },
+    {
+      "start": 7.5,
+      "end": 7.96,
+      "word": "ragazzi"
+    },
+    {
+      "start": 7.96,
+      "end": 8.62,
+      "word": "una"
+    },
+    {
+      "start": 8.62,
+      "end": 9.32,
+      "word": "frigitrici"
+    },
+    {
+      "start": 9.32,
+      "end": 9.44,
+      "word": "ad"
+    },
+    {
+      "start": 9.44,
+      "end": 9.9,
+      "word": "aria"
+    },
+    {
+      "start": 9.9,
+      "end": 10.14,
+      "word": "cioè"
+    },
+    {
+      "start": 10.14,
+      "end": 10.42,
+      "word": "ragazzi"
+    },
+    {
+      "start": 10.42,
+      "end": 10.66,
+      "word": "guardate"
+    },
+    {
+      "start": 10.66,
+      "end": 10.76,
+      "word": "che"
+    },
+    {
+      "start": 10.76,
+      "end": 10.92,
+      "word": "bella"
+    },
+    {
+      "start": 10.92,
+      "end": 11.18,
+      "word": "guardate"
+    },
+    {
+      "start": 11.18,
+      "end": 11.38,
+      "word": "anche"
+    },
+    {
+      "start": 11.38,
+      "end": 11.54,
+      "word": "il"
+    },
+    {
+      "start": 11.54,
+      "end": 11.94,
+      "word": "colore"
+    },
+    {
+      "start": 11.94,
+      "end": 12.38,
+      "word": "lei"
+    },
+    {
+      "start": 12.38,
+      "end": 12.66,
+      "word": "per"
+    },
+    {
+      "start": 12.66,
+      "end": 12.78,
+      "word": "la"
+    },
+    {
+      "start": 12.78,
+      "end": 13.08,
+      "word": "dieta"
+    },
+    {
+      "start": 13.08,
+      "end": 13.46,
+      "word": "e"
+    },
+    {
+      "start": 13.46,
+      "end": 13.6,
+      "word": "non"
+    },
+    {
+      "start": 13.6,
+      "end": 13.98,
+      "word": "solo"
+    },
+    {
+      "start": 13.98,
+      "end": 14.22,
+      "word": "ci"
+    },
+    {
+      "start": 14.22,
+      "end": 14.4,
+      "word": "sarà"
+    },
+    {
+      "start": 14.4,
+      "end": 14.64,
+      "word": "molto"
+    },
+    {
+      "start": 14.64,
+      "end": 15.12,
+      "word": "utile"
+    },
+    {
+      "start": 16.76,
+      "end": 17.32,
+      "word": "spettacolo"
+    },
+    {
+      "start": 18.54,
+      "end": 19.1,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 19.1,
+      "end": 19.46,
+      "word": "ragazzi"
+    },
+    {
+      "start": 19.46,
+      "end": 19.64,
+      "word": "cosa"
+    },
+    {
+      "start": 19.64,
+      "end": 20.06,
+      "word": "abbiamo"
+    },
+    {
+      "start": 20.06,
+      "end": 20.58,
+      "word": "vedo"
+    },
+    {
+      "start": 20.58,
+      "end": 20.78,
+      "word": "già"
+    },
+    {
+      "start": 20.78,
+      "end": 21.12,
+      "word": "una"
+    },
+    {
+      "start": 21.12,
+      "end": 21.36,
+      "word": "bella"
+    },
+    {
+      "start": 21.36,
+      "end": 21.78,
+      "word": "cannucci"
+    },
+    {
+      "start": 21.78,
+      "end": 21.94,
+      "word": "che"
+    },
+    {
+      "start": 21.94,
+      "end": 22.48,
+      "word": "sporce"
+    },
+    {
+      "start": 23.38,
+      "end": 23.94,
+      "word": "Questa"
+    },
+    {
+      "start": 23.94,
+      "end": 24.12,
+      "word": "la"
+    },
+    {
+      "start": 24.12,
+      "end": 24.34,
+      "word": "volevo"
+    },
+    {
+      "start": 24.34,
+      "end": 24.48,
+      "word": "da"
+    },
+    {
+      "start": 24.48,
+      "end": 24.74,
+      "word": "troppo"
+    },
+    {
+      "start": 24.74,
+      "end": 25.1,
+      "word": "tempo"
+    },
+    {
+      "start": 25.7,
+      "end": 26.1,
+      "word": "La"
+    },
+    {
+      "start": 26.1,
+      "end": 26.3,
+      "word": "vedo"
+    },
+    {
+      "start": 26.3,
+      "end": 26.54,
+      "word": "sempre"
+    },
+    {
+      "start": 26.54,
+      "end": 26.76,
+      "word": "nei"
+    },
+    {
+      "start": 26.76,
+      "end": 26.94,
+      "word": "video"
+    },
+    {
+      "start": 26.94,
+      "end": 27.46,
+      "word": "americani"
+    },
+    {
+      "start": 27.46,
+      "end": 27.66,
+      "word": "e"
+    },
+    {
+      "start": 27.66,
+      "end": 27.76,
+      "word": "mi"
+    },
+    {
+      "start": 27.76,
+      "end": 28.12,
+      "word": "servivo"
+    },
+    {
+      "start": 28.12,
+      "end": 28.3,
+      "word": "una"
+    },
+    {
+      "start": 28.3,
+      "end": 28.54,
+      "word": "mega"
+    },
+    {
+      "start": 28.54,
+      "end": 29.2,
+      "word": "borraciona"
+    },
+    {
+      "start": 29.2,
+      "end": 29.58,
+      "word": "così"
+    },
+    {
+      "start": 29.58,
+      "end": 29.76,
+      "word": "che"
+    },
+    {
+      "start": 29.76,
+      "end": 29.88,
+      "word": "io"
+    },
+    {
+      "start": 29.88,
+      "end": 30.04,
+      "word": "posso"
+    },
+    {
+      "start": 30.04,
+      "end": 30.66,
+      "word": "studiare"
+    },
+    {
+      "start": 30.66,
+      "end": 30.86,
+      "word": "posso"
+    },
+    {
+      "start": 30.86,
+      "end": 31.42,
+      "word": "lavorare"
+    },
+    {
+      "start": 31.42,
+      "end": 31.52,
+      "word": "e"
+    },
+    {
+      "start": 31.52,
+      "end": 31.68,
+      "word": "avere"
+    },
+    {
+      "start": 31.68,
+      "end": 32.0,
+      "word": "sempre"
+    },
+    {
+      "start": 32.0,
+      "end": 32.18,
+      "word": "di"
+    },
+    {
+      "start": 32.18,
+      "end": 32.6,
+      "word": "fianco"
+    },
+    {
+      "start": 32.6,
+      "end": 33.24,
+      "word": "Il"
+    },
+    {
+      "start": 33.24,
+      "end": 33.32,
+      "word": "mio"
+    },
+    {
+      "start": 33.32,
+      "end": 33.6,
+      "word": "bel"
+    },
+    {
+      "start": 33.6,
+      "end": 34.2,
+      "word": "bicchierone"
+    },
+    {
+      "start": 34.2,
+      "end": 34.4,
+      "word": "di"
+    },
+    {
+      "start": 34.4,
+      "end": 34.7,
+      "word": "caffè"
+    },
+    {
+      "start": 34.7,
+      "end": 35.18,
+      "word": "americano"
+    },
+    {
+      "start": 35.18,
+      "end": 35.38,
+      "word": "da"
+    },
+    {
+      "start": 35.38,
+      "end": 35.56,
+      "word": "due"
+    },
+    {
+      "start": 35.56,
+      "end": 35.92,
+      "word": "litri"
+    },
+    {
+      "start": 35.92,
+      "end": 36.44,
+      "word": "ed"
+    },
+    {
+      "start": 36.44,
+      "end": 36.72,
+      "word": "eccola"
+    },
+    {
+      "start": 36.72,
+      "end": 36.9,
+      "word": "qui"
+    },
+    {
+      "start": 36.9,
+      "end": 37.32,
+      "word": "pronta"
+    },
+    {
+      "start": 37.32,
+      "end": 38.18,
+      "word": "e"
+    },
+    {
+      "start": 38.18,
+      "end": 38.32,
+      "word": "poi"
+    },
+    {
+      "start": 38.32,
+      "end": 38.52,
+      "word": "abbiamo"
+    },
+    {
+      "start": 38.52,
+      "end": 38.8,
+      "word": "lei"
+    },
+    {
+      "start": 39.62,
+      "end": 40.22,
+      "word": "Una"
+    },
+    {
+      "start": 40.22,
+      "end": 40.82,
+      "word": "comodissima"
+    },
+    {
+      "start": 40.82,
+      "end": 41.22,
+      "word": "pistola"
+    },
+    {
+      "start": 41.22,
+      "end": 41.94,
+      "word": "massaggiante"
+    },
+    {
+      "start": 41.94,
+      "end": 42.26,
+      "word": "pure"
+    },
+    {
+      "start": 42.26,
+      "end": 43.2,
+      "word": "taccio"
+    },
+    {
+      "start": 44.66,
+      "end": 45.26,
+      "word": "E"
+    },
+    {
+      "start": 45.26,
+      "end": 45.5,
+      "word": "così"
+    },
+    {
+      "start": 45.5,
+      "end": 45.82,
+      "word": "ve"
+    },
+    {
+      "start": 45.82,
+      "end": 45.92,
+      "word": "la"
+    },
+    {
+      "start": 45.92,
+      "end": 46.34,
+      "word": "passate"
+    },
+    {
+      "start": 46.34,
+      "end": 46.7,
+      "word": "su"
+    },
+    {
+      "start": 46.7,
+      "end": 46.96,
+      "word": "i"
+    },
+    {
+      "start": 46.96,
+      "end": 47.4,
+      "word": "muscoli"
+    },
+    {
+      "start": 47.4,
+      "end": 47.62,
+      "word": "sui"
+    },
+    {
+      "start": 47.62,
+      "end": 48.14,
+      "word": "bicipiti"
+    },
+    {
+      "start": 48.14,
+      "end": 48.86,
+      "word": "sul"
+    },
+    {
+      "start": 48.86,
+      "end": 49.4,
+      "word": "petto"
+    },
+    {
+      "start": 49.4,
+      "end": 49.58,
+      "word": "per"
+    },
+    {
+      "start": 49.58,
+      "end": 49.68,
+      "word": "le"
+    },
+    {
+      "start": 49.68,
+      "end": 49.98,
+      "word": "contratture"
+    },
+    {
+      "start": 49.98,
+      "end": 50.98,
+      "word": "Avendo"
+    },
+    {
+      "start": 50.98,
+      "end": 51.32,
+      "word": "allenato"
+    },
+    {
+      "start": 51.32,
+      "end": 51.64,
+      "word": "gambe"
+    },
+    {
+      "start": 51.64,
+      "end": 51.96,
+      "word": "ieri"
+    },
+    {
+      "start": 51.96,
+      "end": 52.34,
+      "word": "direi"
+    },
+    {
+      "start": 52.34,
+      "end": 52.4,
+      "word": "che"
+    },
+    {
+      "start": 52.4,
+      "end": 52.52,
+      "word": "mi"
+    },
+    {
+      "start": 52.52,
+      "end": 52.7,
+      "word": "sarà"
+    },
+    {
+      "start": 52.7,
+      "end": 52.96,
+      "word": "molto"
+    },
+    {
+      "start": 52.96,
+      "end": 53.42,
+      "word": "utile"
+    },
+    {
+      "start": 53.42,
+      "end": 53.62,
+      "word": "quindi"
+    },
+    {
+      "start": 53.62,
+      "end": 53.96,
+      "word": "ragazzi"
+    },
+    {
+      "start": 53.96,
+      "end": 54.06,
+      "word": "se"
+    },
+    {
+      "start": 54.06,
+      "end": 54.24,
+      "word": "volete"
+    },
+    {
+      "start": 54.24,
+      "end": 54.34,
+      "word": "anche"
+    },
+    {
+      "start": 54.34,
+      "end": 54.52,
+      "word": "voi"
+    },
+    {
+      "start": 54.52,
+      "end": 54.9,
+      "word": "acquistare"
+    },
+    {
+      "start": 54.9,
+      "end": 55.12,
+      "word": "questi"
+    },
+    {
+      "start": 55.12,
+      "end": 55.58,
+      "word": "prodotti"
+    },
+    {
+      "start": 55.58,
+      "end": 55.74,
+      "word": "a"
+    },
+    {
+      "start": 55.74,
+      "end": 56.1,
+      "word": "0"
+    },
+    {
+      "start": 56.1,
+      "end": 56.44,
+      "word": "euro"
+    },
+    {
+      "start": 56.44,
+      "end": 56.58,
+      "word": "vi"
+    },
+    {
+      "start": 56.58,
+      "end": 56.98,
+      "word": "Basterà"
+    },
+    {
+      "start": 56.98,
+      "end": 57.52,
+      "word": "digitare"
+    },
+    {
+      "start": 57.52,
+      "end": 57.92,
+      "word": "questo"
+    },
+    {
+      "start": 57.92,
+      "end": 58.46,
+      "word": "codice"
+    },
+    {
+      "start": 58.46,
+      "end": 58.7,
+      "word": "nella"
+    },
+    {
+      "start": 58.7,
+      "end": 59.0,
+      "word": "barra"
+    },
+    {
+      "start": 59.0,
+      "end": 59.08,
+      "word": "di"
+    },
+    {
+      "start": 59.08,
+      "end": 59.4,
+      "word": "ricerca"
+    },
+    {
+      "start": 59.4,
+      "end": 59.56,
+      "word": "di"
+    },
+    {
+      "start": 59.56,
+      "end": 59.92,
+      "word": "temo"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.233,
+      "dur": 1.233,
+      "transcript": "Un box inditemu"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.233,
+      "end": 3.4,
+      "dur": 2.167,
+      "transcript": "clamoroso a 0 euro"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.4,
+      "end": 4.433,
+      "dur": 1.033,
+      "transcript": "iniziamo da lei"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.433,
+      "end": 5.633,
+      "dur": 1.2,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 4,
+      "start": 5.633,
+      "end": 8.2,
+      "dur": 2.567,
+      "transcript": "Ed ecco la cua ragazzi"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.2,
+      "end": 9.967,
+      "dur": 1.767,
+      "transcript": "una frigitrici ad aria"
+    },
+    {
+      "shot_idx": 6,
+      "start": 9.967,
+      "end": 12.067,
+      "dur": 2.1,
+      "transcript": "cioè ragazzi guardate che bella guardate anche il colore"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.067,
+      "end": 15.167,
+      "dur": 3.1,
+      "transcript": "lei per la dieta e non solo ci sarà molto utile"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.167,
+      "end": 16.7,
+      "dur": 1.533,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.7,
+      "end": 18.667,
+      "dur": 1.967,
+      "transcript": "spettacolo"
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.667,
+      "end": 22.6,
+      "dur": 3.933,
+      "transcript": "Dopodiché ragazzi cosa abbiamo vedo già una bella cannucci che sporce"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.6,
+      "end": 23.633,
+      "dur": 1.033,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 12,
+      "start": 23.633,
+      "end": 25.6,
+      "dur": 1.967,
+      "transcript": "Questa la volevo da troppo tempo"
+    },
+    {
+      "shot_idx": 13,
+      "start": 25.6,
+      "end": 29.333,
+      "dur": 3.733,
+      "transcript": "La vedo sempre nei video americani e mi servivo una mega borraciona"
+    },
+    {
+      "shot_idx": 14,
+      "start": 29.333,
+      "end": 36.033,
+      "dur": 6.7,
+      "transcript": "così che io posso studiare posso lavorare e avere sempre di fianco Il mio bel bicchierone di caffè americano da due litri"
+    },
+    {
+      "shot_idx": 15,
+      "start": 36.033,
+      "end": 38.067,
+      "dur": 2.033,
+      "transcript": "ed eccola qui pronta e"
+    },
+    {
+      "shot_idx": 16,
+      "start": 38.067,
+      "end": 39.9,
+      "dur": 1.833,
+      "transcript": "poi abbiamo lei"
+    },
+    {
+      "shot_idx": 17,
+      "start": 39.9,
+      "end": 45.233,
+      "dur": 5.333,
+      "transcript": "Una comodissima pistola massaggiante pure taccio E"
+    },
+    {
+      "shot_idx": 18,
+      "start": 45.233,
+      "end": 50.6,
+      "dur": 5.367,
+      "transcript": "così ve la passate su i muscoli sui bicipiti sul petto per le contratture Avendo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 50.6,
+      "end": 53.467,
+      "dur": 2.867,
+      "transcript": "allenato gambe ieri direi che mi sarà molto utile"
+    },
+    {
+      "shot_idx": 20,
+      "start": 53.467,
+      "end": 60.5,
+      "dur": 7.033,
+      "transcript": "quindi ragazzi se volete anche voi acquistare questi prodotti a 0 euro vi Basterà digitare questo codice nella barra di ricerca di temo"
+    }
+  ],
+  "full_text": "Un box inditemu clamoroso a 0 euro iniziamo da lei Ed ecco la cua ragazzi una frigitrici ad aria cioè ragazzi guardate che bella guardate anche il colore lei per la dieta e non solo ci sarà molto utile spettacolo Dopodiché ragazzi cosa abbiamo vedo già una bella cannucci che sporce Questa la volevo da troppo tempo La vedo sempre nei video americani e mi servivo una mega borraciona così che io posso studiare posso lavorare e avere sempre di fianco Il mio bel bicchierone di caffè americano da due litri ed eccola qui pronta e poi abbiamo lei Una comodissima pistola massaggiante pure taccio E così ve la passate su i muscoli sui bicipiti sul petto per le contratture Avendo allenato gambe ieri direi che mi sarà molto utile quindi ragazzi se volete anche voi acquistare questi prodotti a 0 euro vi Basterà digitare questo codice nella barra di ricerca di temo",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

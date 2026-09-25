@@ -1,0 +1,186 @@
+{
+  "title": "Wingstop sbarca a Milano",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "scritta MILANO e totem svelano apertura nuovo locale"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio parete metallica e schermo pubblicitario ali glassate"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente entra e si siede pronto a ordinare"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate appena servite"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto vassoio completo con salse assortite"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona regge vassoio mostrando ali e patate"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio patate fritte croccanti fumanti"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem chioschi ordinazione sullo sfondo del locale"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano versa bevanda dal dispenser Coca-Cola Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge bicchiere branded al tavolo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona sorseggia bevanda accanto al vassoio"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani intingono ala fritta nella salsa bianca"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "morso entusiasta all'ala croccante glassata"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ala morsicata con glassa colante"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "reazione soddisfatta dopo assaggio patate"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mano prende peperoncino jalapeno dal vassoio"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "sequenza ravvicinata tutte le salse e condimenti"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto finale tavolo pieno di piatti"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "cliente sorride guardando in camera vicino claw machine"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona saluta e promette di tornare presto"
+    }
+  ],
+  "edl_job_id": 148
+}

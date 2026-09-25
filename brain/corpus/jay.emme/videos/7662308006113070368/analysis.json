@@ -1,0 +1,1263 @@
+{
+  "video_id": "7662308006113070368",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7662308006113070368",
+    "ref_id": "ref_08_7662308006113070368",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7662308006113070368",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 15,
+  "total_dur": 38.13,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "center": 1.0,
+      "role": "drink_detail",
+      "subject": "bicchiere matcha ghiacciato",
+      "description": "Un bicchiere giallo con una bevanda verde ghiacciata è tenuto in mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Proviamo un nuovo matcha del McDonald"
+    },
+    {
+      "idx": 1,
+      "start": 2.0,
+      "end": 4.033,
+      "dur": 2.033,
+      "center": 3.017,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Un ragazzo con gli occhi spalancati beve da un bicchiere giallo con una cannuccia.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "si ragazzi avete capito bene da McDonald è"
+    },
+    {
+      "idx": 2,
+      "start": 4.033,
+      "end": 7.0,
+      "dur": 2.967,
+      "center": 5.517,
+      "role": "menu_board",
+      "subject": "schermo pubblicitario matcha",
+      "description": "Uno schermo luminoso mostra la pubblicità di un Coconut Matcha Latte di McCafé.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "disponibile il loro coconut matcha latte Io mi trovavo al bicoca"
+    },
+    {
+      "idx": 3,
+      "start": 7.0,
+      "end": 9.033,
+      "dur": 2.033,
+      "center": 8.017,
+      "role": "venue_interior_wide",
+      "subject": "centro commerciale con pubblicità",
+      "description": "Un interno di un centro commerciale con scale mobili e una grande pubblicità del matcha.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "village e ho visto ovunque questa pubblicità e"
+    },
+    {
+      "idx": 4,
+      "start": 9.033,
+      "end": 12.033,
+      "dur": 3.0,
+      "center": 10.533,
+      "role": "drink_detail",
+      "subject": "bicchiere matcha ghiacciato",
+      "description": "Un bicchiere giallo con una bevanda verde ghiacciata è tenuto in mano, con il logo McCafé in evidenza.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "quindi ho deciso di passare appunto Nel loro store di bicoca"
+    },
+    {
+      "idx": 5,
+      "start": 12.033,
+      "end": 13.533,
+      "dur": 1.5,
+      "center": 12.783,
+      "role": "drink_detail",
+      "subject": "bicchiere matcha ghiacciato",
+      "description": "Il bicchiere di matcha ghiacciato con la scritta 'NOVITÀ' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "per provare questa novità disponibile"
+    },
+    {
+      "idx": 6,
+      "start": 13.533,
+      "end": 15.533,
+      "dur": 2.0,
+      "center": 14.533,
+      "role": "drink_detail",
+      "subject": "ragazzo con matcha",
+      "description": "Il ragazzo sorridente che tiene in mano il bicchiere di matcha con la scritta 'FREDDO'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "sia caldo che freddo ma ovviamente Viste"
+    },
+    {
+      "idx": 7,
+      "start": 15.533,
+      "end": 17.533,
+      "dur": 2.0,
+      "center": 16.533,
+      "role": "person_eating",
+      "subject": "ragazzo beve matcha",
+      "description": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'SCELTO'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "le temperature ho scelto la versione ice"
+    },
+    {
+      "idx": 8,
+      "start": 17.533,
+      "end": 19.0,
+      "dur": 1.467,
+      "center": 18.267,
+      "role": "person_eating",
+      "subject": "ragazzo beve matcha",
+      "description": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'MI'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "devo dire che non mi è dispiaciuto"
+    },
+    {
+      "idx": 9,
+      "start": 19.0,
+      "end": 26.867,
+      "dur": 7.867,
+      "center": 22.933,
+      "role": "person_eating",
+      "subject": "ragazzo beve matcha",
+      "description": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'LATTE'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "è leggero Il coco si sente sente che non è latte normale di coco Ligermente dolce e anche troppo abbastanza"
+    },
+    {
+      "idx": 10,
+      "start": 26.867,
+      "end": 29.067,
+      "dur": 2.2,
+      "center": 27.967,
+      "role": "drink_detail",
+      "subject": "ragazzo con bevanda McCafé",
+      "description": "Il ragazzo tiene in mano una tazza gialla McCafé con una cannuccia.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "bilanciato. Mi piace quindi"
+    },
+    {
+      "idx": 11,
+      "start": 29.067,
+      "end": 31.567,
+      "dur": 2.5,
+      "center": 30.317,
+      "role": "drink_detail",
+      "subject": "ragazzo con bevanda McCafé",
+      "description": "La tazza McCafé è in primo piano e il ragazzo guarda la fotocamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "si sta pure del matcha non è fortissimo Infatti la"
+    },
+    {
+      "idx": 12,
+      "start": 31.567,
+      "end": 33.333,
+      "dur": 1.767,
+      "center": 32.45,
+      "role": "drink_detail",
+      "subject": "ragazzo che beve McCafé",
+      "description": "Il ragazzo sta bevendo dalla cannuccia della tazza McCafé.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "definirei più una bevanda al cocco però a"
+    },
+    {
+      "idx": 13,
+      "start": 33.333,
+      "end": 34.633,
+      "dur": 1.3,
+      "center": 33.983,
+      "role": "drink_detail",
+      "subject": "tazza McCafé con cannuccia",
+      "description": "La tazza McCafé è in primo piano, con le mani del ragazzo che la tengono.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "me è piaciuta menzione d"
+    },
+    {
+      "idx": 14,
+      "start": 34.633,
+      "end": 38.133,
+      "dur": 3.5,
+      "center": 36.383,
+      "role": "drink_detail",
+      "subject": "ragazzo sorridente con McCafé",
+      "description": "Il ragazzo sorride mentre tiene la tazza McCafé, con la cannuccia visibile.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "'onore anche per il bicchiere si distingue dagli altri"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere matcha ghiacciato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un bicchiere giallo con una bevanda verde ghiacciata è tenuto in mano.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con gli occhi spalancati beve da un bicchiere giallo con una cannuccia.",
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "menu_board",
+      "soggetto": "schermo pubblicitario matcha",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno schermo luminoso mostra la pubblicità di un Coconut Matcha Latte di McCafé.",
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 7.0,
+      "dur": 2.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "centro commerciale con pubblicità",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un interno di un centro commerciale con scale mobili e una grande pubblicità del matcha.",
+      "shot_idx": 3,
+      "start": 7.0,
+      "end": 9.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere matcha ghiacciato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un bicchiere giallo con una bevanda verde ghiacciata è tenuto in mano, con il logo McCafé in evidenza.",
+      "shot_idx": 4,
+      "start": 9.033,
+      "end": 12.033,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere matcha ghiacciato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il bicchiere di matcha ghiacciato con la scritta 'NOVITÀ' in sovrimpressione.",
+      "shot_idx": 5,
+      "start": 12.033,
+      "end": 13.533,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo con matcha",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sorridente che tiene in mano il bicchiere di matcha con la scritta 'FREDDO'.",
+      "shot_idx": 6,
+      "start": 13.533,
+      "end": 15.533,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve matcha",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'SCELTO'.",
+      "shot_idx": 7,
+      "start": 15.533,
+      "end": 17.533,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve matcha",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'MI'.",
+      "shot_idx": 8,
+      "start": 17.533,
+      "end": 19.0,
+      "dur": 1.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve matcha",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo che beve dal bicchiere di matcha con la scritta 'LATTE'.",
+      "shot_idx": 9,
+      "start": 19.0,
+      "end": 26.867,
+      "dur": 7.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo con bevanda McCafé",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una tazza gialla McCafé con una cannuccia.",
+      "shot_idx": 10,
+      "start": 26.867,
+      "end": 29.067,
+      "dur": 2.2
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo con bevanda McCafé",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "La tazza McCafé è in primo piano e il ragazzo guarda la fotocamera.",
+      "shot_idx": 11,
+      "start": 29.067,
+      "end": 31.567,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo che beve McCafé",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta bevendo dalla cannuccia della tazza McCafé.",
+      "shot_idx": 12,
+      "start": 31.567,
+      "end": 33.333,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "drink_detail",
+      "soggetto": "tazza McCafé con cannuccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "La tazza McCafé è in primo piano, con le mani del ragazzo che la tengono.",
+      "shot_idx": 13,
+      "start": 33.333,
+      "end": 34.633,
+      "dur": 1.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo sorridente con McCafé",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre tiene la tazza McCafé, con la cannuccia visibile.",
+      "shot_idx": 14,
+      "start": 34.633,
+      "end": 38.133,
+      "dur": 3.5
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": "Proviamo un nuovo matcha del McDonald si ragazzi avete capito bene da McDonald è disponibile il loro coconut matcha latte"
+    },
+    {
+      "start": 5.98,
+      "end": 10.4,
+      "text": "Io mi trovavo al bicoca village e ho visto ovunque questa pubblicità e quindi ho deciso di passare appunto"
+    },
+    {
+      "start": 10.4,
+      "end": 15.2,
+      "text": "Nel loro store di bicoca per provare questa novità disponibile sia caldo che freddo ma ovviamente"
+    },
+    {
+      "start": 15.2,
+      "end": 19.72,
+      "text": "Viste le temperature ho scelto la versione ice devo dire che non mi è dispiaciuto è leggero"
+    },
+    {
+      "start": 20.36,
+      "end": 23.32,
+      "text": "Il coco si sente sente che non è latte normale di coco"
+    },
+    {
+      "start": 24.36,
+      "end": 30.86,
+      "text": "Ligermente dolce e anche troppo abbastanza bilanciato. Mi piace quindi si sta pure del matcha non è fortissimo"
+    },
+    {
+      "start": 30.86,
+      "end": 37.04,
+      "text": "Infatti la definirei più una bevanda al cocco però a me è piaciuta menzione d'onore anche per il bicchiere si distingue dagli altri"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "word": "Proviamo"
+    },
+    {
+      "start": 0.42,
+      "end": 0.6,
+      "word": "un"
+    },
+    {
+      "start": 0.6,
+      "end": 0.72,
+      "word": "nuovo"
+    },
+    {
+      "start": 0.72,
+      "end": 1.36,
+      "word": "matcha"
+    },
+    {
+      "start": 1.36,
+      "end": 1.48,
+      "word": "del"
+    },
+    {
+      "start": 1.48,
+      "end": 1.94,
+      "word": "McDonald"
+    },
+    {
+      "start": 1.94,
+      "end": 2.32,
+      "word": "si"
+    },
+    {
+      "start": 2.32,
+      "end": 2.58,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.58,
+      "end": 2.76,
+      "word": "avete"
+    },
+    {
+      "start": 2.76,
+      "end": 3.08,
+      "word": "capito"
+    },
+    {
+      "start": 3.08,
+      "end": 3.28,
+      "word": "bene"
+    },
+    {
+      "start": 3.28,
+      "end": 3.46,
+      "word": "da"
+    },
+    {
+      "start": 3.46,
+      "end": 3.8,
+      "word": "McDonald"
+    },
+    {
+      "start": 3.8,
+      "end": 4.18,
+      "word": "è"
+    },
+    {
+      "start": 4.18,
+      "end": 4.62,
+      "word": "disponibile"
+    },
+    {
+      "start": 4.62,
+      "end": 4.78,
+      "word": "il"
+    },
+    {
+      "start": 4.78,
+      "end": 4.86,
+      "word": "loro"
+    },
+    {
+      "start": 4.86,
+      "end": 5.26,
+      "word": "coconut"
+    },
+    {
+      "start": 5.26,
+      "end": 5.7,
+      "word": "matcha"
+    },
+    {
+      "start": 5.7,
+      "end": 5.98,
+      "word": "latte"
+    },
+    {
+      "start": 5.98,
+      "end": 6.16,
+      "word": "Io"
+    },
+    {
+      "start": 6.16,
+      "end": 6.28,
+      "word": "mi"
+    },
+    {
+      "start": 6.28,
+      "end": 6.5,
+      "word": "trovavo"
+    },
+    {
+      "start": 6.5,
+      "end": 6.68,
+      "word": "al"
+    },
+    {
+      "start": 6.68,
+      "end": 6.96,
+      "word": "bicoca"
+    },
+    {
+      "start": 6.96,
+      "end": 7.28,
+      "word": "village"
+    },
+    {
+      "start": 7.28,
+      "end": 7.56,
+      "word": "e"
+    },
+    {
+      "start": 7.56,
+      "end": 7.62,
+      "word": "ho"
+    },
+    {
+      "start": 7.62,
+      "end": 7.78,
+      "word": "visto"
+    },
+    {
+      "start": 7.78,
+      "end": 8.14,
+      "word": "ovunque"
+    },
+    {
+      "start": 8.14,
+      "end": 8.36,
+      "word": "questa"
+    },
+    {
+      "start": 8.36,
+      "end": 8.84,
+      "word": "pubblicità"
+    },
+    {
+      "start": 8.84,
+      "end": 8.98,
+      "word": "e"
+    },
+    {
+      "start": 8.98,
+      "end": 9.16,
+      "word": "quindi"
+    },
+    {
+      "start": 9.16,
+      "end": 9.26,
+      "word": "ho"
+    },
+    {
+      "start": 9.26,
+      "end": 9.54,
+      "word": "deciso"
+    },
+    {
+      "start": 9.54,
+      "end": 9.66,
+      "word": "di"
+    },
+    {
+      "start": 9.66,
+      "end": 10.08,
+      "word": "passare"
+    },
+    {
+      "start": 10.08,
+      "end": 10.4,
+      "word": "appunto"
+    },
+    {
+      "start": 10.4,
+      "end": 10.9,
+      "word": "Nel"
+    },
+    {
+      "start": 10.9,
+      "end": 11.04,
+      "word": "loro"
+    },
+    {
+      "start": 11.04,
+      "end": 11.32,
+      "word": "store"
+    },
+    {
+      "start": 11.32,
+      "end": 11.5,
+      "word": "di"
+    },
+    {
+      "start": 11.5,
+      "end": 11.94,
+      "word": "bicoca"
+    },
+    {
+      "start": 11.94,
+      "end": 12.14,
+      "word": "per"
+    },
+    {
+      "start": 12.14,
+      "end": 12.44,
+      "word": "provare"
+    },
+    {
+      "start": 12.44,
+      "end": 12.72,
+      "word": "questa"
+    },
+    {
+      "start": 12.72,
+      "end": 13.08,
+      "word": "novità"
+    },
+    {
+      "start": 13.08,
+      "end": 13.6,
+      "word": "disponibile"
+    },
+    {
+      "start": 13.6,
+      "end": 13.78,
+      "word": "sia"
+    },
+    {
+      "start": 13.78,
+      "end": 14.12,
+      "word": "caldo"
+    },
+    {
+      "start": 14.12,
+      "end": 14.24,
+      "word": "che"
+    },
+    {
+      "start": 14.24,
+      "end": 14.66,
+      "word": "freddo"
+    },
+    {
+      "start": 14.66,
+      "end": 14.8,
+      "word": "ma"
+    },
+    {
+      "start": 14.8,
+      "end": 15.2,
+      "word": "ovviamente"
+    },
+    {
+      "start": 15.2,
+      "end": 15.62,
+      "word": "Viste"
+    },
+    {
+      "start": 15.62,
+      "end": 15.74,
+      "word": "le"
+    },
+    {
+      "start": 15.74,
+      "end": 16.06,
+      "word": "temperature"
+    },
+    {
+      "start": 16.06,
+      "end": 16.44,
+      "word": "ho"
+    },
+    {
+      "start": 16.44,
+      "end": 16.68,
+      "word": "scelto"
+    },
+    {
+      "start": 16.68,
+      "end": 16.82,
+      "word": "la"
+    },
+    {
+      "start": 16.82,
+      "end": 17.18,
+      "word": "versione"
+    },
+    {
+      "start": 17.18,
+      "end": 17.44,
+      "word": "ice"
+    },
+    {
+      "start": 17.44,
+      "end": 17.66,
+      "word": "devo"
+    },
+    {
+      "start": 17.66,
+      "end": 17.9,
+      "word": "dire"
+    },
+    {
+      "start": 17.9,
+      "end": 18.08,
+      "word": "che"
+    },
+    {
+      "start": 18.08,
+      "end": 18.2,
+      "word": "non"
+    },
+    {
+      "start": 18.2,
+      "end": 18.34,
+      "word": "mi"
+    },
+    {
+      "start": 18.34,
+      "end": 18.4,
+      "word": "è"
+    },
+    {
+      "start": 18.4,
+      "end": 18.94,
+      "word": "dispiaciuto"
+    },
+    {
+      "start": 18.94,
+      "end": 19.54,
+      "word": "è"
+    },
+    {
+      "start": 19.54,
+      "end": 19.8,
+      "word": "leggero"
+    },
+    {
+      "start": 20.36,
+      "end": 20.68,
+      "word": "Il"
+    },
+    {
+      "start": 20.68,
+      "end": 20.88,
+      "word": "coco"
+    },
+    {
+      "start": 20.88,
+      "end": 21.14,
+      "word": "si"
+    },
+    {
+      "start": 21.14,
+      "end": 21.38,
+      "word": "sente"
+    },
+    {
+      "start": 21.38,
+      "end": 21.7,
+      "word": "sente"
+    },
+    {
+      "start": 21.7,
+      "end": 21.9,
+      "word": "che"
+    },
+    {
+      "start": 21.9,
+      "end": 22.04,
+      "word": "non"
+    },
+    {
+      "start": 22.04,
+      "end": 22.16,
+      "word": "è"
+    },
+    {
+      "start": 22.16,
+      "end": 22.36,
+      "word": "latte"
+    },
+    {
+      "start": 22.36,
+      "end": 22.6,
+      "word": "normale"
+    },
+    {
+      "start": 22.6,
+      "end": 23.02,
+      "word": "di"
+    },
+    {
+      "start": 23.02,
+      "end": 23.32,
+      "word": "coco"
+    },
+    {
+      "start": 24.36,
+      "end": 24.84,
+      "word": "Ligermente"
+    },
+    {
+      "start": 24.84,
+      "end": 25.32,
+      "word": "dolce"
+    },
+    {
+      "start": 25.32,
+      "end": 25.9,
+      "word": "e"
+    },
+    {
+      "start": 25.9,
+      "end": 26.04,
+      "word": "anche"
+    },
+    {
+      "start": 26.04,
+      "end": 26.52,
+      "word": "troppo"
+    },
+    {
+      "start": 26.52,
+      "end": 27.16,
+      "word": "abbastanza"
+    },
+    {
+      "start": 27.16,
+      "end": 27.8,
+      "word": "bilanciato."
+    },
+    {
+      "start": 27.92,
+      "end": 28.0,
+      "word": "Mi"
+    },
+    {
+      "start": 28.0,
+      "end": 28.24,
+      "word": "piace"
+    },
+    {
+      "start": 28.24,
+      "end": 29.16,
+      "word": "quindi"
+    },
+    {
+      "start": 29.16,
+      "end": 29.42,
+      "word": "si"
+    },
+    {
+      "start": 29.42,
+      "end": 29.6,
+      "word": "sta"
+    },
+    {
+      "start": 29.6,
+      "end": 29.74,
+      "word": "pure"
+    },
+    {
+      "start": 29.74,
+      "end": 29.9,
+      "word": "del"
+    },
+    {
+      "start": 29.9,
+      "end": 30.16,
+      "word": "matcha"
+    },
+    {
+      "start": 30.16,
+      "end": 30.24,
+      "word": "non"
+    },
+    {
+      "start": 30.24,
+      "end": 30.34,
+      "word": "è"
+    },
+    {
+      "start": 30.34,
+      "end": 30.86,
+      "word": "fortissimo"
+    },
+    {
+      "start": 30.86,
+      "end": 31.22,
+      "word": "Infatti"
+    },
+    {
+      "start": 31.22,
+      "end": 31.34,
+      "word": "la"
+    },
+    {
+      "start": 31.34,
+      "end": 31.88,
+      "word": "definirei"
+    },
+    {
+      "start": 31.88,
+      "end": 32.02,
+      "word": "più"
+    },
+    {
+      "start": 32.02,
+      "end": 32.16,
+      "word": "una"
+    },
+    {
+      "start": 32.16,
+      "end": 32.46,
+      "word": "bevanda"
+    },
+    {
+      "start": 32.46,
+      "end": 32.6,
+      "word": "al"
+    },
+    {
+      "start": 32.6,
+      "end": 32.94,
+      "word": "cocco"
+    },
+    {
+      "start": 32.94,
+      "end": 33.14,
+      "word": "però"
+    },
+    {
+      "start": 33.14,
+      "end": 33.34,
+      "word": "a"
+    },
+    {
+      "start": 33.34,
+      "end": 33.44,
+      "word": "me"
+    },
+    {
+      "start": 33.44,
+      "end": 33.5,
+      "word": "è"
+    },
+    {
+      "start": 33.5,
+      "end": 33.94,
+      "word": "piaciuta"
+    },
+    {
+      "start": 33.94,
+      "end": 34.38,
+      "word": "menzione"
+    },
+    {
+      "start": 34.38,
+      "end": 34.5,
+      "word": "d"
+    },
+    {
+      "start": 34.5,
+      "end": 34.78,
+      "word": "'onore"
+    },
+    {
+      "start": 34.78,
+      "end": 35.08,
+      "word": "anche"
+    },
+    {
+      "start": 35.08,
+      "end": 35.28,
+      "word": "per"
+    },
+    {
+      "start": 35.28,
+      "end": 35.38,
+      "word": "il"
+    },
+    {
+      "start": 35.38,
+      "end": 35.88,
+      "word": "bicchiere"
+    },
+    {
+      "start": 35.88,
+      "end": 36.08,
+      "word": "si"
+    },
+    {
+      "start": 36.08,
+      "end": 36.56,
+      "word": "distingue"
+    },
+    {
+      "start": 36.56,
+      "end": 36.82,
+      "word": "dagli"
+    },
+    {
+      "start": 36.82,
+      "end": 37.04,
+      "word": "altri"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "Proviamo un nuovo matcha del McDonald"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.033,
+      "dur": 2.033,
+      "transcript": "si ragazzi avete capito bene da McDonald è"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 7.0,
+      "dur": 2.967,
+      "transcript": "disponibile il loro coconut matcha latte Io mi trovavo al bicoca"
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.0,
+      "end": 9.033,
+      "dur": 2.033,
+      "transcript": "village e ho visto ovunque questa pubblicità e"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.033,
+      "end": 12.033,
+      "dur": 3.0,
+      "transcript": "quindi ho deciso di passare appunto Nel loro store di bicoca"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.033,
+      "end": 13.533,
+      "dur": 1.5,
+      "transcript": "per provare questa novità disponibile"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.533,
+      "end": 15.533,
+      "dur": 2.0,
+      "transcript": "sia caldo che freddo ma ovviamente Viste"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.533,
+      "end": 17.533,
+      "dur": 2.0,
+      "transcript": "le temperature ho scelto la versione ice"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.533,
+      "end": 19.0,
+      "dur": 1.467,
+      "transcript": "devo dire che non mi è dispiaciuto"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.0,
+      "end": 26.867,
+      "dur": 7.867,
+      "transcript": "è leggero Il coco si sente sente che non è latte normale di coco Ligermente dolce e anche troppo abbastanza"
+    },
+    {
+      "shot_idx": 10,
+      "start": 26.867,
+      "end": 29.067,
+      "dur": 2.2,
+      "transcript": "bilanciato. Mi piace quindi"
+    },
+    {
+      "shot_idx": 11,
+      "start": 29.067,
+      "end": 31.567,
+      "dur": 2.5,
+      "transcript": "si sta pure del matcha non è fortissimo Infatti la"
+    },
+    {
+      "shot_idx": 12,
+      "start": 31.567,
+      "end": 33.333,
+      "dur": 1.767,
+      "transcript": "definirei più una bevanda al cocco però a"
+    },
+    {
+      "shot_idx": 13,
+      "start": 33.333,
+      "end": 34.633,
+      "dur": 1.3,
+      "transcript": "me è piaciuta menzione d"
+    },
+    {
+      "shot_idx": 14,
+      "start": 34.633,
+      "end": 38.133,
+      "dur": 3.5,
+      "transcript": "'onore anche per il bicchiere si distingue dagli altri"
+    }
+  ],
+  "full_text": "Proviamo un nuovo matcha del McDonald si ragazzi avete capito bene da McDonald è disponibile il loro coconut matcha latte Io mi trovavo al bicoca village e ho visto ovunque questa pubblicità e quindi ho deciso di passare appunto Nel loro store di bicoca per provare questa novità disponibile sia caldo che freddo ma ovviamente Viste le temperature ho scelto la versione ice devo dire che non mi è dispiaciuto è leggero Il coco si sente sente che non è latte normale di coco Ligermente dolce e anche troppo abbastanza bilanciato. Mi piace quindi si sta pure del matcha non è fortissimo Infatti la definirei più una bevanda al cocco però a me è piaciuta menzione d'onore anche per il bicchiere si distingue dagli altri",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

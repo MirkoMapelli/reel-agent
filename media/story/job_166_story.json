@@ -1,0 +1,188 @@
+{
+  "title": "Wing Stop arriva in Italia",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "parete verde logo Milano annuncio apertura esclusiva"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem touchscreen mostra menù ordinazione digitale"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking",
+        "venue_interior_detail"
+      ],
+      "moment": "persona presenta locale spiega concept brand"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettagli arredo locale stile americano colorato"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate appena servite"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani sollevano vassoio ali patatine polpette"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto tavolo completo con tutti piatti"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "patata fritta inzuppata in salsa bianca cremosa"
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "altro angolo locale con dettagli decorativi brand"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente mostra bicchiere carta logo Wing Stop"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente beve dal bicchiere con due mani"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona assaggia ala con espressione soddisfatta"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani prendono ala fritta dal piatto"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menù mostra altre opzioni disponibili"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani raccolgono polpette croccanti dal vassoio"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "gesto raccolta patatine con entusiasmo"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali dorate croccanti irresistibili"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "inquadratura finale locale atmosfera invitante"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona conclude parlando guardando in camera"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking",
+        "person_eating"
+      ],
+      "moment": "invito a tornare curiosità nuovo assaggio"
+    }
+  ],
+  "edl_job_id": 166
+}

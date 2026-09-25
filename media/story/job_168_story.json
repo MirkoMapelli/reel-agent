@@ -1,0 +1,188 @@
+{
+  "title": "Wing Stop Milano - Prova Esclusiva",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "parete verde logo MILANO annuncia apertura esclusiva"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem touchscreen mostra menù locale nuovo"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating",
+        "venue_interior_detail"
+      ],
+      "moment": "cliente entra ordina guardando totem menù"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate appena servite"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani sollevano vassoio pieno ali patatine"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto tavolo completo con tutti piatti"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio locale mentre piatto viene descritto"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "patata fritta inzuppata in salsa bianca cremosa"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente mostra bicchiere carta logo Wing Stop"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente beve bicchiere con due mani soddisfatto"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ambiente locale sullo sfondo durante pausa bevuta"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani prendono ala fritta con gesto deciso"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona assaggia ala con espressione entusiasta"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "morso primo piano mostra croccantezza interno"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "gesto raccolta polpetta croccante dal piatto"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem ordini sullo sfondo mentre commenta esperienza"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali dorate irresistibili appetitose"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "assaggio finale con reazione massima soddisfazione"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona parla mostrando vassoi consiglia locale"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking",
+        "venue_interior_detail"
+      ],
+      "moment": "chiusura con curiosità prossima visita locale"
+    }
+  ],
+  "edl_job_id": 168
+}

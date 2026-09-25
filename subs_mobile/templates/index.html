@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Sottotitoli</title>
+<style>
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin:0; padding:0; background:#0f1117; color:#e7e9ef;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    font-size: 15px; -webkit-text-size-adjust: 100%; overscroll-behavior: none;
+    height: 100dvh; display: flex; flex-direction: column; }
+  body { padding-top: env(safe-area-inset-top); }
+  header { padding: 10px 14px; background: linear-gradient(#1a1f2c, #141822);
+    border-bottom: 1px solid #232838; flex-shrink: 0;
+    display: flex; align-items: center; justify-content: space-between; }
+  header h1 { font-size: 15px; margin: 0; font-weight: 600; }
+  .tabs { display: flex; gap: 4px; }
+  .tabs button { background: transparent; border: 0; color: #8a92a6;
+    font-size: 13px; padding: 6px 12px; border-radius: 6px; font-weight: 500; }
+  .tabs button.active { background: #2d6cdf; color: #fff; }
+  main { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; padding-bottom: 90px; }
+  .wrap { padding: 14px; max-width: 640px; margin: 0 auto; }
+  .card { background:#181c26; border:1px solid #262b38; border-radius:12px;
+    padding:14px; margin-bottom:14px; }
+  .card h2 { font-size:13px; margin:0 0 10px; color:#b6bdcc; font-weight:600;
+    text-transform: uppercase; letter-spacing: 0.5px; }
+
+  .dropzone { display:block; border:2px dashed #2c3345; border-radius:12px;
+    padding: 40px 16px; text-align:center; background:#141822; }
+  .dropzone:active { background:#1a2130; }
+  .dropzone .icon { font-size:44px; margin-bottom:10px; }
+  .dropzone .title { font-size:15px; font-weight:500; }
+  .dropzone .sub { font-size:12px; color:#8a92a6; margin-top:4px; }
+
+  .preview-wrap { position: relative; background:#000; border-radius:10px;
+    overflow: hidden; margin-bottom: 12px; }
+  .preview-wrap video { width: 100%; display: block; max-height: 55vh; }
+  #subs-overlay { position: absolute; left: 0; right: 0; bottom: 0;
+    pointer-events: none; text-align: center; }
+  #subs-overlay .line { display: inline-block; padding: 4px 8px;
+    font-weight: 700; white-space: pre-line; line-height: 1.1;
+    text-shadow: 3px 3px 0 #000, -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000;
+    cursor: grab; pointer-events: auto; }
+  #subs-overlay .line .hl { color: #fff; }
+  #subs-overlay .handle-hint { font-size: 10px; color: rgba(255,255,255,.5);
+    margin-top: 2px; pointer-events: none; }
+
+  label.field { display: block; margin-bottom: 12px; font-size:12px; color:#8a92a6; }
+  label.field .lbl { display:block; margin-bottom:5px; font-weight:500; }
+  select, input[type=text], input[type=number], textarea {
+    width:100%; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345;
+    border-radius:8px; padding: 10px 12px; font-size: 15px; font-family: inherit;
+  }
+  textarea { resize: vertical; min-height: 44px; }
+  select { -webkit-appearance: none; appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8'><path d='M1 1l5 5 5-5' stroke='%238a92a6' stroke-width='2' fill='none'/></svg>");
+    background-repeat: no-repeat; background-position: right 14px center; padding-right: 38px; }
+  .grid2 { display:grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .color-row { display:flex; align-items:center; gap:10px; }
+  .color-row input[type=color] { width: 46px; height: 40px; padding:0;
+    border:1px solid #2c3345; border-radius:8px; background:transparent; }
+  .color-row .hex { font-family: monospace; font-size:12px; color:#b6bdcc; }
+  .help { font-size: 11px; color:#666; margin-top:3px; }
+
+  #font-preview { text-align:center; padding: 10px 6px; background:#0b0d13;
+    border-radius:8px; margin-bottom:12px; min-height: 54px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 28px; letter-spacing: 1px; word-break: break-word;
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000; }
+
+  .segments-list { max-height: 340px; overflow-y: auto;
+    background: #0b0d13; border-radius: 8px; padding: 6px; }
+  .seg-row { display: flex; gap: 6px; padding: 6px; border-bottom: 1px solid #1a1f2c;
+    align-items: flex-start; }
+  .seg-row:last-child { border: 0; }
+  .seg-row .time { font-size: 10px; color: #8a92a6; min-width: 42px;
+    padding-top: 8px; font-variant-numeric: tabular-nums; }
+  .seg-row textarea { font-size: 14px; padding: 6px 8px; min-height: 34px;
+    border-radius: 6px; }
+  .seg-row .actions { display: flex; flex-direction: column; gap: 3px; }
+  .seg-row .actions button { background: #1a1a1a; border: 1px solid #2a2a2a;
+    color: #fff; width: 26px; height: 26px; border-radius: 5px; font-size: 13px; }
+  .seg-row .actions button.danger { color: #ff6b6b; }
+
+  .btn { display:block; width: 100%; padding: 14px; border: none;
+    border-radius: 10px; font-size: 15px; font-weight: 600;
+    font-family: inherit; margin-bottom: 8px; cursor: pointer; }
+  .btn-primary { background: linear-gradient(135deg, #f5b300, #e0a000); color: #1a1a1a; }
+  .btn-primary:disabled { opacity: 0.4; }
+  .btn-ghost { background:#2a3448; color:#e7e9ef; }
+  .btn-danger { background:#4a1a1a; color:#ff6b6b; }
+  .btn-sm { padding: 8px 12px; font-size: 13px; width: auto; display: inline-block; }
+
+  .progress { margin-top: 10px; height: 6px; background:#0b0d13;
+    border-radius: 3px; overflow:hidden; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, #f5b300, #ffd43b);
+    width: 0%; transition: width .3s; }
+  .status { font-size: 13px; color:#b6bdcc; margin-top: 8px; text-align:center; }
+  .status.err { color:#ff7a7a; }
+  .hidden { display: none !important; }
+
+  /* Job history */
+  .job-item { display: flex; gap: 10px; padding: 10px; background: #0b0d13;
+    border-radius: 8px; margin-bottom: 8px; align-items: center; }
+  .job-thumb { width: 60px; height: 80px; background: #000; border-radius: 6px;
+    flex-shrink: 0; object-fit: cover; }
+  .job-info { flex: 1; min-width: 0; }
+  .job-info .name { font-size: 13px; overflow: hidden; text-overflow: ellipsis;
+    white-space: nowrap; }
+  .job-info .meta { font-size: 11px; color: #8a92a6; margin-top: 3px; }
+  .job-actions { display: flex; flex-direction: column; gap: 4px; }
+  .job-actions button, .job-actions a { padding: 6px 10px; font-size: 12px;
+    border-radius: 6px; border: 0; text-decoration: none; text-align: center; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📝 Sottotitoli</h1>
+  <div class="tabs">
+    <button id="tab-new" class="active">Nuovo</button>
+    <button id="tab-history">Storico</button>
+  </div>
+</header>
+
+<main>
+  <!-- ==== VIEW: NUOVO ==== -->
+  <div id="view-new" class="wrap">
+
+    <!-- STEP 1: upload -->
+    <div id="step1" class="card">
+      <label class="dropzone" for="file-input">
+        <div class="icon">🎬</div>
+        <div class="title">Tocca per scegliere un video</div>
+        <div class="sub">MP4 / MOV / MKV · max 500 MB</div>
+        <input type="file" id="file-input" accept="video/*" hidden>
+      </label>
+    </div>
+
+    <!-- STEP 2: trascrizione in corso -->
+    <div id="step2" class="card hidden">
+      <div class="status">🎙 trascrizione in corso…</div>
+      <div class="progress"><div class="progress-fill" id="tr-fill"></div></div>
+      <div class="status" id="tr-msg"></div>
+    </div>
+
+    <!-- STEP 3: preview + editor -->
+    <div id="step3" class="hidden">
+
+      <div class="card">
+        <h2>Anteprima live</h2>
+        <div class="preview-wrap">
+          <video id="preview-video" playsinline controls preload="metadata"></video>
+          <div id="subs-overlay">
+            <div class="line" id="subs-line">…</div>
+            <div class="handle-hint">↑ trascina per spostare ↓</div>
+          </div>
+        </div>
+        <div class="status" style="text-align:left; padding: 0 4px;">
+          <span id="pv-time">0.0s</span> · Trascina i sottotitoli per cambiare altezza
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>🎨 Stile</h2>
+        <label class="field">
+          <span class="lbl">Font</span>
+          <select id="font"><option>caricamento…</option></select>
+        </label>
+        <div id="font-preview">Hai scelto questo carattere</div>
+
+        <label class="field">
+          <span class="lbl">Modalità Karaoke</span>
+          <select id="karaoke-mode">
+            <option value="phrase" selected>Frase intera + parola evidenziata</option>
+            <option value="word">Una parola alla volta</option>
+            <option value="static">Frase intera statica</option>
+          </select>
+        </label>
+
+        <div class="grid2">
+          <label class="field">
+            <span class="lbl">Dimensione</span>
+            <input type="number" id="size" value="62" min="20" max="150">
+          </label>
+          <label class="field">
+            <span class="lbl">Spessore Bordo</span>
+            <input type="number" id="outline" value="5" min="0" max="10">
+          </label>
+        </div>
+
+        <div class="grid2">
+          <label class="field">
+            <span class="lbl">Colore testo</span>
+            <div class="color-row">
+              <input type="color" id="color" value="#FFE600">
+              <span class="hex" id="color-hex">#FFE600</span>
+            </div>
+          </label>
+          <label class="field">
+            <span class="lbl">Colore karaoke</span>
+            <div class="color-row">
+              <input type="color" id="highlight" value="#FFFFFF">
+              <span class="hex" id="highlight-hex">#FFFFFF</span>
+            </div>
+          </label>
+        </div>
+
+        <label class="field">
+          <span class="lbl">Distanza dal basso: <span id="margin-label">155</span></span>
+          <input type="range" id="margin" min="50" max="500" value="155">
+        </label>
+      </div>
+
+      <div class="card">
+        <h2>📝 Testo trascritto</h2>
+        <div class="status" style="text-align:left; margin-bottom:8px; font-size:12px;">
+          Modifica le frasi per correggere errori Whisper. Le modifiche si applicano al render.
+        </div>
+        <div class="segments-list" id="segments-list"></div>
+        <div style="margin-top:8px;">
+          <button class="btn btn-ghost btn-sm" id="btn-reset-text">↺ Ripristina originale</button>
+        </div>
+      </div>
+
+      <button class="btn btn-primary" id="btn-render">🎬 Elabora sottotitoli</button>
+      <button class="btn btn-ghost" id="btn-cancel">✕ Annulla</button>
+
+      <div id="render-progress" class="card hidden">
+        <div class="status" id="r-msg">elaborazione…</div>
+        <div class="progress"><div class="progress-fill" id="r-fill"></div></div>
+      </div>
+
+      <div id="result" class="card hidden">
+        <h2>✓ Pronto</h2>
+        <video id="result-video" controls playsinline style="width:100%; border-radius:8px; background:#000; margin-bottom:10px;"></video>
+        <button class="btn btn-primary" id="btn-share">📸 Salva nelle Foto</button>
+        <a id="download-link" class="btn btn-ghost" download>⬇ Scarica file</a>
+        <button class="btn btn-ghost" id="btn-new">📹 Nuovo video</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ==== VIEW: STORICO ==== -->
+  <div id="view-history" class="wrap hidden">
+    <div class="card">
+      <h2>📚 Elaborazioni precedenti</h2>
+      <div id="history-list">
+        <div class="status">caricamento…</div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const loadedFonts = new Set();
+let selectedFile = null;
+let currentJobId = null;
+let originalSegments = null;
+let editedSegments = null;
+let currentMarginV = 155;
+let draggedMargin = null;
+
+// ============================================================
+// TABS
+// ============================================================
+$('tab-new').addEventListener('click', () => {
+  $('tab-new').classList.add('active');
+  $('tab-history').classList.remove('active');
+  $('view-new').classList.remove('hidden');
+  $('view-history').classList.add('hidden');
+});
+$('tab-history').addEventListener('click', () => {
+  $('tab-history').classList.add('active');
+  $('tab-new').classList.remove('active');
+  $('view-history').classList.remove('hidden');
+  $('view-new').classList.add('hidden');
+  loadHistory();
+});
+
+// ============================================================
+// FONTS
+// ============================================================
+async function loadFonts() {
+  try {
+    const r = await fetch('/api/fonts');
+    const d = await r.json();
+    const sel = $('font');
+    sel.innerHTML = '';
+    (d.fonts || []).forEach(f => {
+      const o = document.createElement('option');
+      o.value = f; o.textContent = f;
+      if (f === 'ObelixPro') o.selected = true;
+      sel.appendChild(o);
+    });
+    sel.addEventListener('change', updateFontPreview);
+    updateFontPreview();
+  } catch(_) {}
+}
+function ensureFont(family) {
+  if (!family || loadedFonts.has(family)) return;
+  const sid = 'ff_' + family.replace(/[^A-Za-z0-9_-]/g, '_');
+  if (!document.getElementById(sid)) {
+    const st = document.createElement('style');
+    st.id = sid;
+    st.textContent = '@font-face { font-family: "' + family + '"; src: url("/api/font-file/' + encodeURIComponent(family) + '") format("truetype"); font-display: swap; }';
+    document.head.appendChild(st);
+  }
+  if (document.fonts && document.fonts.load) {
+    document.fonts.load('40px "' + family + '"').catch(() => {});
+  }
+  loadedFonts.add(family);
+}
+function updateFontPreview() {
+  const fam = $('font').value || 'ObelixPro';
+  ensureFont(fam);
+  $('font-preview').style.fontFamily = '"' + fam + '", sans-serif';
+  $('font-preview').style.color = $('color').value;
+  updateLiveOverlay();
+}
+
+// ============================================================
+// UPLOAD
+// ============================================================
+$('file-input').addEventListener('change', async e => {
+  if (!e.target.files.length) return;
+  selectedFile = e.target.files[0];
+  $('step1').classList.add('hidden');
+  $('step2').classList.remove('hidden');
+
+  const fd = new FormData();
+  fd.append('file', selectedFile);
+
+  try {
+    const r = await fetch('/api/upload', { method: 'POST', body: fd });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.error || 'upload fallito');
+    currentJobId = d.job_id;
+    pollTranscription();
+  } catch (err) {
+    $('tr-msg').textContent = '❌ ' + err.message;
+    $('tr-msg').classList.add('err');
+  }
+  e.target.value = '';
+});
+
+async function pollTranscription() {
+  if (!currentJobId) return;
+  try {
+    const r = await fetch('/api/status/' + currentJobId);
+    const d = await r.json();
+    $('tr-msg').textContent = d.message || '';
+    $('tr-fill').style.width = (d.progress || 0) + '%';
+    if (d.status === 'ready_edit') {
+      $('step2').classList.add('hidden');
+      $('step3').classList.remove('hidden');
+      originalSegments = JSON.parse(JSON.stringify(d.segments || []));
+      editedSegments = JSON.parse(JSON.stringify(d.segments || []));
+      $('preview-video').src = '/api/raw/' + currentJobId;
+      renderSegments();
+      updateLiveOverlay();
+      return;
+    }
+    if (d.status === 'error') {
+      $('tr-msg').textContent = '❌ ' + (d.message || 'errore');
+      $('tr-msg').classList.add('err');
+      return;
+    }
+  } catch (_) {}
+  setTimeout(pollTranscription, 2000);
+}
+
+// ============================================================
+// SEGMENTS EDITOR
+// ============================================================
+function renderSegments() {
+  const el = $('segments-list');
+  el.innerHTML = '';
+  editedSegments.forEach((s, i) => {
+    const row = document.createElement('div');
+    row.className = 'seg-row';
+    row.innerHTML = `
+      <div class="time">${s.start.toFixed(1)}s<br>${s.end.toFixed(1)}s</div>
+      <textarea data-idx="${i}">${escapeHtml(s.text)}</textarea>
+      <div class="actions">
+        <button data-act="del" data-idx="${i}" class="danger">🗑</button>
+      </div>`;
+    el.appendChild(row);
+  });
+  // Bind
+  el.querySelectorAll('textarea').forEach(ta => {
+    ta.addEventListener('input', e => {
+      const i = parseInt(e.target.dataset.idx);
+      editedSegments[i].text = e.target.value;
+    });
+  });
+  el.querySelectorAll('button[data-act=del]').forEach(btn => {
+    btn.addEventListener('click', e => {
+      const i = parseInt(e.target.dataset.idx);
+      if (!confirm('Eliminare questa frase?')) return;
+      editedSegments.splice(i, 1);
+      renderSegments();
+    });
+  });
+}
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+$('btn-reset-text').addEventListener('click', () => {
+  if (!originalSegments) return;
+  if (!confirm('Ripristinare il testo originale?')) return;
+  editedSegments = JSON.parse(JSON.stringify(originalSegments));
+  renderSegments();
+});
+
+// ============================================================
+// LIVE OVERLAY (preview karaoke)
+// ============================================================
+function updateLiveOverlay() {
+  const v = $('preview-video');
+  const overlay = $('subs-overlay');
+  const line = $('subs-line');
+  if (!overlay || !line) return;
+
+  const t = v.currentTime || 0;
+  const seg = (editedSegments || []).find(s => t >= s.start && t <= s.end);
+
+  if (!seg) { line.textContent = ''; return; }
+
+  const fam = $('font').value || 'ObelixPro';
+  const scale = v.clientHeight / 1920;
+  const fs = parseInt($('size').value) * scale;
+  const outl = parseInt($('outline').value);
+  const color = $('color').value;
+  const hl = $('highlight').value;
+
+  line.style.fontFamily = '"' + fam + '", sans-serif';
+  line.style.fontSize = fs + 'px';
+  line.style.color = color;
+  line.style.textShadow = `${outl*scale}px ${outl*scale}px 0 #000, ${-outl*scale}px ${-outl*scale}px 0 #000, ${outl*scale}px ${-outl*scale}px 0 #000, ${-outl*scale}px ${outl*scale}px 0 #000`;
+  overlay.style.paddingBottom = (currentMarginV * scale) + 'px';
+
+  const mode = $('karaoke-mode').value;
+  const dur = seg.end - seg.start;
+
+  if (mode === 'static') {
+    line.textContent = seg.text;
+    return;
+  }
+
+  const words = seg.text.toUpperCase().split(/\s+/).filter(Boolean);
+  const chars = words.reduce((a, w) => a + w.length, 0) || 1;
+  let acc = 0;
+  let activeIdx = -1;
+  const localT = t - seg.start;
+  for (let i = 0; i < words.length; i++) {
+    const wDur = Math.max(0.1, (dur * words[i].length) / chars);
+    if (localT < acc + wDur) { activeIdx = i; break; }
+    acc += wDur;
+  }
+
+  if (mode === 'word') {
+    // mostra solo la parola corrente
+    line.textContent = activeIdx >= 0 ? words[activeIdx] : '';
+    return;
+  }
+
+  // phrase: tutte le parole + corrente evidenziata
+  line.innerHTML = words.map((w, i) => {
+    if (i === activeIdx) return `<span class="hl" style="color:${hl}">${w}</span>`;
+    return w;
+  }).join(' ');
+}
+
+$('preview-video').addEventListener('timeupdate', updateLiveOverlay);
+$('preview-video').addEventListener('seeked', updateLiveOverlay);
+$('preview-video').addEventListener('loadedmetadata', () => {
+  $('pv-time').textContent = '0.0s';
+  updateLiveOverlay();
+});
+$('preview-video').addEventListener('play', () => {
+  const loop = () => {
+    $('pv-time').textContent = $('preview-video').currentTime.toFixed(1) + 's';
+    if (!$('preview-video').paused) requestAnimationFrame(loop);
+  };
+  loop();
+});
+
+['size','outline','color','highlight','karaoke-mode'].forEach(id => {
+  $(id).addEventListener('input', updateLiveOverlay);
+});
+
+// Margin slider
+$('margin').addEventListener('input', e => {
+  currentMarginV = parseInt(e.target.value);
+  $('margin-label').textContent = currentMarginV;
+  updateLiveOverlay();
+});
+
+// ============================================================
+// DRAG OVERLAY (sposta sottotitoli)
+// ============================================================
+(function bindDrag() {
+  const line = $('subs-line');
+  const v = $('preview-video');
+  let dragging = false;
+  let startY = 0;
+  let startMargin = 0;
+
+  function start(y) {
+    dragging = true;
+    startY = y;
+    startMargin = currentMarginV;
+    line.style.cursor = 'grabbing';
+  }
+  function move(y) {
+    if (!dragging) return;
+    const scale = v.clientHeight / 1920;
+    const deltaY = y - startY;
+    // trascinare in alto = aumentare margin_v
+    let newMargin = startMargin + (-deltaY / scale);
+    newMargin = Math.max(50, Math.min(500, Math.round(newMargin)));
+    currentMarginV = newMargin;
+    $('margin').value = newMargin;
+    $('margin-label').textContent = newMargin;
+    updateLiveOverlay();
+  }
+  function end() {
+    dragging = false;
+    line.style.cursor = 'grab';
+  }
+
+  line.addEventListener('mousedown', e => { e.preventDefault(); start(e.clientY); });
+  window.addEventListener('mousemove', e => move(e.clientY));
+  window.addEventListener('mouseup', end);
+
+  line.addEventListener('touchstart', e => {
+    e.preventDefault();
+    start(e.touches[0].clientY);
+  }, { passive: false });
+  line.addEventListener('touchmove', e => {
+    e.preventDefault();
+    move(e.touches[0].clientY);
+  }, { passive: false });
+  line.addEventListener('touchend', end);
+})();
+
+// ============================================================
+// RENDER
+// ============================================================
+$('btn-render').addEventListener('click', async () => {
+  if (!currentJobId) return;
+  $('btn-render').disabled = true;
+  $('render-progress').classList.remove('hidden');
+  $('r-msg').textContent = 'invio…';
+  $('r-fill').style.width = '5%';
+
+  const opts = {
+    font_name: $('font').value,
+    font_size: parseInt($('size').value) || 62,
+    outline_width: parseInt($('outline').value) || 5,
+    margin_v: currentMarginV,
+    primary_color_hex: $('color').value.replace('#','').toUpperCase(),
+    highlight_color_hex: $('highlight').value.replace('#','').toUpperCase(),
+    karaoke_mode: $('karaoke-mode').value,
+    segments: editedSegments,
+  };
+
+  try {
+    const r = await fetch('/api/render/' + currentJobId, {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify(opts)
+    });
+    if (!r.ok) throw new Error('avvio render fallito');
+    pollRender();
+  } catch (e) {
+    $('r-msg').textContent = '❌ ' + e.message;
+  }
+});
+
+async function pollRender() {
+  try {
+    const r = await fetch('/api/status/' + currentJobId);
+    const d = await r.json();
+    $('r-msg').textContent = d.message || 'elaborazione…';
+    $('r-fill').style.width = (d.progress || 0) + '%';
+
+    if (d.status === 'done') {
+      $('r-msg').textContent = '✓ completato (' + (d.size_mb || '?') + ' MB)';
+      $('r-fill').style.width = '100%';
+      $('result').classList.remove('hidden');
+      $('result-video').src = '/api/video/' + currentJobId + '?t=' + Date.now();
+      $('download-link').href = '/api/video/' + currentJobId + '?dl=1';
+      $('download-link').download = 'karaoke_' + currentJobId + '.mp4';
+      return;
+    }
+    if (d.status === 'error') {
+      $('r-msg').textContent = '❌ ' + (d.message || 'errore');
+      return;
+    }
+  } catch (_) {}
+  setTimeout(pollRender, 2500);
+}
+
+$('btn-share').addEventListener('click', async () => {
+  const btn = $('btn-share');
+  const orig = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = '⏳ preparo…';
+  try {
+    const r = await fetch('/api/video/' + currentJobId);
+    const blob = await r.blob();
+    const file = new File([blob], 'karaoke.mp4', {type: 'video/mp4'});
+    if (navigator.canShare && navigator.canShare({files: [file]})) {
+      await navigator.share({files: [file], title: 'Video'});
+      btn.textContent = '✓ Fatto';
+      setTimeout(() => { btn.textContent = orig; btn.disabled = false; }, 2000);
+    } else {
+      window.open('/api/video/' + currentJobId, '_blank');
+      btn.textContent = orig;
+      btn.disabled = false;
+    }
+  } catch (e) {
+    if (e.name !== 'AbortError') alert('Tieni premuto il video per salvarlo.');
+    btn.textContent = orig;
+    btn.disabled = false;
+  }
+});
+
+$('btn-cancel').addEventListener('click', () => {
+  if (!confirm('Annullare questa elaborazione?')) return;
+  location.reload();
+});
+$('btn-new').addEventListener('click', () => location.reload());
+
+// ============================================================
+// HISTORY
+// ============================================================
+async function loadHistory() {
+  const el = $('history-list');
+  el.innerHTML = '<div class="status">caricamento…</div>';
+  try {
+    const r = await fetch('/api/jobs');
+    const d = await r.json();
+    el.innerHTML = '';
+    const jobs = (d.jobs || []).filter(j => j.status === 'done' || j.has_output);
+    if (!jobs.length) {
+      el.innerHTML = '<div class="status">nessuna elaborazione precedente</div>';
+      return;
+    }
+    jobs.forEach(j => {
+      const div = document.createElement('div');
+      div.className = 'job-item';
+      const date = new Date((j.created_at || 0) * 1000);
+      const ds = date.toLocaleString('it-IT', {day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'});
+      div.innerHTML = `
+        <div class="job-info">
+          <div class="name">${escapeHtml(j.filename || '?')}</div>
+          <div class="meta">${ds} · ${j.size_mb || '?'} MB · ${j.n_segments || '?'} frasi</div>
+        </div>
+        <div class="job-actions">
+          <a href="/api/video/${j.job_id}?dl=1" download>⬇</a>
+          <button data-del="${j.job_id}" style="background:#4a1a1a; color:#ff6b6b;">🗑</button>
+        </div>`;
+      el.appendChild(div);
+    });
+    el.querySelectorAll('button[data-del]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        if (!confirm('Eliminare questa elaborazione?')) return;
+        await fetch('/api/jobs/' + btn.dataset.del + '/delete', {method:'POST'});
+        loadHistory();
+      });
+    });
+  } catch (e) {
+    el.innerHTML = '<div class="status err">errore caricamento</div>';
+  }
+}
+
+// ============================================================
+// INIT
+// ============================================================
+loadFonts();
+</script>
+</body>
+</html>

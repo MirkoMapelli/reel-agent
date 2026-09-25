@@ -1,0 +1,3534 @@
+{
+  "video_id": "7685758981750394134",
+  "creator": "chefmaxmariola",
+  "meta": {
+    "id": "7685758981750394134",
+    "title": "Pasta con melanzane e crostini di pane 🍆🥖 Ragazzi, ho voluto preparar...",
+    "url": "https://www.tiktok.com/@chefmaxmariola/video/7685758981750394134",
+    "creator": "chefmaxmariola",
+    "duration": 77,
+    "downloaded_at": "2026-09-20T19:02:57"
+  },
+  "n_shots": 66,
+  "total_dur": 76.95,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.336,
+      "dur": 2.336,
+      "center": 1.168,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 2.336,
+      "end": 3.42,
+      "dur": 1.084,
+      "center": 2.878,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 3.42,
+      "end": 4.037,
+      "dur": 0.617,
+      "center": 3.729,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_002.jpg"
+    },
+    {
+      "idx": 3,
+      "start": 4.037,
+      "end": 5.739,
+      "dur": 1.702,
+      "center": 4.888,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_003.jpg"
+    },
+    {
+      "idx": 4,
+      "start": 5.739,
+      "end": 7.257,
+      "dur": 1.518,
+      "center": 6.498,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_004.jpg"
+    },
+    {
+      "idx": 5,
+      "start": 7.257,
+      "end": 9.126,
+      "dur": 1.869,
+      "center": 8.192,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_005.jpg"
+    },
+    {
+      "idx": 6,
+      "start": 9.126,
+      "end": 9.71,
+      "dur": 0.584,
+      "center": 9.418,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_006.jpg"
+    },
+    {
+      "idx": 7,
+      "start": 9.71,
+      "end": 10.043,
+      "dur": 0.334,
+      "center": 9.877,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_007.jpg"
+    },
+    {
+      "idx": 8,
+      "start": 10.043,
+      "end": 11.512,
+      "dur": 1.468,
+      "center": 10.777,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_008.jpg"
+    },
+    {
+      "idx": 9,
+      "start": 11.512,
+      "end": 11.912,
+      "dur": 0.4,
+      "center": 11.712,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_009.jpg"
+    },
+    {
+      "idx": 10,
+      "start": 11.912,
+      "end": 13.08,
+      "dur": 1.168,
+      "center": 12.496,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_010.jpg"
+    },
+    {
+      "idx": 11,
+      "start": 13.08,
+      "end": 14.915,
+      "dur": 1.835,
+      "center": 13.997,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_011.jpg"
+    },
+    {
+      "idx": 12,
+      "start": 14.915,
+      "end": 16.133,
+      "dur": 1.218,
+      "center": 15.524,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_012.jpg"
+    },
+    {
+      "idx": 13,
+      "start": 16.133,
+      "end": 17.267,
+      "dur": 1.134,
+      "center": 16.7,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_013.jpg"
+    },
+    {
+      "idx": 14,
+      "start": 17.267,
+      "end": 18.302,
+      "dur": 1.034,
+      "center": 17.784,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_014.jpg"
+    },
+    {
+      "idx": 15,
+      "start": 18.302,
+      "end": 19.953,
+      "dur": 1.652,
+      "center": 19.127,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_015.jpg"
+    },
+    {
+      "idx": 16,
+      "start": 19.953,
+      "end": 20.754,
+      "dur": 0.801,
+      "center": 20.354,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_016.jpg"
+    },
+    {
+      "idx": 17,
+      "start": 20.754,
+      "end": 21.405,
+      "dur": 0.651,
+      "center": 21.079,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_017.jpg"
+    },
+    {
+      "idx": 18,
+      "start": 21.405,
+      "end": 23.924,
+      "dur": 2.519,
+      "center": 22.664,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_018.jpg"
+    },
+    {
+      "idx": 19,
+      "start": 23.924,
+      "end": 25.609,
+      "dur": 1.685,
+      "center": 24.766,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_019.jpg"
+    },
+    {
+      "idx": 20,
+      "start": 25.609,
+      "end": 25.976,
+      "dur": 0.367,
+      "center": 25.792,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_020.jpg"
+    },
+    {
+      "idx": 21,
+      "start": 25.976,
+      "end": 26.727,
+      "dur": 0.751,
+      "center": 26.351,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_021.jpg"
+    },
+    {
+      "idx": 22,
+      "start": 26.727,
+      "end": 27.444,
+      "dur": 0.717,
+      "center": 27.085,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_022.jpg"
+    },
+    {
+      "idx": 23,
+      "start": 27.444,
+      "end": 27.878,
+      "dur": 0.434,
+      "center": 27.661,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_023.jpg"
+    },
+    {
+      "idx": 24,
+      "start": 27.878,
+      "end": 28.595,
+      "dur": 0.717,
+      "center": 28.237,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_024.jpg"
+    },
+    {
+      "idx": 25,
+      "start": 28.595,
+      "end": 29.246,
+      "dur": 0.651,
+      "center": 28.921,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_025.jpg"
+    },
+    {
+      "idx": 26,
+      "start": 29.246,
+      "end": 29.98,
+      "dur": 0.734,
+      "center": 29.613,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_026.jpg"
+    },
+    {
+      "idx": 27,
+      "start": 29.98,
+      "end": 31.832,
+      "dur": 1.852,
+      "center": 30.906,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_027.jpg"
+    },
+    {
+      "idx": 28,
+      "start": 31.832,
+      "end": 32.916,
+      "dur": 1.084,
+      "center": 32.374,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_028.jpg"
+    },
+    {
+      "idx": 29,
+      "start": 32.916,
+      "end": 33.433,
+      "dur": 0.517,
+      "center": 33.175,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_029.jpg"
+    },
+    {
+      "idx": 30,
+      "start": 33.433,
+      "end": 34.751,
+      "dur": 1.318,
+      "center": 34.092,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_030.jpg"
+    },
+    {
+      "idx": 31,
+      "start": 34.751,
+      "end": 35.469,
+      "dur": 0.717,
+      "center": 35.11,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_031.jpg"
+    },
+    {
+      "idx": 32,
+      "start": 35.469,
+      "end": 36.32,
+      "dur": 0.851,
+      "center": 35.894,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_032.jpg"
+    },
+    {
+      "idx": 33,
+      "start": 36.32,
+      "end": 37.087,
+      "dur": 0.767,
+      "center": 36.703,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_033.jpg"
+    },
+    {
+      "idx": 34,
+      "start": 37.087,
+      "end": 38.071,
+      "dur": 0.984,
+      "center": 37.579,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_034.jpg"
+    },
+    {
+      "idx": 35,
+      "start": 38.071,
+      "end": 38.989,
+      "dur": 0.918,
+      "center": 38.53,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_035.jpg"
+    },
+    {
+      "idx": 36,
+      "start": 38.989,
+      "end": 39.756,
+      "dur": 0.767,
+      "center": 39.373,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_036.jpg"
+    },
+    {
+      "idx": 37,
+      "start": 39.756,
+      "end": 40.424,
+      "dur": 0.667,
+      "center": 40.09,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_037.jpg"
+    },
+    {
+      "idx": 38,
+      "start": 40.424,
+      "end": 42.192,
+      "dur": 1.768,
+      "center": 41.308,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_038.jpg"
+    },
+    {
+      "idx": 39,
+      "start": 42.192,
+      "end": 43.493,
+      "dur": 1.301,
+      "center": 42.843,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_039.jpg"
+    },
+    {
+      "idx": 40,
+      "start": 43.493,
+      "end": 44.528,
+      "dur": 1.034,
+      "center": 44.011,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_040.jpg"
+    },
+    {
+      "idx": 41,
+      "start": 44.528,
+      "end": 46.563,
+      "dur": 2.035,
+      "center": 45.546,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_041.jpg"
+    },
+    {
+      "idx": 42,
+      "start": 46.563,
+      "end": 47.514,
+      "dur": 0.951,
+      "center": 47.039,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_042.jpg"
+    },
+    {
+      "idx": 43,
+      "start": 47.514,
+      "end": 49.6,
+      "dur": 2.085,
+      "center": 48.557,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_043.jpg"
+    },
+    {
+      "idx": 44,
+      "start": 49.6,
+      "end": 50.567,
+      "dur": 0.968,
+      "center": 50.083,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_044.jpg"
+    },
+    {
+      "idx": 45,
+      "start": 50.567,
+      "end": 51.218,
+      "dur": 0.651,
+      "center": 50.893,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_045.jpg"
+    },
+    {
+      "idx": 46,
+      "start": 51.218,
+      "end": 52.002,
+      "dur": 0.784,
+      "center": 51.61,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_046.jpg"
+    },
+    {
+      "idx": 47,
+      "start": 52.002,
+      "end": 53.086,
+      "dur": 1.084,
+      "center": 52.544,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_047.jpg"
+    },
+    {
+      "idx": 48,
+      "start": 53.086,
+      "end": 55.289,
+      "dur": 2.202,
+      "center": 54.188,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_048.jpg"
+    },
+    {
+      "idx": 49,
+      "start": 55.289,
+      "end": 55.822,
+      "dur": 0.534,
+      "center": 55.556,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_049.jpg"
+    },
+    {
+      "idx": 50,
+      "start": 55.822,
+      "end": 56.44,
+      "dur": 0.617,
+      "center": 56.131,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_050.jpg"
+    },
+    {
+      "idx": 51,
+      "start": 56.44,
+      "end": 57.424,
+      "dur": 0.984,
+      "center": 56.932,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_051.jpg"
+    },
+    {
+      "idx": 52,
+      "start": 57.424,
+      "end": 59.743,
+      "dur": 2.319,
+      "center": 58.584,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_052.jpg"
+    },
+    {
+      "idx": 53,
+      "start": 59.743,
+      "end": 61.695,
+      "dur": 1.952,
+      "center": 60.719,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_053.jpg"
+    },
+    {
+      "idx": 54,
+      "start": 61.695,
+      "end": 62.679,
+      "dur": 0.984,
+      "center": 62.187,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_054.jpg"
+    },
+    {
+      "idx": 55,
+      "start": 62.679,
+      "end": 64.398,
+      "dur": 1.718,
+      "center": 63.539,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_055.jpg"
+    },
+    {
+      "idx": 56,
+      "start": 64.398,
+      "end": 65.716,
+      "dur": 1.318,
+      "center": 65.057,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_056.jpg"
+    },
+    {
+      "idx": 57,
+      "start": 65.716,
+      "end": 66.383,
+      "dur": 0.667,
+      "center": 66.049,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_057.jpg"
+    },
+    {
+      "idx": 58,
+      "start": 66.383,
+      "end": 67.718,
+      "dur": 1.335,
+      "center": 67.05,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_058.jpg"
+    },
+    {
+      "idx": 59,
+      "start": 67.718,
+      "end": 68.986,
+      "dur": 1.268,
+      "center": 68.352,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_059.jpg"
+    },
+    {
+      "idx": 60,
+      "start": 68.986,
+      "end": 70.22,
+      "dur": 1.235,
+      "center": 69.603,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_060.jpg"
+    },
+    {
+      "idx": 61,
+      "start": 70.22,
+      "end": 72.439,
+      "dur": 2.219,
+      "center": 71.33,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_061.jpg"
+    },
+    {
+      "idx": 62,
+      "start": 72.439,
+      "end": 73.74,
+      "dur": 1.301,
+      "center": 73.09,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_062.jpg"
+    },
+    {
+      "idx": 63,
+      "start": 73.74,
+      "end": 74.992,
+      "dur": 1.251,
+      "center": 74.366,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_063.jpg"
+    },
+    {
+      "idx": 64,
+      "start": 74.992,
+      "end": 75.609,
+      "dur": 0.617,
+      "center": 75.3,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_064.jpg"
+    },
+    {
+      "idx": 65,
+      "start": 75.609,
+      "end": 76.96,
+      "dur": 1.351,
+      "center": 76.285,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7685758981750394134/frames/shot_065.jpg"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con occhiali",
+      "description": "Un uomo con occhiali e maglietta bianca sorride e parla, tenendo in mano una grande ciotola di pasta. Dietro di lui, altre persone attendono con piatti vuoti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "telo rosso"
+      ],
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.336,
+      "dur": 2.336
+    },
+    {
+      "idx": 1,
+      "role": "hands_gesture",
+      "subject": "mani che servono cibo",
+      "description": "Una mano serve del cibo da una grande ciotola in un piatto verde tenuto da un uomo. Dietro di lui, un altro uomo e un ragazzo attendono con i loro piatti.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "telo rosso"
+      ],
+      "shot_idx": 1,
+      "start": 2.336,
+      "end": 3.42,
+      "dur": 1.084
+    },
+    {
+      "idx": 2,
+      "role": "person_eating",
+      "subject": "uomo con piatto",
+      "description": "Un uomo con una maglietta a righe blu e rosse tiene un piatto verde con del cibo. Ha un'espressione pensierosa e guarda di lato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "telo rosso"
+      ],
+      "shot_idx": 2,
+      "start": 3.42,
+      "end": 4.037,
+      "dur": 0.617
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo con pane",
+      "description": "Un uomo con occhiali e maglietta bianca tiene in mano due pezzi di pane. Parla e sorride, con uno sfondo di un ambiente rustico.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "bottiglie",
+        "sacchetto"
+      ],
+      "shot_idx": 3,
+      "start": 4.037,
+      "end": 5.739,
+      "dur": 1.702
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "pane tagliato",
+      "description": "Delle mani tagliano una baguette su un tagliere di legno. Il pane è dorato e croccante, con una lama affilata che lo affetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 4,
+      "start": 5.739,
+      "end": 7.257,
+      "dur": 1.518
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con pane",
+      "description": "Un uomo con occhiali tiene in mano un pezzo di legno con due fette di pane tagliate a metà. Sotto c'è una didascalia che dice 'I'M USING A PIECE OF FLOORING FROM MY HOUSE,'.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo",
+        "muro"
+      ],
+      "shot_idx": 5,
+      "start": 7.257,
+      "end": 9.126,
+      "dur": 1.869
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "pane tagliato",
+      "description": "Una mano taglia una baguette a fette su un tagliere di legno. Sotto c'è una didascalia che dice 'LIKE A CUTTING BOARD.'.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 6,
+      "start": 9.126,
+      "end": 9.71,
+      "dur": 0.584
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "pane tagliato",
+      "description": "Una mano taglia una baguette a fette su un tagliere di legno. Il coltello è quasi alla fine del taglio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 7,
+      "start": 9.71,
+      "end": 10.043,
+      "dur": 0.334
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "pane a cubetti",
+      "description": "Una mano tiene dei cubetti di pane. Sullo sfondo si vedono pomodori, aglio e una ciotola rosa. Sotto c'è una didascalia che dice 'I CUBE THE BREAD LIKE THIS.'.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 8,
+      "start": 10.043,
+      "end": 11.512,
+      "dur": 1.468
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "pane a cubetti nella ciotola",
+      "description": "Una mano lascia cadere dei cubetti di pane in una ciotola rosa. Sullo sfondo si vede una baguette intera e una tagliata a fette su un tagliere.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 9,
+      "start": 11.512,
+      "end": 11.912,
+      "dur": 0.4
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "olio versato padella",
+      "description": "Un getto d'olio giallo brillante viene versato in una padella di metallo lucido, formando una pozza sul fondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 10,
+      "start": 11.912,
+      "end": 13.08,
+      "dur": 1.168
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "aglio su tagliere",
+      "description": "Pezzi di aglio sbucciato sono sparsi su un tagliere di legno, con una didascalia che indica l'uso dell'aglio per insaporire il pane.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 11,
+      "start": 13.08,
+      "end": 14.915,
+      "dur": 1.835
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo con occhiali",
+      "description": "Un uomo con occhiali verdi è ripreso in primo piano, con il viso inclinato e un'espressione sorridente. Sullo sfondo si intravedono pezzi di pane su un tagliere.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 12,
+      "start": 14.915,
+      "end": 16.133,
+      "dur": 1.218
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "uomo cucina",
+      "description": "Un uomo sorridente con una maglietta bianca tiene una ciotola rosa con del cibo, mentre si trova di fronte a una padella con olio caldo. La didascalia suggerisce che l'aglio indica che l'olio è pronto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 13,
+      "start": 16.133,
+      "end": 17.267,
+      "dur": 1.134
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "aglio nell'olio",
+      "description": "Pezzi di aglio vengono versati da una mano in una padella contenente olio caldo e bollente. La didascalia indica che l'aglio segnala che l'olio è pronto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 14,
+      "start": 17.267,
+      "end": 18.302,
+      "dur": 1.034
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con melanzane",
+      "description": "Un uomo con occhiali e capelli grigi tiene in mano diverse melanzane scure, guardando direttamente la telecamera. Sullo sfondo si intravedono elementi di legno e un ambiente rustico.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 15,
+      "start": 18.302,
+      "end": 19.953,
+      "dur": 1.652
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "uomo con melanzane",
+      "description": "Un uomo con occhiali e capelli grigi tiene in mano diverse melanzane scure, guardando direttamente la telecamera. Sullo sfondo si intravedono elementi di legno e un ambiente rustico.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 16,
+      "start": 19.953,
+      "end": 20.754,
+      "dur": 0.801
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "pane in padella",
+      "description": "Pezzi di pane tagliati a cubetti vengono saltati in una padella con olio o burro. Si vede un cucchiaio che mescola il contenuto.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 17,
+      "start": 20.754,
+      "end": 21.405,
+      "dur": 0.651
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "pane in padella",
+      "description": "Pezzi di pane tagliati a cubetti vengono saltati in una padella. Si vede una mano che indica il bordo della padella.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 18,
+      "start": 21.405,
+      "end": 23.924,
+      "dur": 2.519
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "melanzane tagliate",
+      "description": "Una mano taglia sottilmente delle melanzane verdi a fette su un tagliere di legno. Le fette sono già accumulate sul tagliere.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 19,
+      "start": 23.924,
+      "end": 25.609,
+      "dur": 1.685
+    },
+    {
+      "idx": 0,
+      "role": "other",
+      "subject": "bambini camminano strada",
+      "description": "Due bambini, una bambina in bikini e un bambino in pantaloncini, camminano su una strada asfaltata sotto il sole. Il bambino ha la bocca aperta come se stesse parlando.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 20,
+      "start": 25.609,
+      "end": 25.976,
+      "dur": 0.367
+    },
+    {
+      "idx": 1,
+      "role": "other",
+      "subject": "bambini strada quad",
+      "description": "Due bambini camminano su una strada asfaltata, con un quad parcheggiato sul lato destro. Sullo sfondo si vedono edifici in costruzione e vegetazione.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tetto",
+        "strada",
+        "edificio in costruzione"
+      ],
+      "shot_idx": 21,
+      "start": 25.976,
+      "end": 26.727,
+      "dur": 0.751
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "mani tagliano melanzane",
+      "description": "Delle mani stanno tagliando delle melanzane a rondelle su un tagliere di legno. Le melanzane sono di colore viola scuro e verde chiaro all'interno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 22,
+      "start": 26.727,
+      "end": 27.444,
+      "dur": 0.717
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "mani preparano ingredienti",
+      "description": "Delle mani stanno mettendo delle rondelle di melanzane e altri ingredienti in una ciotola rosa. Sullo sfondo si vedono due pacchi di pasta Liguori e un grattugia.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 23,
+      "start": 27.444,
+      "end": 27.878,
+      "dur": 0.434
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "pane fritto scolato",
+      "description": "Un mestolo forato sta scolando dei pezzi di pane fritto da una padella, per poi metterli in un piatto bianco decorato con fiori blu.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 24,
+      "start": 27.878,
+      "end": 28.595,
+      "dur": 0.717
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "patate fritte",
+      "description": "Un cucchiaio a rete sta sollevando delle patate fritte da una padella piena d'olio. Le patate sono dorate e croccanti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 25,
+      "start": 28.595,
+      "end": 29.246,
+      "dur": 0.651
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "patate fritte",
+      "description": "Una mano sta versando delle patate fritte da un cucchiaio a rete in un piatto. Le patate sono dorate e sembrano appena fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 26,
+      "start": 29.246,
+      "end": 29.98,
+      "dur": 0.734
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "peperoncini in padella",
+      "description": "Un uomo sta versando dei peperoncini rossi interi in una padella con dell'olio caldo. La padella è su un fornello all'aperto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo",
+        "tetto",
+        "bottiglie d'acqua"
+      ],
+      "shot_idx": 27,
+      "start": 29.98,
+      "end": 31.832,
+      "dur": 1.852
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con gli occhiali sta parlando mentre cucina. Dietro di lui si vedono delle bottiglie d'acqua e un tetto rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo",
+        "tetto",
+        "bottiglie d'acqua"
+      ],
+      "shot_idx": 28,
+      "start": 31.832,
+      "end": 32.916,
+      "dur": 1.084
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "uomo che cucina",
+      "description": "Un uomo sta cucinando all'aperto, con una padella sul fornello. Dietro di lui si vedono delle bottiglie d'acqua e un tetto rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo",
+        "tetto",
+        "bottiglie d'acqua"
+      ],
+      "shot_idx": 29,
+      "start": 32.916,
+      "end": 33.433,
+      "dur": 0.517
+    },
+    {
+      "idx": 0,
+      "role": "food_plated",
+      "subject": "peperoncini fritti",
+      "description": "Un setaccio metallico sta versando peperoncini rossi lunghi e fritti su un piatto di patate fritte e altri ingredienti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 30,
+      "start": 33.433,
+      "end": 34.751,
+      "dur": 1.318
+    },
+    {
+      "idx": 1,
+      "role": "food_plated",
+      "subject": "peperoncini nel setaccio",
+      "description": "Una persona sta sollevando un setaccio metallico pieno di peperoncini rossi da un piatto di cibo fritto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 31,
+      "start": 34.751,
+      "end": 35.469,
+      "dur": 0.717
+    },
+    {
+      "idx": 2,
+      "role": "hands_gesture",
+      "subject": "taglio scalogno",
+      "description": "Due mani stanno tagliando uno scalogno viola a fettine sottili con un piccolo coltello sopra una ciotola con olio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 32,
+      "start": 35.469,
+      "end": 36.32,
+      "dur": 0.851
+    },
+    {
+      "idx": 3,
+      "role": "hands_gesture",
+      "subject": "taglio scalogno",
+      "description": "Due mani stanno continuando a tagliare uno scalogno viola a fettine sottili con un piccolo coltello sopra una ciotola con olio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 33,
+      "start": 36.32,
+      "end": 37.087,
+      "dur": 0.767
+    },
+    {
+      "idx": 4,
+      "role": "hands_gesture",
+      "subject": "taglio aglio",
+      "description": "Due mani stanno tagliando uno spicchio d'aglio con un piccolo coltello sopra una ciotola con olio e scalogno tritato.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 34,
+      "start": 37.087,
+      "end": 38.071,
+      "dur": 0.984
+    },
+    {
+      "idx": 0,
+      "role": "food_closeup",
+      "subject": "melanzane in padella",
+      "description": "Una persona sta aggiungendo melanzane tagliate a rondelle in una padella contenente cipolle e aglio soffritti in olio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 35,
+      "start": 38.071,
+      "end": 38.989,
+      "dur": 0.918
+    },
+    {
+      "idx": 1,
+      "role": "food_closeup",
+      "subject": "melanzane in padella",
+      "description": "Altre melanzane vengono aggiunte nella padella, dove si stanno già cuocendo con cipolle e aglio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 36,
+      "start": 38.989,
+      "end": 39.756,
+      "dur": 0.767
+    },
+    {
+      "idx": 2,
+      "role": "food_closeup",
+      "subject": "melanzane in padella",
+      "description": "Le melanzane, le cipolle e l'aglio vengono mescolati in una grande padella, mentre cuociono nell'olio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 37,
+      "start": 39.756,
+      "end": 40.424,
+      "dur": 0.667
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo con pasta",
+      "description": "Un uomo sorridente con occhiali tiene in mano una confezione di pasta, guardando verso la telecamera.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 38,
+      "start": 40.424,
+      "end": 42.192,
+      "dur": 1.768
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "fusilli in mano",
+      "description": "Una persona tiene in mano dei fusilli, mostrandoli da vicino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 39,
+      "start": 42.192,
+      "end": 43.493,
+      "dur": 1.301
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta bianca parla, con la bocca leggermente aperta e uno sguardo diretto verso la telecamera.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 40,
+      "start": 43.493,
+      "end": 44.528,
+      "dur": 1.034
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "pasta fusilli",
+      "description": "Una mano tiene della pasta fusilli, mentre sullo sfondo si intravede un sacchetto di pasta e un piatto con del cibo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 41,
+      "start": 44.528,
+      "end": 46.563,
+      "dur": 2.035
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "uomo versa pasta",
+      "description": "Un uomo versa della pasta da un sacchetto in una pentola, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "pentola"
+      ],
+      "shot_idx": 42,
+      "start": 46.563,
+      "end": 47.514,
+      "dur": 0.951
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta bianca parla, con la bocca leggermente aperta e uno sguardo diretto verso la telecamera, tenendo in mano un sacchetto di pasta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 43,
+      "start": 47.514,
+      "end": 49.6,
+      "dur": 2.085
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "pomodoro tagliato",
+      "description": "Una mano taglia un pomodoro rosso su un tagliere di legno, con altri pezzi di pomodoro già tagliati sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 44,
+      "start": 49.6,
+      "end": 50.567,
+      "dur": 0.968
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "pomodori tagliati",
+      "description": "Un primo piano mostra delle mani che tagliano pomodori a pezzi su un tagliere di legno. I pomodori sono di un rosso vivo e sono già stati tagliati in diverse forme.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 45,
+      "start": 50.567,
+      "end": 51.218,
+      "dur": 0.651
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "mani che tagliano pomodori",
+      "description": "Un primo piano ravvicinato mostra le mani di una persona che tagliano un pomodoro rosso su un tagliere di legno. La lama del coltello è visibile mentre affetta il pomodoro.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 46,
+      "start": 51.218,
+      "end": 52.002,
+      "dur": 0.784
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "peperoncino tagliato",
+      "description": "Una persona sta tagliando dei peperoncini rossi su un tagliere di legno. Accanto ai peperoncini c'è un panno bianco.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 47,
+      "start": 52.002,
+      "end": 53.086,
+      "dur": 1.084
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "peperoncino tritato",
+      "description": "Un primo piano mostra peperoncini rossi tritati finemente su un tagliere di legno. La lama del coltello è ancora visibile in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 48,
+      "start": 53.086,
+      "end": 55.289,
+      "dur": 2.202
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "aggiunta peperoncino in padella",
+      "description": "Una mano sta aggiungendo peperoncini rossi tritati in una padella contenente altri ingredienti. Un mestolo è appoggiato sul bordo della padella.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 49,
+      "start": 55.289,
+      "end": 55.822,
+      "dur": 0.534
+    },
+    {
+      "idx": 0,
+      "role": "person_eating",
+      "subject": "uomo assaggia cibo",
+      "description": "Un uomo anziano con i capelli grigi e occhiali verdi assaggia un piccolo pezzo di cibo rosso che tiene tra le dita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 50,
+      "start": 55.822,
+      "end": 56.44,
+      "dur": 0.617
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "uomo guarda in camera",
+      "description": "Un uomo anziano con i capelli grigi e occhiali verdi guarda in camera con un'espressione interrogativa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 51,
+      "start": 56.44,
+      "end": 57.424,
+      "dur": 0.984
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo sorride in camera",
+      "description": "Un uomo anziano con i capelli grigi e occhiali verdi sorride in camera con un'espressione divertita, con la scritta 'DAMN IT'S SPICY!' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 52,
+      "start": 57.424,
+      "end": 59.743,
+      "dur": 2.319
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "uomo cucina in padella",
+      "description": "Un uomo in maglietta bianca sta cucinando in una grande padella wok su un fornello portatile, con la scritta 'I'LL REMOVE SOME OF THE EXTRA OIL.' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "fornello"
+      ],
+      "shot_idx": 53,
+      "start": 59.743,
+      "end": 61.695,
+      "dur": 1.952
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "pasta in padella",
+      "description": "Una grande padella wok contiene pasta a spirale e altri ingredienti, con la scritta 'NICE AND AL DENTE' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "fornello"
+      ],
+      "shot_idx": 54,
+      "start": 61.695,
+      "end": 62.679,
+      "dur": 0.984
+    },
+    {
+      "idx": 0,
+      "role": "food_closeup",
+      "subject": "fusilli e condimento",
+      "description": "Un primo piano di fusilli mescolati con un condimento scuro, probabilmente olive o verdure, in una grande ciotola metallica.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 55,
+      "start": 62.679,
+      "end": 64.398,
+      "dur": 1.718
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "pomodori sui fusilli",
+      "description": "Una mano sta aggiungendo pomodori a cubetti sopra i fusilli e il condimento in una ciotola metallica.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 56,
+      "start": 64.398,
+      "end": 65.716,
+      "dur": 1.318
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "sale sui fusilli",
+      "description": "Una mano sta spargendo sale sui fusilli con pomodori e condimento in una grande ciotola metallica, con una pentola sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "pentola"
+      ],
+      "shot_idx": 57,
+      "start": 65.716,
+      "end": 66.383,
+      "dur": 0.667
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo con olio",
+      "description": "Un uomo con occhiali e maglietta bianca tiene in mano una lattina di olio, guardando verso il basso, con la ciotola di pasta in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "pentola"
+      ],
+      "shot_idx": 58,
+      "start": 66.383,
+      "end": 67.718,
+      "dur": 1.335
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "olio sui fusilli",
+      "description": "Una mano sta versando olio da una lattina sui fusilli con pomodori e sale in una grande ciotola metallica.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "pentola"
+      ],
+      "shot_idx": 59,
+      "start": 67.718,
+      "end": 68.986,
+      "dur": 1.268
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con ciotola",
+      "description": "Un uomo con occhiali e maglietta bianca tiene in mano una grande ciotola di metallo, guardando verso il basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tetto",
+        "travi in legno",
+        "muro"
+      ],
+      "shot_idx": 60,
+      "start": 68.986,
+      "end": 70.22,
+      "dur": 1.235
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "uomo mescola cibo",
+      "description": "L'uomo con gli occhiali e la maglietta bianca sta mescolando il contenuto di una grande ciotola di metallo, sorridendo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tetto",
+        "travi in legno",
+        "muro"
+      ],
+      "shot_idx": 61,
+      "start": 70.22,
+      "end": 72.439,
+      "dur": 2.219
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "aggiunta crostini pasta",
+      "description": "Una mano sta aggiungendo dei crostini di pane a una ciotola piena di pasta, pomodori e altri ingredienti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 62,
+      "start": 72.439,
+      "end": 73.74,
+      "dur": 1.301
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo con pasta",
+      "description": "L'uomo con gli occhiali e la maglietta bianca tiene una ciotola di crostini e indica una grande ciotola di pasta, parlando alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "bottiglie",
+        "scatola di pasta"
+      ],
+      "shot_idx": 63,
+      "start": 73.74,
+      "end": 74.992,
+      "dur": 1.251
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "uomo assaggia pasta",
+      "description": "L'uomo con gli occhiali e la maglietta bianca si china verso la ciotola di pasta, con un'espressione sorpresa e un dito vicino alla bocca, come se stesse per assaggiare.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "bottiglie"
+      ],
+      "shot_idx": 64,
+      "start": 74.992,
+      "end": 75.609,
+      "dur": 0.617
+    },
+    {
+      "idx": 0,
+      "role": "food_closeup",
+      "subject": "peperoncini rossi pasta",
+      "description": "Due mani aggiungono peperoncini rossi interi a un piatto di pasta con crostini e altri ingredienti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 65,
+      "start": 75.609,
+      "end": 76.96,
+      "dur": 1.351
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "oggi facciamo agli ragazzi che lavano per noi alle case"
+    },
+    {
+      "start": 3.2,
+      "end": 3.64,
+      "text": "oooooh"
+    },
+    {
+      "start": 3.64,
+      "end": 5.78,
+      "text": "recuperiamo il pane vecchio ma siamo o fannoi"
+    },
+    {
+      "start": 5.78,
+      "end": 6.6,
+      "text": "tagliamo a fettine"
+    },
+    {
+      "start": 6.6,
+      "end": 7.04,
+      "text": "così"
+    },
+    {
+      "start": 7.04,
+      "end": 9.14,
+      "text": "stiamo usando un pezzo del parchette di casa mia"
+    },
+    {
+      "start": 9.14,
+      "end": 9.94,
+      "text": "come tagliere"
+    },
+    {
+      "start": 9.94,
+      "end": 11.56,
+      "text": "lo faccio a pezzettini così il pane"
+    },
+    {
+      "start": 12.86,
+      "end": 14.92,
+      "text": "due spicchietti d'aglio che profumo del pane"
+    },
+    {
+      "start": 14.92,
+      "end": 16.02,
+      "text": "che idea che te sto da'"
+    },
+    {
+      "start": 16.12,
+      "end": 18.12,
+      "text": "l'aglio che si avvisà l'olio è pronto"
+    },
+    {
+      "start": 18.12,
+      "end": 19.86,
+      "text": "me sto a lanciare con quello che ho trovato"
+    },
+    {
+      "start": 19.86,
+      "end": 21.2,
+      "text": "melanzane locali"
+    },
+    {
+      "start": 21.2,
+      "end": 23.9,
+      "text": "questa ho appena comprado 125 mila rubie"
+    },
+    {
+      "start": 23.9,
+      "end": 25.48,
+      "text": "melanzane sottili sottili"
+    },
+    {
+      "start": 26.22,
+      "end": 26.66,
+      "text": "marioccio"
+    },
+    {
+      "start": 27.16,
+      "end": 27.6,
+      "text": "tià"
+    },
+    {
+      "start": 27.6,
+      "end": 28.52,
+      "text": "pane fritto"
+    },
+    {
+      "start": 28.52,
+      "end": 29.88,
+      "text": "questo già è buono da solo"
+    },
+    {
+      "start": 29.88,
+      "end": 31.86,
+      "text": "buttiamo i peroncini interi"
+    },
+    {
+      "start": 31.86,
+      "end": 32.98,
+      "text": "fritto è tutto più buono"
+    },
+    {
+      "start": 32.98,
+      "end": 33.54,
+      "text": "aiuto che"
+    },
+    {
+      "start": 33.54,
+      "end": 34.68,
+      "text": "lo hai spettacolo"
+    },
+    {
+      "start": 34.68,
+      "end": 35.4,
+      "text": "escelli"
+    },
+    {
+      "start": 35.4,
+      "end": 36.2,
+      "text": "scalogno"
+    },
+    {
+      "start": 36.2,
+      "end": 37.08,
+      "text": "stammano eh"
+    },
+    {
+      "start": 37.08,
+      "end": 37.56,
+      "text": "aglio"
+    },
+    {
+      "start": 38.22,
+      "end": 38.82,
+      "text": "melanzane"
+    },
+    {
+      "start": 38.82,
+      "end": 39.66,
+      "text": "che fia"
+    },
+    {
+      "start": 40.4,
+      "end": 42.22,
+      "text": "tutto locare in questi sedali a livello"
+    },
+    {
+      "start": 42.22,
+      "end": 43.38,
+      "text": "adesso belli sti pusilli"
+    },
+    {
+      "start": 43.38,
+      "end": 44.6,
+      "text": "la linea speciali del iguori"
+    },
+    {
+      "start": 44.6,
+      "end": 46.66,
+      "text": "questi sono essiccati lentamente"
+    },
+    {
+      "start": 47.4,
+      "end": 49.46,
+      "text": "9 ore a bassa temperatura"
+    },
+    {
+      "start": 49.46,
+      "end": 51.28,
+      "text": "un po' di pomodoro vedai che colore"
+    },
+    {
+      "start": 51.28,
+      "end": 51.82,
+      "text": "e qui qua"
+    },
+    {
+      "start": 51.82,
+      "end": 53.1,
+      "text": "un po' di peperoncino"
+    },
+    {
+      "start": 53.1,
+      "end": 55.3,
+      "text": "allora che piaccia è tanta e piccante"
+    },
+    {
+      "start": 58.04,
+      "end": 58.82,
+      "text": "messica quanto"
+    },
+    {
+      "start": 58.82,
+      "end": 61.54,
+      "text": "messica tolgo un po' di accesso"
+    },
+    {
+      "start": 61.54,
+      "end": 62.66,
+      "text": "bella al dente"
+    },
+    {
+      "start": 62.66,
+      "end": 63.38,
+      "text": "guarda che sono belli"
+    },
+    {
+      "start": 63.38,
+      "end": 64.3,
+      "text": "il tipo di il lonio"
+    },
+    {
+      "start": 64.3,
+      "end": 65.3,
+      "text": "adesso un po' acruto"
+    },
+    {
+      "start": 65.3,
+      "end": 66.06,
+      "text": "vedete sale"
+    },
+    {
+      "start": 66.06,
+      "end": 67.58,
+      "text": "poi ci metto un uoio buono però"
+    },
+    {
+      "start": 68.84,
+      "end": 70.08,
+      "text": "ma se è bello"
+    },
+    {
+      "start": 70.08,
+      "end": 71.06,
+      "text": "e sound of love"
+    },
+    {
+      "start": 71.06,
+      "end": 71.88,
+      "text": "metawire"
+    },
+    {
+      "start": 71.88,
+      "end": 73.6,
+      "text": "ragazzi pane croccante"
+    },
+    {
+      "start": 73.6,
+      "end": 74.9,
+      "text": "semplice per semplice"
+    },
+    {
+      "start": 74.9,
+      "end": 75.78,
+      "text": "ma buono"
+    },
+    {
+      "start": 75.78,
+      "end": 76.66,
+      "text": "guarda che piatto"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "oggi"
+    },
+    {
+      "start": 0.22,
+      "end": 0.52,
+      "word": "facciamo"
+    },
+    {
+      "start": 0.52,
+      "end": 0.72,
+      "word": "agli"
+    },
+    {
+      "start": 0.72,
+      "end": 1.18,
+      "word": "ragazzi"
+    },
+    {
+      "start": 1.18,
+      "end": 1.32,
+      "word": "che"
+    },
+    {
+      "start": 1.32,
+      "end": 1.52,
+      "word": "lavano"
+    },
+    {
+      "start": 1.52,
+      "end": 1.76,
+      "word": "per"
+    },
+    {
+      "start": 1.76,
+      "end": 1.84,
+      "word": "noi"
+    },
+    {
+      "start": 1.84,
+      "end": 2.02,
+      "word": "alle"
+    },
+    {
+      "start": 2.02,
+      "end": 2.36,
+      "word": "case"
+    },
+    {
+      "start": 3.2,
+      "end": 3.64,
+      "word": "oooooh"
+    },
+    {
+      "start": 3.64,
+      "end": 4.44,
+      "word": "recuperiamo"
+    },
+    {
+      "start": 4.44,
+      "end": 4.6,
+      "word": "il"
+    },
+    {
+      "start": 4.6,
+      "end": 4.7,
+      "word": "pane"
+    },
+    {
+      "start": 4.7,
+      "end": 5.02,
+      "word": "vecchio"
+    },
+    {
+      "start": 5.02,
+      "end": 5.14,
+      "word": "ma"
+    },
+    {
+      "start": 5.14,
+      "end": 5.28,
+      "word": "siamo"
+    },
+    {
+      "start": 5.28,
+      "end": 5.42,
+      "word": "o"
+    },
+    {
+      "start": 5.42,
+      "end": 5.78,
+      "word": "fannoi"
+    },
+    {
+      "start": 5.78,
+      "end": 6.02,
+      "word": "tagliamo"
+    },
+    {
+      "start": 6.02,
+      "end": 6.24,
+      "word": "a"
+    },
+    {
+      "start": 6.24,
+      "end": 6.6,
+      "word": "fettine"
+    },
+    {
+      "start": 6.6,
+      "end": 7.04,
+      "word": "così"
+    },
+    {
+      "start": 7.04,
+      "end": 7.52,
+      "word": "stiamo"
+    },
+    {
+      "start": 7.52,
+      "end": 7.68,
+      "word": "usando"
+    },
+    {
+      "start": 7.68,
+      "end": 7.9,
+      "word": "un"
+    },
+    {
+      "start": 7.9,
+      "end": 8.12,
+      "word": "pezzo"
+    },
+    {
+      "start": 8.12,
+      "end": 8.26,
+      "word": "del"
+    },
+    {
+      "start": 8.26,
+      "end": 8.64,
+      "word": "parchette"
+    },
+    {
+      "start": 8.64,
+      "end": 8.76,
+      "word": "di"
+    },
+    {
+      "start": 8.76,
+      "end": 8.88,
+      "word": "casa"
+    },
+    {
+      "start": 8.88,
+      "end": 9.14,
+      "word": "mia"
+    },
+    {
+      "start": 9.14,
+      "end": 9.38,
+      "word": "come"
+    },
+    {
+      "start": 9.38,
+      "end": 9.94,
+      "word": "tagliere"
+    },
+    {
+      "start": 9.94,
+      "end": 10.08,
+      "word": "lo"
+    },
+    {
+      "start": 10.08,
+      "end": 10.38,
+      "word": "faccio"
+    },
+    {
+      "start": 10.38,
+      "end": 10.48,
+      "word": "a"
+    },
+    {
+      "start": 10.48,
+      "end": 10.96,
+      "word": "pezzettini"
+    },
+    {
+      "start": 10.96,
+      "end": 11.2,
+      "word": "così"
+    },
+    {
+      "start": 11.2,
+      "end": 11.44,
+      "word": "il"
+    },
+    {
+      "start": 11.44,
+      "end": 11.56,
+      "word": "pane"
+    },
+    {
+      "start": 12.86,
+      "end": 13.3,
+      "word": "due"
+    },
+    {
+      "start": 13.3,
+      "end": 13.74,
+      "word": "spicchietti"
+    },
+    {
+      "start": 13.74,
+      "end": 13.92,
+      "word": "d"
+    },
+    {
+      "start": 13.92,
+      "end": 14.04,
+      "word": "'aglio"
+    },
+    {
+      "start": 14.04,
+      "end": 14.16,
+      "word": "che"
+    },
+    {
+      "start": 14.16,
+      "end": 14.46,
+      "word": "profumo"
+    },
+    {
+      "start": 14.46,
+      "end": 14.62,
+      "word": "del"
+    },
+    {
+      "start": 14.62,
+      "end": 14.92,
+      "word": "pane"
+    },
+    {
+      "start": 14.92,
+      "end": 15.12,
+      "word": "che"
+    },
+    {
+      "start": 15.12,
+      "end": 15.28,
+      "word": "idea"
+    },
+    {
+      "start": 15.28,
+      "end": 15.42,
+      "word": "che"
+    },
+    {
+      "start": 15.42,
+      "end": 15.56,
+      "word": "te"
+    },
+    {
+      "start": 15.56,
+      "end": 15.76,
+      "word": "sto"
+    },
+    {
+      "start": 15.76,
+      "end": 16.02,
+      "word": "da'"
+    },
+    {
+      "start": 16.12,
+      "end": 16.28,
+      "word": "l"
+    },
+    {
+      "start": 16.28,
+      "end": 16.48,
+      "word": "'aglio"
+    },
+    {
+      "start": 16.48,
+      "end": 16.64,
+      "word": "che"
+    },
+    {
+      "start": 16.64,
+      "end": 16.76,
+      "word": "si"
+    },
+    {
+      "start": 16.76,
+      "end": 17.24,
+      "word": "avvisà"
+    },
+    {
+      "start": 17.24,
+      "end": 17.46,
+      "word": "l"
+    },
+    {
+      "start": 17.46,
+      "end": 17.58,
+      "word": "'olio"
+    },
+    {
+      "start": 17.58,
+      "end": 17.7,
+      "word": "è"
+    },
+    {
+      "start": 17.7,
+      "end": 18.12,
+      "word": "pronto"
+    },
+    {
+      "start": 18.12,
+      "end": 18.54,
+      "word": "me"
+    },
+    {
+      "start": 18.54,
+      "end": 18.7,
+      "word": "sto"
+    },
+    {
+      "start": 18.7,
+      "end": 18.76,
+      "word": "a"
+    },
+    {
+      "start": 18.76,
+      "end": 18.96,
+      "word": "lanciare"
+    },
+    {
+      "start": 18.96,
+      "end": 19.08,
+      "word": "con"
+    },
+    {
+      "start": 19.08,
+      "end": 19.26,
+      "word": "quello"
+    },
+    {
+      "start": 19.26,
+      "end": 19.4,
+      "word": "che"
+    },
+    {
+      "start": 19.4,
+      "end": 19.44,
+      "word": "ho"
+    },
+    {
+      "start": 19.44,
+      "end": 19.86,
+      "word": "trovato"
+    },
+    {
+      "start": 19.86,
+      "end": 20.28,
+      "word": "melanzane"
+    },
+    {
+      "start": 20.28,
+      "end": 21.2,
+      "word": "locali"
+    },
+    {
+      "start": 21.2,
+      "end": 21.58,
+      "word": "questa"
+    },
+    {
+      "start": 21.58,
+      "end": 21.7,
+      "word": "ho"
+    },
+    {
+      "start": 21.7,
+      "end": 21.88,
+      "word": "appena"
+    },
+    {
+      "start": 21.88,
+      "end": 22.28,
+      "word": "comprado"
+    },
+    {
+      "start": 22.28,
+      "end": 22.7,
+      "word": "125"
+    },
+    {
+      "start": 22.7,
+      "end": 23.5,
+      "word": "mila"
+    },
+    {
+      "start": 23.5,
+      "end": 23.9,
+      "word": "rubie"
+    },
+    {
+      "start": 23.9,
+      "end": 24.66,
+      "word": "melanzane"
+    },
+    {
+      "start": 24.66,
+      "end": 25.0,
+      "word": "sottili"
+    },
+    {
+      "start": 25.0,
+      "end": 25.48,
+      "word": "sottili"
+    },
+    {
+      "start": 26.22,
+      "end": 26.66,
+      "word": "marioccio"
+    },
+    {
+      "start": 27.16,
+      "end": 27.6,
+      "word": "tià"
+    },
+    {
+      "start": 27.6,
+      "end": 28.08,
+      "word": "pane"
+    },
+    {
+      "start": 28.08,
+      "end": 28.52,
+      "word": "fritto"
+    },
+    {
+      "start": 28.52,
+      "end": 28.88,
+      "word": "questo"
+    },
+    {
+      "start": 28.88,
+      "end": 29.14,
+      "word": "già"
+    },
+    {
+      "start": 29.14,
+      "end": 29.28,
+      "word": "è"
+    },
+    {
+      "start": 29.28,
+      "end": 29.44,
+      "word": "buono"
+    },
+    {
+      "start": 29.44,
+      "end": 29.58,
+      "word": "da"
+    },
+    {
+      "start": 29.58,
+      "end": 29.88,
+      "word": "solo"
+    },
+    {
+      "start": 29.88,
+      "end": 30.32,
+      "word": "buttiamo"
+    },
+    {
+      "start": 30.32,
+      "end": 30.44,
+      "word": "i"
+    },
+    {
+      "start": 30.44,
+      "end": 30.96,
+      "word": "peroncini"
+    },
+    {
+      "start": 30.96,
+      "end": 31.86,
+      "word": "interi"
+    },
+    {
+      "start": 31.86,
+      "end": 32.08,
+      "word": "fritto"
+    },
+    {
+      "start": 32.08,
+      "end": 32.18,
+      "word": "è"
+    },
+    {
+      "start": 32.18,
+      "end": 32.36,
+      "word": "tutto"
+    },
+    {
+      "start": 32.36,
+      "end": 32.62,
+      "word": "più"
+    },
+    {
+      "start": 32.62,
+      "end": 32.98,
+      "word": "buono"
+    },
+    {
+      "start": 32.98,
+      "end": 33.3,
+      "word": "aiuto"
+    },
+    {
+      "start": 33.3,
+      "end": 33.54,
+      "word": "che"
+    },
+    {
+      "start": 33.54,
+      "end": 34.02,
+      "word": "lo"
+    },
+    {
+      "start": 34.02,
+      "end": 34.1,
+      "word": "hai"
+    },
+    {
+      "start": 34.1,
+      "end": 34.68,
+      "word": "spettacolo"
+    },
+    {
+      "start": 34.68,
+      "end": 35.4,
+      "word": "escelli"
+    },
+    {
+      "start": 35.4,
+      "end": 36.2,
+      "word": "scalogno"
+    },
+    {
+      "start": 36.2,
+      "end": 36.78,
+      "word": "stammano"
+    },
+    {
+      "start": 36.78,
+      "end": 37.08,
+      "word": "eh"
+    },
+    {
+      "start": 37.08,
+      "end": 37.56,
+      "word": "aglio"
+    },
+    {
+      "start": 38.22,
+      "end": 38.82,
+      "word": "melanzane"
+    },
+    {
+      "start": 38.82,
+      "end": 39.04,
+      "word": "che"
+    },
+    {
+      "start": 39.04,
+      "end": 39.66,
+      "word": "fia"
+    },
+    {
+      "start": 40.4,
+      "end": 40.78,
+      "word": "tutto"
+    },
+    {
+      "start": 40.78,
+      "end": 41.16,
+      "word": "locare"
+    },
+    {
+      "start": 41.16,
+      "end": 41.28,
+      "word": "in"
+    },
+    {
+      "start": 41.28,
+      "end": 41.44,
+      "word": "questi"
+    },
+    {
+      "start": 41.44,
+      "end": 41.8,
+      "word": "sedali"
+    },
+    {
+      "start": 41.8,
+      "end": 41.82,
+      "word": "a"
+    },
+    {
+      "start": 41.82,
+      "end": 42.22,
+      "word": "livello"
+    },
+    {
+      "start": 42.22,
+      "end": 42.46,
+      "word": "adesso"
+    },
+    {
+      "start": 42.46,
+      "end": 42.7,
+      "word": "belli"
+    },
+    {
+      "start": 42.7,
+      "end": 42.96,
+      "word": "sti"
+    },
+    {
+      "start": 42.96,
+      "end": 43.38,
+      "word": "pusilli"
+    },
+    {
+      "start": 43.38,
+      "end": 43.58,
+      "word": "la"
+    },
+    {
+      "start": 43.58,
+      "end": 43.86,
+      "word": "linea"
+    },
+    {
+      "start": 43.86,
+      "end": 44.22,
+      "word": "speciali"
+    },
+    {
+      "start": 44.22,
+      "end": 44.34,
+      "word": "del"
+    },
+    {
+      "start": 44.34,
+      "end": 44.6,
+      "word": "iguori"
+    },
+    {
+      "start": 44.6,
+      "end": 44.8,
+      "word": "questi"
+    },
+    {
+      "start": 44.8,
+      "end": 45.02,
+      "word": "sono"
+    },
+    {
+      "start": 45.02,
+      "end": 45.68,
+      "word": "essiccati"
+    },
+    {
+      "start": 45.68,
+      "end": 46.66,
+      "word": "lentamente"
+    },
+    {
+      "start": 47.4,
+      "end": 47.76,
+      "word": "9"
+    },
+    {
+      "start": 47.76,
+      "end": 48.22,
+      "word": "ore"
+    },
+    {
+      "start": 48.22,
+      "end": 48.58,
+      "word": "a"
+    },
+    {
+      "start": 48.58,
+      "end": 48.94,
+      "word": "bassa"
+    },
+    {
+      "start": 48.94,
+      "end": 49.46,
+      "word": "temperatura"
+    },
+    {
+      "start": 49.46,
+      "end": 50.08,
+      "word": "un"
+    },
+    {
+      "start": 50.08,
+      "end": 50.08,
+      "word": "po'"
+    },
+    {
+      "start": 50.08,
+      "end": 50.16,
+      "word": "di"
+    },
+    {
+      "start": 50.16,
+      "end": 50.56,
+      "word": "pomodoro"
+    },
+    {
+      "start": 50.56,
+      "end": 50.82,
+      "word": "vedai"
+    },
+    {
+      "start": 50.82,
+      "end": 50.92,
+      "word": "che"
+    },
+    {
+      "start": 50.92,
+      "end": 51.28,
+      "word": "colore"
+    },
+    {
+      "start": 51.28,
+      "end": 51.34,
+      "word": "e"
+    },
+    {
+      "start": 51.34,
+      "end": 51.44,
+      "word": "qui"
+    },
+    {
+      "start": 51.44,
+      "end": 51.82,
+      "word": "qua"
+    },
+    {
+      "start": 51.82,
+      "end": 52.2,
+      "word": "un"
+    },
+    {
+      "start": 52.2,
+      "end": 52.34,
+      "word": "po'"
+    },
+    {
+      "start": 52.44,
+      "end": 52.44,
+      "word": "di"
+    },
+    {
+      "start": 52.44,
+      "end": 53.1,
+      "word": "peperoncino"
+    },
+    {
+      "start": 53.1,
+      "end": 53.5,
+      "word": "allora"
+    },
+    {
+      "start": 53.5,
+      "end": 53.76,
+      "word": "che"
+    },
+    {
+      "start": 53.76,
+      "end": 54.06,
+      "word": "piaccia"
+    },
+    {
+      "start": 54.06,
+      "end": 54.36,
+      "word": "è"
+    },
+    {
+      "start": 54.36,
+      "end": 54.38,
+      "word": "tanta"
+    },
+    {
+      "start": 54.38,
+      "end": 54.56,
+      "word": "e"
+    },
+    {
+      "start": 54.56,
+      "end": 55.3,
+      "word": "piccante"
+    },
+    {
+      "start": 58.04,
+      "end": 58.54,
+      "word": "messica"
+    },
+    {
+      "start": 58.54,
+      "end": 58.82,
+      "word": "quanto"
+    },
+    {
+      "start": 58.82,
+      "end": 59.64,
+      "word": "messica"
+    },
+    {
+      "start": 59.64,
+      "end": 60.08,
+      "word": "tolgo"
+    },
+    {
+      "start": 60.08,
+      "end": 60.18,
+      "word": "un"
+    },
+    {
+      "start": 60.18,
+      "end": 60.28,
+      "word": "po'"
+    },
+    {
+      "start": 60.34,
+      "end": 60.36,
+      "word": "di"
+    },
+    {
+      "start": 60.36,
+      "end": 61.54,
+      "word": "accesso"
+    },
+    {
+      "start": 61.54,
+      "end": 62.12,
+      "word": "bella"
+    },
+    {
+      "start": 62.12,
+      "end": 62.3,
+      "word": "al"
+    },
+    {
+      "start": 62.3,
+      "end": 62.66,
+      "word": "dente"
+    },
+    {
+      "start": 62.66,
+      "end": 62.86,
+      "word": "guarda"
+    },
+    {
+      "start": 62.86,
+      "end": 63.0,
+      "word": "che"
+    },
+    {
+      "start": 63.0,
+      "end": 63.18,
+      "word": "sono"
+    },
+    {
+      "start": 63.18,
+      "end": 63.38,
+      "word": "belli"
+    },
+    {
+      "start": 63.38,
+      "end": 63.58,
+      "word": "il"
+    },
+    {
+      "start": 63.58,
+      "end": 63.7,
+      "word": "tipo"
+    },
+    {
+      "start": 63.7,
+      "end": 63.86,
+      "word": "di"
+    },
+    {
+      "start": 63.86,
+      "end": 64.02,
+      "word": "il"
+    },
+    {
+      "start": 64.02,
+      "end": 64.3,
+      "word": "lonio"
+    },
+    {
+      "start": 64.3,
+      "end": 64.66,
+      "word": "adesso"
+    },
+    {
+      "start": 64.66,
+      "end": 64.86,
+      "word": "un"
+    },
+    {
+      "start": 64.86,
+      "end": 64.86,
+      "word": "po'"
+    },
+    {
+      "start": 65.0,
+      "end": 65.3,
+      "word": "acruto"
+    },
+    {
+      "start": 65.3,
+      "end": 65.6,
+      "word": "vedete"
+    },
+    {
+      "start": 65.6,
+      "end": 66.06,
+      "word": "sale"
+    },
+    {
+      "start": 66.06,
+      "end": 66.54,
+      "word": "poi"
+    },
+    {
+      "start": 66.54,
+      "end": 66.64,
+      "word": "ci"
+    },
+    {
+      "start": 66.64,
+      "end": 66.76,
+      "word": "metto"
+    },
+    {
+      "start": 66.76,
+      "end": 66.9,
+      "word": "un"
+    },
+    {
+      "start": 66.9,
+      "end": 67.02,
+      "word": "uoio"
+    },
+    {
+      "start": 67.02,
+      "end": 67.34,
+      "word": "buono"
+    },
+    {
+      "start": 67.34,
+      "end": 67.58,
+      "word": "però"
+    },
+    {
+      "start": 68.84,
+      "end": 69.34,
+      "word": "ma"
+    },
+    {
+      "start": 69.34,
+      "end": 69.58,
+      "word": "se"
+    },
+    {
+      "start": 69.58,
+      "end": 69.7,
+      "word": "è"
+    },
+    {
+      "start": 69.7,
+      "end": 70.08,
+      "word": "bello"
+    },
+    {
+      "start": 70.08,
+      "end": 70.28,
+      "word": "e"
+    },
+    {
+      "start": 70.28,
+      "end": 70.54,
+      "word": "sound"
+    },
+    {
+      "start": 70.54,
+      "end": 70.82,
+      "word": "of"
+    },
+    {
+      "start": 70.82,
+      "end": 71.06,
+      "word": "love"
+    },
+    {
+      "start": 71.06,
+      "end": 71.88,
+      "word": "metawire"
+    },
+    {
+      "start": 71.88,
+      "end": 72.2,
+      "word": "ragazzi"
+    },
+    {
+      "start": 72.2,
+      "end": 72.92,
+      "word": "pane"
+    },
+    {
+      "start": 72.92,
+      "end": 73.6,
+      "word": "croccante"
+    },
+    {
+      "start": 73.6,
+      "end": 74.16,
+      "word": "semplice"
+    },
+    {
+      "start": 74.16,
+      "end": 74.28,
+      "word": "per"
+    },
+    {
+      "start": 74.28,
+      "end": 74.9,
+      "word": "semplice"
+    },
+    {
+      "start": 74.9,
+      "end": 75.1,
+      "word": "ma"
+    },
+    {
+      "start": 75.1,
+      "end": 75.78,
+      "word": "buono"
+    },
+    {
+      "start": 75.78,
+      "end": 76.08,
+      "word": "guarda"
+    },
+    {
+      "start": 76.08,
+      "end": 76.2,
+      "word": "che"
+    },
+    {
+      "start": 76.2,
+      "end": 76.66,
+      "word": "piatto"
+    }
+  ],
+  "aligned": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.336,
+      "dur": 2.336,
+      "transcript": "oggi facciamo agli ragazzi che lavano per noi alle case"
+    },
+    {
+      "idx": 1,
+      "start": 2.336,
+      "end": 3.42,
+      "dur": 1.084,
+      "transcript": ""
+    },
+    {
+      "idx": 2,
+      "start": 3.42,
+      "end": 4.037,
+      "dur": 0.617,
+      "transcript": "oooooh"
+    },
+    {
+      "idx": 3,
+      "start": 4.037,
+      "end": 5.739,
+      "dur": 1.702,
+      "transcript": "recuperiamo il pane vecchio ma siamo o fannoi"
+    },
+    {
+      "idx": 4,
+      "start": 5.739,
+      "end": 7.257,
+      "dur": 1.518,
+      "transcript": "tagliamo a fettine così"
+    },
+    {
+      "idx": 5,
+      "start": 7.257,
+      "end": 9.126,
+      "dur": 1.869,
+      "transcript": "stiamo usando un pezzo del parchette di casa mia"
+    },
+    {
+      "idx": 6,
+      "start": 9.126,
+      "end": 9.71,
+      "dur": 0.584,
+      "transcript": "come tagliere"
+    },
+    {
+      "idx": 7,
+      "start": 9.71,
+      "end": 10.043,
+      "dur": 0.334,
+      "transcript": "lo"
+    },
+    {
+      "idx": 8,
+      "start": 10.043,
+      "end": 11.512,
+      "dur": 1.468,
+      "transcript": "faccio a pezzettini così il pane"
+    },
+    {
+      "idx": 9,
+      "start": 11.512,
+      "end": 11.912,
+      "dur": 0.4,
+      "transcript": ""
+    },
+    {
+      "idx": 10,
+      "start": 11.912,
+      "end": 13.08,
+      "dur": 1.168,
+      "transcript": ""
+    },
+    {
+      "idx": 11,
+      "start": 13.08,
+      "end": 14.915,
+      "dur": 1.835,
+      "transcript": "due spicchietti d 'aglio che profumo del pane"
+    },
+    {
+      "idx": 12,
+      "start": 14.915,
+      "end": 16.133,
+      "dur": 1.218,
+      "transcript": "che idea che te sto da'"
+    },
+    {
+      "idx": 13,
+      "start": 16.133,
+      "end": 17.267,
+      "dur": 1.134,
+      "transcript": "l 'aglio che si avvisà"
+    },
+    {
+      "idx": 14,
+      "start": 17.267,
+      "end": 18.302,
+      "dur": 1.034,
+      "transcript": "l 'olio è pronto"
+    },
+    {
+      "idx": 15,
+      "start": 18.302,
+      "end": 19.953,
+      "dur": 1.652,
+      "transcript": "me sto a lanciare con quello che ho trovato"
+    },
+    {
+      "idx": 16,
+      "start": 19.953,
+      "end": 20.754,
+      "dur": 0.801,
+      "transcript": "melanzane locali"
+    },
+    {
+      "idx": 17,
+      "start": 20.754,
+      "end": 21.405,
+      "dur": 0.651,
+      "transcript": "questa"
+    },
+    {
+      "idx": 18,
+      "start": 21.405,
+      "end": 23.924,
+      "dur": 2.519,
+      "transcript": "ho appena comprado 125 mila rubie"
+    },
+    {
+      "idx": 19,
+      "start": 23.924,
+      "end": 25.609,
+      "dur": 1.685,
+      "transcript": "melanzane sottili sottili"
+    },
+    {
+      "idx": 20,
+      "start": 25.609,
+      "end": 25.976,
+      "dur": 0.367,
+      "transcript": ""
+    },
+    {
+      "idx": 21,
+      "start": 25.976,
+      "end": 26.727,
+      "dur": 0.751,
+      "transcript": "marioccio"
+    },
+    {
+      "idx": 22,
+      "start": 26.727,
+      "end": 27.444,
+      "dur": 0.717,
+      "transcript": "tià"
+    },
+    {
+      "idx": 23,
+      "start": 27.444,
+      "end": 27.878,
+      "dur": 0.434,
+      "transcript": "pane"
+    },
+    {
+      "idx": 24,
+      "start": 27.878,
+      "end": 28.595,
+      "dur": 0.717,
+      "transcript": "fritto"
+    },
+    {
+      "idx": 25,
+      "start": 28.595,
+      "end": 29.246,
+      "dur": 0.651,
+      "transcript": "questo già è"
+    },
+    {
+      "idx": 26,
+      "start": 29.246,
+      "end": 29.98,
+      "dur": 0.734,
+      "transcript": "buono da solo"
+    },
+    {
+      "idx": 27,
+      "start": 29.98,
+      "end": 31.832,
+      "dur": 1.852,
+      "transcript": "buttiamo i peroncini interi"
+    },
+    {
+      "idx": 28,
+      "start": 31.832,
+      "end": 32.916,
+      "dur": 1.084,
+      "transcript": "fritto è tutto più buono"
+    },
+    {
+      "idx": 29,
+      "start": 32.916,
+      "end": 33.433,
+      "dur": 0.517,
+      "transcript": "aiuto che"
+    },
+    {
+      "idx": 30,
+      "start": 33.433,
+      "end": 34.751,
+      "dur": 1.318,
+      "transcript": "lo hai spettacolo"
+    },
+    {
+      "idx": 31,
+      "start": 34.751,
+      "end": 35.469,
+      "dur": 0.717,
+      "transcript": "escelli"
+    },
+    {
+      "idx": 32,
+      "start": 35.469,
+      "end": 36.32,
+      "dur": 0.851,
+      "transcript": "scalogno"
+    },
+    {
+      "idx": 33,
+      "start": 36.32,
+      "end": 37.087,
+      "dur": 0.767,
+      "transcript": "stammano eh"
+    },
+    {
+      "idx": 34,
+      "start": 37.087,
+      "end": 38.071,
+      "dur": 0.984,
+      "transcript": "aglio"
+    },
+    {
+      "idx": 35,
+      "start": 38.071,
+      "end": 38.989,
+      "dur": 0.918,
+      "transcript": "melanzane che"
+    },
+    {
+      "idx": 36,
+      "start": 38.989,
+      "end": 39.756,
+      "dur": 0.767,
+      "transcript": "fia"
+    },
+    {
+      "idx": 37,
+      "start": 39.756,
+      "end": 40.424,
+      "dur": 0.667,
+      "transcript": ""
+    },
+    {
+      "idx": 38,
+      "start": 40.424,
+      "end": 42.192,
+      "dur": 1.768,
+      "transcript": "tutto locare in questi sedali a livello"
+    },
+    {
+      "idx": 39,
+      "start": 42.192,
+      "end": 43.493,
+      "dur": 1.301,
+      "transcript": "adesso belli sti pusilli la"
+    },
+    {
+      "idx": 40,
+      "start": 43.493,
+      "end": 44.528,
+      "dur": 1.034,
+      "transcript": "linea speciali del iguori"
+    },
+    {
+      "idx": 41,
+      "start": 44.528,
+      "end": 46.563,
+      "dur": 2.035,
+      "transcript": "questi sono essiccati lentamente"
+    },
+    {
+      "idx": 42,
+      "start": 46.563,
+      "end": 47.514,
+      "dur": 0.951,
+      "transcript": ""
+    },
+    {
+      "idx": 43,
+      "start": 47.514,
+      "end": 49.6,
+      "dur": 2.085,
+      "transcript": "9 ore a bassa temperatura"
+    },
+    {
+      "idx": 44,
+      "start": 49.6,
+      "end": 50.567,
+      "dur": 0.968,
+      "transcript": "un po' di pomodoro"
+    },
+    {
+      "idx": 45,
+      "start": 50.567,
+      "end": 51.218,
+      "dur": 0.651,
+      "transcript": "vedai che colore"
+    },
+    {
+      "idx": 46,
+      "start": 51.218,
+      "end": 52.002,
+      "dur": 0.784,
+      "transcript": "e qui qua"
+    },
+    {
+      "idx": 47,
+      "start": 52.002,
+      "end": 53.086,
+      "dur": 1.084,
+      "transcript": "un po' di peperoncino"
+    },
+    {
+      "idx": 48,
+      "start": 53.086,
+      "end": 55.289,
+      "dur": 2.202,
+      "transcript": "allora che piaccia è tanta e piccante"
+    },
+    {
+      "idx": 49,
+      "start": 55.289,
+      "end": 55.822,
+      "dur": 0.534,
+      "transcript": ""
+    },
+    {
+      "idx": 50,
+      "start": 55.822,
+      "end": 56.44,
+      "dur": 0.617,
+      "transcript": ""
+    },
+    {
+      "idx": 51,
+      "start": 56.44,
+      "end": 57.424,
+      "dur": 0.984,
+      "transcript": ""
+    },
+    {
+      "idx": 52,
+      "start": 57.424,
+      "end": 59.743,
+      "dur": 2.319,
+      "transcript": "messica quanto messica"
+    },
+    {
+      "idx": 53,
+      "start": 59.743,
+      "end": 61.695,
+      "dur": 1.952,
+      "transcript": "tolgo un po' di accesso"
+    },
+    {
+      "idx": 54,
+      "start": 61.695,
+      "end": 62.679,
+      "dur": 0.984,
+      "transcript": "bella al dente"
+    },
+    {
+      "idx": 55,
+      "start": 62.679,
+      "end": 64.398,
+      "dur": 1.718,
+      "transcript": "guarda che sono belli il tipo di il lonio"
+    },
+    {
+      "idx": 56,
+      "start": 64.398,
+      "end": 65.716,
+      "dur": 1.318,
+      "transcript": "adesso un po' acruto vedete"
+    },
+    {
+      "idx": 57,
+      "start": 65.716,
+      "end": 66.383,
+      "dur": 0.667,
+      "transcript": "sale poi"
+    },
+    {
+      "idx": 58,
+      "start": 66.383,
+      "end": 67.718,
+      "dur": 1.335,
+      "transcript": "ci metto un uoio buono però"
+    },
+    {
+      "idx": 59,
+      "start": 67.718,
+      "end": 68.986,
+      "dur": 1.268,
+      "transcript": ""
+    },
+    {
+      "idx": 60,
+      "start": 68.986,
+      "end": 70.22,
+      "dur": 1.235,
+      "transcript": "ma se è bello e"
+    },
+    {
+      "idx": 61,
+      "start": 70.22,
+      "end": 72.439,
+      "dur": 2.219,
+      "transcript": "sound of love metawire ragazzi"
+    },
+    {
+      "idx": 62,
+      "start": 72.439,
+      "end": 73.74,
+      "dur": 1.301,
+      "transcript": "pane croccante"
+    },
+    {
+      "idx": 63,
+      "start": 73.74,
+      "end": 74.992,
+      "dur": 1.251,
+      "transcript": "semplice per semplice"
+    },
+    {
+      "idx": 64,
+      "start": 74.992,
+      "end": 75.609,
+      "dur": 0.617,
+      "transcript": "ma buono"
+    },
+    {
+      "idx": 65,
+      "start": 75.609,
+      "end": 76.96,
+      "dur": 1.351,
+      "transcript": "guarda che piatto"
+    }
+  ],
+  "full_text": "oggi facciamo agli ragazzi che lavano per noi alle case oooooh recuperiamo il pane vecchio ma siamo o fannoi tagliamo a fettine così stiamo usando un pezzo del parchette di casa mia come tagliere lo faccio a pezzettini così il pane due spicchietti d'aglio che profumo del pane che idea che te sto da' l'aglio che si avvisà l'olio è pronto me sto a lanciare con quello che ho trovato melanzane locali questa ho appena comprado 125 mila rubie melanzane sottili sottili marioccio tià pane fritto questo già è buono da solo buttiamo i peroncini interi fritto è tutto più buono aiuto che lo hai spettacolo escelli scalogno stammano eh aglio melanzane che fia tutto locare in questi sedali a livello adesso belli sti pusilli la linea speciali del iguori questi sono essiccati lentamente 9 ore a bassa temperatura un po' di pomodoro vedai che colore e qui qua un po' di peperoncino allora che piaccia è tanta e piccante messica quanto messica tolgo un po' di accesso bella al dente guarda che sono belli il tipo di il lonio adesso un po' acruto vedete sale poi ci metto un uoio buono però ma se è bello e sound of love metawire ragazzi pane croccante semplice per semplice ma buono guarda che piatto",
+  "analyzed_at": "2026-09-20T19:05:55"
+}

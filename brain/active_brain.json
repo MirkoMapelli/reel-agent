@@ -1,0 +1,612 @@
+{
+  "schema_version": "0.2",
+  "generated_at": "2026-09-20T22:45:27",
+  "primary_creator": "jay.emme",
+  "corpus": {
+    "creators": {
+      "chefmaxmariola": 2,
+      "jay.emme": 107
+    },
+    "n_videos_total": 109,
+    "n_shots_total": 3837
+  },
+  "rhythmic_memory": {
+    "dur_stats": {
+      "count": 3714,
+      "mean": 2.42,
+      "median": 2.03,
+      "p10": 1.23,
+      "p90": 4.03,
+      "min": 0.07,
+      "max": 16.33
+    },
+    "dur_opening_mean": 2.24,
+    "dur_closing_mean": 2.93,
+    "roles_dist": {
+      "person_eating": 1053,
+      "other": 752,
+      "food_detail": 561,
+      "food_plated": 302,
+      "person_talking": 285,
+      "venue_exterior": 182,
+      "food_closeup": 162,
+      "venue_interior_wide": 151,
+      "venue_interior_detail": 110,
+      "drink_detail": 74,
+      "hands_gesture": 63,
+      "menu_board": 18,
+      "claw_game": 1
+    },
+    "compositions_dist": {
+      "medium": 1748,
+      "close_up": 1170,
+      "wide": 477,
+      "": 270,
+      "detail": 48,
+      "pov": 1
+    },
+    "angles_dist": {
+      "orizzontale": 2447,
+      "dall_alto": 815,
+      "": 270,
+      "dal_basso": 98,
+      "pov": 84
+    },
+    "lightings_dist": {
+      "artificiale_caldo": 1135,
+      "naturale": 865,
+      "mista": 783,
+      "artificiale_freddo": 633,
+      "": 270,
+      "artificiale_mista": 26,
+      "artificial_caldo": 2
+    },
+    "human_ratio": 0.665,
+    "food_ratio": 0.296,
+    "venue_ratio": 0.119,
+    "logo_ratio": 0.318
+  },
+  "visual_memory": {
+    "visual_signature": "Montaggio veloce e ritmico (2.42s per shot) che alterna primo piano del creator sorridente, dettagli ravvicinati del cibo e momenti di assaggio, con predominanza di luce calda artificiale che enfatizza l'atmosfera conviviale.",
+    "opening_rules": [
+      "Apertura con piatto completo o food_plated (2-2.5s) per mostrare subito il protagonista del video",
+      "Alternativa: apertura con person_eating o person_talking (1.6-2s) per creare immediatezza emotiva",
+      "Terzo shot spesso food_detail (0.7-2s) per entrare nel dettaglio dopo il contesto iniziale",
+      "Raramente apertura con venue, preferisce partire dal cibo o dalla persona",
+      "Sequenza tipica: piatto completo → reazione umana → dettaglio ravvicinato",
+      "Durata apertura leggermente più breve della media (2.24s) per catturare attenzione rapida"
+    ],
+    "closing_rules": [
+      "Chiusura dominata da person_eating (2-6s) per concludere con l'esperienza del gusto",
+      "Shot finale più lungo della media (2.93s) per lasciare risuonare l'emozione",
+      "Spesso sequenza finale: food_detail → person_eating → person_eating/other",
+      "Uso di other (0.1-0.3s) come stacco finale rapido, probabilmente logo o CTA",
+      "Evita chiusure con venue, mantiene focus su cibo e persona",
+      "Frequente ripetizione di person_eating negli ultimi 2-3 shot per enfatizzare il piacere"
+    ],
+    "food_vocabulary": [
+      "food_detail (561 occorrenze): dettagli ravvicinati con focus su texture, anello rosa della carne, formaggio filante",
+      "food_plated (302): piatti completi mostrati dal creator, spesso tenuti in mano",
+      "food_closeup (162): primi piani estremi su singoli elementi (fetta pizza, brisket)",
+      "Angolo dall'alto (815) per mostrare composizione piatti",
+      "Luce artificiale calda (1135) per rendere il cibo più appetitoso",
+      "Inquadrature medium e close_up (2918 totali) dominano su wide",
+      "Focus su carne affumicata, pizza, barbecue texano con dettagli su cottura e affumicatura",
+      "Momenti di versamento (sciroppo, pastella) per dinamismo"
+    ],
+    "human_vocabulary": [
+      "person_eating (1053 occorrenze): momento centrale dell'esperienza, spesso ripetuto",
+      "person_talking (285): creator che introduce o commenta, sempre con energia",
+      "Espressioni facciali enfatiche: sorriso, sorpresa, concentrazione durante l'assaggio",
+      "Hands_gesture (63): mani che tengono, mostrano, indicano il cibo",
+      "Presenza umana costante (66.5% mix) come guida narrativa",
+      "Inquadrature medium per mostrare persona + cibo insieme",
+      "Creator sempre riconoscibile con cappellino",
+      "Gestualità dinamica: mostrare piatti, alzare bicchieri, tenere cibo in primo piano"
+    ],
+    "venue_vocabulary": [
+      "venue_exterior (182): contestualizzazione geografica del locale",
+      "venue_interior_wide (151): ambientazione spaziale ma non dominante",
+      "venue_interior_detail (110): dettagli come murales, cucine, elementi caratteristici",
+      "Venue usato come contesto (11.9% mix), mai come protagonista",
+      "Preferenza per dettagli caratterizzanti (murales Texas, campo basket) rispetto a panoramiche generiche",
+      "Spesso un solo shot di venue per video, rapido e funzionale"
+    ],
+    "signature_moves": [
+      "Sequenza firma: piatto completo → dettaglio ravvicinato → assaggio con reazione",
+      "Ripetizione di person_eating (2-3 volte) per enfatizzare il piacere del cibo",
+      "Alternanza ritmica medium/close_up ogni 2-3 shot per variare prospettiva",
+      "Food_detail con focus su texture: formaggio filante, anello rosa carne, sciroppo che cola",
+      "Creator che tiene/mostra il piatto verso camera prima di mangiare",
+      "Uso di luce calda artificiale (1135) per creare atmosfera accogliente",
+      "Montaggio veloce (2.42s) ma non frenetico, mantiene leggibilità",
+      "Chiusura emotiva con person_eating prolungato (3-6s) per lasciare impatto"
+    ],
+    "unique_vs_others": [
+      "Durata shot significativamente più lunga (2.42s vs 1.55s di chefmaxmariola) per dare respiro narrativo",
+      "Presenza umana dominante (66.5%) vs altri creator più food-centric: il creator è parte integrante dell'esperienza",
+      "Bilanciamento unico tra food detail (296) e human presence (665): non solo cibo ma esperienza vissuta",
+      "Uso strategico di 'other' (752) come elemento di sorpresa e varietà (leoni marini, orsi, panorami)",
+      "Ripetizione sistematica di person_eating in chiusura per creare firma emotiva riconoscibile",
+      "Mix di composizioni più vario: usa wide (477) per contesto, non solo close-up come altri food creator",
+      "Integrazione di elementi travel/lifestyle (Yosemite, grattacieli) che contestualizzano il food in un viaggio",
+      "Luce artificiale calda dominante (1135) come scelta stilistica coerente vs mix casuale di altri creator"
+    ]
+  },
+  "narrative_memory": {
+    "narrative_signature": "Narrazione iperbolica in prima persona con apostrofi diretti al pubblico ('ragazzi') e enfasi emotiva su ogni momento della giornata.",
+    "opening_rules": [
+      "Hook immediato con domanda retorica o dichiarazione provocatoria ('e se vi dicessi che...', 'Ma cosa mangi...')",
+      "Contestualizzazione geografica o tematica nella prima frase ('oggi siamo da...', 'oggi ragazzi vi porto...')",
+      "Dichiarazione di intento personale o sfida ('voglio migliorare la mia vita', 'giornata tostissima')",
+      "Uso ricorrente di 'ragazzi' come apertura conversazionale"
+    ],
+    "body_structure": [
+      "Sequenza cronologica rigida (colazione → pranzo → allenamento → cena)",
+      "Descrizione dettagliata di ogni piatto con aggettivi enfatici ('clamoroso', 'incredibile', 'veramente tanta roba')",
+      "Inserimento di momenti emotivi personali tra le descrizioni food ('faccia affranta', 'esame andato male')",
+      "Alternanza tra macro-momenti (studio, gym) e micro-dettagli (consistenza del porridge)",
+      "Uso di parentesi narrative per aggiungere contesto ('ovviamente', 'infatti', 'devo dire che')"
+    ],
+    "closing_rules": [
+      "Interruzione brusca senza vera conclusione (frasi tagliate: 'sembrava veramente di s...', 'erano gra...')",
+      "Ultima descrizione food come climax narrativo",
+      "Raramente chiusura con call-to-action esplicita",
+      "Mantenimento del tono entusiasta fino all'ultimo frame"
+    ],
+    "transitions_between_beats": [
+      "Marcatori temporali espliciti ('dopo di che', 'poi', 'passando a', 'e dopo')",
+      "Uso di 'ragazzi' come reset attenzionale tra segmenti",
+      "Frasi ponte che anticipano il prossimo momento ('mi preparo per', 'sono poi passato a')",
+      "Congiunzioni additive che creano accumulo ('e poi', 'e ovviamente', 'e devo dire')"
+    ],
+    "content_types": [
+      "Food review con focus su venue specifici (ristoranti, locali)",
+      "Full day of eating in definizione/dieta (macro-tracking implicito)",
+      "Vlog motivazionali di miglioramento personale (studio, gym, routine)",
+      "Travel food diary (California, luoghi turistici)",
+      "Challenge/novità food (cucina vegana, kebab con salsa)"
+    ],
+    "unique_vs_others": [
+      "Ibrida costantemente food review con personal vlog emotivo (altri creator separano i generi)",
+      "Usa il food come metafora del percorso di miglioramento personale, non solo come recensione",
+      "Mantiene narrazione in prima persona anche nei food review (altri usano voce oggettiva)",
+      "Inserisce fallimenti e momenti negativi (esame andato male) tra contenuti food positivi",
+      "Struttura cronologica ossessiva: ogni video è un 'giorno' completo, non singoli momenti isolati",
+      "Linguaggio iperbolico applicato sia a emozioni personali che a descrizioni culinarie con stessa intensità"
+    ]
+  },
+  "lexical_memory": {
+    "language_signature": "Linguaggio colloquiale e diretto con marcatori discorsivi ridondanti, tipico del parlato spontaneo da food vlogger. Uso massiccio di avverbi intensificatori e connettivi esplicativi.",
+    "signature_words": [
+      "ragazzi",
+      "ovviamente",
+      "veramente",
+      "comunque",
+      "appunto",
+      "devo dire",
+      "tra l'altro",
+      "praticamente",
+      "infatti",
+      "abbastanza",
+      "dopodiché",
+      "infine",
+      "nonostante",
+      "ovvero",
+      "insomma"
+    ],
+    "banned_words": [
+      "forse",
+      "probabilmente",
+      "sembrerebbe",
+      "suppongo",
+      "credo",
+      "magari",
+      "eventualmente",
+      "possibilmente"
+    ],
+    "opening_phrases": [
+      "Oggi ragazzi vi porto [a provare/da]",
+      "Giorno [numero] del mio viaggio in [luogo]",
+      "Il miglior/migliore [cibo] di [luogo]",
+      "Proviamo [cibo/esperienza] [aggettivo]",
+      "Ciao ragazzi sono Jay e [azione/obiettivo]"
+    ],
+    "closing_phrases": [
+      "Insomma ragazzi [valutazione finale]",
+      "In conclusione direi [giudizio]",
+      "Quindi ragazzi [invito all'azione]",
+      "Ed infine [ultima osservazione]",
+      "In generale [sintesi dell'esperienza]"
+    ],
+    "sentence_patterns": [
+      "devo dire che [valutazione]",
+      "un po' di [sostantivo]",
+      "con un/una [elemento]",
+      "che tra l'altro [informazione aggiuntiva]",
+      "dopo di che [azione successiva]",
+      "[soggetto] è veramente/davvero [aggettivo]",
+      "oggi ragazzi [azione]",
+      "un sacco di [sostantivo plurale]"
+    ],
+    "tone": "Entusiasta e coinvolgente, con enfasi costante e registro informale da narratore-guida che accompagna il pubblico in esperienze culinarie.",
+    "signature_bigrams": [
+      {
+        "gram": "un po",
+        "freq": 126
+      },
+      {
+        "gram": "po di",
+        "freq": 59
+      },
+      {
+        "gram": "devo dire",
+        "freq": 54
+      },
+      {
+        "gram": "tra l'altro",
+        "freq": 51
+      },
+      {
+        "gram": "un bel",
+        "freq": 48
+      },
+      {
+        "gram": "oggi ragazzi",
+        "freq": 42
+      },
+      {
+        "gram": "di carne",
+        "freq": 33
+      },
+      {
+        "gram": "che era",
+        "freq": 33
+      },
+      {
+        "gram": "un paio",
+        "freq": 32
+      },
+      {
+        "gram": "paio di",
+        "freq": 31
+      },
+      {
+        "gram": "ed infine",
+        "freq": 31
+      },
+      {
+        "gram": "senza glutine",
+        "freq": 30
+      },
+      {
+        "gram": "un sacco",
+        "freq": 26
+      },
+      {
+        "gram": "mio viaggio",
+        "freq": 26
+      },
+      {
+        "gram": "una bella",
+        "freq": 25
+      },
+      {
+        "gram": "di pollo",
+        "freq": 24
+      },
+      {
+        "gram": "ho provato",
+        "freq": 24
+      },
+      {
+        "gram": "sorta di",
+        "freq": 23
+      },
+      {
+        "gram": "non era",
+        "freq": 23
+      },
+      {
+        "gram": "per concludere",
+        "freq": 23
+      },
+      {
+        "gram": "abbiamo iniziato",
+        "freq": 23
+      },
+      {
+        "gram": "ho preso",
+        "freq": 23
+      },
+      {
+        "gram": "iniziato con",
+        "freq": 22
+      },
+      {
+        "gram": "vi porto",
+        "freq": 22
+      },
+      {
+        "gram": "la pizza",
+        "freq": 22
+      },
+      {
+        "gram": "un posto",
+        "freq": 21
+      },
+      {
+        "gram": "la carne",
+        "freq": 21
+      },
+      {
+        "gram": "un ottimo",
+        "freq": 21
+      },
+      {
+        "gram": "gluten free",
+        "freq": 21
+      },
+      {
+        "gram": "la mia",
+        "freq": 20
+      },
+      {
+        "gram": "sacco di",
+        "freq": 20
+      },
+      {
+        "gram": "un altro",
+        "freq": 20
+      },
+      {
+        "gram": "viaggio in",
+        "freq": 20
+      },
+      {
+        "gram": "in italia",
+        "freq": 20
+      },
+      {
+        "gram": "in america",
+        "freq": 19
+      },
+      {
+        "gram": "dopo aver",
+        "freq": 17
+      },
+      {
+        "gram": "ragazzi vi",
+        "freq": 17
+      },
+      {
+        "gram": "fatto un",
+        "freq": 17
+      },
+      {
+        "gram": "una pizza",
+        "freq": 17
+      },
+      {
+        "gram": "po più",
+        "freq": 17
+      }
+    ],
+    "signature_trigrams": [
+      {
+        "gram": "devo dire che",
+        "freq": 37
+      },
+      {
+        "gram": "del mio viaggio",
+        "freq": 20
+      },
+      {
+        "gram": "con un po",
+        "freq": 16
+      },
+      {
+        "gram": "che tra l'altro",
+        "freq": 16
+      },
+      {
+        "gram": "oggi ragazzi vi",
+        "freq": 15
+      },
+      {
+        "gram": "ragazzi vi porto",
+        "freq": 13
+      },
+      {
+        "gram": "scoperta della vera",
+        "freq": 13
+      },
+      {
+        "gram": "della vera cucina",
+        "freq": 13
+      },
+      {
+        "gram": "vera cucina americana",
+        "freq": 13
+      },
+      {
+        "gram": "milano oggi ragazzi",
+        "freq": 11
+      },
+      {
+        "gram": "al punto forte",
+        "freq": 11
+      },
+      {
+        "gram": "mi ha stupito",
+        "freq": 10
+      },
+      {
+        "gram": "in questo caso",
+        "freq": 10
+      },
+      {
+        "gram": "mi sono fatto",
+        "freq": 10
+      },
+      {
+        "gram": "oggi vi porto",
+        "freq": 9
+      },
+      {
+        "gram": "ci siamo fermati",
+        "freq": 9
+      },
+      {
+        "gram": "oggi ragazzi siamo",
+        "freq": 8
+      },
+      {
+        "gram": "fare un bel",
+        "freq": 8
+      },
+      {
+        "gram": "con un paio",
+        "freq": 8
+      },
+      {
+        "gram": "in ogni caso",
+        "freq": 8
+      },
+      {
+        "gram": "che ho provato",
+        "freq": 8
+      },
+      {
+        "gram": "viaggio in flore",
+        "freq": 8
+      },
+      {
+        "gram": "ovvero il loro",
+        "freq": 7
+      },
+      {
+        "gram": "noi abbiamo iniziato",
+        "freq": 7
+      },
+      {
+        "gram": "tagli di carne",
+        "freq": 7
+      },
+      {
+        "gram": "un bel po",
+        "freq": 7
+      },
+      {
+        "gram": "bel po di",
+        "freq": 7
+      },
+      {
+        "gram": "infine per concludere",
+        "freq": 7
+      },
+      {
+        "gram": "con un bel",
+        "freq": 6
+      },
+      {
+        "gram": "punto forte di",
+        "freq": 6
+      }
+    ],
+    "verbatim_openings": [
+      "Ciao ragazzi sono Jay e voglio migliorare la mia vita.",
+      "Nuova giornata e oggi esiste solo una singola parola, produttività.",
+      "Novo giorno e anche oggi ragazzi cerchiamo di migliorare.",
+      "Il paradiso della carne argentina.",
+      "Provo la cucina vegana per la prima volta nella mia vita.",
+      "Ma cosa mangi in definizione nel mio giorno di sgarro?",
+      "Ma cosa mangiano un giorno a 2200 calorie in decimizione?",
+      "No, be' ragazzi ancora non ci credo, finalmente è realizzato il mio sogno.",
+      "Le frittatine più buone di Milano?",
+      "La miglior pizzeria di Milano!",
+      "Ed ovviamente il tutto accompagnato con un ottimo contorno di patate al forno, assolutamente da non trascurare.",
+      "La vera pizza nuyorkese finalmente arrivata a Milano.",
+      "Giorno 4 il mio viaggio in texa sarà scoperta di migliori barbecue.",
+      "Il miglior barbecue texano di tutto il mondo.",
+      "Un picnic completamente immersi nella natura di un frutteto."
+    ],
+    "verbatim_closings": [
+      "A partire per esempio dall'esame che ho domani, il mio primo esame ma fa niente.",
+      "E se avete voglia di migliorarvi anche voi e avete bisogno di un po' di motivazione iniziata a seguirmi che ci motiviamo insieme.",
+      "Ed è proprio ciò che cercheremo di fare domani e poi un giorno dopo ancora.",
+      "Insomma, dire il ristorante è decisamente da provare.",
+      "In generale, cucina vegana approvata, ma non per i dolci.",
+      "In generale direi veramente un ottimo sgarro.",
+      "Ah è ovviamente lucificante.",
+      "E niente, Savoy, quando hai fame non delude mai, ma di avere fame.",
+      "Insomma ragazzi è un format molto interessante per provare qualcosa di diverso o nel loro store in di allebrini o direttamente a casa in delivery.",
+      "In conclusione direi cociuto assolutamente un posto da provare, soprattutto per la loro proposta di pizza contemporanea.",
+      "Insomma se cercate un menu tipico argentino sapete dove andare.",
+      "Quindi ragazzi che conoscete o meno questa tipologia di pizza, state a provarla perché davvero clamo, rosa.",
+      "I skyline americani sono davvero clavo.",
+      "Il migliore brisket è tutta la mia vita.",
+      "E ciò che avanzate, beh, ve lo portate a casa."
+    ],
+    "signature_variants": {
+      "ovviamente": [
+        "appunto",
+        "infatti",
+        "praticamente"
+      ],
+      "veramente": [
+        "super",
+        "proprio",
+        "incredibilmente"
+      ],
+      "comunque": [
+        "insomma",
+        "in ogni caso"
+      ],
+      "appunto": [
+        "esatto",
+        "infatti"
+      ],
+      "super": [
+        "molto",
+        "proprio"
+      ],
+      "praticamente": [
+        "in pratica",
+        "fondamentalmente"
+      ],
+      "infatti": [
+        "appunto",
+        "esatto"
+      ],
+      "guardate": [
+        "guardate qua",
+        "vedete"
+      ],
+      "insomma": [
+        "alla fine",
+        "in conclusione"
+      ]
+    }
+  },
+  "signature_unique": {
+    "visual": [
+      "Durata shot significativamente più lunga (2.42s vs 1.55s di chefmaxmariola) per dare respiro narrativo",
+      "Presenza umana dominante (66.5%) vs altri creator più food-centric: il creator è parte integrante dell'esperienza",
+      "Bilanciamento unico tra food detail (296) e human presence (665): non solo cibo ma esperienza vissuta",
+      "Uso strategico di 'other' (752) come elemento di sorpresa e varietà (leoni marini, orsi, panorami)",
+      "Ripetizione sistematica di person_eating in chiusura per creare firma emotiva riconoscibile",
+      "Mix di composizioni più vario: usa wide (477) per contesto, non solo close-up come altri food creator",
+      "Integrazione di elementi travel/lifestyle (Yosemite, grattacieli) che contestualizzano il food in un viaggio",
+      "Luce artificiale calda dominante (1135) come scelta stilistica coerente vs mix casuale di altri creator"
+    ],
+    "narrative": [
+      "Ibrida costantemente food review con personal vlog emotivo (altri creator separano i generi)",
+      "Usa il food come metafora del percorso di miglioramento personale, non solo come recensione",
+      "Mantiene narrazione in prima persona anche nei food review (altri usano voce oggettiva)",
+      "Inserisce fallimenti e momenti negativi (esame andato male) tra contenuti food positivi",
+      "Struttura cronologica ossessiva: ogni video è un 'giorno' completo, non singoli momenti isolati",
+      "Linguaggio iperbolico applicato sia a emozioni personali che a descrizioni culinarie con stessa intensità"
+    ]
+  }
+}

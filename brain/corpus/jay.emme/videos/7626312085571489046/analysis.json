@@ -1,0 +1,2929 @@
+{
+  "video_id": "7626312085571489046",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7626312085571489046",
+    "ref_id": "ref_23_7626312085571489046",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7626312085571489046",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 37,
+  "total_dur": 77.17,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.733,
+      "dur": 1.733,
+      "center": 0.867,
+      "role": "person_eating",
+      "subject": "ragazzo con due pizze",
+      "description": "Un ragazzo sorridente tiene in mano due pizze, una delle quali ha una burrata fritta al centro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Pizza con burrata fritta e"
+    },
+    {
+      "idx": 1,
+      "start": 1.733,
+      "end": 3.633,
+      "dur": 1.9,
+      "center": 2.683,
+      "role": "person_eating",
+      "subject": "ragazzo con pizza casatiello",
+      "description": "Il ragazzo sorride mentre mostra una pizza con uova sode e salumi, probabilmente un casatiello.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "pizza casatiello. Oggi ragazzi"
+    },
+    {
+      "idx": 2,
+      "start": 3.633,
+      "end": 5.467,
+      "dur": 1.833,
+      "center": 4.55,
+      "role": "food_detail",
+      "subject": "burrata fritta tagliata",
+      "description": "Una burrata fritta viene tagliata con forchetta e coltello, rivelando il ripieno cremoso sulla pizza.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "vi porto a provare Capuanos. Una pizzeria"
+    },
+    {
+      "idx": 3,
+      "start": 5.467,
+      "end": 7.533,
+      "dur": 2.067,
+      "center": 6.5,
+      "role": "person_eating",
+      "subject": "ragazzo mangia fritti",
+      "description": "Un ragazzo tira un pezzo di fritto con la mozzarella filante, mostrando un piatto di fritti misti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "napoletana con più sedi che rappresenta al"
+    },
+    {
+      "idx": 4,
+      "start": 7.533,
+      "end": 9.567,
+      "dur": 2.033,
+      "center": 8.55,
+      "role": "food_plated",
+      "subject": "piatto di fritti misti",
+      "description": "Un piatto di fritti misti con arancini, crocchè e montanare, guarniti con basilico e salsa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "massimo la tradizione di Napoli. Noi abbiamo"
+    },
+    {
+      "idx": 5,
+      "start": 9.567,
+      "end": 11.2,
+      "dur": 1.633,
+      "center": 10.383,
+      "role": "food_plated",
+      "subject": "fritti misti napoletani",
+      "description": "Un piatto d'argento con fritti misti, tra cui montanare, crocchè e arancini.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ovviamente iniziato a col Capuanos"
+    },
+    {
+      "idx": 6,
+      "start": 11.2,
+      "end": 13.2,
+      "dur": 2.0,
+      "center": 12.2,
+      "role": "person_eating",
+      "subject": "ragazzo con fritti",
+      "description": "Un ragazzo sorridente tiene in mano un piatto d'argento con fritti misti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Grand Fritto Napoli, che è quindi un misto di"
+    },
+    {
+      "idx": 7,
+      "start": 13.2,
+      "end": 14.667,
+      "dur": 1.467,
+      "center": 13.933,
+      "role": "food_detail",
+      "subject": "montanara in mano",
+      "description": "Una mano tiene una montanara con pomodoro e basilico, con il ragazzo sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "fritti napoletani che ci ha permesso"
+    },
+    {
+      "idx": 8,
+      "start": 14.667,
+      "end": 16.433,
+      "dur": 1.767,
+      "center": 15.55,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo addenta una montanara, con il piatto di fritti ancora in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di provare le loro montanarine,"
+    },
+    {
+      "idx": 9,
+      "start": 16.433,
+      "end": 17.633,
+      "dur": 1.2,
+      "center": 17.033,
+      "role": "person_eating",
+      "subject": "ragazzo con montanara",
+      "description": "Il ragazzo tiene in mano una montanara, guardando il cibo con espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "super buone e fresche col"
+    },
+    {
+      "idx": 10,
+      "start": 17.633,
+      "end": 19.167,
+      "dur": 1.533,
+      "center": 18.4,
+      "role": "food_detail",
+      "subject": "crocchè di patate",
+      "description": "Il ragazzo tiene in mano un crocchè dorato, con il suo viso leggermente sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "pomodoro, i croquet di patate che"
+    },
+    {
+      "idx": 11,
+      "start": 19.167,
+      "end": 22.167,
+      "dur": 3.0,
+      "center": 20.667,
+      "role": "person_eating",
+      "subject": "ragazzo mangia crocchè",
+      "description": "Il ragazzo sta mangiando un crocchè, con il formaggio filante che si estende dalla sua bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "erano davvero davvero filanti come potete ben vedere, e che proprio"
+    },
+    {
+      "idx": 12,
+      "start": 22.167,
+      "end": 25.967,
+      "dur": 3.8,
+      "center": 24.067,
+      "role": "food_detail",
+      "subject": "formaggio filante crocchè",
+      "description": "Le mani del ragazzo aprono un crocchè, mostrando il formaggio filante al suo interno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "per questo mi hanno stupito parecchio, poi un po' di zeppoline alle erbe e gli arancini"
+    },
+    {
+      "idx": 13,
+      "start": 25.967,
+      "end": 27.767,
+      "dur": 1.8,
+      "center": 26.867,
+      "role": "person_eating",
+      "subject": "ragazzo mangia crocchè",
+      "description": "Il ragazzo sta mangiando un crocchè, con il formaggio filante che si estende dalla sua bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di riso, che nonostante gli erbe assaggiati"
+    },
+    {
+      "idx": 14,
+      "start": 27.767,
+      "end": 30.067,
+      "dur": 2.3,
+      "center": 28.917,
+      "role": "food_detail",
+      "subject": "crocchè aperto filante",
+      "description": "Le mani del ragazzo aprono un crocchè, rivelando il ripieno filante e la consistenza interna.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "per ultimi devo dire che si sono mantenuti bene. Dopodiché"
+    },
+    {
+      "idx": 15,
+      "start": 30.067,
+      "end": 31.9,
+      "dur": 1.833,
+      "center": 30.983,
+      "role": "person_eating",
+      "subject": "ragazzo mangia frittura",
+      "description": "Un ragazzo con una maglietta Supreme mangia un pezzo di frittura, con altri pezzi e una pizza fritta sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "si hanno passati alle pizze con la"
+    },
+    {
+      "idx": 16,
+      "start": 31.9,
+      "end": 34.367,
+      "dur": 2.467,
+      "center": 33.133,
+      "role": "food_closeup",
+      "subject": "pizza con burrata fritta",
+      "description": "Una pizza con pomodoro, mozzarella, basilico e una burrata fritta al centro.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "San Marzano, che è una pizza con pomodoro San Marzano,"
+    },
+    {
+      "idx": 17,
+      "start": 34.367,
+      "end": 36.533,
+      "dur": 2.167,
+      "center": 35.45,
+      "role": "person_eating",
+      "subject": "ragazzo mostra pizza",
+      "description": "Il ragazzo del primo frame tiene in mano la pizza con la burrata fritta, sorridendo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "provola fumicata di agerola, provolone del"
+    },
+    {
+      "idx": 18,
+      "start": 36.533,
+      "end": 37.567,
+      "dur": 1.033,
+      "center": 37.05,
+      "role": "food_detail",
+      "subject": "taglio burrata fritta",
+      "description": "Un coltello e una forchetta tagliano la burrata fritta al centro della pizza.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Monaco e al"
+    },
+    {
+      "idx": 19,
+      "start": 37.567,
+      "end": 39.733,
+      "dur": 2.167,
+      "center": 38.65,
+      "role": "food_detail",
+      "subject": "burrata fritta tagliata",
+      "description": "La burrata fritta è stata tagliata, rivelando il suo interno cremoso sulla pizza.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "centro questa mega burrata fritta, che aveva"
+    },
+    {
+      "idx": 20,
+      "start": 39.733,
+      "end": 41.233,
+      "dur": 1.5,
+      "center": 40.483,
+      "role": "food_closeup",
+      "subject": "pizza con burrata",
+      "description": "Una mano taglia una fetta di pizza con abbondante burrata.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "appunto questa fumicatura che le ha reso"
+    },
+    {
+      "idx": 21,
+      "start": 41.233,
+      "end": 44.7,
+      "dur": 3.467,
+      "center": 42.967,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con una maglietta 'Supreme' mangia un pezzo di pizza con gli occhi chiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ancora più saporita della burrata classica e che ha mantenuto questa consistenza"
+    },
+    {
+      "idx": 22,
+      "start": 44.7,
+      "end": 46.9,
+      "dur": 2.2,
+      "center": 45.8,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo guarda la telecamera mentre mangia un pezzo di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "morbida dentro ma croccante fuori. Una pizza di"
+    },
+    {
+      "idx": 23,
+      "start": 46.9,
+      "end": 49.333,
+      "dur": 2.433,
+      "center": 48.117,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo è concentrato sul mangiare la pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "certo non leggera ma che mantiene comunque un tocco di"
+    },
+    {
+      "idx": 24,
+      "start": 49.333,
+      "end": 51.567,
+      "dur": 2.233,
+      "center": 50.45,
+      "role": "food_closeup",
+      "subject": "pizza con uova",
+      "description": "Una pizza intera con uova sode, carne e basilico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "freschezza grazie alla veluta tal basilico e il pomodoro."
+    },
+    {
+      "idx": 25,
+      "start": 51.567,
+      "end": 53.1,
+      "dur": 1.533,
+      "center": 52.333,
+      "role": "food_closeup",
+      "subject": "pizza con uova",
+      "description": "La pizza è riccamente condita con uova sode tagliate a metà, salumi e foglie di basilico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Dopodiché ho assaggiato questa pizza"
+    },
+    {
+      "idx": 26,
+      "start": 53.1,
+      "end": 54.7,
+      "dur": 1.6,
+      "center": 53.9,
+      "role": "food_plated",
+      "subject": "pizza con uova",
+      "description": "Un uomo tiene in mano una pizza con uova sode e salumi, con il bordo ben cotto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "casatiello, una loro limited"
+    },
+    {
+      "idx": 27,
+      "start": 54.7,
+      "end": 56.1,
+      "dur": 1.4,
+      "center": 55.4,
+      "role": "person_eating",
+      "subject": "uomo con pizza",
+      "description": "L'uomo sorride mentre tiene la pizza, con un menu visibile sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "edition del periodo di Pasqua,"
+    },
+    {
+      "idx": 28,
+      "start": 56.1,
+      "end": 57.667,
+      "dur": 1.567,
+      "center": 56.883,
+      "role": "food_detail",
+      "subject": "mani che tagliano pizza",
+      "description": "Le mani di una persona stanno tagliando un pezzo di pizza, rivelando l'interno del condimento.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "con provola di agerola Salame"
+    },
+    {
+      "idx": 29,
+      "start": 57.667,
+      "end": 60.5,
+      "dur": 2.833,
+      "center": 59.083,
+      "role": "person_eating",
+      "subject": "uomo che mangia pizza",
+      "description": "L'uomo sta addentando un pezzo di pizza con espressione soddisfatta, con la pizza rimanente sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Napoli, ovviamente uovo Sodo e cornicione ripieno con provolone"
+    },
+    {
+      "idx": 30,
+      "start": 60.5,
+      "end": 62.333,
+      "dur": 1.833,
+      "center": 61.417,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo sta mangiando un pezzo di pizza con le mani, mentre una pizza intera è sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "del Monaco, Cicoli e Pepe. Un 'altra"
+    },
+    {
+      "idx": 31,
+      "start": 62.333,
+      "end": 67.3,
+      "dur": 4.967,
+      "center": 64.817,
+      "role": "food_detail",
+      "subject": "dolce e caffè",
+      "description": "Un piccolo dolce rotondo con zucchero a velo e panna montata con cacao sono in primo piano, con un caffè sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "pizza tutt 'altro che leggera, ma che uniscemerisce specia il meglio i due saporei della pizza del casatiello. Ed infine per"
+    },
+    {
+      "idx": 32,
+      "start": 67.3,
+      "end": 70.167,
+      "dur": 2.867,
+      "center": 68.733,
+      "role": "food_detail",
+      "subject": "tiramisù in tazza",
+      "description": "Una tazza di tiramisù con un cucchiaino è al centro, con le mani di una persona visibili ai lati.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "concludere il pasto tirami su a modo mio con una crema"
+    },
+    {
+      "idx": 33,
+      "start": 70.167,
+      "end": 72.367,
+      "dur": 2.2,
+      "center": 71.267,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Un ragazzo sta mangiando un dolce al cucchiaio da una tazza, con gli occhi chiusi per il piacere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "di ricotta di bufala e fiochi di neve direttamente"
+    },
+    {
+      "idx": 34,
+      "start": 72.367,
+      "end": 73.967,
+      "dur": 1.6,
+      "center": 73.167,
+      "role": "hands_gesture",
+      "subject": "ragazzo mostra dolce",
+      "description": "Un ragazzo tiene in mano un piccolo dolce rotondo, mostrandolo alla telecamera, con altri dolci sul piatto in basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dalla pasticceria poppella. Insomma"
+    },
+    {
+      "idx": 35,
+      "start": 73.967,
+      "end": 75.4,
+      "dur": 1.433,
+      "center": 74.683,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dolce",
+      "description": "Il ragazzo sta addentando un piccolo dolce bianco.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "un ottimo locale per assaggiare"
+    },
+    {
+      "idx": 36,
+      "start": 75.4,
+      "end": 77.167,
+      "dur": 1.767,
+      "center": 76.283,
+      "role": "person_eating",
+      "subject": "ragazzo tiene dolce",
+      "description": "Il ragazzo tiene in mano un pezzo di dolce già morso, con gli occhi chiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "la vera tradizione napoletana."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con due pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano due pizze, una delle quali ha una burrata fritta al centro.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.733,
+      "dur": 1.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con pizza casatiello",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre mostra una pizza con uova sode e salumi, probabilmente un casatiello.",
+      "shot_idx": 1,
+      "start": 1.733,
+      "end": 3.633,
+      "dur": 1.9
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "burrata fritta tagliata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una burrata fritta viene tagliata con forchetta e coltello, rivelando il ripieno cremoso sulla pizza.",
+      "shot_idx": 2,
+      "start": 3.633,
+      "end": 5.467,
+      "dur": 1.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia fritti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tira un pezzo di fritto con la mozzarella filante, mostrando un piatto di fritti misti.",
+      "shot_idx": 3,
+      "start": 5.467,
+      "end": 7.533,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di fritti misti",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un piatto di fritti misti con arancini, crocchè e montanare, guarniti con basilico e salsa.",
+      "shot_idx": 4,
+      "start": 7.533,
+      "end": 9.567,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "fritti misti napoletani",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un piatto d'argento con fritti misti, tra cui montanare, crocchè e arancini.",
+      "shot_idx": 5,
+      "start": 9.567,
+      "end": 11.2,
+      "dur": 1.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con fritti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano un piatto d'argento con fritti misti.",
+      "shot_idx": 6,
+      "start": 11.2,
+      "end": 13.2,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "montanara in mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano tiene una montanara con pomodoro e basilico, con il ragazzo sfocato sullo sfondo.",
+      "shot_idx": 7,
+      "start": 13.2,
+      "end": 14.667,
+      "dur": 1.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo addenta una montanara, con il piatto di fritti ancora in mano.",
+      "shot_idx": 8,
+      "start": 14.667,
+      "end": 16.433,
+      "dur": 1.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con montanara",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una montanara, guardando il cibo con espressione soddisfatta.",
+      "shot_idx": 9,
+      "start": 16.433,
+      "end": 17.633,
+      "dur": 1.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "crocchè di patate",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un crocchè dorato, con il suo viso leggermente sfocato sullo sfondo.",
+      "shot_idx": 10,
+      "start": 17.633,
+      "end": 19.167,
+      "dur": 1.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia crocchè",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un crocchè, con il formaggio filante che si estende dalla sua bocca.",
+      "shot_idx": 11,
+      "start": 19.167,
+      "end": 22.167,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio filante crocchè",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Le mani del ragazzo aprono un crocchè, mostrando il formaggio filante al suo interno.",
+      "shot_idx": 12,
+      "start": 22.167,
+      "end": 25.967,
+      "dur": 3.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia crocchè",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un crocchè, con il formaggio filante che si estende dalla sua bocca.",
+      "shot_idx": 13,
+      "start": 25.967,
+      "end": 27.767,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "crocchè aperto filante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Le mani del ragazzo aprono un crocchè, rivelando il ripieno filante e la consistenza interna.",
+      "shot_idx": 14,
+      "start": 27.767,
+      "end": 30.067,
+      "dur": 2.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia frittura",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una maglietta Supreme mangia un pezzo di frittura, con altri pezzi e una pizza fritta sul tavolo.",
+      "shot_idx": 15,
+      "start": 30.067,
+      "end": 31.9,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con burrata fritta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza con pomodoro, mozzarella, basilico e una burrata fritta al centro.",
+      "shot_idx": 16,
+      "start": 31.9,
+      "end": 34.367,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo del primo frame tiene in mano la pizza con la burrata fritta, sorridendo.",
+      "shot_idx": 17,
+      "start": 34.367,
+      "end": 36.533,
+      "dur": 2.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "taglio burrata fritta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un coltello e una forchetta tagliano la burrata fritta al centro della pizza.",
+      "shot_idx": 18,
+      "start": 36.533,
+      "end": 37.567,
+      "dur": 1.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "burrata fritta tagliata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La burrata fritta è stata tagliata, rivelando il suo interno cremoso sulla pizza.",
+      "shot_idx": 19,
+      "start": 37.567,
+      "end": 39.733,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con burrata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano taglia una fetta di pizza con abbondante burrata.",
+      "shot_idx": 20,
+      "start": 39.733,
+      "end": 41.233,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una maglietta 'Supreme' mangia un pezzo di pizza con gli occhi chiusi.",
+      "shot_idx": 21,
+      "start": 41.233,
+      "end": 44.7,
+      "dur": 3.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda la telecamera mentre mangia un pezzo di pizza.",
+      "shot_idx": 22,
+      "start": 44.7,
+      "end": 46.9,
+      "dur": 2.2
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo è concentrato sul mangiare la pizza.",
+      "shot_idx": 23,
+      "start": 46.9,
+      "end": 49.333,
+      "dur": 2.433
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con uova",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza intera con uova sode, carne e basilico.",
+      "shot_idx": 24,
+      "start": 49.333,
+      "end": 51.567,
+      "dur": 2.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con uova",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "La pizza è riccamente condita con uova sode tagliate a metà, salumi e foglie di basilico.",
+      "shot_idx": 25,
+      "start": 51.567,
+      "end": 53.1,
+      "dur": 1.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza con uova",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano una pizza con uova sode e salumi, con il bordo ben cotto.",
+      "shot_idx": 26,
+      "start": 53.1,
+      "end": 54.7,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sorride mentre tiene la pizza, con un menu visibile sul tavolo.",
+      "shot_idx": 27,
+      "start": 54.7,
+      "end": 56.1,
+      "dur": 1.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "mani che tagliano pizza",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Le mani di una persona stanno tagliando un pezzo di pizza, rivelando l'interno del condimento.",
+      "shot_idx": 28,
+      "start": 56.1,
+      "end": 57.667,
+      "dur": 1.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta addentando un pezzo di pizza con espressione soddisfatta, con la pizza rimanente sul tavolo.",
+      "shot_idx": 29,
+      "start": 57.667,
+      "end": 60.5,
+      "dur": 2.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta mangiando un pezzo di pizza con le mani, mentre una pizza intera è sul tavolo.",
+      "shot_idx": 30,
+      "start": 60.5,
+      "end": 62.333,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "dolce e caffè",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un piccolo dolce rotondo con zucchero a velo e panna montata con cacao sono in primo piano, con un caffè sullo sfondo.",
+      "shot_idx": 31,
+      "start": 62.333,
+      "end": 67.3,
+      "dur": 4.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "tiramisù in tazza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una tazza di tiramisù con un cucchiaino è al centro, con le mani di una persona visibili ai lati.",
+      "shot_idx": 32,
+      "start": 67.3,
+      "end": 70.167,
+      "dur": 2.867
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta mangiando un dolce al cucchiaio da una tazza, con gli occhi chiusi per il piacere.",
+      "shot_idx": 33,
+      "start": 70.167,
+      "end": 72.367,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo mostra dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano un piccolo dolce rotondo, mostrandolo alla telecamera, con altri dolci sul piatto in basso.",
+      "shot_idx": 34,
+      "start": 72.367,
+      "end": 73.967,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando un piccolo dolce bianco.",
+      "shot_idx": 35,
+      "start": 73.967,
+      "end": 75.4,
+      "dur": 1.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene dolce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di dolce già morso, con gli occhi chiusi.",
+      "shot_idx": 36,
+      "start": 75.4,
+      "end": 77.167,
+      "dur": 1.767
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Pizza con burrata fritta e pizza casatiello. Oggi ragazzi vi porto a provare Capuanos."
+    },
+    {
+      "start": 5.02,
+      "end": 9.04,
+      "text": "Una pizzeria napoletana con più sedi che rappresenta al massimo la tradizione di Napoli."
+    },
+    {
+      "start": 9.16,
+      "end": 13.96,
+      "text": "Noi abbiamo ovviamente iniziato a col Capuanos Grand Fritto Napoli, che è quindi un misto di fritti napoletani"
+    },
+    {
+      "start": 13.96,
+      "end": 18.04,
+      "text": "che ci ha permesso di provare le loro montanarine, super buone e fresche col pomodoro,"
+    },
+    {
+      "start": 18.12,
+      "end": 21.78,
+      "text": "i croquet di patate che erano davvero davvero filanti come potete ben vedere,"
+    },
+    {
+      "start": 21.94,
+      "end": 26.64,
+      "text": "e che proprio per questo mi hanno stupito parecchio, poi un po' di zeppoline alle erbe e gli arancini di riso,"
+    },
+    {
+      "start": 26.64,
+      "end": 29.82,
+      "text": "che nonostante gli erbe assaggiati per ultimi devo dire che si sono mantenuti bene."
+    },
+    {
+      "start": 29.82,
+      "end": 34.6,
+      "text": "Dopodiché si hanno passati alle pizze con la San Marzano, che è una pizza con pomodoro San Marzano,"
+    },
+    {
+      "start": 34.7,
+      "end": 39.3,
+      "text": "provola fumicata di agerola, provolone del Monaco e al centro questa mega burrata fritta,"
+    },
+    {
+      "start": 39.5,
+      "end": 43.12,
+      "text": "che aveva appunto questa fumicatura che le ha reso ancora più saporita della burrata classica"
+    },
+    {
+      "start": 43.12,
+      "end": 46.24,
+      "text": "e che ha mantenuto questa consistenza morbida dentro ma croccante fuori."
+    },
+    {
+      "start": 46.28,
+      "end": 49.7,
+      "text": "Una pizza di certo non leggera ma che mantiene comunque un tocco di freschezza"
+    },
+    {
+      "start": 49.7,
+      "end": 51.56,
+      "text": "grazie alla veluta tal basilico e il pomodoro."
+    },
+    {
+      "start": 51.64,
+      "end": 56.06,
+      "text": "Dopodiché ho assaggiato questa pizza casatiello, una loro limited edition del periodo di Pasqua,"
+    },
+    {
+      "start": 56.06,
+      "end": 60.1,
+      "text": "con provola di agerola Salame Napoli, ovviamente uovo Sodo e cornicione ripieno"
+    },
+    {
+      "start": 60.1,
+      "end": 62.04,
+      "text": "con provolone del Monaco, Cicoli e Pepe."
+    },
+    {
+      "start": 62.08,
+      "end": 64.84,
+      "text": "Un'altra pizza tutt'altro che leggera, ma che uniscemerisce specia il meglio i"
+    },
+    {
+      "start": 64.84,
+      "end": 66.5,
+      "text": "due saporei della pizza del casatiello."
+    },
+    {
+      "start": 66.52,
+      "end": 71.02,
+      "text": "Ed infine per concludere il pasto tirami su a modo mio con una crema di ricotta di bufala"
+    },
+    {
+      "start": 71.02,
+      "end": 73.64,
+      "text": "e fiochi di neve direttamente dalla pasticceria poppella."
+    },
+    {
+      "start": 73.74,
+      "end": 76.78,
+      "text": "Insomma un ottimo locale per assaggiare la vera tradizione napoletana."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "word": "Pizza"
+    },
+    {
+      "start": 0.32,
+      "end": 0.56,
+      "word": "con"
+    },
+    {
+      "start": 0.56,
+      "end": 1.02,
+      "word": "burrata"
+    },
+    {
+      "start": 1.02,
+      "end": 1.56,
+      "word": "fritta"
+    },
+    {
+      "start": 1.56,
+      "end": 1.86,
+      "word": "e"
+    },
+    {
+      "start": 1.86,
+      "end": 2.28,
+      "word": "pizza"
+    },
+    {
+      "start": 2.28,
+      "end": 3.04,
+      "word": "casatiello."
+    },
+    {
+      "start": 3.12,
+      "end": 3.32,
+      "word": "Oggi"
+    },
+    {
+      "start": 3.32,
+      "end": 3.6,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.6,
+      "end": 3.72,
+      "word": "vi"
+    },
+    {
+      "start": 3.72,
+      "end": 3.98,
+      "word": "porto"
+    },
+    {
+      "start": 3.98,
+      "end": 4.06,
+      "word": "a"
+    },
+    {
+      "start": 4.06,
+      "end": 4.36,
+      "word": "provare"
+    },
+    {
+      "start": 4.36,
+      "end": 5.0,
+      "word": "Capuanos."
+    },
+    {
+      "start": 5.02,
+      "end": 5.14,
+      "word": "Una"
+    },
+    {
+      "start": 5.14,
+      "end": 5.48,
+      "word": "pizzeria"
+    },
+    {
+      "start": 5.48,
+      "end": 5.96,
+      "word": "napoletana"
+    },
+    {
+      "start": 5.96,
+      "end": 6.22,
+      "word": "con"
+    },
+    {
+      "start": 6.22,
+      "end": 6.36,
+      "word": "più"
+    },
+    {
+      "start": 6.36,
+      "end": 6.76,
+      "word": "sedi"
+    },
+    {
+      "start": 6.76,
+      "end": 6.86,
+      "word": "che"
+    },
+    {
+      "start": 6.86,
+      "end": 7.3,
+      "word": "rappresenta"
+    },
+    {
+      "start": 7.3,
+      "end": 7.48,
+      "word": "al"
+    },
+    {
+      "start": 7.48,
+      "end": 7.92,
+      "word": "massimo"
+    },
+    {
+      "start": 7.92,
+      "end": 8.06,
+      "word": "la"
+    },
+    {
+      "start": 8.06,
+      "end": 8.5,
+      "word": "tradizione"
+    },
+    {
+      "start": 8.5,
+      "end": 8.7,
+      "word": "di"
+    },
+    {
+      "start": 8.7,
+      "end": 9.04,
+      "word": "Napoli."
+    },
+    {
+      "start": 9.16,
+      "end": 9.3,
+      "word": "Noi"
+    },
+    {
+      "start": 9.3,
+      "end": 9.46,
+      "word": "abbiamo"
+    },
+    {
+      "start": 9.46,
+      "end": 9.68,
+      "word": "ovviamente"
+    },
+    {
+      "start": 9.68,
+      "end": 10.2,
+      "word": "iniziato"
+    },
+    {
+      "start": 10.2,
+      "end": 10.34,
+      "word": "a"
+    },
+    {
+      "start": 10.34,
+      "end": 10.38,
+      "word": "col"
+    },
+    {
+      "start": 10.38,
+      "end": 11.16,
+      "word": "Capuanos"
+    },
+    {
+      "start": 11.16,
+      "end": 11.36,
+      "word": "Grand"
+    },
+    {
+      "start": 11.36,
+      "end": 11.68,
+      "word": "Fritto"
+    },
+    {
+      "start": 11.68,
+      "end": 12.2,
+      "word": "Napoli,"
+    },
+    {
+      "start": 12.26,
+      "end": 12.32,
+      "word": "che"
+    },
+    {
+      "start": 12.32,
+      "end": 12.4,
+      "word": "è"
+    },
+    {
+      "start": 12.4,
+      "end": 12.6,
+      "word": "quindi"
+    },
+    {
+      "start": 12.6,
+      "end": 12.74,
+      "word": "un"
+    },
+    {
+      "start": 12.74,
+      "end": 13.1,
+      "word": "misto"
+    },
+    {
+      "start": 13.1,
+      "end": 13.22,
+      "word": "di"
+    },
+    {
+      "start": 13.22,
+      "end": 13.44,
+      "word": "fritti"
+    },
+    {
+      "start": 13.44,
+      "end": 13.96,
+      "word": "napoletani"
+    },
+    {
+      "start": 13.96,
+      "end": 14.14,
+      "word": "che"
+    },
+    {
+      "start": 14.14,
+      "end": 14.26,
+      "word": "ci"
+    },
+    {
+      "start": 14.26,
+      "end": 14.3,
+      "word": "ha"
+    },
+    {
+      "start": 14.3,
+      "end": 14.62,
+      "word": "permesso"
+    },
+    {
+      "start": 14.62,
+      "end": 14.76,
+      "word": "di"
+    },
+    {
+      "start": 14.76,
+      "end": 15.2,
+      "word": "provare"
+    },
+    {
+      "start": 15.2,
+      "end": 15.36,
+      "word": "le"
+    },
+    {
+      "start": 15.36,
+      "end": 15.6,
+      "word": "loro"
+    },
+    {
+      "start": 15.6,
+      "end": 16.32,
+      "word": "montanarine,"
+    },
+    {
+      "start": 16.36,
+      "end": 16.6,
+      "word": "super"
+    },
+    {
+      "start": 16.6,
+      "end": 16.92,
+      "word": "buone"
+    },
+    {
+      "start": 16.92,
+      "end": 17.04,
+      "word": "e"
+    },
+    {
+      "start": 17.04,
+      "end": 17.38,
+      "word": "fresche"
+    },
+    {
+      "start": 17.38,
+      "end": 17.54,
+      "word": "col"
+    },
+    {
+      "start": 17.54,
+      "end": 18.04,
+      "word": "pomodoro,"
+    },
+    {
+      "start": 18.12,
+      "end": 18.22,
+      "word": "i"
+    },
+    {
+      "start": 18.22,
+      "end": 18.48,
+      "word": "croquet"
+    },
+    {
+      "start": 18.48,
+      "end": 18.62,
+      "word": "di"
+    },
+    {
+      "start": 18.62,
+      "end": 18.96,
+      "word": "patate"
+    },
+    {
+      "start": 18.96,
+      "end": 19.12,
+      "word": "che"
+    },
+    {
+      "start": 19.12,
+      "end": 19.36,
+      "word": "erano"
+    },
+    {
+      "start": 19.36,
+      "end": 19.86,
+      "word": "davvero"
+    },
+    {
+      "start": 19.86,
+      "end": 20.3,
+      "word": "davvero"
+    },
+    {
+      "start": 20.3,
+      "end": 20.78,
+      "word": "filanti"
+    },
+    {
+      "start": 20.78,
+      "end": 20.98,
+      "word": "come"
+    },
+    {
+      "start": 20.98,
+      "end": 21.3,
+      "word": "potete"
+    },
+    {
+      "start": 21.3,
+      "end": 21.48,
+      "word": "ben"
+    },
+    {
+      "start": 21.48,
+      "end": 21.78,
+      "word": "vedere,"
+    },
+    {
+      "start": 21.94,
+      "end": 21.94,
+      "word": "e"
+    },
+    {
+      "start": 21.94,
+      "end": 22.02,
+      "word": "che"
+    },
+    {
+      "start": 22.02,
+      "end": 22.2,
+      "word": "proprio"
+    },
+    {
+      "start": 22.2,
+      "end": 22.38,
+      "word": "per"
+    },
+    {
+      "start": 22.38,
+      "end": 22.58,
+      "word": "questo"
+    },
+    {
+      "start": 22.58,
+      "end": 22.74,
+      "word": "mi"
+    },
+    {
+      "start": 22.74,
+      "end": 22.82,
+      "word": "hanno"
+    },
+    {
+      "start": 22.82,
+      "end": 23.2,
+      "word": "stupito"
+    },
+    {
+      "start": 23.2,
+      "end": 23.72,
+      "word": "parecchio,"
+    },
+    {
+      "start": 23.76,
+      "end": 23.94,
+      "word": "poi"
+    },
+    {
+      "start": 23.94,
+      "end": 24.12,
+      "word": "un"
+    },
+    {
+      "start": 24.12,
+      "end": 24.24,
+      "word": "po'"
+    },
+    {
+      "start": 24.3,
+      "end": 24.36,
+      "word": "di"
+    },
+    {
+      "start": 24.36,
+      "end": 24.78,
+      "word": "zeppoline"
+    },
+    {
+      "start": 24.78,
+      "end": 25.04,
+      "word": "alle"
+    },
+    {
+      "start": 25.04,
+      "end": 25.4,
+      "word": "erbe"
+    },
+    {
+      "start": 25.4,
+      "end": 25.56,
+      "word": "e"
+    },
+    {
+      "start": 25.56,
+      "end": 25.7,
+      "word": "gli"
+    },
+    {
+      "start": 25.7,
+      "end": 26.1,
+      "word": "arancini"
+    },
+    {
+      "start": 26.1,
+      "end": 26.32,
+      "word": "di"
+    },
+    {
+      "start": 26.32,
+      "end": 26.64,
+      "word": "riso,"
+    },
+    {
+      "start": 26.64,
+      "end": 26.7,
+      "word": "che"
+    },
+    {
+      "start": 26.7,
+      "end": 27.08,
+      "word": "nonostante"
+    },
+    {
+      "start": 27.08,
+      "end": 27.26,
+      "word": "gli"
+    },
+    {
+      "start": 27.26,
+      "end": 27.4,
+      "word": "erbe"
+    },
+    {
+      "start": 27.4,
+      "end": 27.8,
+      "word": "assaggiati"
+    },
+    {
+      "start": 27.8,
+      "end": 28.0,
+      "word": "per"
+    },
+    {
+      "start": 28.0,
+      "end": 28.32,
+      "word": "ultimi"
+    },
+    {
+      "start": 28.32,
+      "end": 28.46,
+      "word": "devo"
+    },
+    {
+      "start": 28.46,
+      "end": 28.7,
+      "word": "dire"
+    },
+    {
+      "start": 28.7,
+      "end": 28.84,
+      "word": "che"
+    },
+    {
+      "start": 28.84,
+      "end": 28.96,
+      "word": "si"
+    },
+    {
+      "start": 28.96,
+      "end": 29.14,
+      "word": "sono"
+    },
+    {
+      "start": 29.14,
+      "end": 29.52,
+      "word": "mantenuti"
+    },
+    {
+      "start": 29.52,
+      "end": 29.82,
+      "word": "bene."
+    },
+    {
+      "start": 29.82,
+      "end": 30.3,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 30.3,
+      "end": 30.48,
+      "word": "si"
+    },
+    {
+      "start": 30.48,
+      "end": 30.5,
+      "word": "hanno"
+    },
+    {
+      "start": 30.5,
+      "end": 30.78,
+      "word": "passati"
+    },
+    {
+      "start": 30.78,
+      "end": 30.96,
+      "word": "alle"
+    },
+    {
+      "start": 30.96,
+      "end": 31.36,
+      "word": "pizze"
+    },
+    {
+      "start": 31.36,
+      "end": 31.6,
+      "word": "con"
+    },
+    {
+      "start": 31.6,
+      "end": 31.84,
+      "word": "la"
+    },
+    {
+      "start": 31.84,
+      "end": 32.1,
+      "word": "San"
+    },
+    {
+      "start": 32.1,
+      "end": 32.68,
+      "word": "Marzano,"
+    },
+    {
+      "start": 32.78,
+      "end": 32.78,
+      "word": "che"
+    },
+    {
+      "start": 32.78,
+      "end": 32.84,
+      "word": "è"
+    },
+    {
+      "start": 32.84,
+      "end": 32.92,
+      "word": "una"
+    },
+    {
+      "start": 32.92,
+      "end": 33.12,
+      "word": "pizza"
+    },
+    {
+      "start": 33.12,
+      "end": 33.42,
+      "word": "con"
+    },
+    {
+      "start": 33.42,
+      "end": 33.88,
+      "word": "pomodoro"
+    },
+    {
+      "start": 33.88,
+      "end": 34.1,
+      "word": "San"
+    },
+    {
+      "start": 34.1,
+      "end": 34.6,
+      "word": "Marzano,"
+    },
+    {
+      "start": 34.7,
+      "end": 34.92,
+      "word": "provola"
+    },
+    {
+      "start": 34.92,
+      "end": 35.36,
+      "word": "fumicata"
+    },
+    {
+      "start": 35.36,
+      "end": 35.54,
+      "word": "di"
+    },
+    {
+      "start": 35.54,
+      "end": 35.98,
+      "word": "agerola,"
+    },
+    {
+      "start": 36.06,
+      "end": 36.4,
+      "word": "provolone"
+    },
+    {
+      "start": 36.4,
+      "end": 36.64,
+      "word": "del"
+    },
+    {
+      "start": 36.64,
+      "end": 37.08,
+      "word": "Monaco"
+    },
+    {
+      "start": 37.08,
+      "end": 37.28,
+      "word": "e"
+    },
+    {
+      "start": 37.28,
+      "end": 37.46,
+      "word": "al"
+    },
+    {
+      "start": 37.46,
+      "end": 37.72,
+      "word": "centro"
+    },
+    {
+      "start": 37.72,
+      "end": 38.08,
+      "word": "questa"
+    },
+    {
+      "start": 38.08,
+      "end": 38.4,
+      "word": "mega"
+    },
+    {
+      "start": 38.4,
+      "end": 38.86,
+      "word": "burrata"
+    },
+    {
+      "start": 38.86,
+      "end": 39.3,
+      "word": "fritta,"
+    },
+    {
+      "start": 39.5,
+      "end": 39.5,
+      "word": "che"
+    },
+    {
+      "start": 39.5,
+      "end": 39.7,
+      "word": "aveva"
+    },
+    {
+      "start": 39.7,
+      "end": 39.9,
+      "word": "appunto"
+    },
+    {
+      "start": 39.9,
+      "end": 40.2,
+      "word": "questa"
+    },
+    {
+      "start": 40.2,
+      "end": 40.72,
+      "word": "fumicatura"
+    },
+    {
+      "start": 40.72,
+      "end": 40.9,
+      "word": "che"
+    },
+    {
+      "start": 40.9,
+      "end": 41.02,
+      "word": "le"
+    },
+    {
+      "start": 41.02,
+      "end": 41.1,
+      "word": "ha"
+    },
+    {
+      "start": 41.1,
+      "end": 41.26,
+      "word": "reso"
+    },
+    {
+      "start": 41.26,
+      "end": 41.58,
+      "word": "ancora"
+    },
+    {
+      "start": 41.58,
+      "end": 41.76,
+      "word": "più"
+    },
+    {
+      "start": 41.76,
+      "end": 42.1,
+      "word": "saporita"
+    },
+    {
+      "start": 42.1,
+      "end": 42.28,
+      "word": "della"
+    },
+    {
+      "start": 42.28,
+      "end": 42.56,
+      "word": "burrata"
+    },
+    {
+      "start": 42.56,
+      "end": 43.12,
+      "word": "classica"
+    },
+    {
+      "start": 43.12,
+      "end": 43.24,
+      "word": "e"
+    },
+    {
+      "start": 43.24,
+      "end": 43.28,
+      "word": "che"
+    },
+    {
+      "start": 43.28,
+      "end": 43.34,
+      "word": "ha"
+    },
+    {
+      "start": 43.34,
+      "end": 43.7,
+      "word": "mantenuto"
+    },
+    {
+      "start": 43.7,
+      "end": 43.98,
+      "word": "questa"
+    },
+    {
+      "start": 43.98,
+      "end": 44.5,
+      "word": "consistenza"
+    },
+    {
+      "start": 44.5,
+      "end": 44.92,
+      "word": "morbida"
+    },
+    {
+      "start": 44.92,
+      "end": 45.2,
+      "word": "dentro"
+    },
+    {
+      "start": 45.2,
+      "end": 45.4,
+      "word": "ma"
+    },
+    {
+      "start": 45.4,
+      "end": 45.88,
+      "word": "croccante"
+    },
+    {
+      "start": 45.88,
+      "end": 46.24,
+      "word": "fuori."
+    },
+    {
+      "start": 46.28,
+      "end": 46.38,
+      "word": "Una"
+    },
+    {
+      "start": 46.38,
+      "end": 46.62,
+      "word": "pizza"
+    },
+    {
+      "start": 46.62,
+      "end": 46.8,
+      "word": "di"
+    },
+    {
+      "start": 46.8,
+      "end": 47.02,
+      "word": "certo"
+    },
+    {
+      "start": 47.02,
+      "end": 47.22,
+      "word": "non"
+    },
+    {
+      "start": 47.22,
+      "end": 47.66,
+      "word": "leggera"
+    },
+    {
+      "start": 47.66,
+      "end": 47.78,
+      "word": "ma"
+    },
+    {
+      "start": 47.78,
+      "end": 47.88,
+      "word": "che"
+    },
+    {
+      "start": 47.88,
+      "end": 48.2,
+      "word": "mantiene"
+    },
+    {
+      "start": 48.2,
+      "end": 48.46,
+      "word": "comunque"
+    },
+    {
+      "start": 48.46,
+      "end": 48.74,
+      "word": "un"
+    },
+    {
+      "start": 48.74,
+      "end": 48.96,
+      "word": "tocco"
+    },
+    {
+      "start": 48.96,
+      "end": 49.06,
+      "word": "di"
+    },
+    {
+      "start": 49.06,
+      "end": 49.7,
+      "word": "freschezza"
+    },
+    {
+      "start": 49.7,
+      "end": 49.96,
+      "word": "grazie"
+    },
+    {
+      "start": 49.96,
+      "end": 50.06,
+      "word": "alla"
+    },
+    {
+      "start": 50.06,
+      "end": 50.32,
+      "word": "veluta"
+    },
+    {
+      "start": 50.32,
+      "end": 50.5,
+      "word": "tal"
+    },
+    {
+      "start": 50.5,
+      "end": 50.98,
+      "word": "basilico"
+    },
+    {
+      "start": 50.98,
+      "end": 51.04,
+      "word": "e"
+    },
+    {
+      "start": 51.04,
+      "end": 51.1,
+      "word": "il"
+    },
+    {
+      "start": 51.1,
+      "end": 51.56,
+      "word": "pomodoro."
+    },
+    {
+      "start": 51.64,
+      "end": 52.08,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 52.08,
+      "end": 52.22,
+      "word": "ho"
+    },
+    {
+      "start": 52.22,
+      "end": 52.6,
+      "word": "assaggiato"
+    },
+    {
+      "start": 52.6,
+      "end": 52.9,
+      "word": "questa"
+    },
+    {
+      "start": 52.9,
+      "end": 53.18,
+      "word": "pizza"
+    },
+    {
+      "start": 53.18,
+      "end": 53.88,
+      "word": "casatiello,"
+    },
+    {
+      "start": 53.96,
+      "end": 54.1,
+      "word": "una"
+    },
+    {
+      "start": 54.1,
+      "end": 54.3,
+      "word": "loro"
+    },
+    {
+      "start": 54.3,
+      "end": 54.6,
+      "word": "limited"
+    },
+    {
+      "start": 54.6,
+      "end": 55.02,
+      "word": "edition"
+    },
+    {
+      "start": 55.02,
+      "end": 55.24,
+      "word": "del"
+    },
+    {
+      "start": 55.24,
+      "end": 55.56,
+      "word": "periodo"
+    },
+    {
+      "start": 55.56,
+      "end": 55.66,
+      "word": "di"
+    },
+    {
+      "start": 55.66,
+      "end": 56.06,
+      "word": "Pasqua,"
+    },
+    {
+      "start": 56.06,
+      "end": 56.3,
+      "word": "con"
+    },
+    {
+      "start": 56.3,
+      "end": 56.6,
+      "word": "provola"
+    },
+    {
+      "start": 56.6,
+      "end": 56.76,
+      "word": "di"
+    },
+    {
+      "start": 56.76,
+      "end": 57.14,
+      "word": "agerola"
+    },
+    {
+      "start": 57.14,
+      "end": 57.56,
+      "word": "Salame"
+    },
+    {
+      "start": 57.56,
+      "end": 57.98,
+      "word": "Napoli,"
+    },
+    {
+      "start": 58.06,
+      "end": 58.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 58.4,
+      "end": 58.78,
+      "word": "uovo"
+    },
+    {
+      "start": 58.78,
+      "end": 59.14,
+      "word": "Sodo"
+    },
+    {
+      "start": 59.14,
+      "end": 59.26,
+      "word": "e"
+    },
+    {
+      "start": 59.26,
+      "end": 59.7,
+      "word": "cornicione"
+    },
+    {
+      "start": 59.7,
+      "end": 60.1,
+      "word": "ripieno"
+    },
+    {
+      "start": 60.1,
+      "end": 60.24,
+      "word": "con"
+    },
+    {
+      "start": 60.24,
+      "end": 60.6,
+      "word": "provolone"
+    },
+    {
+      "start": 60.6,
+      "end": 60.76,
+      "word": "del"
+    },
+    {
+      "start": 60.76,
+      "end": 61.12,
+      "word": "Monaco,"
+    },
+    {
+      "start": 61.28,
+      "end": 61.6,
+      "word": "Cicoli"
+    },
+    {
+      "start": 61.6,
+      "end": 61.74,
+      "word": "e"
+    },
+    {
+      "start": 61.74,
+      "end": 62.04,
+      "word": "Pepe."
+    },
+    {
+      "start": 62.08,
+      "end": 62.18,
+      "word": "Un"
+    },
+    {
+      "start": 62.18,
+      "end": 62.36,
+      "word": "'altra"
+    },
+    {
+      "start": 62.36,
+      "end": 62.7,
+      "word": "pizza"
+    },
+    {
+      "start": 62.7,
+      "end": 63.06,
+      "word": "tutt"
+    },
+    {
+      "start": 63.06,
+      "end": 63.16,
+      "word": "'altro"
+    },
+    {
+      "start": 63.16,
+      "end": 63.32,
+      "word": "che"
+    },
+    {
+      "start": 63.32,
+      "end": 63.8,
+      "word": "leggera,"
+    },
+    {
+      "start": 63.82,
+      "end": 63.88,
+      "word": "ma"
+    },
+    {
+      "start": 63.88,
+      "end": 64.0,
+      "word": "che"
+    },
+    {
+      "start": 64.0,
+      "end": 64.34,
+      "word": "uniscemerisce"
+    },
+    {
+      "start": 64.34,
+      "end": 64.34,
+      "word": "specia"
+    },
+    {
+      "start": 64.34,
+      "end": 64.46,
+      "word": "il"
+    },
+    {
+      "start": 64.46,
+      "end": 64.7,
+      "word": "meglio"
+    },
+    {
+      "start": 64.7,
+      "end": 64.84,
+      "word": "i"
+    },
+    {
+      "start": 64.84,
+      "end": 64.9,
+      "word": "due"
+    },
+    {
+      "start": 64.9,
+      "end": 65.38,
+      "word": "saporei"
+    },
+    {
+      "start": 65.38,
+      "end": 65.46,
+      "word": "della"
+    },
+    {
+      "start": 65.46,
+      "end": 65.76,
+      "word": "pizza"
+    },
+    {
+      "start": 65.76,
+      "end": 65.94,
+      "word": "del"
+    },
+    {
+      "start": 65.94,
+      "end": 66.5,
+      "word": "casatiello."
+    },
+    {
+      "start": 66.52,
+      "end": 66.6,
+      "word": "Ed"
+    },
+    {
+      "start": 66.6,
+      "end": 66.96,
+      "word": "infine"
+    },
+    {
+      "start": 66.96,
+      "end": 67.1,
+      "word": "per"
+    },
+    {
+      "start": 67.1,
+      "end": 67.54,
+      "word": "concludere"
+    },
+    {
+      "start": 67.54,
+      "end": 67.62,
+      "word": "il"
+    },
+    {
+      "start": 67.62,
+      "end": 68.02,
+      "word": "pasto"
+    },
+    {
+      "start": 68.02,
+      "end": 68.32,
+      "word": "tirami"
+    },
+    {
+      "start": 68.32,
+      "end": 68.52,
+      "word": "su"
+    },
+    {
+      "start": 68.52,
+      "end": 68.72,
+      "word": "a"
+    },
+    {
+      "start": 68.72,
+      "end": 68.9,
+      "word": "modo"
+    },
+    {
+      "start": 68.9,
+      "end": 69.22,
+      "word": "mio"
+    },
+    {
+      "start": 69.22,
+      "end": 69.48,
+      "word": "con"
+    },
+    {
+      "start": 69.48,
+      "end": 69.8,
+      "word": "una"
+    },
+    {
+      "start": 69.8,
+      "end": 70.14,
+      "word": "crema"
+    },
+    {
+      "start": 70.14,
+      "end": 70.26,
+      "word": "di"
+    },
+    {
+      "start": 70.26,
+      "end": 70.52,
+      "word": "ricotta"
+    },
+    {
+      "start": 70.52,
+      "end": 70.68,
+      "word": "di"
+    },
+    {
+      "start": 70.68,
+      "end": 71.02,
+      "word": "bufala"
+    },
+    {
+      "start": 71.02,
+      "end": 71.22,
+      "word": "e"
+    },
+    {
+      "start": 71.22,
+      "end": 71.5,
+      "word": "fiochi"
+    },
+    {
+      "start": 71.5,
+      "end": 71.6,
+      "word": "di"
+    },
+    {
+      "start": 71.6,
+      "end": 71.84,
+      "word": "neve"
+    },
+    {
+      "start": 71.84,
+      "end": 72.34,
+      "word": "direttamente"
+    },
+    {
+      "start": 72.34,
+      "end": 72.54,
+      "word": "dalla"
+    },
+    {
+      "start": 72.54,
+      "end": 73.1,
+      "word": "pasticceria"
+    },
+    {
+      "start": 73.1,
+      "end": 73.64,
+      "word": "poppella."
+    },
+    {
+      "start": 73.74,
+      "end": 73.96,
+      "word": "Insomma"
+    },
+    {
+      "start": 73.96,
+      "end": 74.1,
+      "word": "un"
+    },
+    {
+      "start": 74.1,
+      "end": 74.34,
+      "word": "ottimo"
+    },
+    {
+      "start": 74.34,
+      "end": 74.72,
+      "word": "locale"
+    },
+    {
+      "start": 74.72,
+      "end": 74.88,
+      "word": "per"
+    },
+    {
+      "start": 74.88,
+      "end": 75.36,
+      "word": "assaggiare"
+    },
+    {
+      "start": 75.36,
+      "end": 75.48,
+      "word": "la"
+    },
+    {
+      "start": 75.48,
+      "end": 75.72,
+      "word": "vera"
+    },
+    {
+      "start": 75.72,
+      "end": 76.14,
+      "word": "tradizione"
+    },
+    {
+      "start": 76.14,
+      "end": 76.78,
+      "word": "napoletana."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.733,
+      "dur": 1.733,
+      "transcript": "Pizza con burrata fritta e"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.733,
+      "end": 3.633,
+      "dur": 1.9,
+      "transcript": "pizza casatiello. Oggi ragazzi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.633,
+      "end": 5.467,
+      "dur": 1.833,
+      "transcript": "vi porto a provare Capuanos. Una pizzeria"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.467,
+      "end": 7.533,
+      "dur": 2.067,
+      "transcript": "napoletana con più sedi che rappresenta al"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.533,
+      "end": 9.567,
+      "dur": 2.033,
+      "transcript": "massimo la tradizione di Napoli. Noi abbiamo"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.567,
+      "end": 11.2,
+      "dur": 1.633,
+      "transcript": "ovviamente iniziato a col Capuanos"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.2,
+      "end": 13.2,
+      "dur": 2.0,
+      "transcript": "Grand Fritto Napoli, che è quindi un misto di"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.2,
+      "end": 14.667,
+      "dur": 1.467,
+      "transcript": "fritti napoletani che ci ha permesso"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.667,
+      "end": 16.433,
+      "dur": 1.767,
+      "transcript": "di provare le loro montanarine,"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.433,
+      "end": 17.633,
+      "dur": 1.2,
+      "transcript": "super buone e fresche col"
+    },
+    {
+      "shot_idx": 10,
+      "start": 17.633,
+      "end": 19.167,
+      "dur": 1.533,
+      "transcript": "pomodoro, i croquet di patate che"
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.167,
+      "end": 22.167,
+      "dur": 3.0,
+      "transcript": "erano davvero davvero filanti come potete ben vedere, e che proprio"
+    },
+    {
+      "shot_idx": 12,
+      "start": 22.167,
+      "end": 25.967,
+      "dur": 3.8,
+      "transcript": "per questo mi hanno stupito parecchio, poi un po' di zeppoline alle erbe e gli arancini"
+    },
+    {
+      "shot_idx": 13,
+      "start": 25.967,
+      "end": 27.767,
+      "dur": 1.8,
+      "transcript": "di riso, che nonostante gli erbe assaggiati"
+    },
+    {
+      "shot_idx": 14,
+      "start": 27.767,
+      "end": 30.067,
+      "dur": 2.3,
+      "transcript": "per ultimi devo dire che si sono mantenuti bene. Dopodiché"
+    },
+    {
+      "shot_idx": 15,
+      "start": 30.067,
+      "end": 31.9,
+      "dur": 1.833,
+      "transcript": "si hanno passati alle pizze con la"
+    },
+    {
+      "shot_idx": 16,
+      "start": 31.9,
+      "end": 34.367,
+      "dur": 2.467,
+      "transcript": "San Marzano, che è una pizza con pomodoro San Marzano,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.367,
+      "end": 36.533,
+      "dur": 2.167,
+      "transcript": "provola fumicata di agerola, provolone del"
+    },
+    {
+      "shot_idx": 18,
+      "start": 36.533,
+      "end": 37.567,
+      "dur": 1.033,
+      "transcript": "Monaco e al"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.567,
+      "end": 39.733,
+      "dur": 2.167,
+      "transcript": "centro questa mega burrata fritta, che aveva"
+    },
+    {
+      "shot_idx": 20,
+      "start": 39.733,
+      "end": 41.233,
+      "dur": 1.5,
+      "transcript": "appunto questa fumicatura che le ha reso"
+    },
+    {
+      "shot_idx": 21,
+      "start": 41.233,
+      "end": 44.7,
+      "dur": 3.467,
+      "transcript": "ancora più saporita della burrata classica e che ha mantenuto questa consistenza"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.7,
+      "end": 46.9,
+      "dur": 2.2,
+      "transcript": "morbida dentro ma croccante fuori. Una pizza di"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.9,
+      "end": 49.333,
+      "dur": 2.433,
+      "transcript": "certo non leggera ma che mantiene comunque un tocco di"
+    },
+    {
+      "shot_idx": 24,
+      "start": 49.333,
+      "end": 51.567,
+      "dur": 2.233,
+      "transcript": "freschezza grazie alla veluta tal basilico e il pomodoro."
+    },
+    {
+      "shot_idx": 25,
+      "start": 51.567,
+      "end": 53.1,
+      "dur": 1.533,
+      "transcript": "Dopodiché ho assaggiato questa pizza"
+    },
+    {
+      "shot_idx": 26,
+      "start": 53.1,
+      "end": 54.7,
+      "dur": 1.6,
+      "transcript": "casatiello, una loro limited"
+    },
+    {
+      "shot_idx": 27,
+      "start": 54.7,
+      "end": 56.1,
+      "dur": 1.4,
+      "transcript": "edition del periodo di Pasqua,"
+    },
+    {
+      "shot_idx": 28,
+      "start": 56.1,
+      "end": 57.667,
+      "dur": 1.567,
+      "transcript": "con provola di agerola Salame"
+    },
+    {
+      "shot_idx": 29,
+      "start": 57.667,
+      "end": 60.5,
+      "dur": 2.833,
+      "transcript": "Napoli, ovviamente uovo Sodo e cornicione ripieno con provolone"
+    },
+    {
+      "shot_idx": 30,
+      "start": 60.5,
+      "end": 62.333,
+      "dur": 1.833,
+      "transcript": "del Monaco, Cicoli e Pepe. Un 'altra"
+    },
+    {
+      "shot_idx": 31,
+      "start": 62.333,
+      "end": 67.3,
+      "dur": 4.967,
+      "transcript": "pizza tutt 'altro che leggera, ma che uniscemerisce specia il meglio i due saporei della pizza del casatiello. Ed infine per"
+    },
+    {
+      "shot_idx": 32,
+      "start": 67.3,
+      "end": 70.167,
+      "dur": 2.867,
+      "transcript": "concludere il pasto tirami su a modo mio con una crema"
+    },
+    {
+      "shot_idx": 33,
+      "start": 70.167,
+      "end": 72.367,
+      "dur": 2.2,
+      "transcript": "di ricotta di bufala e fiochi di neve direttamente"
+    },
+    {
+      "shot_idx": 34,
+      "start": 72.367,
+      "end": 73.967,
+      "dur": 1.6,
+      "transcript": "dalla pasticceria poppella. Insomma"
+    },
+    {
+      "shot_idx": 35,
+      "start": 73.967,
+      "end": 75.4,
+      "dur": 1.433,
+      "transcript": "un ottimo locale per assaggiare"
+    },
+    {
+      "shot_idx": 36,
+      "start": 75.4,
+      "end": 77.167,
+      "dur": 1.767,
+      "transcript": "la vera tradizione napoletana."
+    }
+  ],
+  "full_text": "Pizza con burrata fritta e pizza casatiello. Oggi ragazzi vi porto a provare Capuanos. Una pizzeria napoletana con più sedi che rappresenta al massimo la tradizione di Napoli. Noi abbiamo ovviamente iniziato a col Capuanos Grand Fritto Napoli, che è quindi un misto di fritti napoletani che ci ha permesso di provare le loro montanarine, super buone e fresche col pomodoro, i croquet di patate che erano davvero davvero filanti come potete ben vedere, e che proprio per questo mi hanno stupito parecchio, poi un po' di zeppoline alle erbe e gli arancini di riso, che nonostante gli erbe assaggiati per ultimi devo dire che si sono mantenuti bene. Dopodiché si hanno passati alle pizze con la San Marzano, che è una pizza con pomodoro San Marzano, provola fumicata di agerola, provolone del Monaco e al centro questa mega burrata fritta, che aveva appunto questa fumicatura che le ha reso ancora più saporita della burrata classica e che ha mantenuto questa consistenza morbida dentro ma croccante fuori. Una pizza di certo non leggera ma che mantiene comunque un tocco di freschezza grazie alla veluta tal basilico e il pomodoro. Dopodiché ho assaggiato questa pizza casatiello, una loro limited edition del periodo di Pasqua, con provola di agerola Salame Napoli, ovviamente uovo Sodo e cornicione ripieno con provolone del Monaco, Cicoli e Pepe. Un'altra pizza tutt'altro che leggera, ma che uniscemerisce specia il meglio i due saporei della pizza del casatiello. Ed infine per concludere il pasto tirami su a modo mio con una crema di ricotta di bufala e fiochi di neve direttamente dalla pasticceria poppella. Insomma un ottimo locale per assaggiare la vera tradizione napoletana.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

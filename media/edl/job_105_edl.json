@@ -1,0 +1,500 @@
+{
+  "title": "Wings & Fries Clamorosi",
+  "voiceover_script": "Oggi sono finalmente andato in questo locale che sta spopolando. Ragazzi, guardate un po' cosa abbiamo qui: wings glassate, pollo fritto clamoroso, patatine croccanti e crocchette. Insomma, un menù davvero folle. Allora, partiamo dalle wings: guardate come sono glassate, la consistenza è pazzesca, davvero bomba. Ora assaggiamo il pollo: esterno croccantissimo, interno succoso e tenero. Le patatine vedete? Gialle, dorate, perfette. E le crocchette? Croccanti fuori, morbide dentro. Vi assicuro che tutto il menu qui è clamoroso. Dovete assolutamente provare questo posto, è davvero una bomba. Ragazzi, potete non provare queste ali caramellate?",
+  "timeline": [
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "food",
+      "subtitle_text": "Oggi sono finalmente andato in questo locale che sta spopolando."
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.65,
+      "out_sec": 6.05,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": "Ragazzi, guardate un po' cosa abbiamo qui: wings glassate, pollo fritto clamoroso, patatine croccanti e crocchette."
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": "Insomma, un menù davvero folle."
+    },
+    {
+      "scene_id": 15,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": "Allora, partiamo dalle wings: guardate come sono glassate, la consistenza è pazzesca, davvero bomba."
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 16.05,
+      "out_sec": 18.45,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": "Ora assaggiamo il pollo: esterno croccantissimo, interno succoso e tenero."
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": "Le patatine vedete? Gialle, dorate, perfette."
+    },
+    {
+      "scene_id": 42,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "food",
+      "subtitle_text": "E le crocchette? Croccanti fuori, morbide dentro."
+    },
+    {
+      "scene_id": 30,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": "Vi assicuro che tutto il menu qui è clamoroso."
+    },
+    {
+      "scene_id": 35,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 22.25,
+      "out_sec": 24.65,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": "Dovete assolutamente provare questo posto, è davvero una bomba."
+    },
+    {
+      "scene_id": 45,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 9.85,
+      "out_sec": 12.25,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": "Ragazzi, potete non provare queste ali caramellate?"
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.65,
+      "out_sec": 6.05,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 14,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 24.8,
+      "out_sec": 27.04,
+      "duration": 2.24,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 18,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 9.85,
+      "out_sec": 12.25,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 19,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 26,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 22.25,
+      "out_sec": 24.65,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 36,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 25.35,
+      "out_sec": 27.75,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 41,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 40.55,
+      "out_sec": 42.95,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 44,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 51,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "clip_name": "IMG_6826.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 53,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "clip_name": "IMG_6826.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 58,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 62,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 64,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 65,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 3.65,
+      "out_sec": 6.05,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 68,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 72,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 76,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 79,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "clip_name": "IMG_6830.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 81,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "clip_name": "IMG_6830.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 82,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 0.4,
+      "out_sec": 2.8,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 85,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 6.59,
+      "out_sec": 8.99,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 89,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "clip_name": "IMG_6832.MOV",
+      "in_sec": 0.0,
+      "out_sec": 1.3,
+      "duration": 1.3,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 92,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "clip_name": "IMG_6833.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "food",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 97,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "clip_name": "IMG_6833.MOV",
+      "in_sec": 22.25,
+      "out_sec": 24.65,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 98,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "clip_name": "IMG_6834.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 101,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "clip_name": "IMG_6834.MOV",
+      "in_sec": 9.85,
+      "out_sec": 12.25,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 102,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "food",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 104,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 109,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 22.25,
+      "out_sec": 24.65,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 113,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "clip_name": "IMG_6837.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 117,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "clip_name": "IMG_6837.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 118,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "clip_name": "IMG_6837.MOV",
+      "in_sec": 16.05,
+      "out_sec": 18.45,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 121,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "clip_name": "IMG_6837.MOV",
+      "in_sec": 25.35,
+      "out_sec": 27.75,
+      "duration": 2.4,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 122,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "clip_name": "IMG_6837.MOV",
+      "in_sec": 27.9,
+      "out_sec": 30.0,
+      "duration": 2.1,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 125,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 6.75,
+      "out_sec": 9.15,
+      "duration": 2.4,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 127,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "clip_name": "IMG_6838.MOV",
+      "in_sec": 12.95,
+      "out_sec": 15.35,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 129,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "clip_name": "IMG_6839.MOV",
+      "in_sec": 3.65,
+      "out_sec": 6.05,
+      "duration": 2.4,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 131,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "clip_name": "IMG_6844.MOV",
+      "in_sec": 0.55,
+      "out_sec": 2.95,
+      "duration": 2.4,
+      "role": "ambiance",
+      "subtitle_text": "WINGS"
+    }
+  ],
+  "total_duration": 116.04,
+  "n_clips": 49,
+  "profile_id": 13,
+  "generated_at": "2026-09-18T09:59:08"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "IMG_6832.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration": 1.3,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.3,
+      "duration": 1.3,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6832/scene_000_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 99.6,
+      "brightness": 156.5,
+      "contrast": 56.1,
+      "blur_score": 304.7
+    }
+  ],
+  "transcript": [],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6832.wav"
+}

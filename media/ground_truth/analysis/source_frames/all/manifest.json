@@ -1,0 +1,4362 @@
+[
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t0.00.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t0.50.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t1.00.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t1.50.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t2.00.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t2.50.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t3.00.jpg"
+  },
+  {
+    "source": "source_00001.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00001_t3.50.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t0.00.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t0.50.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t1.00.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t1.50.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t2.00.jpg"
+  },
+  {
+    "source": "source_00002.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00002_t2.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t0.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t0.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t1.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t1.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t2.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t2.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t3.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t3.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t4.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t4.50.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t5.00.jpg"
+  },
+  {
+    "source": "source_00003.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00003_t5.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t0.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t0.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t1.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t1.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t2.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t2.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t3.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t3.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t4.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t4.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t5.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t5.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t6.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t6.50.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t7.00.jpg"
+  },
+  {
+    "source": "source_00004.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00004_t7.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t0.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t0.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t1.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t1.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t2.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t2.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t3.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t3.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t4.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t4.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t5.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t5.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t6.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t6.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t7.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t7.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t8.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t8.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t9.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t9.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t10.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t10.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t11.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t11.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t12.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t12.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t13.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t13.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t14.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t14.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t15.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t15.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t16.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t16.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t17.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t17.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t18.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t18.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t19.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t19.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t20.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t20.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t21.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t21.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t22.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t22.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t23.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t23.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t24.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t24.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t25.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t25.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t26.00.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 26.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t26.50.jpg"
+  },
+  {
+    "source": "source_00005.mp4",
+    "timestamp": 27.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00005_t27.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t0.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t0.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t1.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t1.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t2.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t2.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t3.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t3.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t4.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t4.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t5.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t5.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t6.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t6.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t7.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t7.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t8.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t8.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t9.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t9.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t10.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t10.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t11.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t11.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t12.00.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t12.50.jpg"
+  },
+  {
+    "source": "source_00006.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00006_t13.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t0.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t0.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t1.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t1.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t2.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t2.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t3.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t3.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t4.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t4.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t5.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t5.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t6.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t6.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t7.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t7.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t8.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t8.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t9.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t9.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t10.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t10.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t11.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t11.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t12.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t12.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t13.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t13.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t14.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t14.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t15.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t15.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t16.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t16.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t17.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t17.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t18.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t18.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t19.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t19.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t20.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t20.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t21.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t21.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t22.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t22.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t23.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t23.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t24.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t24.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t25.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t25.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t26.00.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 26.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t26.50.jpg"
+  },
+  {
+    "source": "source_00007.mp4",
+    "timestamp": 27.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00007_t27.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t0.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t0.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t1.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t1.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t2.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t2.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t3.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t3.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t4.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t4.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t5.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t5.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t6.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t6.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t7.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t7.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t8.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t8.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t9.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t9.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t10.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t10.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t11.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t11.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t12.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t12.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t13.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t13.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t14.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t14.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t15.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t15.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t16.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t16.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t17.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t17.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t18.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t18.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t19.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t19.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t20.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t20.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t21.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t21.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t22.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t22.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t23.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t23.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t24.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t24.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t25.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t25.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t26.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 26.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t26.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 27.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t27.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 27.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t27.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 28.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t28.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 28.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t28.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 29.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t29.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 29.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t29.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 30.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t30.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 30.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t30.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 31.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t31.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 31.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t31.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 32.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t32.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 32.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t32.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 33.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t33.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 33.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t33.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 34.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t34.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 34.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t34.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 35.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t35.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 35.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t35.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 36.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t36.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 36.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t36.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 37.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t37.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 37.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t37.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 38.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t38.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 38.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t38.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 39.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t39.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 39.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t39.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 40.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t40.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 40.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t40.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 41.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t41.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 41.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t41.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 42.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t42.00.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 42.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t42.50.jpg"
+  },
+  {
+    "source": "source_00008.mp4",
+    "timestamp": 43.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00008_t43.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t0.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t0.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t1.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t1.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t2.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t2.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t3.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t3.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t4.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t4.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t5.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t5.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t6.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t6.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t7.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t7.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t8.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t8.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t9.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t9.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t10.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t10.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t11.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t11.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t12.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t12.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t13.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t13.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t14.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t14.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t15.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t15.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t16.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t16.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t17.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t17.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t18.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t18.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t19.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t19.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t20.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t20.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t21.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t21.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t22.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t22.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t23.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t23.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t24.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t24.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t25.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t25.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t26.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 26.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t26.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 27.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t27.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 27.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t27.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 28.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t28.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 28.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t28.50.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 29.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t29.00.jpg"
+  },
+  {
+    "source": "source_00009.mp4",
+    "timestamp": 29.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00009_t29.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t0.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t0.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t1.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t1.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t2.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t2.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t3.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t3.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t4.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t4.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t5.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t5.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t6.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t6.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t7.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t7.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t8.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t8.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t9.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t9.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t10.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t10.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t11.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t11.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t12.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t12.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t13.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t13.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t14.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t14.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t15.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t15.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t16.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t16.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t17.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t17.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t18.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t18.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t19.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t19.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t20.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t20.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t21.00.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t21.50.jpg"
+  },
+  {
+    "source": "source_00010.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00010_t22.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t0.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t0.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t1.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t1.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t2.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t2.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t3.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t3.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t4.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t4.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t5.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t5.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t6.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t6.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t7.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t7.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t8.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t8.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t9.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t9.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t10.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t10.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t11.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t11.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t12.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t12.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t13.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t13.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t14.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t14.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t15.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t15.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t16.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t16.50.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t17.00.jpg"
+  },
+  {
+    "source": "source_00011.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00011_t17.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t0.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t0.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t1.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t1.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t2.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t2.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t3.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t3.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t4.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t4.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t5.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t5.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t6.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t6.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t7.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t7.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t8.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t8.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t9.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t9.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t10.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t10.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t11.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t11.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t12.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t12.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t13.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t13.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t14.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t14.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t15.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t15.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t16.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t16.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t17.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t17.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t18.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t18.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t19.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t19.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t20.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t20.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t21.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t21.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t22.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t22.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t23.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t23.50.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t24.00.jpg"
+  },
+  {
+    "source": "source_00012.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00012_t24.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t0.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t0.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t1.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t1.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t2.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t2.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t3.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t3.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t4.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t4.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t5.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t5.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t6.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t6.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t7.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t7.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t8.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t8.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t9.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t9.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t10.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t10.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t11.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t11.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t12.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t12.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t13.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t13.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t14.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t14.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t15.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t15.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t16.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t16.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t17.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t17.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t18.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t18.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t19.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t19.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t20.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t20.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t21.00.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t21.50.jpg"
+  },
+  {
+    "source": "source_00013.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00013_t22.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t0.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t0.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t1.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t1.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t2.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t2.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t3.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t3.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t4.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t4.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t5.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t5.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t6.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t6.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t7.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t7.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t8.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t8.50.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t9.00.jpg"
+  },
+  {
+    "source": "source_00014.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00014_t9.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t0.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t0.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t1.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t1.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t2.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t2.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t3.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t3.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t4.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t4.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t5.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t5.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t6.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t6.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t7.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t7.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t8.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t8.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t9.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t9.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t10.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t10.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t11.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t11.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t12.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t12.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t13.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t13.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t14.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t14.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t15.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t15.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t16.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t16.50.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t17.00.jpg"
+  },
+  {
+    "source": "source_00015.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00015_t17.50.jpg"
+  },
+  {
+    "source": "source_00016.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00016_t0.00.jpg"
+  },
+  {
+    "source": "source_00016.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00016_t0.50.jpg"
+  },
+  {
+    "source": "source_00016.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00016_t1.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t0.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t0.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t1.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t1.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t2.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t2.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t3.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t3.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t4.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t4.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t5.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t5.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t6.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t6.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t7.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t7.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t8.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t8.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t9.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t9.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t10.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t10.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t11.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t11.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t12.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t12.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t13.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t13.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t14.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t14.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t15.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t15.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t16.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t16.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t17.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t17.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t18.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t18.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t19.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t19.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t20.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t20.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t21.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t21.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t22.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t22.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t23.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t23.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t24.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t24.50.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t25.00.jpg"
+  },
+  {
+    "source": "source_00017.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00017_t25.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t0.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t0.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t1.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t1.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t2.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t2.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t3.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t3.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t4.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t4.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t5.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t5.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t6.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t6.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t7.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t7.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t8.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t8.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t9.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t9.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t10.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t10.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t11.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t11.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t12.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t12.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t13.00.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t13.50.jpg"
+  },
+  {
+    "source": "source_00018.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00018_t14.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t0.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t0.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t1.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t1.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t2.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t2.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t3.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t3.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t4.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t4.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t5.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t5.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t6.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t6.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t7.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t7.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t8.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t8.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t9.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t9.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t10.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t10.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t11.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t11.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t12.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t12.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t13.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t13.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t14.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t14.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t15.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t15.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t16.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t16.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t17.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t17.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t18.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t18.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t19.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t19.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t20.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t20.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t21.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t21.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t22.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t22.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t23.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t23.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t24.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t24.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t25.00.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t25.50.jpg"
+  },
+  {
+    "source": "source_00019.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00019_t26.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t0.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t0.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t1.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t1.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t2.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t2.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t3.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t3.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t4.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t4.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t5.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t5.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t6.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t6.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t7.00.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t7.50.jpg"
+  },
+  {
+    "source": "source_00020.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00020_t8.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t0.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t0.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t1.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t1.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t2.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t2.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t3.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t3.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t4.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t4.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t5.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t5.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t6.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t6.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t7.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t7.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t8.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t8.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t9.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t9.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t10.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t10.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t11.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t11.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t12.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t12.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t13.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t13.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t14.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t14.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t15.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t15.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t16.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 16.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t16.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 17.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t17.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 17.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t17.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 18.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t18.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 18.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t18.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 19.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t19.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 19.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t19.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 20.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t20.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 20.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t20.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 21.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t21.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 21.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t21.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 22.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t22.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 22.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t22.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 23.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t23.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 23.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t23.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 24.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t24.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 24.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t24.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 25.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t25.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 25.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t25.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 26.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t26.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 26.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t26.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 27.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t27.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 27.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t27.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 28.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t28.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 28.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t28.50.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 29.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t29.00.jpg"
+  },
+  {
+    "source": "source_00021.mp4",
+    "timestamp": 29.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00021_t29.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t0.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t0.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t1.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t1.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t2.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t2.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t3.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t3.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t4.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t4.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t5.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t5.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t6.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t6.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t7.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t7.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t8.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t8.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t9.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t9.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t10.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t10.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t11.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t11.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t12.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t12.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t13.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t13.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t14.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t14.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t15.00.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 15.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t15.50.jpg"
+  },
+  {
+    "source": "source_00022.mp4",
+    "timestamp": 16.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00022_t16.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t0.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t0.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t1.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t1.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t2.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t2.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t3.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t3.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t4.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t4.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t5.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t5.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t6.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t6.50.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t7.00.jpg"
+  },
+  {
+    "source": "source_00023.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00023_t7.50.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t0.00.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t0.50.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t1.00.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t1.50.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t2.00.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t2.50.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t3.00.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t3.50.jpg"
+  },
+  {
+    "source": "source_00024.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00024_t4.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t0.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t0.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t1.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t1.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t2.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t2.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t3.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t3.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t4.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t4.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t5.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 5.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t5.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 6.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t6.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 6.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t6.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 7.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t7.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 7.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t7.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 8.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t8.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 8.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t8.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 9.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t9.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 9.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t9.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 10.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t10.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 10.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t10.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 11.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t11.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 11.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t11.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 12.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t12.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 12.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t12.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 13.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t13.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 13.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t13.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 14.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t14.00.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 14.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t14.50.jpg"
+  },
+  {
+    "source": "source_00025.mp4",
+    "timestamp": 15.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00025_t15.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 0.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t0.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 0.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t0.50.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 1.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t1.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 1.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t1.50.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 2.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t2.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 2.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t2.50.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 3.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t3.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 3.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t3.50.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 4.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t4.00.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 4.5,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t4.50.jpg"
+  },
+  {
+    "source": "source_00026.mp4",
+    "timestamp": 5.0,
+    "frame_path": "/opt/reel-agent/media/ground_truth/analysis/source_frames/all/source_00026_t5.00.jpg"
+  }
+]

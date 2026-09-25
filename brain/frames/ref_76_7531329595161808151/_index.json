@@ -1,0 +1,136 @@
+{
+  "ref_id": "ref_76_7531329595161808151",
+  "video": "/opt/reel-agent/media/style_ref/ref_76_7531329595161808151.mp4",
+  "n_shots": 16,
+  "total_dur": 54.83,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 5.233,
+      "dur": 3.2,
+      "center": 3.633,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 5.233,
+      "end": 11.733,
+      "dur": 6.5,
+      "center": 8.483,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_002.jpg"
+    },
+    {
+      "idx": 3,
+      "start": 11.733,
+      "end": 15.167,
+      "dur": 3.433,
+      "center": 13.45,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_003.jpg"
+    },
+    {
+      "idx": 4,
+      "start": 15.167,
+      "end": 16.8,
+      "dur": 1.633,
+      "center": 15.983,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_004.jpg"
+    },
+    {
+      "idx": 5,
+      "start": 16.8,
+      "end": 19.3,
+      "dur": 2.5,
+      "center": 18.05,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_005.jpg"
+    },
+    {
+      "idx": 6,
+      "start": 19.3,
+      "end": 22.233,
+      "dur": 2.933,
+      "center": 20.767,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_006.jpg"
+    },
+    {
+      "idx": 7,
+      "start": 22.233,
+      "end": 27.367,
+      "dur": 5.133,
+      "center": 24.8,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_007.jpg"
+    },
+    {
+      "idx": 8,
+      "start": 27.367,
+      "end": 29.967,
+      "dur": 2.6,
+      "center": 28.667,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_008.jpg"
+    },
+    {
+      "idx": 9,
+      "start": 29.967,
+      "end": 34.467,
+      "dur": 4.5,
+      "center": 32.217,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_009.jpg"
+    },
+    {
+      "idx": 10,
+      "start": 34.467,
+      "end": 42.567,
+      "dur": 8.1,
+      "center": 38.517,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_010.jpg"
+    },
+    {
+      "idx": 11,
+      "start": 42.567,
+      "end": 45.6,
+      "dur": 3.033,
+      "center": 44.083,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_011.jpg"
+    },
+    {
+      "idx": 12,
+      "start": 45.6,
+      "end": 49.067,
+      "dur": 3.467,
+      "center": 47.333,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_012.jpg"
+    },
+    {
+      "idx": 13,
+      "start": 49.067,
+      "end": 50.2,
+      "dur": 1.133,
+      "center": 49.633,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_013.jpg"
+    },
+    {
+      "idx": 14,
+      "start": 50.2,
+      "end": 54.7,
+      "dur": 4.5,
+      "center": 52.45,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_014.jpg"
+    },
+    {
+      "idx": 15,
+      "start": 54.7,
+      "end": 54.833,
+      "dur": 0.133,
+      "center": 54.767,
+      "frame": "/opt/reel-agent/brain/frames/ref_76_7531329595161808151/shot_015.jpg"
+    }
+  ]
+}

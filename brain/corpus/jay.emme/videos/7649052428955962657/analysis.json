@@ -1,0 +1,3498 @@
+{
+  "video_id": "7649052428955962657",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7649052428955962657",
+    "ref_id": "ref_15_7649052428955962657",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7649052428955962657",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 40,
+  "total_dur": 97.7,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "center": 1.033,
+      "role": "venue_exterior",
+      "subject": "resort maldiviano sull'acqua",
+      "description": "Il mare cristallino e le ville sull'acqua creano un'atmosfera da sogno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "giorno 3 del mio viaggio alle Maldive oggi ragazzi"
+    },
+    {
+      "idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0,
+      "center": 3.067,
+      "role": "other",
+      "subject": "ragazzo in primo piano",
+      "description": "Il ragazzo sorride alla telecamera con il mare sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ci aspetto una gran bella giornata quindi partiamo"
+    },
+    {
+      "idx": 2,
+      "start": 4.067,
+      "end": 6.833,
+      "dur": 2.767,
+      "center": 5.45,
+      "role": "food_detail",
+      "subject": "chef prepara crepe",
+      "description": "Le mani dello chef versano la salsa al cioccolato su una crepe.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "carichi con una bella crepe è un bel piattino con qualche mini"
+    },
+    {
+      "idx": 3,
+      "start": 6.833,
+      "end": 8.033,
+      "dur": 1.2,
+      "center": 7.433,
+      "role": "food_plated",
+      "subject": "dolci vari colazione",
+      "description": "Un piatto bianco pieno di dolci assortiti, tra cui croissant e torte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "croissant con cui ho appunto"
+    },
+    {
+      "idx": 4,
+      "start": 8.033,
+      "end": 9.833,
+      "dur": 1.8,
+      "center": 8.933,
+      "role": "food_plated",
+      "subject": "crepe con cioccolato",
+      "description": "Una crepe piegata e decorata con salsa al cioccolato e zucchero a velo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fatto colazione ovviamente vista mare"
+    },
+    {
+      "idx": 5,
+      "start": 9.833,
+      "end": 11.933,
+      "dur": 2.1,
+      "center": 10.883,
+      "role": "venue_interior_wide",
+      "subject": "tavolo vista mare",
+      "description": "Un tavolo di legno con bicchieri e un codice QR, con una spiaggia e il mare sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "dopo di che Visto che comunque c 'era un bel tempo"
+    },
+    {
+      "idx": 6,
+      "start": 11.933,
+      "end": 13.167,
+      "dur": 1.233,
+      "center": 12.55,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Un ragazzo con una maglietta bianca mangia un dessert al cioccolato con un cucchiaio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "deciso di prendere maschere"
+    },
+    {
+      "idx": 7,
+      "start": 13.167,
+      "end": 14.3,
+      "dur": 1.133,
+      "center": 13.733,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pane",
+      "description": "Il ragazzo con la maglietta bianca mangia un pezzo di pane, con altri dolci sul piatto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "boccaglio e andare a fare un bel"
+    },
+    {
+      "idx": 8,
+      "start": 14.3,
+      "end": 15.933,
+      "dur": 1.633,
+      "center": 15.117,
+      "role": "person_talking",
+      "subject": "ragazzo con maschera",
+      "description": "Un ragazzo tiene una maschera da snorkeling e un asciugamano verde, con palme sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "giro sulla barriera corallina"
+    },
+    {
+      "idx": 9,
+      "start": 15.933,
+      "end": 25.167,
+      "dur": 9.233,
+      "center": 20.55,
+      "role": "person_talking",
+      "subject": "ragazzo bagnato parla",
+      "description": "Un ragazzo a torso nudo con i capelli bagnati parla alla telecamera, con un cielo nuvoloso sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "arrivo lì becco due squaletti faccio per vincorre lì anche se andavano velocissimo bomba tartarughina marina che mi passa davanti una roba incredibile e"
+    },
+    {
+      "idx": 10,
+      "start": 25.167,
+      "end": 26.9,
+      "dur": 1.733,
+      "center": 26.033,
+      "role": "person_eating",
+      "subject": "ragazzo con piatto",
+      "description": "Il ragazzo guarda in camera con un'espressione sorpresa mentre tiene due piatti pieni di cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "quindi sì dopo aver nuotato con qualche squaletto"
+    },
+    {
+      "idx": 11,
+      "start": 26.9,
+      "end": 28.133,
+      "dur": 1.233,
+      "center": 27.517,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando con la forchetta, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "una tartaruga marina sono"
+    },
+    {
+      "idx": 12,
+      "start": 28.133,
+      "end": 30.133,
+      "dur": 2.0,
+      "center": 29.133,
+      "role": "food_plated",
+      "subject": "piatto di dolci",
+      "description": "Un piatto pieno di frutta e dolci vari, con una fetta di torta in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dato bello carico il pranzo con Questo"
+    },
+    {
+      "idx": 13,
+      "start": 30.133,
+      "end": 31.067,
+      "dur": 0.933,
+      "center": 30.6,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando un pezzo di frutta con la forchetta, con un'espressione di piacere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "mega piattone e"
+    },
+    {
+      "idx": 14,
+      "start": 31.067,
+      "end": 33.367,
+      "dur": 2.3,
+      "center": 32.217,
+      "role": "other",
+      "subject": "piedi sulla sabbia",
+      "description": "I piedi del ragazzo sono visibili sulla sabbia bianca, con un asciugamano e dei vestiti scuri.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "anche un po di frutti dolce finale nel pomeriggio poi ripreso"
+    },
+    {
+      "idx": 15,
+      "start": 33.367,
+      "end": 38.833,
+      "dur": 5.467,
+      "center": 36.1,
+      "role": "other",
+      "subject": "squali in acqua",
+      "description": "Due squali nuotano in acque cristalline vicino a una barca.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "maschere a boccaglio e pinne siamo partiti per andare a visitare una lingua di sabbia dopo questi quanta stasi squali nutrici che stanno"
+    },
+    {
+      "idx": 16,
+      "start": 38.833,
+      "end": 40.633,
+      "dur": 1.8,
+      "center": 39.733,
+      "role": "venue_interior_wide",
+      "subject": "interno barca",
+      "description": "L'interno di una barca con persone e attrezzatura da sub, con il mare e la costa sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "sempre arriva e stanno sempre insieme con la barca"
+    },
+    {
+      "idx": 17,
+      "start": 40.633,
+      "end": 43.8,
+      "dur": 3.167,
+      "center": 42.217,
+      "role": "other",
+      "subject": "scia barca mare",
+      "description": "La scia di una barca che solca un mare calmo sotto un cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "del resort Siamo appunto partiti e nonostante non ci fosse proprio solo"
+    },
+    {
+      "idx": 18,
+      "start": 43.8,
+      "end": 45.6,
+      "dur": 1.8,
+      "center": 44.7,
+      "role": "person_talking",
+      "subject": "ragazzo in barca",
+      "description": "Un ragazzo sorride alla telecamera sul ponte di una barca, con il mare sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "il tempo comunque sembrava reggere infatti"
+    },
+    {
+      "idx": 19,
+      "start": 45.6,
+      "end": 47.1,
+      "dur": 1.5,
+      "center": 46.35,
+      "role": "person_talking",
+      "subject": "ragazzo con giubbotto",
+      "description": "Un ragazzo indossa un giubbotto di salvataggio arancione, con una barca sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "primo bagno su una barriera"
+    },
+    {
+      "idx": 20,
+      "start": 47.1,
+      "end": 47.667,
+      "dur": 0.567,
+      "center": 47.383,
+      "role": "other",
+      "subject": "uomo con pinne",
+      "description": "Un uomo tiene in mano un paio di pinne blu e nere, con una maschera da sub sulla fronte.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "corallina"
+    },
+    {
+      "idx": 21,
+      "start": 47.667,
+      "end": 50.667,
+      "dur": 3.0,
+      "center": 49.167,
+      "role": "person_talking",
+      "subject": "uomo bagnato",
+      "description": "Un uomo con i capelli bagnati e il petto nudo guarda dritto in camera.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "nel mezzo del mare che vuol dire che appunto nuotare il mezzo la barriera corallina"
+    },
+    {
+      "idx": 22,
+      "start": 50.667,
+      "end": 52.767,
+      "dur": 2.1,
+      "center": 51.717,
+      "role": "person_eating",
+      "subject": "uomo mangia anguria",
+      "description": "Un uomo mangia una fetta di anguria, con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "senza vedere alcun tipo di terra"
+    },
+    {
+      "idx": 23,
+      "start": 52.767,
+      "end": 60.733,
+      "dur": 7.967,
+      "center": 56.75,
+      "role": "other",
+      "subject": "mare mosso",
+      "description": "Una distesa di mare mosso sotto un cielo nuvoloso, con una striscia di acqua più chiara all'orizzonte.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fa abbastanza effetto dopo di che è aperitivo in barca e siamo anche riusciti a incontrare questo gruppo di delfini che ci ha seguiti per un po Spero che noi siamo appunto arrivati a questa"
+    },
+    {
+      "idx": 24,
+      "start": 60.733,
+      "end": 64.1,
+      "dur": 3.367,
+      "center": 62.417,
+      "role": "other",
+      "subject": "isola tropicale",
+      "description": "Una spiaggia di sabbia bianca con persone e una barca, circondata da acqua cristallina e un cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "lingua di sabbia che giustamente emerge un po in base alle marie piccolo bagno"
+    },
+    {
+      "idx": 25,
+      "start": 64.1,
+      "end": 66.133,
+      "dur": 2.033,
+      "center": 65.117,
+      "role": "venue_interior_detail",
+      "subject": "bancone bar legno",
+      "description": "Il bancone in legno con un logo a forma di pesce e bottiglie di spumante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "qua intorno Poi siamo tornati nella nostra isola"
+    },
+    {
+      "idx": 26,
+      "start": 66.133,
+      "end": 68.567,
+      "dur": 2.433,
+      "center": 67.35,
+      "role": "person_talking",
+      "subject": "ragazzo in palestra",
+      "description": "Un ragazzo si fotografa allo specchio in palestra, mostrando i muscoli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "dove dopo un piccolo break in questo piosco sulla spiaggia"
+    },
+    {
+      "idx": 27,
+      "start": 68.567,
+      "end": 72.167,
+      "dur": 3.6,
+      "center": 70.367,
+      "role": "person_talking",
+      "subject": "ragazzo in palestra",
+      "description": "Il ragazzo si guarda allo specchio in palestra, con attrezzi sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sono andato a fare un altro allenamento anche oggi Sono rimasto sull 'upper ed anche"
+    },
+    {
+      "idx": 28,
+      "start": 72.167,
+      "end": 75.7,
+      "dur": 3.533,
+      "center": 73.933,
+      "role": "other",
+      "subject": "gruppo persone spiaggia",
+      "description": "Un gruppo di persone in abiti bianchi e neri posa sulla sabbia di notte.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "oggi comunque queste calorie sono servita qualcosa piccolo spettacolo pre -cene"
+    },
+    {
+      "idx": 29,
+      "start": 75.7,
+      "end": 77.3,
+      "dur": 1.6,
+      "center": 76.5,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pasta",
+      "description": "Un ragazzo mangia un piatto di pasta con una forchetta, concentrato sul cibo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "poi appunto è arrivato il mio momento"
+    },
+    {
+      "idx": 30,
+      "start": 77.3,
+      "end": 79.533,
+      "dur": 2.233,
+      "center": 78.417,
+      "role": "food_plated",
+      "subject": "piatto carne patate",
+      "description": "Il piatto è pieno di carne e patate, con una forchetta visibile.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "preferito E anche oggi due tre giri li abbiamo fatti"
+    },
+    {
+      "idx": 31,
+      "start": 79.533,
+      "end": 81.5,
+      "dur": 1.967,
+      "center": 80.517,
+      "role": "person_eating",
+      "subject": "ragazzo beve vino",
+      "description": "Un ragazzo beve da un bicchiere di vino bianco, con un'espressione neutra.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con un po di primi di carne di pesce"
+    },
+    {
+      "idx": 32,
+      "start": 81.5,
+      "end": 83.3,
+      "dur": 1.8,
+      "center": 82.4,
+      "role": "food_plated",
+      "subject": "piatto carne verdure",
+      "description": "Un piatto con carne, pomodori, insalata e ceci, ben illuminato.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e anche un picchiere di bollecine"
+    },
+    {
+      "idx": 33,
+      "start": 83.3,
+      "end": 85.367,
+      "dur": 2.067,
+      "center": 84.333,
+      "role": "other",
+      "subject": "spettacolo palco ballerine",
+      "description": "Un palco con ballerine in costume tradizionale e un logo 'BRAVO' sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Dopodiché altro spettacolo posta"
+    },
+    {
+      "idx": 34,
+      "start": 85.367,
+      "end": 88.367,
+      "dur": 3.0,
+      "center": 86.867,
+      "role": "other",
+      "subject": "ragazzo cammina notte",
+      "description": "Un ragazzo cammina di notte, riprendendosi con il telefono, con un'espressione sorridente.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "cena ed infine ne ho provvitato per farmi un altro giro dell 'isola Girando"
+    },
+    {
+      "idx": 35,
+      "start": 88.367,
+      "end": 90.8,
+      "dur": 2.433,
+      "center": 89.583,
+      "role": "person_talking",
+      "subject": "ragazzo in primo piano",
+      "description": "Il ragazzo si trova su una palafitta con l'acqua turchese sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "tra queste palafitte direttamente sul mare piccolo"
+    },
+    {
+      "idx": 36,
+      "start": 90.8,
+      "end": 92.333,
+      "dur": 1.533,
+      "center": 91.567,
+      "role": "other",
+      "subject": "squalo in acqua",
+      "description": "Uno squalo nuota nell'acqua illuminata di blu.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "stop come ogni sera sul"
+    },
+    {
+      "idx": 37,
+      "start": 92.333,
+      "end": 94.3,
+      "dur": 1.967,
+      "center": 93.317,
+      "role": "person_talking",
+      "subject": "ragazzo sdraiato",
+      "description": "Il ragazzo è sdraiato su una sdraio con una piscina illuminata sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "porticciolo per osservare i vari scualetti E"
+    },
+    {
+      "idx": 38,
+      "start": 94.3,
+      "end": 96.1,
+      "dur": 1.8,
+      "center": 95.2,
+      "role": "other",
+      "subject": "piedi e piscina",
+      "description": "I piedi di una persona sono in primo piano con una piscina illuminata di rosso sullo sfondo.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "direttoserali che si è concluso su questo"
+    },
+    {
+      "idx": 39,
+      "start": 96.1,
+      "end": 97.7,
+      "dur": 1.6,
+      "center": 96.9,
+      "role": "other",
+      "subject": "piscina e aereo",
+      "description": "Una piscina illuminata di blu con un aereo che vola in lontananza nel cielo notturno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "asdraio a bordo piscina"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "resort maldiviano sull'acqua",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il mare cristallino e le ville sull'acqua creano un'atmosfera da sogno.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in primo piano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera con il mare sullo sfondo.",
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "chef prepara crepe",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Le mani dello chef versano la salsa al cioccolato su una crepe.",
+      "shot_idx": 2,
+      "start": 4.067,
+      "end": 6.833,
+      "dur": 2.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "dolci vari colazione",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un piatto bianco pieno di dolci assortiti, tra cui croissant e torte.",
+      "shot_idx": 3,
+      "start": 6.833,
+      "end": 8.033,
+      "dur": 1.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "crepe con cioccolato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una crepe piegata e decorata con salsa al cioccolato e zucchero a velo.",
+      "shot_idx": 4,
+      "start": 8.033,
+      "end": 9.833,
+      "dur": 1.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tavolo vista mare",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un tavolo di legno con bicchieri e un codice QR, con una spiaggia e il mare sullo sfondo.",
+      "shot_idx": 5,
+      "start": 9.833,
+      "end": 11.933,
+      "dur": 2.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca mangia un dessert al cioccolato con un cucchiaio.",
+      "shot_idx": 6,
+      "start": 11.933,
+      "end": 13.167,
+      "dur": 1.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pane",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con la maglietta bianca mangia un pezzo di pane, con altri dolci sul piatto.",
+      "shot_idx": 7,
+      "start": 13.167,
+      "end": 14.3,
+      "dur": 1.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con maschera",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo tiene una maschera da snorkeling e un asciugamano verde, con palme sullo sfondo.",
+      "shot_idx": 8,
+      "start": 14.3,
+      "end": 15.933,
+      "dur": 1.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo bagnato parla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo a torso nudo con i capelli bagnati parla alla telecamera, con un cielo nuvoloso sullo sfondo.",
+      "shot_idx": 9,
+      "start": 15.933,
+      "end": 25.167,
+      "dur": 9.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda in camera con un'espressione sorpresa mentre tiene due piatti pieni di cibo.",
+      "shot_idx": 10,
+      "start": 25.167,
+      "end": 26.9,
+      "dur": 1.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando con la forchetta, con un'espressione concentrata.",
+      "shot_idx": 11,
+      "start": 26.9,
+      "end": 28.133,
+      "dur": 1.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di dolci",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un piatto pieno di frutta e dolci vari, con una fetta di torta in primo piano.",
+      "shot_idx": 12,
+      "start": 28.133,
+      "end": 30.133,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di frutta con la forchetta, con un'espressione di piacere.",
+      "shot_idx": 13,
+      "start": 30.133,
+      "end": 31.067,
+      "dur": 0.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "piedi sulla sabbia",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "I piedi del ragazzo sono visibili sulla sabbia bianca, con un asciugamano e dei vestiti scuri.",
+      "shot_idx": 14,
+      "start": 31.067,
+      "end": 33.367,
+      "dur": 2.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "squali in acqua",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due squali nuotano in acque cristalline vicino a una barca.",
+      "shot_idx": 15,
+      "start": 33.367,
+      "end": 38.833,
+      "dur": 5.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno barca",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'interno di una barca con persone e attrezzatura da sub, con il mare e la costa sullo sfondo.",
+      "shot_idx": 16,
+      "start": 38.833,
+      "end": 40.633,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "scia barca mare",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La scia di una barca che solca un mare calmo sotto un cielo nuvoloso.",
+      "shot_idx": 17,
+      "start": 40.633,
+      "end": 43.8,
+      "dur": 3.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in barca",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sorride alla telecamera sul ponte di una barca, con il mare sullo sfondo.",
+      "shot_idx": 18,
+      "start": 43.8,
+      "end": 45.6,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con giubbotto",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo indossa un giubbotto di salvataggio arancione, con una barca sullo sfondo.",
+      "shot_idx": 19,
+      "start": 45.6,
+      "end": 47.1,
+      "dur": 1.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "uomo con pinne",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo tiene in mano un paio di pinne blu e nere, con una maschera da sub sulla fronte.",
+      "shot_idx": 20,
+      "start": 47.1,
+      "end": 47.667,
+      "dur": 0.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo bagnato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo con i capelli bagnati e il petto nudo guarda dritto in camera.",
+      "shot_idx": 21,
+      "start": 47.667,
+      "end": 50.667,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia anguria",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo mangia una fetta di anguria, con un'espressione divertita.",
+      "shot_idx": 22,
+      "start": 50.667,
+      "end": 52.767,
+      "dur": 2.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "mare mosso",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una distesa di mare mosso sotto un cielo nuvoloso, con una striscia di acqua più chiara all'orizzonte.",
+      "shot_idx": 23,
+      "start": 52.767,
+      "end": 60.733,
+      "dur": 7.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "isola tropicale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una spiaggia di sabbia bianca con persone e una barca, circondata da acqua cristallina e un cielo nuvoloso.",
+      "shot_idx": 24,
+      "start": 60.733,
+      "end": 64.1,
+      "dur": 3.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "bancone bar legno",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il bancone in legno con un logo a forma di pesce e bottiglie di spumante.",
+      "shot_idx": 25,
+      "start": 64.1,
+      "end": 66.133,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo si fotografa allo specchio in palestra, mostrando i muscoli.",
+      "shot_idx": 26,
+      "start": 66.133,
+      "end": 68.567,
+      "dur": 2.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo si guarda allo specchio in palestra, con attrezzi sullo sfondo.",
+      "shot_idx": 27,
+      "start": 68.567,
+      "end": 72.167,
+      "dur": 3.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "gruppo persone spiaggia",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un gruppo di persone in abiti bianchi e neri posa sulla sabbia di notte.",
+      "shot_idx": 28,
+      "start": 72.167,
+      "end": 75.7,
+      "dur": 3.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pasta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo mangia un piatto di pasta con una forchetta, concentrato sul cibo.",
+      "shot_idx": 29,
+      "start": 75.7,
+      "end": 77.3,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne patate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto è pieno di carne e patate, con una forchetta visibile.",
+      "shot_idx": 30,
+      "start": 77.3,
+      "end": 79.533,
+      "dur": 2.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo beve vino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo beve da un bicchiere di vino bianco, con un'espressione neutra.",
+      "shot_idx": 31,
+      "start": 79.533,
+      "end": 81.5,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne verdure",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto con carne, pomodori, insalata e ceci, ben illuminato.",
+      "shot_idx": 32,
+      "start": 81.5,
+      "end": 83.3,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "spettacolo palco ballerine",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un palco con ballerine in costume tradizionale e un logo 'BRAVO' sullo sfondo.",
+      "shot_idx": 33,
+      "start": 83.3,
+      "end": 85.367,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo cammina notte",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo cammina di notte, riprendendosi con il telefono, con un'espressione sorridente.",
+      "shot_idx": 34,
+      "start": 85.367,
+      "end": 88.367,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in primo piano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo si trova su una palafitta con l'acqua turchese sullo sfondo.",
+      "shot_idx": 35,
+      "start": 88.367,
+      "end": 90.8,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "squalo in acqua",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno squalo nuota nell'acqua illuminata di blu.",
+      "shot_idx": 36,
+      "start": 90.8,
+      "end": 92.333,
+      "dur": 1.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo sdraiato",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo è sdraiato su una sdraio con una piscina illuminata sullo sfondo.",
+      "shot_idx": 37,
+      "start": 92.333,
+      "end": 94.3,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "piedi e piscina",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "I piedi di una persona sono in primo piano con una piscina illuminata di rosso sullo sfondo.",
+      "shot_idx": 38,
+      "start": 94.3,
+      "end": 96.1,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "piscina e aereo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una piscina illuminata di blu con un aereo che vola in lontananza nel cielo notturno.",
+      "shot_idx": 39,
+      "start": 96.1,
+      "end": 97.7,
+      "dur": 1.6
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "giorno 3 del mio viaggio alle Maldive oggi ragazzi ci aspetto una gran bella giornata quindi partiamo carichi con una bella crepe"
+    },
+    {
+      "start": 5.38,
+      "end": 10.44,
+      "text": "è un bel piattino con qualche mini croissant con cui ho appunto fatto colazione ovviamente vista mare dopo di che"
+    },
+    {
+      "start": 10.44,
+      "end": 15.7,
+      "text": "Visto che comunque c'era un bel tempo deciso di prendere maschere boccaglio e andare a fare un bel giro sulla barriera corallina"
+    },
+    {
+      "start": 15.7,
+      "end": 20.78,
+      "text": "arrivo lì becco due squaletti faccio per vincorre lì anche se andavano velocissimo"
+    },
+    {
+      "start": 20.78,
+      "end": 23.42,
+      "text": "bomba tartarughina marina che mi passa davanti"
+    },
+    {
+      "start": 23.42,
+      "end": 29.8,
+      "text": "una roba incredibile e quindi sì dopo aver nuotato con qualche squaletto una tartaruga marina sono dato bello carico il pranzo con"
+    },
+    {
+      "start": 29.8,
+      "end": 35.72,
+      "text": "Questo mega piattone e anche un po di frutti dolce finale nel pomeriggio poi ripreso maschere a boccaglio e pinne siamo partiti per andare a"
+    },
+    {
+      "start": 35.72,
+      "end": 41.14,
+      "text": "visitare una lingua di sabbia dopo questi quanta stasi squali nutrici che stanno sempre arriva e stanno sempre insieme con la barca del resort"
+    },
+    {
+      "start": 41.14,
+      "end": 47.54,
+      "text": "Siamo appunto partiti e nonostante non ci fosse proprio solo il tempo comunque sembrava reggere infatti primo bagno su una barriera corallina"
+    },
+    {
+      "start": 47.54,
+      "end": 52.82,
+      "text": "nel mezzo del mare che vuol dire che appunto nuotare il mezzo la barriera corallina senza vedere alcun tipo di terra"
+    },
+    {
+      "start": 52.82,
+      "end": 59.0,
+      "text": "fa abbastanza effetto dopo di che è aperitivo in barca e siamo anche riusciti a incontrare questo gruppo di delfini che ci ha seguiti per un po"
+    },
+    {
+      "start": 59.0,
+      "end": 64.48,
+      "text": "Spero che noi siamo appunto arrivati a questa lingua di sabbia che giustamente emerge un po in base alle marie piccolo bagno qua intorno"
+    },
+    {
+      "start": 64.48,
+      "end": 70.68,
+      "text": "Poi siamo tornati nella nostra isola dove dopo un piccolo break in questo piosco sulla spiaggia sono andato a fare un altro allenamento anche oggi"
+    },
+    {
+      "start": 70.68,
+      "end": 77.64,
+      "text": "Sono rimasto sull'upper ed anche oggi comunque queste calorie sono servita qualcosa piccolo spettacolo pre-cene poi appunto è arrivato il mio momento preferito"
+    },
+    {
+      "start": 77.64,
+      "end": 83.18,
+      "text": "E anche oggi due tre giri li abbiamo fatti con un po di primi di carne di pesce e anche un picchiere di bollecine"
+    },
+    {
+      "start": 83.18,
+      "end": 87.96,
+      "text": "Dopodiché altro spettacolo posta cena ed infine ne ho provvitato per farmi un altro giro dell'isola"
+    },
+    {
+      "start": 87.96,
+      "end": 94.06,
+      "text": "Girando tra queste palafitte direttamente sul mare piccolo stop come ogni sera sul porticciolo per osservare i vari scualetti"
+    },
+    {
+      "start": 94.06,
+      "end": 97.42,
+      "text": "E direttoserali che si è concluso su questo asdraio a bordo piscina"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "word": "giorno"
+    },
+    {
+      "start": 0.32,
+      "end": 0.58,
+      "word": "3"
+    },
+    {
+      "start": 0.58,
+      "end": 0.72,
+      "word": "del"
+    },
+    {
+      "start": 0.72,
+      "end": 0.84,
+      "word": "mio"
+    },
+    {
+      "start": 0.84,
+      "end": 1.04,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.04,
+      "end": 1.2,
+      "word": "alle"
+    },
+    {
+      "start": 1.2,
+      "end": 1.58,
+      "word": "Maldive"
+    },
+    {
+      "start": 1.58,
+      "end": 1.84,
+      "word": "oggi"
+    },
+    {
+      "start": 1.84,
+      "end": 2.12,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.12,
+      "end": 2.26,
+      "word": "ci"
+    },
+    {
+      "start": 2.26,
+      "end": 2.44,
+      "word": "aspetto"
+    },
+    {
+      "start": 2.44,
+      "end": 2.66,
+      "word": "una"
+    },
+    {
+      "start": 2.66,
+      "end": 2.8,
+      "word": "gran"
+    },
+    {
+      "start": 2.8,
+      "end": 3.0,
+      "word": "bella"
+    },
+    {
+      "start": 3.0,
+      "end": 3.44,
+      "word": "giornata"
+    },
+    {
+      "start": 3.44,
+      "end": 3.66,
+      "word": "quindi"
+    },
+    {
+      "start": 3.66,
+      "end": 4.06,
+      "word": "partiamo"
+    },
+    {
+      "start": 4.06,
+      "end": 4.44,
+      "word": "carichi"
+    },
+    {
+      "start": 4.44,
+      "end": 4.6,
+      "word": "con"
+    },
+    {
+      "start": 4.6,
+      "end": 4.76,
+      "word": "una"
+    },
+    {
+      "start": 4.76,
+      "end": 4.98,
+      "word": "bella"
+    },
+    {
+      "start": 4.98,
+      "end": 5.38,
+      "word": "crepe"
+    },
+    {
+      "start": 5.38,
+      "end": 5.58,
+      "word": "è"
+    },
+    {
+      "start": 5.58,
+      "end": 5.68,
+      "word": "un"
+    },
+    {
+      "start": 5.68,
+      "end": 5.76,
+      "word": "bel"
+    },
+    {
+      "start": 5.76,
+      "end": 6.12,
+      "word": "piattino"
+    },
+    {
+      "start": 6.12,
+      "end": 6.32,
+      "word": "con"
+    },
+    {
+      "start": 6.32,
+      "end": 6.54,
+      "word": "qualche"
+    },
+    {
+      "start": 6.54,
+      "end": 6.78,
+      "word": "mini"
+    },
+    {
+      "start": 6.78,
+      "end": 7.24,
+      "word": "croissant"
+    },
+    {
+      "start": 7.24,
+      "end": 7.5,
+      "word": "con"
+    },
+    {
+      "start": 7.5,
+      "end": 7.64,
+      "word": "cui"
+    },
+    {
+      "start": 7.64,
+      "end": 7.82,
+      "word": "ho"
+    },
+    {
+      "start": 7.82,
+      "end": 8.0,
+      "word": "appunto"
+    },
+    {
+      "start": 8.0,
+      "end": 8.24,
+      "word": "fatto"
+    },
+    {
+      "start": 8.24,
+      "end": 8.76,
+      "word": "colazione"
+    },
+    {
+      "start": 8.76,
+      "end": 9.2,
+      "word": "ovviamente"
+    },
+    {
+      "start": 9.2,
+      "end": 9.62,
+      "word": "vista"
+    },
+    {
+      "start": 9.62,
+      "end": 9.96,
+      "word": "mare"
+    },
+    {
+      "start": 9.96,
+      "end": 10.18,
+      "word": "dopo"
+    },
+    {
+      "start": 10.18,
+      "end": 10.34,
+      "word": "di"
+    },
+    {
+      "start": 10.34,
+      "end": 10.44,
+      "word": "che"
+    },
+    {
+      "start": 10.44,
+      "end": 10.68,
+      "word": "Visto"
+    },
+    {
+      "start": 10.68,
+      "end": 10.8,
+      "word": "che"
+    },
+    {
+      "start": 10.8,
+      "end": 11.02,
+      "word": "comunque"
+    },
+    {
+      "start": 11.02,
+      "end": 11.22,
+      "word": "c"
+    },
+    {
+      "start": 11.22,
+      "end": 11.28,
+      "word": "'era"
+    },
+    {
+      "start": 11.28,
+      "end": 11.38,
+      "word": "un"
+    },
+    {
+      "start": 11.38,
+      "end": 11.46,
+      "word": "bel"
+    },
+    {
+      "start": 11.46,
+      "end": 11.76,
+      "word": "tempo"
+    },
+    {
+      "start": 11.76,
+      "end": 12.16,
+      "word": "deciso"
+    },
+    {
+      "start": 12.16,
+      "end": 12.24,
+      "word": "di"
+    },
+    {
+      "start": 12.24,
+      "end": 12.56,
+      "word": "prendere"
+    },
+    {
+      "start": 12.56,
+      "end": 12.98,
+      "word": "maschere"
+    },
+    {
+      "start": 12.98,
+      "end": 13.54,
+      "word": "boccaglio"
+    },
+    {
+      "start": 13.54,
+      "end": 13.64,
+      "word": "e"
+    },
+    {
+      "start": 13.64,
+      "end": 13.86,
+      "word": "andare"
+    },
+    {
+      "start": 13.86,
+      "end": 13.96,
+      "word": "a"
+    },
+    {
+      "start": 13.96,
+      "end": 14.12,
+      "word": "fare"
+    },
+    {
+      "start": 14.12,
+      "end": 14.22,
+      "word": "un"
+    },
+    {
+      "start": 14.22,
+      "end": 14.32,
+      "word": "bel"
+    },
+    {
+      "start": 14.32,
+      "end": 14.58,
+      "word": "giro"
+    },
+    {
+      "start": 14.58,
+      "end": 14.78,
+      "word": "sulla"
+    },
+    {
+      "start": 14.78,
+      "end": 15.12,
+      "word": "barriera"
+    },
+    {
+      "start": 15.12,
+      "end": 15.7,
+      "word": "corallina"
+    },
+    {
+      "start": 15.7,
+      "end": 16.3,
+      "word": "arrivo"
+    },
+    {
+      "start": 16.3,
+      "end": 16.88,
+      "word": "lì"
+    },
+    {
+      "start": 16.88,
+      "end": 17.22,
+      "word": "becco"
+    },
+    {
+      "start": 17.22,
+      "end": 17.4,
+      "word": "due"
+    },
+    {
+      "start": 17.4,
+      "end": 17.96,
+      "word": "squaletti"
+    },
+    {
+      "start": 17.96,
+      "end": 18.56,
+      "word": "faccio"
+    },
+    {
+      "start": 18.56,
+      "end": 18.78,
+      "word": "per"
+    },
+    {
+      "start": 18.78,
+      "end": 19.42,
+      "word": "vincorre"
+    },
+    {
+      "start": 19.42,
+      "end": 19.66,
+      "word": "lì"
+    },
+    {
+      "start": 19.66,
+      "end": 19.76,
+      "word": "anche"
+    },
+    {
+      "start": 19.76,
+      "end": 19.9,
+      "word": "se"
+    },
+    {
+      "start": 19.9,
+      "end": 20.2,
+      "word": "andavano"
+    },
+    {
+      "start": 20.2,
+      "end": 20.78,
+      "word": "velocissimo"
+    },
+    {
+      "start": 20.78,
+      "end": 21.66,
+      "word": "bomba"
+    },
+    {
+      "start": 21.66,
+      "end": 22.2,
+      "word": "tartarughina"
+    },
+    {
+      "start": 22.2,
+      "end": 22.56,
+      "word": "marina"
+    },
+    {
+      "start": 22.56,
+      "end": 22.68,
+      "word": "che"
+    },
+    {
+      "start": 22.68,
+      "end": 22.76,
+      "word": "mi"
+    },
+    {
+      "start": 22.76,
+      "end": 22.94,
+      "word": "passa"
+    },
+    {
+      "start": 22.94,
+      "end": 23.42,
+      "word": "davanti"
+    },
+    {
+      "start": 23.42,
+      "end": 24.14,
+      "word": "una"
+    },
+    {
+      "start": 24.14,
+      "end": 24.28,
+      "word": "roba"
+    },
+    {
+      "start": 24.28,
+      "end": 24.9,
+      "word": "incredibile"
+    },
+    {
+      "start": 24.9,
+      "end": 25.36,
+      "word": "e"
+    },
+    {
+      "start": 25.36,
+      "end": 25.52,
+      "word": "quindi"
+    },
+    {
+      "start": 25.52,
+      "end": 25.7,
+      "word": "sì"
+    },
+    {
+      "start": 25.7,
+      "end": 25.88,
+      "word": "dopo"
+    },
+    {
+      "start": 25.88,
+      "end": 26.06,
+      "word": "aver"
+    },
+    {
+      "start": 26.06,
+      "end": 26.32,
+      "word": "nuotato"
+    },
+    {
+      "start": 26.32,
+      "end": 26.5,
+      "word": "con"
+    },
+    {
+      "start": 26.5,
+      "end": 26.66,
+      "word": "qualche"
+    },
+    {
+      "start": 26.66,
+      "end": 27.12,
+      "word": "squaletto"
+    },
+    {
+      "start": 27.12,
+      "end": 27.24,
+      "word": "una"
+    },
+    {
+      "start": 27.24,
+      "end": 27.62,
+      "word": "tartaruga"
+    },
+    {
+      "start": 27.62,
+      "end": 27.98,
+      "word": "marina"
+    },
+    {
+      "start": 27.98,
+      "end": 28.16,
+      "word": "sono"
+    },
+    {
+      "start": 28.16,
+      "end": 28.36,
+      "word": "dato"
+    },
+    {
+      "start": 28.36,
+      "end": 28.74,
+      "word": "bello"
+    },
+    {
+      "start": 28.74,
+      "end": 29.1,
+      "word": "carico"
+    },
+    {
+      "start": 29.1,
+      "end": 29.24,
+      "word": "il"
+    },
+    {
+      "start": 29.24,
+      "end": 29.64,
+      "word": "pranzo"
+    },
+    {
+      "start": 29.64,
+      "end": 29.8,
+      "word": "con"
+    },
+    {
+      "start": 29.8,
+      "end": 30.02,
+      "word": "Questo"
+    },
+    {
+      "start": 30.02,
+      "end": 30.34,
+      "word": "mega"
+    },
+    {
+      "start": 30.34,
+      "end": 30.88,
+      "word": "piattone"
+    },
+    {
+      "start": 30.88,
+      "end": 31.08,
+      "word": "e"
+    },
+    {
+      "start": 31.08,
+      "end": 31.22,
+      "word": "anche"
+    },
+    {
+      "start": 31.22,
+      "end": 31.34,
+      "word": "un"
+    },
+    {
+      "start": 31.34,
+      "end": 31.4,
+      "word": "po"
+    },
+    {
+      "start": 31.4,
+      "end": 31.52,
+      "word": "di"
+    },
+    {
+      "start": 31.52,
+      "end": 31.82,
+      "word": "frutti"
+    },
+    {
+      "start": 31.82,
+      "end": 32.12,
+      "word": "dolce"
+    },
+    {
+      "start": 32.12,
+      "end": 32.44,
+      "word": "finale"
+    },
+    {
+      "start": 32.44,
+      "end": 32.68,
+      "word": "nel"
+    },
+    {
+      "start": 32.68,
+      "end": 33.08,
+      "word": "pomeriggio"
+    },
+    {
+      "start": 33.08,
+      "end": 33.2,
+      "word": "poi"
+    },
+    {
+      "start": 33.2,
+      "end": 33.52,
+      "word": "ripreso"
+    },
+    {
+      "start": 33.52,
+      "end": 33.88,
+      "word": "maschere"
+    },
+    {
+      "start": 33.88,
+      "end": 34.0,
+      "word": "a"
+    },
+    {
+      "start": 34.0,
+      "end": 34.34,
+      "word": "boccaglio"
+    },
+    {
+      "start": 34.34,
+      "end": 34.42,
+      "word": "e"
+    },
+    {
+      "start": 34.42,
+      "end": 34.66,
+      "word": "pinne"
+    },
+    {
+      "start": 34.66,
+      "end": 34.84,
+      "word": "siamo"
+    },
+    {
+      "start": 34.84,
+      "end": 35.24,
+      "word": "partiti"
+    },
+    {
+      "start": 35.24,
+      "end": 35.38,
+      "word": "per"
+    },
+    {
+      "start": 35.38,
+      "end": 35.54,
+      "word": "andare"
+    },
+    {
+      "start": 35.54,
+      "end": 35.72,
+      "word": "a"
+    },
+    {
+      "start": 35.72,
+      "end": 36.02,
+      "word": "visitare"
+    },
+    {
+      "start": 36.02,
+      "end": 36.16,
+      "word": "una"
+    },
+    {
+      "start": 36.16,
+      "end": 36.4,
+      "word": "lingua"
+    },
+    {
+      "start": 36.4,
+      "end": 36.5,
+      "word": "di"
+    },
+    {
+      "start": 36.5,
+      "end": 36.86,
+      "word": "sabbia"
+    },
+    {
+      "start": 36.86,
+      "end": 37.0,
+      "word": "dopo"
+    },
+    {
+      "start": 37.0,
+      "end": 37.24,
+      "word": "questi"
+    },
+    {
+      "start": 37.24,
+      "end": 37.54,
+      "word": "quanta"
+    },
+    {
+      "start": 37.54,
+      "end": 37.72,
+      "word": "stasi"
+    },
+    {
+      "start": 37.72,
+      "end": 38.02,
+      "word": "squali"
+    },
+    {
+      "start": 38.02,
+      "end": 38.36,
+      "word": "nutrici"
+    },
+    {
+      "start": 38.36,
+      "end": 38.52,
+      "word": "che"
+    },
+    {
+      "start": 38.52,
+      "end": 38.7,
+      "word": "stanno"
+    },
+    {
+      "start": 38.7,
+      "end": 38.98,
+      "word": "sempre"
+    },
+    {
+      "start": 38.98,
+      "end": 39.26,
+      "word": "arriva"
+    },
+    {
+      "start": 39.26,
+      "end": 39.46,
+      "word": "e"
+    },
+    {
+      "start": 39.46,
+      "end": 39.54,
+      "word": "stanno"
+    },
+    {
+      "start": 39.54,
+      "end": 39.82,
+      "word": "sempre"
+    },
+    {
+      "start": 39.82,
+      "end": 40.24,
+      "word": "insieme"
+    },
+    {
+      "start": 40.24,
+      "end": 40.4,
+      "word": "con"
+    },
+    {
+      "start": 40.4,
+      "end": 40.5,
+      "word": "la"
+    },
+    {
+      "start": 40.5,
+      "end": 40.7,
+      "word": "barca"
+    },
+    {
+      "start": 40.7,
+      "end": 40.82,
+      "word": "del"
+    },
+    {
+      "start": 40.82,
+      "end": 41.14,
+      "word": "resort"
+    },
+    {
+      "start": 41.14,
+      "end": 41.4,
+      "word": "Siamo"
+    },
+    {
+      "start": 41.4,
+      "end": 41.66,
+      "word": "appunto"
+    },
+    {
+      "start": 41.66,
+      "end": 42.22,
+      "word": "partiti"
+    },
+    {
+      "start": 42.22,
+      "end": 42.38,
+      "word": "e"
+    },
+    {
+      "start": 42.38,
+      "end": 42.76,
+      "word": "nonostante"
+    },
+    {
+      "start": 42.76,
+      "end": 42.96,
+      "word": "non"
+    },
+    {
+      "start": 42.96,
+      "end": 43.06,
+      "word": "ci"
+    },
+    {
+      "start": 43.06,
+      "end": 43.24,
+      "word": "fosse"
+    },
+    {
+      "start": 43.24,
+      "end": 43.44,
+      "word": "proprio"
+    },
+    {
+      "start": 43.44,
+      "end": 43.76,
+      "word": "solo"
+    },
+    {
+      "start": 43.76,
+      "end": 43.98,
+      "word": "il"
+    },
+    {
+      "start": 43.98,
+      "end": 44.1,
+      "word": "tempo"
+    },
+    {
+      "start": 44.1,
+      "end": 44.5,
+      "word": "comunque"
+    },
+    {
+      "start": 44.5,
+      "end": 44.96,
+      "word": "sembrava"
+    },
+    {
+      "start": 44.96,
+      "end": 45.36,
+      "word": "reggere"
+    },
+    {
+      "start": 45.36,
+      "end": 45.64,
+      "word": "infatti"
+    },
+    {
+      "start": 45.64,
+      "end": 45.98,
+      "word": "primo"
+    },
+    {
+      "start": 45.98,
+      "end": 46.36,
+      "word": "bagno"
+    },
+    {
+      "start": 46.36,
+      "end": 46.5,
+      "word": "su"
+    },
+    {
+      "start": 46.5,
+      "end": 46.66,
+      "word": "una"
+    },
+    {
+      "start": 46.66,
+      "end": 47.04,
+      "word": "barriera"
+    },
+    {
+      "start": 47.04,
+      "end": 47.54,
+      "word": "corallina"
+    },
+    {
+      "start": 47.54,
+      "end": 47.8,
+      "word": "nel"
+    },
+    {
+      "start": 47.8,
+      "end": 48.3,
+      "word": "mezzo"
+    },
+    {
+      "start": 48.3,
+      "end": 48.5,
+      "word": "del"
+    },
+    {
+      "start": 48.5,
+      "end": 48.78,
+      "word": "mare"
+    },
+    {
+      "start": 48.78,
+      "end": 48.94,
+      "word": "che"
+    },
+    {
+      "start": 48.94,
+      "end": 49.02,
+      "word": "vuol"
+    },
+    {
+      "start": 49.02,
+      "end": 49.12,
+      "word": "dire"
+    },
+    {
+      "start": 49.12,
+      "end": 49.24,
+      "word": "che"
+    },
+    {
+      "start": 49.24,
+      "end": 49.42,
+      "word": "appunto"
+    },
+    {
+      "start": 49.42,
+      "end": 49.78,
+      "word": "nuotare"
+    },
+    {
+      "start": 49.78,
+      "end": 49.9,
+      "word": "il"
+    },
+    {
+      "start": 49.9,
+      "end": 50.04,
+      "word": "mezzo"
+    },
+    {
+      "start": 50.04,
+      "end": 50.16,
+      "word": "la"
+    },
+    {
+      "start": 50.16,
+      "end": 50.34,
+      "word": "barriera"
+    },
+    {
+      "start": 50.34,
+      "end": 50.8,
+      "word": "corallina"
+    },
+    {
+      "start": 50.8,
+      "end": 51.1,
+      "word": "senza"
+    },
+    {
+      "start": 51.1,
+      "end": 51.48,
+      "word": "vedere"
+    },
+    {
+      "start": 51.48,
+      "end": 51.96,
+      "word": "alcun"
+    },
+    {
+      "start": 51.96,
+      "end": 52.2,
+      "word": "tipo"
+    },
+    {
+      "start": 52.2,
+      "end": 52.42,
+      "word": "di"
+    },
+    {
+      "start": 52.42,
+      "end": 52.82,
+      "word": "terra"
+    },
+    {
+      "start": 52.82,
+      "end": 53.18,
+      "word": "fa"
+    },
+    {
+      "start": 53.18,
+      "end": 53.62,
+      "word": "abbastanza"
+    },
+    {
+      "start": 53.62,
+      "end": 54.14,
+      "word": "effetto"
+    },
+    {
+      "start": 54.14,
+      "end": 54.38,
+      "word": "dopo"
+    },
+    {
+      "start": 54.38,
+      "end": 54.52,
+      "word": "di"
+    },
+    {
+      "start": 54.52,
+      "end": 54.6,
+      "word": "che"
+    },
+    {
+      "start": 54.6,
+      "end": 54.72,
+      "word": "è"
+    },
+    {
+      "start": 54.72,
+      "end": 55.1,
+      "word": "aperitivo"
+    },
+    {
+      "start": 55.1,
+      "end": 55.2,
+      "word": "in"
+    },
+    {
+      "start": 55.2,
+      "end": 55.66,
+      "word": "barca"
+    },
+    {
+      "start": 55.66,
+      "end": 55.82,
+      "word": "e"
+    },
+    {
+      "start": 55.82,
+      "end": 55.94,
+      "word": "siamo"
+    },
+    {
+      "start": 55.94,
+      "end": 56.12,
+      "word": "anche"
+    },
+    {
+      "start": 56.12,
+      "end": 56.38,
+      "word": "riusciti"
+    },
+    {
+      "start": 56.38,
+      "end": 56.46,
+      "word": "a"
+    },
+    {
+      "start": 56.46,
+      "end": 56.78,
+      "word": "incontrare"
+    },
+    {
+      "start": 56.78,
+      "end": 57.06,
+      "word": "questo"
+    },
+    {
+      "start": 57.06,
+      "end": 57.36,
+      "word": "gruppo"
+    },
+    {
+      "start": 57.36,
+      "end": 57.46,
+      "word": "di"
+    },
+    {
+      "start": 57.46,
+      "end": 57.86,
+      "word": "delfini"
+    },
+    {
+      "start": 57.86,
+      "end": 58.06,
+      "word": "che"
+    },
+    {
+      "start": 58.06,
+      "end": 58.18,
+      "word": "ci"
+    },
+    {
+      "start": 58.18,
+      "end": 58.24,
+      "word": "ha"
+    },
+    {
+      "start": 58.24,
+      "end": 58.58,
+      "word": "seguiti"
+    },
+    {
+      "start": 58.58,
+      "end": 58.72,
+      "word": "per"
+    },
+    {
+      "start": 58.72,
+      "end": 58.86,
+      "word": "un"
+    },
+    {
+      "start": 58.86,
+      "end": 59.0,
+      "word": "po"
+    },
+    {
+      "start": 59.0,
+      "end": 59.22,
+      "word": "Spero"
+    },
+    {
+      "start": 59.22,
+      "end": 59.38,
+      "word": "che"
+    },
+    {
+      "start": 59.38,
+      "end": 59.48,
+      "word": "noi"
+    },
+    {
+      "start": 59.48,
+      "end": 59.64,
+      "word": "siamo"
+    },
+    {
+      "start": 59.64,
+      "end": 59.88,
+      "word": "appunto"
+    },
+    {
+      "start": 59.88,
+      "end": 60.3,
+      "word": "arrivati"
+    },
+    {
+      "start": 60.3,
+      "end": 60.4,
+      "word": "a"
+    },
+    {
+      "start": 60.4,
+      "end": 60.62,
+      "word": "questa"
+    },
+    {
+      "start": 60.62,
+      "end": 60.92,
+      "word": "lingua"
+    },
+    {
+      "start": 60.92,
+      "end": 61.06,
+      "word": "di"
+    },
+    {
+      "start": 61.06,
+      "end": 61.42,
+      "word": "sabbia"
+    },
+    {
+      "start": 61.42,
+      "end": 61.58,
+      "word": "che"
+    },
+    {
+      "start": 61.58,
+      "end": 61.94,
+      "word": "giustamente"
+    },
+    {
+      "start": 61.94,
+      "end": 62.36,
+      "word": "emerge"
+    },
+    {
+      "start": 62.36,
+      "end": 62.66,
+      "word": "un"
+    },
+    {
+      "start": 62.66,
+      "end": 62.78,
+      "word": "po"
+    },
+    {
+      "start": 62.78,
+      "end": 62.92,
+      "word": "in"
+    },
+    {
+      "start": 62.92,
+      "end": 63.06,
+      "word": "base"
+    },
+    {
+      "start": 63.06,
+      "end": 63.26,
+      "word": "alle"
+    },
+    {
+      "start": 63.26,
+      "end": 63.52,
+      "word": "marie"
+    },
+    {
+      "start": 63.52,
+      "end": 63.8,
+      "word": "piccolo"
+    },
+    {
+      "start": 63.8,
+      "end": 64.06,
+      "word": "bagno"
+    },
+    {
+      "start": 64.06,
+      "end": 64.22,
+      "word": "qua"
+    },
+    {
+      "start": 64.22,
+      "end": 64.48,
+      "word": "intorno"
+    },
+    {
+      "start": 64.48,
+      "end": 64.74,
+      "word": "Poi"
+    },
+    {
+      "start": 64.74,
+      "end": 64.9,
+      "word": "siamo"
+    },
+    {
+      "start": 64.9,
+      "end": 65.26,
+      "word": "tornati"
+    },
+    {
+      "start": 65.26,
+      "end": 65.5,
+      "word": "nella"
+    },
+    {
+      "start": 65.5,
+      "end": 65.8,
+      "word": "nostra"
+    },
+    {
+      "start": 65.8,
+      "end": 66.2,
+      "word": "isola"
+    },
+    {
+      "start": 66.2,
+      "end": 66.54,
+      "word": "dove"
+    },
+    {
+      "start": 66.54,
+      "end": 66.76,
+      "word": "dopo"
+    },
+    {
+      "start": 66.76,
+      "end": 66.92,
+      "word": "un"
+    },
+    {
+      "start": 66.92,
+      "end": 67.12,
+      "word": "piccolo"
+    },
+    {
+      "start": 67.12,
+      "end": 67.34,
+      "word": "break"
+    },
+    {
+      "start": 67.34,
+      "end": 67.52,
+      "word": "in"
+    },
+    {
+      "start": 67.52,
+      "end": 67.68,
+      "word": "questo"
+    },
+    {
+      "start": 67.68,
+      "end": 68.08,
+      "word": "piosco"
+    },
+    {
+      "start": 68.08,
+      "end": 68.28,
+      "word": "sulla"
+    },
+    {
+      "start": 68.28,
+      "end": 68.66,
+      "word": "spiaggia"
+    },
+    {
+      "start": 68.66,
+      "end": 68.86,
+      "word": "sono"
+    },
+    {
+      "start": 68.86,
+      "end": 69.1,
+      "word": "andato"
+    },
+    {
+      "start": 69.1,
+      "end": 69.16,
+      "word": "a"
+    },
+    {
+      "start": 69.16,
+      "end": 69.3,
+      "word": "fare"
+    },
+    {
+      "start": 69.3,
+      "end": 69.42,
+      "word": "un"
+    },
+    {
+      "start": 69.42,
+      "end": 69.58,
+      "word": "altro"
+    },
+    {
+      "start": 69.58,
+      "end": 70.16,
+      "word": "allenamento"
+    },
+    {
+      "start": 70.16,
+      "end": 70.44,
+      "word": "anche"
+    },
+    {
+      "start": 70.44,
+      "end": 70.68,
+      "word": "oggi"
+    },
+    {
+      "start": 70.68,
+      "end": 70.88,
+      "word": "Sono"
+    },
+    {
+      "start": 70.88,
+      "end": 71.22,
+      "word": "rimasto"
+    },
+    {
+      "start": 71.22,
+      "end": 71.6,
+      "word": "sull"
+    },
+    {
+      "start": 71.6,
+      "end": 71.86,
+      "word": "'upper"
+    },
+    {
+      "start": 71.86,
+      "end": 72.02,
+      "word": "ed"
+    },
+    {
+      "start": 72.02,
+      "end": 72.18,
+      "word": "anche"
+    },
+    {
+      "start": 72.18,
+      "end": 72.48,
+      "word": "oggi"
+    },
+    {
+      "start": 72.48,
+      "end": 72.74,
+      "word": "comunque"
+    },
+    {
+      "start": 72.74,
+      "end": 73.12,
+      "word": "queste"
+    },
+    {
+      "start": 73.12,
+      "end": 73.44,
+      "word": "calorie"
+    },
+    {
+      "start": 73.44,
+      "end": 73.68,
+      "word": "sono"
+    },
+    {
+      "start": 73.68,
+      "end": 73.96,
+      "word": "servita"
+    },
+    {
+      "start": 73.96,
+      "end": 74.28,
+      "word": "qualcosa"
+    },
+    {
+      "start": 74.28,
+      "end": 74.74,
+      "word": "piccolo"
+    },
+    {
+      "start": 74.74,
+      "end": 75.22,
+      "word": "spettacolo"
+    },
+    {
+      "start": 75.22,
+      "end": 75.42,
+      "word": "pre"
+    },
+    {
+      "start": 75.42,
+      "end": 75.68,
+      "word": "-cene"
+    },
+    {
+      "start": 75.68,
+      "end": 75.88,
+      "word": "poi"
+    },
+    {
+      "start": 75.88,
+      "end": 76.24,
+      "word": "appunto"
+    },
+    {
+      "start": 76.24,
+      "end": 76.4,
+      "word": "è"
+    },
+    {
+      "start": 76.4,
+      "end": 76.6,
+      "word": "arrivato"
+    },
+    {
+      "start": 76.6,
+      "end": 76.7,
+      "word": "il"
+    },
+    {
+      "start": 76.7,
+      "end": 76.82,
+      "word": "mio"
+    },
+    {
+      "start": 76.82,
+      "end": 77.1,
+      "word": "momento"
+    },
+    {
+      "start": 77.1,
+      "end": 77.64,
+      "word": "preferito"
+    },
+    {
+      "start": 77.64,
+      "end": 77.82,
+      "word": "E"
+    },
+    {
+      "start": 77.82,
+      "end": 78.0,
+      "word": "anche"
+    },
+    {
+      "start": 78.0,
+      "end": 78.3,
+      "word": "oggi"
+    },
+    {
+      "start": 78.3,
+      "end": 78.5,
+      "word": "due"
+    },
+    {
+      "start": 78.5,
+      "end": 78.66,
+      "word": "tre"
+    },
+    {
+      "start": 78.66,
+      "end": 78.92,
+      "word": "giri"
+    },
+    {
+      "start": 78.92,
+      "end": 79.06,
+      "word": "li"
+    },
+    {
+      "start": 79.06,
+      "end": 79.24,
+      "word": "abbiamo"
+    },
+    {
+      "start": 79.24,
+      "end": 79.6,
+      "word": "fatti"
+    },
+    {
+      "start": 79.6,
+      "end": 79.78,
+      "word": "con"
+    },
+    {
+      "start": 79.78,
+      "end": 79.88,
+      "word": "un"
+    },
+    {
+      "start": 79.88,
+      "end": 79.96,
+      "word": "po"
+    },
+    {
+      "start": 79.96,
+      "end": 80.08,
+      "word": "di"
+    },
+    {
+      "start": 80.08,
+      "end": 80.42,
+      "word": "primi"
+    },
+    {
+      "start": 80.42,
+      "end": 80.56,
+      "word": "di"
+    },
+    {
+      "start": 80.56,
+      "end": 80.82,
+      "word": "carne"
+    },
+    {
+      "start": 80.82,
+      "end": 81.04,
+      "word": "di"
+    },
+    {
+      "start": 81.04,
+      "end": 81.42,
+      "word": "pesce"
+    },
+    {
+      "start": 81.42,
+      "end": 81.7,
+      "word": "e"
+    },
+    {
+      "start": 81.7,
+      "end": 81.96,
+      "word": "anche"
+    },
+    {
+      "start": 81.96,
+      "end": 82.12,
+      "word": "un"
+    },
+    {
+      "start": 82.12,
+      "end": 82.46,
+      "word": "picchiere"
+    },
+    {
+      "start": 82.46,
+      "end": 82.6,
+      "word": "di"
+    },
+    {
+      "start": 82.6,
+      "end": 83.18,
+      "word": "bollecine"
+    },
+    {
+      "start": 83.18,
+      "end": 83.74,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 83.74,
+      "end": 84.06,
+      "word": "altro"
+    },
+    {
+      "start": 84.06,
+      "end": 84.72,
+      "word": "spettacolo"
+    },
+    {
+      "start": 84.72,
+      "end": 85.24,
+      "word": "posta"
+    },
+    {
+      "start": 85.24,
+      "end": 85.54,
+      "word": "cena"
+    },
+    {
+      "start": 85.54,
+      "end": 85.66,
+      "word": "ed"
+    },
+    {
+      "start": 85.66,
+      "end": 85.94,
+      "word": "infine"
+    },
+    {
+      "start": 85.94,
+      "end": 86.04,
+      "word": "ne"
+    },
+    {
+      "start": 86.04,
+      "end": 86.12,
+      "word": "ho"
+    },
+    {
+      "start": 86.12,
+      "end": 86.44,
+      "word": "provvitato"
+    },
+    {
+      "start": 86.44,
+      "end": 86.6,
+      "word": "per"
+    },
+    {
+      "start": 86.6,
+      "end": 86.88,
+      "word": "farmi"
+    },
+    {
+      "start": 86.88,
+      "end": 86.96,
+      "word": "un"
+    },
+    {
+      "start": 86.96,
+      "end": 87.12,
+      "word": "altro"
+    },
+    {
+      "start": 87.12,
+      "end": 87.44,
+      "word": "giro"
+    },
+    {
+      "start": 87.44,
+      "end": 87.56,
+      "word": "dell"
+    },
+    {
+      "start": 87.56,
+      "end": 87.96,
+      "word": "'isola"
+    },
+    {
+      "start": 87.96,
+      "end": 88.36,
+      "word": "Girando"
+    },
+    {
+      "start": 88.36,
+      "end": 88.54,
+      "word": "tra"
+    },
+    {
+      "start": 88.54,
+      "end": 88.84,
+      "word": "queste"
+    },
+    {
+      "start": 88.84,
+      "end": 89.36,
+      "word": "palafitte"
+    },
+    {
+      "start": 89.36,
+      "end": 90.04,
+      "word": "direttamente"
+    },
+    {
+      "start": 90.04,
+      "end": 90.3,
+      "word": "sul"
+    },
+    {
+      "start": 90.3,
+      "end": 90.6,
+      "word": "mare"
+    },
+    {
+      "start": 90.6,
+      "end": 90.98,
+      "word": "piccolo"
+    },
+    {
+      "start": 90.98,
+      "end": 91.22,
+      "word": "stop"
+    },
+    {
+      "start": 91.22,
+      "end": 91.5,
+      "word": "come"
+    },
+    {
+      "start": 91.5,
+      "end": 91.66,
+      "word": "ogni"
+    },
+    {
+      "start": 91.66,
+      "end": 91.94,
+      "word": "sera"
+    },
+    {
+      "start": 91.94,
+      "end": 92.18,
+      "word": "sul"
+    },
+    {
+      "start": 92.18,
+      "end": 92.76,
+      "word": "porticciolo"
+    },
+    {
+      "start": 92.76,
+      "end": 92.9,
+      "word": "per"
+    },
+    {
+      "start": 92.9,
+      "end": 93.3,
+      "word": "osservare"
+    },
+    {
+      "start": 93.3,
+      "end": 93.4,
+      "word": "i"
+    },
+    {
+      "start": 93.4,
+      "end": 93.48,
+      "word": "vari"
+    },
+    {
+      "start": 93.48,
+      "end": 94.06,
+      "word": "scualetti"
+    },
+    {
+      "start": 94.06,
+      "end": 94.22,
+      "word": "E"
+    },
+    {
+      "start": 94.22,
+      "end": 94.98,
+      "word": "direttoserali"
+    },
+    {
+      "start": 94.98,
+      "end": 95.04,
+      "word": "che"
+    },
+    {
+      "start": 95.04,
+      "end": 95.14,
+      "word": "si"
+    },
+    {
+      "start": 95.14,
+      "end": 95.2,
+      "word": "è"
+    },
+    {
+      "start": 95.2,
+      "end": 95.7,
+      "word": "concluso"
+    },
+    {
+      "start": 95.7,
+      "end": 95.82,
+      "word": "su"
+    },
+    {
+      "start": 95.82,
+      "end": 96.02,
+      "word": "questo"
+    },
+    {
+      "start": 96.02,
+      "end": 96.52,
+      "word": "asdraio"
+    },
+    {
+      "start": 96.52,
+      "end": 96.72,
+      "word": "a"
+    },
+    {
+      "start": 96.72,
+      "end": 96.94,
+      "word": "bordo"
+    },
+    {
+      "start": 96.94,
+      "end": 97.42,
+      "word": "piscina"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "transcript": "giorno 3 del mio viaggio alle Maldive oggi ragazzi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0,
+      "transcript": "ci aspetto una gran bella giornata quindi partiamo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.067,
+      "end": 6.833,
+      "dur": 2.767,
+      "transcript": "carichi con una bella crepe è un bel piattino con qualche mini"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.833,
+      "end": 8.033,
+      "dur": 1.2,
+      "transcript": "croissant con cui ho appunto"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.033,
+      "end": 9.833,
+      "dur": 1.8,
+      "transcript": "fatto colazione ovviamente vista mare"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.833,
+      "end": 11.933,
+      "dur": 2.1,
+      "transcript": "dopo di che Visto che comunque c 'era un bel tempo"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.933,
+      "end": 13.167,
+      "dur": 1.233,
+      "transcript": "deciso di prendere maschere"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.167,
+      "end": 14.3,
+      "dur": 1.133,
+      "transcript": "boccaglio e andare a fare un bel"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.3,
+      "end": 15.933,
+      "dur": 1.633,
+      "transcript": "giro sulla barriera corallina"
+    },
+    {
+      "shot_idx": 9,
+      "start": 15.933,
+      "end": 25.167,
+      "dur": 9.233,
+      "transcript": "arrivo lì becco due squaletti faccio per vincorre lì anche se andavano velocissimo bomba tartarughina marina che mi passa davanti una roba incredibile e"
+    },
+    {
+      "shot_idx": 10,
+      "start": 25.167,
+      "end": 26.9,
+      "dur": 1.733,
+      "transcript": "quindi sì dopo aver nuotato con qualche squaletto"
+    },
+    {
+      "shot_idx": 11,
+      "start": 26.9,
+      "end": 28.133,
+      "dur": 1.233,
+      "transcript": "una tartaruga marina sono"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.133,
+      "end": 30.133,
+      "dur": 2.0,
+      "transcript": "dato bello carico il pranzo con Questo"
+    },
+    {
+      "shot_idx": 13,
+      "start": 30.133,
+      "end": 31.067,
+      "dur": 0.933,
+      "transcript": "mega piattone e"
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.067,
+      "end": 33.367,
+      "dur": 2.3,
+      "transcript": "anche un po di frutti dolce finale nel pomeriggio poi ripreso"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.367,
+      "end": 38.833,
+      "dur": 5.467,
+      "transcript": "maschere a boccaglio e pinne siamo partiti per andare a visitare una lingua di sabbia dopo questi quanta stasi squali nutrici che stanno"
+    },
+    {
+      "shot_idx": 16,
+      "start": 38.833,
+      "end": 40.633,
+      "dur": 1.8,
+      "transcript": "sempre arriva e stanno sempre insieme con la barca"
+    },
+    {
+      "shot_idx": 17,
+      "start": 40.633,
+      "end": 43.8,
+      "dur": 3.167,
+      "transcript": "del resort Siamo appunto partiti e nonostante non ci fosse proprio solo"
+    },
+    {
+      "shot_idx": 18,
+      "start": 43.8,
+      "end": 45.6,
+      "dur": 1.8,
+      "transcript": "il tempo comunque sembrava reggere infatti"
+    },
+    {
+      "shot_idx": 19,
+      "start": 45.6,
+      "end": 47.1,
+      "dur": 1.5,
+      "transcript": "primo bagno su una barriera"
+    },
+    {
+      "shot_idx": 20,
+      "start": 47.1,
+      "end": 47.667,
+      "dur": 0.567,
+      "transcript": "corallina"
+    },
+    {
+      "shot_idx": 21,
+      "start": 47.667,
+      "end": 50.667,
+      "dur": 3.0,
+      "transcript": "nel mezzo del mare che vuol dire che appunto nuotare il mezzo la barriera corallina"
+    },
+    {
+      "shot_idx": 22,
+      "start": 50.667,
+      "end": 52.767,
+      "dur": 2.1,
+      "transcript": "senza vedere alcun tipo di terra"
+    },
+    {
+      "shot_idx": 23,
+      "start": 52.767,
+      "end": 60.733,
+      "dur": 7.967,
+      "transcript": "fa abbastanza effetto dopo di che è aperitivo in barca e siamo anche riusciti a incontrare questo gruppo di delfini che ci ha seguiti per un po Spero che noi siamo appunto arrivati a questa"
+    },
+    {
+      "shot_idx": 24,
+      "start": 60.733,
+      "end": 64.1,
+      "dur": 3.367,
+      "transcript": "lingua di sabbia che giustamente emerge un po in base alle marie piccolo bagno"
+    },
+    {
+      "shot_idx": 25,
+      "start": 64.1,
+      "end": 66.133,
+      "dur": 2.033,
+      "transcript": "qua intorno Poi siamo tornati nella nostra isola"
+    },
+    {
+      "shot_idx": 26,
+      "start": 66.133,
+      "end": 68.567,
+      "dur": 2.433,
+      "transcript": "dove dopo un piccolo break in questo piosco sulla spiaggia"
+    },
+    {
+      "shot_idx": 27,
+      "start": 68.567,
+      "end": 72.167,
+      "dur": 3.6,
+      "transcript": "sono andato a fare un altro allenamento anche oggi Sono rimasto sull 'upper ed anche"
+    },
+    {
+      "shot_idx": 28,
+      "start": 72.167,
+      "end": 75.7,
+      "dur": 3.533,
+      "transcript": "oggi comunque queste calorie sono servita qualcosa piccolo spettacolo pre -cene"
+    },
+    {
+      "shot_idx": 29,
+      "start": 75.7,
+      "end": 77.3,
+      "dur": 1.6,
+      "transcript": "poi appunto è arrivato il mio momento"
+    },
+    {
+      "shot_idx": 30,
+      "start": 77.3,
+      "end": 79.533,
+      "dur": 2.233,
+      "transcript": "preferito E anche oggi due tre giri li abbiamo fatti"
+    },
+    {
+      "shot_idx": 31,
+      "start": 79.533,
+      "end": 81.5,
+      "dur": 1.967,
+      "transcript": "con un po di primi di carne di pesce"
+    },
+    {
+      "shot_idx": 32,
+      "start": 81.5,
+      "end": 83.3,
+      "dur": 1.8,
+      "transcript": "e anche un picchiere di bollecine"
+    },
+    {
+      "shot_idx": 33,
+      "start": 83.3,
+      "end": 85.367,
+      "dur": 2.067,
+      "transcript": "Dopodiché altro spettacolo posta"
+    },
+    {
+      "shot_idx": 34,
+      "start": 85.367,
+      "end": 88.367,
+      "dur": 3.0,
+      "transcript": "cena ed infine ne ho provvitato per farmi un altro giro dell 'isola Girando"
+    },
+    {
+      "shot_idx": 35,
+      "start": 88.367,
+      "end": 90.8,
+      "dur": 2.433,
+      "transcript": "tra queste palafitte direttamente sul mare piccolo"
+    },
+    {
+      "shot_idx": 36,
+      "start": 90.8,
+      "end": 92.333,
+      "dur": 1.533,
+      "transcript": "stop come ogni sera sul"
+    },
+    {
+      "shot_idx": 37,
+      "start": 92.333,
+      "end": 94.3,
+      "dur": 1.967,
+      "transcript": "porticciolo per osservare i vari scualetti E"
+    },
+    {
+      "shot_idx": 38,
+      "start": 94.3,
+      "end": 96.1,
+      "dur": 1.8,
+      "transcript": "direttoserali che si è concluso su questo"
+    },
+    {
+      "shot_idx": 39,
+      "start": 96.1,
+      "end": 97.7,
+      "dur": 1.6,
+      "transcript": "asdraio a bordo piscina"
+    }
+  ],
+  "full_text": "giorno 3 del mio viaggio alle Maldive oggi ragazzi ci aspetto una gran bella giornata quindi partiamo carichi con una bella crepe è un bel piattino con qualche mini croissant con cui ho appunto fatto colazione ovviamente vista mare dopo di che Visto che comunque c'era un bel tempo deciso di prendere maschere boccaglio e andare a fare un bel giro sulla barriera corallina arrivo lì becco due squaletti faccio per vincorre lì anche se andavano velocissimo bomba tartarughina marina che mi passa davanti una roba incredibile e quindi sì dopo aver nuotato con qualche squaletto una tartaruga marina sono dato bello carico il pranzo con Questo mega piattone e anche un po di frutti dolce finale nel pomeriggio poi ripreso maschere a boccaglio e pinne siamo partiti per andare a visitare una lingua di sabbia dopo questi quanta stasi squali nutrici che stanno sempre arriva e stanno sempre insieme con la barca del resort Siamo appunto partiti e nonostante non ci fosse proprio solo il tempo comunque sembrava reggere infatti primo bagno su una barriera corallina nel mezzo del mare che vuol dire che appunto nuotare il mezzo la barriera corallina senza vedere alcun tipo di terra fa abbastanza effetto dopo di che è aperitivo in barca e siamo anche riusciti a incontrare questo gruppo di delfini che ci ha seguiti per un po Spero che noi siamo appunto arrivati a questa lingua di sabbia che giustamente emerge un po in base alle marie piccolo bagno qua intorno Poi siamo tornati nella nostra isola dove dopo un piccolo break in questo piosco sulla spiaggia sono andato a fare un altro allenamento anche oggi Sono rimasto sull'upper ed anche oggi comunque queste calorie sono servita qualcosa piccolo spettacolo pre-cene poi appunto è arrivato il mio momento preferito E anche oggi due tre giri li abbiamo fatti con un po di primi di carne di pesce e anche un picchiere di bollecine Dopodiché altro spettacolo posta cena ed infine ne ho provvitato per farmi un altro giro dell'isola Girando tra queste palafitte direttamente sul mare piccolo stop come ogni sera sul porticciolo per osservare i vari scualetti E direttoserali che si è concluso su questo asdraio a bordo piscina",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Wings Top è finalmente in Italia",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Cliente osserva claw machine WING STOP con ali bianche dentro"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.5,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "Totem menù digitale interattivo con selezione ali e salse"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "Carrello con vassoi multipli di ali fritte e patatine"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Ali fritte croccanti dorate con panatura perfetta primo piano"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Mani tengono vassoio con ali e patatine gialle su carta branded"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Dettaglio texture croccante ali fritte con salsa bianca"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Mani versano salsa bianca su patatine fritte gialle"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente assaggia ali con espressione entusiasta di sorpresa"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "Cliente tiene bevanda in bicchiere di carta con stampa locale"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "Mano preleva bevanda da macchina freestyle Coca-Cola"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente beve e mangia ali con soddisfazione simultanea"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Mani prendono secondo morso di ali con visibile entusiasmo"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Gesto di approvazione mentre indica porzione di patatine"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente pulisce mani con carta branded sorridendo"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Dettaglio ali rimaste nel vassoio ancora fumanti e appetibili"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Ultimo morso finale con sguardo di totale soddisfazione"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Super closeup ali fritte croccanti dorate con effetto slow motion"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Ali immerse in salsa con movimento cinematico riuscito"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 2.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "Cliente di profilo sorride e guarda verso camera con entusiasmo"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Panorama finale location con claw machine WING STOP illuminata"
+    }
+  ],
+  "edl_job_id": 138
+}

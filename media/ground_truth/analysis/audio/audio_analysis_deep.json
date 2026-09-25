@@ -1,0 +1,179 @@
+{
+  "total_words": 313,
+  "total_speech_time": 77.16,
+  "wpm": 243.0,
+  "segments_count": 24,
+  "segment_avg_duration": 3.21,
+  "pauses": [
+    {
+      "after": "aperto proprio un viadante 16.",
+      "before": "Posizione super centrale e loc",
+      "gap": 0.24,
+      "at": 9.36
+    },
+    {
+      "after": "nte fries e bibita frire fill.",
+      "before": "E di ognuno abbiamo dovuto ovv",
+      "gap": 0.28,
+      "at": 23.04
+    }
+  ],
+  "long_pauses": [],
+  "segment_rms": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "rms": 0.1662,
+      "text": "Wingstop è finalmente arrivato in Italia e con lui quello ch"
+    },
+    {
+      "start": 4.62,
+      "end": 9.36,
+      "rms": 0.197,
+      "text": "Oggi siamo a Milano nel loro evento di apertura del loro pri"
+    },
+    {
+      "start": 9.6,
+      "end": 12.02,
+      "rms": 0.1991,
+      "text": "Posizione super centrale e location clamorosa."
+    },
+    {
+      "start": 12.08,
+      "end": 15.52,
+      "rms": 0.1831,
+      "text": "Noi abbiamo subito ordinato, siamo saliti al secondo piano d"
+    },
+    {
+      "start": 15.66,
+      "end": 17.1,
+      "rms": 0.1579,
+      "text": "E questo è tutto ciò che abbiamo preso."
+    },
+    {
+      "start": 17.18,
+      "end": 20.44,
+      "rms": 0.1875,
+      "text": "Di base abbiamo preso dei menu combo con 8 wings classiche o"
+    },
+    {
+      "start": 20.56,
+      "end": 23.04,
+      "rms": 0.1951,
+      "text": "retenders e ovviamente fries e bibita frire fill."
+    },
+    {
+      "start": 23.32,
+      "end": 25.66,
+      "rms": 0.1875,
+      "text": "E di ognuno abbiamo dovuto ovviamente scegliere il loro flav"
+    },
+    {
+      "start": 25.66,
+      "end": 29.58,
+      "rms": 0.1701,
+      "text": "Io ho iniziato da queste boneless Hawaiian che è un sapore m"
+    },
+    {
+      "start": 29.58,
+      "end": 32.24,
+      "rms": 0.2131,
+      "text": "che ovviamente fin da subito ha accompagnato con la loro sal"
+    },
+    {
+      "start": 32.3,
+      "end": 34.7,
+      "rms": 0.1799,
+      "text": "che è una delle misalze preferite e col polofretto non può m"
+    },
+    {
+      "start": 34.82,
+      "end": 38.82,
+      "rms": 0.1722,
+      "text": "Un po' di fries col cedar oppure lemon pepper, anche loro in"
+    },
+    {
+      "start": 38.9,
+      "end": 42.5,
+      "rms": 0.1829,
+      "text": "E ho continuato con questi tender croccanti super morbidi al"
+    },
+    {
+      "start": 42.6,
+      "end": 45.58,
+      "rms": 0.159,
+      "text": "ovviamente anche loro lemon pepper che è forse il mio gusto "
+    },
+    {
+      "start": 45.64,
+      "end": 49.16,
+      "rms": 0.1637,
+      "text": "In quanto adoro questo leggero pepato e il sapore di limone "
+    },
+    {
+      "start": 49.24,
+      "end": 52.46,
+      "rms": 0.2096,
+      "text": "Poi sono passato alle wings classiche che anche se preferisc"
+    },
+    {
+      "start": 52.46,
+      "end": 54.58,
+      "rms": 0.1454,
+      "text": "loro sono sempre soddisfacenti da mangiare."
+    },
+    {
+      "start": 54.58,
+      "end": 58.36,
+      "rms": 0.1879,
+      "text": "Sono tornato su questi tender super dolci ma allo stesso tem"
+    },
+    {
+      "start": 58.42,
+      "end": 60.3,
+      "rms": 0.1572,
+      "text": "ovviamente inzuppati nella salsa renna anche loro."
+    },
+    {
+      "start": 60.4,
+      "end": 64.92,
+      "rms": 0.1719,
+      "text": "Ho davvero provato quindi un misto di flavor ma devo mettere"
+    },
+    {
+      "start": 65.04,
+      "end": 68.82,
+      "rms": 0.1655,
+      "text": "Cosa che farò la prossima volta perché sono davvero curioso "
+    },
+    {
+      "start": 68.92,
+      "end": 71.1,
+      "rms": 0.1906,
+      "text": "Non in caso il pollo è davvero morbido e fritto alla grande."
+    },
+    {
+      "start": 71.24,
+      "end": 75.34,
+      "rms": 0.1578,
+      "text": "Il fatto che avete così tante scelta di flavor vi darà possi"
+    },
+    {
+      "start": 75.38,
+      "end": 79.2,
+      "rms": 0.1846,
+      "text": "Ed infine anche se non sono riuscito a vincere lo andiamo a "
+    }
+  ],
+  "rms_stats": {
+    "mean": 0.1785,
+    "min": 0.1454,
+    "max": 0.2131,
+    "std": 0.0173
+  },
+  "pitch_stats": {
+    "f0_mean": 137.0,
+    "f0_median": 130.0,
+    "f0_std": 33.0
+  }
+}

@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Backup e file temporanei
+*.bak
+*.bak_*
+*.tmp
+*.old
+*.swp
+*~
+
+# Credenziali e segreti
+.env
+.env.*
+cookies.txt
+*.pem
+*.key
+!set_openrouter_key.sh
+secrets/
+
+# Log e dati runtime
+logs/
+*.log
+
+# Media generati (se sono pesanti e rigenerabili)
+# media/
+# models/
+# data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.mov
+*.mp4
+*.MOV
+media/simple.subs/uploads/
+models/blobs/
+*.MP4
+*.mov
+*.MOV
+*.mp4
+media/simple_subs/uploads/
+models/blobs/

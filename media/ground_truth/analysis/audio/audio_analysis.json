@@ -1,0 +1,1129 @@
+{
+  "total_duration": 79.58,
+  "rms_stats": {
+    "mean": 0.17251,
+    "p25": 0.14514,
+    "p75": 0.19955,
+    "max": 0.26965
+  },
+  "energy_bands_summary": {
+    "voice_total": 2186113.0,
+    "music_total": 2869666.5,
+    "asmr_total": 280590.7
+  },
+  "windows": [
+    {
+      "t": 0.0,
+      "rms": 0.23729,
+      "voice_pct": 38.3,
+      "music_pct": 57.6,
+      "asmr_pct": 4.0
+    },
+    {
+      "t": 0.5,
+      "rms": 0.15897,
+      "voice_pct": 40.5,
+      "music_pct": 57.5,
+      "asmr_pct": 2.0
+    },
+    {
+      "t": 1.0,
+      "rms": 0.16009,
+      "voice_pct": 44.5,
+      "music_pct": 54.0,
+      "asmr_pct": 1.5
+    },
+    {
+      "t": 1.5,
+      "rms": 0.15823,
+      "voice_pct": 42.0,
+      "music_pct": 56.2,
+      "asmr_pct": 1.9
+    },
+    {
+      "t": 2.0,
+      "rms": 0.2279,
+      "voice_pct": 39.2,
+      "music_pct": 58.6,
+      "asmr_pct": 2.2
+    },
+    {
+      "t": 2.5,
+      "rms": 0.13115,
+      "voice_pct": 40.7,
+      "music_pct": 56.7,
+      "asmr_pct": 2.6
+    },
+    {
+      "t": 3.0,
+      "rms": 0.14095,
+      "voice_pct": 45.3,
+      "music_pct": 52.3,
+      "asmr_pct": 2.4
+    },
+    {
+      "t": 3.5,
+      "rms": 0.14512,
+      "voice_pct": 39.1,
+      "music_pct": 57.9,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 4.0,
+      "rms": 0.09453,
+      "voice_pct": 40.7,
+      "music_pct": 54.7,
+      "asmr_pct": 4.6
+    },
+    {
+      "t": 4.5,
+      "rms": 0.21394,
+      "voice_pct": 39.5,
+      "music_pct": 53.7,
+      "asmr_pct": 6.8
+    },
+    {
+      "t": 5.0,
+      "rms": 0.25876,
+      "voice_pct": 42.3,
+      "music_pct": 54.7,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 5.5,
+      "rms": 0.28012,
+      "voice_pct": 40.0,
+      "music_pct": 57.6,
+      "asmr_pct": 2.4
+    },
+    {
+      "t": 6.0,
+      "rms": 0.15592,
+      "voice_pct": 40.8,
+      "music_pct": 54.9,
+      "asmr_pct": 4.4
+    },
+    {
+      "t": 6.5,
+      "rms": 0.21547,
+      "voice_pct": 44.2,
+      "music_pct": 52.7,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 7.0,
+      "rms": 0.152,
+      "voice_pct": 42.2,
+      "music_pct": 54.2,
+      "asmr_pct": 3.6
+    },
+    {
+      "t": 7.5,
+      "rms": 0.14611,
+      "voice_pct": 43.2,
+      "music_pct": 54.2,
+      "asmr_pct": 2.6
+    },
+    {
+      "t": 8.0,
+      "rms": 0.13455,
+      "voice_pct": 43.3,
+      "music_pct": 54.6,
+      "asmr_pct": 2.2
+    },
+    {
+      "t": 8.5,
+      "rms": 0.19087,
+      "voice_pct": 40.9,
+      "music_pct": 55.7,
+      "asmr_pct": 3.4
+    },
+    {
+      "t": 9.0,
+      "rms": 0.09135,
+      "voice_pct": 33.7,
+      "music_pct": 54.7,
+      "asmr_pct": 11.5
+    },
+    {
+      "t": 9.5,
+      "rms": 0.21722,
+      "voice_pct": 39.6,
+      "music_pct": 53.0,
+      "asmr_pct": 7.4
+    },
+    {
+      "t": 10.0,
+      "rms": 0.17095,
+      "voice_pct": 39.8,
+      "music_pct": 53.2,
+      "asmr_pct": 7.0
+    },
+    {
+      "t": 10.5,
+      "rms": 0.22497,
+      "voice_pct": 44.1,
+      "music_pct": 52.3,
+      "asmr_pct": 3.6
+    },
+    {
+      "t": 11.0,
+      "rms": 0.19734,
+      "voice_pct": 39.8,
+      "music_pct": 55.5,
+      "asmr_pct": 4.7
+    },
+    {
+      "t": 11.5,
+      "rms": 0.16135,
+      "voice_pct": 41.7,
+      "music_pct": 55.3,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 12.0,
+      "rms": 0.20891,
+      "voice_pct": 40.6,
+      "music_pct": 53.4,
+      "asmr_pct": 6.0
+    },
+    {
+      "t": 12.5,
+      "rms": 0.18805,
+      "voice_pct": 43.0,
+      "music_pct": 52.4,
+      "asmr_pct": 4.6
+    },
+    {
+      "t": 13.0,
+      "rms": 0.20043,
+      "voice_pct": 38.0,
+      "music_pct": 53.0,
+      "asmr_pct": 9.0
+    },
+    {
+      "t": 13.5,
+      "rms": 0.17785,
+      "voice_pct": 38.8,
+      "music_pct": 50.9,
+      "asmr_pct": 10.3
+    },
+    {
+      "t": 14.0,
+      "rms": 0.2095,
+      "voice_pct": 44.3,
+      "music_pct": 52.5,
+      "asmr_pct": 3.3
+    },
+    {
+      "t": 14.5,
+      "rms": 0.15903,
+      "voice_pct": 43.8,
+      "music_pct": 51.6,
+      "asmr_pct": 4.7
+    },
+    {
+      "t": 15.0,
+      "rms": 0.10723,
+      "voice_pct": 40.5,
+      "music_pct": 54.2,
+      "asmr_pct": 5.3
+    },
+    {
+      "t": 15.5,
+      "rms": 0.16718,
+      "voice_pct": 38.8,
+      "music_pct": 54.2,
+      "asmr_pct": 6.9
+    },
+    {
+      "t": 16.0,
+      "rms": 0.13831,
+      "voice_pct": 38.3,
+      "music_pct": 54.3,
+      "asmr_pct": 7.4
+    },
+    {
+      "t": 16.5,
+      "rms": 0.16388,
+      "voice_pct": 42.5,
+      "music_pct": 55.1,
+      "asmr_pct": 2.4
+    },
+    {
+      "t": 17.0,
+      "rms": 0.18937,
+      "voice_pct": 41.0,
+      "music_pct": 54.1,
+      "asmr_pct": 4.9
+    },
+    {
+      "t": 17.5,
+      "rms": 0.18812,
+      "voice_pct": 40.7,
+      "music_pct": 56.6,
+      "asmr_pct": 2.7
+    },
+    {
+      "t": 18.0,
+      "rms": 0.14782,
+      "voice_pct": 38.6,
+      "music_pct": 58.9,
+      "asmr_pct": 2.5
+    },
+    {
+      "t": 18.5,
+      "rms": 0.20006,
+      "voice_pct": 42.3,
+      "music_pct": 54.5,
+      "asmr_pct": 3.2
+    },
+    {
+      "t": 19.0,
+      "rms": 0.19589,
+      "voice_pct": 35.9,
+      "music_pct": 53.2,
+      "asmr_pct": 11.0
+    },
+    {
+      "t": 19.5,
+      "rms": 0.17412,
+      "voice_pct": 39.9,
+      "music_pct": 50.7,
+      "asmr_pct": 9.4
+    },
+    {
+      "t": 20.0,
+      "rms": 0.17248,
+      "voice_pct": 38.6,
+      "music_pct": 52.2,
+      "asmr_pct": 9.2
+    },
+    {
+      "t": 20.5,
+      "rms": 0.23393,
+      "voice_pct": 44.5,
+      "music_pct": 51.8,
+      "asmr_pct": 3.7
+    },
+    {
+      "t": 21.0,
+      "rms": 0.18745,
+      "voice_pct": 40.0,
+      "music_pct": 51.3,
+      "asmr_pct": 8.7
+    },
+    {
+      "t": 21.5,
+      "rms": 0.23147,
+      "voice_pct": 42.4,
+      "music_pct": 54.7,
+      "asmr_pct": 2.9
+    },
+    {
+      "t": 22.0,
+      "rms": 0.18261,
+      "voice_pct": 40.7,
+      "music_pct": 53.9,
+      "asmr_pct": 5.4
+    },
+    {
+      "t": 22.5,
+      "rms": 0.10743,
+      "voice_pct": 40.9,
+      "music_pct": 55.4,
+      "asmr_pct": 3.7
+    },
+    {
+      "t": 23.0,
+      "rms": 0.12409,
+      "voice_pct": 34.9,
+      "music_pct": 60.0,
+      "asmr_pct": 5.1
+    },
+    {
+      "t": 23.5,
+      "rms": 0.29049,
+      "voice_pct": 38.5,
+      "music_pct": 58.3,
+      "asmr_pct": 3.1
+    },
+    {
+      "t": 24.0,
+      "rms": 0.15418,
+      "voice_pct": 39.4,
+      "music_pct": 57.2,
+      "asmr_pct": 3.4
+    },
+    {
+      "t": 24.5,
+      "rms": 0.12252,
+      "voice_pct": 34.9,
+      "music_pct": 51.7,
+      "asmr_pct": 13.4
+    },
+    {
+      "t": 25.0,
+      "rms": 0.1493,
+      "voice_pct": 41.0,
+      "music_pct": 56.2,
+      "asmr_pct": 2.7
+    },
+    {
+      "t": 25.5,
+      "rms": 0.20521,
+      "voice_pct": 41.7,
+      "music_pct": 56.3,
+      "asmr_pct": 2.0
+    },
+    {
+      "t": 26.0,
+      "rms": 0.15378,
+      "voice_pct": 41.3,
+      "music_pct": 54.3,
+      "asmr_pct": 4.4
+    },
+    {
+      "t": 26.5,
+      "rms": 0.21408,
+      "voice_pct": 41.2,
+      "music_pct": 55.3,
+      "asmr_pct": 3.6
+    },
+    {
+      "t": 27.0,
+      "rms": 0.19159,
+      "voice_pct": 40.6,
+      "music_pct": 50.4,
+      "asmr_pct": 9.0
+    },
+    {
+      "t": 27.5,
+      "rms": 0.20356,
+      "voice_pct": 44.7,
+      "music_pct": 52.0,
+      "asmr_pct": 3.3
+    },
+    {
+      "t": 28.0,
+      "rms": 0.10606,
+      "voice_pct": 38.7,
+      "music_pct": 55.6,
+      "asmr_pct": 5.7
+    },
+    {
+      "t": 28.5,
+      "rms": 0.11839,
+      "voice_pct": 40.0,
+      "music_pct": 50.6,
+      "asmr_pct": 9.4
+    },
+    {
+      "t": 29.0,
+      "rms": 0.13849,
+      "voice_pct": 41.8,
+      "music_pct": 54.3,
+      "asmr_pct": 3.9
+    },
+    {
+      "t": 29.5,
+      "rms": 0.25551,
+      "voice_pct": 41.8,
+      "music_pct": 55.2,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 30.0,
+      "rms": 0.18523,
+      "voice_pct": 34.6,
+      "music_pct": 55.1,
+      "asmr_pct": 10.3
+    },
+    {
+      "t": 30.5,
+      "rms": 0.19582,
+      "voice_pct": 41.0,
+      "music_pct": 56.7,
+      "asmr_pct": 2.4
+    },
+    {
+      "t": 31.0,
+      "rms": 0.25196,
+      "voice_pct": 44.1,
+      "music_pct": 53.7,
+      "asmr_pct": 2.2
+    },
+    {
+      "t": 31.5,
+      "rms": 0.16866,
+      "voice_pct": 39.9,
+      "music_pct": 52.2,
+      "asmr_pct": 7.9
+    },
+    {
+      "t": 32.0,
+      "rms": 0.20738,
+      "voice_pct": 42.0,
+      "music_pct": 55.4,
+      "asmr_pct": 2.6
+    },
+    {
+      "t": 32.5,
+      "rms": 0.18139,
+      "voice_pct": 36.5,
+      "music_pct": 52.7,
+      "asmr_pct": 10.8
+    },
+    {
+      "t": 33.0,
+      "rms": 0.1684,
+      "voice_pct": 37.8,
+      "music_pct": 57.8,
+      "asmr_pct": 4.4
+    },
+    {
+      "t": 33.5,
+      "rms": 0.21521,
+      "voice_pct": 42.0,
+      "music_pct": 54.6,
+      "asmr_pct": 3.4
+    },
+    {
+      "t": 34.0,
+      "rms": 0.1309,
+      "voice_pct": 39.9,
+      "music_pct": 57.3,
+      "asmr_pct": 2.8
+    },
+    {
+      "t": 34.5,
+      "rms": 0.18729,
+      "voice_pct": 41.4,
+      "music_pct": 54.5,
+      "asmr_pct": 4.1
+    },
+    {
+      "t": 35.0,
+      "rms": 0.20885,
+      "voice_pct": 43.4,
+      "music_pct": 51.4,
+      "asmr_pct": 5.1
+    },
+    {
+      "t": 35.5,
+      "rms": 0.16997,
+      "voice_pct": 42.4,
+      "music_pct": 51.6,
+      "asmr_pct": 6.1
+    },
+    {
+      "t": 36.0,
+      "rms": 0.19627,
+      "voice_pct": 43.8,
+      "music_pct": 53.3,
+      "asmr_pct": 2.9
+    },
+    {
+      "t": 36.5,
+      "rms": 0.12228,
+      "voice_pct": 41.5,
+      "music_pct": 55.6,
+      "asmr_pct": 2.9
+    },
+    {
+      "t": 37.0,
+      "rms": 0.13274,
+      "voice_pct": 42.1,
+      "music_pct": 54.2,
+      "asmr_pct": 3.6
+    },
+    {
+      "t": 37.5,
+      "rms": 0.20062,
+      "voice_pct": 41.3,
+      "music_pct": 56.1,
+      "asmr_pct": 2.6
+    },
+    {
+      "t": 38.0,
+      "rms": 0.15575,
+      "voice_pct": 42.3,
+      "music_pct": 54.2,
+      "asmr_pct": 3.5
+    },
+    {
+      "t": 38.5,
+      "rms": 0.12146,
+      "voice_pct": 37.1,
+      "music_pct": 53.9,
+      "asmr_pct": 9.0
+    },
+    {
+      "t": 39.0,
+      "rms": 0.24281,
+      "voice_pct": 42.3,
+      "music_pct": 53.0,
+      "asmr_pct": 4.7
+    },
+    {
+      "t": 39.5,
+      "rms": 0.16482,
+      "voice_pct": 37.7,
+      "music_pct": 49.3,
+      "asmr_pct": 12.9
+    },
+    {
+      "t": 40.0,
+      "rms": 0.12134,
+      "voice_pct": 39.7,
+      "music_pct": 52.0,
+      "asmr_pct": 8.3
+    },
+    {
+      "t": 40.5,
+      "rms": 0.14912,
+      "voice_pct": 38.1,
+      "music_pct": 49.6,
+      "asmr_pct": 12.3
+    },
+    {
+      "t": 41.0,
+      "rms": 0.21251,
+      "voice_pct": 43.0,
+      "music_pct": 51.6,
+      "asmr_pct": 5.3
+    },
+    {
+      "t": 41.5,
+      "rms": 0.18188,
+      "voice_pct": 39.2,
+      "music_pct": 55.7,
+      "asmr_pct": 5.1
+    },
+    {
+      "t": 42.0,
+      "rms": 0.17991,
+      "voice_pct": 42.5,
+      "music_pct": 51.7,
+      "asmr_pct": 5.7
+    },
+    {
+      "t": 42.5,
+      "rms": 0.16186,
+      "voice_pct": 40.3,
+      "music_pct": 54.5,
+      "asmr_pct": 5.3
+    },
+    {
+      "t": 43.0,
+      "rms": 0.23309,
+      "voice_pct": 42.1,
+      "music_pct": 54.0,
+      "asmr_pct": 3.9
+    },
+    {
+      "t": 43.5,
+      "rms": 0.16985,
+      "voice_pct": 41.5,
+      "music_pct": 53.9,
+      "asmr_pct": 4.6
+    },
+    {
+      "t": 44.0,
+      "rms": 0.13106,
+      "voice_pct": 41.1,
+      "music_pct": 52.9,
+      "asmr_pct": 6.0
+    },
+    {
+      "t": 44.5,
+      "rms": 0.13097,
+      "voice_pct": 37.6,
+      "music_pct": 50.9,
+      "asmr_pct": 11.5
+    },
+    {
+      "t": 45.0,
+      "rms": 0.08045,
+      "voice_pct": 37.0,
+      "music_pct": 54.5,
+      "asmr_pct": 8.6
+    },
+    {
+      "t": 45.5,
+      "rms": 0.18547,
+      "voice_pct": 41.4,
+      "music_pct": 55.1,
+      "asmr_pct": 3.5
+    },
+    {
+      "t": 46.0,
+      "rms": 0.22422,
+      "voice_pct": 41.8,
+      "music_pct": 54.4,
+      "asmr_pct": 3.8
+    },
+    {
+      "t": 46.5,
+      "rms": 0.23272,
+      "voice_pct": 42.1,
+      "music_pct": 51.6,
+      "asmr_pct": 6.2
+    },
+    {
+      "t": 47.0,
+      "rms": 0.15894,
+      "voice_pct": 43.1,
+      "music_pct": 52.0,
+      "asmr_pct": 4.9
+    },
+    {
+      "t": 47.5,
+      "rms": 0.09689,
+      "voice_pct": 36.5,
+      "music_pct": 52.0,
+      "asmr_pct": 11.5
+    },
+    {
+      "t": 48.0,
+      "rms": 0.09009,
+      "voice_pct": 34.1,
+      "music_pct": 60.5,
+      "asmr_pct": 5.4
+    },
+    {
+      "t": 48.5,
+      "rms": 0.08855,
+      "voice_pct": 37.9,
+      "music_pct": 57.9,
+      "asmr_pct": 4.2
+    },
+    {
+      "t": 49.0,
+      "rms": 0.16589,
+      "voice_pct": 41.9,
+      "music_pct": 53.4,
+      "asmr_pct": 4.7
+    },
+    {
+      "t": 49.5,
+      "rms": 0.20501,
+      "voice_pct": 42.7,
+      "music_pct": 52.3,
+      "asmr_pct": 5.1
+    },
+    {
+      "t": 50.0,
+      "rms": 0.18285,
+      "voice_pct": 36.6,
+      "music_pct": 55.8,
+      "asmr_pct": 7.5
+    },
+    {
+      "t": 50.5,
+      "rms": 0.14066,
+      "voice_pct": 40.9,
+      "music_pct": 52.1,
+      "asmr_pct": 6.9
+    },
+    {
+      "t": 51.0,
+      "rms": 0.19192,
+      "voice_pct": 42.2,
+      "music_pct": 51.5,
+      "asmr_pct": 6.3
+    },
+    {
+      "t": 51.5,
+      "rms": 0.26397,
+      "voice_pct": 41.7,
+      "music_pct": 51.4,
+      "asmr_pct": 6.9
+    },
+    {
+      "t": 52.0,
+      "rms": 0.23424,
+      "voice_pct": 40.8,
+      "music_pct": 50.7,
+      "asmr_pct": 8.5
+    },
+    {
+      "t": 52.5,
+      "rms": 0.23742,
+      "voice_pct": 44.2,
+      "music_pct": 52.1,
+      "asmr_pct": 3.7
+    },
+    {
+      "t": 53.0,
+      "rms": 0.10617,
+      "voice_pct": 37.0,
+      "music_pct": 56.2,
+      "asmr_pct": 6.8
+    },
+    {
+      "t": 53.5,
+      "rms": 0.0871,
+      "voice_pct": 36.7,
+      "music_pct": 53.9,
+      "asmr_pct": 9.4
+    },
+    {
+      "t": 54.0,
+      "rms": 0.11236,
+      "voice_pct": 41.4,
+      "music_pct": 55.5,
+      "asmr_pct": 3.0
+    },
+    {
+      "t": 54.5,
+      "rms": 0.10288,
+      "voice_pct": 39.0,
+      "music_pct": 53.4,
+      "asmr_pct": 7.6
+    },
+    {
+      "t": 55.0,
+      "rms": 0.19485,
+      "voice_pct": 41.2,
+      "music_pct": 51.5,
+      "asmr_pct": 7.3
+    },
+    {
+      "t": 55.5,
+      "rms": 0.24779,
+      "voice_pct": 39.7,
+      "music_pct": 49.6,
+      "asmr_pct": 10.7
+    },
+    {
+      "t": 56.0,
+      "rms": 0.14861,
+      "voice_pct": 32.5,
+      "music_pct": 49.4,
+      "asmr_pct": 18.1
+    },
+    {
+      "t": 56.5,
+      "rms": 0.25727,
+      "voice_pct": 41.2,
+      "music_pct": 54.1,
+      "asmr_pct": 4.8
+    },
+    {
+      "t": 57.0,
+      "rms": 0.20861,
+      "voice_pct": 39.4,
+      "music_pct": 50.9,
+      "asmr_pct": 9.7
+    },
+    {
+      "t": 57.5,
+      "rms": 0.11479,
+      "voice_pct": 38.1,
+      "music_pct": 54.7,
+      "asmr_pct": 7.2
+    },
+    {
+      "t": 58.0,
+      "rms": 0.13693,
+      "voice_pct": 40.7,
+      "music_pct": 54.0,
+      "asmr_pct": 5.3
+    },
+    {
+      "t": 58.5,
+      "rms": 0.13064,
+      "voice_pct": 36.6,
+      "music_pct": 57.9,
+      "asmr_pct": 5.4
+    },
+    {
+      "t": 59.0,
+      "rms": 0.12086,
+      "voice_pct": 39.0,
+      "music_pct": 53.5,
+      "asmr_pct": 7.5
+    },
+    {
+      "t": 59.5,
+      "rms": 0.12025,
+      "voice_pct": 37.6,
+      "music_pct": 51.2,
+      "asmr_pct": 11.2
+    },
+    {
+      "t": 60.0,
+      "rms": 0.26364,
+      "voice_pct": 43.0,
+      "music_pct": 52.9,
+      "asmr_pct": 4.1
+    },
+    {
+      "t": 60.5,
+      "rms": 0.20539,
+      "voice_pct": 42.0,
+      "music_pct": 53.7,
+      "asmr_pct": 4.3
+    },
+    {
+      "t": 61.0,
+      "rms": 0.19047,
+      "voice_pct": 30.0,
+      "music_pct": 52.0,
+      "asmr_pct": 18.0
+    },
+    {
+      "t": 61.5,
+      "rms": 0.22005,
+      "voice_pct": 39.0,
+      "music_pct": 53.0,
+      "asmr_pct": 8.0
+    },
+    {
+      "t": 62.0,
+      "rms": 0.22476,
+      "voice_pct": 43.1,
+      "music_pct": 53.5,
+      "asmr_pct": 3.4
+    },
+    {
+      "t": 62.5,
+      "rms": 0.17255,
+      "voice_pct": 44.6,
+      "music_pct": 53.0,
+      "asmr_pct": 2.3
+    },
+    {
+      "t": 63.0,
+      "rms": 0.12362,
+      "voice_pct": 37.3,
+      "music_pct": 57.0,
+      "asmr_pct": 5.6
+    },
+    {
+      "t": 63.5,
+      "rms": 0.09482,
+      "voice_pct": 36.1,
+      "music_pct": 56.1,
+      "asmr_pct": 7.7
+    },
+    {
+      "t": 64.0,
+      "rms": 0.12091,
+      "voice_pct": 38.6,
+      "music_pct": 55.9,
+      "asmr_pct": 5.5
+    },
+    {
+      "t": 64.5,
+      "rms": 0.07416,
+      "voice_pct": 40.2,
+      "music_pct": 56.5,
+      "asmr_pct": 3.3
+    },
+    {
+      "t": 65.0,
+      "rms": 0.23836,
+      "voice_pct": 42.9,
+      "music_pct": 53.6,
+      "asmr_pct": 3.5
+    },
+    {
+      "t": 65.5,
+      "rms": 0.21411,
+      "voice_pct": 44.3,
+      "music_pct": 52.2,
+      "asmr_pct": 3.5
+    },
+    {
+      "t": 66.0,
+      "rms": 0.10455,
+      "voice_pct": 41.3,
+      "music_pct": 54.4,
+      "asmr_pct": 4.3
+    },
+    {
+      "t": 66.5,
+      "rms": 0.15275,
+      "voice_pct": 38.9,
+      "music_pct": 58.0,
+      "asmr_pct": 3.2
+    },
+    {
+      "t": 67.0,
+      "rms": 0.1578,
+      "voice_pct": 43.5,
+      "music_pct": 54.4,
+      "asmr_pct": 2.0
+    },
+    {
+      "t": 67.5,
+      "rms": 0.19916,
+      "voice_pct": 41.3,
+      "music_pct": 56.8,
+      "asmr_pct": 1.9
+    },
+    {
+      "t": 68.0,
+      "rms": 0.06314,
+      "voice_pct": 30.9,
+      "music_pct": 55.4,
+      "asmr_pct": 13.7
+    },
+    {
+      "t": 68.5,
+      "rms": 0.1158,
+      "voice_pct": 40.0,
+      "music_pct": 57.6,
+      "asmr_pct": 2.4
+    },
+    {
+      "t": 69.0,
+      "rms": 0.19539,
+      "voice_pct": 42.1,
+      "music_pct": 54.1,
+      "asmr_pct": 3.8
+    },
+    {
+      "t": 69.5,
+      "rms": 0.21807,
+      "voice_pct": 43.5,
+      "music_pct": 54.4,
+      "asmr_pct": 2.1
+    },
+    {
+      "t": 70.0,
+      "rms": 0.21884,
+      "voice_pct": 42.8,
+      "music_pct": 53.9,
+      "asmr_pct": 3.2
+    },
+    {
+      "t": 70.5,
+      "rms": 0.11694,
+      "voice_pct": 43.5,
+      "music_pct": 53.9,
+      "asmr_pct": 2.5
+    },
+    {
+      "t": 71.0,
+      "rms": 0.14814,
+      "voice_pct": 40.0,
+      "music_pct": 54.4,
+      "asmr_pct": 5.6
+    },
+    {
+      "t": 71.5,
+      "rms": 0.14235,
+      "voice_pct": 38.3,
+      "music_pct": 54.1,
+      "asmr_pct": 7.6
+    },
+    {
+      "t": 72.0,
+      "rms": 0.18164,
+      "voice_pct": 39.8,
+      "music_pct": 50.8,
+      "asmr_pct": 9.3
+    },
+    {
+      "t": 72.5,
+      "rms": 0.17559,
+      "voice_pct": 40.9,
+      "music_pct": 54.2,
+      "asmr_pct": 5.0
+    },
+    {
+      "t": 73.0,
+      "rms": 0.23041,
+      "voice_pct": 45.1,
+      "music_pct": 52.6,
+      "asmr_pct": 2.3
+    },
+    {
+      "t": 73.5,
+      "rms": 0.13622,
+      "voice_pct": 42.6,
+      "music_pct": 52.7,
+      "asmr_pct": 4.7
+    },
+    {
+      "t": 74.0,
+      "rms": 0.14239,
+      "voice_pct": 44.8,
+      "music_pct": 53.2,
+      "asmr_pct": 2.0
+    },
+    {
+      "t": 74.5,
+      "rms": 0.08778,
+      "voice_pct": 38.6,
+      "music_pct": 57.9,
+      "asmr_pct": 3.5
+    },
+    {
+      "t": 75.0,
+      "rms": 0.10007,
+      "voice_pct": 35.4,
+      "music_pct": 55.3,
+      "asmr_pct": 9.2
+    },
+    {
+      "t": 75.5,
+      "rms": 0.21871,
+      "voice_pct": 41.5,
+      "music_pct": 52.6,
+      "asmr_pct": 5.9
+    },
+    {
+      "t": 76.0,
+      "rms": 0.17816,
+      "voice_pct": 37.0,
+      "music_pct": 54.4,
+      "asmr_pct": 8.7
+    },
+    {
+      "t": 76.5,
+      "rms": 0.17252,
+      "voice_pct": 36.4,
+      "music_pct": 52.9,
+      "asmr_pct": 10.7
+    },
+    {
+      "t": 77.0,
+      "rms": 0.24799,
+      "voice_pct": 44.0,
+      "music_pct": 53.8,
+      "asmr_pct": 2.3
+    },
+    {
+      "t": 77.5,
+      "rms": 0.17233,
+      "voice_pct": 42.5,
+      "music_pct": 54.7,
+      "asmr_pct": 2.9
+    },
+    {
+      "t": 78.0,
+      "rms": 0.2026,
+      "voice_pct": 45.1,
+      "music_pct": 51.7,
+      "asmr_pct": 3.2
+    },
+    {
+      "t": 78.5,
+      "rms": 0.09647,
+      "voice_pct": 42.0,
+      "music_pct": 53.4,
+      "asmr_pct": 4.5
+    },
+    {
+      "t": 79.0,
+      "rms": 0.03184,
+      "voice_pct": 37.1,
+      "music_pct": 55.9,
+      "asmr_pct": 6.9
+    }
+  ]
+}

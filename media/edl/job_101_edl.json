@@ -1,0 +1,230 @@
+{
+  "title": "Da Nicoluzza: Wings & Fritti Esplosivi",
+  "voiceover_script": "Ragazzi, oggi sono finalmente andato da Nicoluzza e vi assicuro che è stata una scoperta clamorosa. Iniziamo subito con le ali: perfettamente croccanti fuori, succose dentro, con quella glassa caramellata che è pura bomba. Poi abbiamo i fritti: bastoncini dorati, croccanti, con l'interno morbido e filante. Non potete non provare anche i nuggets, insomma, davvero esplosivi. Le patatine fritte sono fatte in casa, tagliate spesse, cottura perfetta. E il dettaglio che vi farà vincere? La salsa: cremosa, saporita, quella roba che ti fa tornare subito. Tutto il menu da Nicoluzza è da assaggiare, ragazzi. WINGS.",
+  "timeline": [
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.309,
+      "out_sec": 3.191,
+      "duration": 2.88,
+      "role": "food",
+      "subtitle_text": "Ragazzi, oggi sono finalmente andato da Nicoluzza"
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.626,
+      "out_sec": 6.074,
+      "duration": 2.45,
+      "role": "reaction",
+      "subtitle_text": "e vi assicuro che è stata una scoperta clamorosa."
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.439,
+      "out_sec": 3.061,
+      "duration": 2.62,
+      "role": "detail",
+      "subtitle_text": "Iniziamo subito con le ali:"
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.558,
+      "out_sec": 6.142,
+      "duration": 2.58,
+      "role": "detail",
+      "subtitle_text": "perfettamente croccanti fuori, succose dentro,"
+    },
+    {
+      "scene_id": 15,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 0.275,
+      "out_sec": 3.225,
+      "duration": 2.95,
+      "role": "detail",
+      "subtitle_text": "con quella glassa caramellata che è pura bomba."
+    },
+    {
+      "scene_id": 18,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 9.596,
+      "out_sec": 12.504,
+      "duration": 2.91,
+      "role": "detail",
+      "subtitle_text": "Poi abbiamo i fritti: bastoncini dorati, croccanti,"
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.619,
+      "out_sec": 15.681,
+      "duration": 3.06,
+      "role": "detail",
+      "subtitle_text": "con l'interno morbido e filante."
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 16.007,
+      "out_sec": 18.493,
+      "duration": 2.49,
+      "role": "reaction",
+      "subtitle_text": "Non potete non provare anche i nuggets,"
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.387,
+      "out_sec": 3.113,
+      "duration": 2.73,
+      "role": "action",
+      "subtitle_text": "insomma, davvero esplosivi."
+    },
+    {
+      "scene_id": 30,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 6.726,
+      "out_sec": 9.174,
+      "duration": 2.45,
+      "role": "reaction",
+      "subtitle_text": "Le patatine fritte sono fatte in casa,"
+    },
+    {
+      "scene_id": 42,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 0.46,
+      "out_sec": 3.04,
+      "duration": 2.58,
+      "role": "food",
+      "subtitle_text": "tagliate spesse, cottura perfetta."
+    },
+    {
+      "scene_id": 44,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 6.557,
+      "out_sec": 9.343,
+      "duration": 2.79,
+      "role": "action",
+      "subtitle_text": "E il dettaglio che vi farà vincere?"
+    },
+    {
+      "scene_id": 45,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 9.826,
+      "out_sec": 12.274,
+      "duration": 2.45,
+      "role": "action",
+      "subtitle_text": "La salsa: cremosa, saporita,"
+    },
+    {
+      "scene_id": 58,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 0.467,
+      "out_sec": 3.033,
+      "duration": 2.57,
+      "role": "action",
+      "subtitle_text": "quella roba che ti fa tornare subito."
+    },
+    {
+      "scene_id": 64,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 0.306,
+      "out_sec": 3.194,
+      "duration": 2.89,
+      "role": "detail",
+      "subtitle_text": "Tutto il menu da Nicoluzza"
+    },
+    {
+      "scene_id": 65,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 3.443,
+      "out_sec": 6.257,
+      "duration": 2.81,
+      "role": "action",
+      "subtitle_text": "è da assaggiare, ragazzi."
+    },
+    {
+      "scene_id": 72,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 0.459,
+      "out_sec": 3.041,
+      "duration": 2.58,
+      "role": "detail",
+      "subtitle_text": "Il croccante fuori,"
+    },
+    {
+      "scene_id": 81,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "clip_name": "IMG_6830.MOV",
+      "in_sec": 6.527,
+      "out_sec": 9.373,
+      "duration": 2.85,
+      "role": "detail",
+      "subtitle_text": "la consistenza incredibile,"
+    },
+    {
+      "scene_id": 82,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 0.099,
+      "out_sec": 3.101,
+      "duration": 3.0,
+      "role": "detail",
+      "subtitle_text": "il sapore che rimane in bocca."
+    },
+    {
+      "scene_id": 92,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "clip_name": "IMG_6833.MOV",
+      "in_sec": 6.726,
+      "out_sec": 9.174,
+      "duration": 2.45,
+      "role": "food",
+      "subtitle_text": "Vi assicuro, dovete assolutamente provarle."
+    },
+    {
+      "scene_id": 101,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "clip_name": "IMG_6834.MOV",
+      "in_sec": 9.55,
+      "out_sec": 12.55,
+      "duration": 3.0,
+      "role": "reaction",
+      "subtitle_text": "Ogni pezzo è una scoperta."
+    },
+    {
+      "scene_id": 102,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 0.288,
+      "out_sec": 3.212,
+      "duration": 2.92,
+      "role": "food",
+      "subtitle_text": "WINGS."
+    }
+  ],
+  "total_duration": 60.01,
+  "n_clips": 22,
+  "profile_id": 13,
+  "generated_at": "2026-09-18T09:36:18"
+}

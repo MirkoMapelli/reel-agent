@@ -1,0 +1,1556 @@
+{
+  "ref_id": "ref_44_7574752190003186966",
+  "video": "/opt/reel-agent/media/style_ref/ref_44_7574752190003186966.mp4",
+  "n_segments": 20,
+  "n_words": 259,
+  "n_shots": 21,
+  "full_text": "Una mega pizza gigante, dei mega pancakes giganti e una mega ballet nottera gigante. Questa è la America ragazzi, oggi vi porto come una giornata a Monteray, in California. Giornata che è chiaramente partita con un caffettone americano. E con un giretto in questa città, durante il quale ci sono imbatuti in queste centinaia. Sono migliaia di foche, leone di mare. Dopodiché ragazzi però c'è venuto a fare, noi quindi siamo andati a fare un branco in uno dei diner più famosi della città. Dove ho preso questa sorta di club sandwich con patate e queste altre mega pancakes alla banana e nuoci con cioccolato e burro. Partendo dal sandwich ragazzi guardate quanti strati c'erano. Prosciutto beh con insalata, pomodori, ala pegno, formaggio chissà cos'altro. Buono eh, ma la morbidezza di questi pancakes alla banana e nuoci è stata insuperabile. E subito dopo nel pomeriggio... Mamma mia! Whale watching a largo delle coste di Monteray. Dove siamo riusciti ad avvistare queste 3-4 ballene? All'inizio un po' più lontananza e alla fine anche ben da vicino. Che ci hanno regalato uno spettacolo unico e clamoroso che tra l'altro non avevo mai visto in tutta la mia vita. E da proposito di esperdienze clamorose per cena non potevo non concludere questa giornata con una pizza clamorosa. Pepperoni pizza presa da Monty Mike's Pizza che ragazzi mi ha stupito veramente tanto. Giuticandola chiaramente come pizza americana, davvero una delle migliori mai mangiate contro l'altro dei pepperoni super croccanti esattamente come dovrebbero essere i pepperoni americani.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.18,
+      "text": "Una mega pizza gigante, dei mega pancakes giganti e una mega ballet nottera gigante."
+    },
+    {
+      "start": 6.28,
+      "end": 9.98,
+      "text": "Questa è la America ragazzi, oggi vi porto come una giornata a Monteray, in California."
+    },
+    {
+      "start": 10.36,
+      "end": 13.4,
+      "text": "Giornata che è chiaramente partita con un caffettone americano."
+    },
+    {
+      "start": 13.48,
+      "end": 16.8,
+      "text": "E con un giretto in questa città, durante il quale ci sono imbatuti in queste centinaia."
+    },
+    {
+      "start": 16.86,
+      "end": 18.5,
+      "text": "Sono migliaia di foche, leone di mare."
+    },
+    {
+      "start": 24.0,
+      "end": 28.64,
+      "text": "Dopodiché ragazzi però c'è venuto a fare, noi quindi siamo andati a fare un branco in uno dei diner più famosi della città."
+    },
+    {
+      "start": 28.64,
+      "end": 34.74,
+      "text": "Dove ho preso questa sorta di club sandwich con patate e queste altre mega pancakes alla banana e nuoci con cioccolato e burro."
+    },
+    {
+      "start": 34.8,
+      "end": 37.52,
+      "text": "Partendo dal sandwich ragazzi guardate quanti strati c'erano."
+    },
+    {
+      "start": 37.58,
+      "end": 41.38,
+      "text": "Prosciutto beh con insalata, pomodori, ala pegno, formaggio chissà cos'altro."
+    },
+    {
+      "start": 41.52,
+      "end": 45.24,
+      "text": "Buono eh, ma la morbidezza di questi pancakes alla banana e nuoci è stata insuperabile."
+    },
+    {
+      "start": 45.44,
+      "end": 47.04,
+      "text": "E subito dopo nel pomeriggio..."
+    },
+    {
+      "start": 47.04,
+      "end": 47.78,
+      "text": "Mamma mia!"
+    },
+    {
+      "start": 49.34,
+      "end": 51.84,
+      "text": "Whale watching a largo delle coste di Monteray."
+    },
+    {
+      "start": 51.92,
+      "end": 54.48,
+      "text": "Dove siamo riusciti ad avvistare queste 3-4 ballene?"
+    },
+    {
+      "start": 54.56,
+      "end": 57.3,
+      "text": "All'inizio un po' più lontananza e alla fine anche ben da vicino."
+    },
+    {
+      "start": 57.3,
+      "end": 62.36,
+      "text": "Che ci hanno regalato uno spettacolo unico e clamoroso che tra l'altro non avevo mai visto in tutta la mia vita."
+    },
+    {
+      "start": 62.44,
+      "end": 67.92,
+      "text": "E da proposito di esperdienze clamorose per cena non potevo non concludere questa giornata con una pizza clamorosa."
+    },
+    {
+      "start": 67.98,
+      "end": 72.32,
+      "text": "Pepperoni pizza presa da Monty Mike's Pizza che ragazzi mi ha stupito veramente tanto."
+    },
+    {
+      "start": 72.6,
+      "end": 76.52,
+      "text": "Giuticandola chiaramente come pizza americana, davvero una delle migliori mai mangiate"
+    },
+    {
+      "start": 76.52,
+      "end": 81.1,
+      "text": "contro l'altro dei pepperoni super croccanti esattamente come dovrebbero essere i pepperoni americani."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "word": "Una"
+    },
+    {
+      "start": 0.26,
+      "end": 0.66,
+      "word": "mega"
+    },
+    {
+      "start": 0.66,
+      "end": 1.14,
+      "word": "pizza"
+    },
+    {
+      "start": 1.14,
+      "end": 1.82,
+      "word": "gigante,"
+    },
+    {
+      "start": 1.9,
+      "end": 2.36,
+      "word": "dei"
+    },
+    {
+      "start": 2.36,
+      "end": 2.74,
+      "word": "mega"
+    },
+    {
+      "start": 2.74,
+      "end": 3.14,
+      "word": "pancakes"
+    },
+    {
+      "start": 3.14,
+      "end": 4.0,
+      "word": "giganti"
+    },
+    {
+      "start": 4.0,
+      "end": 4.4,
+      "word": "e"
+    },
+    {
+      "start": 4.4,
+      "end": 4.54,
+      "word": "una"
+    },
+    {
+      "start": 4.54,
+      "end": 4.94,
+      "word": "mega"
+    },
+    {
+      "start": 4.94,
+      "end": 5.16,
+      "word": "ballet"
+    },
+    {
+      "start": 5.16,
+      "end": 5.6,
+      "word": "nottera"
+    },
+    {
+      "start": 5.6,
+      "end": 6.18,
+      "word": "gigante."
+    },
+    {
+      "start": 6.28,
+      "end": 6.4,
+      "word": "Questa"
+    },
+    {
+      "start": 6.4,
+      "end": 6.54,
+      "word": "è"
+    },
+    {
+      "start": 6.54,
+      "end": 6.58,
+      "word": "la"
+    },
+    {
+      "start": 6.58,
+      "end": 6.74,
+      "word": "America"
+    },
+    {
+      "start": 6.74,
+      "end": 7.16,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 7.22,
+      "end": 7.36,
+      "word": "oggi"
+    },
+    {
+      "start": 7.36,
+      "end": 7.48,
+      "word": "vi"
+    },
+    {
+      "start": 7.48,
+      "end": 7.76,
+      "word": "porto"
+    },
+    {
+      "start": 7.76,
+      "end": 7.92,
+      "word": "come"
+    },
+    {
+      "start": 7.92,
+      "end": 8.12,
+      "word": "una"
+    },
+    {
+      "start": 8.12,
+      "end": 8.52,
+      "word": "giornata"
+    },
+    {
+      "start": 8.52,
+      "end": 8.7,
+      "word": "a"
+    },
+    {
+      "start": 8.7,
+      "end": 9.28,
+      "word": "Monteray,"
+    },
+    {
+      "start": 9.42,
+      "end": 9.5,
+      "word": "in"
+    },
+    {
+      "start": 9.5,
+      "end": 9.98,
+      "word": "California."
+    },
+    {
+      "start": 10.36,
+      "end": 10.6,
+      "word": "Giornata"
+    },
+    {
+      "start": 10.6,
+      "end": 10.74,
+      "word": "che"
+    },
+    {
+      "start": 10.74,
+      "end": 10.82,
+      "word": "è"
+    },
+    {
+      "start": 10.82,
+      "end": 11.16,
+      "word": "chiaramente"
+    },
+    {
+      "start": 11.16,
+      "end": 11.66,
+      "word": "partita"
+    },
+    {
+      "start": 11.66,
+      "end": 11.86,
+      "word": "con"
+    },
+    {
+      "start": 11.86,
+      "end": 12.0,
+      "word": "un"
+    },
+    {
+      "start": 12.0,
+      "end": 12.58,
+      "word": "caffettone"
+    },
+    {
+      "start": 12.58,
+      "end": 13.4,
+      "word": "americano."
+    },
+    {
+      "start": 13.48,
+      "end": 13.52,
+      "word": "E"
+    },
+    {
+      "start": 13.52,
+      "end": 13.68,
+      "word": "con"
+    },
+    {
+      "start": 13.68,
+      "end": 13.78,
+      "word": "un"
+    },
+    {
+      "start": 13.78,
+      "end": 14.14,
+      "word": "giretto"
+    },
+    {
+      "start": 14.14,
+      "end": 14.22,
+      "word": "in"
+    },
+    {
+      "start": 14.22,
+      "end": 14.42,
+      "word": "questa"
+    },
+    {
+      "start": 14.42,
+      "end": 14.82,
+      "word": "città,"
+    },
+    {
+      "start": 14.9,
+      "end": 15.02,
+      "word": "durante"
+    },
+    {
+      "start": 15.02,
+      "end": 15.22,
+      "word": "il"
+    },
+    {
+      "start": 15.22,
+      "end": 15.38,
+      "word": "quale"
+    },
+    {
+      "start": 15.38,
+      "end": 15.5,
+      "word": "ci"
+    },
+    {
+      "start": 15.5,
+      "end": 15.6,
+      "word": "sono"
+    },
+    {
+      "start": 15.6,
+      "end": 15.94,
+      "word": "imbatuti"
+    },
+    {
+      "start": 15.94,
+      "end": 16.08,
+      "word": "in"
+    },
+    {
+      "start": 16.08,
+      "end": 16.24,
+      "word": "queste"
+    },
+    {
+      "start": 16.24,
+      "end": 16.8,
+      "word": "centinaia."
+    },
+    {
+      "start": 16.86,
+      "end": 17.02,
+      "word": "Sono"
+    },
+    {
+      "start": 17.02,
+      "end": 17.48,
+      "word": "migliaia"
+    },
+    {
+      "start": 17.48,
+      "end": 17.64,
+      "word": "di"
+    },
+    {
+      "start": 17.64,
+      "end": 17.94,
+      "word": "foche,"
+    },
+    {
+      "start": 18.06,
+      "end": 18.16,
+      "word": "leone"
+    },
+    {
+      "start": 18.16,
+      "end": 18.3,
+      "word": "di"
+    },
+    {
+      "start": 18.3,
+      "end": 18.5,
+      "word": "mare."
+    },
+    {
+      "start": 24.0,
+      "end": 24.32,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 24.32,
+      "end": 24.64,
+      "word": "ragazzi"
+    },
+    {
+      "start": 24.64,
+      "end": 24.82,
+      "word": "però"
+    },
+    {
+      "start": 24.82,
+      "end": 24.94,
+      "word": "c"
+    },
+    {
+      "start": 24.94,
+      "end": 24.98,
+      "word": "'è"
+    },
+    {
+      "start": 24.98,
+      "end": 25.2,
+      "word": "venuto"
+    },
+    {
+      "start": 25.2,
+      "end": 25.34,
+      "word": "a"
+    },
+    {
+      "start": 25.34,
+      "end": 25.46,
+      "word": "fare,"
+    },
+    {
+      "start": 25.6,
+      "end": 25.62,
+      "word": "noi"
+    },
+    {
+      "start": 25.62,
+      "end": 25.74,
+      "word": "quindi"
+    },
+    {
+      "start": 25.74,
+      "end": 25.9,
+      "word": "siamo"
+    },
+    {
+      "start": 25.9,
+      "end": 26.08,
+      "word": "andati"
+    },
+    {
+      "start": 26.08,
+      "end": 26.2,
+      "word": "a"
+    },
+    {
+      "start": 26.2,
+      "end": 26.3,
+      "word": "fare"
+    },
+    {
+      "start": 26.3,
+      "end": 26.48,
+      "word": "un"
+    },
+    {
+      "start": 26.48,
+      "end": 26.84,
+      "word": "branco"
+    },
+    {
+      "start": 26.84,
+      "end": 26.98,
+      "word": "in"
+    },
+    {
+      "start": 26.98,
+      "end": 27.12,
+      "word": "uno"
+    },
+    {
+      "start": 27.12,
+      "end": 27.26,
+      "word": "dei"
+    },
+    {
+      "start": 27.26,
+      "end": 27.58,
+      "word": "diner"
+    },
+    {
+      "start": 27.58,
+      "end": 27.74,
+      "word": "più"
+    },
+    {
+      "start": 27.74,
+      "end": 28.04,
+      "word": "famosi"
+    },
+    {
+      "start": 28.04,
+      "end": 28.24,
+      "word": "della"
+    },
+    {
+      "start": 28.24,
+      "end": 28.64,
+      "word": "città."
+    },
+    {
+      "start": 28.64,
+      "end": 28.92,
+      "word": "Dove"
+    },
+    {
+      "start": 28.92,
+      "end": 29.0,
+      "word": "ho"
+    },
+    {
+      "start": 29.0,
+      "end": 29.3,
+      "word": "preso"
+    },
+    {
+      "start": 29.3,
+      "end": 29.56,
+      "word": "questa"
+    },
+    {
+      "start": 29.56,
+      "end": 29.84,
+      "word": "sorta"
+    },
+    {
+      "start": 29.84,
+      "end": 30.04,
+      "word": "di"
+    },
+    {
+      "start": 30.04,
+      "end": 30.2,
+      "word": "club"
+    },
+    {
+      "start": 30.2,
+      "end": 30.64,
+      "word": "sandwich"
+    },
+    {
+      "start": 30.64,
+      "end": 30.88,
+      "word": "con"
+    },
+    {
+      "start": 30.88,
+      "end": 31.28,
+      "word": "patate"
+    },
+    {
+      "start": 31.28,
+      "end": 31.54,
+      "word": "e"
+    },
+    {
+      "start": 31.54,
+      "end": 31.8,
+      "word": "queste"
+    },
+    {
+      "start": 31.8,
+      "end": 31.98,
+      "word": "altre"
+    },
+    {
+      "start": 31.98,
+      "end": 32.32,
+      "word": "mega"
+    },
+    {
+      "start": 32.32,
+      "end": 32.68,
+      "word": "pancakes"
+    },
+    {
+      "start": 32.68,
+      "end": 32.94,
+      "word": "alla"
+    },
+    {
+      "start": 32.94,
+      "end": 33.2,
+      "word": "banana"
+    },
+    {
+      "start": 33.2,
+      "end": 33.42,
+      "word": "e"
+    },
+    {
+      "start": 33.42,
+      "end": 33.72,
+      "word": "nuoci"
+    },
+    {
+      "start": 33.72,
+      "end": 33.94,
+      "word": "con"
+    },
+    {
+      "start": 33.94,
+      "end": 34.32,
+      "word": "cioccolato"
+    },
+    {
+      "start": 34.32,
+      "end": 34.44,
+      "word": "e"
+    },
+    {
+      "start": 34.44,
+      "end": 34.74,
+      "word": "burro."
+    },
+    {
+      "start": 34.8,
+      "end": 35.08,
+      "word": "Partendo"
+    },
+    {
+      "start": 35.08,
+      "end": 35.26,
+      "word": "dal"
+    },
+    {
+      "start": 35.26,
+      "end": 35.52,
+      "word": "sandwich"
+    },
+    {
+      "start": 35.52,
+      "end": 35.88,
+      "word": "ragazzi"
+    },
+    {
+      "start": 35.88,
+      "end": 36.18,
+      "word": "guardate"
+    },
+    {
+      "start": 36.18,
+      "end": 36.7,
+      "word": "quanti"
+    },
+    {
+      "start": 36.7,
+      "end": 37.08,
+      "word": "strati"
+    },
+    {
+      "start": 37.08,
+      "end": 37.28,
+      "word": "c"
+    },
+    {
+      "start": 37.28,
+      "end": 37.52,
+      "word": "'erano."
+    },
+    {
+      "start": 37.58,
+      "end": 38.02,
+      "word": "Prosciutto"
+    },
+    {
+      "start": 38.02,
+      "end": 38.26,
+      "word": "beh"
+    },
+    {
+      "start": 38.26,
+      "end": 38.44,
+      "word": "con"
+    },
+    {
+      "start": 38.44,
+      "end": 38.94,
+      "word": "insalata,"
+    },
+    {
+      "start": 39.02,
+      "end": 39.54,
+      "word": "pomodori,"
+    },
+    {
+      "start": 39.64,
+      "end": 39.72,
+      "word": "ala"
+    },
+    {
+      "start": 39.72,
+      "end": 40.14,
+      "word": "pegno,"
+    },
+    {
+      "start": 40.24,
+      "end": 40.6,
+      "word": "formaggio"
+    },
+    {
+      "start": 40.6,
+      "end": 40.96,
+      "word": "chissà"
+    },
+    {
+      "start": 40.96,
+      "end": 41.08,
+      "word": "cos"
+    },
+    {
+      "start": 41.08,
+      "end": 41.38,
+      "word": "'altro."
+    },
+    {
+      "start": 41.52,
+      "end": 41.76,
+      "word": "Buono"
+    },
+    {
+      "start": 41.76,
+      "end": 41.94,
+      "word": "eh,"
+    },
+    {
+      "start": 42.04,
+      "end": 42.1,
+      "word": "ma"
+    },
+    {
+      "start": 42.1,
+      "end": 42.2,
+      "word": "la"
+    },
+    {
+      "start": 42.2,
+      "end": 42.72,
+      "word": "morbidezza"
+    },
+    {
+      "start": 42.72,
+      "end": 42.84,
+      "word": "di"
+    },
+    {
+      "start": 42.84,
+      "end": 43.02,
+      "word": "questi"
+    },
+    {
+      "start": 43.02,
+      "end": 43.44,
+      "word": "pancakes"
+    },
+    {
+      "start": 43.44,
+      "end": 43.72,
+      "word": "alla"
+    },
+    {
+      "start": 43.72,
+      "end": 43.9,
+      "word": "banana"
+    },
+    {
+      "start": 43.9,
+      "end": 44.06,
+      "word": "e"
+    },
+    {
+      "start": 44.06,
+      "end": 44.26,
+      "word": "nuoci"
+    },
+    {
+      "start": 44.26,
+      "end": 44.42,
+      "word": "è"
+    },
+    {
+      "start": 44.42,
+      "end": 44.58,
+      "word": "stata"
+    },
+    {
+      "start": 44.58,
+      "end": 45.24,
+      "word": "insuperabile."
+    },
+    {
+      "start": 45.44,
+      "end": 45.5,
+      "word": "E"
+    },
+    {
+      "start": 45.5,
+      "end": 45.76,
+      "word": "subito"
+    },
+    {
+      "start": 45.76,
+      "end": 45.98,
+      "word": "dopo"
+    },
+    {
+      "start": 45.98,
+      "end": 46.14,
+      "word": "nel"
+    },
+    {
+      "start": 46.14,
+      "end": 47.04,
+      "word": "pomeriggio..."
+    },
+    {
+      "start": 47.04,
+      "end": 47.48,
+      "word": "Mamma"
+    },
+    {
+      "start": 47.48,
+      "end": 47.78,
+      "word": "mia!"
+    },
+    {
+      "start": 49.34,
+      "end": 49.82,
+      "word": "Whale"
+    },
+    {
+      "start": 49.82,
+      "end": 50.12,
+      "word": "watching"
+    },
+    {
+      "start": 50.12,
+      "end": 50.4,
+      "word": "a"
+    },
+    {
+      "start": 50.4,
+      "end": 50.56,
+      "word": "largo"
+    },
+    {
+      "start": 50.56,
+      "end": 50.82,
+      "word": "delle"
+    },
+    {
+      "start": 50.82,
+      "end": 51.22,
+      "word": "coste"
+    },
+    {
+      "start": 51.22,
+      "end": 51.34,
+      "word": "di"
+    },
+    {
+      "start": 51.34,
+      "end": 51.84,
+      "word": "Monteray."
+    },
+    {
+      "start": 51.92,
+      "end": 52.04,
+      "word": "Dove"
+    },
+    {
+      "start": 52.04,
+      "end": 52.24,
+      "word": "siamo"
+    },
+    {
+      "start": 52.24,
+      "end": 52.62,
+      "word": "riusciti"
+    },
+    {
+      "start": 52.62,
+      "end": 52.78,
+      "word": "ad"
+    },
+    {
+      "start": 52.78,
+      "end": 53.14,
+      "word": "avvistare"
+    },
+    {
+      "start": 53.14,
+      "end": 53.48,
+      "word": "queste"
+    },
+    {
+      "start": 53.48,
+      "end": 53.68,
+      "word": "3"
+    },
+    {
+      "start": 53.68,
+      "end": 54.02,
+      "word": "-4"
+    },
+    {
+      "start": 54.02,
+      "end": 54.48,
+      "word": "ballene?"
+    },
+    {
+      "start": 54.56,
+      "end": 54.66,
+      "word": "All"
+    },
+    {
+      "start": 54.66,
+      "end": 54.98,
+      "word": "'inizio"
+    },
+    {
+      "start": 54.98,
+      "end": 55.12,
+      "word": "un"
+    },
+    {
+      "start": 55.12,
+      "end": 55.18,
+      "word": "po'"
+    },
+    {
+      "start": 55.24,
+      "end": 55.3,
+      "word": "più"
+    },
+    {
+      "start": 55.3,
+      "end": 55.86,
+      "word": "lontananza"
+    },
+    {
+      "start": 55.86,
+      "end": 56.0,
+      "word": "e"
+    },
+    {
+      "start": 56.0,
+      "end": 56.12,
+      "word": "alla"
+    },
+    {
+      "start": 56.12,
+      "end": 56.3,
+      "word": "fine"
+    },
+    {
+      "start": 56.3,
+      "end": 56.54,
+      "word": "anche"
+    },
+    {
+      "start": 56.54,
+      "end": 56.74,
+      "word": "ben"
+    },
+    {
+      "start": 56.74,
+      "end": 56.88,
+      "word": "da"
+    },
+    {
+      "start": 56.88,
+      "end": 57.3,
+      "word": "vicino."
+    },
+    {
+      "start": 57.3,
+      "end": 57.4,
+      "word": "Che"
+    },
+    {
+      "start": 57.4,
+      "end": 57.5,
+      "word": "ci"
+    },
+    {
+      "start": 57.5,
+      "end": 57.6,
+      "word": "hanno"
+    },
+    {
+      "start": 57.6,
+      "end": 57.96,
+      "word": "regalato"
+    },
+    {
+      "start": 57.96,
+      "end": 58.06,
+      "word": "uno"
+    },
+    {
+      "start": 58.06,
+      "end": 58.64,
+      "word": "spettacolo"
+    },
+    {
+      "start": 58.64,
+      "end": 59.22,
+      "word": "unico"
+    },
+    {
+      "start": 59.22,
+      "end": 59.42,
+      "word": "e"
+    },
+    {
+      "start": 59.42,
+      "end": 60.12,
+      "word": "clamoroso"
+    },
+    {
+      "start": 60.12,
+      "end": 60.28,
+      "word": "che"
+    },
+    {
+      "start": 60.28,
+      "end": 60.4,
+      "word": "tra"
+    },
+    {
+      "start": 60.4,
+      "end": 60.46,
+      "word": "l"
+    },
+    {
+      "start": 60.46,
+      "end": 60.56,
+      "word": "'altro"
+    },
+    {
+      "start": 60.56,
+      "end": 60.72,
+      "word": "non"
+    },
+    {
+      "start": 60.72,
+      "end": 61.02,
+      "word": "avevo"
+    },
+    {
+      "start": 61.02,
+      "end": 61.2,
+      "word": "mai"
+    },
+    {
+      "start": 61.2,
+      "end": 61.52,
+      "word": "visto"
+    },
+    {
+      "start": 61.52,
+      "end": 61.66,
+      "word": "in"
+    },
+    {
+      "start": 61.66,
+      "end": 61.9,
+      "word": "tutta"
+    },
+    {
+      "start": 61.9,
+      "end": 61.98,
+      "word": "la"
+    },
+    {
+      "start": 61.98,
+      "end": 62.08,
+      "word": "mia"
+    },
+    {
+      "start": 62.08,
+      "end": 62.36,
+      "word": "vita."
+    },
+    {
+      "start": 62.44,
+      "end": 62.48,
+      "word": "E"
+    },
+    {
+      "start": 62.48,
+      "end": 62.58,
+      "word": "da"
+    },
+    {
+      "start": 62.58,
+      "end": 62.96,
+      "word": "proposito"
+    },
+    {
+      "start": 62.96,
+      "end": 63.08,
+      "word": "di"
+    },
+    {
+      "start": 63.08,
+      "end": 63.6,
+      "word": "esperdienze"
+    },
+    {
+      "start": 63.6,
+      "end": 64.14,
+      "word": "clamorose"
+    },
+    {
+      "start": 64.14,
+      "end": 64.32,
+      "word": "per"
+    },
+    {
+      "start": 64.32,
+      "end": 64.52,
+      "word": "cena"
+    },
+    {
+      "start": 64.52,
+      "end": 64.66,
+      "word": "non"
+    },
+    {
+      "start": 64.66,
+      "end": 65.04,
+      "word": "potevo"
+    },
+    {
+      "start": 65.04,
+      "end": 65.18,
+      "word": "non"
+    },
+    {
+      "start": 65.18,
+      "end": 65.74,
+      "word": "concludere"
+    },
+    {
+      "start": 65.74,
+      "end": 66.04,
+      "word": "questa"
+    },
+    {
+      "start": 66.04,
+      "end": 66.6,
+      "word": "giornata"
+    },
+    {
+      "start": 66.6,
+      "end": 66.76,
+      "word": "con"
+    },
+    {
+      "start": 66.76,
+      "end": 66.92,
+      "word": "una"
+    },
+    {
+      "start": 66.92,
+      "end": 67.24,
+      "word": "pizza"
+    },
+    {
+      "start": 67.24,
+      "end": 67.92,
+      "word": "clamorosa."
+    },
+    {
+      "start": 67.98,
+      "end": 68.42,
+      "word": "Pepperoni"
+    },
+    {
+      "start": 68.42,
+      "end": 68.7,
+      "word": "pizza"
+    },
+    {
+      "start": 68.7,
+      "end": 69.04,
+      "word": "presa"
+    },
+    {
+      "start": 69.04,
+      "end": 69.14,
+      "word": "da"
+    },
+    {
+      "start": 69.14,
+      "end": 69.52,
+      "word": "Monty"
+    },
+    {
+      "start": 69.52,
+      "end": 70.06,
+      "word": "Mike's"
+    },
+    {
+      "start": 70.06,
+      "end": 70.36,
+      "word": "Pizza"
+    },
+    {
+      "start": 70.36,
+      "end": 70.58,
+      "word": "che"
+    },
+    {
+      "start": 70.58,
+      "end": 70.92,
+      "word": "ragazzi"
+    },
+    {
+      "start": 70.92,
+      "end": 71.06,
+      "word": "mi"
+    },
+    {
+      "start": 71.06,
+      "end": 71.16,
+      "word": "ha"
+    },
+    {
+      "start": 71.16,
+      "end": 71.62,
+      "word": "stupito"
+    },
+    {
+      "start": 71.62,
+      "end": 71.88,
+      "word": "veramente"
+    },
+    {
+      "start": 71.88,
+      "end": 72.32,
+      "word": "tanto."
+    },
+    {
+      "start": 72.6,
+      "end": 73.08,
+      "word": "Giuticandola"
+    },
+    {
+      "start": 73.08,
+      "end": 73.48,
+      "word": "chiaramente"
+    },
+    {
+      "start": 73.48,
+      "end": 73.68,
+      "word": "come"
+    },
+    {
+      "start": 73.68,
+      "end": 73.94,
+      "word": "pizza"
+    },
+    {
+      "start": 73.94,
+      "end": 74.52,
+      "word": "americana,"
+    },
+    {
+      "start": 74.66,
+      "end": 75.02,
+      "word": "davvero"
+    },
+    {
+      "start": 75.02,
+      "end": 75.26,
+      "word": "una"
+    },
+    {
+      "start": 75.26,
+      "end": 75.4,
+      "word": "delle"
+    },
+    {
+      "start": 75.4,
+      "end": 75.9,
+      "word": "migliori"
+    },
+    {
+      "start": 75.9,
+      "end": 76.0,
+      "word": "mai"
+    },
+    {
+      "start": 76.0,
+      "end": 76.52,
+      "word": "mangiate"
+    },
+    {
+      "start": 76.52,
+      "end": 76.76,
+      "word": "contro"
+    },
+    {
+      "start": 76.76,
+      "end": 76.92,
+      "word": "l"
+    },
+    {
+      "start": 76.92,
+      "end": 77.02,
+      "word": "'altro"
+    },
+    {
+      "start": 77.02,
+      "end": 77.2,
+      "word": "dei"
+    },
+    {
+      "start": 77.2,
+      "end": 77.76,
+      "word": "pepperoni"
+    },
+    {
+      "start": 77.76,
+      "end": 78.04,
+      "word": "super"
+    },
+    {
+      "start": 78.04,
+      "end": 78.6,
+      "word": "croccanti"
+    },
+    {
+      "start": 78.6,
+      "end": 79.12,
+      "word": "esattamente"
+    },
+    {
+      "start": 79.12,
+      "end": 79.4,
+      "word": "come"
+    },
+    {
+      "start": 79.4,
+      "end": 79.84,
+      "word": "dovrebbero"
+    },
+    {
+      "start": 79.84,
+      "end": 80.06,
+      "word": "essere"
+    },
+    {
+      "start": 80.06,
+      "end": 80.18,
+      "word": "i"
+    },
+    {
+      "start": 80.18,
+      "end": 80.66,
+      "word": "pepperoni"
+    },
+    {
+      "start": 80.66,
+      "end": 81.1,
+      "word": "americani."
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "Una mega pizza gigante,"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 4.033,
+      "dur": 2.033,
+      "transcript": "dei mega pancakes giganti"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 8.467,
+      "dur": 4.433,
+      "transcript": "e una mega ballet nottera gigante. Questa è la America ragazzi, oggi vi porto come una giornata"
+    },
+    {
+      "shot_idx": 3,
+      "start": 8.467,
+      "end": 11.0,
+      "dur": 2.533,
+      "transcript": "a Monteray, in California. Giornata che è chiaramente"
+    },
+    {
+      "shot_idx": 4,
+      "start": 11.0,
+      "end": 12.967,
+      "dur": 1.967,
+      "transcript": "partita con un caffettone"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.967,
+      "end": 19.433,
+      "dur": 6.467,
+      "transcript": "americano. E con un giretto in questa città, durante il quale ci sono imbatuti in queste centinaia. Sono migliaia di foche, leone di mare."
+    },
+    {
+      "shot_idx": 6,
+      "start": 19.433,
+      "end": 23.967,
+      "dur": 4.533,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 7,
+      "start": 23.967,
+      "end": 28.5,
+      "dur": 4.533,
+      "transcript": "Dopodiché ragazzi però c 'è venuto a fare, noi quindi siamo andati a fare un branco in uno dei diner più famosi della città."
+    },
+    {
+      "shot_idx": 8,
+      "start": 28.5,
+      "end": 30.433,
+      "dur": 1.933,
+      "transcript": "Dove ho preso questa sorta di club sandwich"
+    },
+    {
+      "shot_idx": 9,
+      "start": 30.433,
+      "end": 33.467,
+      "dur": 3.033,
+      "transcript": "con patate e queste altre mega pancakes alla banana e"
+    },
+    {
+      "shot_idx": 10,
+      "start": 33.467,
+      "end": 37.933,
+      "dur": 4.467,
+      "transcript": "nuoci con cioccolato e burro. Partendo dal sandwich ragazzi guardate quanti strati c 'erano. Prosciutto"
+    },
+    {
+      "shot_idx": 11,
+      "start": 37.933,
+      "end": 42.3,
+      "dur": 4.367,
+      "transcript": "beh con insalata, pomodori, ala pegno, formaggio chissà cos 'altro. Buono eh, ma la"
+    },
+    {
+      "shot_idx": 12,
+      "start": 42.3,
+      "end": 43.933,
+      "dur": 1.633,
+      "transcript": "morbidezza di questi pancakes alla banana"
+    },
+    {
+      "shot_idx": 13,
+      "start": 43.933,
+      "end": 45.967,
+      "dur": 2.033,
+      "transcript": "e nuoci è stata insuperabile. E subito dopo"
+    },
+    {
+      "shot_idx": 14,
+      "start": 45.967,
+      "end": 48.1,
+      "dur": 2.133,
+      "transcript": "nel pomeriggio... Mamma mia!"
+    },
+    {
+      "shot_idx": 15,
+      "start": 48.1,
+      "end": 62.933,
+      "dur": 14.833,
+      "transcript": "Whale watching a largo delle coste di Monteray. Dove siamo riusciti ad avvistare queste 3 -4 ballene? All 'inizio un po' più lontananza e alla fine anche ben da vicino. Che ci hanno regalato uno spettacolo unico e clamoroso che tra l 'altro non avevo mai visto in tutta la mia vita. E da proposito"
+    },
+    {
+      "shot_idx": 16,
+      "start": 62.933,
+      "end": 65.9,
+      "dur": 2.967,
+      "transcript": "di esperdienze clamorose per cena non potevo non concludere questa"
+    },
+    {
+      "shot_idx": 17,
+      "start": 65.9,
+      "end": 68.367,
+      "dur": 2.467,
+      "transcript": "giornata con una pizza clamorosa. Pepperoni"
+    },
+    {
+      "shot_idx": 18,
+      "start": 68.367,
+      "end": 75.2,
+      "dur": 6.833,
+      "transcript": "pizza presa da Monty Mike's Pizza che ragazzi mi ha stupito veramente tanto. Giuticandola chiaramente come pizza americana, davvero una"
+    },
+    {
+      "shot_idx": 19,
+      "start": 75.2,
+      "end": 77.2,
+      "dur": 2.0,
+      "transcript": "delle migliori mai mangiate contro l 'altro dei"
+    },
+    {
+      "shot_idx": 20,
+      "start": 77.2,
+      "end": 81.6,
+      "dur": 4.4,
+      "transcript": "pepperoni super croccanti esattamente come dovrebbero essere i pepperoni americani."
+    }
+  ]
+}

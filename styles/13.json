@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "profile_name": "Test_End2End",
+  "tiktok_account": "jay.emme",
+  "created_at": "2026-09-18T07:40:45",
+  "reference_videos": [
+    "ref_01_7677962370207059233.mp4",
+    "ref_02_7664672783212743968.mp4",
+    "ref_03_7650486750778756374.mp4",
+    "ref_04_7649811301031513366.mp4",
+    "ref_05_7633468209567436054.mp4",
+    "ref_06_7631150678206844183.mp4",
+    "ref_07_7626312085571489046.mp4",
+    "ref_08_7626041611591486742.mp4"
+  ],
+  "metrics": {
+    "avg_shot_duration_sec": 2.18,
+    "total_shots": 230,
+    "total_videos": 8,
+    "target_duration_sec": 60.0
+  },
+  "technical_style": {
+    "transitions": {
+      "cut": 0.644,
+      "none": 0.224,
+      "dissolve": 0.132
+    },
+    "camera_motion": {
+      "zoom": 0.467,
+      "pan": 0.247,
+      "unknown": 0.185,
+      "tilt": 0.075,
+      "handheld": 0.026
+    },
+    "composition": {
+      "hands": 0.388,
+      "wide_face": 0.295,
+      "medium_face": 0.242,
+      "close_up_face": 0.075
+    },
+    "dominant_transition": "cut",
+    "dominant_motion": "zoom",
+    "dominant_composition": "hands"
+  },
+  "narrative": {
+    "hook_style": "Presentazione diretta del locale/prodotto con urgenza temporale ('Oggi sono finalmente andato', 'Finalmente si sono riuscito', 'Un panino che vi può far vincere') o claim virale ('Il locale più virale di Milano', 'Un nuovo smashburger a Milano?')",
+    "narrative_structure": "Hook location → Presentazione menu/piatti → Assaggio sequenziale con descrizione tecnica (cottura, consistenza, ingredienti) → Valutazione comparativa o giudizio finale → CTA implicita o esplicita di visita/prova",
+    "tone_of_voice": "Informale, entusiasta, colloquiale con pause conversazionali ('Vi assicuro che', 'Ragazzi davvero', 'Insomma'). Usa esclamazioni e enfasi per amplificare reazioni. Registro giovanile con termini esperienziali ('clamoroso', 'folle', 'bomba')",
+    "pacing_style": "Rapido e frammentato, allineato ai 2.18 secondi medi di shot. Sequenza veloce di assaggi con transizioni brusche tra piatti. Sottotitoli bassi (162 occorrenze) scandiscono il ritmo creando momentum continuo senza pause respiratorie",
+    "shot_sequence": "POV ravvicinata del piatto/assaggio → Primo piano reazione/bocca → Inquadratura ambiente locale → Dettagli ingredienti/composizione → Inquadratura stabilizzata con voiceover descrittivo. Ciclo ripetitivo per ogni portata",
+    "call_to_action_style": "Implicita e suggestiva. Concludente con esortazione soft ('dovete assolutamente provare', 'passate da smashers', 'non potete non provare', 'dovrebbe andare provato tutto il menu'). Assenza di CTA hard-sell, focus su consiglio peer-to-peer",
+    "language": "it"
+  },
+  "closing_pattern": {
+    "pattern": "dettaglio_soddisfacente",
+    "description": "I video terminano con un primo piano del creator che assaggia il cibo con un'espressione soddisfatta, mentre a schermo compare il nome del piatto/ingrediente in grande formato. La chiusura è sempre incentrata sul momento di consumazione del prodotto.",
+    "last_shot_type": "primo piano",
+    "voiceover_ending": "Nome del piatto/ingrediente (es. 'PO', 'TUTTO', 'BURGER', 'CLAMORO80', 'FRIES', 'NAPOLETANA', 'CHEDDAR') - etichetta descrittiva senza CTA esplicita"
+  },
+  "subtitle_style": {
+    "font_name": "NotoSans-CondensedMedium-BoldSim",
+    "font_top3": [
+      {
+        "name": "NotoSans-CondensedMedium-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedMedium.ttf",
+        "score": 0.9362,
+        "ssim": 0.907,
+        "ar": 0.9289,
+        "ink": 0.8296,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-CondensedSemiBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedSemiBold.ttf",
+        "score": 0.9357,
+        "ssim": 0.908,
+        "ar": 0.9283,
+        "ink": 0.8224,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSans-CondensedSemiBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedSemiBold.ttf",
+        "score": 0.9347,
+        "ssim": 0.9103,
+        "ar": 0.9185,
+        "ink": 0.8244,
+        "bold_sim": true
+      }
+    ],
+    "font_top20": [
+      {
+        "name": "NotoSans-CondensedMedium-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedMedium.ttf",
+        "score": 0.9362,
+        "ssim": 0.907,
+        "ar": 0.9289,
+        "ink": 0.8296,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-CondensedSemiBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedSemiBold.ttf",
+        "score": 0.9357,
+        "ssim": 0.908,
+        "ar": 0.9283,
+        "ink": 0.8224,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSans-CondensedSemiBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedSemiBold.ttf",
+        "score": 0.9347,
+        "ssim": 0.9103,
+        "ar": 0.9185,
+        "ink": 0.8244,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSans-ExtraCondensedExtraBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-ExtraCondensedExtraBold.ttf",
+        "score": 0.9343,
+        "ssim": 0.911,
+        "ar": 0.9207,
+        "ink": 0.8132,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSansDisplay-CondensedBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedBold.ttf",
+        "score": 0.9341,
+        "ssim": 0.9111,
+        "ar": 0.9151,
+        "ink": 0.8226,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSans-ExtraCondensedBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-ExtraCondensedBold.ttf",
+        "score": 0.9338,
+        "ssim": 0.9059,
+        "ar": 0.923,
+        "ink": 0.8217,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSansDisplay-SemiCondensedMedium-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-SemiCondensedMedium.ttf",
+        "score": 0.9335,
+        "ssim": 0.9107,
+        "ar": 0.9098,
+        "ink": 0.8278,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSans-CondensedBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedBold.ttf",
+        "score": 0.9333,
+        "ssim": 0.9124,
+        "ar": 0.9095,
+        "ink": 0.8209,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-CondensedMedium-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedMedium.ttf",
+        "score": 0.9331,
+        "ssim": 0.9033,
+        "ar": 0.9196,
+        "ink": 0.8302,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-ExtraCondensedExtraBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-ExtraCondensedExtraBold.ttf",
+        "score": 0.9331,
+        "ssim": 0.9058,
+        "ar": 0.9255,
+        "ink": 0.8092,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSansDisplay-CondensedExtraBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedExtraBold.ttf",
+        "score": 0.9312,
+        "ssim": 0.9141,
+        "ar": 0.9083,
+        "ink": 0.796,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-ExtraCondensedBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-ExtraCondensedBold.ttf",
+        "score": 0.9312,
+        "ssim": 0.9039,
+        "ar": 0.9133,
+        "ink": 0.8216,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSansDisplay-ExtraCondensedBlack",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-ExtraCondensedBlack.ttf",
+        "score": 0.9311,
+        "ssim": 0.9105,
+        "ar": 0.9149,
+        "ink": 0.7939,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSans-ExtraCondensedSemiBold",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-ExtraCondensedSemiBold.ttf",
+        "score": 0.9305,
+        "ssim": 0.9053,
+        "ar": 0.9058,
+        "ink": 0.8247,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSans-ExtraCondensedBlack",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-ExtraCondensedBlack.ttf",
+        "score": 0.9303,
+        "ssim": 0.9114,
+        "ar": 0.9083,
+        "ink": 0.7969,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSansDisplay-SemiCondensedSemiBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-SemiCondensedSemiBold.ttf",
+        "score": 0.93,
+        "ssim": 0.9082,
+        "ar": 0.8981,
+        "ink": 0.8245,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSans-CondensedExtraBold-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-CondensedExtraBold.ttf",
+        "score": 0.9299,
+        "ssim": 0.9143,
+        "ar": 0.8979,
+        "ink": 0.8034,
+        "bold_sim": true
+      },
+      {
+        "name": "LiberationSansNarrow-Bold-BoldSim",
+        "path": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf",
+        "score": 0.9287,
+        "ssim": 0.9101,
+        "ar": 0.8899,
+        "ink": 0.8213,
+        "bold_sim": true
+      },
+      {
+        "name": "NotoSansDisplay-CondensedBlack",
+        "path": "/usr/share/fonts/truetype/noto/NotoSansDisplay-CondensedBlack.ttf",
+        "score": 0.928,
+        "ssim": 0.9147,
+        "ar": 0.8932,
+        "ink": 0.7925,
+        "bold_sim": false
+      },
+      {
+        "name": "NotoSans-Condensed-BoldSim",
+        "path": "/usr/share/fonts/truetype/noto/NotoSans-Condensed.ttf",
+        "score": 0.9274,
+        "ssim": 0.9057,
+        "ar": 0.9192,
+        "ink": 0.766,
+        "bold_sim": true
+      }
+    ],
+    "alignment": 2,
+    "font_size": 16,
+    "margin_v": 63,
+    "primary_color_ass": "&H00FDFEFE&",
+    "outline_color_ass": "&H00010101&",
+    "outline_width": 3,
+    "bold": 1,
+    "primary_color_rgb": [
+      254,
+      254,
+      253
+    ],
+    "outline_color_rgb": [
+      1,
+      1,
+      1
+    ],
+    "sample_texts": [
+      "PANCAKE",
+      "DA",
+      "QUESTI",
+      "MOLTO",
+      "PRODOTTI",
+      "LATTOSIO",
+      "LORO",
+      "DUBAI"
+    ]
+  },
+  "id": 13
+}

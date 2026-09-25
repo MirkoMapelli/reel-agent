@@ -1,0 +1,1588 @@
+{
+  "ref_id": "ref_22_7631150678206844183",
+  "video": "/opt/reel-agent/media/style_ref/ref_22_7631150678206844183.mp4",
+  "n_segments": 19,
+  "n_words": 251,
+  "n_shots": 32,
+  "full_text": "Un nuovo smashburger a Milano? Oggi ragazzi proviamo Smashers. Un locale che ha da poco aperto la sua prima seda Milano in corso Buenos Aires. Menù molto semplice con veramente quattro panini, patatine e nuggets. Ed ecco qua il mio sacchetto col mio ordine. Partiamo con l'assaggio dei loro nuggets che mi hanno davvero stupito. Perché essendo io interessato al loro smashburger avevo un po' sottovalutato questo prodotto. Invece avevano questa panatura super croccante e all'interno si vedeva che era comunque filetto di bollo. Ragazzi davvero tanta robe ovviamente perfetti da accompagnare ad uno smashers. Da proposito di ciò proviamo l'Orchish Burger. Quindi un panino molto semplice con doppio patty, cheddar e salsa secret. Il tutto era chiuso in un banner che era piuttosto morbido. All'aspetto dire che si presenta molto bene così come i patti che erano effettivamente smashati alla grande. Rostecina presente e comunque su cosità della carne che non si perdono nonostante la smashata. E salsa secret che è effettivamente il segreto di questo cheeseburger. Insomma un panino molto semplice con pochi ingredienti ma tutti ben fatti ed è proprio qua che la semplicità vinge. Ed infine passando alle loro patatine che normalmente non apprezzo mai particolarmente. Beh questa volta anche qui mi sono ricreduto. In quanto fritta alla grande e soprattutto con la buccia che quel tocco in più che mi piace sempre. Quindi ragazzi se vi piacciono gli smashburger passate da smashers ma non dimenticatevi dei loro nagezza e delle loro fries.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "Un nuovo smashburger a Milano? Oggi ragazzi proviamo Smashers."
+    },
+    {
+      "start": 3.16,
+      "end": 6.22,
+      "text": "Un locale che ha da poco aperto la sua prima seda Milano in corso Buenos Aires."
+    },
+    {
+      "start": 6.32,
+      "end": 9.66,
+      "text": "Menù molto semplice con veramente quattro panini, patatine e nuggets."
+    },
+    {
+      "start": 9.86,
+      "end": 11.56,
+      "text": "Ed ecco qua il mio sacchetto col mio ordine."
+    },
+    {
+      "start": 11.64,
+      "end": 14.24,
+      "text": "Partiamo con l'assaggio dei loro nuggets che mi hanno davvero stupito."
+    },
+    {
+      "start": 14.36,
+      "end": 17.88,
+      "text": "Perché essendo io interessato al loro smashburger avevo un po' sottovalutato questo prodotto."
+    },
+    {
+      "start": 17.98,
+      "end": 22.14,
+      "text": "Invece avevano questa panatura super croccante e all'interno si vedeva che era comunque filetto di bollo."
+    },
+    {
+      "start": 22.22,
+      "end": 25.3,
+      "text": "Ragazzi davvero tanta robe ovviamente perfetti da accompagnare ad uno smashers."
+    },
+    {
+      "start": 25.3,
+      "end": 27.02,
+      "text": "Da proposito di ciò proviamo l'Orchish Burger."
+    },
+    {
+      "start": 27.02,
+      "end": 30.64,
+      "text": "Quindi un panino molto semplice con doppio patty, cheddar e salsa secret."
+    },
+    {
+      "start": 30.9,
+      "end": 33.1,
+      "text": "Il tutto era chiuso in un banner che era piuttosto morbido."
+    },
+    {
+      "start": 33.16,
+      "end": 37.6,
+      "text": "All'aspetto dire che si presenta molto bene così come i patti che erano effettivamente smashati alla grande."
+    },
+    {
+      "start": 37.72,
+      "end": 42.02,
+      "text": "Rostecina presente e comunque su cosità della carne che non si perdono nonostante la smashata."
+    },
+    {
+      "start": 42.12,
+      "end": 44.58,
+      "text": "E salsa secret che è effettivamente il segreto di questo cheeseburger."
+    },
+    {
+      "start": 44.72,
+      "end": 49.22,
+      "text": "Insomma un panino molto semplice con pochi ingredienti ma tutti ben fatti ed è proprio qua che la semplicità vinge."
+    },
+    {
+      "start": 49.38,
+      "end": 52.92,
+      "text": "Ed infine passando alle loro patatine che normalmente non apprezzo mai particolarmente."
+    },
+    {
+      "start": 53.06,
+      "end": 54.92,
+      "text": "Beh questa volta anche qui mi sono ricreduto."
+    },
+    {
+      "start": 54.92,
+      "end": 58.68,
+      "text": "In quanto fritta alla grande e soprattutto con la buccia che quel tocco in più che mi piace sempre."
+    },
+    {
+      "start": 58.84,
+      "end": 63.56,
+      "text": "Quindi ragazzi se vi piacciono gli smashburger passate da smashers ma non dimenticatevi dei loro nagezza e delle loro fries."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "word": "Un"
+    },
+    {
+      "start": 0.24,
+      "end": 0.38,
+      "word": "nuovo"
+    },
+    {
+      "start": 0.38,
+      "end": 0.92,
+      "word": "smashburger"
+    },
+    {
+      "start": 0.92,
+      "end": 1.1,
+      "word": "a"
+    },
+    {
+      "start": 1.1,
+      "end": 1.46,
+      "word": "Milano?"
+    },
+    {
+      "start": 1.62,
+      "end": 1.8,
+      "word": "Oggi"
+    },
+    {
+      "start": 1.8,
+      "end": 2.08,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.08,
+      "end": 2.42,
+      "word": "proviamo"
+    },
+    {
+      "start": 2.42,
+      "end": 3.08,
+      "word": "Smashers."
+    },
+    {
+      "start": 3.16,
+      "end": 3.18,
+      "word": "Un"
+    },
+    {
+      "start": 3.18,
+      "end": 3.46,
+      "word": "locale"
+    },
+    {
+      "start": 3.46,
+      "end": 3.6,
+      "word": "che"
+    },
+    {
+      "start": 3.6,
+      "end": 3.66,
+      "word": "ha"
+    },
+    {
+      "start": 3.66,
+      "end": 3.72,
+      "word": "da"
+    },
+    {
+      "start": 3.72,
+      "end": 3.86,
+      "word": "poco"
+    },
+    {
+      "start": 3.86,
+      "end": 4.2,
+      "word": "aperto"
+    },
+    {
+      "start": 4.2,
+      "end": 4.32,
+      "word": "la"
+    },
+    {
+      "start": 4.32,
+      "end": 4.42,
+      "word": "sua"
+    },
+    {
+      "start": 4.42,
+      "end": 4.66,
+      "word": "prima"
+    },
+    {
+      "start": 4.66,
+      "end": 4.88,
+      "word": "seda"
+    },
+    {
+      "start": 4.88,
+      "end": 5.32,
+      "word": "Milano"
+    },
+    {
+      "start": 5.32,
+      "end": 5.5,
+      "word": "in"
+    },
+    {
+      "start": 5.5,
+      "end": 5.72,
+      "word": "corso"
+    },
+    {
+      "start": 5.72,
+      "end": 5.9,
+      "word": "Buenos"
+    },
+    {
+      "start": 5.9,
+      "end": 6.22,
+      "word": "Aires."
+    },
+    {
+      "start": 6.32,
+      "end": 6.52,
+      "word": "Menù"
+    },
+    {
+      "start": 6.52,
+      "end": 6.9,
+      "word": "molto"
+    },
+    {
+      "start": 6.9,
+      "end": 7.36,
+      "word": "semplice"
+    },
+    {
+      "start": 7.36,
+      "end": 7.56,
+      "word": "con"
+    },
+    {
+      "start": 7.56,
+      "end": 7.8,
+      "word": "veramente"
+    },
+    {
+      "start": 7.8,
+      "end": 8.34,
+      "word": "quattro"
+    },
+    {
+      "start": 8.34,
+      "end": 8.66,
+      "word": "panini,"
+    },
+    {
+      "start": 8.76,
+      "end": 9.1,
+      "word": "patatine"
+    },
+    {
+      "start": 9.1,
+      "end": 9.36,
+      "word": "e"
+    },
+    {
+      "start": 9.36,
+      "end": 9.66,
+      "word": "nuggets."
+    },
+    {
+      "start": 9.86,
+      "end": 9.94,
+      "word": "Ed"
+    },
+    {
+      "start": 9.94,
+      "end": 10.12,
+      "word": "ecco"
+    },
+    {
+      "start": 10.12,
+      "end": 10.26,
+      "word": "qua"
+    },
+    {
+      "start": 10.26,
+      "end": 10.38,
+      "word": "il"
+    },
+    {
+      "start": 10.38,
+      "end": 10.44,
+      "word": "mio"
+    },
+    {
+      "start": 10.44,
+      "end": 10.88,
+      "word": "sacchetto"
+    },
+    {
+      "start": 10.88,
+      "end": 11.06,
+      "word": "col"
+    },
+    {
+      "start": 11.06,
+      "end": 11.22,
+      "word": "mio"
+    },
+    {
+      "start": 11.22,
+      "end": 11.56,
+      "word": "ordine."
+    },
+    {
+      "start": 11.64,
+      "end": 11.84,
+      "word": "Partiamo"
+    },
+    {
+      "start": 11.84,
+      "end": 12.0,
+      "word": "con"
+    },
+    {
+      "start": 12.0,
+      "end": 12.1,
+      "word": "l"
+    },
+    {
+      "start": 12.1,
+      "end": 12.28,
+      "word": "'assaggio"
+    },
+    {
+      "start": 12.28,
+      "end": 12.46,
+      "word": "dei"
+    },
+    {
+      "start": 12.46,
+      "end": 12.6,
+      "word": "loro"
+    },
+    {
+      "start": 12.6,
+      "end": 13.04,
+      "word": "nuggets"
+    },
+    {
+      "start": 13.04,
+      "end": 13.28,
+      "word": "che"
+    },
+    {
+      "start": 13.28,
+      "end": 13.38,
+      "word": "mi"
+    },
+    {
+      "start": 13.38,
+      "end": 13.5,
+      "word": "hanno"
+    },
+    {
+      "start": 13.5,
+      "end": 13.78,
+      "word": "davvero"
+    },
+    {
+      "start": 13.78,
+      "end": 14.24,
+      "word": "stupito."
+    },
+    {
+      "start": 14.36,
+      "end": 14.48,
+      "word": "Perché"
+    },
+    {
+      "start": 14.48,
+      "end": 14.84,
+      "word": "essendo"
+    },
+    {
+      "start": 14.84,
+      "end": 14.98,
+      "word": "io"
+    },
+    {
+      "start": 14.98,
+      "end": 15.48,
+      "word": "interessato"
+    },
+    {
+      "start": 15.48,
+      "end": 15.62,
+      "word": "al"
+    },
+    {
+      "start": 15.62,
+      "end": 15.72,
+      "word": "loro"
+    },
+    {
+      "start": 15.72,
+      "end": 16.24,
+      "word": "smashburger"
+    },
+    {
+      "start": 16.24,
+      "end": 16.48,
+      "word": "avevo"
+    },
+    {
+      "start": 16.48,
+      "end": 16.54,
+      "word": "un"
+    },
+    {
+      "start": 16.54,
+      "end": 16.62,
+      "word": "po'"
+    },
+    {
+      "start": 16.76,
+      "end": 17.18,
+      "word": "sottovalutato"
+    },
+    {
+      "start": 17.18,
+      "end": 17.42,
+      "word": "questo"
+    },
+    {
+      "start": 17.42,
+      "end": 17.88,
+      "word": "prodotto."
+    },
+    {
+      "start": 17.98,
+      "end": 18.18,
+      "word": "Invece"
+    },
+    {
+      "start": 18.18,
+      "end": 18.46,
+      "word": "avevano"
+    },
+    {
+      "start": 18.46,
+      "end": 18.68,
+      "word": "questa"
+    },
+    {
+      "start": 18.68,
+      "end": 19.06,
+      "word": "panatura"
+    },
+    {
+      "start": 19.06,
+      "end": 19.36,
+      "word": "super"
+    },
+    {
+      "start": 19.36,
+      "end": 19.88,
+      "word": "croccante"
+    },
+    {
+      "start": 19.88,
+      "end": 20.04,
+      "word": "e"
+    },
+    {
+      "start": 20.04,
+      "end": 20.12,
+      "word": "all"
+    },
+    {
+      "start": 20.12,
+      "end": 20.52,
+      "word": "'interno"
+    },
+    {
+      "start": 20.52,
+      "end": 20.7,
+      "word": "si"
+    },
+    {
+      "start": 20.7,
+      "end": 20.98,
+      "word": "vedeva"
+    },
+    {
+      "start": 20.98,
+      "end": 21.06,
+      "word": "che"
+    },
+    {
+      "start": 21.06,
+      "end": 21.16,
+      "word": "era"
+    },
+    {
+      "start": 21.16,
+      "end": 21.34,
+      "word": "comunque"
+    },
+    {
+      "start": 21.34,
+      "end": 21.72,
+      "word": "filetto"
+    },
+    {
+      "start": 21.72,
+      "end": 21.86,
+      "word": "di"
+    },
+    {
+      "start": 21.86,
+      "end": 22.14,
+      "word": "bollo."
+    },
+    {
+      "start": 22.22,
+      "end": 22.42,
+      "word": "Ragazzi"
+    },
+    {
+      "start": 22.42,
+      "end": 22.78,
+      "word": "davvero"
+    },
+    {
+      "start": 22.78,
+      "end": 23.0,
+      "word": "tanta"
+    },
+    {
+      "start": 23.0,
+      "end": 23.28,
+      "word": "robe"
+    },
+    {
+      "start": 23.28,
+      "end": 23.54,
+      "word": "ovviamente"
+    },
+    {
+      "start": 23.54,
+      "end": 24.08,
+      "word": "perfetti"
+    },
+    {
+      "start": 24.08,
+      "end": 24.22,
+      "word": "da"
+    },
+    {
+      "start": 24.22,
+      "end": 24.68,
+      "word": "accompagnare"
+    },
+    {
+      "start": 24.68,
+      "end": 24.8,
+      "word": "ad"
+    },
+    {
+      "start": 24.8,
+      "end": 24.88,
+      "word": "uno"
+    },
+    {
+      "start": 24.88,
+      "end": 25.3,
+      "word": "smashers."
+    },
+    {
+      "start": 25.3,
+      "end": 25.36,
+      "word": "Da"
+    },
+    {
+      "start": 25.36,
+      "end": 25.72,
+      "word": "proposito"
+    },
+    {
+      "start": 25.72,
+      "end": 25.9,
+      "word": "di"
+    },
+    {
+      "start": 25.9,
+      "end": 26.14,
+      "word": "ciò"
+    },
+    {
+      "start": 26.14,
+      "end": 26.44,
+      "word": "proviamo"
+    },
+    {
+      "start": 26.44,
+      "end": 26.56,
+      "word": "l"
+    },
+    {
+      "start": 26.56,
+      "end": 26.76,
+      "word": "'Orchish"
+    },
+    {
+      "start": 26.76,
+      "end": 27.02,
+      "word": "Burger."
+    },
+    {
+      "start": 27.02,
+      "end": 27.22,
+      "word": "Quindi"
+    },
+    {
+      "start": 27.22,
+      "end": 27.34,
+      "word": "un"
+    },
+    {
+      "start": 27.34,
+      "end": 27.58,
+      "word": "panino"
+    },
+    {
+      "start": 27.58,
+      "end": 27.8,
+      "word": "molto"
+    },
+    {
+      "start": 27.8,
+      "end": 28.24,
+      "word": "semplice"
+    },
+    {
+      "start": 28.24,
+      "end": 28.46,
+      "word": "con"
+    },
+    {
+      "start": 28.46,
+      "end": 28.76,
+      "word": "doppio"
+    },
+    {
+      "start": 28.76,
+      "end": 29.22,
+      "word": "patty,"
+    },
+    {
+      "start": 29.3,
+      "end": 29.54,
+      "word": "cheddar"
+    },
+    {
+      "start": 29.54,
+      "end": 29.96,
+      "word": "e"
+    },
+    {
+      "start": 29.96,
+      "end": 30.22,
+      "word": "salsa"
+    },
+    {
+      "start": 30.22,
+      "end": 30.64,
+      "word": "secret."
+    },
+    {
+      "start": 30.9,
+      "end": 31.04,
+      "word": "Il"
+    },
+    {
+      "start": 31.04,
+      "end": 31.16,
+      "word": "tutto"
+    },
+    {
+      "start": 31.16,
+      "end": 31.32,
+      "word": "era"
+    },
+    {
+      "start": 31.32,
+      "end": 31.6,
+      "word": "chiuso"
+    },
+    {
+      "start": 31.6,
+      "end": 31.7,
+      "word": "in"
+    },
+    {
+      "start": 31.7,
+      "end": 31.78,
+      "word": "un"
+    },
+    {
+      "start": 31.78,
+      "end": 32.04,
+      "word": "banner"
+    },
+    {
+      "start": 32.04,
+      "end": 32.22,
+      "word": "che"
+    },
+    {
+      "start": 32.22,
+      "end": 32.32,
+      "word": "era"
+    },
+    {
+      "start": 32.32,
+      "end": 32.6,
+      "word": "piuttosto"
+    },
+    {
+      "start": 32.6,
+      "end": 33.1,
+      "word": "morbido."
+    },
+    {
+      "start": 33.16,
+      "end": 33.26,
+      "word": "All"
+    },
+    {
+      "start": 33.26,
+      "end": 33.52,
+      "word": "'aspetto"
+    },
+    {
+      "start": 33.52,
+      "end": 33.74,
+      "word": "dire"
+    },
+    {
+      "start": 33.74,
+      "end": 33.9,
+      "word": "che"
+    },
+    {
+      "start": 33.9,
+      "end": 34.0,
+      "word": "si"
+    },
+    {
+      "start": 34.0,
+      "end": 34.36,
+      "word": "presenta"
+    },
+    {
+      "start": 34.36,
+      "end": 34.56,
+      "word": "molto"
+    },
+    {
+      "start": 34.56,
+      "end": 34.92,
+      "word": "bene"
+    },
+    {
+      "start": 34.92,
+      "end": 35.16,
+      "word": "così"
+    },
+    {
+      "start": 35.16,
+      "end": 35.38,
+      "word": "come"
+    },
+    {
+      "start": 35.38,
+      "end": 35.5,
+      "word": "i"
+    },
+    {
+      "start": 35.5,
+      "end": 35.82,
+      "word": "patti"
+    },
+    {
+      "start": 35.82,
+      "end": 35.92,
+      "word": "che"
+    },
+    {
+      "start": 35.92,
+      "end": 36.04,
+      "word": "erano"
+    },
+    {
+      "start": 36.04,
+      "end": 36.5,
+      "word": "effettivamente"
+    },
+    {
+      "start": 36.5,
+      "end": 37.14,
+      "word": "smashati"
+    },
+    {
+      "start": 37.14,
+      "end": 37.26,
+      "word": "alla"
+    },
+    {
+      "start": 37.26,
+      "end": 37.6,
+      "word": "grande."
+    },
+    {
+      "start": 37.72,
+      "end": 38.04,
+      "word": "Rostecina"
+    },
+    {
+      "start": 38.04,
+      "end": 38.38,
+      "word": "presente"
+    },
+    {
+      "start": 38.38,
+      "end": 38.7,
+      "word": "e"
+    },
+    {
+      "start": 38.7,
+      "end": 38.94,
+      "word": "comunque"
+    },
+    {
+      "start": 38.94,
+      "end": 39.22,
+      "word": "su"
+    },
+    {
+      "start": 39.22,
+      "end": 39.54,
+      "word": "cosità"
+    },
+    {
+      "start": 39.54,
+      "end": 39.78,
+      "word": "della"
+    },
+    {
+      "start": 39.78,
+      "end": 40.1,
+      "word": "carne"
+    },
+    {
+      "start": 40.1,
+      "end": 40.3,
+      "word": "che"
+    },
+    {
+      "start": 40.3,
+      "end": 40.44,
+      "word": "non"
+    },
+    {
+      "start": 40.44,
+      "end": 40.58,
+      "word": "si"
+    },
+    {
+      "start": 40.58,
+      "end": 40.96,
+      "word": "perdono"
+    },
+    {
+      "start": 40.96,
+      "end": 41.3,
+      "word": "nonostante"
+    },
+    {
+      "start": 41.3,
+      "end": 41.48,
+      "word": "la"
+    },
+    {
+      "start": 41.48,
+      "end": 42.02,
+      "word": "smashata."
+    },
+    {
+      "start": 42.12,
+      "end": 42.18,
+      "word": "E"
+    },
+    {
+      "start": 42.18,
+      "end": 42.36,
+      "word": "salsa"
+    },
+    {
+      "start": 42.36,
+      "end": 42.7,
+      "word": "secret"
+    },
+    {
+      "start": 42.7,
+      "end": 42.9,
+      "word": "che"
+    },
+    {
+      "start": 42.9,
+      "end": 42.98,
+      "word": "è"
+    },
+    {
+      "start": 42.98,
+      "end": 43.3,
+      "word": "effettivamente"
+    },
+    {
+      "start": 43.3,
+      "end": 43.5,
+      "word": "il"
+    },
+    {
+      "start": 43.5,
+      "end": 43.82,
+      "word": "segreto"
+    },
+    {
+      "start": 43.82,
+      "end": 43.98,
+      "word": "di"
+    },
+    {
+      "start": 43.98,
+      "end": 44.14,
+      "word": "questo"
+    },
+    {
+      "start": 44.14,
+      "end": 44.58,
+      "word": "cheeseburger."
+    },
+    {
+      "start": 44.72,
+      "end": 44.9,
+      "word": "Insomma"
+    },
+    {
+      "start": 44.9,
+      "end": 45.06,
+      "word": "un"
+    },
+    {
+      "start": 45.06,
+      "end": 45.3,
+      "word": "panino"
+    },
+    {
+      "start": 45.3,
+      "end": 45.52,
+      "word": "molto"
+    },
+    {
+      "start": 45.52,
+      "end": 45.98,
+      "word": "semplice"
+    },
+    {
+      "start": 45.98,
+      "end": 46.16,
+      "word": "con"
+    },
+    {
+      "start": 46.16,
+      "end": 46.36,
+      "word": "pochi"
+    },
+    {
+      "start": 46.36,
+      "end": 46.9,
+      "word": "ingredienti"
+    },
+    {
+      "start": 46.9,
+      "end": 47.04,
+      "word": "ma"
+    },
+    {
+      "start": 47.04,
+      "end": 47.22,
+      "word": "tutti"
+    },
+    {
+      "start": 47.22,
+      "end": 47.42,
+      "word": "ben"
+    },
+    {
+      "start": 47.42,
+      "end": 47.7,
+      "word": "fatti"
+    },
+    {
+      "start": 47.7,
+      "end": 47.86,
+      "word": "ed"
+    },
+    {
+      "start": 47.86,
+      "end": 47.92,
+      "word": "è"
+    },
+    {
+      "start": 47.92,
+      "end": 48.06,
+      "word": "proprio"
+    },
+    {
+      "start": 48.06,
+      "end": 48.24,
+      "word": "qua"
+    },
+    {
+      "start": 48.24,
+      "end": 48.34,
+      "word": "che"
+    },
+    {
+      "start": 48.34,
+      "end": 48.44,
+      "word": "la"
+    },
+    {
+      "start": 48.44,
+      "end": 48.9,
+      "word": "semplicità"
+    },
+    {
+      "start": 48.9,
+      "end": 49.22,
+      "word": "vinge."
+    },
+    {
+      "start": 49.38,
+      "end": 49.48,
+      "word": "Ed"
+    },
+    {
+      "start": 49.48,
+      "end": 49.74,
+      "word": "infine"
+    },
+    {
+      "start": 49.74,
+      "end": 50.1,
+      "word": "passando"
+    },
+    {
+      "start": 50.1,
+      "end": 50.2,
+      "word": "alle"
+    },
+    {
+      "start": 50.2,
+      "end": 50.34,
+      "word": "loro"
+    },
+    {
+      "start": 50.34,
+      "end": 50.8,
+      "word": "patatine"
+    },
+    {
+      "start": 50.8,
+      "end": 51.0,
+      "word": "che"
+    },
+    {
+      "start": 51.0,
+      "end": 51.36,
+      "word": "normalmente"
+    },
+    {
+      "start": 51.36,
+      "end": 51.64,
+      "word": "non"
+    },
+    {
+      "start": 51.64,
+      "end": 51.94,
+      "word": "apprezzo"
+    },
+    {
+      "start": 51.94,
+      "end": 52.14,
+      "word": "mai"
+    },
+    {
+      "start": 52.14,
+      "end": 52.92,
+      "word": "particolarmente."
+    },
+    {
+      "start": 53.06,
+      "end": 53.16,
+      "word": "Beh"
+    },
+    {
+      "start": 53.16,
+      "end": 53.36,
+      "word": "questa"
+    },
+    {
+      "start": 53.36,
+      "end": 53.62,
+      "word": "volta"
+    },
+    {
+      "start": 53.62,
+      "end": 53.98,
+      "word": "anche"
+    },
+    {
+      "start": 53.98,
+      "end": 54.18,
+      "word": "qui"
+    },
+    {
+      "start": 54.18,
+      "end": 54.26,
+      "word": "mi"
+    },
+    {
+      "start": 54.26,
+      "end": 54.44,
+      "word": "sono"
+    },
+    {
+      "start": 54.44,
+      "end": 54.92,
+      "word": "ricreduto."
+    },
+    {
+      "start": 54.92,
+      "end": 55.02,
+      "word": "In"
+    },
+    {
+      "start": 55.02,
+      "end": 55.18,
+      "word": "quanto"
+    },
+    {
+      "start": 55.18,
+      "end": 55.64,
+      "word": "fritta"
+    },
+    {
+      "start": 55.64,
+      "end": 55.74,
+      "word": "alla"
+    },
+    {
+      "start": 55.74,
+      "end": 56.04,
+      "word": "grande"
+    },
+    {
+      "start": 56.04,
+      "end": 56.16,
+      "word": "e"
+    },
+    {
+      "start": 56.16,
+      "end": 56.32,
+      "word": "soprattutto"
+    },
+    {
+      "start": 56.32,
+      "end": 56.68,
+      "word": "con"
+    },
+    {
+      "start": 56.68,
+      "end": 56.8,
+      "word": "la"
+    },
+    {
+      "start": 56.8,
+      "end": 57.1,
+      "word": "buccia"
+    },
+    {
+      "start": 57.1,
+      "end": 57.22,
+      "word": "che"
+    },
+    {
+      "start": 57.22,
+      "end": 57.4,
+      "word": "quel"
+    },
+    {
+      "start": 57.4,
+      "end": 57.72,
+      "word": "tocco"
+    },
+    {
+      "start": 57.72,
+      "end": 57.8,
+      "word": "in"
+    },
+    {
+      "start": 57.8,
+      "end": 57.92,
+      "word": "più"
+    },
+    {
+      "start": 57.92,
+      "end": 58.04,
+      "word": "che"
+    },
+    {
+      "start": 58.04,
+      "end": 58.12,
+      "word": "mi"
+    },
+    {
+      "start": 58.12,
+      "end": 58.3,
+      "word": "piace"
+    },
+    {
+      "start": 58.3,
+      "end": 58.68,
+      "word": "sempre."
+    },
+    {
+      "start": 58.84,
+      "end": 58.84,
+      "word": "Quindi"
+    },
+    {
+      "start": 58.84,
+      "end": 59.16,
+      "word": "ragazzi"
+    },
+    {
+      "start": 59.16,
+      "end": 59.28,
+      "word": "se"
+    },
+    {
+      "start": 59.28,
+      "end": 59.38,
+      "word": "vi"
+    },
+    {
+      "start": 59.38,
+      "end": 59.64,
+      "word": "piacciono"
+    },
+    {
+      "start": 59.64,
+      "end": 59.74,
+      "word": "gli"
+    },
+    {
+      "start": 59.74,
+      "end": 60.2,
+      "word": "smashburger"
+    },
+    {
+      "start": 60.2,
+      "end": 60.68,
+      "word": "passate"
+    },
+    {
+      "start": 60.68,
+      "end": 60.8,
+      "word": "da"
+    },
+    {
+      "start": 60.8,
+      "end": 61.26,
+      "word": "smashers"
+    },
+    {
+      "start": 61.26,
+      "end": 61.44,
+      "word": "ma"
+    },
+    {
+      "start": 61.44,
+      "end": 61.58,
+      "word": "non"
+    },
+    {
+      "start": 61.58,
+      "end": 62.2,
+      "word": "dimenticatevi"
+    },
+    {
+      "start": 62.2,
+      "end": 62.32,
+      "word": "dei"
+    },
+    {
+      "start": 62.32,
+      "end": 62.48,
+      "word": "loro"
+    },
+    {
+      "start": 62.48,
+      "end": 62.88,
+      "word": "nagezza"
+    },
+    {
+      "start": 62.88,
+      "end": 63.0,
+      "word": "e"
+    },
+    {
+      "start": 63.0,
+      "end": 63.08,
+      "word": "delle"
+    },
+    {
+      "start": 63.08,
+      "end": 63.26,
+      "word": "loro"
+    },
+    {
+      "start": 63.26,
+      "end": 63.56,
+      "word": "fries."
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5,
+      "transcript": "Un nuovo smashburger a Milano? Oggi ragazzi proviamo"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.5,
+      "end": 3.933,
+      "dur": 1.433,
+      "transcript": "Smashers. Un locale che ha da poco"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.933,
+      "end": 5.7,
+      "dur": 1.767,
+      "transcript": "aperto la sua prima seda Milano in corso"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.7,
+      "end": 7.467,
+      "dur": 1.767,
+      "transcript": "Buenos Aires. Menù molto semplice con"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.467,
+      "end": 9.433,
+      "dur": 1.967,
+      "transcript": "veramente quattro panini, patatine e"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.433,
+      "end": 10.6,
+      "dur": 1.167,
+      "transcript": "nuggets. Ed ecco qua il mio"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.6,
+      "end": 11.567,
+      "dur": 0.967,
+      "transcript": "sacchetto col mio ordine."
+    },
+    {
+      "shot_idx": 7,
+      "start": 11.567,
+      "end": 12.733,
+      "dur": 1.167,
+      "transcript": "Partiamo con l 'assaggio dei loro"
+    },
+    {
+      "shot_idx": 8,
+      "start": 12.733,
+      "end": 13.6,
+      "dur": 0.867,
+      "transcript": "nuggets che mi hanno"
+    },
+    {
+      "shot_idx": 9,
+      "start": 13.6,
+      "end": 14.767,
+      "dur": 1.167,
+      "transcript": "davvero stupito. Perché essendo"
+    },
+    {
+      "shot_idx": 10,
+      "start": 14.767,
+      "end": 19.733,
+      "dur": 4.967,
+      "transcript": "io interessato al loro smashburger avevo un po' sottovalutato questo prodotto. Invece avevano questa panatura super croccante"
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.733,
+      "end": 22.2,
+      "dur": 2.467,
+      "transcript": "e all 'interno si vedeva che era comunque filetto di bollo."
+    },
+    {
+      "shot_idx": 12,
+      "start": 22.2,
+      "end": 24.233,
+      "dur": 2.033,
+      "transcript": "Ragazzi davvero tanta robe ovviamente perfetti da"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.233,
+      "end": 26.167,
+      "dur": 1.933,
+      "transcript": "accompagnare ad uno smashers. Da proposito di ciò"
+    },
+    {
+      "shot_idx": 14,
+      "start": 26.167,
+      "end": 27.8,
+      "dur": 1.633,
+      "transcript": "proviamo l 'Orchish Burger. Quindi un panino molto"
+    },
+    {
+      "shot_idx": 15,
+      "start": 27.8,
+      "end": 30.0,
+      "dur": 2.2,
+      "transcript": "semplice con doppio patty, cheddar e"
+    },
+    {
+      "shot_idx": 16,
+      "start": 30.0,
+      "end": 33.567,
+      "dur": 3.567,
+      "transcript": "salsa secret. Il tutto era chiuso in un banner che era piuttosto morbido. All 'aspetto"
+    },
+    {
+      "shot_idx": 17,
+      "start": 33.567,
+      "end": 35.167,
+      "dur": 1.6,
+      "transcript": "dire che si presenta molto bene così"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.167,
+      "end": 37.2,
+      "dur": 2.033,
+      "transcript": "come i patti che erano effettivamente smashati"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.2,
+      "end": 38.267,
+      "dur": 1.067,
+      "transcript": "alla grande. Rostecina presente"
+    },
+    {
+      "shot_idx": 20,
+      "start": 38.267,
+      "end": 40.267,
+      "dur": 2.0,
+      "transcript": "e comunque su cosità della carne che"
+    },
+    {
+      "shot_idx": 21,
+      "start": 40.267,
+      "end": 42.033,
+      "dur": 1.767,
+      "transcript": "non si perdono nonostante la smashata."
+    },
+    {
+      "shot_idx": 22,
+      "start": 42.033,
+      "end": 43.633,
+      "dur": 1.6,
+      "transcript": "E salsa secret che è effettivamente il"
+    },
+    {
+      "shot_idx": 23,
+      "start": 43.633,
+      "end": 46.667,
+      "dur": 3.033,
+      "transcript": "segreto di questo cheeseburger. Insomma un panino molto semplice con pochi ingredienti"
+    },
+    {
+      "shot_idx": 24,
+      "start": 46.667,
+      "end": 48.3,
+      "dur": 1.633,
+      "transcript": "ma tutti ben fatti ed è proprio qua che"
+    },
+    {
+      "shot_idx": 25,
+      "start": 48.3,
+      "end": 50.233,
+      "dur": 1.933,
+      "transcript": "la semplicità vinge. Ed infine passando alle"
+    },
+    {
+      "shot_idx": 26,
+      "start": 50.233,
+      "end": 52.267,
+      "dur": 2.033,
+      "transcript": "loro patatine che normalmente non apprezzo mai"
+    },
+    {
+      "shot_idx": 27,
+      "start": 52.267,
+      "end": 54.033,
+      "dur": 1.767,
+      "transcript": "particolarmente. Beh questa volta anche"
+    },
+    {
+      "shot_idx": 28,
+      "start": 54.033,
+      "end": 57.233,
+      "dur": 3.2,
+      "transcript": "qui mi sono ricreduto. In quanto fritta alla grande e soprattutto con la buccia che"
+    },
+    {
+      "shot_idx": 29,
+      "start": 57.233,
+      "end": 58.933,
+      "dur": 1.7,
+      "transcript": "quel tocco in più che mi piace sempre. Quindi"
+    },
+    {
+      "shot_idx": 30,
+      "start": 58.933,
+      "end": 61.9,
+      "dur": 2.967,
+      "transcript": "ragazzi se vi piacciono gli smashburger passate da smashers ma non dimenticatevi"
+    },
+    {
+      "shot_idx": 31,
+      "start": 61.9,
+      "end": 63.9,
+      "dur": 2.0,
+      "transcript": "dei loro nagezza e delle loro fries."
+    }
+  ]
+}

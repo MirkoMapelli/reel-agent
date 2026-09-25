@@ -1,0 +1,23 @@
+{
+  "ref_id": "ref_37_7598494205207481622",
+  "video": "/opt/reel-agent/media/style_ref/ref_37_7598494205207481622.mp4",
+  "n_shots": 1,
+  "total_dur": 13.2,
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che reagisce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo con gli auricolari guarda lo schermo con un'espressione concentrata.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2
+    }
+  ]
+}

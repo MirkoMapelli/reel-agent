@@ -1,0 +1,44 @@
+{
+  "clips": [
+    {
+      "file": "clip_000.mov",
+      "orig_name": "IMG_7016.mov",
+      "duration": 57.005,
+      "start": 44.034,
+      "end": 57.005,
+      "thumb": "thumb_000.jpg"
+    },
+    {
+      "file": "clip_001.mov",
+      "orig_name": "IMG_7017.mov",
+      "duration": 27.702,
+      "start": 0.0,
+      "end": 5.779,
+      "thumb": "thumb_001.jpg"
+    },
+    {
+      "file": "clip_001.mov",
+      "orig_name": "IMG_7017.mov",
+      "duration": 27.702,
+      "start": 5.779,
+      "end": 6.379,
+      "thumb": "thumb_001.jpg"
+    },
+    {
+      "file": "clip_001.mov",
+      "orig_name": "IMG_7017.mov",
+      "duration": 27.702,
+      "start": 6.379,
+      "end": 12.429,
+      "thumb": "thumb_001.jpg"
+    },
+    {
+      "file": "clip_001.mov",
+      "orig_name": "IMG_7017.mov",
+      "duration": 27.702,
+      "start": 12.429,
+      "end": 27.702,
+      "thumb": "thumb_001.jpg"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "title": "Wing Stop Milano - Prova Esclusiva",
+  "voiceover_script": "Wing Stop è finalmente arrivato a Milano E c'è pure la Coca-Cola Freestyle, guarda Prima ala fritta, il verdetto è top Ali dorate e patatine, roba seria Vassoio pieno, qui non manca niente Ali, polpette, salse: il tavolo è servito Bevanda personalizzata dalla macchina Freestyle Pacchetto Wing Stop, branding pazzesco ovunque Bicchiere brandizzato, si beve con stile Sorseggio lento, questa bevanda scorre bene Coca-Cola Zero personalizzata al tocco Si parte, si prende l'ala giusta Si intinge nella salsa bianca cremosa Formato grande, croccantezza garantita Slow motion sulla salsa, roba da guardare Un tocco e arriva la Zero gelata Ali, patatine, polpette: combo perfetta Ala gigante, faccia seria, morso in arrivo Vassoio pazzesco, farò la prossima volta il boneless Claw machine Wing Stop, provala tu adesso",
+  "timeline": [
+    {
+      "scene_id": 0,
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "role": "venue_interior_detail",
+      "subject": "totem ordini, parete branding",
+      "description": "parete verde con logo MILANO ripetuto, totem ordini touchscreen nero con menù e cassa registratore",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6813_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6813_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.77,
+      "in_sec": 0.0,
+      "out_sec": 3.77,
+      "duration": 3.77,
+      "requested_duration": 3.0,
+      "beat_type": "hook",
+      "beat_moment": "parete verde logo MILANO annuncia apertura esclusiva",
+      "subtitle_text": "Wing Stop è finalmente arrivato a Milano"
+    },
+    {
+      "scene_id": 128,
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "role": "venue_interior_detail",
+      "subject": "macchina Freestyle",
+      "description": "macchina Coca-Cola Freestyle con logo illuminato rosso e tondo bianco, vista fronte",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6838_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6838_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.5,
+      "in_sec": 0.0,
+      "out_sec": 2.5,
+      "duration": 2.5,
+      "requested_duration": 3.5,
+      "beat_type": "context",
+      "beat_moment": "totem touchscreen mostra menù locale nuovo",
+      "subtitle_text": "E c'è pure la Coca-Cola Freestyle, guarda"
+    },
+    {
+      "scene_id": 87,
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "role": "person_eating",
+      "subject": "cliente assaggio",
+      "description": "cliente assaggia ala fritta in sala con logo ALLIANIZ visibile sfocato dietro",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6831_s3_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6831_s3_sub0/f1.jpg"
+      ],
+      "start": 6.04,
+      "end": 9.04,
+      "in_sec": 6.04,
+      "out_sec": 9.04,
+      "duration": 3.0,
+      "requested_duration": 3.0,
+      "beat_type": "context",
+      "beat_moment": "cliente entra ordina guardando totem menù",
+      "subtitle_text": "Prima ala fritta, il verdetto è top"
+    },
+    {
+      "scene_id": 6,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "ali fritte, patatine",
+      "description": "primo piano ali fritte dorate e patatine gialle in carta bianca con testo branding verde",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.6,
+      "in_sec": 0.0,
+      "out_sec": 3.6,
+      "duration": 3.6,
+      "requested_duration": 3.5,
+      "beat_type": "product",
+      "beat_moment": "primo piano ali fritte dorate appena servite",
+      "subtitle_text": "Ali dorate e patatine, roba seria"
+    },
+    {
+      "scene_id": 19,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "mani con cibo, persona",
+      "description": "mani di persona che tiene vassoi con ali, patatine, polpette, spalla con maglietta nera, tavolo",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6823_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6823_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.5,
+      "in_sec": 0.0,
+      "out_sec": 2.5,
+      "duration": 2.5,
+      "requested_duration": 3.0,
+      "beat_type": "product",
+      "beat_moment": "mani sollevano vassoio pieno ali patatine",
+      "subtitle_text": "Vassoio pieno, qui non manca niente"
+    },
+    {
+      "scene_id": 5,
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "role": "food_plated",
+      "subject": "ordine completo ali e contorni",
+      "description": "vista dall'alto tavolo: ali fritte dorate, patatine gialle, polpette croccanti, salse in bicchierini, carta bianca con branding",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6820_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6820_s0_sub1/f1.jpg"
+      ],
+      "start": 3.2,
+      "end": 7.8,
+      "in_sec": 3.2,
+      "out_sec": 7.8,
+      "duration": 4.6,
+      "requested_duration": 3.5,
+      "beat_type": "product",
+      "beat_moment": "vista dall'alto tavolo completo con tutti piatti",
+      "subtitle_text": "Ali, polpette, salse: il tavolo è servito"
+    },
+    {
+      "scene_id": 130,
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "role": "venue_interior_detail",
+      "subject": "mano estrae",
+      "description": "mano che estrae bicchiere da Coca-Cola Freestyle, macchina distributrice e logo",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6838_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6838_s0_sub2/f1.jpg"
+      ],
+      "start": 6.5,
+      "end": 8.7,
+      "in_sec": 6.5,
+      "out_sec": 8.7,
+      "duration": 2.2,
+      "requested_duration": 3.0,
+      "beat_type": "product",
+      "beat_moment": "dettaglio locale mentre piatto viene descritto",
+      "subtitle_text": "Bevanda personalizzata dalla macchina Freestyle"
+    },
+    {
+      "scene_id": 136,
+      "clip_name": "IMG_6840.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "role": "food_detail",
+      "subject": "pacchetto Wing Stop",
+      "description": "mano che mostra pacchetto di carta verde Wing Stop con logo e testo ripetuto",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6840_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6840_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 4.3,
+      "in_sec": 0.0,
+      "out_sec": 4.3,
+      "duration": 4.3,
+      "requested_duration": 3.5,
+      "beat_type": "product",
+      "beat_moment": "patata fritta inzuppata in salsa bianca cremosa",
+      "subtitle_text": "Pacchetto Wing Stop, branding pazzesco ovunque"
+    },
+    {
+      "scene_id": 115,
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "role": "drink_detail",
+      "subject": "bicchiere bevanda",
+      "description": "cliente che tiene bicchiere di carta con logo Wing Stop davanti, gesto presentazione",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6836_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6836_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.5,
+      "in_sec": 0.0,
+      "out_sec": 2.5,
+      "duration": 2.5,
+      "requested_duration": 3.0,
+      "beat_type": "drink",
+      "beat_moment": "cliente mostra bicchiere carta logo Wing Stop",
+      "subtitle_text": "Bicchiere brandizzato, si beve con stile"
+    },
+    {
+      "scene_id": 116,
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "role": "drink_cheers",
+      "subject": "cliente beve",
+      "description": "cliente che beve da bicchiere di carta portando alla bocca con due mani",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6836_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6836_s0_sub1/f1.jpg"
+      ],
+      "start": 2.5,
+      "end": 6.5,
+      "in_sec": 2.5,
+      "out_sec": 6.5,
+      "duration": 4.0,
+      "requested_duration": 3.0,
+      "beat_type": "drink",
+      "beat_moment": "cliente beve bicchiere con due mani soddisfatto",
+      "subtitle_text": "Sorseggio lento, questa bevanda scorre bene"
+    },
+    {
+      "scene_id": 133,
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "role": "venue_interior_detail",
+      "subject": "schermo Zero",
+      "description": "schermo Coca-Cola Zero con animazione gocce acqua, display colori e mano che tocca pulsante",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6839_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6839_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.6,
+      "in_sec": 0.0,
+      "out_sec": 2.6,
+      "duration": 2.6,
+      "requested_duration": 2.5,
+      "beat_type": "drink",
+      "beat_moment": "ambiente locale sullo sfondo durante pausa bevuta",
+      "subtitle_text": "Coca-Cola Zero personalizzata al tocco"
+    },
+    {
+      "scene_id": 91,
+      "clip_name": "IMG_6832.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "role": "hands_gesture",
+      "subject": "mani gesto",
+      "description": "mani prendono ala fritta da piatto paper wrapped, gesto di raccolta",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6832_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6832_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 1.3,
+      "in_sec": 0.0,
+      "out_sec": 1.3,
+      "duration": 1.3,
+      "requested_duration": 3.0,
+      "beat_type": "reaction",
+      "beat_moment": "mani prendono ala fritta con gesto deciso",
+      "subtitle_text": "Si parte, si prende l'ala giusta"
+    },
+    {
+      "scene_id": 28,
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "role": "person_eating",
+      "subject": "persona che assaggia ali",
+      "description": "persona che tuffa ala fritta in salsa bianca, tavolo con cibo, dettaglio gesto assaggio",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6824_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6824_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.4,
+      "in_sec": 0.0,
+      "out_sec": 3.4,
+      "duration": 3.4,
+      "requested_duration": 3.5,
+      "beat_type": "reaction",
+      "beat_moment": "persona assaggia ala con espressione entusiasta",
+      "subtitle_text": "Si intinge nella salsa bianca cremosa"
+    },
+    {
+      "scene_id": 8,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "ala fritta grande, polpette",
+      "description": "primo piano ali grande formato divisa in due, polpette e salse in bicchierini dietro, carta branding",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub2/f1.jpg"
+      ],
+      "start": 5.6,
+      "end": 9.0,
+      "in_sec": 5.6,
+      "out_sec": 9.0,
+      "duration": 3.4,
+      "requested_duration": 3.0,
+      "beat_type": "reaction",
+      "beat_moment": "morso primo piano mostra croccantezza interno",
+      "subtitle_text": "Formato grande, croccantezza garantita"
+    },
+    {
+      "scene_id": 92,
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "role": "hands_gesture",
+      "subject": "mani salsa",
+      "description": "mani intingono ala fritta in salsa bianca cremosa, gesto slow-motion appetibile",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6833_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6833_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 4.2,
+      "in_sec": 0.0,
+      "out_sec": 4.2,
+      "duration": 4.2,
+      "requested_duration": 3.0,
+      "beat_type": "reaction",
+      "beat_moment": "gesto raccolta polpetta croccante dal piatto",
+      "subtitle_text": "Slow motion sulla salsa, roba da guardare"
+    },
+    {
+      "scene_id": 134,
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "role": "venue_interior_detail",
+      "subject": "mano preme",
+      "description": "mano che preme pulsante su Coca-Cola Freestyle, schermo con Coca Zero e gocce animate",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6839_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6839_s0_sub1/f1.jpg"
+      ],
+      "start": 2.6,
+      "end": 5.6,
+      "in_sec": 2.6,
+      "out_sec": 5.6,
+      "duration": 3.0,
+      "requested_duration": 3.5,
+      "beat_type": "reaction",
+      "beat_moment": "totem ordini sullo sfondo mentre commenta esperienza",
+      "subtitle_text": "Un tocco e arriva la Zero gelata"
+    },
+    {
+      "scene_id": 9,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "ali, patatine, polpette",
+      "description": "dettaglio ali croccanti, patatine, polpette in primo piano, carta branding sfocata",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6821_s0_sub3/f1.jpg"
+      ],
+      "start": 9.0,
+      "end": 11.5,
+      "in_sec": 9.0,
+      "out_sec": 11.5,
+      "duration": 2.5,
+      "requested_duration": 3.5,
+      "beat_type": "climax",
+      "beat_moment": "primo piano finale ali dorate irresistibili appetitose",
+      "subtitle_text": "Ali, patatine, polpette: combo perfetta"
+    },
+    {
+      "scene_id": 30,
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "role": "person_eating",
+      "subject": "mani, ala fritta grande",
+      "description": "primo piano mani che tengono ala fritta grande davanti al viso, salsa in bicchierino",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6824_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6824_s0_sub2/f1.jpg"
+      ],
+      "start": 5.9,
+      "end": 9.9,
+      "in_sec": 5.9,
+      "out_sec": 9.9,
+      "duration": 4.0,
+      "requested_duration": 3.0,
+      "beat_type": "climax",
+      "beat_moment": "assaggio finale con reazione massima soddisfazione",
+      "subtitle_text": "Ala gigante, faccia seria, morso in arrivo"
+    },
+    {
+      "scene_id": 23,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_talking",
+      "subject": "persona con cibo, espressione",
+      "description": "volto di persona che mostra vassoi di ali fritte, patatine, polpette, espressione seria",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6823_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6823_s0_sub4/f1.jpg"
+      ],
+      "start": 11.5,
+      "end": 15.3,
+      "in_sec": 11.5,
+      "out_sec": 15.3,
+      "duration": 3.8,
+      "requested_duration": 3.5,
+      "beat_type": "cta",
+      "beat_moment": "persona parla mostrando vassoi consiglia locale",
+      "subtitle_text": "Vassoio pazzesco, farò la prossima volta il boneless"
+    },
+    {
+      "scene_id": 137,
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "role": "venue_interior_detail",
+      "subject": "claw machine",
+      "description": "cliente che usa claw machine Wing Stop con plexiglass trasparente, ali fritte bianche visibili dentro",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6844_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_165/IMG_6844_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.4,
+      "in_sec": 0.0,
+      "out_sec": 3.4,
+      "duration": 3.4,
+      "requested_duration": 3.5,
+      "beat_type": "cta",
+      "beat_moment": "chiusura con curiosità prossima visita locale",
+      "subtitle_text": "Claw machine Wing Stop, provala tu adesso"
+    }
+  ],
+  "total_duration": 64.57,
+  "n_clips": 20,
+  "profile_id": null,
+  "venue_name": "",
+  "generated_at": "2026-09-19T13:17:17"
+}

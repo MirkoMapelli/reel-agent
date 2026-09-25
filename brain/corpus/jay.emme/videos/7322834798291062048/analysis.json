@@ -1,0 +1,2369 @@
+{
+  "video_id": "7322834798291062048",
+  "creator": "jay.emme",
+  "meta": {
+    "id": "7322834798291062048",
+    "title": "NUOVO GIORNO E NUOVI OBIETTIVI DA RAGGIUNGERE #newlife #lifechange #l...",
+    "url": "https://www.tiktok.com/@jay.emme/video/7322834798291062048",
+    "creator": "jay.emme",
+    "duration": 67,
+    "downloaded_at": "2026-09-20T22:20:26"
+  },
+  "n_shots": 24,
+  "total_dur": 67.94,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.667,
+      "dur": 3.667,
+      "center": 1.833,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 3.667,
+      "end": 4.733,
+      "dur": 1.067,
+      "center": 4.2,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 4.733,
+      "end": 5.733,
+      "dur": 1.0,
+      "center": 5.233,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_002.jpg"
+    },
+    {
+      "idx": 3,
+      "start": 5.733,
+      "end": 7.567,
+      "dur": 1.833,
+      "center": 6.65,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_003.jpg"
+    },
+    {
+      "idx": 4,
+      "start": 7.567,
+      "end": 9.567,
+      "dur": 2.0,
+      "center": 8.567,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_004.jpg"
+    },
+    {
+      "idx": 5,
+      "start": 9.567,
+      "end": 11.567,
+      "dur": 2.0,
+      "center": 10.567,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_005.jpg"
+    },
+    {
+      "idx": 6,
+      "start": 11.567,
+      "end": 12.233,
+      "dur": 0.667,
+      "center": 11.9,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_006.jpg"
+    },
+    {
+      "idx": 7,
+      "start": 12.233,
+      "end": 13.533,
+      "dur": 1.3,
+      "center": 12.883,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_007.jpg"
+    },
+    {
+      "idx": 8,
+      "start": 13.533,
+      "end": 16.0,
+      "dur": 2.467,
+      "center": 14.767,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_008.jpg"
+    },
+    {
+      "idx": 9,
+      "start": 16.0,
+      "end": 17.6,
+      "dur": 1.6,
+      "center": 16.8,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_009.jpg"
+    },
+    {
+      "idx": 10,
+      "start": 17.6,
+      "end": 19.1,
+      "dur": 1.5,
+      "center": 18.35,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_010.jpg"
+    },
+    {
+      "idx": 11,
+      "start": 19.1,
+      "end": 24.067,
+      "dur": 4.967,
+      "center": 21.583,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_011.jpg"
+    },
+    {
+      "idx": 12,
+      "start": 24.067,
+      "end": 27.733,
+      "dur": 3.667,
+      "center": 25.9,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_012.jpg"
+    },
+    {
+      "idx": 13,
+      "start": 27.733,
+      "end": 29.033,
+      "dur": 1.3,
+      "center": 28.383,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_013.jpg"
+    },
+    {
+      "idx": 14,
+      "start": 29.033,
+      "end": 36.533,
+      "dur": 7.5,
+      "center": 32.783,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_014.jpg"
+    },
+    {
+      "idx": 15,
+      "start": 36.533,
+      "end": 42.6,
+      "dur": 6.067,
+      "center": 39.567,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_015.jpg"
+    },
+    {
+      "idx": 16,
+      "start": 42.6,
+      "end": 46.6,
+      "dur": 4.0,
+      "center": 44.6,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_016.jpg"
+    },
+    {
+      "idx": 17,
+      "start": 46.6,
+      "end": 48.633,
+      "dur": 2.033,
+      "center": 47.617,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_017.jpg"
+    },
+    {
+      "idx": 18,
+      "start": 48.633,
+      "end": 51.6,
+      "dur": 2.967,
+      "center": 50.117,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_018.jpg"
+    },
+    {
+      "idx": 19,
+      "start": 51.6,
+      "end": 54.633,
+      "dur": 3.033,
+      "center": 53.117,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_019.jpg"
+    },
+    {
+      "idx": 20,
+      "start": 54.633,
+      "end": 59.333,
+      "dur": 4.7,
+      "center": 56.983,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_020.jpg"
+    },
+    {
+      "idx": 21,
+      "start": 59.333,
+      "end": 61.133,
+      "dur": 1.8,
+      "center": 60.233,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_021.jpg"
+    },
+    {
+      "idx": 22,
+      "start": 61.133,
+      "end": 62.3,
+      "dur": 1.167,
+      "center": 61.717,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_022.jpg"
+    },
+    {
+      "idx": 23,
+      "start": 62.3,
+      "end": 67.933,
+      "dur": 5.633,
+      "center": 65.117,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7322834798291062048/frames/shot_023.jpg"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una maglietta nera e un orologio dorato parla e indica con il dito. Sopra di lui c'è una scritta gialla 'WHAT I DO IN A DAY' e sotto una scritta viola 'UNA SINGOLA PAROLA'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.667,
+      "dur": 3.667
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "pancake in padella",
+      "description": "Un ragazzo in maglietta grigia sta cucinando un pancake in padella, lanciandolo in aria. Sotto c'è una scritta viola 'INIZIAMO LA GIORNATA'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 1,
+      "start": 3.667,
+      "end": 4.733,
+      "dur": 1.067
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "pancake in padella",
+      "description": "Un ragazzo in maglietta grigia sta cucinando un pancake in padella, lanciandolo in aria. Sotto c'è una scritta viola 'CON UN PAIO DI FLIP'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 2,
+      "start": 4.733,
+      "end": 5.733,
+      "dur": 1.0
+    },
+    {
+      "idx": 3,
+      "role": "food_plated",
+      "subject": "ragazzo con pancake",
+      "description": "Un ragazzo tiene in mano un grande pancake rotondo. Sotto c'è una scritta viola 'CHE NON PUÒ'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "finestra"
+      ],
+      "shot_idx": 3,
+      "start": 5.733,
+      "end": 7.567,
+      "dur": 1.833
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "ragazzo all'aperto",
+      "description": "Un ragazzo con una giacca chiara e una felpa scura si trova all'aperto, con il cielo grigio e degli edifici sullo sfondo. Sotto c'è una scritta viola 'SI VA SUBITO'.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "edificio"
+      ],
+      "shot_idx": 4,
+      "start": 7.567,
+      "end": 9.567,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "ragazzo che cammina",
+      "description": "Un ragazzo con una giacca grigia e una felpa nera cammina per strada, guardando direttamente la telecamera. Sullo sfondo si intravedono edifici e auto.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "edificio",
+        "strada",
+        "marciapiede"
+      ],
+      "shot_idx": 5,
+      "start": 9.567,
+      "end": 11.567,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role": "venue_interior_detail",
+      "subject": "corridoio buio",
+      "description": "Un corridoio buio con una parete nera lucida sulla destra e una struttura metallica sulla sinistra. La luce proviene da una fonte interna.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "parete",
+        "struttura metallica"
+      ],
+      "shot_idx": 6,
+      "start": 11.567,
+      "end": 12.233,
+      "dur": 0.667
+    },
+    {
+      "idx": 2,
+      "role": "venue_interior_wide",
+      "subject": "ingresso palestra",
+      "description": "Un corridoio che conduce all'ingresso di una palestra, con la scritta 'POWER' illuminata in rosso sopra l'apertura. All'interno si vedono attrezzi e persone.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "corridoio",
+        "insegna",
+        "porta",
+        "attrezzi palestra"
+      ],
+      "shot_idx": 7,
+      "start": 12.233,
+      "end": 13.533,
+      "dur": 1.3
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "ragazzo in palestra",
+      "description": "Un ragazzo in maglietta blu si trova in palestra, con attrezzi per l'allenamento sullo sfondo. Guarda la telecamera.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "attrezzi palestra",
+        "specchio"
+      ],
+      "shot_idx": 8,
+      "start": 13.533,
+      "end": 16.0,
+      "dur": 2.467
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "ragazzo allo specchio",
+      "description": "Un ragazzo in maglietta blu e pantaloncini neri si scatta un selfie davanti a uno specchio in palestra. Si vedono attrezzi e un'altra persona riflessa nello specchio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "specchio",
+        "attrezzi palestra",
+        "pavimento"
+      ],
+      "shot_idx": 9,
+      "start": 16.0,
+      "end": 17.6,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "ragazzo in palestra",
+      "description": "Un ragazzo muscoloso si scatta un selfie allo specchio in palestra, mostrando i muscoli del braccio e tenendo un asciugamano. Sullo sfondo si intravedono attrezzi da palestra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "specchio",
+        "attrezzi da palestra",
+        "pavimento in legno"
+      ],
+      "shot_idx": 10,
+      "start": 17.6,
+      "end": 19.1,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con i capelli castani e una maglietta nera con una stampa gialla parla direttamente alla telecamera. Sullo sfondo si intravede una cucina.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "cucina",
+        "frigorifero"
+      ],
+      "shot_idx": 11,
+      "start": 19.1,
+      "end": 24.067,
+      "dur": 4.967
+    },
+    {
+      "idx": 2,
+      "role": "hands_gesture",
+      "subject": "ragazzo con tablet",
+      "description": "Un ragazzo con una felpa nera e blu tiene un tablet con lo schermo acceso. Si intravedono le sue mani e parte del suo corpo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo",
+        "tablet"
+      ],
+      "shot_idx": 12,
+      "start": 24.067,
+      "end": 27.733,
+      "dur": 3.667
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con i capelli castani e una felpa nera parla direttamente alla telecamera. Indossa degli auricolari bianchi.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 13,
+      "start": 27.733,
+      "end": 29.033,
+      "dur": 1.3
+    },
+    {
+      "idx": 4,
+      "role": "detail",
+      "subject": "scarpe e pavimento",
+      "description": "Si vedono i piedi di una persona con scarpe da ginnastica bianche e nere, mentre cammina su un pavimento chiaro. Lo sfondo è sfocato e mostra una parete grigia.",
+      "composition": "detail",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "pavimento",
+        "parete"
+      ],
+      "shot_idx": 14,
+      "start": 29.033,
+      "end": 36.533,
+      "dur": 7.5
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "ragazzo che digita",
+      "description": "Un ragazzo con una maglietta nera con un serpente giallo sta digitando su un tablet, con le mani visibili in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 15,
+      "start": 36.533,
+      "end": 42.6,
+      "dur": 6.067
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "ragazzo pensieroso",
+      "description": "Il ragazzo è seduto al tavolo, appoggiando la testa sulla mano con un'espressione pensierosa. Indossa una maglietta nera con un serpente giallo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo",
+        "scaffale"
+      ],
+      "shot_idx": 16,
+      "start": 42.6,
+      "end": 46.6,
+      "dur": 4.0
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "ragazzo che si tocca il naso",
+      "description": "Il ragazzo è seduto al tavolo e si tocca il naso con un dito, mentre guarda verso il basso. Indossa una maglietta nera con un serpente giallo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 17,
+      "start": 46.6,
+      "end": 48.633,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role": "detail",
+      "subject": "libro aperto",
+      "description": "Una mano sta sfogliando le pagine di un libro aperto su un tavolo bianco. Si intravedono delle scritte sul libro.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 18,
+      "start": 48.633,
+      "end": 51.6,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "ragazzo che legge",
+      "description": "Il ragazzo è seduto e sta sfogliando un libro aperto sul tavolo. Indossa una maglietta nera con un serpente giallo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 19,
+      "start": 51.6,
+      "end": 54.633,
+      "dur": 3.033
+    },
+    {
+      "idx": 0,
+      "role": "food_closeup",
+      "subject": "pollo e polenta",
+      "description": "Una teglia nera contiene pezzi di pollo e bastoncini di polenta, probabilmente in cottura o appena cotti. Il cibo appare dorato e condito.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 20,
+      "start": 54.633,
+      "end": 59.333,
+      "dur": 4.7
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "ragazzo che saluta",
+      "description": "Un giovane ragazzo con capelli castani e una maglietta nera saluta con la mano destra. Ha un'espressione facciale che suggerisce sorpresa o un'affermazione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [],
+      "shot_idx": 21,
+      "start": 59.333,
+      "end": 61.133,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "ragazzo che indica",
+      "description": "Un giovane ragazzo con capelli castani e una maglietta nera indica con il dito indice della mano destra verso l'alto. Ha un'espressione facciale che suggerisce un'affermazione o un'idea.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 22,
+      "start": 61.133,
+      "end": 62.3,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un giovane ragazzo con capelli castani e una maglietta nera parla, con un'espressione facciale che suggerisce un'affermazione. La sua mano destra è visibile sul lato sinistro del frame.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 23,
+      "start": 62.3,
+      "end": 67.933,
+      "dur": 5.633
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Nuova giornata e oggi esiste solo una singola parola, produttività."
+    },
+    {
+      "start": 3.72,
+      "end": 7.62,
+      "text": "Iniziamo la giornata con un paio di flip del pancake protéico che non può mai mancare la mattina"
+    },
+    {
+      "start": 7.62,
+      "end": 11.0,
+      "text": "e ovviamente si va subito a recuperare il leg day che ieri abbiamo purtroppo perso."
+    },
+    {
+      "start": 11.04,
+      "end": 14.64,
+      "text": "In questa faccia un post paventata, sono entrato in gym e ho iniziato proprio da lui, dalla squat."
+    },
+    {
+      "start": 15.02,
+      "end": 17.76,
+      "text": "E devo dire che l'alimento è andato anche abbastanza bene, ho spinto per bene."
+    },
+    {
+      "start": 17.94,
+      "end": 22.74,
+      "text": "Post workout, continuiamo il nostro percorso di dieta di cat con un bel riso venere tonno"
+    },
+    {
+      "start": 22.74,
+      "end": 24.52,
+      "text": "e poi si va a studiare in biblioteca."
+    },
+    {
+      "start": 24.6,
+      "end": 27.76,
+      "text": "Se oggi ero veramente ispirato e mi sono dato pure allo studio in biblioteca."
+    },
+    {
+      "start": 27.76,
+      "end": 30.66,
+      "text": "Il luogo dove al posto dell'acqua si beve produttività praticamente."
+    },
+    {
+      "start": 30.84,
+      "end": 34.82,
+      "text": "Dopo un paio di ore di studio buone con qualche interruzione perché ho uscito tra l'altro"
+    },
+    {
+      "start": 34.82,
+      "end": 36.76,
+      "text": "il voto dell'esame di ieri ma la siamo perde."
+    },
+    {
+      "start": 36.84,
+      "end": 39.54,
+      "text": "Sì, l'ultimo torno a cazzo e continuo a studiare perché avevo qualche slide da finire."
+    },
+    {
+      "start": 39.6,
+      "end": 42.26,
+      "text": "Anche perché ho ancora tre esami e uno probabilmente lo dovrò anche ridare."
+    },
+    {
+      "start": 42.38,
+      "end": 45.52,
+      "text": "Qui infatti potete vedere degli attimi di sconforto pensando a questi esami"
+    },
+    {
+      "start": 45.52,
+      "end": 48.96,
+      "text": "ma noi vogliamo diventare come i dii della produttività e quindi non ci facciamo scoraggiare."
+    },
+    {
+      "start": 48.98,
+      "end": 52.34,
+      "text": "E anzi ci infiliamo pure un momento lettura, perché era da un po' che non leggevo e perché"
+    },
+    {
+      "start": 52.34,
+      "end": 53.9,
+      "text": "io non mi vuole recuperare un po' di pagine."
+    },
+    {
+      "start": 53.9,
+      "end": 59.22,
+      "text": "C'è una bella proteica, bella ricadica di carbidrati per rintegliare tutte le energie usate in legday e via."
+    },
+    {
+      "start": 59.3,
+      "end": 62.1,
+      "text": "Dai, giornato abbastanza produttivo oggi ma possiamo fare di meglio."
+    },
+    {
+      "start": 62.3,
+      "end": 65.4,
+      "text": "E se avete voglia di migliorarvi anche voi e avete bisogno di un po' di motivazione"
+    },
+    {
+      "start": 65.4,
+      "end": 67.68,
+      "text": "iniziata a seguirmi che ci motiviamo insieme."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "word": "Nuova"
+    },
+    {
+      "start": 0.26,
+      "end": 0.72,
+      "word": "giornata"
+    },
+    {
+      "start": 0.72,
+      "end": 0.94,
+      "word": "e"
+    },
+    {
+      "start": 0.94,
+      "end": 1.14,
+      "word": "oggi"
+    },
+    {
+      "start": 1.14,
+      "end": 1.42,
+      "word": "esiste"
+    },
+    {
+      "start": 1.42,
+      "end": 1.7,
+      "word": "solo"
+    },
+    {
+      "start": 1.7,
+      "end": 1.86,
+      "word": "una"
+    },
+    {
+      "start": 1.86,
+      "end": 2.24,
+      "word": "singola"
+    },
+    {
+      "start": 2.24,
+      "end": 2.64,
+      "word": "parola,"
+    },
+    {
+      "start": 2.82,
+      "end": 3.62,
+      "word": "produttività."
+    },
+    {
+      "start": 3.72,
+      "end": 4.02,
+      "word": "Iniziamo"
+    },
+    {
+      "start": 4.02,
+      "end": 4.16,
+      "word": "la"
+    },
+    {
+      "start": 4.16,
+      "end": 4.36,
+      "word": "giornata"
+    },
+    {
+      "start": 4.36,
+      "end": 4.52,
+      "word": "con"
+    },
+    {
+      "start": 4.52,
+      "end": 4.66,
+      "word": "un"
+    },
+    {
+      "start": 4.66,
+      "end": 4.84,
+      "word": "paio"
+    },
+    {
+      "start": 4.84,
+      "end": 4.98,
+      "word": "di"
+    },
+    {
+      "start": 4.98,
+      "end": 5.16,
+      "word": "flip"
+    },
+    {
+      "start": 5.16,
+      "end": 5.36,
+      "word": "del"
+    },
+    {
+      "start": 5.36,
+      "end": 5.62,
+      "word": "pancake"
+    },
+    {
+      "start": 5.62,
+      "end": 6.28,
+      "word": "protéico"
+    },
+    {
+      "start": 6.28,
+      "end": 6.38,
+      "word": "che"
+    },
+    {
+      "start": 6.38,
+      "end": 6.46,
+      "word": "non"
+    },
+    {
+      "start": 6.46,
+      "end": 6.6,
+      "word": "può"
+    },
+    {
+      "start": 6.6,
+      "end": 6.78,
+      "word": "mai"
+    },
+    {
+      "start": 6.78,
+      "end": 7.06,
+      "word": "mancare"
+    },
+    {
+      "start": 7.06,
+      "end": 7.22,
+      "word": "la"
+    },
+    {
+      "start": 7.22,
+      "end": 7.62,
+      "word": "mattina"
+    },
+    {
+      "start": 7.62,
+      "end": 7.8,
+      "word": "e"
+    },
+    {
+      "start": 7.8,
+      "end": 8.12,
+      "word": "ovviamente"
+    },
+    {
+      "start": 8.12,
+      "end": 8.32,
+      "word": "si"
+    },
+    {
+      "start": 8.32,
+      "end": 8.44,
+      "word": "va"
+    },
+    {
+      "start": 8.44,
+      "end": 8.72,
+      "word": "subito"
+    },
+    {
+      "start": 8.72,
+      "end": 8.8,
+      "word": "a"
+    },
+    {
+      "start": 8.8,
+      "end": 9.14,
+      "word": "recuperare"
+    },
+    {
+      "start": 9.14,
+      "end": 9.32,
+      "word": "il"
+    },
+    {
+      "start": 9.32,
+      "end": 9.42,
+      "word": "leg"
+    },
+    {
+      "start": 9.42,
+      "end": 9.62,
+      "word": "day"
+    },
+    {
+      "start": 9.62,
+      "end": 9.78,
+      "word": "che"
+    },
+    {
+      "start": 9.78,
+      "end": 9.94,
+      "word": "ieri"
+    },
+    {
+      "start": 9.94,
+      "end": 10.18,
+      "word": "abbiamo"
+    },
+    {
+      "start": 10.18,
+      "end": 10.62,
+      "word": "purtroppo"
+    },
+    {
+      "start": 10.62,
+      "end": 11.0,
+      "word": "perso."
+    },
+    {
+      "start": 11.04,
+      "end": 11.1,
+      "word": "In"
+    },
+    {
+      "start": 11.1,
+      "end": 11.18,
+      "word": "questa"
+    },
+    {
+      "start": 11.18,
+      "end": 11.46,
+      "word": "faccia"
+    },
+    {
+      "start": 11.46,
+      "end": 11.58,
+      "word": "un"
+    },
+    {
+      "start": 11.58,
+      "end": 11.68,
+      "word": "post"
+    },
+    {
+      "start": 11.68,
+      "end": 12.16,
+      "word": "paventata,"
+    },
+    {
+      "start": 12.24,
+      "end": 12.38,
+      "word": "sono"
+    },
+    {
+      "start": 12.38,
+      "end": 12.66,
+      "word": "entrato"
+    },
+    {
+      "start": 12.66,
+      "end": 12.82,
+      "word": "in"
+    },
+    {
+      "start": 12.82,
+      "end": 13.02,
+      "word": "gym"
+    },
+    {
+      "start": 13.02,
+      "end": 13.18,
+      "word": "e"
+    },
+    {
+      "start": 13.18,
+      "end": 13.22,
+      "word": "ho"
+    },
+    {
+      "start": 13.22,
+      "end": 13.52,
+      "word": "iniziato"
+    },
+    {
+      "start": 13.52,
+      "end": 13.7,
+      "word": "proprio"
+    },
+    {
+      "start": 13.7,
+      "end": 13.86,
+      "word": "da"
+    },
+    {
+      "start": 13.86,
+      "end": 14.06,
+      "word": "lui,"
+    },
+    {
+      "start": 14.1,
+      "end": 14.28,
+      "word": "dalla"
+    },
+    {
+      "start": 14.28,
+      "end": 14.64,
+      "word": "squat."
+    },
+    {
+      "start": 15.02,
+      "end": 15.1,
+      "word": "E"
+    },
+    {
+      "start": 15.1,
+      "end": 15.22,
+      "word": "devo"
+    },
+    {
+      "start": 15.22,
+      "end": 15.4,
+      "word": "dire"
+    },
+    {
+      "start": 15.4,
+      "end": 15.54,
+      "word": "che"
+    },
+    {
+      "start": 15.54,
+      "end": 15.64,
+      "word": "l"
+    },
+    {
+      "start": 15.64,
+      "end": 15.96,
+      "word": "'alimento"
+    },
+    {
+      "start": 15.96,
+      "end": 16.06,
+      "word": "è"
+    },
+    {
+      "start": 16.06,
+      "end": 16.18,
+      "word": "andato"
+    },
+    {
+      "start": 16.18,
+      "end": 16.34,
+      "word": "anche"
+    },
+    {
+      "start": 16.34,
+      "end": 16.7,
+      "word": "abbastanza"
+    },
+    {
+      "start": 16.7,
+      "end": 16.94,
+      "word": "bene,"
+    },
+    {
+      "start": 17.02,
+      "end": 17.1,
+      "word": "ho"
+    },
+    {
+      "start": 17.1,
+      "end": 17.3,
+      "word": "spinto"
+    },
+    {
+      "start": 17.3,
+      "end": 17.52,
+      "word": "per"
+    },
+    {
+      "start": 17.52,
+      "end": 17.76,
+      "word": "bene."
+    },
+    {
+      "start": 17.94,
+      "end": 18.26,
+      "word": "Post"
+    },
+    {
+      "start": 18.26,
+      "end": 18.6,
+      "word": "workout,"
+    },
+    {
+      "start": 18.82,
+      "end": 19.32,
+      "word": "continuiamo"
+    },
+    {
+      "start": 19.32,
+      "end": 19.46,
+      "word": "il"
+    },
+    {
+      "start": 19.46,
+      "end": 19.54,
+      "word": "nostro"
+    },
+    {
+      "start": 19.54,
+      "end": 20.14,
+      "word": "percorso"
+    },
+    {
+      "start": 20.14,
+      "end": 20.34,
+      "word": "di"
+    },
+    {
+      "start": 20.34,
+      "end": 20.74,
+      "word": "dieta"
+    },
+    {
+      "start": 20.74,
+      "end": 20.96,
+      "word": "di"
+    },
+    {
+      "start": 20.96,
+      "end": 21.16,
+      "word": "cat"
+    },
+    {
+      "start": 21.16,
+      "end": 21.4,
+      "word": "con"
+    },
+    {
+      "start": 21.4,
+      "end": 21.52,
+      "word": "un"
+    },
+    {
+      "start": 21.52,
+      "end": 21.56,
+      "word": "bel"
+    },
+    {
+      "start": 21.56,
+      "end": 21.84,
+      "word": "riso"
+    },
+    {
+      "start": 21.84,
+      "end": 22.16,
+      "word": "venere"
+    },
+    {
+      "start": 22.16,
+      "end": 22.74,
+      "word": "tonno"
+    },
+    {
+      "start": 22.74,
+      "end": 22.94,
+      "word": "e"
+    },
+    {
+      "start": 22.94,
+      "end": 23.12,
+      "word": "poi"
+    },
+    {
+      "start": 23.12,
+      "end": 23.32,
+      "word": "si"
+    },
+    {
+      "start": 23.32,
+      "end": 23.46,
+      "word": "va"
+    },
+    {
+      "start": 23.46,
+      "end": 23.6,
+      "word": "a"
+    },
+    {
+      "start": 23.6,
+      "end": 23.92,
+      "word": "studiare"
+    },
+    {
+      "start": 23.92,
+      "end": 24.04,
+      "word": "in"
+    },
+    {
+      "start": 24.04,
+      "end": 24.52,
+      "word": "biblioteca."
+    },
+    {
+      "start": 24.6,
+      "end": 24.6,
+      "word": "Se"
+    },
+    {
+      "start": 24.6,
+      "end": 24.8,
+      "word": "oggi"
+    },
+    {
+      "start": 24.8,
+      "end": 24.94,
+      "word": "ero"
+    },
+    {
+      "start": 24.94,
+      "end": 25.18,
+      "word": "veramente"
+    },
+    {
+      "start": 25.18,
+      "end": 25.86,
+      "word": "ispirato"
+    },
+    {
+      "start": 25.86,
+      "end": 25.98,
+      "word": "e"
+    },
+    {
+      "start": 25.98,
+      "end": 26.06,
+      "word": "mi"
+    },
+    {
+      "start": 26.06,
+      "end": 26.22,
+      "word": "sono"
+    },
+    {
+      "start": 26.22,
+      "end": 26.36,
+      "word": "dato"
+    },
+    {
+      "start": 26.36,
+      "end": 26.72,
+      "word": "pure"
+    },
+    {
+      "start": 26.72,
+      "end": 26.9,
+      "word": "allo"
+    },
+    {
+      "start": 26.9,
+      "end": 27.06,
+      "word": "studio"
+    },
+    {
+      "start": 27.06,
+      "end": 27.26,
+      "word": "in"
+    },
+    {
+      "start": 27.26,
+      "end": 27.76,
+      "word": "biblioteca."
+    },
+    {
+      "start": 27.76,
+      "end": 27.9,
+      "word": "Il"
+    },
+    {
+      "start": 27.9,
+      "end": 28.06,
+      "word": "luogo"
+    },
+    {
+      "start": 28.06,
+      "end": 28.26,
+      "word": "dove"
+    },
+    {
+      "start": 28.26,
+      "end": 28.4,
+      "word": "al"
+    },
+    {
+      "start": 28.4,
+      "end": 28.74,
+      "word": "posto"
+    },
+    {
+      "start": 28.74,
+      "end": 28.82,
+      "word": "dell"
+    },
+    {
+      "start": 28.82,
+      "end": 29.12,
+      "word": "'acqua"
+    },
+    {
+      "start": 29.12,
+      "end": 29.3,
+      "word": "si"
+    },
+    {
+      "start": 29.3,
+      "end": 29.52,
+      "word": "beve"
+    },
+    {
+      "start": 29.52,
+      "end": 30.18,
+      "word": "produttività"
+    },
+    {
+      "start": 30.18,
+      "end": 30.66,
+      "word": "praticamente."
+    },
+    {
+      "start": 30.84,
+      "end": 30.96,
+      "word": "Dopo"
+    },
+    {
+      "start": 30.96,
+      "end": 31.04,
+      "word": "un"
+    },
+    {
+      "start": 31.04,
+      "end": 31.18,
+      "word": "paio"
+    },
+    {
+      "start": 31.18,
+      "end": 31.34,
+      "word": "di"
+    },
+    {
+      "start": 31.34,
+      "end": 31.52,
+      "word": "ore"
+    },
+    {
+      "start": 31.52,
+      "end": 31.74,
+      "word": "di"
+    },
+    {
+      "start": 31.74,
+      "end": 32.08,
+      "word": "studio"
+    },
+    {
+      "start": 32.08,
+      "end": 32.64,
+      "word": "buone"
+    },
+    {
+      "start": 32.64,
+      "end": 32.86,
+      "word": "con"
+    },
+    {
+      "start": 32.86,
+      "end": 33.08,
+      "word": "qualche"
+    },
+    {
+      "start": 33.08,
+      "end": 33.86,
+      "word": "interruzione"
+    },
+    {
+      "start": 33.86,
+      "end": 34.14,
+      "word": "perché"
+    },
+    {
+      "start": 34.14,
+      "end": 34.3,
+      "word": "ho"
+    },
+    {
+      "start": 34.3,
+      "end": 34.46,
+      "word": "uscito"
+    },
+    {
+      "start": 34.46,
+      "end": 34.62,
+      "word": "tra"
+    },
+    {
+      "start": 34.62,
+      "end": 34.74,
+      "word": "l"
+    },
+    {
+      "start": 34.74,
+      "end": 34.82,
+      "word": "'altro"
+    },
+    {
+      "start": 34.82,
+      "end": 34.94,
+      "word": "il"
+    },
+    {
+      "start": 34.94,
+      "end": 35.2,
+      "word": "voto"
+    },
+    {
+      "start": 35.2,
+      "end": 35.3,
+      "word": "dell"
+    },
+    {
+      "start": 35.3,
+      "end": 35.58,
+      "word": "'esame"
+    },
+    {
+      "start": 35.58,
+      "end": 35.74,
+      "word": "di"
+    },
+    {
+      "start": 35.74,
+      "end": 35.98,
+      "word": "ieri"
+    },
+    {
+      "start": 35.98,
+      "end": 36.16,
+      "word": "ma"
+    },
+    {
+      "start": 36.16,
+      "end": 36.28,
+      "word": "la"
+    },
+    {
+      "start": 36.28,
+      "end": 36.42,
+      "word": "siamo"
+    },
+    {
+      "start": 36.42,
+      "end": 36.76,
+      "word": "perde."
+    },
+    {
+      "start": 36.84,
+      "end": 36.88,
+      "word": "Sì,"
+    },
+    {
+      "start": 36.92,
+      "end": 37.02,
+      "word": "l"
+    },
+    {
+      "start": 37.02,
+      "end": 37.02,
+      "word": "'ultimo"
+    },
+    {
+      "start": 37.02,
+      "end": 37.16,
+      "word": "torno"
+    },
+    {
+      "start": 37.16,
+      "end": 37.26,
+      "word": "a"
+    },
+    {
+      "start": 37.26,
+      "end": 37.44,
+      "word": "cazzo"
+    },
+    {
+      "start": 37.44,
+      "end": 37.56,
+      "word": "e"
+    },
+    {
+      "start": 37.56,
+      "end": 37.74,
+      "word": "continuo"
+    },
+    {
+      "start": 37.74,
+      "end": 37.84,
+      "word": "a"
+    },
+    {
+      "start": 37.84,
+      "end": 38.16,
+      "word": "studiare"
+    },
+    {
+      "start": 38.16,
+      "end": 38.34,
+      "word": "perché"
+    },
+    {
+      "start": 38.34,
+      "end": 38.54,
+      "word": "avevo"
+    },
+    {
+      "start": 38.54,
+      "end": 38.68,
+      "word": "qualche"
+    },
+    {
+      "start": 38.68,
+      "end": 39.0,
+      "word": "slide"
+    },
+    {
+      "start": 39.0,
+      "end": 39.18,
+      "word": "da"
+    },
+    {
+      "start": 39.18,
+      "end": 39.54,
+      "word": "finire."
+    },
+    {
+      "start": 39.6,
+      "end": 39.72,
+      "word": "Anche"
+    },
+    {
+      "start": 39.72,
+      "end": 39.92,
+      "word": "perché"
+    },
+    {
+      "start": 39.92,
+      "end": 40.06,
+      "word": "ho"
+    },
+    {
+      "start": 40.06,
+      "end": 40.28,
+      "word": "ancora"
+    },
+    {
+      "start": 40.28,
+      "end": 40.5,
+      "word": "tre"
+    },
+    {
+      "start": 40.5,
+      "end": 40.78,
+      "word": "esami"
+    },
+    {
+      "start": 40.78,
+      "end": 40.92,
+      "word": "e"
+    },
+    {
+      "start": 40.92,
+      "end": 41.0,
+      "word": "uno"
+    },
+    {
+      "start": 41.0,
+      "end": 41.32,
+      "word": "probabilmente"
+    },
+    {
+      "start": 41.32,
+      "end": 41.52,
+      "word": "lo"
+    },
+    {
+      "start": 41.52,
+      "end": 41.74,
+      "word": "dovrò"
+    },
+    {
+      "start": 41.74,
+      "end": 41.88,
+      "word": "anche"
+    },
+    {
+      "start": 41.88,
+      "end": 42.26,
+      "word": "ridare."
+    },
+    {
+      "start": 42.38,
+      "end": 42.46,
+      "word": "Qui"
+    },
+    {
+      "start": 42.46,
+      "end": 42.64,
+      "word": "infatti"
+    },
+    {
+      "start": 42.64,
+      "end": 42.9,
+      "word": "potete"
+    },
+    {
+      "start": 42.9,
+      "end": 43.1,
+      "word": "vedere"
+    },
+    {
+      "start": 43.1,
+      "end": 43.38,
+      "word": "degli"
+    },
+    {
+      "start": 43.38,
+      "end": 43.66,
+      "word": "attimi"
+    },
+    {
+      "start": 43.66,
+      "end": 43.82,
+      "word": "di"
+    },
+    {
+      "start": 43.82,
+      "end": 44.46,
+      "word": "sconforto"
+    },
+    {
+      "start": 44.46,
+      "end": 44.74,
+      "word": "pensando"
+    },
+    {
+      "start": 44.74,
+      "end": 44.9,
+      "word": "a"
+    },
+    {
+      "start": 44.9,
+      "end": 45.0,
+      "word": "questi"
+    },
+    {
+      "start": 45.0,
+      "end": 45.52,
+      "word": "esami"
+    },
+    {
+      "start": 45.52,
+      "end": 45.72,
+      "word": "ma"
+    },
+    {
+      "start": 45.72,
+      "end": 45.82,
+      "word": "noi"
+    },
+    {
+      "start": 45.82,
+      "end": 46.0,
+      "word": "vogliamo"
+    },
+    {
+      "start": 46.0,
+      "end": 46.44,
+      "word": "diventare"
+    },
+    {
+      "start": 46.44,
+      "end": 46.62,
+      "word": "come"
+    },
+    {
+      "start": 46.62,
+      "end": 46.76,
+      "word": "i"
+    },
+    {
+      "start": 46.76,
+      "end": 47.06,
+      "word": "dii"
+    },
+    {
+      "start": 47.06,
+      "end": 47.1,
+      "word": "della"
+    },
+    {
+      "start": 47.1,
+      "end": 47.72,
+      "word": "produttività"
+    },
+    {
+      "start": 47.72,
+      "end": 47.8,
+      "word": "e"
+    },
+    {
+      "start": 47.8,
+      "end": 47.94,
+      "word": "quindi"
+    },
+    {
+      "start": 47.94,
+      "end": 48.08,
+      "word": "non"
+    },
+    {
+      "start": 48.08,
+      "end": 48.16,
+      "word": "ci"
+    },
+    {
+      "start": 48.16,
+      "end": 48.42,
+      "word": "facciamo"
+    },
+    {
+      "start": 48.42,
+      "end": 48.96,
+      "word": "scoraggiare."
+    },
+    {
+      "start": 48.98,
+      "end": 49.06,
+      "word": "E"
+    },
+    {
+      "start": 49.06,
+      "end": 49.32,
+      "word": "anzi"
+    },
+    {
+      "start": 49.32,
+      "end": 49.5,
+      "word": "ci"
+    },
+    {
+      "start": 49.5,
+      "end": 49.88,
+      "word": "infiliamo"
+    },
+    {
+      "start": 49.88,
+      "end": 50.04,
+      "word": "pure"
+    },
+    {
+      "start": 50.04,
+      "end": 50.16,
+      "word": "un"
+    },
+    {
+      "start": 50.16,
+      "end": 50.44,
+      "word": "momento"
+    },
+    {
+      "start": 50.44,
+      "end": 50.96,
+      "word": "lettura,"
+    },
+    {
+      "start": 51.12,
+      "end": 51.26,
+      "word": "perché"
+    },
+    {
+      "start": 51.26,
+      "end": 51.4,
+      "word": "era"
+    },
+    {
+      "start": 51.4,
+      "end": 51.46,
+      "word": "da"
+    },
+    {
+      "start": 51.46,
+      "end": 51.52,
+      "word": "un"
+    },
+    {
+      "start": 51.52,
+      "end": 51.6,
+      "word": "po'"
+    },
+    {
+      "start": 51.66,
+      "end": 51.68,
+      "word": "che"
+    },
+    {
+      "start": 51.68,
+      "end": 51.78,
+      "word": "non"
+    },
+    {
+      "start": 51.78,
+      "end": 52.16,
+      "word": "leggevo"
+    },
+    {
+      "start": 52.16,
+      "end": 52.22,
+      "word": "e"
+    },
+    {
+      "start": 52.22,
+      "end": 52.34,
+      "word": "perché"
+    },
+    {
+      "start": 52.34,
+      "end": 52.5,
+      "word": "io"
+    },
+    {
+      "start": 52.5,
+      "end": 52.54,
+      "word": "non"
+    },
+    {
+      "start": 52.54,
+      "end": 52.66,
+      "word": "mi"
+    },
+    {
+      "start": 52.66,
+      "end": 52.86,
+      "word": "vuole"
+    },
+    {
+      "start": 52.86,
+      "end": 53.22,
+      "word": "recuperare"
+    },
+    {
+      "start": 53.22,
+      "end": 53.38,
+      "word": "un"
+    },
+    {
+      "start": 53.38,
+      "end": 53.46,
+      "word": "po'"
+    },
+    {
+      "start": 53.54,
+      "end": 53.58,
+      "word": "di"
+    },
+    {
+      "start": 53.58,
+      "end": 53.9,
+      "word": "pagine."
+    },
+    {
+      "start": 53.9,
+      "end": 54.26,
+      "word": "C"
+    },
+    {
+      "start": 54.26,
+      "end": 54.34,
+      "word": "'è"
+    },
+    {
+      "start": 54.34,
+      "end": 54.42,
+      "word": "una"
+    },
+    {
+      "start": 54.42,
+      "end": 54.74,
+      "word": "bella"
+    },
+    {
+      "start": 54.74,
+      "end": 55.18,
+      "word": "proteica,"
+    },
+    {
+      "start": 55.32,
+      "end": 55.5,
+      "word": "bella"
+    },
+    {
+      "start": 55.5,
+      "end": 55.84,
+      "word": "ricadica"
+    },
+    {
+      "start": 55.84,
+      "end": 55.84,
+      "word": "di"
+    },
+    {
+      "start": 55.84,
+      "end": 56.52,
+      "word": "carbidrati"
+    },
+    {
+      "start": 56.52,
+      "end": 56.68,
+      "word": "per"
+    },
+    {
+      "start": 56.68,
+      "end": 57.46,
+      "word": "rintegliare"
+    },
+    {
+      "start": 57.46,
+      "end": 57.58,
+      "word": "tutte"
+    },
+    {
+      "start": 57.58,
+      "end": 57.76,
+      "word": "le"
+    },
+    {
+      "start": 57.76,
+      "end": 58.02,
+      "word": "energie"
+    },
+    {
+      "start": 58.02,
+      "end": 58.3,
+      "word": "usate"
+    },
+    {
+      "start": 58.3,
+      "end": 58.4,
+      "word": "in"
+    },
+    {
+      "start": 58.4,
+      "end": 58.78,
+      "word": "legday"
+    },
+    {
+      "start": 58.78,
+      "end": 59.0,
+      "word": "e"
+    },
+    {
+      "start": 59.0,
+      "end": 59.22,
+      "word": "via."
+    },
+    {
+      "start": 59.3,
+      "end": 59.48,
+      "word": "Dai,"
+    },
+    {
+      "start": 59.6,
+      "end": 59.88,
+      "word": "giornato"
+    },
+    {
+      "start": 59.88,
+      "end": 60.24,
+      "word": "abbastanza"
+    },
+    {
+      "start": 60.24,
+      "end": 60.74,
+      "word": "produttivo"
+    },
+    {
+      "start": 60.74,
+      "end": 60.98,
+      "word": "oggi"
+    },
+    {
+      "start": 60.98,
+      "end": 61.14,
+      "word": "ma"
+    },
+    {
+      "start": 61.14,
+      "end": 61.4,
+      "word": "possiamo"
+    },
+    {
+      "start": 61.4,
+      "end": 61.66,
+      "word": "fare"
+    },
+    {
+      "start": 61.66,
+      "end": 61.8,
+      "word": "di"
+    },
+    {
+      "start": 61.8,
+      "end": 62.1,
+      "word": "meglio."
+    },
+    {
+      "start": 62.3,
+      "end": 62.44,
+      "word": "E"
+    },
+    {
+      "start": 62.44,
+      "end": 62.54,
+      "word": "se"
+    },
+    {
+      "start": 62.54,
+      "end": 62.68,
+      "word": "avete"
+    },
+    {
+      "start": 62.68,
+      "end": 62.94,
+      "word": "voglia"
+    },
+    {
+      "start": 62.94,
+      "end": 63.02,
+      "word": "di"
+    },
+    {
+      "start": 63.02,
+      "end": 63.48,
+      "word": "migliorarvi"
+    },
+    {
+      "start": 63.48,
+      "end": 63.58,
+      "word": "anche"
+    },
+    {
+      "start": 63.58,
+      "end": 63.86,
+      "word": "voi"
+    },
+    {
+      "start": 63.86,
+      "end": 64.02,
+      "word": "e"
+    },
+    {
+      "start": 64.02,
+      "end": 64.18,
+      "word": "avete"
+    },
+    {
+      "start": 64.18,
+      "end": 64.6,
+      "word": "bisogno"
+    },
+    {
+      "start": 64.6,
+      "end": 64.68,
+      "word": "di"
+    },
+    {
+      "start": 64.68,
+      "end": 64.72,
+      "word": "un"
+    },
+    {
+      "start": 64.72,
+      "end": 64.82,
+      "word": "po'"
+    },
+    {
+      "start": 64.88,
+      "end": 64.88,
+      "word": "di"
+    },
+    {
+      "start": 64.88,
+      "end": 65.4,
+      "word": "motivazione"
+    },
+    {
+      "start": 65.4,
+      "end": 65.76,
+      "word": "iniziata"
+    },
+    {
+      "start": 65.76,
+      "end": 65.84,
+      "word": "a"
+    },
+    {
+      "start": 65.84,
+      "end": 66.3,
+      "word": "seguirmi"
+    },
+    {
+      "start": 66.3,
+      "end": 66.76,
+      "word": "che"
+    },
+    {
+      "start": 66.76,
+      "end": 66.86,
+      "word": "ci"
+    },
+    {
+      "start": 66.86,
+      "end": 67.26,
+      "word": "motiviamo"
+    },
+    {
+      "start": 67.26,
+      "end": 67.68,
+      "word": "insieme."
+    }
+  ],
+  "aligned": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.667,
+      "dur": 3.667,
+      "transcript": "Nuova giornata e oggi esiste solo una singola parola, produttività."
+    },
+    {
+      "idx": 1,
+      "start": 3.667,
+      "end": 4.733,
+      "dur": 1.067,
+      "transcript": "Iniziamo la giornata con un"
+    },
+    {
+      "idx": 2,
+      "start": 4.733,
+      "end": 5.733,
+      "dur": 1.0,
+      "transcript": "paio di flip del pancake"
+    },
+    {
+      "idx": 3,
+      "start": 5.733,
+      "end": 7.567,
+      "dur": 1.833,
+      "transcript": "protéico che non può mai mancare la mattina"
+    },
+    {
+      "idx": 4,
+      "start": 7.567,
+      "end": 9.567,
+      "dur": 2.0,
+      "transcript": "e ovviamente si va subito a recuperare il leg day"
+    },
+    {
+      "idx": 5,
+      "start": 9.567,
+      "end": 11.567,
+      "dur": 2.0,
+      "transcript": "che ieri abbiamo purtroppo perso. In questa faccia un"
+    },
+    {
+      "idx": 6,
+      "start": 11.567,
+      "end": 12.233,
+      "dur": 0.667,
+      "transcript": "post paventata,"
+    },
+    {
+      "idx": 7,
+      "start": 12.233,
+      "end": 13.533,
+      "dur": 1.3,
+      "transcript": "sono entrato in gym e ho iniziato"
+    },
+    {
+      "idx": 8,
+      "start": 13.533,
+      "end": 16.0,
+      "dur": 2.467,
+      "transcript": "proprio da lui, dalla squat. E devo dire che l 'alimento"
+    },
+    {
+      "idx": 9,
+      "start": 16.0,
+      "end": 17.6,
+      "dur": 1.6,
+      "transcript": "è andato anche abbastanza bene, ho spinto per"
+    },
+    {
+      "idx": 10,
+      "start": 17.6,
+      "end": 19.1,
+      "dur": 1.5,
+      "transcript": "bene. Post workout, continuiamo"
+    },
+    {
+      "idx": 11,
+      "start": 19.1,
+      "end": 24.067,
+      "dur": 4.967,
+      "transcript": "il nostro percorso di dieta di cat con un bel riso venere tonno e poi si va a studiare in"
+    },
+    {
+      "idx": 12,
+      "start": 24.067,
+      "end": 27.733,
+      "dur": 3.667,
+      "transcript": "biblioteca. Se oggi ero veramente ispirato e mi sono dato pure allo studio in biblioteca."
+    },
+    {
+      "idx": 13,
+      "start": 27.733,
+      "end": 29.033,
+      "dur": 1.3,
+      "transcript": "Il luogo dove al posto dell 'acqua"
+    },
+    {
+      "idx": 14,
+      "start": 29.033,
+      "end": 36.533,
+      "dur": 7.5,
+      "transcript": "si beve produttività praticamente. Dopo un paio di ore di studio buone con qualche interruzione perché ho uscito tra l 'altro il voto dell 'esame di ieri ma la siamo"
+    },
+    {
+      "idx": 15,
+      "start": 36.533,
+      "end": 42.6,
+      "dur": 6.067,
+      "transcript": "perde. Sì, l 'ultimo torno a cazzo e continuo a studiare perché avevo qualche slide da finire. Anche perché ho ancora tre esami e uno probabilmente lo dovrò anche ridare. Qui infatti"
+    },
+    {
+      "idx": 16,
+      "start": 42.6,
+      "end": 46.6,
+      "dur": 4.0,
+      "transcript": "potete vedere degli attimi di sconforto pensando a questi esami ma noi vogliamo diventare come"
+    },
+    {
+      "idx": 17,
+      "start": 46.6,
+      "end": 48.633,
+      "dur": 2.033,
+      "transcript": "i dii della produttività e quindi non ci facciamo"
+    },
+    {
+      "idx": 18,
+      "start": 48.633,
+      "end": 51.6,
+      "dur": 2.967,
+      "transcript": "scoraggiare. E anzi ci infiliamo pure un momento lettura, perché era da un po'"
+    },
+    {
+      "idx": 19,
+      "start": 51.6,
+      "end": 54.633,
+      "dur": 3.033,
+      "transcript": "che non leggevo e perché io non mi vuole recuperare un po' di pagine. C 'è una bella"
+    },
+    {
+      "idx": 20,
+      "start": 54.633,
+      "end": 59.333,
+      "dur": 4.7,
+      "transcript": "proteica, bella ricadica di carbidrati per rintegliare tutte le energie usate in legday e via."
+    },
+    {
+      "idx": 21,
+      "start": 59.333,
+      "end": 61.133,
+      "dur": 1.8,
+      "transcript": "Dai, giornato abbastanza produttivo oggi ma"
+    },
+    {
+      "idx": 22,
+      "start": 61.133,
+      "end": 62.3,
+      "dur": 1.167,
+      "transcript": "possiamo fare di meglio."
+    },
+    {
+      "idx": 23,
+      "start": 62.3,
+      "end": 67.933,
+      "dur": 5.633,
+      "transcript": "E se avete voglia di migliorarvi anche voi e avete bisogno di un po' di motivazione iniziata a seguirmi che ci motiviamo insieme."
+    }
+  ],
+  "full_text": "Nuova giornata e oggi esiste solo una singola parola, produttività. Iniziamo la giornata con un paio di flip del pancake protéico che non può mai mancare la mattina e ovviamente si va subito a recuperare il leg day che ieri abbiamo purtroppo perso. In questa faccia un post paventata, sono entrato in gym e ho iniziato proprio da lui, dalla squat. E devo dire che l'alimento è andato anche abbastanza bene, ho spinto per bene. Post workout, continuiamo il nostro percorso di dieta di cat con un bel riso venere tonno e poi si va a studiare in biblioteca. Se oggi ero veramente ispirato e mi sono dato pure allo studio in biblioteca. Il luogo dove al posto dell'acqua si beve produttività praticamente. Dopo un paio di ore di studio buone con qualche interruzione perché ho uscito tra l'altro il voto dell'esame di ieri ma la siamo perde. Sì, l'ultimo torno a cazzo e continuo a studiare perché avevo qualche slide da finire. Anche perché ho ancora tre esami e uno probabilmente lo dovrò anche ridare. Qui infatti potete vedere degli attimi di sconforto pensando a questi esami ma noi vogliamo diventare come i dii della produttività e quindi non ci facciamo scoraggiare. E anzi ci infiliamo pure un momento lettura, perché era da un po' che non leggevo e perché io non mi vuole recuperare un po' di pagine. C'è una bella proteica, bella ricadica di carbidrati per rintegliare tutte le energie usate in legday e via. Dai, giornato abbastanza produttivo oggi ma possiamo fare di meglio. E se avete voglia di migliorarvi anche voi e avete bisogno di un po' di motivazione iniziata a seguirmi che ci motiviamo insieme.",
+  "analyzed_at": "2026-09-20T22:35:26"
+}

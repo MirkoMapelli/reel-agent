@@ -1,0 +1,2895 @@
+{
+  "video_id": "7537081365808942358",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7537081365808942358",
+    "ref_id": "ref_73_7537081365808942358",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7537081365808942358",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 29,
+  "total_dur": 89.33,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "role": "food_closeup",
+      "subject": "panino pesce fritto",
+      "description": "Un panino ripieno di pesce fritto e verdure è tenuto in primo piano dalle mani di una persona.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Un fast food di pesce fresco, oggi ragazzi"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 4.433,
+      "dur": 2.4,
+      "center": 3.233,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Un ragazzo sta addentando un panino con espressione concentrata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "siamo da Pescaria, a provare i loro nuovi panini del"
+    },
+    {
+      "idx": 2,
+      "start": 4.433,
+      "end": 8.4,
+      "dur": 3.967,
+      "center": 6.417,
+      "role": "food_plated",
+      "subject": "tanti panini confezionati",
+      "description": "Diversi panini sono disposti in contenitori di cartone su un tavolo, con una persona seduta dietro.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "menu in collaborazione con lo chef da una stella Michelin, Peppe Guida. Pescaria è appunto"
+    },
+    {
+      "idx": 3,
+      "start": 8.4,
+      "end": 10.6,
+      "dur": 2.2,
+      "center": 9.5,
+      "role": "venue_exterior",
+      "subject": "facciata ristorante Pescari",
+      "description": "L'esterno di un ristorante chiamato 'PESCARIA' con grandi vetrate e decorazioni a tema marino.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "una catena di ristoranti che con un format"
+    },
+    {
+      "idx": 4,
+      "start": 10.6,
+      "end": 14.067,
+      "dur": 3.467,
+      "center": 12.333,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante Pescari",
+      "description": "L'interno di un ristorante con tavoli alti, sgabelli, un bancone e un menu esposto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "assimil fast food serve veri e propri piatti e panini con del pesce freschissimo."
+    },
+    {
+      "idx": 5,
+      "start": 14.067,
+      "end": 17.833,
+      "dur": 3.767,
+      "center": 15.95,
+      "role": "food_plated",
+      "subject": "panini in confezioni",
+      "description": "Molti panini in confezioni di carta su un tavolo.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "E questi ragazzi sono in 5 panini che ho provato quest 'oggi. Partendo dal polperone"
+    },
+    {
+      "idx": 6,
+      "start": 17.833,
+      "end": 20.067,
+      "dur": 2.233,
+      "center": 18.95,
+      "role": "food_detail",
+      "subject": "panino al polpo",
+      "description": "Un panino farcito con polpo e verdure tenuto da mani.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "che è questo panino con polpo fritto, mozzarella"
+    },
+    {
+      "idx": 7,
+      "start": 20.067,
+      "end": 29.033,
+      "dur": 8.967,
+      "center": 24.55,
+      "role": "person_eating",
+      "subject": "ragazzo che guarda panino",
+      "description": "Un ragazzo che tiene un panino e lo guarda con attenzione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fumicata, pesto di basilico e peperoni conditi con oliva e capperi. Ragazzi, un 'esplosione di sapori con la consenza del polpo fritto perfetta, ovviamente non un panino leggerissimo ma direi che si inizia"
+    },
+    {
+      "idx": 8,
+      "start": 29.033,
+      "end": 30.633,
+      "dur": 1.6,
+      "center": 29.833,
+      "role": "person_eating",
+      "subject": "ragazzo con panino",
+      "description": "Il ragazzo guarda in camera mentre tiene il panino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "col botto. Siamo compassati al"
+    },
+    {
+      "idx": 9,
+      "start": 30.633,
+      "end": 32.8,
+      "dur": 2.167,
+      "center": 31.717,
+      "role": "food_detail",
+      "subject": "panino al filetto",
+      "description": "Un panino farcito con filetto e patatine fritte.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "cotoletta di pesce con filetto di merluzzo con panatura"
+    },
+    {
+      "idx": 10,
+      "start": 32.8,
+      "end": 38.233,
+      "dur": 5.433,
+      "center": 35.517,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo sta addentando un panino con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "croccante, chips di patate, lattughino, maionese fumé e pesto di basilico. Questo ovviamente con sapori in"
+    },
+    {
+      "idx": 11,
+      "start": 38.233,
+      "end": 40.533,
+      "dur": 2.3,
+      "center": 39.383,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo ha la bocca piena e gli occhi leggermente socchiusi mentre mangia.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "realtà più delicati ma assolutamente bilanciati. Come terzo"
+    },
+    {
+      "idx": 12,
+      "start": 40.533,
+      "end": 42.467,
+      "dur": 1.933,
+      "center": 41.5,
+      "role": "food_detail",
+      "subject": "panino farcito mani",
+      "description": "Le mani tengono un panino ben farcito con carne, formaggio e spinaci.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "panino ragazzi arriviamo al mio preferito, il"
+    },
+    {
+      "idx": 13,
+      "start": 42.467,
+      "end": 45.267,
+      "dur": 2.8,
+      "center": 43.867,
+      "role": "food_detail",
+      "subject": "panino farcito aperto",
+      "description": "Il panino è aperto, mostrando chiaramente gli ingredienti interni come carne, spinaci e formaggio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "tatacchi di tonno. Disponibile tra l 'altro ho anche in versione piatto, è"
+    },
+    {
+      "idx": 14,
+      "start": 45.267,
+      "end": 48.733,
+      "dur": 3.467,
+      "center": 47.0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo sta addentando il panino con un'espressione di soddisfazione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "composto da filetto di tonno leggermente piastrato, spinacino condito con"
+    },
+    {
+      "idx": 15,
+      "start": 48.733,
+      "end": 51.133,
+      "dur": 2.4,
+      "center": 49.933,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Un ragazzo tiene un panino farcito con tonno e verdure, pronto per addentarlo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "vina greta, maionese e pesto pomodoro secco,"
+    },
+    {
+      "idx": 16,
+      "start": 51.133,
+      "end": 54.4,
+      "dur": 3.267,
+      "center": 52.767,
+      "role": "person_eating",
+      "subject": "ragazzo addenta panino",
+      "description": "Il ragazzo sta addentando il panino con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "formaggio caprino, pancetta e semi di zucca. Cottura del tonno"
+    },
+    {
+      "idx": 17,
+      "start": 54.4,
+      "end": 56.9,
+      "dur": 2.5,
+      "center": 55.65,
+      "role": "food_closeup",
+      "subject": "panino farcito verdure",
+      "description": "Un panino farcito con abbondante insalata, formaggio e cipolla rossa è tenuto in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "perfetta, maionese che insieme la vina greta creavano praticamente una"
+    },
+    {
+      "idx": 18,
+      "start": 56.9,
+      "end": 60.133,
+      "dur": 3.233,
+      "center": 58.517,
+      "role": "food_closeup",
+      "subject": "panino farcito salumi",
+      "description": "Il panino è aperto mostrando fette di salume, insalata e una salsa verde.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "terza salsa perfetta. Quarto panino abbiamo salmone e capocollo,"
+    },
+    {
+      "idx": 19,
+      "start": 60.133,
+      "end": 63.3,
+      "dur": 3.167,
+      "center": 61.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo sta mangiando il panino con un'espressione di gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "che è sicuramente l 'accostamento più strano, ma anche decisamente di noi più"
+    },
+    {
+      "idx": 20,
+      "start": 63.3,
+      "end": 66.1,
+      "dur": 2.8,
+      "center": 64.7,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Un ragazzo morde con gusto un panino, con la scritta 'TARTARE' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "interessanti. Ovviamente con tartar di salmone, misticanza, condito"
+    },
+    {
+      "idx": 21,
+      "start": 66.1,
+      "end": 67.767,
+      "dur": 1.667,
+      "center": 66.933,
+      "role": "person_eating",
+      "subject": "ragazzo tiene panino",
+      "description": "Il ragazzo tiene il panino tra le mani, con un'espressione neutra e la scritta 'PE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "con vina greta e pesto al basilico,"
+    },
+    {
+      "idx": 22,
+      "start": 67.767,
+      "end": 70.0,
+      "dur": 2.233,
+      "center": 68.883,
+      "role": "food_detail",
+      "subject": "panino con capocollo",
+      "description": "Un panino farcito con capocollo, pomodoro e salsa verde è tenuto in primo piano, con la scritta 'CAPOCOLLO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fiordilate e capocollo. Ultimissimo panino salato"
+    },
+    {
+      "idx": 23,
+      "start": 70.0,
+      "end": 72.967,
+      "dur": 2.967,
+      "center": 71.483,
+      "role": "food_detail",
+      "subject": "panino con calamaro",
+      "description": "Un panino aperto mostra il ripieno di calamari, pomodoro e salsa, con la scritta 'CALAMARO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "è il calamarero con calamaro o zucca, ricotta di bufa, la"
+    },
+    {
+      "idx": 24,
+      "start": 72.967,
+      "end": 76.533,
+      "dur": 3.567,
+      "center": 74.75,
+      "role": "person_eating",
+      "subject": "ragazzo morde panino",
+      "description": "Il ragazzo morde nuovamente il panino, con un'espressione concentrata e la scritta 'BASILICO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "pomodoro ed ovviamente il nostro solito basilico che ci sta sempre benissimo in questi"
+    },
+    {
+      "idx": 25,
+      "start": 76.533,
+      "end": 79.1,
+      "dur": 2.567,
+      "center": 77.817,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo guarda in camera mentre addenta un panino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "panini. Considerando chiamo sia i calamari che la zucca,"
+    },
+    {
+      "idx": 26,
+      "start": 79.1,
+      "end": 86.767,
+      "dur": 7.667,
+      "center": 82.933,
+      "role": "person_eating",
+      "subject": "ragazzo tiene panino",
+      "description": "Il ragazzo tiene un panino con le mani, guardandolo attentamente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "provalli insieme è stata una bella scoperta. Infine piccola chicchetta dolce per concludere il pasto, panino dolce con burro marbellata e scalli di cioccolato. Insomma ragazzi fidati che questi"
+    },
+    {
+      "idx": 27,
+      "start": 86.767,
+      "end": 89.1,
+      "dur": 2.333,
+      "center": 87.933,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo ha gli occhi chiusi mentre mastica un boccone di panino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "panini sono delle chicchette che non potete perdervi."
+    },
+    {
+      "idx": 28,
+      "start": 89.1,
+      "end": 89.333,
+      "dur": 0.233,
+      "center": 89.217,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Lo schermo è completamente nero.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino pesce fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino ripieno di pesce fritto e verdure è tenuto in primo piano dalle mani di una persona.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta addentando un panino con espressione concentrata.",
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.433,
+      "dur": 2.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "tanti panini confezionati",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Diversi panini sono disposti in contenitori di cartone su un tavolo, con una persona seduta dietro.",
+      "shot_idx": 2,
+      "start": 4.433,
+      "end": 8.4,
+      "dur": 3.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "facciata ristorante Pescari",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'esterno di un ristorante chiamato 'PESCARIA' con grandi vetrate e decorazioni a tema marino.",
+      "shot_idx": 3,
+      "start": 8.4,
+      "end": 10.6,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante Pescari",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'interno di un ristorante con tavoli alti, sgabelli, un bancone e un menu esposto.",
+      "shot_idx": 4,
+      "start": 10.6,
+      "end": 14.067,
+      "dur": 3.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "panini in confezioni",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Molti panini in confezioni di carta su un tavolo.",
+      "shot_idx": 5,
+      "start": 14.067,
+      "end": 17.833,
+      "dur": 3.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "panino al polpo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino farcito con polpo e verdure tenuto da mani.",
+      "shot_idx": 6,
+      "start": 17.833,
+      "end": 20.067,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che guarda panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo che tiene un panino e lo guarda con attenzione.",
+      "shot_idx": 7,
+      "start": 20.067,
+      "end": 29.033,
+      "dur": 8.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda in camera mentre tiene il panino.",
+      "shot_idx": 8,
+      "start": 29.033,
+      "end": 30.633,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "panino al filetto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino farcito con filetto e patatine fritte.",
+      "shot_idx": 9,
+      "start": 30.633,
+      "end": 32.8,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando un panino con espressione concentrata.",
+      "shot_idx": 10,
+      "start": 32.8,
+      "end": 38.233,
+      "dur": 5.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha la bocca piena e gli occhi leggermente socchiusi mentre mangia.",
+      "shot_idx": 11,
+      "start": 38.233,
+      "end": 40.533,
+      "dur": 2.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "panino farcito mani",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Le mani tengono un panino ben farcito con carne, formaggio e spinaci.",
+      "shot_idx": 12,
+      "start": 40.533,
+      "end": 42.467,
+      "dur": 1.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "panino farcito aperto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il panino è aperto, mostrando chiaramente gli ingredienti interni come carne, spinaci e formaggio.",
+      "shot_idx": 13,
+      "start": 42.467,
+      "end": 45.267,
+      "dur": 2.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando il panino con un'espressione di soddisfazione.",
+      "shot_idx": 14,
+      "start": 45.267,
+      "end": 48.733,
+      "dur": 3.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene un panino farcito con tonno e verdure, pronto per addentarlo.",
+      "shot_idx": 15,
+      "start": 48.733,
+      "end": 51.133,
+      "dur": 2.4
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando il panino con espressione concentrata.",
+      "shot_idx": 16,
+      "start": 51.133,
+      "end": 54.4,
+      "dur": 3.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino farcito verdure",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino farcito con abbondante insalata, formaggio e cipolla rossa è tenuto in primo piano.",
+      "shot_idx": 17,
+      "start": 54.4,
+      "end": 56.9,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino farcito salumi",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il panino è aperto mostrando fette di salume, insalata e una salsa verde.",
+      "shot_idx": 18,
+      "start": 56.9,
+      "end": 60.133,
+      "dur": 3.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando il panino con un'espressione di gusto.",
+      "shot_idx": 19,
+      "start": 60.133,
+      "end": 63.3,
+      "dur": 3.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo morde con gusto un panino, con la scritta 'TARTARE' in sovrimpressione.",
+      "shot_idx": 20,
+      "start": 63.3,
+      "end": 66.1,
+      "dur": 2.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene il panino tra le mani, con un'espressione neutra e la scritta 'PE' in sovrimpressione.",
+      "shot_idx": 21,
+      "start": 66.1,
+      "end": 67.767,
+      "dur": 1.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "panino con capocollo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino farcito con capocollo, pomodoro e salsa verde è tenuto in primo piano, con la scritta 'CAPOCOLLO' in sovrimpressione.",
+      "shot_idx": 22,
+      "start": 67.767,
+      "end": 70.0,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "panino con calamaro",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino aperto mostra il ripieno di calamari, pomodoro e salsa, con la scritta 'CALAMARO' in sovrimpressione.",
+      "shot_idx": 23,
+      "start": 70.0,
+      "end": 72.967,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo morde panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo morde nuovamente il panino, con un'espressione concentrata e la scritta 'BASILICO' in sovrimpressione.",
+      "shot_idx": 24,
+      "start": 72.967,
+      "end": 76.533,
+      "dur": 3.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda in camera mentre addenta un panino.",
+      "shot_idx": 25,
+      "start": 76.533,
+      "end": 79.1,
+      "dur": 2.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene un panino con le mani, guardandolo attentamente.",
+      "shot_idx": 26,
+      "start": 79.1,
+      "end": 86.767,
+      "dur": 7.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha gli occhi chiusi mentre mastica un boccone di panino.",
+      "shot_idx": 27,
+      "start": 86.767,
+      "end": 89.1,
+      "dur": 2.333
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo schermo è completamente nero.",
+      "shot_idx": 28,
+      "start": 89.1,
+      "end": 89.333,
+      "dur": 0.233
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Un fast food di pesce fresco, oggi ragazzi siamo da Pescaria, a provare i loro nuovi panini"
+    },
+    {
+      "start": 4.3,
+      "end": 7.78,
+      "text": "del menu in collaborazione con lo chef da una stella Michelin, Peppe Guida."
+    },
+    {
+      "start": 7.84,
+      "end": 11.74,
+      "text": "Pescaria è appunto una catena di ristoranti che con un format assimil fast food serve"
+    },
+    {
+      "start": 11.74,
+      "end": 14.2,
+      "text": "veri e propri piatti e panini con del pesce freschissimo."
+    },
+    {
+      "start": 14.24,
+      "end": 16.64,
+      "text": "E questi ragazzi sono in 5 panini che ho provato quest'oggi."
+    },
+    {
+      "start": 16.7,
+      "end": 20.9,
+      "text": "Partendo dal polperone che è questo panino con polpo fritto, mozzarella fumicata, pesto"
+    },
+    {
+      "start": 20.9,
+      "end": 23.3,
+      "text": "di basilico e peperoni conditi con oliva e capperi."
+    },
+    {
+      "start": 23.34,
+      "end": 26.74,
+      "text": "Ragazzi, un'esplosione di sapori con la consenza del polpo fritto perfetta,"
+    },
+    {
+      "start": 26.84,
+      "end": 29.66,
+      "text": "ovviamente non un panino leggerissimo ma direi che si inizia col botto."
+    },
+    {
+      "start": 29.66,
+      "end": 33.46,
+      "text": "Siamo compassati al cotoletta di pesce con filetto di merluzzo con panatura croccante,"
+    },
+    {
+      "start": 33.6,
+      "end": 37.1,
+      "text": "chips di patate, lattughino, maionese fumé e pesto di basilico."
+    },
+    {
+      "start": 37.16,
+      "end": 40.12,
+      "text": "Questo ovviamente con sapori in realtà più delicati ma assolutamente bilanciati."
+    },
+    {
+      "start": 40.24,
+      "end": 43.18,
+      "text": "Come terzo panino ragazzi arriviamo al mio preferito, il tatacchi di tonno."
+    },
+    {
+      "start": 43.24,
+      "end": 45.0,
+      "text": "Disponibile tra l'altro ho anche in versione piatto,"
+    },
+    {
+      "start": 45.22,
+      "end": 47.62,
+      "text": "è composto da filetto di tonno leggermente piastrato,"
+    },
+    {
+      "start": 47.82,
+      "end": 51.06,
+      "text": "spinacino condito con vina greta, maionese e pesto pomodoro secco,"
+    },
+    {
+      "start": 51.14,
+      "end": 53.42,
+      "text": "formaggio caprino, pancetta e semi di zucca."
+    },
+    {
+      "start": 53.52,
+      "end": 56.32,
+      "text": "Cottura del tonno perfetta, maionese che insieme la vina greta creavano"
+    },
+    {
+      "start": 56.32,
+      "end": 58.1,
+      "text": "praticamente una terza salsa perfetta."
+    },
+    {
+      "start": 58.1,
+      "end": 60.04,
+      "text": "Quarto panino abbiamo salmone e capocollo,"
+    },
+    {
+      "start": 60.14,
+      "end": 61.7,
+      "text": "che è sicuramente l'accostamento più strano,"
+    },
+    {
+      "start": 61.78,
+      "end": 63.62,
+      "text": "ma anche decisamente di noi più interessanti."
+    },
+    {
+      "start": 63.74,
+      "end": 65.8,
+      "text": "Ovviamente con tartar di salmone, misticanza,"
+    },
+    {
+      "start": 65.9,
+      "end": 68.86,
+      "text": "condito con vina greta e pesto al basilico, fiordilate e capocollo."
+    },
+    {
+      "start": 69.08,
+      "end": 72.08,
+      "text": "Ultimissimo panino salato è il calamarero con calamaro o zucca,"
+    },
+    {
+      "start": 72.22,
+      "end": 75.08,
+      "text": "ricotta di bufa, la pomodoro ed ovviamente il nostro solito basilico"
+    },
+    {
+      "start": 75.08,
+      "end": 76.86,
+      "text": "che ci sta sempre benissimo in questi panini."
+    },
+    {
+      "start": 77.0,
+      "end": 78.9,
+      "text": "Considerando chiamo sia i calamari che la zucca,"
+    },
+    {
+      "start": 78.98,
+      "end": 80.38,
+      "text": "provalli insieme è stata una bella scoperta."
+    },
+    {
+      "start": 80.42,
+      "end": 82.74,
+      "text": "Infine piccola chicchetta dolce per concludere il pasto,"
+    },
+    {
+      "start": 82.8,
+      "end": 85.54,
+      "text": "panino dolce con burro marbellata e scalli di cioccolato."
+    },
+    {
+      "start": 85.54,
+      "end": 88.04,
+      "text": "Insomma ragazzi fidati che questi panini sono delle chicchette"
+    },
+    {
+      "start": 88.04,
+      "end": 89.04,
+      "text": "che non potete perdervi."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": "Un"
+    },
+    {
+      "start": 0.2,
+      "end": 0.38,
+      "word": "fast"
+    },
+    {
+      "start": 0.38,
+      "end": 0.66,
+      "word": "food"
+    },
+    {
+      "start": 0.66,
+      "end": 0.86,
+      "word": "di"
+    },
+    {
+      "start": 0.86,
+      "end": 1.1,
+      "word": "pesce"
+    },
+    {
+      "start": 1.1,
+      "end": 1.58,
+      "word": "fresco,"
+    },
+    {
+      "start": 1.66,
+      "end": 1.8,
+      "word": "oggi"
+    },
+    {
+      "start": 1.8,
+      "end": 2.08,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.08,
+      "end": 2.26,
+      "word": "siamo"
+    },
+    {
+      "start": 2.26,
+      "end": 2.42,
+      "word": "da"
+    },
+    {
+      "start": 2.42,
+      "end": 2.9,
+      "word": "Pescaria,"
+    },
+    {
+      "start": 3.18,
+      "end": 3.2,
+      "word": "a"
+    },
+    {
+      "start": 3.2,
+      "end": 3.52,
+      "word": "provare"
+    },
+    {
+      "start": 3.52,
+      "end": 3.62,
+      "word": "i"
+    },
+    {
+      "start": 3.62,
+      "end": 3.68,
+      "word": "loro"
+    },
+    {
+      "start": 3.68,
+      "end": 3.98,
+      "word": "nuovi"
+    },
+    {
+      "start": 3.98,
+      "end": 4.3,
+      "word": "panini"
+    },
+    {
+      "start": 4.3,
+      "end": 4.52,
+      "word": "del"
+    },
+    {
+      "start": 4.52,
+      "end": 4.76,
+      "word": "menu"
+    },
+    {
+      "start": 4.76,
+      "end": 4.94,
+      "word": "in"
+    },
+    {
+      "start": 4.94,
+      "end": 5.44,
+      "word": "collaborazione"
+    },
+    {
+      "start": 5.44,
+      "end": 5.62,
+      "word": "con"
+    },
+    {
+      "start": 5.62,
+      "end": 5.74,
+      "word": "lo"
+    },
+    {
+      "start": 5.74,
+      "end": 5.96,
+      "word": "chef"
+    },
+    {
+      "start": 5.96,
+      "end": 6.12,
+      "word": "da"
+    },
+    {
+      "start": 6.12,
+      "end": 6.26,
+      "word": "una"
+    },
+    {
+      "start": 6.26,
+      "end": 6.5,
+      "word": "stella"
+    },
+    {
+      "start": 6.5,
+      "end": 7.04,
+      "word": "Michelin,"
+    },
+    {
+      "start": 7.16,
+      "end": 7.42,
+      "word": "Peppe"
+    },
+    {
+      "start": 7.42,
+      "end": 7.78,
+      "word": "Guida."
+    },
+    {
+      "start": 7.84,
+      "end": 8.1,
+      "word": "Pescaria"
+    },
+    {
+      "start": 8.1,
+      "end": 8.26,
+      "word": "è"
+    },
+    {
+      "start": 8.26,
+      "end": 8.38,
+      "word": "appunto"
+    },
+    {
+      "start": 8.38,
+      "end": 8.58,
+      "word": "una"
+    },
+    {
+      "start": 8.58,
+      "end": 8.92,
+      "word": "catena"
+    },
+    {
+      "start": 8.92,
+      "end": 9.08,
+      "word": "di"
+    },
+    {
+      "start": 9.08,
+      "end": 9.6,
+      "word": "ristoranti"
+    },
+    {
+      "start": 9.6,
+      "end": 9.92,
+      "word": "che"
+    },
+    {
+      "start": 9.92,
+      "end": 10.1,
+      "word": "con"
+    },
+    {
+      "start": 10.1,
+      "end": 10.24,
+      "word": "un"
+    },
+    {
+      "start": 10.24,
+      "end": 10.5,
+      "word": "format"
+    },
+    {
+      "start": 10.5,
+      "end": 10.98,
+      "word": "assimil"
+    },
+    {
+      "start": 10.98,
+      "end": 11.16,
+      "word": "fast"
+    },
+    {
+      "start": 11.16,
+      "end": 11.48,
+      "word": "food"
+    },
+    {
+      "start": 11.48,
+      "end": 11.74,
+      "word": "serve"
+    },
+    {
+      "start": 11.74,
+      "end": 12.06,
+      "word": "veri"
+    },
+    {
+      "start": 12.06,
+      "end": 12.1,
+      "word": "e"
+    },
+    {
+      "start": 12.1,
+      "end": 12.24,
+      "word": "propri"
+    },
+    {
+      "start": 12.24,
+      "end": 12.64,
+      "word": "piatti"
+    },
+    {
+      "start": 12.64,
+      "end": 12.78,
+      "word": "e"
+    },
+    {
+      "start": 12.78,
+      "end": 13.06,
+      "word": "panini"
+    },
+    {
+      "start": 13.06,
+      "end": 13.28,
+      "word": "con"
+    },
+    {
+      "start": 13.28,
+      "end": 13.4,
+      "word": "del"
+    },
+    {
+      "start": 13.4,
+      "end": 13.66,
+      "word": "pesce"
+    },
+    {
+      "start": 13.66,
+      "end": 14.2,
+      "word": "freschissimo."
+    },
+    {
+      "start": 14.24,
+      "end": 14.28,
+      "word": "E"
+    },
+    {
+      "start": 14.28,
+      "end": 14.46,
+      "word": "questi"
+    },
+    {
+      "start": 14.46,
+      "end": 14.74,
+      "word": "ragazzi"
+    },
+    {
+      "start": 14.74,
+      "end": 14.92,
+      "word": "sono"
+    },
+    {
+      "start": 14.92,
+      "end": 15.04,
+      "word": "in"
+    },
+    {
+      "start": 15.04,
+      "end": 15.24,
+      "word": "5"
+    },
+    {
+      "start": 15.24,
+      "end": 15.62,
+      "word": "panini"
+    },
+    {
+      "start": 15.62,
+      "end": 15.74,
+      "word": "che"
+    },
+    {
+      "start": 15.74,
+      "end": 15.82,
+      "word": "ho"
+    },
+    {
+      "start": 15.82,
+      "end": 16.1,
+      "word": "provato"
+    },
+    {
+      "start": 16.1,
+      "end": 16.3,
+      "word": "quest"
+    },
+    {
+      "start": 16.3,
+      "end": 16.64,
+      "word": "'oggi."
+    },
+    {
+      "start": 16.7,
+      "end": 16.9,
+      "word": "Partendo"
+    },
+    {
+      "start": 16.9,
+      "end": 17.14,
+      "word": "dal"
+    },
+    {
+      "start": 17.14,
+      "end": 17.78,
+      "word": "polperone"
+    },
+    {
+      "start": 17.78,
+      "end": 17.92,
+      "word": "che"
+    },
+    {
+      "start": 17.92,
+      "end": 17.98,
+      "word": "è"
+    },
+    {
+      "start": 17.98,
+      "end": 18.18,
+      "word": "questo"
+    },
+    {
+      "start": 18.18,
+      "end": 18.58,
+      "word": "panino"
+    },
+    {
+      "start": 18.58,
+      "end": 18.82,
+      "word": "con"
+    },
+    {
+      "start": 18.82,
+      "end": 19.14,
+      "word": "polpo"
+    },
+    {
+      "start": 19.14,
+      "end": 19.5,
+      "word": "fritto,"
+    },
+    {
+      "start": 19.6,
+      "end": 19.84,
+      "word": "mozzarella"
+    },
+    {
+      "start": 19.84,
+      "end": 20.34,
+      "word": "fumicata,"
+    },
+    {
+      "start": 20.62,
+      "end": 20.9,
+      "word": "pesto"
+    },
+    {
+      "start": 20.9,
+      "end": 21.06,
+      "word": "di"
+    },
+    {
+      "start": 21.06,
+      "end": 21.56,
+      "word": "basilico"
+    },
+    {
+      "start": 21.56,
+      "end": 21.7,
+      "word": "e"
+    },
+    {
+      "start": 21.7,
+      "end": 22.12,
+      "word": "peperoni"
+    },
+    {
+      "start": 22.12,
+      "end": 22.42,
+      "word": "conditi"
+    },
+    {
+      "start": 22.42,
+      "end": 22.62,
+      "word": "con"
+    },
+    {
+      "start": 22.62,
+      "end": 22.84,
+      "word": "oliva"
+    },
+    {
+      "start": 22.84,
+      "end": 22.98,
+      "word": "e"
+    },
+    {
+      "start": 22.98,
+      "end": 23.3,
+      "word": "capperi."
+    },
+    {
+      "start": 23.34,
+      "end": 23.62,
+      "word": "Ragazzi,"
+    },
+    {
+      "start": 23.68,
+      "end": 23.74,
+      "word": "un"
+    },
+    {
+      "start": 23.74,
+      "end": 24.18,
+      "word": "'esplosione"
+    },
+    {
+      "start": 24.18,
+      "end": 24.38,
+      "word": "di"
+    },
+    {
+      "start": 24.38,
+      "end": 24.72,
+      "word": "sapori"
+    },
+    {
+      "start": 24.72,
+      "end": 24.8,
+      "word": "con"
+    },
+    {
+      "start": 24.8,
+      "end": 24.9,
+      "word": "la"
+    },
+    {
+      "start": 24.9,
+      "end": 25.22,
+      "word": "consenza"
+    },
+    {
+      "start": 25.22,
+      "end": 25.46,
+      "word": "del"
+    },
+    {
+      "start": 25.46,
+      "end": 25.72,
+      "word": "polpo"
+    },
+    {
+      "start": 25.72,
+      "end": 26.02,
+      "word": "fritto"
+    },
+    {
+      "start": 26.02,
+      "end": 26.74,
+      "word": "perfetta,"
+    },
+    {
+      "start": 26.84,
+      "end": 27.06,
+      "word": "ovviamente"
+    },
+    {
+      "start": 27.06,
+      "end": 27.26,
+      "word": "non"
+    },
+    {
+      "start": 27.26,
+      "end": 27.38,
+      "word": "un"
+    },
+    {
+      "start": 27.38,
+      "end": 27.68,
+      "word": "panino"
+    },
+    {
+      "start": 27.68,
+      "end": 28.32,
+      "word": "leggerissimo"
+    },
+    {
+      "start": 28.32,
+      "end": 28.5,
+      "word": "ma"
+    },
+    {
+      "start": 28.5,
+      "end": 28.74,
+      "word": "direi"
+    },
+    {
+      "start": 28.74,
+      "end": 28.78,
+      "word": "che"
+    },
+    {
+      "start": 28.78,
+      "end": 28.9,
+      "word": "si"
+    },
+    {
+      "start": 28.9,
+      "end": 29.1,
+      "word": "inizia"
+    },
+    {
+      "start": 29.1,
+      "end": 29.24,
+      "word": "col"
+    },
+    {
+      "start": 29.24,
+      "end": 29.66,
+      "word": "botto."
+    },
+    {
+      "start": 29.66,
+      "end": 29.94,
+      "word": "Siamo"
+    },
+    {
+      "start": 29.94,
+      "end": 30.4,
+      "word": "compassati"
+    },
+    {
+      "start": 30.4,
+      "end": 30.56,
+      "word": "al"
+    },
+    {
+      "start": 30.56,
+      "end": 30.94,
+      "word": "cotoletta"
+    },
+    {
+      "start": 30.94,
+      "end": 31.12,
+      "word": "di"
+    },
+    {
+      "start": 31.12,
+      "end": 31.46,
+      "word": "pesce"
+    },
+    {
+      "start": 31.46,
+      "end": 31.66,
+      "word": "con"
+    },
+    {
+      "start": 31.66,
+      "end": 31.96,
+      "word": "filetto"
+    },
+    {
+      "start": 31.96,
+      "end": 32.1,
+      "word": "di"
+    },
+    {
+      "start": 32.1,
+      "end": 32.46,
+      "word": "merluzzo"
+    },
+    {
+      "start": 32.46,
+      "end": 32.6,
+      "word": "con"
+    },
+    {
+      "start": 32.6,
+      "end": 32.92,
+      "word": "panatura"
+    },
+    {
+      "start": 32.92,
+      "end": 33.46,
+      "word": "croccante,"
+    },
+    {
+      "start": 33.6,
+      "end": 33.82,
+      "word": "chips"
+    },
+    {
+      "start": 33.82,
+      "end": 34.0,
+      "word": "di"
+    },
+    {
+      "start": 34.0,
+      "end": 34.36,
+      "word": "patate,"
+    },
+    {
+      "start": 34.54,
+      "end": 35.0,
+      "word": "lattughino,"
+    },
+    {
+      "start": 35.18,
+      "end": 35.56,
+      "word": "maionese"
+    },
+    {
+      "start": 35.56,
+      "end": 35.98,
+      "word": "fumé"
+    },
+    {
+      "start": 35.98,
+      "end": 36.2,
+      "word": "e"
+    },
+    {
+      "start": 36.2,
+      "end": 36.46,
+      "word": "pesto"
+    },
+    {
+      "start": 36.46,
+      "end": 36.6,
+      "word": "di"
+    },
+    {
+      "start": 36.6,
+      "end": 37.1,
+      "word": "basilico."
+    },
+    {
+      "start": 37.16,
+      "end": 37.32,
+      "word": "Questo"
+    },
+    {
+      "start": 37.32,
+      "end": 37.58,
+      "word": "ovviamente"
+    },
+    {
+      "start": 37.58,
+      "end": 37.78,
+      "word": "con"
+    },
+    {
+      "start": 37.78,
+      "end": 38.12,
+      "word": "sapori"
+    },
+    {
+      "start": 38.12,
+      "end": 38.18,
+      "word": "in"
+    },
+    {
+      "start": 38.18,
+      "end": 38.34,
+      "word": "realtà"
+    },
+    {
+      "start": 38.34,
+      "end": 38.52,
+      "word": "più"
+    },
+    {
+      "start": 38.52,
+      "end": 38.98,
+      "word": "delicati"
+    },
+    {
+      "start": 38.98,
+      "end": 39.12,
+      "word": "ma"
+    },
+    {
+      "start": 39.12,
+      "end": 39.6,
+      "word": "assolutamente"
+    },
+    {
+      "start": 39.6,
+      "end": 40.12,
+      "word": "bilanciati."
+    },
+    {
+      "start": 40.24,
+      "end": 40.32,
+      "word": "Come"
+    },
+    {
+      "start": 40.32,
+      "end": 40.6,
+      "word": "terzo"
+    },
+    {
+      "start": 40.6,
+      "end": 40.94,
+      "word": "panino"
+    },
+    {
+      "start": 40.94,
+      "end": 41.32,
+      "word": "ragazzi"
+    },
+    {
+      "start": 41.32,
+      "end": 41.58,
+      "word": "arriviamo"
+    },
+    {
+      "start": 41.58,
+      "end": 41.74,
+      "word": "al"
+    },
+    {
+      "start": 41.74,
+      "end": 41.8,
+      "word": "mio"
+    },
+    {
+      "start": 41.8,
+      "end": 42.28,
+      "word": "preferito,"
+    },
+    {
+      "start": 42.28,
+      "end": 42.44,
+      "word": "il"
+    },
+    {
+      "start": 42.44,
+      "end": 42.78,
+      "word": "tatacchi"
+    },
+    {
+      "start": 42.78,
+      "end": 42.88,
+      "word": "di"
+    },
+    {
+      "start": 42.88,
+      "end": 43.18,
+      "word": "tonno."
+    },
+    {
+      "start": 43.24,
+      "end": 43.56,
+      "word": "Disponibile"
+    },
+    {
+      "start": 43.56,
+      "end": 43.78,
+      "word": "tra"
+    },
+    {
+      "start": 43.78,
+      "end": 43.88,
+      "word": "l"
+    },
+    {
+      "start": 43.88,
+      "end": 43.94,
+      "word": "'altro"
+    },
+    {
+      "start": 43.94,
+      "end": 44.06,
+      "word": "ho"
+    },
+    {
+      "start": 44.06,
+      "end": 44.16,
+      "word": "anche"
+    },
+    {
+      "start": 44.16,
+      "end": 44.26,
+      "word": "in"
+    },
+    {
+      "start": 44.26,
+      "end": 44.56,
+      "word": "versione"
+    },
+    {
+      "start": 44.56,
+      "end": 45.0,
+      "word": "piatto,"
+    },
+    {
+      "start": 45.22,
+      "end": 45.3,
+      "word": "è"
+    },
+    {
+      "start": 45.3,
+      "end": 45.62,
+      "word": "composto"
+    },
+    {
+      "start": 45.62,
+      "end": 45.74,
+      "word": "da"
+    },
+    {
+      "start": 45.74,
+      "end": 46.1,
+      "word": "filetto"
+    },
+    {
+      "start": 46.1,
+      "end": 46.26,
+      "word": "di"
+    },
+    {
+      "start": 46.26,
+      "end": 46.56,
+      "word": "tonno"
+    },
+    {
+      "start": 46.56,
+      "end": 47.1,
+      "word": "leggermente"
+    },
+    {
+      "start": 47.1,
+      "end": 47.62,
+      "word": "piastrato,"
+    },
+    {
+      "start": 47.82,
+      "end": 48.24,
+      "word": "spinacino"
+    },
+    {
+      "start": 48.24,
+      "end": 48.54,
+      "word": "condito"
+    },
+    {
+      "start": 48.54,
+      "end": 48.72,
+      "word": "con"
+    },
+    {
+      "start": 48.72,
+      "end": 48.92,
+      "word": "vina"
+    },
+    {
+      "start": 48.92,
+      "end": 49.26,
+      "word": "greta,"
+    },
+    {
+      "start": 49.4,
+      "end": 49.88,
+      "word": "maionese"
+    },
+    {
+      "start": 49.88,
+      "end": 50.02,
+      "word": "e"
+    },
+    {
+      "start": 50.02,
+      "end": 50.22,
+      "word": "pesto"
+    },
+    {
+      "start": 50.22,
+      "end": 50.66,
+      "word": "pomodoro"
+    },
+    {
+      "start": 50.66,
+      "end": 51.06,
+      "word": "secco,"
+    },
+    {
+      "start": 51.14,
+      "end": 51.34,
+      "word": "formaggio"
+    },
+    {
+      "start": 51.34,
+      "end": 51.8,
+      "word": "caprino,"
+    },
+    {
+      "start": 51.94,
+      "end": 52.4,
+      "word": "pancetta"
+    },
+    {
+      "start": 52.4,
+      "end": 52.62,
+      "word": "e"
+    },
+    {
+      "start": 52.62,
+      "end": 52.84,
+      "word": "semi"
+    },
+    {
+      "start": 52.84,
+      "end": 52.98,
+      "word": "di"
+    },
+    {
+      "start": 52.98,
+      "end": 53.42,
+      "word": "zucca."
+    },
+    {
+      "start": 53.52,
+      "end": 53.76,
+      "word": "Cottura"
+    },
+    {
+      "start": 53.76,
+      "end": 53.94,
+      "word": "del"
+    },
+    {
+      "start": 53.94,
+      "end": 54.2,
+      "word": "tonno"
+    },
+    {
+      "start": 54.2,
+      "end": 54.72,
+      "word": "perfetta,"
+    },
+    {
+      "start": 54.78,
+      "end": 55.16,
+      "word": "maionese"
+    },
+    {
+      "start": 55.16,
+      "end": 55.3,
+      "word": "che"
+    },
+    {
+      "start": 55.3,
+      "end": 55.46,
+      "word": "insieme"
+    },
+    {
+      "start": 55.46,
+      "end": 55.62,
+      "word": "la"
+    },
+    {
+      "start": 55.62,
+      "end": 55.76,
+      "word": "vina"
+    },
+    {
+      "start": 55.76,
+      "end": 55.98,
+      "word": "greta"
+    },
+    {
+      "start": 55.98,
+      "end": 56.32,
+      "word": "creavano"
+    },
+    {
+      "start": 56.32,
+      "end": 56.56,
+      "word": "praticamente"
+    },
+    {
+      "start": 56.56,
+      "end": 56.82,
+      "word": "una"
+    },
+    {
+      "start": 56.82,
+      "end": 57.08,
+      "word": "terza"
+    },
+    {
+      "start": 57.08,
+      "end": 57.34,
+      "word": "salsa"
+    },
+    {
+      "start": 57.34,
+      "end": 58.1,
+      "word": "perfetta."
+    },
+    {
+      "start": 58.1,
+      "end": 58.46,
+      "word": "Quarto"
+    },
+    {
+      "start": 58.46,
+      "end": 58.82,
+      "word": "panino"
+    },
+    {
+      "start": 58.82,
+      "end": 58.96,
+      "word": "abbiamo"
+    },
+    {
+      "start": 58.96,
+      "end": 59.46,
+      "word": "salmone"
+    },
+    {
+      "start": 59.46,
+      "end": 59.58,
+      "word": "e"
+    },
+    {
+      "start": 59.58,
+      "end": 60.04,
+      "word": "capocollo,"
+    },
+    {
+      "start": 60.14,
+      "end": 60.18,
+      "word": "che"
+    },
+    {
+      "start": 60.18,
+      "end": 60.28,
+      "word": "è"
+    },
+    {
+      "start": 60.28,
+      "end": 60.66,
+      "word": "sicuramente"
+    },
+    {
+      "start": 60.66,
+      "end": 60.84,
+      "word": "l"
+    },
+    {
+      "start": 60.84,
+      "end": 61.1,
+      "word": "'accostamento"
+    },
+    {
+      "start": 61.1,
+      "end": 61.34,
+      "word": "più"
+    },
+    {
+      "start": 61.34,
+      "end": 61.7,
+      "word": "strano,"
+    },
+    {
+      "start": 61.78,
+      "end": 61.92,
+      "word": "ma"
+    },
+    {
+      "start": 61.92,
+      "end": 62.12,
+      "word": "anche"
+    },
+    {
+      "start": 62.12,
+      "end": 62.58,
+      "word": "decisamente"
+    },
+    {
+      "start": 62.58,
+      "end": 62.78,
+      "word": "di"
+    },
+    {
+      "start": 62.78,
+      "end": 62.88,
+      "word": "noi"
+    },
+    {
+      "start": 62.88,
+      "end": 63.04,
+      "word": "più"
+    },
+    {
+      "start": 63.04,
+      "end": 63.62,
+      "word": "interessanti."
+    },
+    {
+      "start": 63.74,
+      "end": 63.94,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 63.94,
+      "end": 64.18,
+      "word": "con"
+    },
+    {
+      "start": 64.18,
+      "end": 64.5,
+      "word": "tartar"
+    },
+    {
+      "start": 64.5,
+      "end": 64.6,
+      "word": "di"
+    },
+    {
+      "start": 64.6,
+      "end": 65.04,
+      "word": "salmone,"
+    },
+    {
+      "start": 65.16,
+      "end": 65.8,
+      "word": "misticanza,"
+    },
+    {
+      "start": 65.9,
+      "end": 66.08,
+      "word": "condito"
+    },
+    {
+      "start": 66.08,
+      "end": 66.28,
+      "word": "con"
+    },
+    {
+      "start": 66.28,
+      "end": 66.46,
+      "word": "vina"
+    },
+    {
+      "start": 66.46,
+      "end": 66.8,
+      "word": "greta"
+    },
+    {
+      "start": 66.8,
+      "end": 66.94,
+      "word": "e"
+    },
+    {
+      "start": 66.94,
+      "end": 67.14,
+      "word": "pesto"
+    },
+    {
+      "start": 67.14,
+      "end": 67.26,
+      "word": "al"
+    },
+    {
+      "start": 67.26,
+      "end": 67.76,
+      "word": "basilico,"
+    },
+    {
+      "start": 67.88,
+      "end": 68.26,
+      "word": "fiordilate"
+    },
+    {
+      "start": 68.26,
+      "end": 68.4,
+      "word": "e"
+    },
+    {
+      "start": 68.4,
+      "end": 68.86,
+      "word": "capocollo."
+    },
+    {
+      "start": 69.08,
+      "end": 69.44,
+      "word": "Ultimissimo"
+    },
+    {
+      "start": 69.44,
+      "end": 69.78,
+      "word": "panino"
+    },
+    {
+      "start": 69.78,
+      "end": 70.08,
+      "word": "salato"
+    },
+    {
+      "start": 70.08,
+      "end": 70.22,
+      "word": "è"
+    },
+    {
+      "start": 70.22,
+      "end": 70.26,
+      "word": "il"
+    },
+    {
+      "start": 70.26,
+      "end": 70.82,
+      "word": "calamarero"
+    },
+    {
+      "start": 70.82,
+      "end": 70.96,
+      "word": "con"
+    },
+    {
+      "start": 70.96,
+      "end": 71.48,
+      "word": "calamaro"
+    },
+    {
+      "start": 71.48,
+      "end": 71.66,
+      "word": "o"
+    },
+    {
+      "start": 71.66,
+      "end": 72.08,
+      "word": "zucca,"
+    },
+    {
+      "start": 72.22,
+      "end": 72.42,
+      "word": "ricotta"
+    },
+    {
+      "start": 72.42,
+      "end": 72.62,
+      "word": "di"
+    },
+    {
+      "start": 72.62,
+      "end": 72.86,
+      "word": "bufa,"
+    },
+    {
+      "start": 72.94,
+      "end": 72.98,
+      "word": "la"
+    },
+    {
+      "start": 72.98,
+      "end": 73.38,
+      "word": "pomodoro"
+    },
+    {
+      "start": 73.38,
+      "end": 73.52,
+      "word": "ed"
+    },
+    {
+      "start": 73.52,
+      "end": 73.76,
+      "word": "ovviamente"
+    },
+    {
+      "start": 73.76,
+      "end": 74.06,
+      "word": "il"
+    },
+    {
+      "start": 74.06,
+      "end": 74.2,
+      "word": "nostro"
+    },
+    {
+      "start": 74.2,
+      "end": 74.56,
+      "word": "solito"
+    },
+    {
+      "start": 74.56,
+      "end": 75.08,
+      "word": "basilico"
+    },
+    {
+      "start": 75.08,
+      "end": 75.2,
+      "word": "che"
+    },
+    {
+      "start": 75.2,
+      "end": 75.34,
+      "word": "ci"
+    },
+    {
+      "start": 75.34,
+      "end": 75.48,
+      "word": "sta"
+    },
+    {
+      "start": 75.48,
+      "end": 75.86,
+      "word": "sempre"
+    },
+    {
+      "start": 75.86,
+      "end": 76.26,
+      "word": "benissimo"
+    },
+    {
+      "start": 76.26,
+      "end": 76.38,
+      "word": "in"
+    },
+    {
+      "start": 76.38,
+      "end": 76.56,
+      "word": "questi"
+    },
+    {
+      "start": 76.56,
+      "end": 76.86,
+      "word": "panini."
+    },
+    {
+      "start": 77.0,
+      "end": 77.4,
+      "word": "Considerando"
+    },
+    {
+      "start": 77.4,
+      "end": 77.7,
+      "word": "chiamo"
+    },
+    {
+      "start": 77.7,
+      "end": 77.86,
+      "word": "sia"
+    },
+    {
+      "start": 77.86,
+      "end": 78.0,
+      "word": "i"
+    },
+    {
+      "start": 78.0,
+      "end": 78.26,
+      "word": "calamari"
+    },
+    {
+      "start": 78.26,
+      "end": 78.4,
+      "word": "che"
+    },
+    {
+      "start": 78.4,
+      "end": 78.48,
+      "word": "la"
+    },
+    {
+      "start": 78.48,
+      "end": 78.9,
+      "word": "zucca,"
+    },
+    {
+      "start": 78.98,
+      "end": 79.22,
+      "word": "provalli"
+    },
+    {
+      "start": 79.22,
+      "end": 79.54,
+      "word": "insieme"
+    },
+    {
+      "start": 79.54,
+      "end": 79.66,
+      "word": "è"
+    },
+    {
+      "start": 79.66,
+      "end": 79.74,
+      "word": "stata"
+    },
+    {
+      "start": 79.74,
+      "end": 79.88,
+      "word": "una"
+    },
+    {
+      "start": 79.88,
+      "end": 80.04,
+      "word": "bella"
+    },
+    {
+      "start": 80.04,
+      "end": 80.38,
+      "word": "scoperta."
+    },
+    {
+      "start": 80.42,
+      "end": 80.66,
+      "word": "Infine"
+    },
+    {
+      "start": 80.66,
+      "end": 81.02,
+      "word": "piccola"
+    },
+    {
+      "start": 81.02,
+      "end": 81.34,
+      "word": "chicchetta"
+    },
+    {
+      "start": 81.34,
+      "end": 81.64,
+      "word": "dolce"
+    },
+    {
+      "start": 81.64,
+      "end": 81.8,
+      "word": "per"
+    },
+    {
+      "start": 81.8,
+      "end": 82.22,
+      "word": "concludere"
+    },
+    {
+      "start": 82.22,
+      "end": 82.34,
+      "word": "il"
+    },
+    {
+      "start": 82.34,
+      "end": 82.74,
+      "word": "pasto,"
+    },
+    {
+      "start": 82.8,
+      "end": 83.04,
+      "word": "panino"
+    },
+    {
+      "start": 83.04,
+      "end": 83.36,
+      "word": "dolce"
+    },
+    {
+      "start": 83.36,
+      "end": 83.54,
+      "word": "con"
+    },
+    {
+      "start": 83.54,
+      "end": 83.88,
+      "word": "burro"
+    },
+    {
+      "start": 83.88,
+      "end": 84.52,
+      "word": "marbellata"
+    },
+    {
+      "start": 84.52,
+      "end": 84.72,
+      "word": "e"
+    },
+    {
+      "start": 84.72,
+      "end": 85.02,
+      "word": "scalli"
+    },
+    {
+      "start": 85.02,
+      "end": 85.14,
+      "word": "di"
+    },
+    {
+      "start": 85.14,
+      "end": 85.54,
+      "word": "cioccolato."
+    },
+    {
+      "start": 85.54,
+      "end": 85.82,
+      "word": "Insomma"
+    },
+    {
+      "start": 85.82,
+      "end": 86.12,
+      "word": "ragazzi"
+    },
+    {
+      "start": 86.12,
+      "end": 86.42,
+      "word": "fidati"
+    },
+    {
+      "start": 86.42,
+      "end": 86.58,
+      "word": "che"
+    },
+    {
+      "start": 86.58,
+      "end": 86.82,
+      "word": "questi"
+    },
+    {
+      "start": 86.82,
+      "end": 87.16,
+      "word": "panini"
+    },
+    {
+      "start": 87.16,
+      "end": 87.36,
+      "word": "sono"
+    },
+    {
+      "start": 87.36,
+      "end": 87.56,
+      "word": "delle"
+    },
+    {
+      "start": 87.56,
+      "end": 88.04,
+      "word": "chicchette"
+    },
+    {
+      "start": 88.04,
+      "end": 88.2,
+      "word": "che"
+    },
+    {
+      "start": 88.2,
+      "end": 88.3,
+      "word": "non"
+    },
+    {
+      "start": 88.3,
+      "end": 88.56,
+      "word": "potete"
+    },
+    {
+      "start": 88.56,
+      "end": 89.04,
+      "word": "perdervi."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "Un fast food di pesce fresco, oggi ragazzi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.433,
+      "dur": 2.4,
+      "transcript": "siamo da Pescaria, a provare i loro nuovi panini del"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.433,
+      "end": 8.4,
+      "dur": 3.967,
+      "transcript": "menu in collaborazione con lo chef da una stella Michelin, Peppe Guida. Pescaria è appunto"
+    },
+    {
+      "shot_idx": 3,
+      "start": 8.4,
+      "end": 10.6,
+      "dur": 2.2,
+      "transcript": "una catena di ristoranti che con un format"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.6,
+      "end": 14.067,
+      "dur": 3.467,
+      "transcript": "assimil fast food serve veri e propri piatti e panini con del pesce freschissimo."
+    },
+    {
+      "shot_idx": 5,
+      "start": 14.067,
+      "end": 17.833,
+      "dur": 3.767,
+      "transcript": "E questi ragazzi sono in 5 panini che ho provato quest 'oggi. Partendo dal polperone"
+    },
+    {
+      "shot_idx": 6,
+      "start": 17.833,
+      "end": 20.067,
+      "dur": 2.233,
+      "transcript": "che è questo panino con polpo fritto, mozzarella"
+    },
+    {
+      "shot_idx": 7,
+      "start": 20.067,
+      "end": 29.033,
+      "dur": 8.967,
+      "transcript": "fumicata, pesto di basilico e peperoni conditi con oliva e capperi. Ragazzi, un 'esplosione di sapori con la consenza del polpo fritto perfetta, ovviamente non un panino leggerissimo ma direi che si inizia"
+    },
+    {
+      "shot_idx": 8,
+      "start": 29.033,
+      "end": 30.633,
+      "dur": 1.6,
+      "transcript": "col botto. Siamo compassati al"
+    },
+    {
+      "shot_idx": 9,
+      "start": 30.633,
+      "end": 32.8,
+      "dur": 2.167,
+      "transcript": "cotoletta di pesce con filetto di merluzzo con panatura"
+    },
+    {
+      "shot_idx": 10,
+      "start": 32.8,
+      "end": 38.233,
+      "dur": 5.433,
+      "transcript": "croccante, chips di patate, lattughino, maionese fumé e pesto di basilico. Questo ovviamente con sapori in"
+    },
+    {
+      "shot_idx": 11,
+      "start": 38.233,
+      "end": 40.533,
+      "dur": 2.3,
+      "transcript": "realtà più delicati ma assolutamente bilanciati. Come terzo"
+    },
+    {
+      "shot_idx": 12,
+      "start": 40.533,
+      "end": 42.467,
+      "dur": 1.933,
+      "transcript": "panino ragazzi arriviamo al mio preferito, il"
+    },
+    {
+      "shot_idx": 13,
+      "start": 42.467,
+      "end": 45.267,
+      "dur": 2.8,
+      "transcript": "tatacchi di tonno. Disponibile tra l 'altro ho anche in versione piatto, è"
+    },
+    {
+      "shot_idx": 14,
+      "start": 45.267,
+      "end": 48.733,
+      "dur": 3.467,
+      "transcript": "composto da filetto di tonno leggermente piastrato, spinacino condito con"
+    },
+    {
+      "shot_idx": 15,
+      "start": 48.733,
+      "end": 51.133,
+      "dur": 2.4,
+      "transcript": "vina greta, maionese e pesto pomodoro secco,"
+    },
+    {
+      "shot_idx": 16,
+      "start": 51.133,
+      "end": 54.4,
+      "dur": 3.267,
+      "transcript": "formaggio caprino, pancetta e semi di zucca. Cottura del tonno"
+    },
+    {
+      "shot_idx": 17,
+      "start": 54.4,
+      "end": 56.9,
+      "dur": 2.5,
+      "transcript": "perfetta, maionese che insieme la vina greta creavano praticamente una"
+    },
+    {
+      "shot_idx": 18,
+      "start": 56.9,
+      "end": 60.133,
+      "dur": 3.233,
+      "transcript": "terza salsa perfetta. Quarto panino abbiamo salmone e capocollo,"
+    },
+    {
+      "shot_idx": 19,
+      "start": 60.133,
+      "end": 63.3,
+      "dur": 3.167,
+      "transcript": "che è sicuramente l 'accostamento più strano, ma anche decisamente di noi più"
+    },
+    {
+      "shot_idx": 20,
+      "start": 63.3,
+      "end": 66.1,
+      "dur": 2.8,
+      "transcript": "interessanti. Ovviamente con tartar di salmone, misticanza, condito"
+    },
+    {
+      "shot_idx": 21,
+      "start": 66.1,
+      "end": 67.767,
+      "dur": 1.667,
+      "transcript": "con vina greta e pesto al basilico,"
+    },
+    {
+      "shot_idx": 22,
+      "start": 67.767,
+      "end": 70.0,
+      "dur": 2.233,
+      "transcript": "fiordilate e capocollo. Ultimissimo panino salato"
+    },
+    {
+      "shot_idx": 23,
+      "start": 70.0,
+      "end": 72.967,
+      "dur": 2.967,
+      "transcript": "è il calamarero con calamaro o zucca, ricotta di bufa, la"
+    },
+    {
+      "shot_idx": 24,
+      "start": 72.967,
+      "end": 76.533,
+      "dur": 3.567,
+      "transcript": "pomodoro ed ovviamente il nostro solito basilico che ci sta sempre benissimo in questi"
+    },
+    {
+      "shot_idx": 25,
+      "start": 76.533,
+      "end": 79.1,
+      "dur": 2.567,
+      "transcript": "panini. Considerando chiamo sia i calamari che la zucca,"
+    },
+    {
+      "shot_idx": 26,
+      "start": 79.1,
+      "end": 86.767,
+      "dur": 7.667,
+      "transcript": "provalli insieme è stata una bella scoperta. Infine piccola chicchetta dolce per concludere il pasto, panino dolce con burro marbellata e scalli di cioccolato. Insomma ragazzi fidati che questi"
+    },
+    {
+      "shot_idx": 27,
+      "start": 86.767,
+      "end": 89.1,
+      "dur": 2.333,
+      "transcript": "panini sono delle chicchette che non potete perdervi."
+    },
+    {
+      "shot_idx": 28,
+      "start": 89.1,
+      "end": 89.333,
+      "dur": 0.233,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Un fast food di pesce fresco, oggi ragazzi siamo da Pescaria, a provare i loro nuovi panini del menu in collaborazione con lo chef da una stella Michelin, Peppe Guida. Pescaria è appunto una catena di ristoranti che con un format assimil fast food serve veri e propri piatti e panini con del pesce freschissimo. E questi ragazzi sono in 5 panini che ho provato quest'oggi. Partendo dal polperone che è questo panino con polpo fritto, mozzarella fumicata, pesto di basilico e peperoni conditi con oliva e capperi. Ragazzi, un'esplosione di sapori con la consenza del polpo fritto perfetta, ovviamente non un panino leggerissimo ma direi che si inizia col botto. Siamo compassati al cotoletta di pesce con filetto di merluzzo con panatura croccante, chips di patate, lattughino, maionese fumé e pesto di basilico. Questo ovviamente con sapori in realtà più delicati ma assolutamente bilanciati. Come terzo panino ragazzi arriviamo al mio preferito, il tatacchi di tonno. Disponibile tra l'altro ho anche in versione piatto, è composto da filetto di tonno leggermente piastrato, spinacino condito con vina greta, maionese e pesto pomodoro secco, formaggio caprino, pancetta e semi di zucca. Cottura del tonno perfetta, maionese che insieme la vina greta creavano praticamente una terza salsa perfetta. Quarto panino abbiamo salmone e capocollo, che è sicuramente l'accostamento più strano, ma anche decisamente di noi più interessanti. Ovviamente con tartar di salmone, misticanza, condito con vina greta e pesto al basilico, fiordilate e capocollo. Ultimissimo panino salato è il calamarero con calamaro o zucca, ricotta di bufa, la pomodoro ed ovviamente il nostro solito basilico che ci sta sempre benissimo in questi panini. Considerando chiamo sia i calamari che la zucca, provalli insieme è stata una bella scoperta. Infine piccola chicchetta dolce per concludere il pasto, panino dolce con burro marbellata e scalli di cioccolato. Insomma ragazzi fidati che questi panini sono delle chicchette che non potete perdervi.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

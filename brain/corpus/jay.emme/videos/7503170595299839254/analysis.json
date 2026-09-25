@@ -1,0 +1,4491 @@
+{
+  "video_id": "7503170595299839254",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7503170595299839254",
+    "ref_id": "ref_87_7503170595299839254",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7503170595299839254",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 56,
+  "total_dur": 121.6,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7,
+      "center": 1.35,
+      "role": "venue_interior_wide",
+      "subject": "ragazzo guarda grattacieli",
+      "description": "Un ragazzo di spalle guarda fuori da una finestra panoramica su una città con grattacieli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Giornotra del mio viaggio in Texas oggi da San"
+    },
+    {
+      "idx": 1,
+      "start": 2.7,
+      "end": 7.233,
+      "dur": 4.533,
+      "center": 4.967,
+      "role": "food_plated",
+      "subject": "uova strapazzate piatto",
+      "description": "Un piatto di uova strapazzate con verdure e carne su un tavolo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Antonio arriviamo a Dostin partendo però dalla colazione di un motel a San Antonio col classico"
+    },
+    {
+      "idx": 2,
+      "start": 7.233,
+      "end": 9.333,
+      "dur": 2.1,
+      "center": 8.283,
+      "role": "food_detail",
+      "subject": "waffle a forma Texas",
+      "description": "Uno sciroppo d'acero viene versato su un waffle a forma di Texas.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "waffles alla forma di Texas un po' di uova strappazzate"
+    },
+    {
+      "idx": 3,
+      "start": 9.333,
+      "end": 10.6,
+      "dur": 1.267,
+      "center": 9.967,
+      "role": "person_eating",
+      "subject": "ragazzo mangia colazione",
+      "description": "Un ragazzo mangia con una forchetta, con la bocca aperta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "e molto strane"
+    },
+    {
+      "idx": 4,
+      "start": 10.6,
+      "end": 12.167,
+      "dur": 1.567,
+      "center": 11.383,
+      "role": "food_plated",
+      "subject": "dolci colazione glassati",
+      "description": "Due dolci da colazione, uno glassato e un muffin, su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "una sorta di cinnamon roll e un bel"
+    },
+    {
+      "idx": 5,
+      "start": 12.167,
+      "end": 14.033,
+      "dur": 1.867,
+      "center": 13.1,
+      "role": "person_eating",
+      "subject": "ragazzo mangia donut",
+      "description": "Il ragazzo sta mangiando un donut con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "muffin ovviamente caffetto americano"
+    },
+    {
+      "idx": 6,
+      "start": 14.033,
+      "end": 19.0,
+      "dur": 4.967,
+      "center": 16.517,
+      "role": "venue_exterior",
+      "subject": "esterno negozio Buc-ees",
+      "description": "L'esterno di un grande negozio con un ampio parcheggio e cielo nuvoloso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "dopo di che nella strada per Austin ci siamo fermati da Bacchese una vera e propria istituzione in quel Del Texas"
+    },
+    {
+      "idx": 7,
+      "start": 19.0,
+      "end": 21.733,
+      "dur": 2.733,
+      "center": 20.367,
+      "role": "venue_interior_wide",
+      "subject": "interno negozio Buc-ees",
+      "description": "Un ampio interno di un negozio con scaffali di merce e persone che camminano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "anche se alla fine semplicemente un autogrill quindi un benzinaio"
+    },
+    {
+      "idx": 8,
+      "start": 21.733,
+      "end": 23.7,
+      "dur": 1.967,
+      "center": 22.717,
+      "role": "venue_interior_detail",
+      "subject": "banco carne Buc-ees",
+      "description": "Un banco di carne con cartelli che indicano 'Texas Round Up' e vari tipi di carne.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "mastodontico è un enorme"
+    },
+    {
+      "idx": 9,
+      "start": 23.7,
+      "end": 25.5,
+      "dur": 1.8,
+      "center": 24.6,
+      "role": "food_detail",
+      "subject": "cuoco taglia carne",
+      "description": "Un cuoco con un cappello da cowboy sta tagliando un pezzo di carne su un tagliere di legno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "stazione di servizio che tra l 'altro"
+    },
+    {
+      "idx": 10,
+      "start": 25.5,
+      "end": 27.533,
+      "dur": 2.033,
+      "center": 26.517,
+      "role": "food_detail",
+      "subject": "espositore dolci e salumi",
+      "description": "Un espositore refrigerato con vari dolci e salumi confezionati.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "vi serve il brische tappena fatto un brand"
+    },
+    {
+      "idx": 11,
+      "start": 27.533,
+      "end": 28.067,
+      "dur": 0.533,
+      "center": 27.8,
+      "role": "food_detail",
+      "subject": "scatole dolci Buc-ee's",
+      "description": "Pile di scatole bianche con il logo 'Buc-ee's' e dolci all'interno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "che però qui in"
+    },
+    {
+      "idx": 12,
+      "start": 28.067,
+      "end": 28.733,
+      "dur": 0.667,
+      "center": 28.4,
+      "role": "food_detail",
+      "subject": "scatole dolci Buc-ee's",
+      "description": "Dettaglio delle scatole di dolci Buc-ee's impilate, con un uomo sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Texas è veramente"
+    },
+    {
+      "idx": 13,
+      "start": 28.733,
+      "end": 30.0,
+      "dur": 1.267,
+      "center": 29.367,
+      "role": "food_detail",
+      "subject": "scatole dolci Buc-ee's",
+      "description": "Una prospettiva più ampia delle scatole di dolci Buc-ee's su un bancone.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Famoso soprattutto per i"
+    },
+    {
+      "idx": 14,
+      "start": 30.0,
+      "end": 31.733,
+      "dur": 1.733,
+      "center": 30.867,
+      "role": "venue_interior_detail",
+      "subject": "ingresso bagni",
+      "description": "L'ingresso dei bagni con un'insegna 'RESTROOMS World Famous!' e un uomo all'interno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "loro bagni che in torri a sono pulitissimi"
+    },
+    {
+      "idx": 15,
+      "start": 31.733,
+      "end": 33.1,
+      "dur": 1.367,
+      "center": 32.417,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo indossa un cappellino rosso e una tracolla gialla con la scritta 'OFF-WHITE'.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "che posto assurdo dopo di"
+    },
+    {
+      "idx": 16,
+      "start": 33.1,
+      "end": 35.1,
+      "dur": 2.0,
+      "center": 34.1,
+      "role": "venue_exterior",
+      "subject": "negozio Gucci esterno",
+      "description": "L'edificio bianco con archi e statue in stile classico ha il logo 'GUCCI' in rosso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "che classicata per un auto americano"
+    },
+    {
+      "idx": 17,
+      "start": 35.1,
+      "end": 37.667,
+      "dur": 2.567,
+      "center": 36.383,
+      "role": "person_talking",
+      "subject": "ragazzo che cammina",
+      "description": "Il ragazzo cammina all'aperto sotto un portico, con un'espressione neutra.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "sto posto è in mezzo e"
+    },
+    {
+      "idx": 18,
+      "start": 37.667,
+      "end": 39.467,
+      "dur": 1.8,
+      "center": 38.567,
+      "role": "venue_exterior",
+      "subject": "ristorante Buddy's Burger",
+      "description": "L'edificio del ristorante ha un'insegna rossa e bianca con il nome 'BUDDY'S BURGER'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "dopo aver comprato qualcosa in appausa pranzo"
+    },
+    {
+      "idx": 19,
+      "start": 39.467,
+      "end": 41.4,
+      "dur": 1.933,
+      "center": 40.433,
+      "role": "drink_detail",
+      "subject": "mano che riempie bicchiere",
+      "description": "Una mano riempie un bicchiere di bevanda da un distributore automatico con i loghi 'MUG ROOT BEER' e 'Dr. Pepper'.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "da baddiesburg una catena americana"
+    },
+    {
+      "idx": 20,
+      "start": 41.4,
+      "end": 42.867,
+      "dur": 1.467,
+      "center": 42.133,
+      "role": "food_plated",
+      "subject": "patatine fritte salse",
+      "description": "Un sacchetto di patatine fritte con due salse e una bevanda su un tavolo di legno.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "specializzata negli smash burger in"
+    },
+    {
+      "idx": 21,
+      "start": 42.867,
+      "end": 44.4,
+      "dur": 1.533,
+      "center": 43.633,
+      "role": "food_detail",
+      "subject": "patatina fritta mano",
+      "description": "Una mano tiene una patatina fritta condita, con un sacchetto di patatine sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "cui è chiaramente preso un Loro menu con le"
+    },
+    {
+      "idx": 22,
+      "start": 44.4,
+      "end": 46.633,
+      "dur": 2.233,
+      "center": 45.517,
+      "role": "person_eating",
+      "subject": "uomo patatina fritta",
+      "description": "Un uomo con un cappellino rosso e una maglietta grigia tiene una patatina fritta davanti a sé.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "patatine speziate molto buono ovviamente un fryer"
+    },
+    {
+      "idx": 23,
+      "start": 46.633,
+      "end": 48.133,
+      "dur": 1.5,
+      "center": 47.383,
+      "role": "person_eating",
+      "subject": "uomo beve bibita",
+      "description": "L'uomo beve da un bicchiere di bibita con una cannuccia rossa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fil di diet cook e"
+    },
+    {
+      "idx": 24,
+      "start": 48.133,
+      "end": 50.033,
+      "dur": 1.9,
+      "center": 49.083,
+      "role": "person_eating",
+      "subject": "uomo tiene hamburger",
+      "description": "L'uomo tiene un hamburger avvolto nella carta stagnola, con uno sguardo pensieroso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "diet Dr. Pepe quando la trovi in america la"
+    },
+    {
+      "idx": 25,
+      "start": 50.033,
+      "end": 51.8,
+      "dur": 1.767,
+      "center": 50.917,
+      "role": "food_closeup",
+      "subject": "smashburger con bacon",
+      "description": "Il burger è aperto e si vedono tutti gli ingredienti, con molta salsa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "prendo sempre e smash burger classico"
+    },
+    {
+      "idx": 26,
+      "start": 51.8,
+      "end": 53.267,
+      "dur": 1.467,
+      "center": 52.533,
+      "role": "person_eating",
+      "subject": "uomo che mangia hamburger",
+      "description": "L'uomo sta addentando un hamburger, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "con beccon ciotrullini salsa"
+    },
+    {
+      "idx": 27,
+      "start": 53.267,
+      "end": 54.667,
+      "dur": 1.4,
+      "center": 53.967,
+      "role": "person_eating",
+      "subject": "uomo con hamburger",
+      "description": "L'uomo tiene l'hamburger vicino alla bocca, guardando direttamente la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Smok pomodoro installata"
+    },
+    {
+      "idx": 28,
+      "start": 54.667,
+      "end": 56.233,
+      "dur": 1.567,
+      "center": 55.45,
+      "role": "person_eating",
+      "subject": "uomo che mostra hamburger",
+      "description": "L'uomo tiene in mano un hamburger tagliato a metà, mostrandone l'interno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "devo dire un bollivello di smash"
+    },
+    {
+      "idx": 29,
+      "start": 56.233,
+      "end": 58.9,
+      "dur": 2.667,
+      "center": 57.567,
+      "role": "other",
+      "subject": "stanza d'albergo",
+      "description": "Una stanza d'albergo con un televisore, un comò e un tappeto a strisce blu e bianche.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "burger e dopo di che i ragazzi siamo arrivati nel nostro tela"
+    },
+    {
+      "idx": 30,
+      "start": 58.9,
+      "end": 60.067,
+      "dur": 1.167,
+      "center": 59.483,
+      "role": "venue_interior_wide",
+      "subject": "camera d'albergo",
+      "description": "La camera d'albergo con un letto sulla destra e una scrivania sulla sinistra, con una finestra luminosa al centro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "d 'oste Ne guardate che"
+    },
+    {
+      "idx": 31,
+      "start": 60.067,
+      "end": 61.4,
+      "dur": 1.333,
+      "center": 60.733,
+      "role": "venue_interior_detail",
+      "subject": "letto matrimoniale",
+      "description": "Il letto matrimoniale con lenzuola bianche e testiera marrone.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "vista devo dire una camera"
+    },
+    {
+      "idx": 32,
+      "start": 61.4,
+      "end": 66.5,
+      "dur": 5.1,
+      "center": 63.95,
+      "role": "venue_exterior",
+      "subject": "grattacieli città",
+      "description": "Una vista aerea di grattacieli moderni e un fiume sullo sfondo.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "cla mo rosa anche perché davvero secondo me la cosa più importante quando si viaggia era vista degli"
+    },
+    {
+      "idx": 33,
+      "start": 66.5,
+      "end": 68.533,
+      "dur": 2.033,
+      "center": 67.517,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Un ragazzo con un cappellino rosso e grigio che si fa un selfie con i grattacieli sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "otelli soprattutto nelle città americane con questi"
+    },
+    {
+      "idx": 34,
+      "start": 68.533,
+      "end": 70.067,
+      "dur": 1.533,
+      "center": 69.3,
+      "role": "drink_detail",
+      "subject": "macchina caffè",
+      "description": "Una mano che posiziona una tazza sotto una macchina da caffè Nespresso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "palazzoni clamorosi tra l 'altro"
+    },
+    {
+      "idx": 35,
+      "start": 70.067,
+      "end": 70.8,
+      "dur": 0.733,
+      "center": 70.433,
+      "role": "drink_detail",
+      "subject": "tazza caffè mano",
+      "description": "Una mano tiene una tazza di caffè con un tappeto a strisce blu e beige sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "c 'era anche la macchinetta"
+    },
+    {
+      "idx": 36,
+      "start": 70.8,
+      "end": 71.533,
+      "dur": 0.733,
+      "center": 71.167,
+      "role": "drink_detail",
+      "subject": "tazza caffè pavimento",
+      "description": "La tazza di caffè è in primo piano, con le gambe e i piedi della persona visibili sul tappeto.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "del caffè ne"
+    },
+    {
+      "idx": 37,
+      "start": 71.533,
+      "end": 75.633,
+      "dur": 4.1,
+      "center": 73.583,
+      "role": "person_eating",
+      "subject": "uomo beve caffè",
+      "description": "Un uomo beve caffè con uno sfondo di grattacieli e cielo azzurro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "espresso e quindi facciamo subito un bel caffettino e poi Andiamo a fare un giro per capire come"
+    },
+    {
+      "idx": 38,
+      "start": 75.633,
+      "end": 79.833,
+      "dur": 4.2,
+      "center": 77.733,
+      "role": "venue_interior_wide",
+      "subject": "attrezzi palestra tapis",
+      "description": "Una sala fitness con due tapis roulant e attrezzi da palestra sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "è la palestra di questo telo palestra che devo dire è abbastanza tutto rasteggiere di manubri"
+    },
+    {
+      "idx": 39,
+      "start": 79.833,
+      "end": 83.633,
+      "dur": 3.8,
+      "center": 81.733,
+      "role": "venue_interior_wide",
+      "subject": "palestra attrezzi pesi",
+      "description": "Una palestra moderna con vari attrezzi e uno specchio che riflette un uomo che si allena.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Tutto tecnologi tutto molto molto carino ovviamente i tapirulani infiniti"
+    },
+    {
+      "idx": 40,
+      "start": 83.633,
+      "end": 88.933,
+      "dur": 5.3,
+      "center": 86.283,
+      "role": "venue_interior_wide",
+      "subject": "palestra con persona",
+      "description": "Una persona in maglietta rossa si allena in una palestra luminosa.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "asciugamani acqua mele a vostra disposizione Un bel racco tutti pesi una stazione"
+    },
+    {
+      "idx": 41,
+      "start": 88.933,
+      "end": 89.967,
+      "dur": 1.033,
+      "center": 89.45,
+      "role": "venue_interior_detail",
+      "subject": "attrezzi palestra",
+      "description": "Un attrezzo da palestra con il logo 'Hammer Strength' è in primo piano, con finestre sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "cavi si clatt"
+    },
+    {
+      "idx": 42,
+      "start": 89.967,
+      "end": 91.133,
+      "dur": 1.167,
+      "center": 90.55,
+      "role": "venue_interior_wide",
+      "subject": "cyclette e vogatore",
+      "description": "Diverse cyclette e un vogatore sono disposti in una palestra con una TV accesa.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e ovviamente mi sono"
+    },
+    {
+      "idx": 43,
+      "start": 91.133,
+      "end": 91.733,
+      "dur": 0.6,
+      "center": 91.433,
+      "role": "venue_interior_detail",
+      "subject": "cyclette con vista",
+      "description": "Una cyclette Technogym è posizionata davanti a una grande finestra con vista sulla città.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "fermato a prendere"
+    },
+    {
+      "idx": 44,
+      "start": 91.733,
+      "end": 93.1,
+      "dur": 1.367,
+      "center": 92.417,
+      "role": "hands_gesture",
+      "subject": "mano con mela e bicchiere",
+      "description": "Una mano tiene una mela rossa e un bicchiere di carta, con la palestra sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "una bella mela ed infine ragazzi"
+    },
+    {
+      "idx": 45,
+      "start": 93.1,
+      "end": 95.1,
+      "dur": 2.0,
+      "center": 94.1,
+      "role": "venue_exterior",
+      "subject": "edificio circuito Americas",
+      "description": "L'edificio del 'Circuit of the Americas' con un grande logo rosso e nero.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "prima di cena Diretto al circuito della"
+    },
+    {
+      "idx": 46,
+      "start": 95.1,
+      "end": 99.9,
+      "dur": 4.8,
+      "center": 97.5,
+      "role": "venue_interior_wide",
+      "subject": "tribune vuote pista",
+      "description": "Le tribune vuote di un circuito automobilistico con la pista in lontananza.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "formula 1 di ostin che anche se come sport non lo seguo tanto devo dire che sia davvero davvero interessante perché"
+    },
+    {
+      "idx": 47,
+      "start": 99.9,
+      "end": 100.767,
+      "dur": 0.867,
+      "center": 100.333,
+      "role": "venue_interior_wide",
+      "subject": "pista curva tribune",
+      "description": "Una curva della pista con le tribune vuote e un tabellone dei giri.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ragazzi c 'era proprio"
+    },
+    {
+      "idx": 48,
+      "start": 100.767,
+      "end": 103.367,
+      "dur": 2.6,
+      "center": 102.067,
+      "role": "venue_interior_wide",
+      "subject": "tribune pista orizzonte",
+      "description": "Una lunga fila di tribune vuote che si estende verso l'orizzonte con la pista.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "la possibilità appunto di vedere la pista dopo"
+    },
+    {
+      "idx": 49,
+      "start": 103.367,
+      "end": 106.4,
+      "dur": 3.033,
+      "center": 104.883,
+      "role": "person_talking",
+      "subject": "ragazzo selfie tribune",
+      "description": "Un ragazzo che si fa un selfie con le tribune e la pista sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di che c 'è uno ristorante messicano a d 'ostin messicano"
+    },
+    {
+      "idx": 50,
+      "start": 106.4,
+      "end": 109.6,
+      "dur": 3.2,
+      "center": 108.0,
+      "role": "food_plated",
+      "subject": "antipasti fritti, guacamole",
+      "description": "Un piatto di antipasti fritti con insalata e salsa guacamole è in primo piano.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "comunque è tex max con un po' gli antipastini vari come tortiglie"
+    },
+    {
+      "idx": 51,
+      "start": 109.6,
+      "end": 111.3,
+      "dur": 1.7,
+      "center": 110.45,
+      "role": "food_detail",
+      "subject": "antipasto mangiato, forchetta",
+      "description": "Un antipasto parzialmente mangiato con una forchetta e un coltello sul piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "altre cose piatto principale con un"
+    },
+    {
+      "idx": 52,
+      "start": 111.3,
+      "end": 113.1,
+      "dur": 1.8,
+      "center": 112.2,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatina",
+      "description": "Un ragazzo con una maglietta grigia mangia una patatina con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "mega hamburger azzo perché ovviamente siamo"
+    },
+    {
+      "idx": 53,
+      "start": 113.1,
+      "end": 117.133,
+      "dur": 4.033,
+      "center": 115.117,
+      "role": "food_closeup",
+      "subject": "hamburger, patatine fritte",
+      "description": "Un primo piano di un hamburger con formaggio fuso e patatine fritte.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sempre in america che perché siano un burger smash un burger normali in america sanno"
+    },
+    {
+      "idx": 54,
+      "start": 117.133,
+      "end": 120.1,
+      "dur": 2.967,
+      "center": 118.617,
+      "role": "food_plated",
+      "subject": "tacos, cipolle rosse",
+      "description": "Due tacos con carne, cipolle rosse e una fetta di lime su un piatto.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "farli veramente sempre bene e poi sto giato anche a questi tacos e così si conclude"
+    },
+    {
+      "idx": 55,
+      "start": 120.1,
+      "end": 121.6,
+      "dur": 1.5,
+      "center": 120.85,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo con un'espressione divertita mentre mangia qualcosa di piccolo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "anche il terzo giorno"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "ragazzo guarda grattacieli",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo di spalle guarda fuori da una finestra panoramica su una città con grattacieli.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "uova strapazzate piatto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un piatto di uova strapazzate con verdure e carne su un tavolo.",
+      "shot_idx": 1,
+      "start": 2.7,
+      "end": 7.233,
+      "dur": 4.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "waffle a forma Texas",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno sciroppo d'acero viene versato su un waffle a forma di Texas.",
+      "shot_idx": 2,
+      "start": 7.233,
+      "end": 9.333,
+      "dur": 2.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia colazione",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo mangia con una forchetta, con la bocca aperta.",
+      "shot_idx": 3,
+      "start": 9.333,
+      "end": 10.6,
+      "dur": 1.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "dolci colazione glassati",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due dolci da colazione, uno glassato e un muffin, su un piatto bianco.",
+      "shot_idx": 4,
+      "start": 10.6,
+      "end": 12.167,
+      "dur": 1.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia donut",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un donut con un'espressione divertita.",
+      "shot_idx": 5,
+      "start": 12.167,
+      "end": 14.033,
+      "dur": 1.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "esterno negozio Buc-ees",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'esterno di un grande negozio con un ampio parcheggio e cielo nuvoloso.",
+      "shot_idx": 6,
+      "start": 14.033,
+      "end": 19.0,
+      "dur": 4.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno negozio Buc-ees",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ampio interno di un negozio con scaffali di merce e persone che camminano.",
+      "shot_idx": 7,
+      "start": 19.0,
+      "end": 21.733,
+      "dur": 2.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "banco carne Buc-ees",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un banco di carne con cartelli che indicano 'Texas Round Up' e vari tipi di carne.",
+      "shot_idx": 8,
+      "start": 21.733,
+      "end": 23.7,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "cuoco taglia carne",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un cuoco con un cappello da cowboy sta tagliando un pezzo di carne su un tagliere di legno.",
+      "shot_idx": 9,
+      "start": 23.7,
+      "end": 25.5,
+      "dur": 1.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "espositore dolci e salumi",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un espositore refrigerato con vari dolci e salumi confezionati.",
+      "shot_idx": 10,
+      "start": 25.5,
+      "end": 27.533,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "scatole dolci Buc-ee's",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Pile di scatole bianche con il logo 'Buc-ee's' e dolci all'interno.",
+      "shot_idx": 11,
+      "start": 27.533,
+      "end": 28.067,
+      "dur": 0.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "scatole dolci Buc-ee's",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Dettaglio delle scatole di dolci Buc-ee's impilate, con un uomo sullo sfondo.",
+      "shot_idx": 12,
+      "start": 28.067,
+      "end": 28.733,
+      "dur": 0.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "scatole dolci Buc-ee's",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una prospettiva più ampia delle scatole di dolci Buc-ee's su un bancone.",
+      "shot_idx": 13,
+      "start": 28.733,
+      "end": 30.0,
+      "dur": 1.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "ingresso bagni",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'ingresso dei bagni con un'insegna 'RESTROOMS World Famous!' e un uomo all'interno.",
+      "shot_idx": 14,
+      "start": 30.0,
+      "end": 31.733,
+      "dur": 1.733
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo indossa un cappellino rosso e una tracolla gialla con la scritta 'OFF-WHITE'.",
+      "shot_idx": 15,
+      "start": 31.733,
+      "end": 33.1,
+      "dur": 1.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "negozio Gucci esterno",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'edificio bianco con archi e statue in stile classico ha il logo 'GUCCI' in rosso.",
+      "shot_idx": 16,
+      "start": 33.1,
+      "end": 35.1,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che cammina",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo cammina all'aperto sotto un portico, con un'espressione neutra.",
+      "shot_idx": 17,
+      "start": 35.1,
+      "end": 37.667,
+      "dur": 2.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ristorante Buddy's Burger",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'edificio del ristorante ha un'insegna rossa e bianca con il nome 'BUDDY'S BURGER'.",
+      "shot_idx": 18,
+      "start": 37.667,
+      "end": 39.467,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "mano che riempie bicchiere",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano riempie un bicchiere di bevanda da un distributore automatico con i loghi 'MUG ROOT BEER' e 'Dr. Pepper'.",
+      "shot_idx": 19,
+      "start": 39.467,
+      "end": 41.4,
+      "dur": 1.933
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "patatine fritte salse",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un sacchetto di patatine fritte con due salse e una bevanda su un tavolo di legno.",
+      "shot_idx": 20,
+      "start": 41.4,
+      "end": 42.867,
+      "dur": 1.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "patatina fritta mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano tiene una patatina fritta condita, con un sacchetto di patatine sullo sfondo.",
+      "shot_idx": 21,
+      "start": 42.867,
+      "end": 44.4,
+      "dur": 1.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo patatina fritta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo con un cappellino rosso e una maglietta grigia tiene una patatina fritta davanti a sé.",
+      "shot_idx": 22,
+      "start": 44.4,
+      "end": 46.633,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo beve bibita",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo beve da un bicchiere di bibita con una cannuccia rossa.",
+      "shot_idx": 23,
+      "start": 46.633,
+      "end": 48.133,
+      "dur": 1.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo tiene hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene un hamburger avvolto nella carta stagnola, con uno sguardo pensieroso.",
+      "shot_idx": 24,
+      "start": 48.133,
+      "end": 50.033,
+      "dur": 1.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "smashburger con bacon",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il burger è aperto e si vedono tutti gli ingredienti, con molta salsa.",
+      "shot_idx": 25,
+      "start": 50.033,
+      "end": 51.8,
+      "dur": 1.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta addentando un hamburger, con un'espressione concentrata.",
+      "shot_idx": 26,
+      "start": 51.8,
+      "end": 53.267,
+      "dur": 1.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene l'hamburger vicino alla bocca, guardando direttamente la telecamera.",
+      "shot_idx": 27,
+      "start": 53.267,
+      "end": 54.667,
+      "dur": 1.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mostra hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo tiene in mano un hamburger tagliato a metà, mostrandone l'interno.",
+      "shot_idx": 28,
+      "start": 54.667,
+      "end": 56.233,
+      "dur": 1.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "stanza d'albergo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una stanza d'albergo con un televisore, un comò e un tappeto a strisce blu e bianche.",
+      "shot_idx": 29,
+      "start": 56.233,
+      "end": 58.9,
+      "dur": 2.667
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "camera d'albergo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La camera d'albergo con un letto sulla destra e una scrivania sulla sinistra, con una finestra luminosa al centro.",
+      "shot_idx": 30,
+      "start": 58.9,
+      "end": 60.067,
+      "dur": 1.167
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "letto matrimoniale",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il letto matrimoniale con lenzuola bianche e testiera marrone.",
+      "shot_idx": 31,
+      "start": 60.067,
+      "end": 61.4,
+      "dur": 1.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "grattacieli città",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una vista aerea di grattacieli moderni e un fiume sullo sfondo.",
+      "shot_idx": 32,
+      "start": 61.4,
+      "end": 66.5,
+      "dur": 5.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e grigio che si fa un selfie con i grattacieli sullo sfondo.",
+      "shot_idx": 33,
+      "start": 66.5,
+      "end": 68.533,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "macchina caffè",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano che posiziona una tazza sotto una macchina da caffè Nespresso.",
+      "shot_idx": 34,
+      "start": 68.533,
+      "end": 70.067,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "tazza caffè mano",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano tiene una tazza di caffè con un tappeto a strisce blu e beige sullo sfondo.",
+      "shot_idx": 35,
+      "start": 70.067,
+      "end": 70.8,
+      "dur": 0.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "tazza caffè pavimento",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La tazza di caffè è in primo piano, con le gambe e i piedi della persona visibili sul tappeto.",
+      "shot_idx": 36,
+      "start": 70.8,
+      "end": 71.533,
+      "dur": 0.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo beve caffè",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo beve caffè con uno sfondo di grattacieli e cielo azzurro.",
+      "shot_idx": 37,
+      "start": 71.533,
+      "end": 75.633,
+      "dur": 4.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "attrezzi palestra tapis",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una sala fitness con due tapis roulant e attrezzi da palestra sullo sfondo.",
+      "shot_idx": 38,
+      "start": 75.633,
+      "end": 79.833,
+      "dur": 4.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "palestra attrezzi pesi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una palestra moderna con vari attrezzi e uno specchio che riflette un uomo che si allena.",
+      "shot_idx": 39,
+      "start": 79.833,
+      "end": 83.633,
+      "dur": 3.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "palestra con persona",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una persona in maglietta rossa si allena in una palestra luminosa.",
+      "shot_idx": 40,
+      "start": 83.633,
+      "end": 88.933,
+      "dur": 5.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "attrezzi palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un attrezzo da palestra con il logo 'Hammer Strength' è in primo piano, con finestre sullo sfondo.",
+      "shot_idx": 41,
+      "start": 88.933,
+      "end": 89.967,
+      "dur": 1.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "cyclette e vogatore",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Diverse cyclette e un vogatore sono disposti in una palestra con una TV accesa.",
+      "shot_idx": 42,
+      "start": 89.967,
+      "end": 91.133,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cyclette con vista",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una cyclette Technogym è posizionata davanti a una grande finestra con vista sulla città.",
+      "shot_idx": 43,
+      "start": 91.133,
+      "end": 91.733,
+      "dur": 0.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano con mela e bicchiere",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano tiene una mela rossa e un bicchiere di carta, con la palestra sullo sfondo.",
+      "shot_idx": 44,
+      "start": 91.733,
+      "end": 93.1,
+      "dur": 1.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio circuito Americas",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'edificio del 'Circuit of the Americas' con un grande logo rosso e nero.",
+      "shot_idx": 45,
+      "start": 93.1,
+      "end": 95.1,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tribune vuote pista",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le tribune vuote di un circuito automobilistico con la pista in lontananza.",
+      "shot_idx": 46,
+      "start": 95.1,
+      "end": 99.9,
+      "dur": 4.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "pista curva tribune",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una curva della pista con le tribune vuote e un tabellone dei giri.",
+      "shot_idx": 47,
+      "start": 99.9,
+      "end": 100.767,
+      "dur": 0.867
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tribune pista orizzonte",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una lunga fila di tribune vuote che si estende verso l'orizzonte con la pista.",
+      "shot_idx": 48,
+      "start": 100.767,
+      "end": 103.367,
+      "dur": 2.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo selfie tribune",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo che si fa un selfie con le tribune e la pista sullo sfondo.",
+      "shot_idx": 49,
+      "start": 103.367,
+      "end": 106.4,
+      "dur": 3.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "antipasti fritti, guacamole",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di antipasti fritti con insalata e salsa guacamole è in primo piano.",
+      "shot_idx": 50,
+      "start": 106.4,
+      "end": 109.6,
+      "dur": 3.2
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "antipasto mangiato, forchetta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un antipasto parzialmente mangiato con una forchetta e un coltello sul piatto.",
+      "shot_idx": 51,
+      "start": 109.6,
+      "end": 111.3,
+      "dur": 1.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatina",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta grigia mangia una patatina con un'espressione divertita.",
+      "shot_idx": 52,
+      "start": 111.3,
+      "end": 113.1,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "hamburger, patatine fritte",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano di un hamburger con formaggio fuso e patatine fritte.",
+      "shot_idx": 53,
+      "start": 113.1,
+      "end": 117.133,
+      "dur": 4.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "tacos, cipolle rosse",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos con carne, cipolle rosse e una fetta di lime su un piatto.",
+      "shot_idx": 54,
+      "start": 117.133,
+      "end": 120.1,
+      "dur": 2.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con un'espressione divertita mentre mangia qualcosa di piccolo.",
+      "shot_idx": 55,
+      "start": 120.1,
+      "end": 121.6,
+      "dur": 1.5
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Giornotra del mio viaggio in Texas oggi da San Antonio arriviamo a Dostin partendo però dalla colazione di un motel a San Antonio"
+    },
+    {
+      "start": 6.6,
+      "end": 12.6,
+      "text": "col classico waffles alla forma di Texas un po' di uova strappazzate e molto strane una sorta di cinnamon roll e un bel muffin"
+    },
+    {
+      "start": 12.6,
+      "end": 18.54,
+      "text": "ovviamente caffetto americano dopo di che nella strada per Austin ci siamo fermati da Bacchese una vera e propria istituzione in quel"
+    },
+    {
+      "start": 18.54,
+      "end": 23.74,
+      "text": "Del Texas anche se alla fine semplicemente un autogrill quindi un benzinaio mastodontico è un enorme"
+    },
+    {
+      "start": 23.74,
+      "end": 28.78,
+      "text": "stazione di servizio che tra l'altro vi serve il brische tappena fatto un brand che però qui in Texas è veramente"
+    },
+    {
+      "start": 28.78,
+      "end": 34.7,
+      "text": "Famoso soprattutto per i loro bagni che in torri a sono pulitissimi che posto assurdo dopo di che classicata per un auto americano"
+    },
+    {
+      "start": 35.56,
+      "end": 36.36,
+      "text": "sto posto è"
+    },
+    {
+      "start": 36.36,
+      "end": 43.78,
+      "text": "in mezzo e dopo aver comprato qualcosa in appausa pranzo da baddiesburg una catena americana specializzata negli smash burger in cui è chiaramente preso un"
+    },
+    {
+      "start": 43.78,
+      "end": 48.3,
+      "text": "Loro menu con le patatine speziate molto buono ovviamente un fryer fil di diet cook e diet"
+    },
+    {
+      "start": 48.3,
+      "end": 53.16,
+      "text": "Dr. Pepe quando la trovi in america la prendo sempre e smash burger classico con beccon ciotrullini salsa"
+    },
+    {
+      "start": 53.16,
+      "end": 59.42,
+      "text": "Smok pomodoro installata devo dire un bollivello di smash burger e dopo di che i ragazzi siamo arrivati nel nostro tela d'oste"
+    },
+    {
+      "start": 59.42,
+      "end": 64.7,
+      "text": "Ne guardate che vista devo dire una camera cla mo rosa anche perché davvero secondo me la cosa più importante"
+    },
+    {
+      "start": 64.7,
+      "end": 69.2,
+      "text": "quando si viaggia era vista degli otelli soprattutto nelle città americane con questi palazzoni"
+    },
+    {
+      "start": 69.2,
+      "end": 73.98,
+      "text": "clamorosi tra l'altro c'era anche la macchinetta del caffè ne espresso e quindi facciamo subito un bel caffettino e poi"
+    },
+    {
+      "start": 73.98,
+      "end": 79.78,
+      "text": "Andiamo a fare un giro per capire come è la palestra di questo telo palestra che devo dire è abbastanza tutto rasteggiere di manubri"
+    },
+    {
+      "start": 79.78,
+      "end": 86.54,
+      "text": "Tutto tecnologi tutto molto molto carino ovviamente i tapirulani infiniti asciugamani acqua mele a vostra disposizione"
+    },
+    {
+      "start": 86.54,
+      "end": 93.7,
+      "text": "Un bel racco tutti pesi una stazione cavi si clatt e ovviamente mi sono fermato a prendere una bella mela ed infine ragazzi prima di cena"
+    },
+    {
+      "start": 93.7,
+      "end": 99.22,
+      "text": "Diretto al circuito della formula 1 di ostin che anche se come sport non lo seguo tanto devo dire che sia davvero davvero"
+    },
+    {
+      "start": 99.22,
+      "end": 104.52,
+      "text": "interessante perché ragazzi c'era proprio la possibilità appunto di vedere la pista dopo di che c'è uno ristorante"
+    },
+    {
+      "start": 104.52,
+      "end": 111.44,
+      "text": "messicano a d'ostin messicano comunque è tex max con un po' gli antipastini vari come tortiglie altre cose piatto principale con un mega"
+    },
+    {
+      "start": 111.44,
+      "end": 115.24,
+      "text": "hamburger azzo perché ovviamente siamo sempre in america che perché siano un burger smash"
+    },
+    {
+      "start": 115.24,
+      "end": 121.2,
+      "text": "un burger normali in america sanno farli veramente sempre bene e poi sto giato anche a questi tacos e così si conclude anche il terzo giorno"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "word": "Giornotra"
+    },
+    {
+      "start": 0.58,
+      "end": 0.72,
+      "word": "del"
+    },
+    {
+      "start": 0.72,
+      "end": 0.84,
+      "word": "mio"
+    },
+    {
+      "start": 0.84,
+      "end": 1.08,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.08,
+      "end": 1.24,
+      "word": "in"
+    },
+    {
+      "start": 1.24,
+      "end": 1.48,
+      "word": "Texas"
+    },
+    {
+      "start": 1.48,
+      "end": 2.08,
+      "word": "oggi"
+    },
+    {
+      "start": 2.08,
+      "end": 2.34,
+      "word": "da"
+    },
+    {
+      "start": 2.34,
+      "end": 2.52,
+      "word": "San"
+    },
+    {
+      "start": 2.52,
+      "end": 2.92,
+      "word": "Antonio"
+    },
+    {
+      "start": 2.92,
+      "end": 3.3,
+      "word": "arriviamo"
+    },
+    {
+      "start": 3.3,
+      "end": 3.44,
+      "word": "a"
+    },
+    {
+      "start": 3.44,
+      "end": 3.8,
+      "word": "Dostin"
+    },
+    {
+      "start": 3.8,
+      "end": 4.2,
+      "word": "partendo"
+    },
+    {
+      "start": 4.2,
+      "end": 4.4,
+      "word": "però"
+    },
+    {
+      "start": 4.4,
+      "end": 4.56,
+      "word": "dalla"
+    },
+    {
+      "start": 4.56,
+      "end": 5.0,
+      "word": "colazione"
+    },
+    {
+      "start": 5.0,
+      "end": 5.26,
+      "word": "di"
+    },
+    {
+      "start": 5.26,
+      "end": 5.36,
+      "word": "un"
+    },
+    {
+      "start": 5.36,
+      "end": 5.7,
+      "word": "motel"
+    },
+    {
+      "start": 5.7,
+      "end": 6.02,
+      "word": "a"
+    },
+    {
+      "start": 6.02,
+      "end": 6.16,
+      "word": "San"
+    },
+    {
+      "start": 6.16,
+      "end": 6.6,
+      "word": "Antonio"
+    },
+    {
+      "start": 6.6,
+      "end": 6.76,
+      "word": "col"
+    },
+    {
+      "start": 6.76,
+      "end": 7.22,
+      "word": "classico"
+    },
+    {
+      "start": 7.22,
+      "end": 7.56,
+      "word": "waffles"
+    },
+    {
+      "start": 7.56,
+      "end": 7.74,
+      "word": "alla"
+    },
+    {
+      "start": 7.74,
+      "end": 7.9,
+      "word": "forma"
+    },
+    {
+      "start": 7.9,
+      "end": 8.08,
+      "word": "di"
+    },
+    {
+      "start": 8.08,
+      "end": 8.38,
+      "word": "Texas"
+    },
+    {
+      "start": 8.38,
+      "end": 8.64,
+      "word": "un"
+    },
+    {
+      "start": 8.64,
+      "end": 8.74,
+      "word": "po'"
+    },
+    {
+      "start": 8.8,
+      "end": 8.86,
+      "word": "di"
+    },
+    {
+      "start": 8.86,
+      "end": 9.02,
+      "word": "uova"
+    },
+    {
+      "start": 9.02,
+      "end": 9.6,
+      "word": "strappazzate"
+    },
+    {
+      "start": 9.6,
+      "end": 9.78,
+      "word": "e"
+    },
+    {
+      "start": 9.78,
+      "end": 10.0,
+      "word": "molto"
+    },
+    {
+      "start": 10.0,
+      "end": 10.5,
+      "word": "strane"
+    },
+    {
+      "start": 10.5,
+      "end": 10.72,
+      "word": "una"
+    },
+    {
+      "start": 10.72,
+      "end": 10.96,
+      "word": "sorta"
+    },
+    {
+      "start": 10.96,
+      "end": 11.16,
+      "word": "di"
+    },
+    {
+      "start": 11.16,
+      "end": 11.4,
+      "word": "cinnamon"
+    },
+    {
+      "start": 11.4,
+      "end": 11.84,
+      "word": "roll"
+    },
+    {
+      "start": 11.84,
+      "end": 11.96,
+      "word": "e"
+    },
+    {
+      "start": 11.96,
+      "end": 12.08,
+      "word": "un"
+    },
+    {
+      "start": 12.08,
+      "end": 12.16,
+      "word": "bel"
+    },
+    {
+      "start": 12.16,
+      "end": 12.6,
+      "word": "muffin"
+    },
+    {
+      "start": 12.6,
+      "end": 12.98,
+      "word": "ovviamente"
+    },
+    {
+      "start": 12.98,
+      "end": 13.42,
+      "word": "caffetto"
+    },
+    {
+      "start": 13.42,
+      "end": 14.02,
+      "word": "americano"
+    },
+    {
+      "start": 14.02,
+      "end": 14.2,
+      "word": "dopo"
+    },
+    {
+      "start": 14.2,
+      "end": 14.36,
+      "word": "di"
+    },
+    {
+      "start": 14.36,
+      "end": 14.46,
+      "word": "che"
+    },
+    {
+      "start": 14.46,
+      "end": 14.66,
+      "word": "nella"
+    },
+    {
+      "start": 14.66,
+      "end": 14.98,
+      "word": "strada"
+    },
+    {
+      "start": 14.98,
+      "end": 15.16,
+      "word": "per"
+    },
+    {
+      "start": 15.16,
+      "end": 15.4,
+      "word": "Austin"
+    },
+    {
+      "start": 15.4,
+      "end": 15.6,
+      "word": "ci"
+    },
+    {
+      "start": 15.6,
+      "end": 15.78,
+      "word": "siamo"
+    },
+    {
+      "start": 15.78,
+      "end": 16.2,
+      "word": "fermati"
+    },
+    {
+      "start": 16.2,
+      "end": 16.36,
+      "word": "da"
+    },
+    {
+      "start": 16.36,
+      "end": 16.88,
+      "word": "Bacchese"
+    },
+    {
+      "start": 16.88,
+      "end": 17.06,
+      "word": "una"
+    },
+    {
+      "start": 17.06,
+      "end": 17.26,
+      "word": "vera"
+    },
+    {
+      "start": 17.26,
+      "end": 17.28,
+      "word": "e"
+    },
+    {
+      "start": 17.28,
+      "end": 17.5,
+      "word": "propria"
+    },
+    {
+      "start": 17.5,
+      "end": 18.22,
+      "word": "istituzione"
+    },
+    {
+      "start": 18.22,
+      "end": 18.4,
+      "word": "in"
+    },
+    {
+      "start": 18.4,
+      "end": 18.54,
+      "word": "quel"
+    },
+    {
+      "start": 18.54,
+      "end": 18.74,
+      "word": "Del"
+    },
+    {
+      "start": 18.74,
+      "end": 19.1,
+      "word": "Texas"
+    },
+    {
+      "start": 19.1,
+      "end": 19.46,
+      "word": "anche"
+    },
+    {
+      "start": 19.46,
+      "end": 19.62,
+      "word": "se"
+    },
+    {
+      "start": 19.62,
+      "end": 19.7,
+      "word": "alla"
+    },
+    {
+      "start": 19.7,
+      "end": 19.84,
+      "word": "fine"
+    },
+    {
+      "start": 19.84,
+      "end": 20.3,
+      "word": "semplicemente"
+    },
+    {
+      "start": 20.3,
+      "end": 20.46,
+      "word": "un"
+    },
+    {
+      "start": 20.46,
+      "end": 20.86,
+      "word": "autogrill"
+    },
+    {
+      "start": 20.86,
+      "end": 21.2,
+      "word": "quindi"
+    },
+    {
+      "start": 21.2,
+      "end": 21.4,
+      "word": "un"
+    },
+    {
+      "start": 21.4,
+      "end": 22.06,
+      "word": "benzinaio"
+    },
+    {
+      "start": 22.06,
+      "end": 23.06,
+      "word": "mastodontico"
+    },
+    {
+      "start": 23.06,
+      "end": 23.3,
+      "word": "è"
+    },
+    {
+      "start": 23.3,
+      "end": 23.4,
+      "word": "un"
+    },
+    {
+      "start": 23.4,
+      "end": 23.74,
+      "word": "enorme"
+    },
+    {
+      "start": 23.74,
+      "end": 24.28,
+      "word": "stazione"
+    },
+    {
+      "start": 24.28,
+      "end": 24.44,
+      "word": "di"
+    },
+    {
+      "start": 24.44,
+      "end": 24.94,
+      "word": "servizio"
+    },
+    {
+      "start": 24.94,
+      "end": 25.08,
+      "word": "che"
+    },
+    {
+      "start": 25.08,
+      "end": 25.24,
+      "word": "tra"
+    },
+    {
+      "start": 25.24,
+      "end": 25.38,
+      "word": "l"
+    },
+    {
+      "start": 25.38,
+      "end": 25.46,
+      "word": "'altro"
+    },
+    {
+      "start": 25.46,
+      "end": 25.62,
+      "word": "vi"
+    },
+    {
+      "start": 25.62,
+      "end": 25.78,
+      "word": "serve"
+    },
+    {
+      "start": 25.78,
+      "end": 25.96,
+      "word": "il"
+    },
+    {
+      "start": 25.96,
+      "end": 26.3,
+      "word": "brische"
+    },
+    {
+      "start": 26.3,
+      "end": 26.6,
+      "word": "tappena"
+    },
+    {
+      "start": 26.6,
+      "end": 27.0,
+      "word": "fatto"
+    },
+    {
+      "start": 27.0,
+      "end": 27.32,
+      "word": "un"
+    },
+    {
+      "start": 27.32,
+      "end": 27.46,
+      "word": "brand"
+    },
+    {
+      "start": 27.46,
+      "end": 27.66,
+      "word": "che"
+    },
+    {
+      "start": 27.66,
+      "end": 27.84,
+      "word": "però"
+    },
+    {
+      "start": 27.84,
+      "end": 28.02,
+      "word": "qui"
+    },
+    {
+      "start": 28.02,
+      "end": 28.1,
+      "word": "in"
+    },
+    {
+      "start": 28.1,
+      "end": 28.34,
+      "word": "Texas"
+    },
+    {
+      "start": 28.34,
+      "end": 28.54,
+      "word": "è"
+    },
+    {
+      "start": 28.54,
+      "end": 28.78,
+      "word": "veramente"
+    },
+    {
+      "start": 28.78,
+      "end": 29.4,
+      "word": "Famoso"
+    },
+    {
+      "start": 29.4,
+      "end": 29.7,
+      "word": "soprattutto"
+    },
+    {
+      "start": 29.7,
+      "end": 29.94,
+      "word": "per"
+    },
+    {
+      "start": 29.94,
+      "end": 30.02,
+      "word": "i"
+    },
+    {
+      "start": 30.02,
+      "end": 30.1,
+      "word": "loro"
+    },
+    {
+      "start": 30.1,
+      "end": 30.42,
+      "word": "bagni"
+    },
+    {
+      "start": 30.42,
+      "end": 30.54,
+      "word": "che"
+    },
+    {
+      "start": 30.54,
+      "end": 30.64,
+      "word": "in"
+    },
+    {
+      "start": 30.64,
+      "end": 30.78,
+      "word": "torri"
+    },
+    {
+      "start": 30.78,
+      "end": 30.82,
+      "word": "a"
+    },
+    {
+      "start": 30.82,
+      "end": 30.98,
+      "word": "sono"
+    },
+    {
+      "start": 30.98,
+      "end": 31.66,
+      "word": "pulitissimi"
+    },
+    {
+      "start": 31.66,
+      "end": 32.0,
+      "word": "che"
+    },
+    {
+      "start": 32.0,
+      "end": 32.3,
+      "word": "posto"
+    },
+    {
+      "start": 32.3,
+      "end": 32.8,
+      "word": "assurdo"
+    },
+    {
+      "start": 32.8,
+      "end": 33.0,
+      "word": "dopo"
+    },
+    {
+      "start": 33.0,
+      "end": 33.14,
+      "word": "di"
+    },
+    {
+      "start": 33.14,
+      "end": 33.3,
+      "word": "che"
+    },
+    {
+      "start": 33.3,
+      "end": 33.96,
+      "word": "classicata"
+    },
+    {
+      "start": 33.96,
+      "end": 34.16,
+      "word": "per"
+    },
+    {
+      "start": 34.16,
+      "end": 34.3,
+      "word": "un"
+    },
+    {
+      "start": 34.3,
+      "end": 34.52,
+      "word": "auto"
+    },
+    {
+      "start": 34.52,
+      "end": 34.76,
+      "word": "americano"
+    },
+    {
+      "start": 35.56,
+      "end": 35.74,
+      "word": "sto"
+    },
+    {
+      "start": 35.74,
+      "end": 36.22,
+      "word": "posto"
+    },
+    {
+      "start": 36.22,
+      "end": 36.36,
+      "word": "è"
+    },
+    {
+      "start": 36.36,
+      "end": 36.62,
+      "word": "in"
+    },
+    {
+      "start": 36.62,
+      "end": 37.58,
+      "word": "mezzo"
+    },
+    {
+      "start": 37.58,
+      "end": 37.7,
+      "word": "e"
+    },
+    {
+      "start": 37.7,
+      "end": 37.88,
+      "word": "dopo"
+    },
+    {
+      "start": 37.88,
+      "end": 38.06,
+      "word": "aver"
+    },
+    {
+      "start": 38.06,
+      "end": 38.38,
+      "word": "comprato"
+    },
+    {
+      "start": 38.38,
+      "end": 38.52,
+      "word": "qualcosa"
+    },
+    {
+      "start": 38.52,
+      "end": 38.86,
+      "word": "in"
+    },
+    {
+      "start": 38.86,
+      "end": 39.16,
+      "word": "appausa"
+    },
+    {
+      "start": 39.16,
+      "end": 39.44,
+      "word": "pranzo"
+    },
+    {
+      "start": 39.44,
+      "end": 39.56,
+      "word": "da"
+    },
+    {
+      "start": 39.56,
+      "end": 40.18,
+      "word": "baddiesburg"
+    },
+    {
+      "start": 40.18,
+      "end": 40.46,
+      "word": "una"
+    },
+    {
+      "start": 40.46,
+      "end": 40.76,
+      "word": "catena"
+    },
+    {
+      "start": 40.76,
+      "end": 41.2,
+      "word": "americana"
+    },
+    {
+      "start": 41.2,
+      "end": 41.8,
+      "word": "specializzata"
+    },
+    {
+      "start": 41.8,
+      "end": 42.12,
+      "word": "negli"
+    },
+    {
+      "start": 42.12,
+      "end": 42.3,
+      "word": "smash"
+    },
+    {
+      "start": 42.3,
+      "end": 42.68,
+      "word": "burger"
+    },
+    {
+      "start": 42.68,
+      "end": 42.82,
+      "word": "in"
+    },
+    {
+      "start": 42.82,
+      "end": 42.92,
+      "word": "cui"
+    },
+    {
+      "start": 42.92,
+      "end": 43.08,
+      "word": "è"
+    },
+    {
+      "start": 43.08,
+      "end": 43.3,
+      "word": "chiaramente"
+    },
+    {
+      "start": 43.3,
+      "end": 43.66,
+      "word": "preso"
+    },
+    {
+      "start": 43.66,
+      "end": 43.78,
+      "word": "un"
+    },
+    {
+      "start": 43.78,
+      "end": 43.86,
+      "word": "Loro"
+    },
+    {
+      "start": 43.86,
+      "end": 44.1,
+      "word": "menu"
+    },
+    {
+      "start": 44.1,
+      "end": 44.3,
+      "word": "con"
+    },
+    {
+      "start": 44.3,
+      "end": 44.4,
+      "word": "le"
+    },
+    {
+      "start": 44.4,
+      "end": 44.78,
+      "word": "patatine"
+    },
+    {
+      "start": 44.78,
+      "end": 45.28,
+      "word": "speziate"
+    },
+    {
+      "start": 45.28,
+      "end": 45.48,
+      "word": "molto"
+    },
+    {
+      "start": 45.48,
+      "end": 45.86,
+      "word": "buono"
+    },
+    {
+      "start": 45.86,
+      "end": 46.18,
+      "word": "ovviamente"
+    },
+    {
+      "start": 46.18,
+      "end": 46.5,
+      "word": "un"
+    },
+    {
+      "start": 46.5,
+      "end": 46.66,
+      "word": "fryer"
+    },
+    {
+      "start": 46.66,
+      "end": 46.92,
+      "word": "fil"
+    },
+    {
+      "start": 46.92,
+      "end": 47.16,
+      "word": "di"
+    },
+    {
+      "start": 47.16,
+      "end": 47.4,
+      "word": "diet"
+    },
+    {
+      "start": 47.4,
+      "end": 47.72,
+      "word": "cook"
+    },
+    {
+      "start": 47.72,
+      "end": 48.02,
+      "word": "e"
+    },
+    {
+      "start": 48.02,
+      "end": 48.3,
+      "word": "diet"
+    },
+    {
+      "start": 48.3,
+      "end": 48.68,
+      "word": "Dr."
+    },
+    {
+      "start": 48.86,
+      "end": 49.04,
+      "word": "Pepe"
+    },
+    {
+      "start": 49.04,
+      "end": 49.28,
+      "word": "quando"
+    },
+    {
+      "start": 49.28,
+      "end": 49.4,
+      "word": "la"
+    },
+    {
+      "start": 49.4,
+      "end": 49.56,
+      "word": "trovi"
+    },
+    {
+      "start": 49.56,
+      "end": 49.66,
+      "word": "in"
+    },
+    {
+      "start": 49.66,
+      "end": 49.94,
+      "word": "america"
+    },
+    {
+      "start": 49.94,
+      "end": 50.06,
+      "word": "la"
+    },
+    {
+      "start": 50.06,
+      "end": 50.28,
+      "word": "prendo"
+    },
+    {
+      "start": 50.28,
+      "end": 50.56,
+      "word": "sempre"
+    },
+    {
+      "start": 50.56,
+      "end": 50.84,
+      "word": "e"
+    },
+    {
+      "start": 50.84,
+      "end": 50.98,
+      "word": "smash"
+    },
+    {
+      "start": 50.98,
+      "end": 51.28,
+      "word": "burger"
+    },
+    {
+      "start": 51.28,
+      "end": 51.88,
+      "word": "classico"
+    },
+    {
+      "start": 51.88,
+      "end": 52.04,
+      "word": "con"
+    },
+    {
+      "start": 52.04,
+      "end": 52.36,
+      "word": "beccon"
+    },
+    {
+      "start": 52.36,
+      "end": 52.82,
+      "word": "ciotrullini"
+    },
+    {
+      "start": 52.82,
+      "end": 53.16,
+      "word": "salsa"
+    },
+    {
+      "start": 53.16,
+      "end": 53.76,
+      "word": "Smok"
+    },
+    {
+      "start": 53.76,
+      "end": 54.28,
+      "word": "pomodoro"
+    },
+    {
+      "start": 54.28,
+      "end": 54.84,
+      "word": "installata"
+    },
+    {
+      "start": 54.84,
+      "end": 55.02,
+      "word": "devo"
+    },
+    {
+      "start": 55.02,
+      "end": 55.32,
+      "word": "dire"
+    },
+    {
+      "start": 55.32,
+      "end": 55.58,
+      "word": "un"
+    },
+    {
+      "start": 55.58,
+      "end": 55.98,
+      "word": "bollivello"
+    },
+    {
+      "start": 55.98,
+      "end": 56.1,
+      "word": "di"
+    },
+    {
+      "start": 56.1,
+      "end": 56.28,
+      "word": "smash"
+    },
+    {
+      "start": 56.28,
+      "end": 56.66,
+      "word": "burger"
+    },
+    {
+      "start": 56.66,
+      "end": 56.86,
+      "word": "e"
+    },
+    {
+      "start": 56.86,
+      "end": 57.02,
+      "word": "dopo"
+    },
+    {
+      "start": 57.02,
+      "end": 57.2,
+      "word": "di"
+    },
+    {
+      "start": 57.2,
+      "end": 57.3,
+      "word": "che"
+    },
+    {
+      "start": 57.3,
+      "end": 57.4,
+      "word": "i"
+    },
+    {
+      "start": 57.4,
+      "end": 57.66,
+      "word": "ragazzi"
+    },
+    {
+      "start": 57.66,
+      "end": 57.82,
+      "word": "siamo"
+    },
+    {
+      "start": 57.82,
+      "end": 58.16,
+      "word": "arrivati"
+    },
+    {
+      "start": 58.16,
+      "end": 58.38,
+      "word": "nel"
+    },
+    {
+      "start": 58.38,
+      "end": 58.74,
+      "word": "nostro"
+    },
+    {
+      "start": 58.74,
+      "end": 59.02,
+      "word": "tela"
+    },
+    {
+      "start": 59.02,
+      "end": 59.22,
+      "word": "d"
+    },
+    {
+      "start": 59.22,
+      "end": 59.42,
+      "word": "'oste"
+    },
+    {
+      "start": 59.42,
+      "end": 59.54,
+      "word": "Ne"
+    },
+    {
+      "start": 59.54,
+      "end": 59.84,
+      "word": "guardate"
+    },
+    {
+      "start": 59.84,
+      "end": 60.0,
+      "word": "che"
+    },
+    {
+      "start": 60.0,
+      "end": 60.34,
+      "word": "vista"
+    },
+    {
+      "start": 60.34,
+      "end": 60.58,
+      "word": "devo"
+    },
+    {
+      "start": 60.58,
+      "end": 60.76,
+      "word": "dire"
+    },
+    {
+      "start": 60.76,
+      "end": 60.96,
+      "word": "una"
+    },
+    {
+      "start": 60.96,
+      "end": 61.24,
+      "word": "camera"
+    },
+    {
+      "start": 61.24,
+      "end": 61.62,
+      "word": "cla"
+    },
+    {
+      "start": 61.62,
+      "end": 61.98,
+      "word": "mo"
+    },
+    {
+      "start": 61.98,
+      "end": 62.66,
+      "word": "rosa"
+    },
+    {
+      "start": 62.66,
+      "end": 62.84,
+      "word": "anche"
+    },
+    {
+      "start": 62.84,
+      "end": 63.08,
+      "word": "perché"
+    },
+    {
+      "start": 63.08,
+      "end": 63.38,
+      "word": "davvero"
+    },
+    {
+      "start": 63.38,
+      "end": 63.6,
+      "word": "secondo"
+    },
+    {
+      "start": 63.6,
+      "end": 63.84,
+      "word": "me"
+    },
+    {
+      "start": 63.84,
+      "end": 63.94,
+      "word": "la"
+    },
+    {
+      "start": 63.94,
+      "end": 64.12,
+      "word": "cosa"
+    },
+    {
+      "start": 64.12,
+      "end": 64.3,
+      "word": "più"
+    },
+    {
+      "start": 64.3,
+      "end": 64.7,
+      "word": "importante"
+    },
+    {
+      "start": 64.7,
+      "end": 65.06,
+      "word": "quando"
+    },
+    {
+      "start": 65.06,
+      "end": 65.24,
+      "word": "si"
+    },
+    {
+      "start": 65.24,
+      "end": 65.68,
+      "word": "viaggia"
+    },
+    {
+      "start": 65.68,
+      "end": 65.9,
+      "word": "era"
+    },
+    {
+      "start": 65.9,
+      "end": 66.2,
+      "word": "vista"
+    },
+    {
+      "start": 66.2,
+      "end": 66.42,
+      "word": "degli"
+    },
+    {
+      "start": 66.42,
+      "end": 66.66,
+      "word": "otelli"
+    },
+    {
+      "start": 66.66,
+      "end": 66.98,
+      "word": "soprattutto"
+    },
+    {
+      "start": 66.98,
+      "end": 67.44,
+      "word": "nelle"
+    },
+    {
+      "start": 67.44,
+      "end": 67.72,
+      "word": "città"
+    },
+    {
+      "start": 67.72,
+      "end": 68.14,
+      "word": "americane"
+    },
+    {
+      "start": 68.14,
+      "end": 68.34,
+      "word": "con"
+    },
+    {
+      "start": 68.34,
+      "end": 68.58,
+      "word": "questi"
+    },
+    {
+      "start": 68.58,
+      "end": 69.2,
+      "word": "palazzoni"
+    },
+    {
+      "start": 69.2,
+      "end": 69.72,
+      "word": "clamorosi"
+    },
+    {
+      "start": 69.72,
+      "end": 69.84,
+      "word": "tra"
+    },
+    {
+      "start": 69.84,
+      "end": 70.02,
+      "word": "l"
+    },
+    {
+      "start": 70.02,
+      "end": 70.1,
+      "word": "'altro"
+    },
+    {
+      "start": 70.1,
+      "end": 70.26,
+      "word": "c"
+    },
+    {
+      "start": 70.26,
+      "end": 70.32,
+      "word": "'era"
+    },
+    {
+      "start": 70.32,
+      "end": 70.48,
+      "word": "anche"
+    },
+    {
+      "start": 70.48,
+      "end": 70.6,
+      "word": "la"
+    },
+    {
+      "start": 70.6,
+      "end": 70.96,
+      "word": "macchinetta"
+    },
+    {
+      "start": 70.96,
+      "end": 71.1,
+      "word": "del"
+    },
+    {
+      "start": 71.1,
+      "end": 71.32,
+      "word": "caffè"
+    },
+    {
+      "start": 71.32,
+      "end": 71.42,
+      "word": "ne"
+    },
+    {
+      "start": 71.42,
+      "end": 71.68,
+      "word": "espresso"
+    },
+    {
+      "start": 71.68,
+      "end": 71.94,
+      "word": "e"
+    },
+    {
+      "start": 71.94,
+      "end": 72.06,
+      "word": "quindi"
+    },
+    {
+      "start": 72.06,
+      "end": 72.44,
+      "word": "facciamo"
+    },
+    {
+      "start": 72.44,
+      "end": 72.86,
+      "word": "subito"
+    },
+    {
+      "start": 72.86,
+      "end": 72.98,
+      "word": "un"
+    },
+    {
+      "start": 72.98,
+      "end": 73.08,
+      "word": "bel"
+    },
+    {
+      "start": 73.08,
+      "end": 73.7,
+      "word": "caffettino"
+    },
+    {
+      "start": 73.7,
+      "end": 73.88,
+      "word": "e"
+    },
+    {
+      "start": 73.88,
+      "end": 73.98,
+      "word": "poi"
+    },
+    {
+      "start": 73.98,
+      "end": 74.16,
+      "word": "Andiamo"
+    },
+    {
+      "start": 74.16,
+      "end": 74.28,
+      "word": "a"
+    },
+    {
+      "start": 74.28,
+      "end": 74.38,
+      "word": "fare"
+    },
+    {
+      "start": 74.38,
+      "end": 74.54,
+      "word": "un"
+    },
+    {
+      "start": 74.54,
+      "end": 74.8,
+      "word": "giro"
+    },
+    {
+      "start": 74.8,
+      "end": 74.92,
+      "word": "per"
+    },
+    {
+      "start": 74.92,
+      "end": 75.28,
+      "word": "capire"
+    },
+    {
+      "start": 75.28,
+      "end": 75.52,
+      "word": "come"
+    },
+    {
+      "start": 75.52,
+      "end": 75.76,
+      "word": "è"
+    },
+    {
+      "start": 75.76,
+      "end": 75.9,
+      "word": "la"
+    },
+    {
+      "start": 75.9,
+      "end": 76.3,
+      "word": "palestra"
+    },
+    {
+      "start": 76.3,
+      "end": 76.48,
+      "word": "di"
+    },
+    {
+      "start": 76.48,
+      "end": 76.66,
+      "word": "questo"
+    },
+    {
+      "start": 76.66,
+      "end": 77.04,
+      "word": "telo"
+    },
+    {
+      "start": 77.04,
+      "end": 77.3,
+      "word": "palestra"
+    },
+    {
+      "start": 77.3,
+      "end": 77.42,
+      "word": "che"
+    },
+    {
+      "start": 77.42,
+      "end": 77.6,
+      "word": "devo"
+    },
+    {
+      "start": 77.6,
+      "end": 77.86,
+      "word": "dire"
+    },
+    {
+      "start": 77.86,
+      "end": 78.02,
+      "word": "è"
+    },
+    {
+      "start": 78.02,
+      "end": 78.32,
+      "word": "abbastanza"
+    },
+    {
+      "start": 78.32,
+      "end": 78.64,
+      "word": "tutto"
+    },
+    {
+      "start": 78.64,
+      "end": 79.22,
+      "word": "rasteggiere"
+    },
+    {
+      "start": 79.22,
+      "end": 79.32,
+      "word": "di"
+    },
+    {
+      "start": 79.32,
+      "end": 79.78,
+      "word": "manubri"
+    },
+    {
+      "start": 79.78,
+      "end": 80.08,
+      "word": "Tutto"
+    },
+    {
+      "start": 80.08,
+      "end": 80.56,
+      "word": "tecnologi"
+    },
+    {
+      "start": 80.56,
+      "end": 80.84,
+      "word": "tutto"
+    },
+    {
+      "start": 80.84,
+      "end": 81.14,
+      "word": "molto"
+    },
+    {
+      "start": 81.14,
+      "end": 81.3,
+      "word": "molto"
+    },
+    {
+      "start": 81.3,
+      "end": 81.74,
+      "word": "carino"
+    },
+    {
+      "start": 81.74,
+      "end": 82.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 82.4,
+      "end": 82.66,
+      "word": "i"
+    },
+    {
+      "start": 82.66,
+      "end": 83.04,
+      "word": "tapirulani"
+    },
+    {
+      "start": 83.04,
+      "end": 83.62,
+      "word": "infiniti"
+    },
+    {
+      "start": 83.62,
+      "end": 84.26,
+      "word": "asciugamani"
+    },
+    {
+      "start": 84.26,
+      "end": 84.72,
+      "word": "acqua"
+    },
+    {
+      "start": 84.72,
+      "end": 85.22,
+      "word": "mele"
+    },
+    {
+      "start": 85.22,
+      "end": 85.72,
+      "word": "a"
+    },
+    {
+      "start": 85.72,
+      "end": 85.92,
+      "word": "vostra"
+    },
+    {
+      "start": 85.92,
+      "end": 86.54,
+      "word": "disposizione"
+    },
+    {
+      "start": 86.54,
+      "end": 86.88,
+      "word": "Un"
+    },
+    {
+      "start": 86.88,
+      "end": 87.04,
+      "word": "bel"
+    },
+    {
+      "start": 87.04,
+      "end": 87.36,
+      "word": "racco"
+    },
+    {
+      "start": 87.36,
+      "end": 87.64,
+      "word": "tutti"
+    },
+    {
+      "start": 87.64,
+      "end": 88.22,
+      "word": "pesi"
+    },
+    {
+      "start": 88.22,
+      "end": 88.62,
+      "word": "una"
+    },
+    {
+      "start": 88.62,
+      "end": 88.96,
+      "word": "stazione"
+    },
+    {
+      "start": 88.96,
+      "end": 89.46,
+      "word": "cavi"
+    },
+    {
+      "start": 89.46,
+      "end": 89.62,
+      "word": "si"
+    },
+    {
+      "start": 89.62,
+      "end": 90.0,
+      "word": "clatt"
+    },
+    {
+      "start": 90.0,
+      "end": 90.24,
+      "word": "e"
+    },
+    {
+      "start": 90.24,
+      "end": 90.58,
+      "word": "ovviamente"
+    },
+    {
+      "start": 90.58,
+      "end": 90.94,
+      "word": "mi"
+    },
+    {
+      "start": 90.94,
+      "end": 91.08,
+      "word": "sono"
+    },
+    {
+      "start": 91.08,
+      "end": 91.46,
+      "word": "fermato"
+    },
+    {
+      "start": 91.46,
+      "end": 91.56,
+      "word": "a"
+    },
+    {
+      "start": 91.56,
+      "end": 91.72,
+      "word": "prendere"
+    },
+    {
+      "start": 91.72,
+      "end": 91.86,
+      "word": "una"
+    },
+    {
+      "start": 91.86,
+      "end": 92.06,
+      "word": "bella"
+    },
+    {
+      "start": 92.06,
+      "end": 92.34,
+      "word": "mela"
+    },
+    {
+      "start": 92.34,
+      "end": 92.48,
+      "word": "ed"
+    },
+    {
+      "start": 92.48,
+      "end": 92.76,
+      "word": "infine"
+    },
+    {
+      "start": 92.76,
+      "end": 93.14,
+      "word": "ragazzi"
+    },
+    {
+      "start": 93.14,
+      "end": 93.32,
+      "word": "prima"
+    },
+    {
+      "start": 93.32,
+      "end": 93.5,
+      "word": "di"
+    },
+    {
+      "start": 93.5,
+      "end": 93.7,
+      "word": "cena"
+    },
+    {
+      "start": 93.7,
+      "end": 94.3,
+      "word": "Diretto"
+    },
+    {
+      "start": 94.3,
+      "end": 94.38,
+      "word": "al"
+    },
+    {
+      "start": 94.38,
+      "end": 94.9,
+      "word": "circuito"
+    },
+    {
+      "start": 94.9,
+      "end": 95.08,
+      "word": "della"
+    },
+    {
+      "start": 95.08,
+      "end": 95.32,
+      "word": "formula"
+    },
+    {
+      "start": 95.32,
+      "end": 95.64,
+      "word": "1"
+    },
+    {
+      "start": 95.64,
+      "end": 95.82,
+      "word": "di"
+    },
+    {
+      "start": 95.82,
+      "end": 96.18,
+      "word": "ostin"
+    },
+    {
+      "start": 96.18,
+      "end": 96.32,
+      "word": "che"
+    },
+    {
+      "start": 96.32,
+      "end": 96.44,
+      "word": "anche"
+    },
+    {
+      "start": 96.44,
+      "end": 96.62,
+      "word": "se"
+    },
+    {
+      "start": 96.62,
+      "end": 96.82,
+      "word": "come"
+    },
+    {
+      "start": 96.82,
+      "end": 97.04,
+      "word": "sport"
+    },
+    {
+      "start": 97.04,
+      "end": 97.28,
+      "word": "non"
+    },
+    {
+      "start": 97.28,
+      "end": 97.42,
+      "word": "lo"
+    },
+    {
+      "start": 97.42,
+      "end": 97.7,
+      "word": "seguo"
+    },
+    {
+      "start": 97.7,
+      "end": 97.94,
+      "word": "tanto"
+    },
+    {
+      "start": 97.94,
+      "end": 98.14,
+      "word": "devo"
+    },
+    {
+      "start": 98.14,
+      "end": 98.32,
+      "word": "dire"
+    },
+    {
+      "start": 98.32,
+      "end": 98.44,
+      "word": "che"
+    },
+    {
+      "start": 98.44,
+      "end": 98.56,
+      "word": "sia"
+    },
+    {
+      "start": 98.56,
+      "end": 98.94,
+      "word": "davvero"
+    },
+    {
+      "start": 98.94,
+      "end": 99.22,
+      "word": "davvero"
+    },
+    {
+      "start": 99.22,
+      "end": 99.58,
+      "word": "interessante"
+    },
+    {
+      "start": 99.58,
+      "end": 100.16,
+      "word": "perché"
+    },
+    {
+      "start": 100.16,
+      "end": 100.48,
+      "word": "ragazzi"
+    },
+    {
+      "start": 100.48,
+      "end": 100.62,
+      "word": "c"
+    },
+    {
+      "start": 100.62,
+      "end": 100.66,
+      "word": "'era"
+    },
+    {
+      "start": 100.66,
+      "end": 100.84,
+      "word": "proprio"
+    },
+    {
+      "start": 100.84,
+      "end": 100.98,
+      "word": "la"
+    },
+    {
+      "start": 100.98,
+      "end": 101.38,
+      "word": "possibilità"
+    },
+    {
+      "start": 101.38,
+      "end": 101.7,
+      "word": "appunto"
+    },
+    {
+      "start": 101.7,
+      "end": 102.06,
+      "word": "di"
+    },
+    {
+      "start": 102.06,
+      "end": 102.48,
+      "word": "vedere"
+    },
+    {
+      "start": 102.48,
+      "end": 102.72,
+      "word": "la"
+    },
+    {
+      "start": 102.72,
+      "end": 103.0,
+      "word": "pista"
+    },
+    {
+      "start": 103.0,
+      "end": 103.32,
+      "word": "dopo"
+    },
+    {
+      "start": 103.32,
+      "end": 103.46,
+      "word": "di"
+    },
+    {
+      "start": 103.46,
+      "end": 103.58,
+      "word": "che"
+    },
+    {
+      "start": 103.58,
+      "end": 103.78,
+      "word": "c"
+    },
+    {
+      "start": 103.78,
+      "end": 103.8,
+      "word": "'è"
+    },
+    {
+      "start": 103.8,
+      "end": 104.02,
+      "word": "uno"
+    },
+    {
+      "start": 104.02,
+      "end": 104.52,
+      "word": "ristorante"
+    },
+    {
+      "start": 104.52,
+      "end": 105.32,
+      "word": "messicano"
+    },
+    {
+      "start": 105.32,
+      "end": 105.52,
+      "word": "a"
+    },
+    {
+      "start": 105.52,
+      "end": 105.6,
+      "word": "d"
+    },
+    {
+      "start": 105.6,
+      "end": 105.92,
+      "word": "'ostin"
+    },
+    {
+      "start": 105.92,
+      "end": 106.4,
+      "word": "messicano"
+    },
+    {
+      "start": 106.4,
+      "end": 106.72,
+      "word": "comunque"
+    },
+    {
+      "start": 106.72,
+      "end": 106.98,
+      "word": "è"
+    },
+    {
+      "start": 106.98,
+      "end": 107.2,
+      "word": "tex"
+    },
+    {
+      "start": 107.2,
+      "end": 107.42,
+      "word": "max"
+    },
+    {
+      "start": 107.42,
+      "end": 107.7,
+      "word": "con"
+    },
+    {
+      "start": 107.7,
+      "end": 107.78,
+      "word": "un"
+    },
+    {
+      "start": 107.78,
+      "end": 107.88,
+      "word": "po'"
+    },
+    {
+      "start": 107.92,
+      "end": 107.96,
+      "word": "gli"
+    },
+    {
+      "start": 107.96,
+      "end": 108.46,
+      "word": "antipastini"
+    },
+    {
+      "start": 108.46,
+      "end": 108.72,
+      "word": "vari"
+    },
+    {
+      "start": 108.72,
+      "end": 108.92,
+      "word": "come"
+    },
+    {
+      "start": 108.92,
+      "end": 109.52,
+      "word": "tortiglie"
+    },
+    {
+      "start": 109.52,
+      "end": 109.7,
+      "word": "altre"
+    },
+    {
+      "start": 109.7,
+      "end": 110.02,
+      "word": "cose"
+    },
+    {
+      "start": 110.02,
+      "end": 110.52,
+      "word": "piatto"
+    },
+    {
+      "start": 110.52,
+      "end": 110.98,
+      "word": "principale"
+    },
+    {
+      "start": 110.98,
+      "end": 111.14,
+      "word": "con"
+    },
+    {
+      "start": 111.14,
+      "end": 111.28,
+      "word": "un"
+    },
+    {
+      "start": 111.28,
+      "end": 111.44,
+      "word": "mega"
+    },
+    {
+      "start": 111.44,
+      "end": 111.76,
+      "word": "hamburger"
+    },
+    {
+      "start": 111.76,
+      "end": 112.16,
+      "word": "azzo"
+    },
+    {
+      "start": 112.16,
+      "end": 112.4,
+      "word": "perché"
+    },
+    {
+      "start": 112.4,
+      "end": 112.8,
+      "word": "ovviamente"
+    },
+    {
+      "start": 112.8,
+      "end": 113.16,
+      "word": "siamo"
+    },
+    {
+      "start": 113.16,
+      "end": 113.48,
+      "word": "sempre"
+    },
+    {
+      "start": 113.48,
+      "end": 113.6,
+      "word": "in"
+    },
+    {
+      "start": 113.6,
+      "end": 114.04,
+      "word": "america"
+    },
+    {
+      "start": 114.04,
+      "end": 114.12,
+      "word": "che"
+    },
+    {
+      "start": 114.12,
+      "end": 114.26,
+      "word": "perché"
+    },
+    {
+      "start": 114.26,
+      "end": 114.56,
+      "word": "siano"
+    },
+    {
+      "start": 114.56,
+      "end": 114.72,
+      "word": "un"
+    },
+    {
+      "start": 114.72,
+      "end": 114.9,
+      "word": "burger"
+    },
+    {
+      "start": 114.9,
+      "end": 115.24,
+      "word": "smash"
+    },
+    {
+      "start": 115.24,
+      "end": 115.58,
+      "word": "un"
+    },
+    {
+      "start": 115.58,
+      "end": 115.82,
+      "word": "burger"
+    },
+    {
+      "start": 115.82,
+      "end": 116.38,
+      "word": "normali"
+    },
+    {
+      "start": 116.38,
+      "end": 116.44,
+      "word": "in"
+    },
+    {
+      "start": 116.44,
+      "end": 116.76,
+      "word": "america"
+    },
+    {
+      "start": 116.76,
+      "end": 116.98,
+      "word": "sanno"
+    },
+    {
+      "start": 116.98,
+      "end": 117.3,
+      "word": "farli"
+    },
+    {
+      "start": 117.3,
+      "end": 117.5,
+      "word": "veramente"
+    },
+    {
+      "start": 117.5,
+      "end": 117.94,
+      "word": "sempre"
+    },
+    {
+      "start": 117.94,
+      "end": 118.16,
+      "word": "bene"
+    },
+    {
+      "start": 118.16,
+      "end": 118.24,
+      "word": "e"
+    },
+    {
+      "start": 118.24,
+      "end": 118.34,
+      "word": "poi"
+    },
+    {
+      "start": 118.34,
+      "end": 118.44,
+      "word": "sto"
+    },
+    {
+      "start": 118.44,
+      "end": 118.64,
+      "word": "giato"
+    },
+    {
+      "start": 118.64,
+      "end": 118.82,
+      "word": "anche"
+    },
+    {
+      "start": 118.82,
+      "end": 118.88,
+      "word": "a"
+    },
+    {
+      "start": 118.88,
+      "end": 119.06,
+      "word": "questi"
+    },
+    {
+      "start": 119.06,
+      "end": 119.38,
+      "word": "tacos"
+    },
+    {
+      "start": 119.38,
+      "end": 119.56,
+      "word": "e"
+    },
+    {
+      "start": 119.56,
+      "end": 119.76,
+      "word": "così"
+    },
+    {
+      "start": 119.76,
+      "end": 119.88,
+      "word": "si"
+    },
+    {
+      "start": 119.88,
+      "end": 120.22,
+      "word": "conclude"
+    },
+    {
+      "start": 120.22,
+      "end": 120.5,
+      "word": "anche"
+    },
+    {
+      "start": 120.5,
+      "end": 120.64,
+      "word": "il"
+    },
+    {
+      "start": 120.64,
+      "end": 120.92,
+      "word": "terzo"
+    },
+    {
+      "start": 120.92,
+      "end": 121.2,
+      "word": "giorno"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7,
+      "transcript": "Giornotra del mio viaggio in Texas oggi da San"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.7,
+      "end": 7.233,
+      "dur": 4.533,
+      "transcript": "Antonio arriviamo a Dostin partendo però dalla colazione di un motel a San Antonio col classico"
+    },
+    {
+      "shot_idx": 2,
+      "start": 7.233,
+      "end": 9.333,
+      "dur": 2.1,
+      "transcript": "waffles alla forma di Texas un po' di uova strappazzate"
+    },
+    {
+      "shot_idx": 3,
+      "start": 9.333,
+      "end": 10.6,
+      "dur": 1.267,
+      "transcript": "e molto strane"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.6,
+      "end": 12.167,
+      "dur": 1.567,
+      "transcript": "una sorta di cinnamon roll e un bel"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.167,
+      "end": 14.033,
+      "dur": 1.867,
+      "transcript": "muffin ovviamente caffetto americano"
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.033,
+      "end": 19.0,
+      "dur": 4.967,
+      "transcript": "dopo di che nella strada per Austin ci siamo fermati da Bacchese una vera e propria istituzione in quel Del Texas"
+    },
+    {
+      "shot_idx": 7,
+      "start": 19.0,
+      "end": 21.733,
+      "dur": 2.733,
+      "transcript": "anche se alla fine semplicemente un autogrill quindi un benzinaio"
+    },
+    {
+      "shot_idx": 8,
+      "start": 21.733,
+      "end": 23.7,
+      "dur": 1.967,
+      "transcript": "mastodontico è un enorme"
+    },
+    {
+      "shot_idx": 9,
+      "start": 23.7,
+      "end": 25.5,
+      "dur": 1.8,
+      "transcript": "stazione di servizio che tra l 'altro"
+    },
+    {
+      "shot_idx": 10,
+      "start": 25.5,
+      "end": 27.533,
+      "dur": 2.033,
+      "transcript": "vi serve il brische tappena fatto un brand"
+    },
+    {
+      "shot_idx": 11,
+      "start": 27.533,
+      "end": 28.067,
+      "dur": 0.533,
+      "transcript": "che però qui in"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.067,
+      "end": 28.733,
+      "dur": 0.667,
+      "transcript": "Texas è veramente"
+    },
+    {
+      "shot_idx": 13,
+      "start": 28.733,
+      "end": 30.0,
+      "dur": 1.267,
+      "transcript": "Famoso soprattutto per i"
+    },
+    {
+      "shot_idx": 14,
+      "start": 30.0,
+      "end": 31.733,
+      "dur": 1.733,
+      "transcript": "loro bagni che in torri a sono pulitissimi"
+    },
+    {
+      "shot_idx": 15,
+      "start": 31.733,
+      "end": 33.1,
+      "dur": 1.367,
+      "transcript": "che posto assurdo dopo di"
+    },
+    {
+      "shot_idx": 16,
+      "start": 33.1,
+      "end": 35.1,
+      "dur": 2.0,
+      "transcript": "che classicata per un auto americano"
+    },
+    {
+      "shot_idx": 17,
+      "start": 35.1,
+      "end": 37.667,
+      "dur": 2.567,
+      "transcript": "sto posto è in mezzo e"
+    },
+    {
+      "shot_idx": 18,
+      "start": 37.667,
+      "end": 39.467,
+      "dur": 1.8,
+      "transcript": "dopo aver comprato qualcosa in appausa pranzo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 39.467,
+      "end": 41.4,
+      "dur": 1.933,
+      "transcript": "da baddiesburg una catena americana"
+    },
+    {
+      "shot_idx": 20,
+      "start": 41.4,
+      "end": 42.867,
+      "dur": 1.467,
+      "transcript": "specializzata negli smash burger in"
+    },
+    {
+      "shot_idx": 21,
+      "start": 42.867,
+      "end": 44.4,
+      "dur": 1.533,
+      "transcript": "cui è chiaramente preso un Loro menu con le"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.4,
+      "end": 46.633,
+      "dur": 2.233,
+      "transcript": "patatine speziate molto buono ovviamente un fryer"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.633,
+      "end": 48.133,
+      "dur": 1.5,
+      "transcript": "fil di diet cook e"
+    },
+    {
+      "shot_idx": 24,
+      "start": 48.133,
+      "end": 50.033,
+      "dur": 1.9,
+      "transcript": "diet Dr. Pepe quando la trovi in america la"
+    },
+    {
+      "shot_idx": 25,
+      "start": 50.033,
+      "end": 51.8,
+      "dur": 1.767,
+      "transcript": "prendo sempre e smash burger classico"
+    },
+    {
+      "shot_idx": 26,
+      "start": 51.8,
+      "end": 53.267,
+      "dur": 1.467,
+      "transcript": "con beccon ciotrullini salsa"
+    },
+    {
+      "shot_idx": 27,
+      "start": 53.267,
+      "end": 54.667,
+      "dur": 1.4,
+      "transcript": "Smok pomodoro installata"
+    },
+    {
+      "shot_idx": 28,
+      "start": 54.667,
+      "end": 56.233,
+      "dur": 1.567,
+      "transcript": "devo dire un bollivello di smash"
+    },
+    {
+      "shot_idx": 29,
+      "start": 56.233,
+      "end": 58.9,
+      "dur": 2.667,
+      "transcript": "burger e dopo di che i ragazzi siamo arrivati nel nostro tela"
+    },
+    {
+      "shot_idx": 30,
+      "start": 58.9,
+      "end": 60.067,
+      "dur": 1.167,
+      "transcript": "d 'oste Ne guardate che"
+    },
+    {
+      "shot_idx": 31,
+      "start": 60.067,
+      "end": 61.4,
+      "dur": 1.333,
+      "transcript": "vista devo dire una camera"
+    },
+    {
+      "shot_idx": 32,
+      "start": 61.4,
+      "end": 66.5,
+      "dur": 5.1,
+      "transcript": "cla mo rosa anche perché davvero secondo me la cosa più importante quando si viaggia era vista degli"
+    },
+    {
+      "shot_idx": 33,
+      "start": 66.5,
+      "end": 68.533,
+      "dur": 2.033,
+      "transcript": "otelli soprattutto nelle città americane con questi"
+    },
+    {
+      "shot_idx": 34,
+      "start": 68.533,
+      "end": 70.067,
+      "dur": 1.533,
+      "transcript": "palazzoni clamorosi tra l 'altro"
+    },
+    {
+      "shot_idx": 35,
+      "start": 70.067,
+      "end": 70.8,
+      "dur": 0.733,
+      "transcript": "c 'era anche la macchinetta"
+    },
+    {
+      "shot_idx": 36,
+      "start": 70.8,
+      "end": 71.533,
+      "dur": 0.733,
+      "transcript": "del caffè ne"
+    },
+    {
+      "shot_idx": 37,
+      "start": 71.533,
+      "end": 75.633,
+      "dur": 4.1,
+      "transcript": "espresso e quindi facciamo subito un bel caffettino e poi Andiamo a fare un giro per capire come"
+    },
+    {
+      "shot_idx": 38,
+      "start": 75.633,
+      "end": 79.833,
+      "dur": 4.2,
+      "transcript": "è la palestra di questo telo palestra che devo dire è abbastanza tutto rasteggiere di manubri"
+    },
+    {
+      "shot_idx": 39,
+      "start": 79.833,
+      "end": 83.633,
+      "dur": 3.8,
+      "transcript": "Tutto tecnologi tutto molto molto carino ovviamente i tapirulani infiniti"
+    },
+    {
+      "shot_idx": 40,
+      "start": 83.633,
+      "end": 88.933,
+      "dur": 5.3,
+      "transcript": "asciugamani acqua mele a vostra disposizione Un bel racco tutti pesi una stazione"
+    },
+    {
+      "shot_idx": 41,
+      "start": 88.933,
+      "end": 89.967,
+      "dur": 1.033,
+      "transcript": "cavi si clatt"
+    },
+    {
+      "shot_idx": 42,
+      "start": 89.967,
+      "end": 91.133,
+      "dur": 1.167,
+      "transcript": "e ovviamente mi sono"
+    },
+    {
+      "shot_idx": 43,
+      "start": 91.133,
+      "end": 91.733,
+      "dur": 0.6,
+      "transcript": "fermato a prendere"
+    },
+    {
+      "shot_idx": 44,
+      "start": 91.733,
+      "end": 93.1,
+      "dur": 1.367,
+      "transcript": "una bella mela ed infine ragazzi"
+    },
+    {
+      "shot_idx": 45,
+      "start": 93.1,
+      "end": 95.1,
+      "dur": 2.0,
+      "transcript": "prima di cena Diretto al circuito della"
+    },
+    {
+      "shot_idx": 46,
+      "start": 95.1,
+      "end": 99.9,
+      "dur": 4.8,
+      "transcript": "formula 1 di ostin che anche se come sport non lo seguo tanto devo dire che sia davvero davvero interessante perché"
+    },
+    {
+      "shot_idx": 47,
+      "start": 99.9,
+      "end": 100.767,
+      "dur": 0.867,
+      "transcript": "ragazzi c 'era proprio"
+    },
+    {
+      "shot_idx": 48,
+      "start": 100.767,
+      "end": 103.367,
+      "dur": 2.6,
+      "transcript": "la possibilità appunto di vedere la pista dopo"
+    },
+    {
+      "shot_idx": 49,
+      "start": 103.367,
+      "end": 106.4,
+      "dur": 3.033,
+      "transcript": "di che c 'è uno ristorante messicano a d 'ostin messicano"
+    },
+    {
+      "shot_idx": 50,
+      "start": 106.4,
+      "end": 109.6,
+      "dur": 3.2,
+      "transcript": "comunque è tex max con un po' gli antipastini vari come tortiglie"
+    },
+    {
+      "shot_idx": 51,
+      "start": 109.6,
+      "end": 111.3,
+      "dur": 1.7,
+      "transcript": "altre cose piatto principale con un"
+    },
+    {
+      "shot_idx": 52,
+      "start": 111.3,
+      "end": 113.1,
+      "dur": 1.8,
+      "transcript": "mega hamburger azzo perché ovviamente siamo"
+    },
+    {
+      "shot_idx": 53,
+      "start": 113.1,
+      "end": 117.133,
+      "dur": 4.033,
+      "transcript": "sempre in america che perché siano un burger smash un burger normali in america sanno"
+    },
+    {
+      "shot_idx": 54,
+      "start": 117.133,
+      "end": 120.1,
+      "dur": 2.967,
+      "transcript": "farli veramente sempre bene e poi sto giato anche a questi tacos e così si conclude"
+    },
+    {
+      "shot_idx": 55,
+      "start": 120.1,
+      "end": 121.6,
+      "dur": 1.5,
+      "transcript": "anche il terzo giorno"
+    }
+  ],
+  "full_text": "Giornotra del mio viaggio in Texas oggi da San Antonio arriviamo a Dostin partendo però dalla colazione di un motel a San Antonio col classico waffles alla forma di Texas un po' di uova strappazzate e molto strane una sorta di cinnamon roll e un bel muffin ovviamente caffetto americano dopo di che nella strada per Austin ci siamo fermati da Bacchese una vera e propria istituzione in quel Del Texas anche se alla fine semplicemente un autogrill quindi un benzinaio mastodontico è un enorme stazione di servizio che tra l'altro vi serve il brische tappena fatto un brand che però qui in Texas è veramente Famoso soprattutto per i loro bagni che in torri a sono pulitissimi che posto assurdo dopo di che classicata per un auto americano sto posto è in mezzo e dopo aver comprato qualcosa in appausa pranzo da baddiesburg una catena americana specializzata negli smash burger in cui è chiaramente preso un Loro menu con le patatine speziate molto buono ovviamente un fryer fil di diet cook e diet Dr. Pepe quando la trovi in america la prendo sempre e smash burger classico con beccon ciotrullini salsa Smok pomodoro installata devo dire un bollivello di smash burger e dopo di che i ragazzi siamo arrivati nel nostro tela d'oste Ne guardate che vista devo dire una camera cla mo rosa anche perché davvero secondo me la cosa più importante quando si viaggia era vista degli otelli soprattutto nelle città americane con questi palazzoni clamorosi tra l'altro c'era anche la macchinetta del caffè ne espresso e quindi facciamo subito un bel caffettino e poi Andiamo a fare un giro per capire come è la palestra di questo telo palestra che devo dire è abbastanza tutto rasteggiere di manubri Tutto tecnologi tutto molto molto carino ovviamente i tapirulani infiniti asciugamani acqua mele a vostra disposizione Un bel racco tutti pesi una stazione cavi si clatt e ovviamente mi sono fermato a prendere una bella mela ed infine ragazzi prima di cena Diretto al circuito della formula 1 di ostin che anche se come sport non lo seguo tanto devo dire che sia davvero davvero interessante perché ragazzi c'era proprio la possibilità appunto di vedere la pista dopo di che c'è uno ristorante messicano a d'ostin messicano comunque è tex max con un po' gli antipastini vari come tortiglie altre cose piatto principale con un mega hamburger azzo perché ovviamente siamo sempre in america che perché siano un burger smash un burger normali in america sanno farli veramente sempre bene e poi sto giato anche a questi tacos e così si conclude anche il terzo giorno",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

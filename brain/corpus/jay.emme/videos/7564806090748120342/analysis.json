@@ -1,0 +1,2134 @@
+{
+  "video_id": "7564806090748120342",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7564806090748120342",
+    "ref_id": "ref_53_7564806090748120342",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7564806090748120342",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 22,
+  "total_dur": 64.77,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7,
+      "center": 1.35,
+      "role": "food_plated",
+      "subject": "pizza senza glutine",
+      "description": "Un ragazzo sorridente tiene in mano una pizza con rucola e prosciutto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "La migliore pizza gluten -free di Milano. Si, ragazzi, oggi vi porto"
+    },
+    {
+      "idx": 1,
+      "start": 2.7,
+      "end": 3.867,
+      "dur": 1.167,
+      "center": 3.283,
+      "role": "food_plated",
+      "subject": "pizza con polpette",
+      "description": "Il ragazzo sorridente mostra un'altra pizza, questa volta con polpette e salsa bianca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con me da Vincenzo"
+    },
+    {
+      "idx": 2,
+      "start": 3.867,
+      "end": 6.067,
+      "dur": 2.2,
+      "center": 4.967,
+      "role": "food_detail",
+      "subject": "pizza con polpette",
+      "description": "Dettaglio ravvicinato della pizza con polpette, salsa bianca e una foglia di basilico.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Capuano nella sua sede di Porta Romana a provare la"
+    },
+    {
+      "idx": 3,
+      "start": 6.067,
+      "end": 7.867,
+      "dur": 1.8,
+      "center": 6.967,
+      "role": "person_eating",
+      "subject": "ragazzo mangia tiramisù",
+      "description": "Il ragazzo sta mangiando un tiramisù in un bicchiere con un cucchiaino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "loro nuova proposta di menu gluten"
+    },
+    {
+      "idx": 4,
+      "start": 7.867,
+      "end": 8.467,
+      "dur": 0.6,
+      "center": 8.167,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante",
+      "description": "Una vista ampia dell'interno del ristorante con tavoli pieni di clienti e un'insegna al neon 'Gluten Free'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "-free. Per"
+    },
+    {
+      "idx": 5,
+      "start": 8.467,
+      "end": 10.267,
+      "dur": 1.8,
+      "center": 9.367,
+      "role": "venue_interior_detail",
+      "subject": "insegna neon Gluten Free",
+      "description": "L'insegna al neon 'Gluten Free' spicca sullo sfondo scuro del locale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "visualizzare appunto questo menu senza gluten"
+    },
+    {
+      "idx": 6,
+      "start": 10.267,
+      "end": 12.267,
+      "dur": 2.0,
+      "center": 11.267,
+      "role": "menu_board",
+      "subject": "menu cartaceo ristorante",
+      "description": "Un menu con l'immagine di Vincenzo Capuano e un QR code per il menu in inglese.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "vi vasta a scannerizzare il QR code"
+    },
+    {
+      "idx": 7,
+      "start": 12.267,
+      "end": 16.1,
+      "dur": 3.833,
+      "center": 14.183,
+      "role": "food_closeup",
+      "subject": "pizza con rucola e prosciutto",
+      "description": "Una pizza ben cotta con abbondante rucola, prosciutto crudo e scaglie di formaggio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "per i menù in inglese. Noi abbiamo voluto iniziare assaggiando la sguardo alto, con"
+    },
+    {
+      "idx": 8,
+      "start": 16.1,
+      "end": 21.5,
+      "dur": 5.4,
+      "center": 18.8,
+      "role": "food_detail",
+      "subject": "fetta di pizza",
+      "description": "Una fetta di pizza sollevata, mostrando il condimento e la crosta croccante.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "una base di fior di latte, prosciutto crudo, rucola e scaglia di grana. Una pizza bianca semplice ma che"
+    },
+    {
+      "idx": 9,
+      "start": 21.5,
+      "end": 24.867,
+      "dur": 3.367,
+      "center": 23.183,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pizza",
+      "description": "Un ragazzo con una maglietta bianca mangia una fetta di pizza, con il resto della pizza sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ci ha permesso quindi subito di capire la qualità dell 'impasto. Impasto senza"
+    },
+    {
+      "idx": 10,
+      "start": 24.867,
+      "end": 27.933,
+      "dur": 3.067,
+      "center": 26.4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo sta addentando un pezzo di pizza con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "gluten che era perfettamente lievitato, ben saporito ed"
+    },
+    {
+      "idx": 11,
+      "start": 27.933,
+      "end": 30.233,
+      "dur": 2.3,
+      "center": 29.083,
+      "role": "person_eating",
+      "subject": "ragazzo mastica pizza",
+      "description": "Il ragazzo sta masticando un pezzo di pizza, con la bocca leggermente aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "assolutamente paragonabile all 'impasto classico di"
+    },
+    {
+      "idx": 12,
+      "start": 30.233,
+      "end": 34.267,
+      "dur": 4.033,
+      "center": 32.25,
+      "role": "food_plated",
+      "subject": "pizza con polpette",
+      "description": "Una pizza con polpette e salsa bianca è presentata su un piatto verde.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Vincenzo Capuano. E dopo di che abbiamo provato questa braccia e mamma, che ha sempre una base di"
+    },
+    {
+      "idx": 13,
+      "start": 34.267,
+      "end": 36.267,
+      "dur": 2.0,
+      "center": 35.267,
+      "role": "food_detail",
+      "subject": "dettaglio pizza polpette",
+      "description": "Un primo piano della pizza mostra le polpette e la salsa bianca in dettaglio.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fior di latte ma anche delle polpettine,"
+    },
+    {
+      "idx": 14,
+      "start": 36.267,
+      "end": 42.767,
+      "dur": 6.5,
+      "center": 39.517,
+      "role": "person_eating",
+      "subject": "mani reggono pizza",
+      "description": "Delle mani reggono un pezzo di pizza con polpette e formaggio filante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "una fonduta di grana padano, la mozzarella di bufala e soprattutto il cornicevone ripieno di ricotta. Ma ragazzi soffermatevi sull 'impasto,"
+    },
+    {
+      "idx": 15,
+      "start": 42.767,
+      "end": 45.333,
+      "dur": 2.567,
+      "center": 44.05,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo tiene in mano un pezzo di pizza e guarda verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "perché a vederla io non ci avrei creduto che era davvero gluten -free."
+    },
+    {
+      "idx": 16,
+      "start": 45.333,
+      "end": 47.567,
+      "dur": 2.233,
+      "center": 46.45,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo tiene in mano un pezzo di pizza, con la bocca leggermente aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Attualmente l 'impasto senza gluten è migliore"
+    },
+    {
+      "idx": 17,
+      "start": 47.567,
+      "end": 50.067,
+      "dur": 2.5,
+      "center": 48.817,
+      "role": "food_detail",
+      "subject": "tiramisù in bicchiere",
+      "description": "Un tiramisù in un bicchiere di vetro è posizionato su un piattino bianco spolverato di cacao.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che ho provato a Milano. E dopo la pizza non potevamo non"
+    },
+    {
+      "idx": 18,
+      "start": 50.067,
+      "end": 58.833,
+      "dur": 8.767,
+      "center": 54.45,
+      "role": "food_detail",
+      "subject": "cucchiaio tiramisù",
+      "description": "Un cucchiaio pieno di tiramisù è sollevato sopra il bicchiere, pronto per essere mangiato.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "concludere la nostra cena con un ottimo tiramisù. Anche esso davvero apprezzato, anche se ovviamente come prodotto è molto più semplice da fare senza gluten rispetto alla pizza. In conclusione"
+    },
+    {
+      "idx": 19,
+      "start": 58.833,
+      "end": 60.367,
+      "dur": 1.533,
+      "center": 59.6,
+      "role": "person_eating",
+      "subject": "ragazzo mangia tiramisù",
+      "description": "Il ragazzo tiene un cucchiaio con del tiramisù e guarda verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "se siete cieli acci intolleranti"
+    },
+    {
+      "idx": 20,
+      "start": 60.367,
+      "end": 64.7,
+      "dur": 4.333,
+      "center": 62.533,
+      "role": "person_eating",
+      "subject": "ragazzo mangia tiramisù",
+      "description": "Il ragazzo sta mangiando un tiramisù in un bicchiere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "al gluten è un 'esperienza assolutamente da provare e quindi super super consigliata."
+    },
+    {
+      "idx": 21,
+      "start": 64.7,
+      "end": 64.767,
+      "dur": 0.067,
+      "center": 64.733,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Lo schermo è completamente nero.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza senza glutine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano una pizza con rucola e prosciutto.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza con polpette",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorridente mostra un'altra pizza, questa volta con polpette e salsa bianca.",
+      "shot_idx": 1,
+      "start": 2.7,
+      "end": 3.867,
+      "dur": 1.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza con polpette",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Dettaglio ravvicinato della pizza con polpette, salsa bianca e una foglia di basilico.",
+      "shot_idx": 2,
+      "start": 3.867,
+      "end": 6.067,
+      "dur": 2.2
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un tiramisù in un bicchiere con un cucchiaino.",
+      "shot_idx": 3,
+      "start": 6.067,
+      "end": 7.867,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una vista ampia dell'interno del ristorante con tavoli pieni di clienti e un'insegna al neon 'Gluten Free'.",
+      "shot_idx": 4,
+      "start": 7.867,
+      "end": 8.467,
+      "dur": 0.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "insegna neon Gluten Free",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'insegna al neon 'Gluten Free' spicca sullo sfondo scuro del locale.",
+      "shot_idx": 5,
+      "start": 8.467,
+      "end": 10.267,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "menu_board",
+      "soggetto": "menu cartaceo ristorante",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un menu con l'immagine di Vincenzo Capuano e un QR code per il menu in inglese.",
+      "shot_idx": 6,
+      "start": 10.267,
+      "end": 12.267,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con rucola e prosciutto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza ben cotta con abbondante rucola, prosciutto crudo e scaglie di formaggio.",
+      "shot_idx": 7,
+      "start": 12.267,
+      "end": 16.1,
+      "dur": 3.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta di pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una fetta di pizza sollevata, mostrando il condimento e la crosta croccante.",
+      "shot_idx": 8,
+      "start": 16.1,
+      "end": 21.5,
+      "dur": 5.4
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca mangia una fetta di pizza, con il resto della pizza sul tavolo.",
+      "shot_idx": 9,
+      "start": 21.5,
+      "end": 24.867,
+      "dur": 3.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta addentando un pezzo di pizza con un'espressione concentrata.",
+      "shot_idx": 10,
+      "start": 24.867,
+      "end": 27.933,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mastica pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta masticando un pezzo di pizza, con la bocca leggermente aperta.",
+      "shot_idx": 11,
+      "start": 27.933,
+      "end": 30.233,
+      "dur": 2.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza con polpette",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza con polpette e salsa bianca è presentata su un piatto verde.",
+      "shot_idx": 12,
+      "start": 30.233,
+      "end": 34.267,
+      "dur": 4.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "dettaglio pizza polpette",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un primo piano della pizza mostra le polpette e la salsa bianca in dettaglio.",
+      "shot_idx": 13,
+      "start": 34.267,
+      "end": 36.267,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "mani reggono pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Delle mani reggono un pezzo di pizza con polpette e formaggio filante.",
+      "shot_idx": 14,
+      "start": 36.267,
+      "end": 42.767,
+      "dur": 6.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene in mano un pezzo di pizza e guarda verso la telecamera.",
+      "shot_idx": 15,
+      "start": 42.767,
+      "end": 45.333,
+      "dur": 2.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di pizza, con la bocca leggermente aperta.",
+      "shot_idx": 16,
+      "start": 45.333,
+      "end": 47.567,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "tiramisù in bicchiere",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un tiramisù in un bicchiere di vetro è posizionato su un piattino bianco spolverato di cacao.",
+      "shot_idx": 17,
+      "start": 47.567,
+      "end": 50.067,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "cucchiaio tiramisù",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un cucchiaio pieno di tiramisù è sollevato sopra il bicchiere, pronto per essere mangiato.",
+      "shot_idx": 18,
+      "start": 50.067,
+      "end": 58.833,
+      "dur": 8.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un cucchiaio con del tiramisù e guarda verso la telecamera.",
+      "shot_idx": 19,
+      "start": 58.833,
+      "end": 60.367,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia tiramisù",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un tiramisù in un bicchiere.",
+      "shot_idx": 20,
+      "start": 60.367,
+      "end": 64.7,
+      "dur": 4.333
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Lo schermo è completamente nero.",
+      "shot_idx": 21,
+      "start": 64.7,
+      "end": 64.767,
+      "dur": 0.067
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "La migliore pizza gluten-free di Milano."
+    },
+    {
+      "start": 1.84,
+      "end": 5.96,
+      "text": "Si, ragazzi, oggi vi porto con me da Vincenzo Capuano nella sua sede di Porta Romana a provare"
+    },
+    {
+      "start": 5.96,
+      "end": 8.16,
+      "text": "la loro nuova proposta di menu gluten-free."
+    },
+    {
+      "start": 8.28,
+      "end": 12.66,
+      "text": "Per visualizzare appunto questo menu senza gluten vi vasta a scannerizzare il QR code per i menù"
+    },
+    {
+      "start": 12.66,
+      "end": 13.16,
+      "text": "in inglese."
+    },
+    {
+      "start": 13.26,
+      "end": 17.34,
+      "text": "Noi abbiamo voluto iniziare assaggiando la sguardo alto, con una base di fior di latte,"
+    },
+    {
+      "start": 17.58,
+      "end": 19.82,
+      "text": "prosciutto crudo, rucola e scaglia di grana."
+    },
+    {
+      "start": 19.92,
+      "end": 24.22,
+      "text": "Una pizza bianca semplice ma che ci ha permesso quindi subito di capire la qualità dell'impasto."
+    },
+    {
+      "start": 24.36,
+      "end": 28.52,
+      "text": "Impasto senza gluten che era perfettamente lievitato, ben saporito ed assolutamente"
+    },
+    {
+      "start": 28.52,
+      "end": 31.18,
+      "text": "paragonabile all'impasto classico di Vincenzo Capuano."
+    },
+    {
+      "start": 31.26,
+      "end": 34.5,
+      "text": "E dopo di che abbiamo provato questa braccia e mamma, che ha sempre una base di fior di"
+    },
+    {
+      "start": 34.5,
+      "end": 39.0,
+      "text": "latte ma anche delle polpettine, una fonduta di grana padano, la mozzarella di bufala e"
+    },
+    {
+      "start": 39.0,
+      "end": 40.96,
+      "text": "soprattutto il cornicevone ripieno di ricotta."
+    },
+    {
+      "start": 41.14,
+      "end": 44.52,
+      "text": "Ma ragazzi soffermatevi sull'impasto, perché a vederla io non ci avrei creduto che era"
+    },
+    {
+      "start": 44.52,
+      "end": 45.38,
+      "text": "davvero gluten-free."
+    },
+    {
+      "start": 45.6,
+      "end": 48.62,
+      "text": "Attualmente l'impasto senza gluten è migliore che ho provato a Milano."
+    },
+    {
+      "start": 48.7,
+      "end": 52.18,
+      "text": "E dopo la pizza non potevamo non concludere la nostra cena con un ottimo tiramisù."
+    },
+    {
+      "start": 52.22,
+      "end": 56.24,
+      "text": "Anche esso davvero apprezzato, anche se ovviamente come prodotto è molto più semplice"
+    },
+    {
+      "start": 56.24,
+      "end": 58.04,
+      "text": "da fare senza gluten rispetto alla pizza."
+    },
+    {
+      "start": 58.04,
+      "end": 62.14,
+      "text": "In conclusione se siete cieli acci intolleranti al gluten è un'esperienza assolutamente"
+    },
+    {
+      "start": 62.14,
+      "end": 64.24,
+      "text": "da provare e quindi super super consigliata."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "word": "La"
+    },
+    {
+      "start": 0.16,
+      "end": 0.5,
+      "word": "migliore"
+    },
+    {
+      "start": 0.5,
+      "end": 0.76,
+      "word": "pizza"
+    },
+    {
+      "start": 0.76,
+      "end": 1.04,
+      "word": "gluten"
+    },
+    {
+      "start": 1.04,
+      "end": 1.26,
+      "word": "-free"
+    },
+    {
+      "start": 1.26,
+      "end": 1.38,
+      "word": "di"
+    },
+    {
+      "start": 1.38,
+      "end": 1.76,
+      "word": "Milano."
+    },
+    {
+      "start": 1.84,
+      "end": 1.9,
+      "word": "Si,"
+    },
+    {
+      "start": 1.94,
+      "end": 2.16,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 2.24,
+      "end": 2.38,
+      "word": "oggi"
+    },
+    {
+      "start": 2.38,
+      "end": 2.48,
+      "word": "vi"
+    },
+    {
+      "start": 2.48,
+      "end": 2.8,
+      "word": "porto"
+    },
+    {
+      "start": 2.8,
+      "end": 2.96,
+      "word": "con"
+    },
+    {
+      "start": 2.96,
+      "end": 3.04,
+      "word": "me"
+    },
+    {
+      "start": 3.04,
+      "end": 3.18,
+      "word": "da"
+    },
+    {
+      "start": 3.18,
+      "end": 3.72,
+      "word": "Vincenzo"
+    },
+    {
+      "start": 3.72,
+      "end": 4.32,
+      "word": "Capuano"
+    },
+    {
+      "start": 4.32,
+      "end": 4.52,
+      "word": "nella"
+    },
+    {
+      "start": 4.52,
+      "end": 4.68,
+      "word": "sua"
+    },
+    {
+      "start": 4.68,
+      "end": 4.88,
+      "word": "sede"
+    },
+    {
+      "start": 4.88,
+      "end": 5.04,
+      "word": "di"
+    },
+    {
+      "start": 5.04,
+      "end": 5.28,
+      "word": "Porta"
+    },
+    {
+      "start": 5.28,
+      "end": 5.56,
+      "word": "Romana"
+    },
+    {
+      "start": 5.56,
+      "end": 5.74,
+      "word": "a"
+    },
+    {
+      "start": 5.74,
+      "end": 5.96,
+      "word": "provare"
+    },
+    {
+      "start": 5.96,
+      "end": 6.12,
+      "word": "la"
+    },
+    {
+      "start": 6.12,
+      "end": 6.28,
+      "word": "loro"
+    },
+    {
+      "start": 6.28,
+      "end": 6.66,
+      "word": "nuova"
+    },
+    {
+      "start": 6.66,
+      "end": 7.1,
+      "word": "proposta"
+    },
+    {
+      "start": 7.1,
+      "end": 7.3,
+      "word": "di"
+    },
+    {
+      "start": 7.3,
+      "end": 7.5,
+      "word": "menu"
+    },
+    {
+      "start": 7.5,
+      "end": 7.94,
+      "word": "gluten"
+    },
+    {
+      "start": 7.94,
+      "end": 8.16,
+      "word": "-free."
+    },
+    {
+      "start": 8.28,
+      "end": 8.28,
+      "word": "Per"
+    },
+    {
+      "start": 8.28,
+      "end": 8.82,
+      "word": "visualizzare"
+    },
+    {
+      "start": 8.82,
+      "end": 9.08,
+      "word": "appunto"
+    },
+    {
+      "start": 9.08,
+      "end": 9.38,
+      "word": "questo"
+    },
+    {
+      "start": 9.38,
+      "end": 9.6,
+      "word": "menu"
+    },
+    {
+      "start": 9.6,
+      "end": 9.88,
+      "word": "senza"
+    },
+    {
+      "start": 9.88,
+      "end": 10.22,
+      "word": "gluten"
+    },
+    {
+      "start": 10.22,
+      "end": 10.54,
+      "word": "vi"
+    },
+    {
+      "start": 10.54,
+      "end": 10.82,
+      "word": "vasta"
+    },
+    {
+      "start": 10.82,
+      "end": 11.0,
+      "word": "a"
+    },
+    {
+      "start": 11.0,
+      "end": 11.7,
+      "word": "scannerizzare"
+    },
+    {
+      "start": 11.7,
+      "end": 11.84,
+      "word": "il"
+    },
+    {
+      "start": 11.84,
+      "end": 11.96,
+      "word": "QR"
+    },
+    {
+      "start": 11.96,
+      "end": 12.2,
+      "word": "code"
+    },
+    {
+      "start": 12.2,
+      "end": 12.38,
+      "word": "per"
+    },
+    {
+      "start": 12.38,
+      "end": 12.48,
+      "word": "i"
+    },
+    {
+      "start": 12.48,
+      "end": 12.66,
+      "word": "menù"
+    },
+    {
+      "start": 12.66,
+      "end": 12.76,
+      "word": "in"
+    },
+    {
+      "start": 12.76,
+      "end": 13.16,
+      "word": "inglese."
+    },
+    {
+      "start": 13.26,
+      "end": 13.4,
+      "word": "Noi"
+    },
+    {
+      "start": 13.4,
+      "end": 13.54,
+      "word": "abbiamo"
+    },
+    {
+      "start": 13.54,
+      "end": 13.86,
+      "word": "voluto"
+    },
+    {
+      "start": 13.86,
+      "end": 14.32,
+      "word": "iniziare"
+    },
+    {
+      "start": 14.32,
+      "end": 14.82,
+      "word": "assaggiando"
+    },
+    {
+      "start": 14.82,
+      "end": 14.98,
+      "word": "la"
+    },
+    {
+      "start": 14.98,
+      "end": 15.3,
+      "word": "sguardo"
+    },
+    {
+      "start": 15.3,
+      "end": 15.78,
+      "word": "alto,"
+    },
+    {
+      "start": 15.9,
+      "end": 16.12,
+      "word": "con"
+    },
+    {
+      "start": 16.12,
+      "end": 16.36,
+      "word": "una"
+    },
+    {
+      "start": 16.36,
+      "end": 16.58,
+      "word": "base"
+    },
+    {
+      "start": 16.58,
+      "end": 16.76,
+      "word": "di"
+    },
+    {
+      "start": 16.76,
+      "end": 16.86,
+      "word": "fior"
+    },
+    {
+      "start": 16.86,
+      "end": 17.04,
+      "word": "di"
+    },
+    {
+      "start": 17.04,
+      "end": 17.34,
+      "word": "latte,"
+    },
+    {
+      "start": 17.58,
+      "end": 17.96,
+      "word": "prosciutto"
+    },
+    {
+      "start": 17.96,
+      "end": 18.32,
+      "word": "crudo,"
+    },
+    {
+      "start": 18.44,
+      "end": 18.82,
+      "word": "rucola"
+    },
+    {
+      "start": 18.82,
+      "end": 18.98,
+      "word": "e"
+    },
+    {
+      "start": 18.98,
+      "end": 19.36,
+      "word": "scaglia"
+    },
+    {
+      "start": 19.36,
+      "end": 19.48,
+      "word": "di"
+    },
+    {
+      "start": 19.48,
+      "end": 19.82,
+      "word": "grana."
+    },
+    {
+      "start": 19.92,
+      "end": 20.04,
+      "word": "Una"
+    },
+    {
+      "start": 20.04,
+      "end": 20.26,
+      "word": "pizza"
+    },
+    {
+      "start": 20.26,
+      "end": 20.7,
+      "word": "bianca"
+    },
+    {
+      "start": 20.7,
+      "end": 21.16,
+      "word": "semplice"
+    },
+    {
+      "start": 21.16,
+      "end": 21.32,
+      "word": "ma"
+    },
+    {
+      "start": 21.32,
+      "end": 21.44,
+      "word": "che"
+    },
+    {
+      "start": 21.44,
+      "end": 21.56,
+      "word": "ci"
+    },
+    {
+      "start": 21.56,
+      "end": 21.6,
+      "word": "ha"
+    },
+    {
+      "start": 21.6,
+      "end": 21.94,
+      "word": "permesso"
+    },
+    {
+      "start": 21.94,
+      "end": 22.22,
+      "word": "quindi"
+    },
+    {
+      "start": 22.22,
+      "end": 22.74,
+      "word": "subito"
+    },
+    {
+      "start": 22.74,
+      "end": 22.86,
+      "word": "di"
+    },
+    {
+      "start": 22.86,
+      "end": 23.14,
+      "word": "capire"
+    },
+    {
+      "start": 23.14,
+      "end": 23.3,
+      "word": "la"
+    },
+    {
+      "start": 23.3,
+      "end": 23.58,
+      "word": "qualità"
+    },
+    {
+      "start": 23.58,
+      "end": 23.72,
+      "word": "dell"
+    },
+    {
+      "start": 23.72,
+      "end": 24.22,
+      "word": "'impasto."
+    },
+    {
+      "start": 24.36,
+      "end": 24.7,
+      "word": "Impasto"
+    },
+    {
+      "start": 24.7,
+      "end": 24.92,
+      "word": "senza"
+    },
+    {
+      "start": 24.92,
+      "end": 25.28,
+      "word": "gluten"
+    },
+    {
+      "start": 25.28,
+      "end": 25.56,
+      "word": "che"
+    },
+    {
+      "start": 25.56,
+      "end": 25.7,
+      "word": "era"
+    },
+    {
+      "start": 25.7,
+      "end": 26.26,
+      "word": "perfettamente"
+    },
+    {
+      "start": 26.26,
+      "end": 26.9,
+      "word": "lievitato,"
+    },
+    {
+      "start": 27.02,
+      "end": 27.16,
+      "word": "ben"
+    },
+    {
+      "start": 27.16,
+      "end": 27.74,
+      "word": "saporito"
+    },
+    {
+      "start": 27.74,
+      "end": 27.92,
+      "word": "ed"
+    },
+    {
+      "start": 27.92,
+      "end": 28.52,
+      "word": "assolutamente"
+    },
+    {
+      "start": 28.52,
+      "end": 29.2,
+      "word": "paragonabile"
+    },
+    {
+      "start": 29.2,
+      "end": 29.36,
+      "word": "all"
+    },
+    {
+      "start": 29.36,
+      "end": 29.64,
+      "word": "'impasto"
+    },
+    {
+      "start": 29.64,
+      "end": 30.16,
+      "word": "classico"
+    },
+    {
+      "start": 30.16,
+      "end": 30.3,
+      "word": "di"
+    },
+    {
+      "start": 30.3,
+      "end": 30.7,
+      "word": "Vincenzo"
+    },
+    {
+      "start": 30.7,
+      "end": 31.18,
+      "word": "Capuano."
+    },
+    {
+      "start": 31.26,
+      "end": 31.3,
+      "word": "E"
+    },
+    {
+      "start": 31.3,
+      "end": 31.46,
+      "word": "dopo"
+    },
+    {
+      "start": 31.46,
+      "end": 31.6,
+      "word": "di"
+    },
+    {
+      "start": 31.6,
+      "end": 31.68,
+      "word": "che"
+    },
+    {
+      "start": 31.68,
+      "end": 31.82,
+      "word": "abbiamo"
+    },
+    {
+      "start": 31.82,
+      "end": 32.14,
+      "word": "provato"
+    },
+    {
+      "start": 32.14,
+      "end": 32.4,
+      "word": "questa"
+    },
+    {
+      "start": 32.4,
+      "end": 32.84,
+      "word": "braccia"
+    },
+    {
+      "start": 32.84,
+      "end": 32.94,
+      "word": "e"
+    },
+    {
+      "start": 32.94,
+      "end": 33.26,
+      "word": "mamma,"
+    },
+    {
+      "start": 33.3,
+      "end": 33.34,
+      "word": "che"
+    },
+    {
+      "start": 33.34,
+      "end": 33.46,
+      "word": "ha"
+    },
+    {
+      "start": 33.46,
+      "end": 33.7,
+      "word": "sempre"
+    },
+    {
+      "start": 33.7,
+      "end": 33.86,
+      "word": "una"
+    },
+    {
+      "start": 33.86,
+      "end": 34.06,
+      "word": "base"
+    },
+    {
+      "start": 34.06,
+      "end": 34.22,
+      "word": "di"
+    },
+    {
+      "start": 34.22,
+      "end": 34.34,
+      "word": "fior"
+    },
+    {
+      "start": 34.34,
+      "end": 34.5,
+      "word": "di"
+    },
+    {
+      "start": 34.5,
+      "end": 34.8,
+      "word": "latte"
+    },
+    {
+      "start": 34.8,
+      "end": 35.06,
+      "word": "ma"
+    },
+    {
+      "start": 35.06,
+      "end": 35.36,
+      "word": "anche"
+    },
+    {
+      "start": 35.36,
+      "end": 35.56,
+      "word": "delle"
+    },
+    {
+      "start": 35.56,
+      "end": 36.18,
+      "word": "polpettine,"
+    },
+    {
+      "start": 36.26,
+      "end": 36.34,
+      "word": "una"
+    },
+    {
+      "start": 36.34,
+      "end": 36.78,
+      "word": "fonduta"
+    },
+    {
+      "start": 36.78,
+      "end": 36.96,
+      "word": "di"
+    },
+    {
+      "start": 36.96,
+      "end": 37.12,
+      "word": "grana"
+    },
+    {
+      "start": 37.12,
+      "end": 37.58,
+      "word": "padano,"
+    },
+    {
+      "start": 37.72,
+      "end": 37.74,
+      "word": "la"
+    },
+    {
+      "start": 37.74,
+      "end": 38.12,
+      "word": "mozzarella"
+    },
+    {
+      "start": 38.12,
+      "end": 38.42,
+      "word": "di"
+    },
+    {
+      "start": 38.42,
+      "end": 38.76,
+      "word": "bufala"
+    },
+    {
+      "start": 38.76,
+      "end": 39.0,
+      "word": "e"
+    },
+    {
+      "start": 39.0,
+      "end": 39.38,
+      "word": "soprattutto"
+    },
+    {
+      "start": 39.38,
+      "end": 39.62,
+      "word": "il"
+    },
+    {
+      "start": 39.62,
+      "end": 40.08,
+      "word": "cornicevone"
+    },
+    {
+      "start": 40.08,
+      "end": 40.44,
+      "word": "ripieno"
+    },
+    {
+      "start": 40.44,
+      "end": 40.54,
+      "word": "di"
+    },
+    {
+      "start": 40.54,
+      "end": 40.96,
+      "word": "ricotta."
+    },
+    {
+      "start": 41.14,
+      "end": 41.2,
+      "word": "Ma"
+    },
+    {
+      "start": 41.2,
+      "end": 41.44,
+      "word": "ragazzi"
+    },
+    {
+      "start": 41.44,
+      "end": 42.1,
+      "word": "soffermatevi"
+    },
+    {
+      "start": 42.1,
+      "end": 42.36,
+      "word": "sull"
+    },
+    {
+      "start": 42.36,
+      "end": 42.7,
+      "word": "'impasto,"
+    },
+    {
+      "start": 42.8,
+      "end": 42.96,
+      "word": "perché"
+    },
+    {
+      "start": 42.96,
+      "end": 43.06,
+      "word": "a"
+    },
+    {
+      "start": 43.06,
+      "end": 43.4,
+      "word": "vederla"
+    },
+    {
+      "start": 43.4,
+      "end": 43.52,
+      "word": "io"
+    },
+    {
+      "start": 43.52,
+      "end": 43.64,
+      "word": "non"
+    },
+    {
+      "start": 43.64,
+      "end": 43.74,
+      "word": "ci"
+    },
+    {
+      "start": 43.74,
+      "end": 43.88,
+      "word": "avrei"
+    },
+    {
+      "start": 43.88,
+      "end": 44.24,
+      "word": "creduto"
+    },
+    {
+      "start": 44.24,
+      "end": 44.42,
+      "word": "che"
+    },
+    {
+      "start": 44.42,
+      "end": 44.52,
+      "word": "era"
+    },
+    {
+      "start": 44.52,
+      "end": 44.84,
+      "word": "davvero"
+    },
+    {
+      "start": 44.84,
+      "end": 45.1,
+      "word": "gluten"
+    },
+    {
+      "start": 45.1,
+      "end": 45.38,
+      "word": "-free."
+    },
+    {
+      "start": 45.6,
+      "end": 46.02,
+      "word": "Attualmente"
+    },
+    {
+      "start": 46.02,
+      "end": 46.24,
+      "word": "l"
+    },
+    {
+      "start": 46.24,
+      "end": 46.52,
+      "word": "'impasto"
+    },
+    {
+      "start": 46.52,
+      "end": 46.76,
+      "word": "senza"
+    },
+    {
+      "start": 46.76,
+      "end": 47.0,
+      "word": "gluten"
+    },
+    {
+      "start": 47.0,
+      "end": 47.26,
+      "word": "è"
+    },
+    {
+      "start": 47.26,
+      "end": 47.72,
+      "word": "migliore"
+    },
+    {
+      "start": 47.72,
+      "end": 47.86,
+      "word": "che"
+    },
+    {
+      "start": 47.86,
+      "end": 47.94,
+      "word": "ho"
+    },
+    {
+      "start": 47.94,
+      "end": 48.22,
+      "word": "provato"
+    },
+    {
+      "start": 48.22,
+      "end": 48.34,
+      "word": "a"
+    },
+    {
+      "start": 48.34,
+      "end": 48.62,
+      "word": "Milano."
+    },
+    {
+      "start": 48.7,
+      "end": 48.74,
+      "word": "E"
+    },
+    {
+      "start": 48.74,
+      "end": 48.88,
+      "word": "dopo"
+    },
+    {
+      "start": 48.88,
+      "end": 49.0,
+      "word": "la"
+    },
+    {
+      "start": 49.0,
+      "end": 49.18,
+      "word": "pizza"
+    },
+    {
+      "start": 49.18,
+      "end": 49.34,
+      "word": "non"
+    },
+    {
+      "start": 49.34,
+      "end": 49.72,
+      "word": "potevamo"
+    },
+    {
+      "start": 49.72,
+      "end": 49.88,
+      "word": "non"
+    },
+    {
+      "start": 49.88,
+      "end": 50.34,
+      "word": "concludere"
+    },
+    {
+      "start": 50.34,
+      "end": 50.52,
+      "word": "la"
+    },
+    {
+      "start": 50.52,
+      "end": 50.7,
+      "word": "nostra"
+    },
+    {
+      "start": 50.7,
+      "end": 50.98,
+      "word": "cena"
+    },
+    {
+      "start": 50.98,
+      "end": 51.2,
+      "word": "con"
+    },
+    {
+      "start": 51.2,
+      "end": 51.34,
+      "word": "un"
+    },
+    {
+      "start": 51.34,
+      "end": 51.64,
+      "word": "ottimo"
+    },
+    {
+      "start": 51.64,
+      "end": 52.18,
+      "word": "tiramisù."
+    },
+    {
+      "start": 52.22,
+      "end": 52.42,
+      "word": "Anche"
+    },
+    {
+      "start": 52.42,
+      "end": 52.62,
+      "word": "esso"
+    },
+    {
+      "start": 52.62,
+      "end": 53.14,
+      "word": "davvero"
+    },
+    {
+      "start": 53.14,
+      "end": 54.0,
+      "word": "apprezzato,"
+    },
+    {
+      "start": 54.08,
+      "end": 54.24,
+      "word": "anche"
+    },
+    {
+      "start": 54.24,
+      "end": 54.38,
+      "word": "se"
+    },
+    {
+      "start": 54.38,
+      "end": 54.72,
+      "word": "ovviamente"
+    },
+    {
+      "start": 54.72,
+      "end": 54.98,
+      "word": "come"
+    },
+    {
+      "start": 54.98,
+      "end": 55.32,
+      "word": "prodotto"
+    },
+    {
+      "start": 55.32,
+      "end": 55.46,
+      "word": "è"
+    },
+    {
+      "start": 55.46,
+      "end": 55.68,
+      "word": "molto"
+    },
+    {
+      "start": 55.68,
+      "end": 55.92,
+      "word": "più"
+    },
+    {
+      "start": 55.92,
+      "end": 56.24,
+      "word": "semplice"
+    },
+    {
+      "start": 56.24,
+      "end": 56.38,
+      "word": "da"
+    },
+    {
+      "start": 56.38,
+      "end": 56.54,
+      "word": "fare"
+    },
+    {
+      "start": 56.54,
+      "end": 56.76,
+      "word": "senza"
+    },
+    {
+      "start": 56.76,
+      "end": 57.1,
+      "word": "gluten"
+    },
+    {
+      "start": 57.1,
+      "end": 57.54,
+      "word": "rispetto"
+    },
+    {
+      "start": 57.54,
+      "end": 57.74,
+      "word": "alla"
+    },
+    {
+      "start": 57.74,
+      "end": 58.04,
+      "word": "pizza."
+    },
+    {
+      "start": 58.04,
+      "end": 58.32,
+      "word": "In"
+    },
+    {
+      "start": 58.32,
+      "end": 58.88,
+      "word": "conclusione"
+    },
+    {
+      "start": 58.88,
+      "end": 59.0,
+      "word": "se"
+    },
+    {
+      "start": 59.0,
+      "end": 59.24,
+      "word": "siete"
+    },
+    {
+      "start": 59.24,
+      "end": 59.6,
+      "word": "cieli"
+    },
+    {
+      "start": 59.6,
+      "end": 59.86,
+      "word": "acci"
+    },
+    {
+      "start": 59.86,
+      "end": 60.38,
+      "word": "intolleranti"
+    },
+    {
+      "start": 60.38,
+      "end": 60.48,
+      "word": "al"
+    },
+    {
+      "start": 60.48,
+      "end": 60.76,
+      "word": "gluten"
+    },
+    {
+      "start": 60.76,
+      "end": 60.94,
+      "word": "è"
+    },
+    {
+      "start": 60.94,
+      "end": 61.02,
+      "word": "un"
+    },
+    {
+      "start": 61.02,
+      "end": 61.48,
+      "word": "'esperienza"
+    },
+    {
+      "start": 61.48,
+      "end": 62.14,
+      "word": "assolutamente"
+    },
+    {
+      "start": 62.14,
+      "end": 62.26,
+      "word": "da"
+    },
+    {
+      "start": 62.26,
+      "end": 62.68,
+      "word": "provare"
+    },
+    {
+      "start": 62.68,
+      "end": 62.76,
+      "word": "e"
+    },
+    {
+      "start": 62.76,
+      "end": 62.96,
+      "word": "quindi"
+    },
+    {
+      "start": 62.96,
+      "end": 63.26,
+      "word": "super"
+    },
+    {
+      "start": 63.26,
+      "end": 63.54,
+      "word": "super"
+    },
+    {
+      "start": 63.54,
+      "end": 64.24,
+      "word": "consigliata."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.7,
+      "dur": 2.7,
+      "transcript": "La migliore pizza gluten -free di Milano. Si, ragazzi, oggi vi porto"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.7,
+      "end": 3.867,
+      "dur": 1.167,
+      "transcript": "con me da Vincenzo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.867,
+      "end": 6.067,
+      "dur": 2.2,
+      "transcript": "Capuano nella sua sede di Porta Romana a provare la"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.067,
+      "end": 7.867,
+      "dur": 1.8,
+      "transcript": "loro nuova proposta di menu gluten"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.867,
+      "end": 8.467,
+      "dur": 0.6,
+      "transcript": "-free. Per"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.467,
+      "end": 10.267,
+      "dur": 1.8,
+      "transcript": "visualizzare appunto questo menu senza gluten"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.267,
+      "end": 12.267,
+      "dur": 2.0,
+      "transcript": "vi vasta a scannerizzare il QR code"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.267,
+      "end": 16.1,
+      "dur": 3.833,
+      "transcript": "per i menù in inglese. Noi abbiamo voluto iniziare assaggiando la sguardo alto, con"
+    },
+    {
+      "shot_idx": 8,
+      "start": 16.1,
+      "end": 21.5,
+      "dur": 5.4,
+      "transcript": "una base di fior di latte, prosciutto crudo, rucola e scaglia di grana. Una pizza bianca semplice ma che"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.5,
+      "end": 24.867,
+      "dur": 3.367,
+      "transcript": "ci ha permesso quindi subito di capire la qualità dell 'impasto. Impasto senza"
+    },
+    {
+      "shot_idx": 10,
+      "start": 24.867,
+      "end": 27.933,
+      "dur": 3.067,
+      "transcript": "gluten che era perfettamente lievitato, ben saporito ed"
+    },
+    {
+      "shot_idx": 11,
+      "start": 27.933,
+      "end": 30.233,
+      "dur": 2.3,
+      "transcript": "assolutamente paragonabile all 'impasto classico di"
+    },
+    {
+      "shot_idx": 12,
+      "start": 30.233,
+      "end": 34.267,
+      "dur": 4.033,
+      "transcript": "Vincenzo Capuano. E dopo di che abbiamo provato questa braccia e mamma, che ha sempre una base di"
+    },
+    {
+      "shot_idx": 13,
+      "start": 34.267,
+      "end": 36.267,
+      "dur": 2.0,
+      "transcript": "fior di latte ma anche delle polpettine,"
+    },
+    {
+      "shot_idx": 14,
+      "start": 36.267,
+      "end": 42.767,
+      "dur": 6.5,
+      "transcript": "una fonduta di grana padano, la mozzarella di bufala e soprattutto il cornicevone ripieno di ricotta. Ma ragazzi soffermatevi sull 'impasto,"
+    },
+    {
+      "shot_idx": 15,
+      "start": 42.767,
+      "end": 45.333,
+      "dur": 2.567,
+      "transcript": "perché a vederla io non ci avrei creduto che era davvero gluten -free."
+    },
+    {
+      "shot_idx": 16,
+      "start": 45.333,
+      "end": 47.567,
+      "dur": 2.233,
+      "transcript": "Attualmente l 'impasto senza gluten è migliore"
+    },
+    {
+      "shot_idx": 17,
+      "start": 47.567,
+      "end": 50.067,
+      "dur": 2.5,
+      "transcript": "che ho provato a Milano. E dopo la pizza non potevamo non"
+    },
+    {
+      "shot_idx": 18,
+      "start": 50.067,
+      "end": 58.833,
+      "dur": 8.767,
+      "transcript": "concludere la nostra cena con un ottimo tiramisù. Anche esso davvero apprezzato, anche se ovviamente come prodotto è molto più semplice da fare senza gluten rispetto alla pizza. In conclusione"
+    },
+    {
+      "shot_idx": 19,
+      "start": 58.833,
+      "end": 60.367,
+      "dur": 1.533,
+      "transcript": "se siete cieli acci intolleranti"
+    },
+    {
+      "shot_idx": 20,
+      "start": 60.367,
+      "end": 64.7,
+      "dur": 4.333,
+      "transcript": "al gluten è un 'esperienza assolutamente da provare e quindi super super consigliata."
+    },
+    {
+      "shot_idx": 21,
+      "start": 64.7,
+      "end": 64.767,
+      "dur": 0.067,
+      "transcript": ""
+    }
+  ],
+  "full_text": "La migliore pizza gluten-free di Milano. Si, ragazzi, oggi vi porto con me da Vincenzo Capuano nella sua sede di Porta Romana a provare la loro nuova proposta di menu gluten-free. Per visualizzare appunto questo menu senza gluten vi vasta a scannerizzare il QR code per i menù in inglese. Noi abbiamo voluto iniziare assaggiando la sguardo alto, con una base di fior di latte, prosciutto crudo, rucola e scaglia di grana. Una pizza bianca semplice ma che ci ha permesso quindi subito di capire la qualità dell'impasto. Impasto senza gluten che era perfettamente lievitato, ben saporito ed assolutamente paragonabile all'impasto classico di Vincenzo Capuano. E dopo di che abbiamo provato questa braccia e mamma, che ha sempre una base di fior di latte ma anche delle polpettine, una fonduta di grana padano, la mozzarella di bufala e soprattutto il cornicevone ripieno di ricotta. Ma ragazzi soffermatevi sull'impasto, perché a vederla io non ci avrei creduto che era davvero gluten-free. Attualmente l'impasto senza gluten è migliore che ho provato a Milano. E dopo la pizza non potevamo non concludere la nostra cena con un ottimo tiramisù. Anche esso davvero apprezzato, anche se ovviamente come prodotto è molto più semplice da fare senza gluten rispetto alla pizza. In conclusione se siete cieli acci intolleranti al gluten è un'esperienza assolutamente da provare e quindi super super consigliata.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

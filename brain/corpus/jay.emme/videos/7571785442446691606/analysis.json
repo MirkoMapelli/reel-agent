@@ -1,0 +1,4007 @@
+{
+  "video_id": "7571785442446691606",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7571785442446691606",
+    "ref_id": "ref_48_7571785442446691606",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7571785442446691606",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 43,
+  "total_dur": 139.67,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.367,
+      "dur": 2.367,
+      "center": 1.183,
+      "role": "person_eating",
+      "subject": "persona mangia pesce fritto",
+      "description": "Una persona sta mangiando un pezzo di pesce fritto con una salsa bianca, con del testo sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giorno 13 il mio viaggio in Florida la scoperta della"
+    },
+    {
+      "idx": 1,
+      "start": 2.367,
+      "end": 4.8,
+      "dur": 2.433,
+      "center": 3.583,
+      "role": "other",
+      "subject": "due persone sfocate",
+      "description": "Due persone sono sfocate in un ambiente illuminato di blu, con del testo sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "vera cucina americana e non solo. Sì perché oggi"
+    },
+    {
+      "idx": 2,
+      "start": 4.8,
+      "end": 6.333,
+      "dur": 1.533,
+      "center": 5.567,
+      "role": "person_eating",
+      "subject": "ragazzo mangia salsiccia",
+      "description": "Un ragazzo sta mangiando un pezzo di salsiccia con una forchetta, con del testo sovrapposto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abbiamo iniziato con una classica colazione"
+    },
+    {
+      "idx": 3,
+      "start": 6.333,
+      "end": 9.133,
+      "dur": 2.8,
+      "center": 7.733,
+      "role": "food_detail",
+      "subject": "waffle con sciroppo",
+      "description": "Delle mani stanno versando sciroppo su dei waffle, con del testo sovrapposto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "americana con sassicce waffle e litri di"
+    },
+    {
+      "idx": 4,
+      "start": 9.133,
+      "end": 11.133,
+      "dur": 2.0,
+      "center": 10.133,
+      "role": "other",
+      "subject": "logo NASA gigante",
+      "description": "Un grande logo NASA a forma di globo è visibile all'esterno, con del testo sovrapposto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "sciroppo d 'acero per poi, in realtà, andare a"
+    },
+    {
+      "idx": 5,
+      "start": 11.133,
+      "end": 13.167,
+      "dur": 2.033,
+      "center": 12.15,
+      "role": "venue_exterior",
+      "subject": "ragazzo davanti logo NASA",
+      "description": "Il ragazzo si fa un selfie davanti al grande logo sferico della NASA.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "visitare la serie della NASA in Florida, ovvero"
+    },
+    {
+      "idx": 6,
+      "start": 13.167,
+      "end": 16.167,
+      "dur": 3.0,
+      "center": 14.667,
+      "role": "venue_exterior",
+      "subject": "razzi esposti all'aperto",
+      "description": "Diversi razzi di grandi dimensioni sono esposti all'aperto sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "il Kennedy Space Center vicino a Cape Canaveral. Dopo i"
+    },
+    {
+      "idx": 7,
+      "start": 16.167,
+      "end": 18.933,
+      "dur": 2.767,
+      "center": 17.55,
+      "role": "venue_exterior",
+      "subject": "edificio NASA bandiera americana",
+      "description": "Un enorme edificio con il logo NASA e la bandiera americana è visibile da lontano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "sanitari siamo subito passati davanti alla struttura di assemblaggio,"
+    },
+    {
+      "idx": 8,
+      "start": 18.933,
+      "end": 21.933,
+      "dur": 3.0,
+      "center": 20.433,
+      "role": "other",
+      "subject": "astronauta schermo gigante",
+      "description": "Un astronauta è proiettato su uno schermo gigante con la Terra sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "per poi, maggiorci a pieno nel mondo della NASA. Assistendo per"
+    },
+    {
+      "idx": 9,
+      "start": 21.933,
+      "end": 24.433,
+      "dur": 2.5,
+      "center": 23.183,
+      "role": "other",
+      "subject": "ragazzo pista bowling",
+      "description": "Il ragazzo si riprende mentre guarda una pista da bowling illuminata di blu.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "esempio ad un lancio da una vera sala dei comandi,"
+    },
+    {
+      "idx": 10,
+      "start": 24.433,
+      "end": 27.6,
+      "dur": 3.167,
+      "center": 26.017,
+      "role": "venue_interior_wide",
+      "subject": "sala controllo spaziale",
+      "description": "La sala di controllo con schermi e pannelli illuminati di blu e viola.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "per comprendere meglio tutte le procedure che ci stanno alla base di un"
+    },
+    {
+      "idx": 11,
+      "start": 27.6,
+      "end": 35.067,
+      "dur": 7.467,
+      "center": 31.333,
+      "role": "venue_interior_wide",
+      "subject": "pubblico schermi sala",
+      "description": "Il pubblico che filma gli schermi della sala di controllo con esplosioni.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": "lancio. Sì, per l 'esplendere, ciao!"
+    },
+    {
+      "idx": 12,
+      "start": 35.067,
+      "end": 41.067,
+      "dur": 6.0,
+      "center": 38.067,
+      "role": "venue_interior_wide",
+      "subject": "schermi sala controllo",
+      "description": "Gli schermi della sala di controllo mostrano un razzo in volo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Per"
+    },
+    {
+      "idx": 13,
+      "start": 41.067,
+      "end": 43.333,
+      "dur": 2.267,
+      "center": 42.2,
+      "role": "venue_interior_wide",
+      "subject": "razzo esposto museo",
+      "description": "Un enorme razzo bianco e nero esposto in un hangar illuminato.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": "arrivare a visitare un razzo gigante che è realmente"
+    },
+    {
+      "idx": 14,
+      "start": 43.333,
+      "end": 46.133,
+      "dur": 2.8,
+      "center": 44.733,
+      "role": "venue_interior_detail",
+      "subject": "motori razzo esposto",
+      "description": "I dettagli dei motori di un razzo esposto, con luci colorate.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": "portato degli astronauti sulla dura, con tutte le varie spiegazioni"
+    },
+    {
+      "idx": 15,
+      "start": 46.133,
+      "end": 47.8,
+      "dur": 1.667,
+      "center": 46.967,
+      "role": "other",
+      "subject": "ragazzo in corridoio blu",
+      "description": "Il ragazzo guarda verso la telecamera in un ambiente illuminato di blu.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "sulle missioni a pollo. Tutto davvero"
+    },
+    {
+      "idx": 16,
+      "start": 47.8,
+      "end": 49.6,
+      "dur": 1.8,
+      "center": 48.7,
+      "role": "other",
+      "subject": "ragazzo davanti schermo circolare",
+      "description": "Un ragazzo è ripreso di spalle mentre osserva un grande schermo circolare con un logo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "molto figo, molto affascinante,"
+    },
+    {
+      "idx": 17,
+      "start": 49.6,
+      "end": 51.633,
+      "dur": 2.033,
+      "center": 50.617,
+      "role": "other",
+      "subject": "modello allunaggio con astronauta",
+      "description": "Una riproduzione di un allunaggio con un modulo spaziale e un astronauta su un terreno lunare.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "e, ovviamente, come ogni parco americano"
+    },
+    {
+      "idx": 18,
+      "start": 51.633,
+      "end": 55.1,
+      "dur": 3.467,
+      "center": 53.367,
+      "role": "other",
+      "subject": "modello spazio con pianeti",
+      "description": "Una rappresentazione dello spazio con pianeti e nebulose colorate.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "ben tematizzato. Ragazzi, gli americani in queste cose sono in numeri uno. Dopodiché"
+    },
+    {
+      "idx": 19,
+      "start": 55.1,
+      "end": 58.1,
+      "dur": 3.0,
+      "center": 56.6,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Un ragazzo con un'espressione divertita addenta un grande hamburger.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "pausa pranzo con un classico chicken burger con anche il"
+    },
+    {
+      "idx": 20,
+      "start": 58.1,
+      "end": 61.167,
+      "dur": 3.067,
+      "center": 59.633,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Il ragazzo sta addentando un hamburger con espressione concentrata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "bacon, che anche qua, per essere in un parco, alla fine era comunque di un bollivello."
+    },
+    {
+      "idx": 21,
+      "start": 61.167,
+      "end": 64.2,
+      "dur": 3.033,
+      "center": 62.683,
+      "role": "food_plated",
+      "subject": "biscotto e dolci",
+      "description": "Un grande biscotto con gocce di cioccolato in primo piano, con altri dolci sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "E per concludere, abbiamo diviso un paio di cookies americani, un"
+    },
+    {
+      "idx": 22,
+      "start": 64.2,
+      "end": 66.167,
+      "dur": 1.967,
+      "center": 65.183,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Il ragazzo sta mangiando un dessert con un cucchiaino, con la bocca leggermente aperta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dolce all 'oreo e una cheesecake. E dopodiché"
+    },
+    {
+      "idx": 23,
+      "start": 66.167,
+      "end": 68.2,
+      "dur": 2.033,
+      "center": 67.183,
+      "role": "other",
+      "subject": "ragazzo e razzo spaziale",
+      "description": "Il ragazzo sorride in primo piano con un enorme razzo spaziale sullo sfondo sotto un cielo azzurro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "abbiamo ripreso il nostro tour per andare"
+    },
+    {
+      "idx": 24,
+      "start": 68.2,
+      "end": 70.7,
+      "dur": 2.5,
+      "center": 69.45,
+      "role": "other",
+      "subject": "rover spaziale NASA",
+      "description": "Un rover spaziale bianco con il logo NASA è esposto in un ambiente interno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "a visitare lo Space Shuttle Atlantis, uno"
+    },
+    {
+      "idx": 25,
+      "start": 70.7,
+      "end": 76.667,
+      "dur": 5.967,
+      "center": 73.683,
+      "role": "venue_interior_detail",
+      "subject": "Space Shuttle Atlantis",
+      "description": "Il muso dello Space Shuttle Atlantis è in primo piano, con la stiva di carico aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "shuttle che ha compiuto 33 missioni ed è stato nello spazio per ben 306 giorni. E chi datevi che avvercelo davanti"
+    },
+    {
+      "idx": 26,
+      "start": 76.667,
+      "end": 79.3,
+      "dur": 2.633,
+      "center": 77.983,
+      "role": "person_talking",
+      "subject": "astronauta firma autografi",
+      "description": "Un astronauta in uniforme blu è seduto a un tavolo e firma autografi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dopo aver saputo tutto ciò che questo shuttle ha compiuto nello"
+    },
+    {
+      "idx": 27,
+      "start": 79.3,
+      "end": 80.7,
+      "dur": 1.4,
+      "center": 80.0,
+      "role": "venue_interior_detail",
+      "subject": "interno veicolo spaziale",
+      "description": "La prospettiva è dal sedile posteriore di un veicolo spaziale simulato, con schermi e luci blu.",
+      "composition": "wide",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "spazio davvero impressionante. Dopodiché"
+    },
+    {
+      "idx": 28,
+      "start": 80.7,
+      "end": 82.933,
+      "dur": 2.233,
+      "center": 81.817,
+      "role": "person_talking",
+      "subject": "ragazzo seduto veicolo",
+      "description": "Un ragazzo con una maglietta scura e gli occhi spalancati è seduto in un veicolo spaziale simulato.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "è piccolo incontro con un astronauta e simulatore"
+    },
+    {
+      "idx": 29,
+      "start": 82.933,
+      "end": 85.4,
+      "dur": 2.467,
+      "center": 84.167,
+      "role": "person_talking",
+      "subject": "due ragazzi sorridenti",
+      "description": "Due ragazzi sorridono alla telecamera mentre sono seduti all'interno di un veicolo spaziale simulato.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "di lancio."
+    },
+    {
+      "idx": 30,
+      "start": 85.4,
+      "end": 89.433,
+      "dur": 4.033,
+      "center": 87.417,
+      "role": "other",
+      "subject": "luci colorate sfocate",
+      "description": "Le luci rosse e blu sfocate creano un'atmosfera dinamica e astratta.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": ""
+    },
+    {
+      "idx": 31,
+      "start": 89.433,
+      "end": 94.433,
+      "dur": 5.0,
+      "center": 91.933,
+      "role": "venue_interior_detail",
+      "subject": "finestrini navicella spaziale",
+      "description": "L'interno di una navicella spaziale con finestrini che mostrano il cielo blu e le nuvole.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Mi sono imparato"
+    },
+    {
+      "idx": 32,
+      "start": 94.433,
+      "end": 101.367,
+      "dur": 6.933,
+      "center": 97.9,
+      "role": "person_eating",
+      "subject": "uomo che si allena",
+      "description": "Un uomo si allena su una macchina per la pressa in palestra, con un'espressione di sforzo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "a concludere la giornata. Ma prima di cena, ragazzi, ovviamente, sono dovuto passare a fare un bel legday in questa palestra, che aveva dei macchinari clamorosi"
+    },
+    {
+      "idx": 33,
+      "start": 101.367,
+      "end": 109.933,
+      "dur": 8.567,
+      "center": 105.65,
+      "role": "person_eating",
+      "subject": "uomo che si allena",
+      "description": "L'uomo continua il suo allenamento sulla macchina, visto da un'angolazione più bassa che enfatizza lo sforzo.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "come questo Ack Squad o questo Pendulum Squad, un macchinaio che tra l 'altro ho sempre voluto provare ma l 'avevo mai trovato in Italia. E fidatevi che vi dà un focus su"
+    },
+    {
+      "idx": 34,
+      "start": 109.933,
+      "end": 113.1,
+      "dur": 3.167,
+      "center": 111.517,
+      "role": "person_talking",
+      "subject": "ragazzo in terrazza",
+      "description": "Un ragazzo si trova su una terrazza esterna di notte, con luci calde sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "quadricipiti clamoroso. Dopodiché, ovviamente, siamo usciti"
+    },
+    {
+      "idx": 35,
+      "start": 113.1,
+      "end": 115.633,
+      "dur": 2.533,
+      "center": 114.367,
+      "role": "other",
+      "subject": "fiume di notte",
+      "description": "Il fiume scuro con riflessi di luci lontane.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "a cena co -cobbic che è l 'Iv -21,"
+    },
+    {
+      "idx": 36,
+      "start": 115.633,
+      "end": 117.133,
+      "dur": 1.5,
+      "center": 116.383,
+      "role": "venue_interior_detail",
+      "subject": "decorazioni parete ristorante",
+      "description": "La testa di alligatore che sporge dalla parete decorata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "in un posto ben quotato ma"
+    },
+    {
+      "idx": 37,
+      "start": 117.133,
+      "end": 122.1,
+      "dur": 4.967,
+      "center": 119.617,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante bar",
+      "description": "L'ambiente interno del ristorante con il bancone del bar e le decorazioni a tema marino.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "veramente molto srallo, perché comunque ricordiamoci, ragazzi, che siamo in Florida e i posti normali sono veramente rari."
+    },
+    {
+      "idx": 38,
+      "start": 122.1,
+      "end": 127.0,
+      "dur": 4.9,
+      "center": 124.55,
+      "role": "other",
+      "subject": "piccolo alligatore terrario",
+      "description": "Il piccolo alligatore con strisce gialle e nere tra le foglie verdi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Infatti, in questo posto, come vedete, c 'erano addirittura degli allegatorini. E cosa ho scelto di prendere? Ho scelto di prendere l"
+    },
+    {
+      "idx": 39,
+      "start": 127.0,
+      "end": 131.2,
+      "dur": 4.2,
+      "center": 129.1,
+      "role": "food_plated",
+      "subject": "fritto misto salsa",
+      "description": "Il piatto di fritto misto con patatine e una ciotolina di salsa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "'olio chinite di pesce fritto, visto che era la sarata olio chinite. E allora, primo giro di pesce fritto"
+    },
+    {
+      "idx": 40,
+      "start": 131.2,
+      "end": 134.733,
+      "dur": 3.533,
+      "center": 132.967,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pesce fritto",
+      "description": "Il ragazzo sta addentando un pezzo di pesce fritto con la bocca aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che era molto buono. Ovviamente il pesce era praticamente un parente del Merluzzo,"
+    },
+    {
+      "idx": 41,
+      "start": 134.733,
+      "end": 137.233,
+      "dur": 2.5,
+      "center": 135.983,
+      "role": "food_plated",
+      "subject": "piatto pesce fritto",
+      "description": "Un pezzo di pesce fritto e una ciotolina di salsa sono posizionati su un vassoio metallico con carta assorbente.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ma devo dire che anche se era fritto è sceso molto"
+    },
+    {
+      "idx": 42,
+      "start": 137.233,
+      "end": 139.667,
+      "dur": 2.433,
+      "center": 138.45,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pesce fritto",
+      "description": "Il ragazzo tiene in mano un pezzo di pesce fritto e lo sta per mangiare, con un piatto di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "bene. Infatti, siamo passati un secondo e un terzo giro."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "persona mangia pesce fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una persona sta mangiando un pezzo di pesce fritto con una salsa bianca, con del testo sovrapposto.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.367,
+      "dur": 2.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "due persone sfocate",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due persone sono sfocate in un ambiente illuminato di blu, con del testo sovrapposto.",
+      "shot_idx": 1,
+      "start": 2.367,
+      "end": 4.8,
+      "dur": 2.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia salsiccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sta mangiando un pezzo di salsiccia con una forchetta, con del testo sovrapposto.",
+      "shot_idx": 2,
+      "start": 4.8,
+      "end": 6.333,
+      "dur": 1.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "waffle con sciroppo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Delle mani stanno versando sciroppo su dei waffle, con del testo sovrapposto.",
+      "shot_idx": 3,
+      "start": 6.333,
+      "end": 9.133,
+      "dur": 2.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "logo NASA gigante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande logo NASA a forma di globo è visibile all'esterno, con del testo sovrapposto.",
+      "shot_idx": 4,
+      "start": 9.133,
+      "end": 11.133,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ragazzo davanti logo NASA",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo si fa un selfie davanti al grande logo sferico della NASA.",
+      "shot_idx": 5,
+      "start": 11.133,
+      "end": 13.167,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "razzi esposti all'aperto",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Diversi razzi di grandi dimensioni sono esposti all'aperto sotto un cielo azzurro.",
+      "shot_idx": 6,
+      "start": 13.167,
+      "end": 16.167,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio NASA bandiera americana",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un enorme edificio con il logo NASA e la bandiera americana è visibile da lontano.",
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 18.933,
+      "dur": 2.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "astronauta schermo gigante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un astronauta è proiettato su uno schermo gigante con la Terra sullo sfondo.",
+      "shot_idx": 8,
+      "start": 18.933,
+      "end": 21.933,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo pista bowling",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo si riprende mentre guarda una pista da bowling illuminata di blu.",
+      "shot_idx": 9,
+      "start": 21.933,
+      "end": 24.433,
+      "dur": 2.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "sala controllo spaziale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La sala di controllo con schermi e pannelli illuminati di blu e viola.",
+      "shot_idx": 10,
+      "start": 24.433,
+      "end": 27.6,
+      "dur": 3.167
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "pubblico schermi sala",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Il pubblico che filma gli schermi della sala di controllo con esplosioni.",
+      "shot_idx": 11,
+      "start": 27.6,
+      "end": 35.067,
+      "dur": 7.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "schermi sala controllo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Gli schermi della sala di controllo mostrano un razzo in volo.",
+      "shot_idx": 12,
+      "start": 35.067,
+      "end": 41.067,
+      "dur": 6.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "razzo esposto museo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Un enorme razzo bianco e nero esposto in un hangar illuminato.",
+      "shot_idx": 13,
+      "start": 41.067,
+      "end": 43.333,
+      "dur": 2.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "motori razzo esposto",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "I dettagli dei motori di un razzo esposto, con luci colorate.",
+      "shot_idx": 14,
+      "start": 43.333,
+      "end": 46.133,
+      "dur": 2.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in corridoio blu",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo guarda verso la telecamera in un ambiente illuminato di blu.",
+      "shot_idx": 15,
+      "start": 46.133,
+      "end": 47.8,
+      "dur": 1.667
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo davanti schermo circolare",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo è ripreso di spalle mentre osserva un grande schermo circolare con un logo.",
+      "shot_idx": 16,
+      "start": 47.8,
+      "end": 49.6,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "modello allunaggio con astronauta",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una riproduzione di un allunaggio con un modulo spaziale e un astronauta su un terreno lunare.",
+      "shot_idx": 17,
+      "start": 49.6,
+      "end": 51.633,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "modello spazio con pianeti",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una rappresentazione dello spazio con pianeti e nebulose colorate.",
+      "shot_idx": 18,
+      "start": 51.633,
+      "end": 55.1,
+      "dur": 3.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con un'espressione divertita addenta un grande hamburger.",
+      "shot_idx": 19,
+      "start": 55.1,
+      "end": 58.1,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando un hamburger con espressione concentrata.",
+      "shot_idx": 20,
+      "start": 58.1,
+      "end": 61.167,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "biscotto e dolci",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un grande biscotto con gocce di cioccolato in primo piano, con altri dolci sullo sfondo.",
+      "shot_idx": 21,
+      "start": 61.167,
+      "end": 64.2,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un dessert con un cucchiaino, con la bocca leggermente aperta.",
+      "shot_idx": 22,
+      "start": 64.2,
+      "end": 66.167,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo e razzo spaziale",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride in primo piano con un enorme razzo spaziale sullo sfondo sotto un cielo azzurro.",
+      "shot_idx": 23,
+      "start": 66.167,
+      "end": 68.2,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "rover spaziale NASA",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un rover spaziale bianco con il logo NASA è esposto in un ambiente interno.",
+      "shot_idx": 24,
+      "start": 68.2,
+      "end": 70.7,
+      "dur": 2.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "Space Shuttle Atlantis",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il muso dello Space Shuttle Atlantis è in primo piano, con la stiva di carico aperta.",
+      "shot_idx": 25,
+      "start": 70.7,
+      "end": 76.667,
+      "dur": 5.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "astronauta firma autografi",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un astronauta in uniforme blu è seduto a un tavolo e firma autografi.",
+      "shot_idx": 26,
+      "start": 76.667,
+      "end": 79.3,
+      "dur": 2.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "interno veicolo spaziale",
+      "composizione": "wide",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La prospettiva è dal sedile posteriore di un veicolo spaziale simulato, con schermi e luci blu.",
+      "shot_idx": 27,
+      "start": 79.3,
+      "end": 80.7,
+      "dur": 1.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo seduto veicolo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con una maglietta scura e gli occhi spalancati è seduto in un veicolo spaziale simulato.",
+      "shot_idx": 28,
+      "start": 80.7,
+      "end": 82.933,
+      "dur": 2.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "due ragazzi sorridenti",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Due ragazzi sorridono alla telecamera mentre sono seduti all'interno di un veicolo spaziale simulato.",
+      "shot_idx": 29,
+      "start": 82.933,
+      "end": 85.4,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "luci colorate sfocate",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Le luci rosse e blu sfocate creano un'atmosfera dinamica e astratta.",
+      "shot_idx": 30,
+      "start": 85.4,
+      "end": 89.433,
+      "dur": 4.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "finestrini navicella spaziale",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'interno di una navicella spaziale con finestrini che mostrano il cielo blu e le nuvole.",
+      "shot_idx": 31,
+      "start": 89.433,
+      "end": 94.433,
+      "dur": 5.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che si allena",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo si allena su una macchina per la pressa in palestra, con un'espressione di sforzo.",
+      "shot_idx": 32,
+      "start": 94.433,
+      "end": 101.367,
+      "dur": 6.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che si allena",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo continua il suo allenamento sulla macchina, visto da un'angolazione più bassa che enfatizza lo sforzo.",
+      "shot_idx": 33,
+      "start": 101.367,
+      "end": 109.933,
+      "dur": 8.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in terrazza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo si trova su una terrazza esterna di notte, con luci calde sullo sfondo.",
+      "shot_idx": 34,
+      "start": 109.933,
+      "end": 113.1,
+      "dur": 3.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "fiume di notte",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il fiume scuro con riflessi di luci lontane.",
+      "shot_idx": 35,
+      "start": 113.1,
+      "end": 115.633,
+      "dur": 2.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "decorazioni parete ristorante",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La testa di alligatore che sporge dalla parete decorata.",
+      "shot_idx": 36,
+      "start": 115.633,
+      "end": 117.133,
+      "dur": 1.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante bar",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'ambiente interno del ristorante con il bancone del bar e le decorazioni a tema marino.",
+      "shot_idx": 37,
+      "start": 117.133,
+      "end": 122.1,
+      "dur": 4.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "piccolo alligatore terrario",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piccolo alligatore con strisce gialle e nere tra le foglie verdi.",
+      "shot_idx": 38,
+      "start": 122.1,
+      "end": 127.0,
+      "dur": 4.9
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "fritto misto salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il piatto di fritto misto con patatine e una ciotolina di salsa.",
+      "shot_idx": 39,
+      "start": 127.0,
+      "end": 131.2,
+      "dur": 4.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pesce fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di pesce fritto con la bocca aperta.",
+      "shot_idx": 40,
+      "start": 131.2,
+      "end": 134.733,
+      "dur": 3.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto pesce fritto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di pesce fritto e una ciotolina di salsa sono posizionati su un vassoio metallico con carta assorbente.",
+      "shot_idx": 41,
+      "start": 134.733,
+      "end": 137.233,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pesce fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di pesce fritto e lo sta per mangiare, con un piatto di cibo in primo piano.",
+      "shot_idx": 42,
+      "start": 137.233,
+      "end": 139.667,
+      "dur": 2.433
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Giorno 13 il mio viaggio in Florida la scoperta della vera cucina americana e non solo."
+    },
+    {
+      "start": 4.36,
+      "end": 9.82,
+      "text": "Sì perché oggi abbiamo iniziato con una classica colazione americana con sassicce waffle e litri di sciroppo d'acero"
+    },
+    {
+      "start": 9.82,
+      "end": 15.64,
+      "text": "per poi, in realtà, andare a visitare la serie della NASA in Florida, ovvero il Kennedy Space Center vicino a Cape Canaveral."
+    },
+    {
+      "start": 15.7,
+      "end": 21.24,
+      "text": "Dopo i sanitari siamo subito passati davanti alla struttura di assemblaggio, per poi, maggiorci a pieno nel mondo della NASA."
+    },
+    {
+      "start": 21.34,
+      "end": 27.72,
+      "text": "Assistendo per esempio ad un lancio da una vera sala dei comandi, per comprendere meglio tutte le procedure che ci stanno alla base di un lancio."
+    },
+    {
+      "start": 33.56,
+      "end": 34.96,
+      "text": "Sì, per l'esplendere, ciao!"
+    },
+    {
+      "start": 40.68,
+      "end": 47.4,
+      "text": "Per arrivare a visitare un razzo gigante che è realmente portato degli astronauti sulla dura, con tutte le varie spiegazioni sulle missioni a pollo."
+    },
+    {
+      "start": 47.52,
+      "end": 52.66,
+      "text": "Tutto davvero molto figo, molto affascinante, e, ovviamente, come ogni parco americano ben tematizzato."
+    },
+    {
+      "start": 52.74,
+      "end": 54.76,
+      "text": "Ragazzi, gli americani in queste cose sono in numeri uno."
+    },
+    {
+      "start": 54.76,
+      "end": 59.72,
+      "text": "Dopodiché pausa pranzo con un classico chicken burger con anche il bacon, che anche qua, per essere in un parco,"
+    },
+    {
+      "start": 59.76,
+      "end": 61.38,
+      "text": "alla fine era comunque di un bollivello."
+    },
+    {
+      "start": 61.5,
+      "end": 65.5,
+      "text": "E per concludere, abbiamo diviso un paio di cookies americani, un dolce all'oreo e una cheesecake."
+    },
+    {
+      "start": 65.82,
+      "end": 70.48,
+      "text": "E dopodiché abbiamo ripreso il nostro tour per andare a visitare lo Space Shuttle Atlantis,"
+    },
+    {
+      "start": 70.58,
+      "end": 75.26,
+      "text": "uno shuttle che ha compiuto 33 missioni ed è stato nello spazio per ben 306 giorni."
+    },
+    {
+      "start": 75.34,
+      "end": 80.46,
+      "text": "E chi datevi che avvercelo davanti dopo aver saputo tutto ciò che questo shuttle ha compiuto nello spazio davvero impressionante."
+    },
+    {
+      "start": 80.58,
+      "end": 83.52,
+      "text": "Dopodiché è piccolo incontro con un astronauta e simulatore di lancio."
+    },
+    {
+      "start": 90.04,
+      "end": 96.2,
+      "text": "Mi sono imparato a concludere la giornata."
+    },
+    {
+      "start": 96.42,
+      "end": 100.2,
+      "text": "Ma prima di cena, ragazzi, ovviamente, sono dovuto passare a fare un bel legday in questa palestra,"
+    },
+    {
+      "start": 100.2,
+      "end": 104.36,
+      "text": "che aveva dei macchinari clamorosi come questo Ack Squad o questo Pendulum Squad,"
+    },
+    {
+      "start": 104.52,
+      "end": 108.22,
+      "text": "un macchinaio che tra l'altro ho sempre voluto provare ma l'avevo mai trovato in Italia."
+    },
+    {
+      "start": 108.34,
+      "end": 111.74,
+      "text": "E fidatevi che vi dà un focus su quadricipiti clamoroso."
+    },
+    {
+      "start": 111.94,
+      "end": 114.74,
+      "text": "Dopodiché, ovviamente, siamo usciti a cena co-cobbic che è l'Iv-21,"
+    },
+    {
+      "start": 115.46,
+      "end": 117.98,
+      "text": "in un posto ben quotato ma veramente molto srallo,"
+    },
+    {
+      "start": 118.08,
+      "end": 122.04,
+      "text": "perché comunque ricordiamoci, ragazzi, che siamo in Florida e i posti normali sono veramente rari."
+    },
+    {
+      "start": 122.14,
+      "end": 124.98,
+      "text": "Infatti, in questo posto, come vedete, c'erano addirittura degli allegatorini."
+    },
+    {
+      "start": 125.08,
+      "end": 126.06,
+      "text": "E cosa ho scelto di prendere?"
+    },
+    {
+      "start": 126.1,
+      "end": 129.8,
+      "text": "Ho scelto di prendere l'olio chinite di pesce fritto, visto che era la sarata olio chinite."
+    },
+    {
+      "start": 129.86,
+      "end": 132.44,
+      "text": "E allora, primo giro di pesce fritto che era molto buono."
+    },
+    {
+      "start": 132.46,
+      "end": 135.02,
+      "text": "Ovviamente il pesce era praticamente un parente del Merluzzo,"
+    },
+    {
+      "start": 135.08,
+      "end": 137.5,
+      "text": "ma devo dire che anche se era fritto è sceso molto bene."
+    },
+    {
+      "start": 137.66,
+      "end": 139.48,
+      "text": "Infatti, siamo passati un secondo e un terzo giro."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "word": "Giorno"
+    },
+    {
+      "start": 0.42,
+      "end": 0.68,
+      "word": "13"
+    },
+    {
+      "start": 0.68,
+      "end": 1.0,
+      "word": "il"
+    },
+    {
+      "start": 1.0,
+      "end": 1.08,
+      "word": "mio"
+    },
+    {
+      "start": 1.08,
+      "end": 1.3,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.3,
+      "end": 1.44,
+      "word": "in"
+    },
+    {
+      "start": 1.44,
+      "end": 1.66,
+      "word": "Florida"
+    },
+    {
+      "start": 1.66,
+      "end": 1.9,
+      "word": "la"
+    },
+    {
+      "start": 1.9,
+      "end": 2.22,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.22,
+      "end": 2.44,
+      "word": "della"
+    },
+    {
+      "start": 2.44,
+      "end": 2.76,
+      "word": "vera"
+    },
+    {
+      "start": 2.76,
+      "end": 3.04,
+      "word": "cucina"
+    },
+    {
+      "start": 3.04,
+      "end": 3.54,
+      "word": "americana"
+    },
+    {
+      "start": 3.54,
+      "end": 3.8,
+      "word": "e"
+    },
+    {
+      "start": 3.8,
+      "end": 3.92,
+      "word": "non"
+    },
+    {
+      "start": 3.92,
+      "end": 4.28,
+      "word": "solo."
+    },
+    {
+      "start": 4.36,
+      "end": 4.46,
+      "word": "Sì"
+    },
+    {
+      "start": 4.46,
+      "end": 4.64,
+      "word": "perché"
+    },
+    {
+      "start": 4.64,
+      "end": 4.82,
+      "word": "oggi"
+    },
+    {
+      "start": 4.82,
+      "end": 4.96,
+      "word": "abbiamo"
+    },
+    {
+      "start": 4.96,
+      "end": 5.28,
+      "word": "iniziato"
+    },
+    {
+      "start": 5.28,
+      "end": 5.46,
+      "word": "con"
+    },
+    {
+      "start": 5.46,
+      "end": 5.6,
+      "word": "una"
+    },
+    {
+      "start": 5.6,
+      "end": 5.98,
+      "word": "classica"
+    },
+    {
+      "start": 5.98,
+      "end": 6.36,
+      "word": "colazione"
+    },
+    {
+      "start": 6.36,
+      "end": 6.96,
+      "word": "americana"
+    },
+    {
+      "start": 6.96,
+      "end": 7.22,
+      "word": "con"
+    },
+    {
+      "start": 7.22,
+      "end": 7.76,
+      "word": "sassicce"
+    },
+    {
+      "start": 7.76,
+      "end": 8.28,
+      "word": "waffle"
+    },
+    {
+      "start": 8.28,
+      "end": 8.52,
+      "word": "e"
+    },
+    {
+      "start": 8.52,
+      "end": 8.88,
+      "word": "litri"
+    },
+    {
+      "start": 8.88,
+      "end": 9.08,
+      "word": "di"
+    },
+    {
+      "start": 9.08,
+      "end": 9.36,
+      "word": "sciroppo"
+    },
+    {
+      "start": 9.36,
+      "end": 9.54,
+      "word": "d"
+    },
+    {
+      "start": 9.54,
+      "end": 9.82,
+      "word": "'acero"
+    },
+    {
+      "start": 9.82,
+      "end": 10.06,
+      "word": "per"
+    },
+    {
+      "start": 10.06,
+      "end": 10.3,
+      "word": "poi,"
+    },
+    {
+      "start": 10.34,
+      "end": 10.42,
+      "word": "in"
+    },
+    {
+      "start": 10.42,
+      "end": 10.42,
+      "word": "realtà,"
+    },
+    {
+      "start": 10.68,
+      "end": 10.8,
+      "word": "andare"
+    },
+    {
+      "start": 10.8,
+      "end": 10.9,
+      "word": "a"
+    },
+    {
+      "start": 10.9,
+      "end": 11.38,
+      "word": "visitare"
+    },
+    {
+      "start": 11.38,
+      "end": 11.56,
+      "word": "la"
+    },
+    {
+      "start": 11.56,
+      "end": 11.72,
+      "word": "serie"
+    },
+    {
+      "start": 11.72,
+      "end": 11.94,
+      "word": "della"
+    },
+    {
+      "start": 11.94,
+      "end": 12.26,
+      "word": "NASA"
+    },
+    {
+      "start": 12.26,
+      "end": 12.46,
+      "word": "in"
+    },
+    {
+      "start": 12.46,
+      "end": 12.8,
+      "word": "Florida,"
+    },
+    {
+      "start": 12.9,
+      "end": 13.22,
+      "word": "ovvero"
+    },
+    {
+      "start": 13.22,
+      "end": 13.38,
+      "word": "il"
+    },
+    {
+      "start": 13.38,
+      "end": 13.62,
+      "word": "Kennedy"
+    },
+    {
+      "start": 13.62,
+      "end": 13.94,
+      "word": "Space"
+    },
+    {
+      "start": 13.94,
+      "end": 14.38,
+      "word": "Center"
+    },
+    {
+      "start": 14.38,
+      "end": 14.74,
+      "word": "vicino"
+    },
+    {
+      "start": 14.74,
+      "end": 14.86,
+      "word": "a"
+    },
+    {
+      "start": 14.86,
+      "end": 15.0,
+      "word": "Cape"
+    },
+    {
+      "start": 15.0,
+      "end": 15.64,
+      "word": "Canaveral."
+    },
+    {
+      "start": 15.7,
+      "end": 15.88,
+      "word": "Dopo"
+    },
+    {
+      "start": 15.88,
+      "end": 16.02,
+      "word": "i"
+    },
+    {
+      "start": 16.02,
+      "end": 16.34,
+      "word": "sanitari"
+    },
+    {
+      "start": 16.34,
+      "end": 16.6,
+      "word": "siamo"
+    },
+    {
+      "start": 16.6,
+      "end": 16.94,
+      "word": "subito"
+    },
+    {
+      "start": 16.94,
+      "end": 17.28,
+      "word": "passati"
+    },
+    {
+      "start": 17.28,
+      "end": 17.64,
+      "word": "davanti"
+    },
+    {
+      "start": 17.64,
+      "end": 17.78,
+      "word": "alla"
+    },
+    {
+      "start": 17.78,
+      "end": 18.2,
+      "word": "struttura"
+    },
+    {
+      "start": 18.2,
+      "end": 18.36,
+      "word": "di"
+    },
+    {
+      "start": 18.36,
+      "end": 19.0,
+      "word": "assemblaggio,"
+    },
+    {
+      "start": 19.18,
+      "end": 19.22,
+      "word": "per"
+    },
+    {
+      "start": 19.22,
+      "end": 19.4,
+      "word": "poi,"
+    },
+    {
+      "start": 19.44,
+      "end": 19.96,
+      "word": "maggiorci"
+    },
+    {
+      "start": 19.96,
+      "end": 20.06,
+      "word": "a"
+    },
+    {
+      "start": 20.06,
+      "end": 20.34,
+      "word": "pieno"
+    },
+    {
+      "start": 20.34,
+      "end": 20.5,
+      "word": "nel"
+    },
+    {
+      "start": 20.5,
+      "end": 20.68,
+      "word": "mondo"
+    },
+    {
+      "start": 20.68,
+      "end": 20.9,
+      "word": "della"
+    },
+    {
+      "start": 20.9,
+      "end": 21.24,
+      "word": "NASA."
+    },
+    {
+      "start": 21.34,
+      "end": 21.74,
+      "word": "Assistendo"
+    },
+    {
+      "start": 21.74,
+      "end": 21.94,
+      "word": "per"
+    },
+    {
+      "start": 21.94,
+      "end": 22.3,
+      "word": "esempio"
+    },
+    {
+      "start": 22.3,
+      "end": 22.5,
+      "word": "ad"
+    },
+    {
+      "start": 22.5,
+      "end": 22.62,
+      "word": "un"
+    },
+    {
+      "start": 22.62,
+      "end": 22.94,
+      "word": "lancio"
+    },
+    {
+      "start": 22.94,
+      "end": 23.08,
+      "word": "da"
+    },
+    {
+      "start": 23.08,
+      "end": 23.3,
+      "word": "una"
+    },
+    {
+      "start": 23.3,
+      "end": 23.56,
+      "word": "vera"
+    },
+    {
+      "start": 23.56,
+      "end": 23.86,
+      "word": "sala"
+    },
+    {
+      "start": 23.86,
+      "end": 24.06,
+      "word": "dei"
+    },
+    {
+      "start": 24.06,
+      "end": 24.46,
+      "word": "comandi,"
+    },
+    {
+      "start": 24.52,
+      "end": 24.6,
+      "word": "per"
+    },
+    {
+      "start": 24.6,
+      "end": 24.98,
+      "word": "comprendere"
+    },
+    {
+      "start": 24.98,
+      "end": 25.2,
+      "word": "meglio"
+    },
+    {
+      "start": 25.2,
+      "end": 25.48,
+      "word": "tutte"
+    },
+    {
+      "start": 25.48,
+      "end": 25.66,
+      "word": "le"
+    },
+    {
+      "start": 25.66,
+      "end": 26.0,
+      "word": "procedure"
+    },
+    {
+      "start": 26.0,
+      "end": 26.28,
+      "word": "che"
+    },
+    {
+      "start": 26.28,
+      "end": 26.44,
+      "word": "ci"
+    },
+    {
+      "start": 26.44,
+      "end": 26.7,
+      "word": "stanno"
+    },
+    {
+      "start": 26.7,
+      "end": 26.92,
+      "word": "alla"
+    },
+    {
+      "start": 26.92,
+      "end": 27.22,
+      "word": "base"
+    },
+    {
+      "start": 27.22,
+      "end": 27.4,
+      "word": "di"
+    },
+    {
+      "start": 27.4,
+      "end": 27.5,
+      "word": "un"
+    },
+    {
+      "start": 27.5,
+      "end": 27.72,
+      "word": "lancio."
+    },
+    {
+      "start": 33.56,
+      "end": 34.02,
+      "word": "Sì,"
+    },
+    {
+      "start": 34.04,
+      "end": 34.2,
+      "word": "per"
+    },
+    {
+      "start": 34.2,
+      "end": 34.24,
+      "word": "l"
+    },
+    {
+      "start": 34.24,
+      "end": 34.6,
+      "word": "'esplendere,"
+    },
+    {
+      "start": 34.72,
+      "end": 34.96,
+      "word": "ciao!"
+    },
+    {
+      "start": 40.68,
+      "end": 41.14,
+      "word": "Per"
+    },
+    {
+      "start": 41.14,
+      "end": 41.5,
+      "word": "arrivare"
+    },
+    {
+      "start": 41.5,
+      "end": 41.66,
+      "word": "a"
+    },
+    {
+      "start": 41.66,
+      "end": 41.94,
+      "word": "visitare"
+    },
+    {
+      "start": 41.94,
+      "end": 42.1,
+      "word": "un"
+    },
+    {
+      "start": 42.1,
+      "end": 42.44,
+      "word": "razzo"
+    },
+    {
+      "start": 42.44,
+      "end": 42.82,
+      "word": "gigante"
+    },
+    {
+      "start": 42.82,
+      "end": 43.02,
+      "word": "che"
+    },
+    {
+      "start": 43.02,
+      "end": 43.1,
+      "word": "è"
+    },
+    {
+      "start": 43.1,
+      "end": 43.42,
+      "word": "realmente"
+    },
+    {
+      "start": 43.42,
+      "end": 43.96,
+      "word": "portato"
+    },
+    {
+      "start": 43.96,
+      "end": 44.22,
+      "word": "degli"
+    },
+    {
+      "start": 44.22,
+      "end": 44.72,
+      "word": "astronauti"
+    },
+    {
+      "start": 44.72,
+      "end": 44.92,
+      "word": "sulla"
+    },
+    {
+      "start": 44.92,
+      "end": 45.22,
+      "word": "dura,"
+    },
+    {
+      "start": 45.26,
+      "end": 45.36,
+      "word": "con"
+    },
+    {
+      "start": 45.36,
+      "end": 45.5,
+      "word": "tutte"
+    },
+    {
+      "start": 45.5,
+      "end": 45.64,
+      "word": "le"
+    },
+    {
+      "start": 45.64,
+      "end": 45.82,
+      "word": "varie"
+    },
+    {
+      "start": 45.82,
+      "end": 46.32,
+      "word": "spiegazioni"
+    },
+    {
+      "start": 46.32,
+      "end": 46.66,
+      "word": "sulle"
+    },
+    {
+      "start": 46.66,
+      "end": 47.04,
+      "word": "missioni"
+    },
+    {
+      "start": 47.04,
+      "end": 47.12,
+      "word": "a"
+    },
+    {
+      "start": 47.12,
+      "end": 47.4,
+      "word": "pollo."
+    },
+    {
+      "start": 47.52,
+      "end": 47.58,
+      "word": "Tutto"
+    },
+    {
+      "start": 47.58,
+      "end": 47.96,
+      "word": "davvero"
+    },
+    {
+      "start": 47.96,
+      "end": 48.28,
+      "word": "molto"
+    },
+    {
+      "start": 48.28,
+      "end": 48.82,
+      "word": "figo,"
+    },
+    {
+      "start": 49.0,
+      "end": 49.16,
+      "word": "molto"
+    },
+    {
+      "start": 49.16,
+      "end": 49.8,
+      "word": "affascinante,"
+    },
+    {
+      "start": 49.92,
+      "end": 49.96,
+      "word": "e,"
+    },
+    {
+      "start": 49.96,
+      "end": 50.24,
+      "word": "ovviamente,"
+    },
+    {
+      "start": 50.46,
+      "end": 50.52,
+      "word": "come"
+    },
+    {
+      "start": 50.52,
+      "end": 50.84,
+      "word": "ogni"
+    },
+    {
+      "start": 50.84,
+      "end": 51.16,
+      "word": "parco"
+    },
+    {
+      "start": 51.16,
+      "end": 51.62,
+      "word": "americano"
+    },
+    {
+      "start": 51.62,
+      "end": 51.98,
+      "word": "ben"
+    },
+    {
+      "start": 51.98,
+      "end": 52.66,
+      "word": "tematizzato."
+    },
+    {
+      "start": 52.74,
+      "end": 53.02,
+      "word": "Ragazzi,"
+    },
+    {
+      "start": 53.1,
+      "end": 53.18,
+      "word": "gli"
+    },
+    {
+      "start": 53.18,
+      "end": 53.52,
+      "word": "americani"
+    },
+    {
+      "start": 53.52,
+      "end": 53.62,
+      "word": "in"
+    },
+    {
+      "start": 53.62,
+      "end": 53.78,
+      "word": "queste"
+    },
+    {
+      "start": 53.78,
+      "end": 54.06,
+      "word": "cose"
+    },
+    {
+      "start": 54.06,
+      "end": 54.24,
+      "word": "sono"
+    },
+    {
+      "start": 54.24,
+      "end": 54.36,
+      "word": "in"
+    },
+    {
+      "start": 54.36,
+      "end": 54.6,
+      "word": "numeri"
+    },
+    {
+      "start": 54.6,
+      "end": 54.76,
+      "word": "uno."
+    },
+    {
+      "start": 54.76,
+      "end": 55.24,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 55.24,
+      "end": 55.6,
+      "word": "pausa"
+    },
+    {
+      "start": 55.6,
+      "end": 56.0,
+      "word": "pranzo"
+    },
+    {
+      "start": 56.0,
+      "end": 56.14,
+      "word": "con"
+    },
+    {
+      "start": 56.14,
+      "end": 56.24,
+      "word": "un"
+    },
+    {
+      "start": 56.24,
+      "end": 56.54,
+      "word": "classico"
+    },
+    {
+      "start": 56.54,
+      "end": 56.78,
+      "word": "chicken"
+    },
+    {
+      "start": 56.78,
+      "end": 57.22,
+      "word": "burger"
+    },
+    {
+      "start": 57.22,
+      "end": 57.64,
+      "word": "con"
+    },
+    {
+      "start": 57.64,
+      "end": 57.92,
+      "word": "anche"
+    },
+    {
+      "start": 57.92,
+      "end": 58.02,
+      "word": "il"
+    },
+    {
+      "start": 58.02,
+      "end": 58.28,
+      "word": "bacon,"
+    },
+    {
+      "start": 58.42,
+      "end": 58.46,
+      "word": "che"
+    },
+    {
+      "start": 58.46,
+      "end": 58.56,
+      "word": "anche"
+    },
+    {
+      "start": 58.56,
+      "end": 58.74,
+      "word": "qua,"
+    },
+    {
+      "start": 58.84,
+      "end": 58.88,
+      "word": "per"
+    },
+    {
+      "start": 58.88,
+      "end": 59.06,
+      "word": "essere"
+    },
+    {
+      "start": 59.06,
+      "end": 59.26,
+      "word": "in"
+    },
+    {
+      "start": 59.26,
+      "end": 59.3,
+      "word": "un"
+    },
+    {
+      "start": 59.3,
+      "end": 59.72,
+      "word": "parco,"
+    },
+    {
+      "start": 59.76,
+      "end": 59.88,
+      "word": "alla"
+    },
+    {
+      "start": 59.88,
+      "end": 60.06,
+      "word": "fine"
+    },
+    {
+      "start": 60.06,
+      "end": 60.28,
+      "word": "era"
+    },
+    {
+      "start": 60.28,
+      "end": 60.56,
+      "word": "comunque"
+    },
+    {
+      "start": 60.56,
+      "end": 60.78,
+      "word": "di"
+    },
+    {
+      "start": 60.78,
+      "end": 60.86,
+      "word": "un"
+    },
+    {
+      "start": 60.86,
+      "end": 61.38,
+      "word": "bollivello."
+    },
+    {
+      "start": 61.5,
+      "end": 61.56,
+      "word": "E"
+    },
+    {
+      "start": 61.56,
+      "end": 61.7,
+      "word": "per"
+    },
+    {
+      "start": 61.7,
+      "end": 62.12,
+      "word": "concludere,"
+    },
+    {
+      "start": 62.24,
+      "end": 62.3,
+      "word": "abbiamo"
+    },
+    {
+      "start": 62.3,
+      "end": 62.58,
+      "word": "diviso"
+    },
+    {
+      "start": 62.58,
+      "end": 62.76,
+      "word": "un"
+    },
+    {
+      "start": 62.76,
+      "end": 62.96,
+      "word": "paio"
+    },
+    {
+      "start": 62.96,
+      "end": 63.08,
+      "word": "di"
+    },
+    {
+      "start": 63.08,
+      "end": 63.26,
+      "word": "cookies"
+    },
+    {
+      "start": 63.26,
+      "end": 63.96,
+      "word": "americani,"
+    },
+    {
+      "start": 64.1,
+      "end": 64.22,
+      "word": "un"
+    },
+    {
+      "start": 64.22,
+      "end": 64.52,
+      "word": "dolce"
+    },
+    {
+      "start": 64.52,
+      "end": 64.64,
+      "word": "all"
+    },
+    {
+      "start": 64.64,
+      "end": 64.98,
+      "word": "'oreo"
+    },
+    {
+      "start": 64.98,
+      "end": 65.06,
+      "word": "e"
+    },
+    {
+      "start": 65.06,
+      "end": 65.2,
+      "word": "una"
+    },
+    {
+      "start": 65.2,
+      "end": 65.5,
+      "word": "cheesecake."
+    },
+    {
+      "start": 65.82,
+      "end": 65.9,
+      "word": "E"
+    },
+    {
+      "start": 65.9,
+      "end": 66.26,
+      "word": "dopodiché"
+    },
+    {
+      "start": 66.26,
+      "end": 66.44,
+      "word": "abbiamo"
+    },
+    {
+      "start": 66.44,
+      "end": 66.86,
+      "word": "ripreso"
+    },
+    {
+      "start": 66.86,
+      "end": 67.02,
+      "word": "il"
+    },
+    {
+      "start": 67.02,
+      "end": 67.2,
+      "word": "nostro"
+    },
+    {
+      "start": 67.2,
+      "end": 67.74,
+      "word": "tour"
+    },
+    {
+      "start": 67.74,
+      "end": 68.02,
+      "word": "per"
+    },
+    {
+      "start": 68.02,
+      "end": 68.22,
+      "word": "andare"
+    },
+    {
+      "start": 68.22,
+      "end": 68.34,
+      "word": "a"
+    },
+    {
+      "start": 68.34,
+      "end": 68.84,
+      "word": "visitare"
+    },
+    {
+      "start": 68.84,
+      "end": 69.04,
+      "word": "lo"
+    },
+    {
+      "start": 69.04,
+      "end": 69.26,
+      "word": "Space"
+    },
+    {
+      "start": 69.26,
+      "end": 69.92,
+      "word": "Shuttle"
+    },
+    {
+      "start": 69.92,
+      "end": 70.48,
+      "word": "Atlantis,"
+    },
+    {
+      "start": 70.58,
+      "end": 70.7,
+      "word": "uno"
+    },
+    {
+      "start": 70.7,
+      "end": 70.92,
+      "word": "shuttle"
+    },
+    {
+      "start": 70.92,
+      "end": 71.12,
+      "word": "che"
+    },
+    {
+      "start": 71.12,
+      "end": 71.16,
+      "word": "ha"
+    },
+    {
+      "start": 71.16,
+      "end": 71.48,
+      "word": "compiuto"
+    },
+    {
+      "start": 71.48,
+      "end": 72.04,
+      "word": "33"
+    },
+    {
+      "start": 72.04,
+      "end": 72.66,
+      "word": "missioni"
+    },
+    {
+      "start": 72.66,
+      "end": 72.78,
+      "word": "ed"
+    },
+    {
+      "start": 72.78,
+      "end": 72.86,
+      "word": "è"
+    },
+    {
+      "start": 72.86,
+      "end": 72.96,
+      "word": "stato"
+    },
+    {
+      "start": 72.96,
+      "end": 73.22,
+      "word": "nello"
+    },
+    {
+      "start": 73.22,
+      "end": 73.66,
+      "word": "spazio"
+    },
+    {
+      "start": 73.66,
+      "end": 73.84,
+      "word": "per"
+    },
+    {
+      "start": 73.84,
+      "end": 74.0,
+      "word": "ben"
+    },
+    {
+      "start": 74.0,
+      "end": 74.82,
+      "word": "306"
+    },
+    {
+      "start": 74.82,
+      "end": 75.26,
+      "word": "giorni."
+    },
+    {
+      "start": 75.34,
+      "end": 75.38,
+      "word": "E"
+    },
+    {
+      "start": 75.38,
+      "end": 75.42,
+      "word": "chi"
+    },
+    {
+      "start": 75.42,
+      "end": 75.72,
+      "word": "datevi"
+    },
+    {
+      "start": 75.72,
+      "end": 75.84,
+      "word": "che"
+    },
+    {
+      "start": 75.84,
+      "end": 76.22,
+      "word": "avvercelo"
+    },
+    {
+      "start": 76.22,
+      "end": 76.6,
+      "word": "davanti"
+    },
+    {
+      "start": 76.6,
+      "end": 76.84,
+      "word": "dopo"
+    },
+    {
+      "start": 76.84,
+      "end": 77.02,
+      "word": "aver"
+    },
+    {
+      "start": 77.02,
+      "end": 77.34,
+      "word": "saputo"
+    },
+    {
+      "start": 77.34,
+      "end": 77.56,
+      "word": "tutto"
+    },
+    {
+      "start": 77.56,
+      "end": 77.78,
+      "word": "ciò"
+    },
+    {
+      "start": 77.78,
+      "end": 77.9,
+      "word": "che"
+    },
+    {
+      "start": 77.9,
+      "end": 78.12,
+      "word": "questo"
+    },
+    {
+      "start": 78.12,
+      "end": 78.52,
+      "word": "shuttle"
+    },
+    {
+      "start": 78.52,
+      "end": 78.64,
+      "word": "ha"
+    },
+    {
+      "start": 78.64,
+      "end": 78.96,
+      "word": "compiuto"
+    },
+    {
+      "start": 78.96,
+      "end": 79.18,
+      "word": "nello"
+    },
+    {
+      "start": 79.18,
+      "end": 79.6,
+      "word": "spazio"
+    },
+    {
+      "start": 79.6,
+      "end": 79.88,
+      "word": "davvero"
+    },
+    {
+      "start": 79.88,
+      "end": 80.46,
+      "word": "impressionante."
+    },
+    {
+      "start": 80.58,
+      "end": 80.8,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 80.8,
+      "end": 80.88,
+      "word": "è"
+    },
+    {
+      "start": 80.88,
+      "end": 81.1,
+      "word": "piccolo"
+    },
+    {
+      "start": 81.1,
+      "end": 81.42,
+      "word": "incontro"
+    },
+    {
+      "start": 81.42,
+      "end": 81.54,
+      "word": "con"
+    },
+    {
+      "start": 81.54,
+      "end": 81.64,
+      "word": "un"
+    },
+    {
+      "start": 81.64,
+      "end": 82.3,
+      "word": "astronauta"
+    },
+    {
+      "start": 82.3,
+      "end": 82.4,
+      "word": "e"
+    },
+    {
+      "start": 82.4,
+      "end": 82.94,
+      "word": "simulatore"
+    },
+    {
+      "start": 82.94,
+      "end": 83.16,
+      "word": "di"
+    },
+    {
+      "start": 83.16,
+      "end": 83.52,
+      "word": "lancio."
+    },
+    {
+      "start": 90.04,
+      "end": 90.44,
+      "word": "Mi"
+    },
+    {
+      "start": 90.44,
+      "end": 90.44,
+      "word": "sono"
+    },
+    {
+      "start": 90.44,
+      "end": 94.62,
+      "word": "imparato"
+    },
+    {
+      "start": 94.62,
+      "end": 94.66,
+      "word": "a"
+    },
+    {
+      "start": 94.66,
+      "end": 95.5,
+      "word": "concludere"
+    },
+    {
+      "start": 95.5,
+      "end": 95.68,
+      "word": "la"
+    },
+    {
+      "start": 95.68,
+      "end": 96.2,
+      "word": "giornata."
+    },
+    {
+      "start": 96.42,
+      "end": 96.42,
+      "word": "Ma"
+    },
+    {
+      "start": 96.42,
+      "end": 96.62,
+      "word": "prima"
+    },
+    {
+      "start": 96.62,
+      "end": 96.8,
+      "word": "di"
+    },
+    {
+      "start": 96.8,
+      "end": 97.0,
+      "word": "cena,"
+    },
+    {
+      "start": 97.14,
+      "end": 97.36,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 97.44,
+      "end": 97.6,
+      "word": "ovviamente,"
+    },
+    {
+      "start": 97.72,
+      "end": 97.8,
+      "word": "sono"
+    },
+    {
+      "start": 97.8,
+      "end": 98.04,
+      "word": "dovuto"
+    },
+    {
+      "start": 98.04,
+      "end": 98.52,
+      "word": "passare"
+    },
+    {
+      "start": 98.52,
+      "end": 98.62,
+      "word": "a"
+    },
+    {
+      "start": 98.62,
+      "end": 98.7,
+      "word": "fare"
+    },
+    {
+      "start": 98.7,
+      "end": 98.82,
+      "word": "un"
+    },
+    {
+      "start": 98.82,
+      "end": 98.98,
+      "word": "bel"
+    },
+    {
+      "start": 98.98,
+      "end": 99.38,
+      "word": "legday"
+    },
+    {
+      "start": 99.38,
+      "end": 99.5,
+      "word": "in"
+    },
+    {
+      "start": 99.5,
+      "end": 99.7,
+      "word": "questa"
+    },
+    {
+      "start": 99.7,
+      "end": 100.2,
+      "word": "palestra,"
+    },
+    {
+      "start": 100.2,
+      "end": 100.38,
+      "word": "che"
+    },
+    {
+      "start": 100.38,
+      "end": 100.5,
+      "word": "aveva"
+    },
+    {
+      "start": 100.5,
+      "end": 100.64,
+      "word": "dei"
+    },
+    {
+      "start": 100.64,
+      "end": 101.0,
+      "word": "macchinari"
+    },
+    {
+      "start": 101.0,
+      "end": 101.56,
+      "word": "clamorosi"
+    },
+    {
+      "start": 101.56,
+      "end": 101.76,
+      "word": "come"
+    },
+    {
+      "start": 101.76,
+      "end": 102.08,
+      "word": "questo"
+    },
+    {
+      "start": 102.08,
+      "end": 102.4,
+      "word": "Ack"
+    },
+    {
+      "start": 102.4,
+      "end": 102.7,
+      "word": "Squad"
+    },
+    {
+      "start": 102.7,
+      "end": 103.02,
+      "word": "o"
+    },
+    {
+      "start": 103.02,
+      "end": 103.38,
+      "word": "questo"
+    },
+    {
+      "start": 103.38,
+      "end": 103.94,
+      "word": "Pendulum"
+    },
+    {
+      "start": 103.94,
+      "end": 104.36,
+      "word": "Squad,"
+    },
+    {
+      "start": 104.52,
+      "end": 104.58,
+      "word": "un"
+    },
+    {
+      "start": 104.58,
+      "end": 104.94,
+      "word": "macchinaio"
+    },
+    {
+      "start": 104.94,
+      "end": 105.02,
+      "word": "che"
+    },
+    {
+      "start": 105.02,
+      "end": 105.16,
+      "word": "tra"
+    },
+    {
+      "start": 105.16,
+      "end": 105.26,
+      "word": "l"
+    },
+    {
+      "start": 105.26,
+      "end": 105.42,
+      "word": "'altro"
+    },
+    {
+      "start": 105.42,
+      "end": 105.82,
+      "word": "ho"
+    },
+    {
+      "start": 105.82,
+      "end": 106.14,
+      "word": "sempre"
+    },
+    {
+      "start": 106.14,
+      "end": 106.4,
+      "word": "voluto"
+    },
+    {
+      "start": 106.4,
+      "end": 106.8,
+      "word": "provare"
+    },
+    {
+      "start": 106.8,
+      "end": 106.92,
+      "word": "ma"
+    },
+    {
+      "start": 106.92,
+      "end": 107.06,
+      "word": "l"
+    },
+    {
+      "start": 107.06,
+      "end": 107.26,
+      "word": "'avevo"
+    },
+    {
+      "start": 107.26,
+      "end": 107.46,
+      "word": "mai"
+    },
+    {
+      "start": 107.46,
+      "end": 107.82,
+      "word": "trovato"
+    },
+    {
+      "start": 107.82,
+      "end": 107.92,
+      "word": "in"
+    },
+    {
+      "start": 107.92,
+      "end": 108.22,
+      "word": "Italia."
+    },
+    {
+      "start": 108.34,
+      "end": 108.34,
+      "word": "E"
+    },
+    {
+      "start": 108.34,
+      "end": 108.76,
+      "word": "fidatevi"
+    },
+    {
+      "start": 108.76,
+      "end": 108.88,
+      "word": "che"
+    },
+    {
+      "start": 108.88,
+      "end": 108.96,
+      "word": "vi"
+    },
+    {
+      "start": 108.96,
+      "end": 109.08,
+      "word": "dà"
+    },
+    {
+      "start": 109.08,
+      "end": 109.26,
+      "word": "un"
+    },
+    {
+      "start": 109.26,
+      "end": 109.54,
+      "word": "focus"
+    },
+    {
+      "start": 109.54,
+      "end": 109.82,
+      "word": "su"
+    },
+    {
+      "start": 109.82,
+      "end": 110.48,
+      "word": "quadricipiti"
+    },
+    {
+      "start": 110.48,
+      "end": 111.74,
+      "word": "clamoroso."
+    },
+    {
+      "start": 111.94,
+      "end": 112.34,
+      "word": "Dopodiché,"
+    },
+    {
+      "start": 112.46,
+      "end": 112.7,
+      "word": "ovviamente,"
+    },
+    {
+      "start": 112.84,
+      "end": 112.94,
+      "word": "siamo"
+    },
+    {
+      "start": 112.94,
+      "end": 113.18,
+      "word": "usciti"
+    },
+    {
+      "start": 113.18,
+      "end": 113.3,
+      "word": "a"
+    },
+    {
+      "start": 113.3,
+      "end": 113.52,
+      "word": "cena"
+    },
+    {
+      "start": 113.52,
+      "end": 113.8,
+      "word": "co"
+    },
+    {
+      "start": 113.8,
+      "end": 114.22,
+      "word": "-cobbic"
+    },
+    {
+      "start": 114.22,
+      "end": 114.44,
+      "word": "che"
+    },
+    {
+      "start": 114.44,
+      "end": 114.54,
+      "word": "è"
+    },
+    {
+      "start": 114.54,
+      "end": 114.58,
+      "word": "l"
+    },
+    {
+      "start": 114.58,
+      "end": 114.66,
+      "word": "'Iv"
+    },
+    {
+      "start": 114.66,
+      "end": 114.74,
+      "word": "-21,"
+    },
+    {
+      "start": 115.46,
+      "end": 115.82,
+      "word": "in"
+    },
+    {
+      "start": 115.82,
+      "end": 115.88,
+      "word": "un"
+    },
+    {
+      "start": 115.88,
+      "end": 116.24,
+      "word": "posto"
+    },
+    {
+      "start": 116.24,
+      "end": 116.42,
+      "word": "ben"
+    },
+    {
+      "start": 116.42,
+      "end": 116.84,
+      "word": "quotato"
+    },
+    {
+      "start": 116.84,
+      "end": 116.98,
+      "word": "ma"
+    },
+    {
+      "start": 116.98,
+      "end": 117.3,
+      "word": "veramente"
+    },
+    {
+      "start": 117.3,
+      "end": 117.58,
+      "word": "molto"
+    },
+    {
+      "start": 117.58,
+      "end": 117.98,
+      "word": "srallo,"
+    },
+    {
+      "start": 118.08,
+      "end": 118.16,
+      "word": "perché"
+    },
+    {
+      "start": 118.16,
+      "end": 118.36,
+      "word": "comunque"
+    },
+    {
+      "start": 118.36,
+      "end": 118.9,
+      "word": "ricordiamoci,"
+    },
+    {
+      "start": 119.0,
+      "end": 119.18,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 119.24,
+      "end": 119.32,
+      "word": "che"
+    },
+    {
+      "start": 119.32,
+      "end": 119.54,
+      "word": "siamo"
+    },
+    {
+      "start": 119.54,
+      "end": 119.68,
+      "word": "in"
+    },
+    {
+      "start": 119.68,
+      "end": 120.0,
+      "word": "Florida"
+    },
+    {
+      "start": 120.0,
+      "end": 120.26,
+      "word": "e"
+    },
+    {
+      "start": 120.26,
+      "end": 120.34,
+      "word": "i"
+    },
+    {
+      "start": 120.34,
+      "end": 120.6,
+      "word": "posti"
+    },
+    {
+      "start": 120.6,
+      "end": 121.08,
+      "word": "normali"
+    },
+    {
+      "start": 121.08,
+      "end": 121.24,
+      "word": "sono"
+    },
+    {
+      "start": 121.24,
+      "end": 121.48,
+      "word": "veramente"
+    },
+    {
+      "start": 121.48,
+      "end": 122.04,
+      "word": "rari."
+    },
+    {
+      "start": 122.14,
+      "end": 122.32,
+      "word": "Infatti,"
+    },
+    {
+      "start": 122.36,
+      "end": 122.4,
+      "word": "in"
+    },
+    {
+      "start": 122.4,
+      "end": 122.54,
+      "word": "questo"
+    },
+    {
+      "start": 122.54,
+      "end": 122.86,
+      "word": "posto,"
+    },
+    {
+      "start": 122.86,
+      "end": 122.94,
+      "word": "come"
+    },
+    {
+      "start": 122.94,
+      "end": 123.18,
+      "word": "vedete,"
+    },
+    {
+      "start": 123.26,
+      "end": 123.48,
+      "word": "c"
+    },
+    {
+      "start": 123.48,
+      "end": 123.7,
+      "word": "'erano"
+    },
+    {
+      "start": 123.7,
+      "end": 124.12,
+      "word": "addirittura"
+    },
+    {
+      "start": 124.12,
+      "end": 124.32,
+      "word": "degli"
+    },
+    {
+      "start": 124.32,
+      "end": 124.98,
+      "word": "allegatorini."
+    },
+    {
+      "start": 125.08,
+      "end": 125.08,
+      "word": "E"
+    },
+    {
+      "start": 125.08,
+      "end": 125.28,
+      "word": "cosa"
+    },
+    {
+      "start": 125.28,
+      "end": 125.42,
+      "word": "ho"
+    },
+    {
+      "start": 125.42,
+      "end": 125.6,
+      "word": "scelto"
+    },
+    {
+      "start": 125.6,
+      "end": 125.7,
+      "word": "di"
+    },
+    {
+      "start": 125.7,
+      "end": 126.06,
+      "word": "prendere?"
+    },
+    {
+      "start": 126.1,
+      "end": 126.14,
+      "word": "Ho"
+    },
+    {
+      "start": 126.14,
+      "end": 126.44,
+      "word": "scelto"
+    },
+    {
+      "start": 126.44,
+      "end": 126.52,
+      "word": "di"
+    },
+    {
+      "start": 126.52,
+      "end": 126.88,
+      "word": "prendere"
+    },
+    {
+      "start": 126.88,
+      "end": 127.06,
+      "word": "l"
+    },
+    {
+      "start": 127.06,
+      "end": 127.28,
+      "word": "'olio"
+    },
+    {
+      "start": 127.28,
+      "end": 127.62,
+      "word": "chinite"
+    },
+    {
+      "start": 127.62,
+      "end": 127.76,
+      "word": "di"
+    },
+    {
+      "start": 127.76,
+      "end": 128.0,
+      "word": "pesce"
+    },
+    {
+      "start": 128.0,
+      "end": 128.34,
+      "word": "fritto,"
+    },
+    {
+      "start": 128.38,
+      "end": 128.48,
+      "word": "visto"
+    },
+    {
+      "start": 128.48,
+      "end": 128.7,
+      "word": "che"
+    },
+    {
+      "start": 128.7,
+      "end": 128.8,
+      "word": "era"
+    },
+    {
+      "start": 128.8,
+      "end": 128.88,
+      "word": "la"
+    },
+    {
+      "start": 128.88,
+      "end": 129.22,
+      "word": "sarata"
+    },
+    {
+      "start": 129.22,
+      "end": 129.42,
+      "word": "olio"
+    },
+    {
+      "start": 129.42,
+      "end": 129.8,
+      "word": "chinite."
+    },
+    {
+      "start": 129.86,
+      "end": 129.9,
+      "word": "E"
+    },
+    {
+      "start": 129.9,
+      "end": 130.1,
+      "word": "allora,"
+    },
+    {
+      "start": 130.2,
+      "end": 130.36,
+      "word": "primo"
+    },
+    {
+      "start": 130.36,
+      "end": 130.68,
+      "word": "giro"
+    },
+    {
+      "start": 130.68,
+      "end": 130.76,
+      "word": "di"
+    },
+    {
+      "start": 130.76,
+      "end": 131.0,
+      "word": "pesce"
+    },
+    {
+      "start": 131.0,
+      "end": 131.24,
+      "word": "fritto"
+    },
+    {
+      "start": 131.24,
+      "end": 131.36,
+      "word": "che"
+    },
+    {
+      "start": 131.36,
+      "end": 131.46,
+      "word": "era"
+    },
+    {
+      "start": 131.46,
+      "end": 131.96,
+      "word": "molto"
+    },
+    {
+      "start": 131.96,
+      "end": 132.44,
+      "word": "buono."
+    },
+    {
+      "start": 132.46,
+      "end": 132.74,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 132.74,
+      "end": 132.9,
+      "word": "il"
+    },
+    {
+      "start": 132.9,
+      "end": 133.1,
+      "word": "pesce"
+    },
+    {
+      "start": 133.1,
+      "end": 133.2,
+      "word": "era"
+    },
+    {
+      "start": 133.2,
+      "end": 133.5,
+      "word": "praticamente"
+    },
+    {
+      "start": 133.5,
+      "end": 133.94,
+      "word": "un"
+    },
+    {
+      "start": 133.94,
+      "end": 134.34,
+      "word": "parente"
+    },
+    {
+      "start": 134.34,
+      "end": 134.44,
+      "word": "del"
+    },
+    {
+      "start": 134.44,
+      "end": 135.02,
+      "word": "Merluzzo,"
+    },
+    {
+      "start": 135.08,
+      "end": 135.14,
+      "word": "ma"
+    },
+    {
+      "start": 135.14,
+      "end": 135.26,
+      "word": "devo"
+    },
+    {
+      "start": 135.26,
+      "end": 135.44,
+      "word": "dire"
+    },
+    {
+      "start": 135.44,
+      "end": 135.6,
+      "word": "che"
+    },
+    {
+      "start": 135.6,
+      "end": 135.72,
+      "word": "anche"
+    },
+    {
+      "start": 135.72,
+      "end": 135.92,
+      "word": "se"
+    },
+    {
+      "start": 135.92,
+      "end": 136.02,
+      "word": "era"
+    },
+    {
+      "start": 136.02,
+      "end": 136.32,
+      "word": "fritto"
+    },
+    {
+      "start": 136.32,
+      "end": 136.42,
+      "word": "è"
+    },
+    {
+      "start": 136.42,
+      "end": 136.62,
+      "word": "sceso"
+    },
+    {
+      "start": 136.62,
+      "end": 137.1,
+      "word": "molto"
+    },
+    {
+      "start": 137.1,
+      "end": 137.5,
+      "word": "bene."
+    },
+    {
+      "start": 137.66,
+      "end": 137.8,
+      "word": "Infatti,"
+    },
+    {
+      "start": 137.86,
+      "end": 137.96,
+      "word": "siamo"
+    },
+    {
+      "start": 137.96,
+      "end": 138.3,
+      "word": "passati"
+    },
+    {
+      "start": 138.3,
+      "end": 138.42,
+      "word": "un"
+    },
+    {
+      "start": 138.42,
+      "end": 138.72,
+      "word": "secondo"
+    },
+    {
+      "start": 138.72,
+      "end": 138.9,
+      "word": "e"
+    },
+    {
+      "start": 138.9,
+      "end": 138.94,
+      "word": "un"
+    },
+    {
+      "start": 138.94,
+      "end": 139.2,
+      "word": "terzo"
+    },
+    {
+      "start": 139.2,
+      "end": 139.48,
+      "word": "giro."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.367,
+      "dur": 2.367,
+      "transcript": "Giorno 13 il mio viaggio in Florida la scoperta della"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.367,
+      "end": 4.8,
+      "dur": 2.433,
+      "transcript": "vera cucina americana e non solo. Sì perché oggi"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.8,
+      "end": 6.333,
+      "dur": 1.533,
+      "transcript": "abbiamo iniziato con una classica colazione"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.333,
+      "end": 9.133,
+      "dur": 2.8,
+      "transcript": "americana con sassicce waffle e litri di"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.133,
+      "end": 11.133,
+      "dur": 2.0,
+      "transcript": "sciroppo d 'acero per poi, in realtà, andare a"
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.133,
+      "end": 13.167,
+      "dur": 2.033,
+      "transcript": "visitare la serie della NASA in Florida, ovvero"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.167,
+      "end": 16.167,
+      "dur": 3.0,
+      "transcript": "il Kennedy Space Center vicino a Cape Canaveral. Dopo i"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 18.933,
+      "dur": 2.767,
+      "transcript": "sanitari siamo subito passati davanti alla struttura di assemblaggio,"
+    },
+    {
+      "shot_idx": 8,
+      "start": 18.933,
+      "end": 21.933,
+      "dur": 3.0,
+      "transcript": "per poi, maggiorci a pieno nel mondo della NASA. Assistendo per"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.933,
+      "end": 24.433,
+      "dur": 2.5,
+      "transcript": "esempio ad un lancio da una vera sala dei comandi,"
+    },
+    {
+      "shot_idx": 10,
+      "start": 24.433,
+      "end": 27.6,
+      "dur": 3.167,
+      "transcript": "per comprendere meglio tutte le procedure che ci stanno alla base di un"
+    },
+    {
+      "shot_idx": 11,
+      "start": 27.6,
+      "end": 35.067,
+      "dur": 7.467,
+      "transcript": "lancio. Sì, per l 'esplendere, ciao!"
+    },
+    {
+      "shot_idx": 12,
+      "start": 35.067,
+      "end": 41.067,
+      "dur": 6.0,
+      "transcript": "Per"
+    },
+    {
+      "shot_idx": 13,
+      "start": 41.067,
+      "end": 43.333,
+      "dur": 2.267,
+      "transcript": "arrivare a visitare un razzo gigante che è realmente"
+    },
+    {
+      "shot_idx": 14,
+      "start": 43.333,
+      "end": 46.133,
+      "dur": 2.8,
+      "transcript": "portato degli astronauti sulla dura, con tutte le varie spiegazioni"
+    },
+    {
+      "shot_idx": 15,
+      "start": 46.133,
+      "end": 47.8,
+      "dur": 1.667,
+      "transcript": "sulle missioni a pollo. Tutto davvero"
+    },
+    {
+      "shot_idx": 16,
+      "start": 47.8,
+      "end": 49.6,
+      "dur": 1.8,
+      "transcript": "molto figo, molto affascinante,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 49.6,
+      "end": 51.633,
+      "dur": 2.033,
+      "transcript": "e, ovviamente, come ogni parco americano"
+    },
+    {
+      "shot_idx": 18,
+      "start": 51.633,
+      "end": 55.1,
+      "dur": 3.467,
+      "transcript": "ben tematizzato. Ragazzi, gli americani in queste cose sono in numeri uno. Dopodiché"
+    },
+    {
+      "shot_idx": 19,
+      "start": 55.1,
+      "end": 58.1,
+      "dur": 3.0,
+      "transcript": "pausa pranzo con un classico chicken burger con anche il"
+    },
+    {
+      "shot_idx": 20,
+      "start": 58.1,
+      "end": 61.167,
+      "dur": 3.067,
+      "transcript": "bacon, che anche qua, per essere in un parco, alla fine era comunque di un bollivello."
+    },
+    {
+      "shot_idx": 21,
+      "start": 61.167,
+      "end": 64.2,
+      "dur": 3.033,
+      "transcript": "E per concludere, abbiamo diviso un paio di cookies americani, un"
+    },
+    {
+      "shot_idx": 22,
+      "start": 64.2,
+      "end": 66.167,
+      "dur": 1.967,
+      "transcript": "dolce all 'oreo e una cheesecake. E dopodiché"
+    },
+    {
+      "shot_idx": 23,
+      "start": 66.167,
+      "end": 68.2,
+      "dur": 2.033,
+      "transcript": "abbiamo ripreso il nostro tour per andare"
+    },
+    {
+      "shot_idx": 24,
+      "start": 68.2,
+      "end": 70.7,
+      "dur": 2.5,
+      "transcript": "a visitare lo Space Shuttle Atlantis, uno"
+    },
+    {
+      "shot_idx": 25,
+      "start": 70.7,
+      "end": 76.667,
+      "dur": 5.967,
+      "transcript": "shuttle che ha compiuto 33 missioni ed è stato nello spazio per ben 306 giorni. E chi datevi che avvercelo davanti"
+    },
+    {
+      "shot_idx": 26,
+      "start": 76.667,
+      "end": 79.3,
+      "dur": 2.633,
+      "transcript": "dopo aver saputo tutto ciò che questo shuttle ha compiuto nello"
+    },
+    {
+      "shot_idx": 27,
+      "start": 79.3,
+      "end": 80.7,
+      "dur": 1.4,
+      "transcript": "spazio davvero impressionante. Dopodiché"
+    },
+    {
+      "shot_idx": 28,
+      "start": 80.7,
+      "end": 82.933,
+      "dur": 2.233,
+      "transcript": "è piccolo incontro con un astronauta e simulatore"
+    },
+    {
+      "shot_idx": 29,
+      "start": 82.933,
+      "end": 85.4,
+      "dur": 2.467,
+      "transcript": "di lancio."
+    },
+    {
+      "shot_idx": 30,
+      "start": 85.4,
+      "end": 89.433,
+      "dur": 4.033,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 31,
+      "start": 89.433,
+      "end": 94.433,
+      "dur": 5.0,
+      "transcript": "Mi sono imparato"
+    },
+    {
+      "shot_idx": 32,
+      "start": 94.433,
+      "end": 101.367,
+      "dur": 6.933,
+      "transcript": "a concludere la giornata. Ma prima di cena, ragazzi, ovviamente, sono dovuto passare a fare un bel legday in questa palestra, che aveva dei macchinari clamorosi"
+    },
+    {
+      "shot_idx": 33,
+      "start": 101.367,
+      "end": 109.933,
+      "dur": 8.567,
+      "transcript": "come questo Ack Squad o questo Pendulum Squad, un macchinaio che tra l 'altro ho sempre voluto provare ma l 'avevo mai trovato in Italia. E fidatevi che vi dà un focus su"
+    },
+    {
+      "shot_idx": 34,
+      "start": 109.933,
+      "end": 113.1,
+      "dur": 3.167,
+      "transcript": "quadricipiti clamoroso. Dopodiché, ovviamente, siamo usciti"
+    },
+    {
+      "shot_idx": 35,
+      "start": 113.1,
+      "end": 115.633,
+      "dur": 2.533,
+      "transcript": "a cena co -cobbic che è l 'Iv -21,"
+    },
+    {
+      "shot_idx": 36,
+      "start": 115.633,
+      "end": 117.133,
+      "dur": 1.5,
+      "transcript": "in un posto ben quotato ma"
+    },
+    {
+      "shot_idx": 37,
+      "start": 117.133,
+      "end": 122.1,
+      "dur": 4.967,
+      "transcript": "veramente molto srallo, perché comunque ricordiamoci, ragazzi, che siamo in Florida e i posti normali sono veramente rari."
+    },
+    {
+      "shot_idx": 38,
+      "start": 122.1,
+      "end": 127.0,
+      "dur": 4.9,
+      "transcript": "Infatti, in questo posto, come vedete, c 'erano addirittura degli allegatorini. E cosa ho scelto di prendere? Ho scelto di prendere l"
+    },
+    {
+      "shot_idx": 39,
+      "start": 127.0,
+      "end": 131.2,
+      "dur": 4.2,
+      "transcript": "'olio chinite di pesce fritto, visto che era la sarata olio chinite. E allora, primo giro di pesce fritto"
+    },
+    {
+      "shot_idx": 40,
+      "start": 131.2,
+      "end": 134.733,
+      "dur": 3.533,
+      "transcript": "che era molto buono. Ovviamente il pesce era praticamente un parente del Merluzzo,"
+    },
+    {
+      "shot_idx": 41,
+      "start": 134.733,
+      "end": 137.233,
+      "dur": 2.5,
+      "transcript": "ma devo dire che anche se era fritto è sceso molto"
+    },
+    {
+      "shot_idx": 42,
+      "start": 137.233,
+      "end": 139.667,
+      "dur": 2.433,
+      "transcript": "bene. Infatti, siamo passati un secondo e un terzo giro."
+    }
+  ],
+  "full_text": "Giorno 13 il mio viaggio in Florida la scoperta della vera cucina americana e non solo. Sì perché oggi abbiamo iniziato con una classica colazione americana con sassicce waffle e litri di sciroppo d'acero per poi, in realtà, andare a visitare la serie della NASA in Florida, ovvero il Kennedy Space Center vicino a Cape Canaveral. Dopo i sanitari siamo subito passati davanti alla struttura di assemblaggio, per poi, maggiorci a pieno nel mondo della NASA. Assistendo per esempio ad un lancio da una vera sala dei comandi, per comprendere meglio tutte le procedure che ci stanno alla base di un lancio. Sì, per l'esplendere, ciao! Per arrivare a visitare un razzo gigante che è realmente portato degli astronauti sulla dura, con tutte le varie spiegazioni sulle missioni a pollo. Tutto davvero molto figo, molto affascinante, e, ovviamente, come ogni parco americano ben tematizzato. Ragazzi, gli americani in queste cose sono in numeri uno. Dopodiché pausa pranzo con un classico chicken burger con anche il bacon, che anche qua, per essere in un parco, alla fine era comunque di un bollivello. E per concludere, abbiamo diviso un paio di cookies americani, un dolce all'oreo e una cheesecake. E dopodiché abbiamo ripreso il nostro tour per andare a visitare lo Space Shuttle Atlantis, uno shuttle che ha compiuto 33 missioni ed è stato nello spazio per ben 306 giorni. E chi datevi che avvercelo davanti dopo aver saputo tutto ciò che questo shuttle ha compiuto nello spazio davvero impressionante. Dopodiché è piccolo incontro con un astronauta e simulatore di lancio. Mi sono imparato a concludere la giornata. Ma prima di cena, ragazzi, ovviamente, sono dovuto passare a fare un bel legday in questa palestra, che aveva dei macchinari clamorosi come questo Ack Squad o questo Pendulum Squad, un macchinaio che tra l'altro ho sempre voluto provare ma l'avevo mai trovato in Italia. E fidatevi che vi dà un focus su quadricipiti clamoroso. Dopodiché, ovviamente, siamo usciti a cena co-cobbic che è l'Iv-21, in un posto ben quotato ma veramente molto srallo, perché comunque ricordiamoci, ragazzi, che siamo in Florida e i posti normali sono veramente rari. Infatti, in questo posto, come vedete, c'erano addirittura degli allegatorini. E cosa ho scelto di prendere? Ho scelto di prendere l'olio chinite di pesce fritto, visto che era la sarata olio chinite. E allora, primo giro di pesce fritto che era molto buono. Ovviamente il pesce era praticamente un parente del Merluzzo, ma devo dire che anche se era fritto è sceso molto bene. Infatti, siamo passati un secondo e un terzo giro.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

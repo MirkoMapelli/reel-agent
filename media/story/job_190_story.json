@@ -1,0 +1,326 @@
+{
+  "title": "Wing Stop Milano - Il Paradiso delle Ali",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 2.5,
+      "scene_need": [
+        "venue_interior_wide",
+        "person_eating"
+      ],
+      "moment": "cliente davanti claw game mostra entusiasmo"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "drink_pour"
+      ],
+      "moment": "macchina Coca Freestyle rossa con schermo illuminato"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "cliente mostra vassoi sovrapposti con ali dorate"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.3,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "primo piano ali fritte texture croccante visibile"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.1,
+      "scene_need": [
+        "food_detail",
+        "hands_gesture"
+      ],
+      "moment": "mani intingono ala nella salsa bianca"
+    },
+    {
+      "idx": 6,
+      "type": "discovery",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "person_eating"
+      ],
+      "moment": "dettaglio ambiente locale con cliente che osserva"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.4,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "texture croccante ali dorate su carta"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "hands_gesture",
+        "food_detail"
+      ],
+      "moment": "mani sollevano patata lunga dal contenitore verde"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_pour",
+        "venue_interior_detail"
+      ],
+      "moment": "bevanda gialla versata da Freestyle con icone"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.1,
+      "scene_need": [
+        "drink_detail",
+        "person_eating"
+      ],
+      "moment": "cliente regge bevanda con stampa sfondo luminoso"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.3,
+      "scene_need": [
+        "drink_cheers",
+        "hands_gesture"
+      ],
+      "moment": "cliente solleva bevanda verso bocca per bere"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "cliente regge vassoio osserva piatti con entusiasmo"
+    },
+    {
+      "idx": 13,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "elemento decorativo locale con illuminazione caratteristica"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.3,
+      "scene_need": [
+        "person_eating",
+        "hands_gesture"
+      ],
+      "moment": "gesto naturale preparazione assaggio con espressione positiva"
+    },
+    {
+      "idx": 15,
+      "type": "product",
+      "duration": 2.1,
+      "scene_need": [
+        "food_detail",
+        "food_closeup"
+      ],
+      "moment": "dettaglio salsa che cola da ala fritta"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating",
+        "detail"
+      ],
+      "moment": "cliente assaggia con espressione soddisfatta approvazione"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 2.4,
+      "scene_need": [
+        "food_closeup",
+        "venue_interior_detail"
+      ],
+      "moment": "massima esaltazione texture croccante ali dorate perfette"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.3,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "cliente mostra tutti vassoi momento apice entusiasmo"
+    },
+    {
+      "idx": 19,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_detail",
+        "hands_gesture"
+      ],
+      "moment": "ultimo dettaglio salsa e texture croccante"
+    },
+    {
+      "idx": 20,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "person_eating"
+      ],
+      "moment": "ambiente locale con cliente che conclude esperienza"
+    },
+    {
+      "idx": 21,
+      "type": "reaction",
+      "duration": 2.1,
+      "scene_need": [
+        "person_eating",
+        "drink_detail"
+      ],
+      "moment": "cliente con bevanda espressione finale soddisfazione"
+    },
+    {
+      "idx": 22,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "richiamo visivo finale alle ali croccanti"
+    },
+    {
+      "idx": 23,
+      "type": "discovery",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "hands_gesture"
+      ],
+      "moment": "elemento caratteristico locale con dettaglio mani"
+    },
+    {
+      "idx": 24,
+      "type": "reaction",
+      "duration": 2.3,
+      "scene_need": [
+        "person_eating",
+        "food_detail"
+      ],
+      "moment": "cliente interagisce con cibo gesto approvazione"
+    },
+    {
+      "idx": 25,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "hands_gesture",
+        "food_detail"
+      ],
+      "moment": "mani selezionano patata dal contenitore verde"
+    },
+    {
+      "idx": 26,
+      "type": "drink",
+      "duration": 2.1,
+      "scene_need": [
+        "drink_cheers",
+        "person_eating"
+      ],
+      "moment": "bevanda sollevata momento convivialità finale"
+    },
+    {
+      "idx": 27,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "richiamo macchina Freestyle o elemento iconico locale"
+    },
+    {
+      "idx": 28,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "cliente con vassoi espressione raccomandazione"
+    },
+    {
+      "idx": 29,
+      "type": "product",
+      "duration": 2.1,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "ultima inquadratura ravvicinata ali perfette"
+    },
+    {
+      "idx": 30,
+      "type": "cta",
+      "duration": 2.3,
+      "scene_need": [
+        "person_eating",
+        "venue_interior_detail"
+      ],
+      "moment": "cliente comunica raccomandazione diretta con ambiente"
+    },
+    {
+      "idx": 31,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated",
+        "person_eating"
+      ],
+      "moment": "vassoi completi cliente invito finale provare"
+    },
+    {
+      "idx": 32,
+      "type": "cta",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail",
+        "person_eating"
+      ],
+      "moment": "chiusura su elemento locale con presenza umana"
+    }
+  ],
+  "edl_job_id": 190
+}

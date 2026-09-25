@@ -1,0 +1,186 @@
+{
+  "title": "Wing Stop Milano - L'arrivo americano",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "insegna Wing Stop svelata, annuncio apertura Milano"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "parete metallica e schermo pubblicitario ali glassate"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "totem touchscreen con menu fisico, tre chioschi ordine"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente arriva al tavolo con vassoio pieno"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate appena servite"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto piatti con ali, patate, salse"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio ambiente con branding sopra il tavolo"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "patate fritte croccanti in primo piano con branding"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano versa bevanda dal dispensatore Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge bicchiere branded Wing Stop al tavolo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio arredo locale con schermi ali glassate"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani intingono ala fritta in salsa bianca"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente assaggia ala con espressione soddisfatta"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano boccone con salsa che cola"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente commenta sapore mordendo di nuovo"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani prendono patata intinta in salsa"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali glassate luccicanti"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "inquadratura ambiente completo con logo in evidenza"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "cliente sorride in camera accanto a claw machine"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente alza vassoio salutando, invito a tornare"
+    }
+  ],
+  "edl_job_id": 155
+}

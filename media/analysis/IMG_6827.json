@@ -1,0 +1,162 @@
+{
+  "name": "IMG_6827.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration": 17.54,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "duration": 3.0,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_000_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 78.3,
+      "brightness": 165.4,
+      "contrast": 51.7,
+      "blur_score": 347.4
+    },
+    {
+      "idx": 1,
+      "start": 3.0,
+      "end": 4.8,
+      "duration": 1.8,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_001_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 91.7,
+      "brightness": 166.2,
+      "contrast": 54.7,
+      "blur_score": 381.3
+    },
+    {
+      "idx": 2,
+      "start": 4.8,
+      "end": 7.0,
+      "duration": 2.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_002_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 68.1,
+      "brightness": 154.8,
+      "contrast": 55.8,
+      "blur_score": 298.8
+    },
+    {
+      "idx": 3,
+      "start": 7.0,
+      "end": 9.5,
+      "duration": 2.5,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_003_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 96.8,
+      "brightness": 150.9,
+      "contrast": 61.6,
+      "blur_score": 286.5
+    },
+    {
+      "idx": 4,
+      "start": 9.5,
+      "end": 11.5,
+      "duration": 2.0,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_004_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 93.1,
+      "brightness": 152.0,
+      "contrast": 62.0,
+      "blur_score": 565.8
+    },
+    {
+      "idx": 5,
+      "start": 11.5,
+      "end": 13.0,
+      "duration": 1.5,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_005_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 99.9,
+      "brightness": 150.1,
+      "contrast": 61.6,
+      "blur_score": 574.6
+    },
+    {
+      "idx": 6,
+      "start": 13.0,
+      "end": 15.4,
+      "duration": 2.4,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_006_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 93.7,
+      "brightness": 149.3,
+      "contrast": 60.9,
+      "blur_score": 581.6
+    },
+    {
+      "idx": 7,
+      "start": 15.4,
+      "end": 17.54,
+      "duration": 2.14,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6827/scene_007_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 77.6,
+      "brightness": 152.1,
+      "contrast": 62.1,
+      "blur_score": 585.2
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Sì, assolutamente! Volevo i mangianti per il rischio."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Vai, vai!"
+    },
+    {
+      "start": 3.0,
+      "end": 6.89,
+      "text": "Sperta, sperta!"
+    },
+    {
+      "start": 6.89,
+      "end": 7.89,
+      "text": "Sperta!"
+    },
+    {
+      "start": 7.89,
+      "end": 12.19,
+      "text": "Oggi devi ascoltare!"
+    },
+    {
+      "start": 12.19,
+      "end": 14.19,
+      "text": "Buon tesino!"
+    }
+  ],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6827.wav"
+}

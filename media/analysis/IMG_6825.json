@@ -1,0 +1,222 @@
+{
+  "name": "IMG_6825.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration": 29.64,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.3,
+      "duration": 2.3,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_000_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 83.4,
+      "brightness": 165.1,
+      "contrast": 54.6,
+      "blur_score": 382.7
+    },
+    {
+      "idx": 1,
+      "start": 2.3,
+      "end": 4.2,
+      "duration": 1.9,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_001_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 75.1,
+      "brightness": 172.0,
+      "contrast": 50.3,
+      "blur_score": 365.2
+    },
+    {
+      "idx": 2,
+      "start": 4.2,
+      "end": 7.2,
+      "duration": 3.0,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_002_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 81.8,
+      "brightness": 166.6,
+      "contrast": 52.5,
+      "blur_score": 356.5
+    },
+    {
+      "idx": 3,
+      "start": 7.2,
+      "end": 9.0,
+      "duration": 1.8,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_003_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "acceptable",
+      "composition": "wide",
+      "stability_score": 55.6,
+      "brightness": 159.3,
+      "contrast": 52.6,
+      "blur_score": 270.9
+    },
+    {
+      "idx": 4,
+      "start": 9.0,
+      "end": 11.2,
+      "duration": 2.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_004_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "medium_wide",
+      "stability_score": 87.2,
+      "brightness": 150.6,
+      "contrast": 59.9,
+      "blur_score": 671.3
+    },
+    {
+      "idx": 5,
+      "start": 11.2,
+      "end": 13.7,
+      "duration": 2.5,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_005_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 98.4,
+      "brightness": 155.0,
+      "contrast": 61.4,
+      "blur_score": 597.7
+    },
+    {
+      "idx": 6,
+      "start": 13.7,
+      "end": 15.7,
+      "duration": 2.0,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_006_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "medium_face",
+      "stability_score": 95.0,
+      "brightness": 153.2,
+      "contrast": 58.4,
+      "blur_score": 688.3
+    },
+    {
+      "idx": 7,
+      "start": 15.7,
+      "end": 17.2,
+      "duration": 1.5,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_007_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "medium_face",
+      "stability_score": 96.8,
+      "brightness": 151.2,
+      "contrast": 58.5,
+      "blur_score": 664.3
+    },
+    {
+      "idx": 8,
+      "start": 17.2,
+      "end": 19.6,
+      "duration": 2.4,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_008_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "medium_wide",
+      "stability_score": 91.7,
+      "brightness": 150.9,
+      "contrast": 59.5,
+      "blur_score": 709.1
+    },
+    {
+      "idx": 9,
+      "start": 19.6,
+      "end": 22.8,
+      "duration": 3.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_009_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "medium_wide",
+      "stability_score": 97.1,
+      "brightness": 151.2,
+      "contrast": 60.2,
+      "blur_score": 701.9
+    },
+    {
+      "idx": 10,
+      "start": 22.8,
+      "end": 24.9,
+      "duration": 2.1,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_010_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "medium_face",
+      "stability_score": 99.8,
+      "brightness": 152.4,
+      "contrast": 59.5,
+      "blur_score": 689.7
+    },
+    {
+      "idx": 11,
+      "start": 24.9,
+      "end": 27.1,
+      "duration": 2.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_011_sheet.jpg",
+      "motion_type": "tilt_slow",
+      "motion_quality": "good",
+      "composition": "medium_wide",
+      "stability_score": 96.5,
+      "brightness": 151.3,
+      "contrast": 59.6,
+      "blur_score": 700.9
+    },
+    {
+      "idx": 12,
+      "start": 27.1,
+      "end": 29.64,
+      "duration": 2.54,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6825/scene_012_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "medium_face",
+      "stability_score": 88.3,
+      "brightness": 154.0,
+      "contrast": 57.9,
+      "blur_score": 553.1
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.11,
+      "end": 1.11,
+      "text": "Vai!"
+    },
+    {
+      "start": 1.11,
+      "end": 8.26,
+      "text": "Vetta!"
+    },
+    {
+      "start": 9.26,
+      "end": 10.26,
+      "text": "Vetta!"
+    },
+    {
+      "start": 11.26,
+      "end": 12.26,
+      "text": "Io non direi!"
+    }
+  ],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6825.wav"
+}

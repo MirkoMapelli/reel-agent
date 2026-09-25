@@ -1,0 +1,4353 @@
+{
+  "video_id": "7546274622346644758",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7546274622346644758",
+    "ref_id": "ref_69_7546274622346644758",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7546274622346644758",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 50,
+  "total_dur": 115.17,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.7,
+      "dur": 1.7,
+      "center": 0.85,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia nachos",
+      "description": "Il ragazzo sta mangiando nachos con guacamole e panna acida da un piatto bianco con il logo del ristorante.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "giorno uno dei mio viaggi in flore della"
+    },
+    {
+      "idx": 1,
+      "start": 1.7,
+      "end": 3.233,
+      "dur": 1.533,
+      "center": 2.467,
+      "role": "venue_exterior",
+      "subject": "torretta bagnino colorata",
+      "description": "Una torretta di salvataggio colorata si erge sulla sabbia bianca di Miami Beach sotto un cielo azzurro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "scoperta della vera cucina"
+    },
+    {
+      "idx": 2,
+      "start": 3.233,
+      "end": 4.7,
+      "dur": 1.467,
+      "center": 3.967,
+      "role": "food_detail",
+      "subject": "sandwich cubano in mano",
+      "description": "Una persona tiene in mano un grande sandwich cubano, con un'insalata e un giornale sul tavolo in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "americana oggi ragazzi siamo chiaramente"
+    },
+    {
+      "idx": 3,
+      "start": 4.7,
+      "end": 6.3,
+      "dur": 1.6,
+      "center": 5.5,
+      "role": "venue_exterior",
+      "subject": "skyline di Miami",
+      "description": "Una vista aerea dello skyline di Miami con edifici moderni e strade trafficate sotto un cielo sereno.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "a maiemi beach in una giornata"
+    },
+    {
+      "idx": 4,
+      "start": 6.3,
+      "end": 8.933,
+      "dur": 2.633,
+      "center": 7.617,
+      "role": "other",
+      "subject": "interno autobus vuoto",
+      "description": "L'interno di un autobus o tram con sedili in legno e finestre ad arco, con una persona seduta in basso a destra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "che è partita con questo autobus gratuito che qua chiamano"
+    },
+    {
+      "idx": 5,
+      "start": 8.933,
+      "end": 12.5,
+      "dur": 3.567,
+      "center": 10.717,
+      "role": "food_detail",
+      "subject": "ali di pollo fritte",
+      "description": "Una vetrina refrigerata con ali di pollo fritte e tranci di pizza in contenitori di carta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "trolley col quale poi tramite un altro autobus siamo riusciti ad arrivare a maiemi ma prima"
+    },
+    {
+      "idx": 6,
+      "start": 12.5,
+      "end": 16.167,
+      "dur": 3.667,
+      "center": 14.333,
+      "role": "food_closeup",
+      "subject": "trancio di pizza",
+      "description": "Un trancio di pizza margherita con formaggio fuso in un cartone bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di ciò chiaramente colazione in un 7 -eleven due fette di pizza una bevanda"
+    },
+    {
+      "idx": 7,
+      "start": 16.167,
+      "end": 18.3,
+      "dur": 2.133,
+      "center": 17.233,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con un cappellino rosso e bianco sta per addentare un trancio di pizza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "solo i 5 dollari direi top classica"
+    },
+    {
+      "idx": 8,
+      "start": 18.3,
+      "end": 19.533,
+      "dur": 1.233,
+      "center": 18.917,
+      "role": "person_eating",
+      "subject": "ragazzo mostra pizza",
+      "description": "Il ragazzo tiene in mano il trancio di pizza, mostrando la parte inferiore croccante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "slice americana che tra l"
+    },
+    {
+      "idx": 9,
+      "start": 19.533,
+      "end": 20.833,
+      "dur": 1.3,
+      "center": 20.183,
+      "role": "person_eating",
+      "subject": "ragazzo morde pizza",
+      "description": "Il ragazzo sta mordendo il trancio di pizza, con il formaggio che si allunga.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "'altro non era neanche male anche perché"
+    },
+    {
+      "idx": 10,
+      "start": 20.833,
+      "end": 22.667,
+      "dur": 1.833,
+      "center": 21.75,
+      "role": "other",
+      "subject": "iguana sul marciapiede",
+      "description": "Un'iguana si muove sul bordo di un marciapiede, con erba e asfalto visibili.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "era comunque calda dopo di che abbiamo fatto un paio"
+    },
+    {
+      "idx": 11,
+      "start": 22.667,
+      "end": 30.067,
+      "dur": 7.4,
+      "center": 26.367,
+      "role": "other",
+      "subject": "iguana nell'erba",
+      "description": "Un'iguana verde è distesa nell'erba, con l'asfalto sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di incontri molto casuali ma molto carini con delle iguane che a maiemi praticamente girano liberi e qua per esempio erano all 'interno di una scuola dopo di che erano i"
+    },
+    {
+      "idx": 12,
+      "start": 30.067,
+      "end": 31.867,
+      "dur": 1.8,
+      "center": 30.967,
+      "role": "venue_exterior",
+      "subject": "skyline di Miami",
+      "description": "Lo skyline di Miami con grattacieli e barche, visto da un ponte.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "vari maiemi siamo andati subito al base side"
+    },
+    {
+      "idx": 13,
+      "start": 31.867,
+      "end": 33.933,
+      "dur": 2.067,
+      "center": 32.9,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Un ragazzo con un cappellino rosso e bianco si riprende in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "market ma praticamente un insieme di negozi"
+    },
+    {
+      "idx": 14,
+      "start": 33.933,
+      "end": 35.8,
+      "dur": 1.867,
+      "center": 34.867,
+      "role": "drink_detail",
+      "subject": "bicchierini di succo",
+      "description": "Una mano tiene un bicchierino di succo giallo, con altri bicchierini su un vassoio sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "sul mollo molto molto carini e che almeno"
+    },
+    {
+      "idx": 15,
+      "start": 35.8,
+      "end": 36.767,
+      "dur": 0.967,
+      "center": 36.283,
+      "role": "venue_interior_wide",
+      "subject": "corridoio mercato coperto",
+      "description": "Il corridoio affollato di un mercato coperto con negozi su entrambi i lati.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "era l 'ombra visto che"
+    },
+    {
+      "idx": 16,
+      "start": 36.767,
+      "end": 37.633,
+      "dur": 0.867,
+      "center": 37.2,
+      "role": "venue_interior_wide",
+      "subject": "corridoio mercato coperto",
+      "description": "La prospettiva del corridoio si apre leggermente, mostrando più del soffitto e dei negozi.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "c 'erano praticamente 30"
+    },
+    {
+      "idx": 17,
+      "start": 37.633,
+      "end": 39.367,
+      "dur": 1.733,
+      "center": 38.5,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Un ragazzo in primo piano si tocca il naso, con persone sfocate sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "bar 40 gradi poi ho"
+    },
+    {
+      "idx": 18,
+      "start": 39.367,
+      "end": 41.133,
+      "dur": 1.767,
+      "center": 40.25,
+      "role": "venue_exterior",
+      "subject": "palme e ruota panoramica",
+      "description": "Un'area esterna con alte palme, una ruota panoramica e un cartello 'PIER 5'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "girato alla hard rock a fe e siamo ritornati"
+    },
+    {
+      "idx": 19,
+      "start": 41.133,
+      "end": 45.167,
+      "dur": 4.033,
+      "center": 43.15,
+      "role": "venue_exterior",
+      "subject": "barca ormeggiata porto",
+      "description": "Una grande barca bianca ormeggiata in un porto, con edifici e skyline sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in quelli maiemi beach dove siamo andati subito ovviamente a doce and drive che è la via"
+    },
+    {
+      "idx": 20,
+      "start": 45.167,
+      "end": 46.767,
+      "dur": 1.6,
+      "center": 45.967,
+      "role": "venue_exterior",
+      "subject": "auto d'epoca Miami",
+      "description": "Un'auto d'epoca verde acqua parcheggiata su una strada alberata con palme e edifici bianchi sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "più famosa di maiemi beach questa"
+    },
+    {
+      "idx": 21,
+      "start": 46.767,
+      "end": 49.933,
+      "dur": 3.167,
+      "center": 48.35,
+      "role": "venue_exterior",
+      "subject": "lungomare Miami auto",
+      "description": "Una strada costeggiata da palme e auto, con una Cadillac bianca in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "tra l 'altro è la macchina di toni montana perché davanti all 'hotel dove hanno girato"
+    },
+    {
+      "idx": 22,
+      "start": 49.933,
+      "end": 51.933,
+      "dur": 2.0,
+      "center": 50.933,
+      "role": "venue_interior_detail",
+      "subject": "tavoli ristorante esterno",
+      "description": "Tavoli apparecchiati di un ristorante all'aperto con un ombrellone giallo e palme sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "scarface e ci siamo fermati proprio lì a provare il piatto"
+    },
+    {
+      "idx": 23,
+      "start": 51.933,
+      "end": 54.933,
+      "dur": 3.0,
+      "center": 53.433,
+      "role": "food_plated",
+      "subject": "sandwich cubano insalata",
+      "description": "Un sandwich cubano su un tagliere di legno con un'insalata a lato e bicchieri d'acqua.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "tipico di maiemi ovvero il cuban sandwich praticamente un"
+    },
+    {
+      "idx": 24,
+      "start": 54.933,
+      "end": 56.4,
+      "dur": 1.467,
+      "center": 55.667,
+      "role": "person_eating",
+      "subject": "ragazzo mangia sandwich",
+      "description": "Un ragazzo con un cappellino rosso tiene in mano un tagliere con un sandwich, seduto all'aperto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "panino con il rosso di maiale prosciutto"
+    },
+    {
+      "idx": 25,
+      "start": 56.4,
+      "end": 58.333,
+      "dur": 1.933,
+      "center": 57.367,
+      "role": "food_closeup",
+      "subject": "panino cubano farcito",
+      "description": "Le mani del creator che tengono un panino cubano tagliato a metà, mostrando il ripieno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "formaggio svizzero cittro linee"
+    },
+    {
+      "idx": 26,
+      "start": 58.333,
+      "end": 60.333,
+      "dur": 2.0,
+      "center": 59.333,
+      "role": "person_eating",
+      "subject": "creator che mangia",
+      "description": "Il creator che addenta un panino, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "senape un acostamento un po' particolare che nel"
+    },
+    {
+      "idx": 27,
+      "start": 60.333,
+      "end": 62.567,
+      "dur": 2.233,
+      "center": 61.45,
+      "role": "food_closeup",
+      "subject": "panino cubano ripieno",
+      "description": "Il panino cubano in primo piano, con il ripieno ben visibile e le mani del creator che lo tengono.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "complesso ci stava e come se non fosse chiaramente a"
+    },
+    {
+      "idx": 28,
+      "start": 62.567,
+      "end": 64.633,
+      "dur": 2.067,
+      "center": 63.6,
+      "role": "person_eating",
+      "subject": "creator che mangia",
+      "description": "Il creator che sta per addentare un panino, con un'espressione leggermente corrucciata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "maiemi utilizzano il prosciutto americano che è super"
+    },
+    {
+      "idx": 29,
+      "start": 64.633,
+      "end": 66.167,
+      "dur": 1.533,
+      "center": 65.4,
+      "role": "person_eating",
+      "subject": "creator che mangia",
+      "description": "Il creator che addenta il panino con un'espressione sorpresa o divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "salato e tipo affumicato che"
+    },
+    {
+      "idx": 30,
+      "start": 66.167,
+      "end": 69.267,
+      "dur": 3.1,
+      "center": 67.717,
+      "role": "other",
+      "subject": "iguana sul terreno",
+      "description": "Un'iguana verde cammina su un terreno scuro coperto di pacciame.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "copriva completamente tutti gli altri sapori quindi purtroppo non mi sento"
+    },
+    {
+      "idx": 31,
+      "start": 69.267,
+      "end": 71.6,
+      "dur": 2.333,
+      "center": 70.433,
+      "role": "venue_exterior",
+      "subject": "torretta bagnino colorata",
+      "description": "Una torretta da bagnino dai colori vivaci (viola, arancione, verde) si erge su una spiaggia di sabbia bianca sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di promuoverlo dopo aver pranzato piccolo incontro con"
+    },
+    {
+      "idx": 32,
+      "start": 71.6,
+      "end": 73.733,
+      "dur": 2.133,
+      "center": 72.667,
+      "role": "person_talking",
+      "subject": "ragazzo in spiaggia",
+      "description": "Un ragazzo sorride alla telecamera con una spiaggia e degli edifici sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "una sola iguana e siamo poi andati sulla spiaggia a"
+    },
+    {
+      "idx": 33,
+      "start": 73.733,
+      "end": 76.733,
+      "dur": 3.0,
+      "center": 75.233,
+      "role": "venue_exterior",
+      "subject": "spiaggia con ombrelloni",
+      "description": "Una lunga distesa di spiaggia bianca con file di ombrelloni blu e gialli e edifici sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "vedere le classiche torrette dei bagnini di maiemi ma ragazzi"
+    },
+    {
+      "idx": 34,
+      "start": 76.733,
+      "end": 80.033,
+      "dur": 3.3,
+      "center": 78.383,
+      "role": "person_talking",
+      "subject": "ragazzo in strada",
+      "description": "Un ragazzo si riprende in strada con edifici e un cielo al tramonto sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "faceva veramente troppo caldo quindi ci siamo fatti un bagnetto poi siamo tra le altre case"
+    },
+    {
+      "idx": 35,
+      "start": 80.033,
+      "end": 81.767,
+      "dur": 1.733,
+      "center": 80.9,
+      "role": "venue_interior_wide",
+      "subject": "ristorante esterno notturno",
+      "description": "Un ristorante all'aperto di notte con luci colorate e persone sedute ai tavoli.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ci siamo cambiati pronti per andare a"
+    },
+    {
+      "idx": 36,
+      "start": 81.767,
+      "end": 82.467,
+      "dur": 0.7,
+      "center": 82.117,
+      "role": "venue_interior_wide",
+      "subject": "ristorante esterno notturno",
+      "description": "La scena notturna del ristorante con persone ai tavoli e un edificio illuminato di viola sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cenare cena che"
+    },
+    {
+      "idx": 37,
+      "start": 82.467,
+      "end": 84.867,
+      "dur": 2.4,
+      "center": 83.667,
+      "role": "food_plated",
+      "subject": "nachos con formaggio e guacamole",
+      "description": "Un piatto di nachos ricoperti di formaggio fuso, guacamole e panna acida.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbiamo deciso di fare da taco taco per provare il cibo"
+    },
+    {
+      "idx": 38,
+      "start": 84.867,
+      "end": 87.2,
+      "dur": 2.333,
+      "center": 86.033,
+      "role": "food_plated",
+      "subject": "due tacos su piatto",
+      "description": "Due tacos ben farciti con formaggio, carne e verdure su un piatto blu.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "messicano che li ama i ambi bici a bai come abbiamo"
+    },
+    {
+      "idx": 39,
+      "start": 87.2,
+      "end": 90.2,
+      "dur": 3.0,
+      "center": 88.7,
+      "role": "food_detail",
+      "subject": "mano che prende nacho",
+      "description": "Una mano che prende un nacho da un piatto pieno di nachos con formaggio e salse.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "iniziato da dei nachos mistico guacamole panna cida"
+    },
+    {
+      "idx": 40,
+      "start": 90.2,
+      "end": 92.867,
+      "dur": 2.667,
+      "center": 91.533,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nachos",
+      "description": "Un ragazzo sta mangiando un nacho con la bocca aperta, con un piatto di nachos e salse in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "picodegaio cedar fuso devo dire veramente veramente buoni"
+    },
+    {
+      "idx": 41,
+      "start": 92.867,
+      "end": 97.3,
+      "dur": 4.433,
+      "center": 95.083,
+      "role": "person_eating",
+      "subject": "ragazzo tiene nacho",
+      "description": "Il ragazzo tiene un nacho in mano e guarda verso la telecamera, con un piatto di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "la crocantezza il sapore del nachos in sé era già diversa rispetto a quelli che avevo provato"
+    },
+    {
+      "idx": 42,
+      "start": 97.3,
+      "end": 98.567,
+      "dur": 1.267,
+      "center": 97.933,
+      "role": "food_detail",
+      "subject": "taco ripieno mani",
+      "description": "Due mani tengono un taco ripieno di carne, formaggio e verdure, con un altro piatto sfocato sotto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "in italia dopo di che ho provato"
+    },
+    {
+      "idx": 43,
+      "start": 98.567,
+      "end": 99.633,
+      "dur": 1.067,
+      "center": 99.1,
+      "role": "person_eating",
+      "subject": "ragazzo tiene taco",
+      "description": "Il ragazzo tiene un taco in mano e fa una smorfia, con un piatto di cibo in primo piano e uno schermo TV sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "due tacos con"
+    },
+    {
+      "idx": 44,
+      "start": 99.633,
+      "end": 101.533,
+      "dur": 1.9,
+      "center": 100.583,
+      "role": "person_eating",
+      "subject": "ragazzo morde taco",
+      "description": "Il ragazzo sta mordendo un taco con espressione concentrata, con un piatto di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "la carnitas e col pollo molto"
+    },
+    {
+      "idx": 45,
+      "start": 101.533,
+      "end": 104.167,
+      "dur": 2.633,
+      "center": 102.85,
+      "role": "person_eating",
+      "subject": "ragazzo mangia taco",
+      "description": "Il ragazzo sta addentando un taco con espressione concentrata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "saporiti con una sassina leggermente dolce ma purtroppo che hanno"
+    },
+    {
+      "idx": 46,
+      "start": 104.167,
+      "end": 106.4,
+      "dur": 2.233,
+      "center": 105.283,
+      "role": "person_eating",
+      "subject": "ragazzo mangia taco",
+      "description": "Il ragazzo continua a mangiare il taco, con un anello blu al dito.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che gli ho presi soft invece avevo dovuto prendere quelli"
+    },
+    {
+      "idx": 47,
+      "start": 106.4,
+      "end": 109.4,
+      "dur": 3.0,
+      "center": 107.9,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nacho",
+      "description": "Il ragazzo sta mangiando un nacho, con lo sfondo di un locale illuminato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cranci che secondo me sono molto più buoni in generale però la cucina messicana"
+    },
+    {
+      "idx": 48,
+      "start": 109.4,
+      "end": 114.1,
+      "dur": 4.7,
+      "center": 111.75,
+      "role": "venue_exterior",
+      "subject": "hotel illuminato blu",
+      "description": "Un edificio moderno è illuminato da luci blu e verdi, con un'auto bianca in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "direi più che promossa ed infine prima di tornare in hotel direto per c 'è un drive che di sere veramente uno"
+    },
+    {
+      "idx": 49,
+      "start": 114.1,
+      "end": 115.167,
+      "dur": 1.067,
+      "center": 114.633,
+      "role": "venue_exterior",
+      "subject": "hotel illuminato rosso",
+      "description": "Un edificio è illuminato da luci rosse, con palme decorate e auto in strada.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "spettacolo"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia nachos",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando nachos con guacamole e panna acida da un piatto bianco con il logo del ristorante.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.7,
+      "dur": 1.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "torretta bagnino colorata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una torretta di salvataggio colorata si erge sulla sabbia bianca di Miami Beach sotto un cielo azzurro.",
+      "shot_idx": 1,
+      "start": 1.7,
+      "end": 3.233,
+      "dur": 1.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "sandwich cubano in mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona tiene in mano un grande sandwich cubano, con un'insalata e un giornale sul tavolo in primo piano.",
+      "shot_idx": 2,
+      "start": 3.233,
+      "end": 4.7,
+      "dur": 1.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "skyline di Miami",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una vista aerea dello skyline di Miami con edifici moderni e strade trafficate sotto un cielo sereno.",
+      "shot_idx": 3,
+      "start": 4.7,
+      "end": 6.3,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "interno autobus vuoto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'interno di un autobus o tram con sedili in legno e finestre ad arco, con una persona seduta in basso a destra.",
+      "shot_idx": 4,
+      "start": 6.3,
+      "end": 8.933,
+      "dur": 2.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "ali di pollo fritte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una vetrina refrigerata con ali di pollo fritte e tranci di pizza in contenitori di carta.",
+      "shot_idx": 5,
+      "start": 8.933,
+      "end": 12.5,
+      "dur": 3.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "trancio di pizza",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un trancio di pizza margherita con formaggio fuso in un cartone bianco.",
+      "shot_idx": 6,
+      "start": 12.5,
+      "end": 16.167,
+      "dur": 3.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e bianco sta per addentare un trancio di pizza.",
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 18.3,
+      "dur": 2.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano il trancio di pizza, mostrando la parte inferiore croccante.",
+      "shot_idx": 8,
+      "start": 18.3,
+      "end": 19.533,
+      "dur": 1.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo morde pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sta mordendo il trancio di pizza, con il formaggio che si allunga.",
+      "shot_idx": 9,
+      "start": 19.533,
+      "end": 20.833,
+      "dur": 1.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "iguana sul marciapiede",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'iguana si muove sul bordo di un marciapiede, con erba e asfalto visibili.",
+      "shot_idx": 10,
+      "start": 20.833,
+      "end": 22.667,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "iguana nell'erba",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'iguana verde è distesa nell'erba, con l'asfalto sullo sfondo.",
+      "shot_idx": 11,
+      "start": 22.667,
+      "end": 30.067,
+      "dur": 7.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "skyline di Miami",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Lo skyline di Miami con grattacieli e barche, visto da un ponte.",
+      "shot_idx": 12,
+      "start": 30.067,
+      "end": 31.867,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e bianco si riprende in primo piano.",
+      "shot_idx": 13,
+      "start": 31.867,
+      "end": 33.933,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchierini di succo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una mano tiene un bicchierino di succo giallo, con altri bicchierini su un vassoio sullo sfondo.",
+      "shot_idx": 14,
+      "start": 33.933,
+      "end": 35.8,
+      "dur": 1.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "corridoio mercato coperto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il corridoio affollato di un mercato coperto con negozi su entrambi i lati.",
+      "shot_idx": 15,
+      "start": 35.8,
+      "end": 36.767,
+      "dur": 0.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "corridoio mercato coperto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "La prospettiva del corridoio si apre leggermente, mostrando più del soffitto e dei negozi.",
+      "shot_idx": 16,
+      "start": 36.767,
+      "end": 37.633,
+      "dur": 0.867
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo in primo piano si tocca il naso, con persone sfocate sullo sfondo.",
+      "shot_idx": 17,
+      "start": 37.633,
+      "end": 39.367,
+      "dur": 1.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "palme e ruota panoramica",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'area esterna con alte palme, una ruota panoramica e un cartello 'PIER 5'.",
+      "shot_idx": 18,
+      "start": 39.367,
+      "end": 41.133,
+      "dur": 1.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "barca ormeggiata porto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una grande barca bianca ormeggiata in un porto, con edifici e skyline sullo sfondo.",
+      "shot_idx": 19,
+      "start": 41.133,
+      "end": 45.167,
+      "dur": 4.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "auto d'epoca Miami",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'auto d'epoca verde acqua parcheggiata su una strada alberata con palme e edifici bianchi sullo sfondo.",
+      "shot_idx": 20,
+      "start": 45.167,
+      "end": 46.767,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "lungomare Miami auto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una strada costeggiata da palme e auto, con una Cadillac bianca in primo piano.",
+      "shot_idx": 21,
+      "start": 46.767,
+      "end": 49.933,
+      "dur": 3.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "tavoli ristorante esterno",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Tavoli apparecchiati di un ristorante all'aperto con un ombrellone giallo e palme sullo sfondo.",
+      "shot_idx": 22,
+      "start": 49.933,
+      "end": 51.933,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "sandwich cubano insalata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un sandwich cubano su un tagliere di legno con un'insalata a lato e bicchieri d'acqua.",
+      "shot_idx": 23,
+      "start": 51.933,
+      "end": 54.933,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia sandwich",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso tiene in mano un tagliere con un sandwich, seduto all'aperto.",
+      "shot_idx": 24,
+      "start": 54.933,
+      "end": 56.4,
+      "dur": 1.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino cubano farcito",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani del creator che tengono un panino cubano tagliato a metà, mostrando il ripieno.",
+      "shot_idx": 25,
+      "start": 56.4,
+      "end": 58.333,
+      "dur": 1.933
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "creator che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator che addenta un panino, con un'espressione concentrata.",
+      "shot_idx": 26,
+      "start": 58.333,
+      "end": 60.333,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino cubano ripieno",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il panino cubano in primo piano, con il ripieno ben visibile e le mani del creator che lo tengono.",
+      "shot_idx": 27,
+      "start": 60.333,
+      "end": 62.567,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "creator che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator che sta per addentare un panino, con un'espressione leggermente corrucciata.",
+      "shot_idx": 28,
+      "start": 62.567,
+      "end": 64.633,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "creator che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator che addenta il panino con un'espressione sorpresa o divertita.",
+      "shot_idx": 29,
+      "start": 64.633,
+      "end": 66.167,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "iguana sul terreno",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'iguana verde cammina su un terreno scuro coperto di pacciame.",
+      "shot_idx": 30,
+      "start": 66.167,
+      "end": 69.267,
+      "dur": 3.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "torretta bagnino colorata",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una torretta da bagnino dai colori vivaci (viola, arancione, verde) si erge su una spiaggia di sabbia bianca sotto un cielo azzurro.",
+      "shot_idx": 31,
+      "start": 69.267,
+      "end": 71.6,
+      "dur": 2.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in spiaggia",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sorride alla telecamera con una spiaggia e degli edifici sullo sfondo.",
+      "shot_idx": 32,
+      "start": 71.6,
+      "end": 73.733,
+      "dur": 2.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "spiaggia con ombrelloni",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una lunga distesa di spiaggia bianca con file di ombrelloni blu e gialli e edifici sullo sfondo.",
+      "shot_idx": 33,
+      "start": 73.733,
+      "end": 76.733,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in strada",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo si riprende in strada con edifici e un cielo al tramonto sullo sfondo.",
+      "shot_idx": 34,
+      "start": 76.733,
+      "end": 80.033,
+      "dur": 3.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "ristorante esterno notturno",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ristorante all'aperto di notte con luci colorate e persone sedute ai tavoli.",
+      "shot_idx": 35,
+      "start": 80.033,
+      "end": 81.767,
+      "dur": 1.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "ristorante esterno notturno",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La scena notturna del ristorante con persone ai tavoli e un edificio illuminato di viola sullo sfondo.",
+      "shot_idx": 36,
+      "start": 81.767,
+      "end": 82.467,
+      "dur": 0.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "nachos con formaggio e guacamole",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di nachos ricoperti di formaggio fuso, guacamole e panna acida.",
+      "shot_idx": 37,
+      "start": 82.467,
+      "end": 84.867,
+      "dur": 2.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "due tacos su piatto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos ben farciti con formaggio, carne e verdure su un piatto blu.",
+      "shot_idx": 38,
+      "start": 84.867,
+      "end": 87.2,
+      "dur": 2.333
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "mano che prende nacho",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano che prende un nacho da un piatto pieno di nachos con formaggio e salse.",
+      "shot_idx": 39,
+      "start": 87.2,
+      "end": 90.2,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta mangiando un nacho con la bocca aperta, con un piatto di nachos e salse in primo piano.",
+      "shot_idx": 40,
+      "start": 90.2,
+      "end": 92.867,
+      "dur": 2.667
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene un nacho in mano e guarda verso la telecamera, con un piatto di cibo in primo piano.",
+      "shot_idx": 41,
+      "start": 92.867,
+      "end": 97.3,
+      "dur": 4.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "taco ripieno mani",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Due mani tengono un taco ripieno di carne, formaggio e verdure, con un altro piatto sfocato sotto.",
+      "shot_idx": 42,
+      "start": 97.3,
+      "end": 98.567,
+      "dur": 1.267
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene un taco in mano e fa una smorfia, con un piatto di cibo in primo piano e uno schermo TV sullo sfondo.",
+      "shot_idx": 43,
+      "start": 98.567,
+      "end": 99.633,
+      "dur": 1.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo morde taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mordendo un taco con espressione concentrata, con un piatto di cibo in primo piano.",
+      "shot_idx": 44,
+      "start": 99.633,
+      "end": 101.533,
+      "dur": 1.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia taco",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un taco con espressione concentrata.",
+      "shot_idx": 45,
+      "start": 101.533,
+      "end": 104.167,
+      "dur": 2.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia taco",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo continua a mangiare il taco, con un anello blu al dito.",
+      "shot_idx": 46,
+      "start": 104.167,
+      "end": 106.4,
+      "dur": 2.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un nacho, con lo sfondo di un locale illuminato.",
+      "shot_idx": 47,
+      "start": 106.4,
+      "end": 109.4,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "hotel illuminato blu",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un edificio moderno è illuminato da luci blu e verdi, con un'auto bianca in primo piano.",
+      "shot_idx": 48,
+      "start": 109.4,
+      "end": 114.1,
+      "dur": 4.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "hotel illuminato rosso",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un edificio è illuminato da luci rosse, con palme decorate e auto in strada.",
+      "shot_idx": 49,
+      "start": 114.1,
+      "end": 115.167,
+      "dur": 1.067
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "giorno uno dei mio viaggi in flore della scoperta della vera cucina americana oggi ragazzi siamo chiaramente a maiemi beach"
+    },
+    {
+      "start": 5.7,
+      "end": 9.22,
+      "text": "in una giornata che è partita con questo autobus gratuito che qua chiamano trolley"
+    },
+    {
+      "start": 9.22,
+      "end": 12.18,
+      "text": "col quale poi tramite un altro autobus siamo riusciti ad arrivare a maiemi"
+    },
+    {
+      "start": 12.18,
+      "end": 17.76,
+      "text": "ma prima di ciò chiaramente colazione in un 7-eleven due fette di pizza una bevanda solo i 5 dollari direi top"
+    },
+    {
+      "start": 17.76,
+      "end": 21.66,
+      "text": "classica slice americana che tra l'altro non era neanche male anche perché era comunque calda"
+    },
+    {
+      "start": 21.66,
+      "end": 27.28,
+      "text": "dopo di che abbiamo fatto un paio di incontri molto casuali ma molto carini con delle iguane che a maiemi praticamente girano liberi"
+    },
+    {
+      "start": 27.28,
+      "end": 32.18,
+      "text": "e qua per esempio erano all'interno di una scuola dopo di che erano i vari maiemi siamo andati subito al base side market"
+    },
+    {
+      "start": 32.18,
+      "end": 38.92,
+      "text": "ma praticamente un insieme di negozi sul mollo molto molto carini e che almeno era l'ombra visto che c'erano praticamente 30 bar 40 gradi"
+    },
+    {
+      "start": 38.92,
+      "end": 46.56,
+      "text": "poi ho girato alla hard rock a fe e siamo ritornati in quelli maiemi beach dove siamo andati subito ovviamente a doce and drive che è la via più famosa di maiemi beach"
+    },
+    {
+      "start": 46.56,
+      "end": 50.24,
+      "text": "questa tra l'altro è la macchina di toni montana perché davanti all'hotel dove hanno girato scarface"
+    },
+    {
+      "start": 50.24,
+      "end": 54.2,
+      "text": "e ci siamo fermati proprio lì a provare il piatto tipico di maiemi ovvero il cuban sandwich"
+    },
+    {
+      "start": 54.2,
+      "end": 58.7,
+      "text": "praticamente un panino con il rosso di maiale prosciutto formaggio svizzero cittro linee senape"
+    },
+    {
+      "start": 58.7,
+      "end": 64.18,
+      "text": "un acostamento un po' particolare che nel complesso ci stava e come se non fosse chiaramente a maiemi utilizzano il prosciutto americano"
+    },
+    {
+      "start": 64.18,
+      "end": 69.98,
+      "text": "che è super salato e tipo affumicato che copriva completamente tutti gli altri sapori quindi purtroppo non mi sento di promuoverlo"
+    },
+    {
+      "start": 69.98,
+      "end": 76.38,
+      "text": "dopo aver pranzato piccolo incontro con una sola iguana e siamo poi andati sulla spiaggia a vedere le classiche torrette dei bagnini di maiemi"
+    },
+    {
+      "start": 76.38,
+      "end": 82.12,
+      "text": "ma ragazzi faceva veramente troppo caldo quindi ci siamo fatti un bagnetto poi siamo tra le altre case ci siamo cambiati pronti per andare a cenare"
+    },
+    {
+      "start": 82.12,
+      "end": 88.22,
+      "text": "cena che abbiamo deciso di fare da taco taco per provare il cibo messicano che li ama i ambi bici a bai come abbiamo iniziato da dei nachos"
+    },
+    {
+      "start": 88.22,
+      "end": 95.84,
+      "text": "mistico guacamole panna cida picodegaio cedar fuso devo dire veramente veramente buoni la crocantezza il sapore del nachos in sé era già"
+    },
+    {
+      "start": 95.84,
+      "end": 102.0,
+      "text": "diversa rispetto a quelli che avevo provato in italia dopo di che ho provato due tacos con la carnitas e col pollo molto saporiti con"
+    },
+    {
+      "start": 102.0,
+      "end": 107.38,
+      "text": "una sassina leggermente dolce ma purtroppo che hanno che gli ho presi soft invece avevo dovuto prendere quelli cranci che secondo me sono"
+    },
+    {
+      "start": 107.38,
+      "end": 112.84,
+      "text": "molto più buoni in generale però la cucina messicana direi più che promossa ed infine prima di tornare in hotel direto per c'è un"
+    },
+    {
+      "start": 112.84,
+      "end": 114.64,
+      "text": "drive che di sere veramente uno spettacolo"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "word": "giorno"
+    },
+    {
+      "start": 0.32,
+      "end": 0.58,
+      "word": "uno"
+    },
+    {
+      "start": 0.58,
+      "end": 0.72,
+      "word": "dei"
+    },
+    {
+      "start": 0.72,
+      "end": 0.82,
+      "word": "mio"
+    },
+    {
+      "start": 0.82,
+      "end": 1.04,
+      "word": "viaggi"
+    },
+    {
+      "start": 1.04,
+      "end": 1.18,
+      "word": "in"
+    },
+    {
+      "start": 1.18,
+      "end": 1.44,
+      "word": "flore"
+    },
+    {
+      "start": 1.44,
+      "end": 1.64,
+      "word": "della"
+    },
+    {
+      "start": 1.64,
+      "end": 2.06,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.06,
+      "end": 2.32,
+      "word": "della"
+    },
+    {
+      "start": 2.32,
+      "end": 2.66,
+      "word": "vera"
+    },
+    {
+      "start": 2.66,
+      "end": 3.12,
+      "word": "cucina"
+    },
+    {
+      "start": 3.12,
+      "end": 3.7,
+      "word": "americana"
+    },
+    {
+      "start": 3.7,
+      "end": 3.94,
+      "word": "oggi"
+    },
+    {
+      "start": 3.94,
+      "end": 4.26,
+      "word": "ragazzi"
+    },
+    {
+      "start": 4.26,
+      "end": 4.46,
+      "word": "siamo"
+    },
+    {
+      "start": 4.46,
+      "end": 4.82,
+      "word": "chiaramente"
+    },
+    {
+      "start": 4.82,
+      "end": 5.02,
+      "word": "a"
+    },
+    {
+      "start": 5.02,
+      "end": 5.38,
+      "word": "maiemi"
+    },
+    {
+      "start": 5.38,
+      "end": 5.7,
+      "word": "beach"
+    },
+    {
+      "start": 5.7,
+      "end": 5.84,
+      "word": "in"
+    },
+    {
+      "start": 5.84,
+      "end": 5.96,
+      "word": "una"
+    },
+    {
+      "start": 5.96,
+      "end": 6.28,
+      "word": "giornata"
+    },
+    {
+      "start": 6.28,
+      "end": 6.42,
+      "word": "che"
+    },
+    {
+      "start": 6.42,
+      "end": 6.5,
+      "word": "è"
+    },
+    {
+      "start": 6.5,
+      "end": 6.72,
+      "word": "partita"
+    },
+    {
+      "start": 6.72,
+      "end": 6.92,
+      "word": "con"
+    },
+    {
+      "start": 6.92,
+      "end": 7.18,
+      "word": "questo"
+    },
+    {
+      "start": 7.18,
+      "end": 7.66,
+      "word": "autobus"
+    },
+    {
+      "start": 7.66,
+      "end": 8.02,
+      "word": "gratuito"
+    },
+    {
+      "start": 8.02,
+      "end": 8.22,
+      "word": "che"
+    },
+    {
+      "start": 8.22,
+      "end": 8.38,
+      "word": "qua"
+    },
+    {
+      "start": 8.38,
+      "end": 8.7,
+      "word": "chiamano"
+    },
+    {
+      "start": 8.7,
+      "end": 9.22,
+      "word": "trolley"
+    },
+    {
+      "start": 9.22,
+      "end": 9.44,
+      "word": "col"
+    },
+    {
+      "start": 9.44,
+      "end": 9.64,
+      "word": "quale"
+    },
+    {
+      "start": 9.64,
+      "end": 9.82,
+      "word": "poi"
+    },
+    {
+      "start": 9.82,
+      "end": 10.16,
+      "word": "tramite"
+    },
+    {
+      "start": 10.16,
+      "end": 10.3,
+      "word": "un"
+    },
+    {
+      "start": 10.3,
+      "end": 10.46,
+      "word": "altro"
+    },
+    {
+      "start": 10.46,
+      "end": 10.84,
+      "word": "autobus"
+    },
+    {
+      "start": 10.84,
+      "end": 11.0,
+      "word": "siamo"
+    },
+    {
+      "start": 11.0,
+      "end": 11.26,
+      "word": "riusciti"
+    },
+    {
+      "start": 11.26,
+      "end": 11.4,
+      "word": "ad"
+    },
+    {
+      "start": 11.4,
+      "end": 11.66,
+      "word": "arrivare"
+    },
+    {
+      "start": 11.66,
+      "end": 11.78,
+      "word": "a"
+    },
+    {
+      "start": 11.78,
+      "end": 12.18,
+      "word": "maiemi"
+    },
+    {
+      "start": 12.18,
+      "end": 12.32,
+      "word": "ma"
+    },
+    {
+      "start": 12.32,
+      "end": 12.48,
+      "word": "prima"
+    },
+    {
+      "start": 12.48,
+      "end": 12.62,
+      "word": "di"
+    },
+    {
+      "start": 12.62,
+      "end": 12.8,
+      "word": "ciò"
+    },
+    {
+      "start": 12.8,
+      "end": 13.12,
+      "word": "chiaramente"
+    },
+    {
+      "start": 13.12,
+      "end": 13.82,
+      "word": "colazione"
+    },
+    {
+      "start": 13.82,
+      "end": 14.06,
+      "word": "in"
+    },
+    {
+      "start": 14.06,
+      "end": 14.12,
+      "word": "un"
+    },
+    {
+      "start": 14.12,
+      "end": 14.3,
+      "word": "7"
+    },
+    {
+      "start": 14.3,
+      "end": 14.82,
+      "word": "-eleven"
+    },
+    {
+      "start": 14.82,
+      "end": 14.98,
+      "word": "due"
+    },
+    {
+      "start": 14.98,
+      "end": 15.18,
+      "word": "fette"
+    },
+    {
+      "start": 15.18,
+      "end": 15.34,
+      "word": "di"
+    },
+    {
+      "start": 15.34,
+      "end": 15.64,
+      "word": "pizza"
+    },
+    {
+      "start": 15.64,
+      "end": 15.92,
+      "word": "una"
+    },
+    {
+      "start": 15.92,
+      "end": 16.34,
+      "word": "bevanda"
+    },
+    {
+      "start": 16.34,
+      "end": 16.58,
+      "word": "solo"
+    },
+    {
+      "start": 16.58,
+      "end": 16.7,
+      "word": "i"
+    },
+    {
+      "start": 16.7,
+      "end": 16.86,
+      "word": "5"
+    },
+    {
+      "start": 16.86,
+      "end": 17.28,
+      "word": "dollari"
+    },
+    {
+      "start": 17.28,
+      "end": 17.58,
+      "word": "direi"
+    },
+    {
+      "start": 17.58,
+      "end": 17.76,
+      "word": "top"
+    },
+    {
+      "start": 17.76,
+      "end": 18.36,
+      "word": "classica"
+    },
+    {
+      "start": 18.36,
+      "end": 18.54,
+      "word": "slice"
+    },
+    {
+      "start": 18.54,
+      "end": 19.1,
+      "word": "americana"
+    },
+    {
+      "start": 19.1,
+      "end": 19.26,
+      "word": "che"
+    },
+    {
+      "start": 19.26,
+      "end": 19.36,
+      "word": "tra"
+    },
+    {
+      "start": 19.36,
+      "end": 19.48,
+      "word": "l"
+    },
+    {
+      "start": 19.48,
+      "end": 19.64,
+      "word": "'altro"
+    },
+    {
+      "start": 19.64,
+      "end": 19.8,
+      "word": "non"
+    },
+    {
+      "start": 19.8,
+      "end": 19.9,
+      "word": "era"
+    },
+    {
+      "start": 19.9,
+      "end": 20.16,
+      "word": "neanche"
+    },
+    {
+      "start": 20.16,
+      "end": 20.44,
+      "word": "male"
+    },
+    {
+      "start": 20.44,
+      "end": 20.6,
+      "word": "anche"
+    },
+    {
+      "start": 20.6,
+      "end": 20.84,
+      "word": "perché"
+    },
+    {
+      "start": 20.84,
+      "end": 20.96,
+      "word": "era"
+    },
+    {
+      "start": 20.96,
+      "end": 21.2,
+      "word": "comunque"
+    },
+    {
+      "start": 21.2,
+      "end": 21.66,
+      "word": "calda"
+    },
+    {
+      "start": 21.66,
+      "end": 21.78,
+      "word": "dopo"
+    },
+    {
+      "start": 21.78,
+      "end": 21.9,
+      "word": "di"
+    },
+    {
+      "start": 21.9,
+      "end": 21.98,
+      "word": "che"
+    },
+    {
+      "start": 21.98,
+      "end": 22.12,
+      "word": "abbiamo"
+    },
+    {
+      "start": 22.12,
+      "end": 22.32,
+      "word": "fatto"
+    },
+    {
+      "start": 22.32,
+      "end": 22.48,
+      "word": "un"
+    },
+    {
+      "start": 22.48,
+      "end": 22.66,
+      "word": "paio"
+    },
+    {
+      "start": 22.66,
+      "end": 22.76,
+      "word": "di"
+    },
+    {
+      "start": 22.76,
+      "end": 23.14,
+      "word": "incontri"
+    },
+    {
+      "start": 23.14,
+      "end": 23.54,
+      "word": "molto"
+    },
+    {
+      "start": 23.54,
+      "end": 24.12,
+      "word": "casuali"
+    },
+    {
+      "start": 24.12,
+      "end": 24.2,
+      "word": "ma"
+    },
+    {
+      "start": 24.2,
+      "end": 24.44,
+      "word": "molto"
+    },
+    {
+      "start": 24.44,
+      "end": 24.8,
+      "word": "carini"
+    },
+    {
+      "start": 24.8,
+      "end": 25.04,
+      "word": "con"
+    },
+    {
+      "start": 25.04,
+      "end": 25.22,
+      "word": "delle"
+    },
+    {
+      "start": 25.22,
+      "end": 25.6,
+      "word": "iguane"
+    },
+    {
+      "start": 25.6,
+      "end": 25.76,
+      "word": "che"
+    },
+    {
+      "start": 25.76,
+      "end": 25.84,
+      "word": "a"
+    },
+    {
+      "start": 25.84,
+      "end": 26.12,
+      "word": "maiemi"
+    },
+    {
+      "start": 26.12,
+      "end": 26.32,
+      "word": "praticamente"
+    },
+    {
+      "start": 26.32,
+      "end": 26.86,
+      "word": "girano"
+    },
+    {
+      "start": 26.86,
+      "end": 27.28,
+      "word": "liberi"
+    },
+    {
+      "start": 27.28,
+      "end": 27.28,
+      "word": "e"
+    },
+    {
+      "start": 27.28,
+      "end": 27.44,
+      "word": "qua"
+    },
+    {
+      "start": 27.44,
+      "end": 27.54,
+      "word": "per"
+    },
+    {
+      "start": 27.54,
+      "end": 27.84,
+      "word": "esempio"
+    },
+    {
+      "start": 27.84,
+      "end": 28.16,
+      "word": "erano"
+    },
+    {
+      "start": 28.16,
+      "end": 28.36,
+      "word": "all"
+    },
+    {
+      "start": 28.36,
+      "end": 28.76,
+      "word": "'interno"
+    },
+    {
+      "start": 28.76,
+      "end": 28.92,
+      "word": "di"
+    },
+    {
+      "start": 28.92,
+      "end": 29.04,
+      "word": "una"
+    },
+    {
+      "start": 29.04,
+      "end": 29.44,
+      "word": "scuola"
+    },
+    {
+      "start": 29.44,
+      "end": 29.6,
+      "word": "dopo"
+    },
+    {
+      "start": 29.6,
+      "end": 29.76,
+      "word": "di"
+    },
+    {
+      "start": 29.76,
+      "end": 29.84,
+      "word": "che"
+    },
+    {
+      "start": 29.84,
+      "end": 29.92,
+      "word": "erano"
+    },
+    {
+      "start": 29.92,
+      "end": 30.1,
+      "word": "i"
+    },
+    {
+      "start": 30.1,
+      "end": 30.1,
+      "word": "vari"
+    },
+    {
+      "start": 30.1,
+      "end": 30.46,
+      "word": "maiemi"
+    },
+    {
+      "start": 30.46,
+      "end": 30.66,
+      "word": "siamo"
+    },
+    {
+      "start": 30.66,
+      "end": 30.84,
+      "word": "andati"
+    },
+    {
+      "start": 30.84,
+      "end": 31.2,
+      "word": "subito"
+    },
+    {
+      "start": 31.2,
+      "end": 31.32,
+      "word": "al"
+    },
+    {
+      "start": 31.32,
+      "end": 31.52,
+      "word": "base"
+    },
+    {
+      "start": 31.52,
+      "end": 31.86,
+      "word": "side"
+    },
+    {
+      "start": 31.86,
+      "end": 32.18,
+      "word": "market"
+    },
+    {
+      "start": 32.18,
+      "end": 32.52,
+      "word": "ma"
+    },
+    {
+      "start": 32.52,
+      "end": 32.84,
+      "word": "praticamente"
+    },
+    {
+      "start": 32.84,
+      "end": 32.98,
+      "word": "un"
+    },
+    {
+      "start": 32.98,
+      "end": 33.2,
+      "word": "insieme"
+    },
+    {
+      "start": 33.2,
+      "end": 33.38,
+      "word": "di"
+    },
+    {
+      "start": 33.38,
+      "end": 33.86,
+      "word": "negozi"
+    },
+    {
+      "start": 33.86,
+      "end": 34.06,
+      "word": "sul"
+    },
+    {
+      "start": 34.06,
+      "end": 34.4,
+      "word": "mollo"
+    },
+    {
+      "start": 34.4,
+      "end": 34.66,
+      "word": "molto"
+    },
+    {
+      "start": 34.66,
+      "end": 34.86,
+      "word": "molto"
+    },
+    {
+      "start": 34.86,
+      "end": 35.28,
+      "word": "carini"
+    },
+    {
+      "start": 35.28,
+      "end": 35.52,
+      "word": "e"
+    },
+    {
+      "start": 35.52,
+      "end": 35.64,
+      "word": "che"
+    },
+    {
+      "start": 35.64,
+      "end": 35.88,
+      "word": "almeno"
+    },
+    {
+      "start": 35.88,
+      "end": 36.08,
+      "word": "era"
+    },
+    {
+      "start": 36.08,
+      "end": 36.3,
+      "word": "l"
+    },
+    {
+      "start": 36.3,
+      "end": 36.48,
+      "word": "'ombra"
+    },
+    {
+      "start": 36.48,
+      "end": 36.64,
+      "word": "visto"
+    },
+    {
+      "start": 36.64,
+      "end": 36.82,
+      "word": "che"
+    },
+    {
+      "start": 36.82,
+      "end": 36.94,
+      "word": "c"
+    },
+    {
+      "start": 36.94,
+      "end": 37.06,
+      "word": "'erano"
+    },
+    {
+      "start": 37.06,
+      "end": 37.28,
+      "word": "praticamente"
+    },
+    {
+      "start": 37.28,
+      "end": 37.88,
+      "word": "30"
+    },
+    {
+      "start": 37.88,
+      "end": 38.14,
+      "word": "bar"
+    },
+    {
+      "start": 38.14,
+      "end": 38.52,
+      "word": "40"
+    },
+    {
+      "start": 38.52,
+      "end": 38.92,
+      "word": "gradi"
+    },
+    {
+      "start": 38.92,
+      "end": 39.06,
+      "word": "poi"
+    },
+    {
+      "start": 39.06,
+      "end": 39.3,
+      "word": "ho"
+    },
+    {
+      "start": 39.3,
+      "end": 39.5,
+      "word": "girato"
+    },
+    {
+      "start": 39.5,
+      "end": 39.66,
+      "word": "alla"
+    },
+    {
+      "start": 39.66,
+      "end": 39.86,
+      "word": "hard"
+    },
+    {
+      "start": 39.86,
+      "end": 40.0,
+      "word": "rock"
+    },
+    {
+      "start": 40.0,
+      "end": 40.16,
+      "word": "a"
+    },
+    {
+      "start": 40.16,
+      "end": 40.34,
+      "word": "fe"
+    },
+    {
+      "start": 40.34,
+      "end": 40.62,
+      "word": "e"
+    },
+    {
+      "start": 40.62,
+      "end": 40.82,
+      "word": "siamo"
+    },
+    {
+      "start": 40.82,
+      "end": 41.4,
+      "word": "ritornati"
+    },
+    {
+      "start": 41.4,
+      "end": 41.52,
+      "word": "in"
+    },
+    {
+      "start": 41.52,
+      "end": 41.74,
+      "word": "quelli"
+    },
+    {
+      "start": 41.74,
+      "end": 42.12,
+      "word": "maiemi"
+    },
+    {
+      "start": 42.12,
+      "end": 42.36,
+      "word": "beach"
+    },
+    {
+      "start": 42.36,
+      "end": 42.56,
+      "word": "dove"
+    },
+    {
+      "start": 42.56,
+      "end": 42.78,
+      "word": "siamo"
+    },
+    {
+      "start": 42.78,
+      "end": 43.06,
+      "word": "andati"
+    },
+    {
+      "start": 43.06,
+      "end": 43.6,
+      "word": "subito"
+    },
+    {
+      "start": 43.6,
+      "end": 43.82,
+      "word": "ovviamente"
+    },
+    {
+      "start": 43.82,
+      "end": 44.08,
+      "word": "a"
+    },
+    {
+      "start": 44.08,
+      "end": 44.28,
+      "word": "doce"
+    },
+    {
+      "start": 44.28,
+      "end": 44.4,
+      "word": "and"
+    },
+    {
+      "start": 44.4,
+      "end": 44.7,
+      "word": "drive"
+    },
+    {
+      "start": 44.7,
+      "end": 44.94,
+      "word": "che"
+    },
+    {
+      "start": 44.94,
+      "end": 45.0,
+      "word": "è"
+    },
+    {
+      "start": 45.0,
+      "end": 45.04,
+      "word": "la"
+    },
+    {
+      "start": 45.04,
+      "end": 45.14,
+      "word": "via"
+    },
+    {
+      "start": 45.14,
+      "end": 45.38,
+      "word": "più"
+    },
+    {
+      "start": 45.38,
+      "end": 45.76,
+      "word": "famosa"
+    },
+    {
+      "start": 45.76,
+      "end": 45.9,
+      "word": "di"
+    },
+    {
+      "start": 45.9,
+      "end": 46.24,
+      "word": "maiemi"
+    },
+    {
+      "start": 46.24,
+      "end": 46.56,
+      "word": "beach"
+    },
+    {
+      "start": 46.56,
+      "end": 46.82,
+      "word": "questa"
+    },
+    {
+      "start": 46.82,
+      "end": 46.98,
+      "word": "tra"
+    },
+    {
+      "start": 46.98,
+      "end": 47.06,
+      "word": "l"
+    },
+    {
+      "start": 47.06,
+      "end": 47.16,
+      "word": "'altro"
+    },
+    {
+      "start": 47.16,
+      "end": 47.26,
+      "word": "è"
+    },
+    {
+      "start": 47.26,
+      "end": 47.32,
+      "word": "la"
+    },
+    {
+      "start": 47.32,
+      "end": 47.58,
+      "word": "macchina"
+    },
+    {
+      "start": 47.58,
+      "end": 47.7,
+      "word": "di"
+    },
+    {
+      "start": 47.7,
+      "end": 47.86,
+      "word": "toni"
+    },
+    {
+      "start": 47.86,
+      "end": 48.22,
+      "word": "montana"
+    },
+    {
+      "start": 48.22,
+      "end": 48.48,
+      "word": "perché"
+    },
+    {
+      "start": 48.48,
+      "end": 48.76,
+      "word": "davanti"
+    },
+    {
+      "start": 48.76,
+      "end": 48.86,
+      "word": "all"
+    },
+    {
+      "start": 48.86,
+      "end": 49.04,
+      "word": "'hotel"
+    },
+    {
+      "start": 49.04,
+      "end": 49.2,
+      "word": "dove"
+    },
+    {
+      "start": 49.2,
+      "end": 49.36,
+      "word": "hanno"
+    },
+    {
+      "start": 49.36,
+      "end": 49.66,
+      "word": "girato"
+    },
+    {
+      "start": 49.66,
+      "end": 50.24,
+      "word": "scarface"
+    },
+    {
+      "start": 50.24,
+      "end": 50.4,
+      "word": "e"
+    },
+    {
+      "start": 50.4,
+      "end": 50.46,
+      "word": "ci"
+    },
+    {
+      "start": 50.46,
+      "end": 50.6,
+      "word": "siamo"
+    },
+    {
+      "start": 50.6,
+      "end": 50.94,
+      "word": "fermati"
+    },
+    {
+      "start": 50.94,
+      "end": 51.1,
+      "word": "proprio"
+    },
+    {
+      "start": 51.1,
+      "end": 51.38,
+      "word": "lì"
+    },
+    {
+      "start": 51.38,
+      "end": 51.44,
+      "word": "a"
+    },
+    {
+      "start": 51.44,
+      "end": 51.7,
+      "word": "provare"
+    },
+    {
+      "start": 51.7,
+      "end": 51.8,
+      "word": "il"
+    },
+    {
+      "start": 51.8,
+      "end": 52.04,
+      "word": "piatto"
+    },
+    {
+      "start": 52.04,
+      "end": 52.48,
+      "word": "tipico"
+    },
+    {
+      "start": 52.48,
+      "end": 52.6,
+      "word": "di"
+    },
+    {
+      "start": 52.6,
+      "end": 53.04,
+      "word": "maiemi"
+    },
+    {
+      "start": 53.04,
+      "end": 53.34,
+      "word": "ovvero"
+    },
+    {
+      "start": 53.34,
+      "end": 53.5,
+      "word": "il"
+    },
+    {
+      "start": 53.5,
+      "end": 53.8,
+      "word": "cuban"
+    },
+    {
+      "start": 53.8,
+      "end": 54.2,
+      "word": "sandwich"
+    },
+    {
+      "start": 54.2,
+      "end": 54.52,
+      "word": "praticamente"
+    },
+    {
+      "start": 54.52,
+      "end": 54.8,
+      "word": "un"
+    },
+    {
+      "start": 54.8,
+      "end": 55.08,
+      "word": "panino"
+    },
+    {
+      "start": 55.08,
+      "end": 55.28,
+      "word": "con"
+    },
+    {
+      "start": 55.28,
+      "end": 55.4,
+      "word": "il"
+    },
+    {
+      "start": 55.4,
+      "end": 55.6,
+      "word": "rosso"
+    },
+    {
+      "start": 55.6,
+      "end": 55.7,
+      "word": "di"
+    },
+    {
+      "start": 55.7,
+      "end": 55.96,
+      "word": "maiale"
+    },
+    {
+      "start": 55.96,
+      "end": 56.58,
+      "word": "prosciutto"
+    },
+    {
+      "start": 56.58,
+      "end": 57.08,
+      "word": "formaggio"
+    },
+    {
+      "start": 57.08,
+      "end": 57.6,
+      "word": "svizzero"
+    },
+    {
+      "start": 57.6,
+      "end": 57.92,
+      "word": "cittro"
+    },
+    {
+      "start": 57.92,
+      "end": 58.28,
+      "word": "linee"
+    },
+    {
+      "start": 58.28,
+      "end": 58.7,
+      "word": "senape"
+    },
+    {
+      "start": 58.7,
+      "end": 58.9,
+      "word": "un"
+    },
+    {
+      "start": 58.9,
+      "end": 59.2,
+      "word": "acostamento"
+    },
+    {
+      "start": 59.2,
+      "end": 59.4,
+      "word": "un"
+    },
+    {
+      "start": 59.4,
+      "end": 59.46,
+      "word": "po'"
+    },
+    {
+      "start": 59.54,
+      "end": 60.0,
+      "word": "particolare"
+    },
+    {
+      "start": 60.0,
+      "end": 60.22,
+      "word": "che"
+    },
+    {
+      "start": 60.22,
+      "end": 60.36,
+      "word": "nel"
+    },
+    {
+      "start": 60.36,
+      "end": 60.7,
+      "word": "complesso"
+    },
+    {
+      "start": 60.7,
+      "end": 60.88,
+      "word": "ci"
+    },
+    {
+      "start": 60.88,
+      "end": 61.12,
+      "word": "stava"
+    },
+    {
+      "start": 61.12,
+      "end": 61.26,
+      "word": "e"
+    },
+    {
+      "start": 61.26,
+      "end": 61.48,
+      "word": "come"
+    },
+    {
+      "start": 61.48,
+      "end": 61.6,
+      "word": "se"
+    },
+    {
+      "start": 61.6,
+      "end": 61.72,
+      "word": "non"
+    },
+    {
+      "start": 61.72,
+      "end": 61.88,
+      "word": "fosse"
+    },
+    {
+      "start": 61.88,
+      "end": 62.36,
+      "word": "chiaramente"
+    },
+    {
+      "start": 62.36,
+      "end": 62.56,
+      "word": "a"
+    },
+    {
+      "start": 62.56,
+      "end": 62.84,
+      "word": "maiemi"
+    },
+    {
+      "start": 62.84,
+      "end": 63.24,
+      "word": "utilizzano"
+    },
+    {
+      "start": 63.24,
+      "end": 63.36,
+      "word": "il"
+    },
+    {
+      "start": 63.36,
+      "end": 63.6,
+      "word": "prosciutto"
+    },
+    {
+      "start": 63.6,
+      "end": 64.18,
+      "word": "americano"
+    },
+    {
+      "start": 64.18,
+      "end": 64.36,
+      "word": "che"
+    },
+    {
+      "start": 64.36,
+      "end": 64.48,
+      "word": "è"
+    },
+    {
+      "start": 64.48,
+      "end": 64.7,
+      "word": "super"
+    },
+    {
+      "start": 64.7,
+      "end": 65.12,
+      "word": "salato"
+    },
+    {
+      "start": 65.12,
+      "end": 65.2,
+      "word": "e"
+    },
+    {
+      "start": 65.2,
+      "end": 65.4,
+      "word": "tipo"
+    },
+    {
+      "start": 65.4,
+      "end": 65.96,
+      "word": "affumicato"
+    },
+    {
+      "start": 65.96,
+      "end": 66.14,
+      "word": "che"
+    },
+    {
+      "start": 66.14,
+      "end": 66.48,
+      "word": "copriva"
+    },
+    {
+      "start": 66.48,
+      "end": 66.88,
+      "word": "completamente"
+    },
+    {
+      "start": 66.88,
+      "end": 67.22,
+      "word": "tutti"
+    },
+    {
+      "start": 67.22,
+      "end": 67.42,
+      "word": "gli"
+    },
+    {
+      "start": 67.42,
+      "end": 67.56,
+      "word": "altri"
+    },
+    {
+      "start": 67.56,
+      "end": 68.02,
+      "word": "sapori"
+    },
+    {
+      "start": 68.02,
+      "end": 68.2,
+      "word": "quindi"
+    },
+    {
+      "start": 68.2,
+      "end": 68.68,
+      "word": "purtroppo"
+    },
+    {
+      "start": 68.68,
+      "end": 68.84,
+      "word": "non"
+    },
+    {
+      "start": 68.84,
+      "end": 69.02,
+      "word": "mi"
+    },
+    {
+      "start": 69.02,
+      "end": 69.3,
+      "word": "sento"
+    },
+    {
+      "start": 69.3,
+      "end": 69.4,
+      "word": "di"
+    },
+    {
+      "start": 69.4,
+      "end": 69.98,
+      "word": "promuoverlo"
+    },
+    {
+      "start": 69.98,
+      "end": 70.14,
+      "word": "dopo"
+    },
+    {
+      "start": 70.14,
+      "end": 70.34,
+      "word": "aver"
+    },
+    {
+      "start": 70.34,
+      "end": 70.7,
+      "word": "pranzato"
+    },
+    {
+      "start": 70.7,
+      "end": 71.1,
+      "word": "piccolo"
+    },
+    {
+      "start": 71.1,
+      "end": 71.46,
+      "word": "incontro"
+    },
+    {
+      "start": 71.46,
+      "end": 71.6,
+      "word": "con"
+    },
+    {
+      "start": 71.6,
+      "end": 71.74,
+      "word": "una"
+    },
+    {
+      "start": 71.74,
+      "end": 71.9,
+      "word": "sola"
+    },
+    {
+      "start": 71.9,
+      "end": 72.32,
+      "word": "iguana"
+    },
+    {
+      "start": 72.32,
+      "end": 72.46,
+      "word": "e"
+    },
+    {
+      "start": 72.46,
+      "end": 72.62,
+      "word": "siamo"
+    },
+    {
+      "start": 72.62,
+      "end": 72.78,
+      "word": "poi"
+    },
+    {
+      "start": 72.78,
+      "end": 73.0,
+      "word": "andati"
+    },
+    {
+      "start": 73.0,
+      "end": 73.24,
+      "word": "sulla"
+    },
+    {
+      "start": 73.24,
+      "end": 73.64,
+      "word": "spiaggia"
+    },
+    {
+      "start": 73.64,
+      "end": 73.74,
+      "word": "a"
+    },
+    {
+      "start": 73.74,
+      "end": 73.84,
+      "word": "vedere"
+    },
+    {
+      "start": 73.84,
+      "end": 74.06,
+      "word": "le"
+    },
+    {
+      "start": 74.06,
+      "end": 74.5,
+      "word": "classiche"
+    },
+    {
+      "start": 74.5,
+      "end": 75.04,
+      "word": "torrette"
+    },
+    {
+      "start": 75.04,
+      "end": 75.18,
+      "word": "dei"
+    },
+    {
+      "start": 75.18,
+      "end": 75.54,
+      "word": "bagnini"
+    },
+    {
+      "start": 75.54,
+      "end": 75.92,
+      "word": "di"
+    },
+    {
+      "start": 75.92,
+      "end": 76.38,
+      "word": "maiemi"
+    },
+    {
+      "start": 76.38,
+      "end": 76.52,
+      "word": "ma"
+    },
+    {
+      "start": 76.52,
+      "end": 76.74,
+      "word": "ragazzi"
+    },
+    {
+      "start": 76.74,
+      "end": 77.0,
+      "word": "faceva"
+    },
+    {
+      "start": 77.0,
+      "end": 77.34,
+      "word": "veramente"
+    },
+    {
+      "start": 77.34,
+      "end": 77.66,
+      "word": "troppo"
+    },
+    {
+      "start": 77.66,
+      "end": 78.02,
+      "word": "caldo"
+    },
+    {
+      "start": 78.02,
+      "end": 78.18,
+      "word": "quindi"
+    },
+    {
+      "start": 78.18,
+      "end": 78.32,
+      "word": "ci"
+    },
+    {
+      "start": 78.32,
+      "end": 78.44,
+      "word": "siamo"
+    },
+    {
+      "start": 78.44,
+      "end": 78.68,
+      "word": "fatti"
+    },
+    {
+      "start": 78.68,
+      "end": 78.78,
+      "word": "un"
+    },
+    {
+      "start": 78.78,
+      "end": 79.28,
+      "word": "bagnetto"
+    },
+    {
+      "start": 79.28,
+      "end": 79.42,
+      "word": "poi"
+    },
+    {
+      "start": 79.42,
+      "end": 79.56,
+      "word": "siamo"
+    },
+    {
+      "start": 79.56,
+      "end": 79.68,
+      "word": "tra"
+    },
+    {
+      "start": 79.68,
+      "end": 79.78,
+      "word": "le"
+    },
+    {
+      "start": 79.78,
+      "end": 79.84,
+      "word": "altre"
+    },
+    {
+      "start": 79.84,
+      "end": 80.02,
+      "word": "case"
+    },
+    {
+      "start": 80.02,
+      "end": 80.22,
+      "word": "ci"
+    },
+    {
+      "start": 80.22,
+      "end": 80.4,
+      "word": "siamo"
+    },
+    {
+      "start": 80.4,
+      "end": 80.94,
+      "word": "cambiati"
+    },
+    {
+      "start": 80.94,
+      "end": 81.28,
+      "word": "pronti"
+    },
+    {
+      "start": 81.28,
+      "end": 81.44,
+      "word": "per"
+    },
+    {
+      "start": 81.44,
+      "end": 81.6,
+      "word": "andare"
+    },
+    {
+      "start": 81.6,
+      "end": 81.76,
+      "word": "a"
+    },
+    {
+      "start": 81.76,
+      "end": 82.12,
+      "word": "cenare"
+    },
+    {
+      "start": 82.12,
+      "end": 82.34,
+      "word": "cena"
+    },
+    {
+      "start": 82.34,
+      "end": 82.46,
+      "word": "che"
+    },
+    {
+      "start": 82.46,
+      "end": 82.6,
+      "word": "abbiamo"
+    },
+    {
+      "start": 82.6,
+      "end": 82.96,
+      "word": "deciso"
+    },
+    {
+      "start": 82.96,
+      "end": 83.08,
+      "word": "di"
+    },
+    {
+      "start": 83.08,
+      "end": 83.24,
+      "word": "fare"
+    },
+    {
+      "start": 83.24,
+      "end": 83.42,
+      "word": "da"
+    },
+    {
+      "start": 83.42,
+      "end": 83.66,
+      "word": "taco"
+    },
+    {
+      "start": 83.66,
+      "end": 84.04,
+      "word": "taco"
+    },
+    {
+      "start": 84.04,
+      "end": 84.28,
+      "word": "per"
+    },
+    {
+      "start": 84.28,
+      "end": 84.56,
+      "word": "provare"
+    },
+    {
+      "start": 84.56,
+      "end": 84.68,
+      "word": "il"
+    },
+    {
+      "start": 84.68,
+      "end": 84.82,
+      "word": "cibo"
+    },
+    {
+      "start": 84.82,
+      "end": 85.28,
+      "word": "messicano"
+    },
+    {
+      "start": 85.28,
+      "end": 85.5,
+      "word": "che"
+    },
+    {
+      "start": 85.5,
+      "end": 85.62,
+      "word": "li"
+    },
+    {
+      "start": 85.62,
+      "end": 85.72,
+      "word": "ama"
+    },
+    {
+      "start": 85.72,
+      "end": 85.86,
+      "word": "i"
+    },
+    {
+      "start": 85.86,
+      "end": 86.0,
+      "word": "ambi"
+    },
+    {
+      "start": 86.0,
+      "end": 86.26,
+      "word": "bici"
+    },
+    {
+      "start": 86.26,
+      "end": 86.42,
+      "word": "a"
+    },
+    {
+      "start": 86.42,
+      "end": 86.56,
+      "word": "bai"
+    },
+    {
+      "start": 86.56,
+      "end": 86.86,
+      "word": "come"
+    },
+    {
+      "start": 86.86,
+      "end": 87.1,
+      "word": "abbiamo"
+    },
+    {
+      "start": 87.1,
+      "end": 87.48,
+      "word": "iniziato"
+    },
+    {
+      "start": 87.48,
+      "end": 87.68,
+      "word": "da"
+    },
+    {
+      "start": 87.68,
+      "end": 87.86,
+      "word": "dei"
+    },
+    {
+      "start": 87.86,
+      "end": 88.22,
+      "word": "nachos"
+    },
+    {
+      "start": 88.22,
+      "end": 88.8,
+      "word": "mistico"
+    },
+    {
+      "start": 88.8,
+      "end": 89.38,
+      "word": "guacamole"
+    },
+    {
+      "start": 89.38,
+      "end": 89.66,
+      "word": "panna"
+    },
+    {
+      "start": 89.66,
+      "end": 90.04,
+      "word": "cida"
+    },
+    {
+      "start": 90.04,
+      "end": 90.84,
+      "word": "picodegaio"
+    },
+    {
+      "start": 90.84,
+      "end": 91.2,
+      "word": "cedar"
+    },
+    {
+      "start": 91.2,
+      "end": 91.58,
+      "word": "fuso"
+    },
+    {
+      "start": 91.58,
+      "end": 91.76,
+      "word": "devo"
+    },
+    {
+      "start": 91.76,
+      "end": 91.98,
+      "word": "dire"
+    },
+    {
+      "start": 91.98,
+      "end": 92.36,
+      "word": "veramente"
+    },
+    {
+      "start": 92.36,
+      "end": 92.62,
+      "word": "veramente"
+    },
+    {
+      "start": 92.62,
+      "end": 93.08,
+      "word": "buoni"
+    },
+    {
+      "start": 93.08,
+      "end": 93.28,
+      "word": "la"
+    },
+    {
+      "start": 93.28,
+      "end": 94.02,
+      "word": "crocantezza"
+    },
+    {
+      "start": 94.02,
+      "end": 94.14,
+      "word": "il"
+    },
+    {
+      "start": 94.14,
+      "end": 94.36,
+      "word": "sapore"
+    },
+    {
+      "start": 94.36,
+      "end": 94.56,
+      "word": "del"
+    },
+    {
+      "start": 94.56,
+      "end": 95.0,
+      "word": "nachos"
+    },
+    {
+      "start": 95.0,
+      "end": 95.18,
+      "word": "in"
+    },
+    {
+      "start": 95.18,
+      "end": 95.4,
+      "word": "sé"
+    },
+    {
+      "start": 95.4,
+      "end": 95.66,
+      "word": "era"
+    },
+    {
+      "start": 95.66,
+      "end": 95.84,
+      "word": "già"
+    },
+    {
+      "start": 95.84,
+      "end": 96.34,
+      "word": "diversa"
+    },
+    {
+      "start": 96.34,
+      "end": 96.56,
+      "word": "rispetto"
+    },
+    {
+      "start": 96.56,
+      "end": 96.68,
+      "word": "a"
+    },
+    {
+      "start": 96.68,
+      "end": 96.86,
+      "word": "quelli"
+    },
+    {
+      "start": 96.86,
+      "end": 96.96,
+      "word": "che"
+    },
+    {
+      "start": 96.96,
+      "end": 97.1,
+      "word": "avevo"
+    },
+    {
+      "start": 97.1,
+      "end": 97.38,
+      "word": "provato"
+    },
+    {
+      "start": 97.38,
+      "end": 97.52,
+      "word": "in"
+    },
+    {
+      "start": 97.52,
+      "end": 97.9,
+      "word": "italia"
+    },
+    {
+      "start": 97.9,
+      "end": 98.12,
+      "word": "dopo"
+    },
+    {
+      "start": 98.12,
+      "end": 98.26,
+      "word": "di"
+    },
+    {
+      "start": 98.26,
+      "end": 98.3,
+      "word": "che"
+    },
+    {
+      "start": 98.3,
+      "end": 98.4,
+      "word": "ho"
+    },
+    {
+      "start": 98.4,
+      "end": 98.68,
+      "word": "provato"
+    },
+    {
+      "start": 98.68,
+      "end": 98.9,
+      "word": "due"
+    },
+    {
+      "start": 98.9,
+      "end": 99.3,
+      "word": "tacos"
+    },
+    {
+      "start": 99.3,
+      "end": 99.62,
+      "word": "con"
+    },
+    {
+      "start": 99.62,
+      "end": 99.76,
+      "word": "la"
+    },
+    {
+      "start": 99.76,
+      "end": 100.24,
+      "word": "carnitas"
+    },
+    {
+      "start": 100.24,
+      "end": 100.58,
+      "word": "e"
+    },
+    {
+      "start": 100.58,
+      "end": 100.74,
+      "word": "col"
+    },
+    {
+      "start": 100.74,
+      "end": 101.08,
+      "word": "pollo"
+    },
+    {
+      "start": 101.08,
+      "end": 101.36,
+      "word": "molto"
+    },
+    {
+      "start": 101.36,
+      "end": 101.8,
+      "word": "saporiti"
+    },
+    {
+      "start": 101.8,
+      "end": 102.0,
+      "word": "con"
+    },
+    {
+      "start": 102.0,
+      "end": 102.12,
+      "word": "una"
+    },
+    {
+      "start": 102.12,
+      "end": 102.4,
+      "word": "sassina"
+    },
+    {
+      "start": 102.4,
+      "end": 102.88,
+      "word": "leggermente"
+    },
+    {
+      "start": 102.88,
+      "end": 103.3,
+      "word": "dolce"
+    },
+    {
+      "start": 103.3,
+      "end": 103.52,
+      "word": "ma"
+    },
+    {
+      "start": 103.52,
+      "end": 103.9,
+      "word": "purtroppo"
+    },
+    {
+      "start": 103.9,
+      "end": 104.06,
+      "word": "che"
+    },
+    {
+      "start": 104.06,
+      "end": 104.14,
+      "word": "hanno"
+    },
+    {
+      "start": 104.14,
+      "end": 104.34,
+      "word": "che"
+    },
+    {
+      "start": 104.34,
+      "end": 104.48,
+      "word": "gli"
+    },
+    {
+      "start": 104.48,
+      "end": 104.54,
+      "word": "ho"
+    },
+    {
+      "start": 104.54,
+      "end": 104.74,
+      "word": "presi"
+    },
+    {
+      "start": 104.74,
+      "end": 105.0,
+      "word": "soft"
+    },
+    {
+      "start": 105.0,
+      "end": 105.24,
+      "word": "invece"
+    },
+    {
+      "start": 105.24,
+      "end": 105.52,
+      "word": "avevo"
+    },
+    {
+      "start": 105.52,
+      "end": 105.68,
+      "word": "dovuto"
+    },
+    {
+      "start": 105.68,
+      "end": 105.98,
+      "word": "prendere"
+    },
+    {
+      "start": 105.98,
+      "end": 106.22,
+      "word": "quelli"
+    },
+    {
+      "start": 106.22,
+      "end": 106.62,
+      "word": "cranci"
+    },
+    {
+      "start": 106.62,
+      "end": 106.82,
+      "word": "che"
+    },
+    {
+      "start": 106.82,
+      "end": 107.02,
+      "word": "secondo"
+    },
+    {
+      "start": 107.02,
+      "end": 107.2,
+      "word": "me"
+    },
+    {
+      "start": 107.2,
+      "end": 107.38,
+      "word": "sono"
+    },
+    {
+      "start": 107.38,
+      "end": 107.58,
+      "word": "molto"
+    },
+    {
+      "start": 107.58,
+      "end": 107.74,
+      "word": "più"
+    },
+    {
+      "start": 107.74,
+      "end": 107.96,
+      "word": "buoni"
+    },
+    {
+      "start": 107.96,
+      "end": 108.08,
+      "word": "in"
+    },
+    {
+      "start": 108.08,
+      "end": 108.46,
+      "word": "generale"
+    },
+    {
+      "start": 108.46,
+      "end": 108.64,
+      "word": "però"
+    },
+    {
+      "start": 108.64,
+      "end": 108.78,
+      "word": "la"
+    },
+    {
+      "start": 108.78,
+      "end": 109.12,
+      "word": "cucina"
+    },
+    {
+      "start": 109.12,
+      "end": 109.58,
+      "word": "messicana"
+    },
+    {
+      "start": 109.58,
+      "end": 109.94,
+      "word": "direi"
+    },
+    {
+      "start": 109.94,
+      "end": 110.1,
+      "word": "più"
+    },
+    {
+      "start": 110.1,
+      "end": 110.22,
+      "word": "che"
+    },
+    {
+      "start": 110.22,
+      "end": 110.7,
+      "word": "promossa"
+    },
+    {
+      "start": 110.7,
+      "end": 110.82,
+      "word": "ed"
+    },
+    {
+      "start": 110.82,
+      "end": 111.16,
+      "word": "infine"
+    },
+    {
+      "start": 111.16,
+      "end": 111.3,
+      "word": "prima"
+    },
+    {
+      "start": 111.3,
+      "end": 111.44,
+      "word": "di"
+    },
+    {
+      "start": 111.44,
+      "end": 111.74,
+      "word": "tornare"
+    },
+    {
+      "start": 111.74,
+      "end": 111.84,
+      "word": "in"
+    },
+    {
+      "start": 111.84,
+      "end": 111.96,
+      "word": "hotel"
+    },
+    {
+      "start": 111.96,
+      "end": 112.46,
+      "word": "direto"
+    },
+    {
+      "start": 112.46,
+      "end": 112.6,
+      "word": "per"
+    },
+    {
+      "start": 112.6,
+      "end": 112.72,
+      "word": "c"
+    },
+    {
+      "start": 112.72,
+      "end": 112.84,
+      "word": "'è"
+    },
+    {
+      "start": 112.84,
+      "end": 112.84,
+      "word": "un"
+    },
+    {
+      "start": 112.84,
+      "end": 113.04,
+      "word": "drive"
+    },
+    {
+      "start": 113.04,
+      "end": 113.26,
+      "word": "che"
+    },
+    {
+      "start": 113.26,
+      "end": 113.36,
+      "word": "di"
+    },
+    {
+      "start": 113.36,
+      "end": 113.58,
+      "word": "sere"
+    },
+    {
+      "start": 113.58,
+      "end": 113.84,
+      "word": "veramente"
+    },
+    {
+      "start": 113.84,
+      "end": 114.06,
+      "word": "uno"
+    },
+    {
+      "start": 114.06,
+      "end": 114.64,
+      "word": "spettacolo"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.7,
+      "dur": 1.7,
+      "transcript": "giorno uno dei mio viaggi in flore della"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.7,
+      "end": 3.233,
+      "dur": 1.533,
+      "transcript": "scoperta della vera cucina"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.233,
+      "end": 4.7,
+      "dur": 1.467,
+      "transcript": "americana oggi ragazzi siamo chiaramente"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.7,
+      "end": 6.3,
+      "dur": 1.6,
+      "transcript": "a maiemi beach in una giornata"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.3,
+      "end": 8.933,
+      "dur": 2.633,
+      "transcript": "che è partita con questo autobus gratuito che qua chiamano"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.933,
+      "end": 12.5,
+      "dur": 3.567,
+      "transcript": "trolley col quale poi tramite un altro autobus siamo riusciti ad arrivare a maiemi ma prima"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.5,
+      "end": 16.167,
+      "dur": 3.667,
+      "transcript": "di ciò chiaramente colazione in un 7 -eleven due fette di pizza una bevanda"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 18.3,
+      "dur": 2.133,
+      "transcript": "solo i 5 dollari direi top classica"
+    },
+    {
+      "shot_idx": 8,
+      "start": 18.3,
+      "end": 19.533,
+      "dur": 1.233,
+      "transcript": "slice americana che tra l"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.533,
+      "end": 20.833,
+      "dur": 1.3,
+      "transcript": "'altro non era neanche male anche perché"
+    },
+    {
+      "shot_idx": 10,
+      "start": 20.833,
+      "end": 22.667,
+      "dur": 1.833,
+      "transcript": "era comunque calda dopo di che abbiamo fatto un paio"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.667,
+      "end": 30.067,
+      "dur": 7.4,
+      "transcript": "di incontri molto casuali ma molto carini con delle iguane che a maiemi praticamente girano liberi e qua per esempio erano all 'interno di una scuola dopo di che erano i"
+    },
+    {
+      "shot_idx": 12,
+      "start": 30.067,
+      "end": 31.867,
+      "dur": 1.8,
+      "transcript": "vari maiemi siamo andati subito al base side"
+    },
+    {
+      "shot_idx": 13,
+      "start": 31.867,
+      "end": 33.933,
+      "dur": 2.067,
+      "transcript": "market ma praticamente un insieme di negozi"
+    },
+    {
+      "shot_idx": 14,
+      "start": 33.933,
+      "end": 35.8,
+      "dur": 1.867,
+      "transcript": "sul mollo molto molto carini e che almeno"
+    },
+    {
+      "shot_idx": 15,
+      "start": 35.8,
+      "end": 36.767,
+      "dur": 0.967,
+      "transcript": "era l 'ombra visto che"
+    },
+    {
+      "shot_idx": 16,
+      "start": 36.767,
+      "end": 37.633,
+      "dur": 0.867,
+      "transcript": "c 'erano praticamente 30"
+    },
+    {
+      "shot_idx": 17,
+      "start": 37.633,
+      "end": 39.367,
+      "dur": 1.733,
+      "transcript": "bar 40 gradi poi ho"
+    },
+    {
+      "shot_idx": 18,
+      "start": 39.367,
+      "end": 41.133,
+      "dur": 1.767,
+      "transcript": "girato alla hard rock a fe e siamo ritornati"
+    },
+    {
+      "shot_idx": 19,
+      "start": 41.133,
+      "end": 45.167,
+      "dur": 4.033,
+      "transcript": "in quelli maiemi beach dove siamo andati subito ovviamente a doce and drive che è la via"
+    },
+    {
+      "shot_idx": 20,
+      "start": 45.167,
+      "end": 46.767,
+      "dur": 1.6,
+      "transcript": "più famosa di maiemi beach questa"
+    },
+    {
+      "shot_idx": 21,
+      "start": 46.767,
+      "end": 49.933,
+      "dur": 3.167,
+      "transcript": "tra l 'altro è la macchina di toni montana perché davanti all 'hotel dove hanno girato"
+    },
+    {
+      "shot_idx": 22,
+      "start": 49.933,
+      "end": 51.933,
+      "dur": 2.0,
+      "transcript": "scarface e ci siamo fermati proprio lì a provare il piatto"
+    },
+    {
+      "shot_idx": 23,
+      "start": 51.933,
+      "end": 54.933,
+      "dur": 3.0,
+      "transcript": "tipico di maiemi ovvero il cuban sandwich praticamente un"
+    },
+    {
+      "shot_idx": 24,
+      "start": 54.933,
+      "end": 56.4,
+      "dur": 1.467,
+      "transcript": "panino con il rosso di maiale prosciutto"
+    },
+    {
+      "shot_idx": 25,
+      "start": 56.4,
+      "end": 58.333,
+      "dur": 1.933,
+      "transcript": "formaggio svizzero cittro linee"
+    },
+    {
+      "shot_idx": 26,
+      "start": 58.333,
+      "end": 60.333,
+      "dur": 2.0,
+      "transcript": "senape un acostamento un po' particolare che nel"
+    },
+    {
+      "shot_idx": 27,
+      "start": 60.333,
+      "end": 62.567,
+      "dur": 2.233,
+      "transcript": "complesso ci stava e come se non fosse chiaramente a"
+    },
+    {
+      "shot_idx": 28,
+      "start": 62.567,
+      "end": 64.633,
+      "dur": 2.067,
+      "transcript": "maiemi utilizzano il prosciutto americano che è super"
+    },
+    {
+      "shot_idx": 29,
+      "start": 64.633,
+      "end": 66.167,
+      "dur": 1.533,
+      "transcript": "salato e tipo affumicato che"
+    },
+    {
+      "shot_idx": 30,
+      "start": 66.167,
+      "end": 69.267,
+      "dur": 3.1,
+      "transcript": "copriva completamente tutti gli altri sapori quindi purtroppo non mi sento"
+    },
+    {
+      "shot_idx": 31,
+      "start": 69.267,
+      "end": 71.6,
+      "dur": 2.333,
+      "transcript": "di promuoverlo dopo aver pranzato piccolo incontro con"
+    },
+    {
+      "shot_idx": 32,
+      "start": 71.6,
+      "end": 73.733,
+      "dur": 2.133,
+      "transcript": "una sola iguana e siamo poi andati sulla spiaggia a"
+    },
+    {
+      "shot_idx": 33,
+      "start": 73.733,
+      "end": 76.733,
+      "dur": 3.0,
+      "transcript": "vedere le classiche torrette dei bagnini di maiemi ma ragazzi"
+    },
+    {
+      "shot_idx": 34,
+      "start": 76.733,
+      "end": 80.033,
+      "dur": 3.3,
+      "transcript": "faceva veramente troppo caldo quindi ci siamo fatti un bagnetto poi siamo tra le altre case"
+    },
+    {
+      "shot_idx": 35,
+      "start": 80.033,
+      "end": 81.767,
+      "dur": 1.733,
+      "transcript": "ci siamo cambiati pronti per andare a"
+    },
+    {
+      "shot_idx": 36,
+      "start": 81.767,
+      "end": 82.467,
+      "dur": 0.7,
+      "transcript": "cenare cena che"
+    },
+    {
+      "shot_idx": 37,
+      "start": 82.467,
+      "end": 84.867,
+      "dur": 2.4,
+      "transcript": "abbiamo deciso di fare da taco taco per provare il cibo"
+    },
+    {
+      "shot_idx": 38,
+      "start": 84.867,
+      "end": 87.2,
+      "dur": 2.333,
+      "transcript": "messicano che li ama i ambi bici a bai come abbiamo"
+    },
+    {
+      "shot_idx": 39,
+      "start": 87.2,
+      "end": 90.2,
+      "dur": 3.0,
+      "transcript": "iniziato da dei nachos mistico guacamole panna cida"
+    },
+    {
+      "shot_idx": 40,
+      "start": 90.2,
+      "end": 92.867,
+      "dur": 2.667,
+      "transcript": "picodegaio cedar fuso devo dire veramente veramente buoni"
+    },
+    {
+      "shot_idx": 41,
+      "start": 92.867,
+      "end": 97.3,
+      "dur": 4.433,
+      "transcript": "la crocantezza il sapore del nachos in sé era già diversa rispetto a quelli che avevo provato"
+    },
+    {
+      "shot_idx": 42,
+      "start": 97.3,
+      "end": 98.567,
+      "dur": 1.267,
+      "transcript": "in italia dopo di che ho provato"
+    },
+    {
+      "shot_idx": 43,
+      "start": 98.567,
+      "end": 99.633,
+      "dur": 1.067,
+      "transcript": "due tacos con"
+    },
+    {
+      "shot_idx": 44,
+      "start": 99.633,
+      "end": 101.533,
+      "dur": 1.9,
+      "transcript": "la carnitas e col pollo molto"
+    },
+    {
+      "shot_idx": 45,
+      "start": 101.533,
+      "end": 104.167,
+      "dur": 2.633,
+      "transcript": "saporiti con una sassina leggermente dolce ma purtroppo che hanno"
+    },
+    {
+      "shot_idx": 46,
+      "start": 104.167,
+      "end": 106.4,
+      "dur": 2.233,
+      "transcript": "che gli ho presi soft invece avevo dovuto prendere quelli"
+    },
+    {
+      "shot_idx": 47,
+      "start": 106.4,
+      "end": 109.4,
+      "dur": 3.0,
+      "transcript": "cranci che secondo me sono molto più buoni in generale però la cucina messicana"
+    },
+    {
+      "shot_idx": 48,
+      "start": 109.4,
+      "end": 114.1,
+      "dur": 4.7,
+      "transcript": "direi più che promossa ed infine prima di tornare in hotel direto per c 'è un drive che di sere veramente uno"
+    },
+    {
+      "shot_idx": 49,
+      "start": 114.1,
+      "end": 115.167,
+      "dur": 1.067,
+      "transcript": "spettacolo"
+    }
+  ],
+  "full_text": "giorno uno dei mio viaggi in flore della scoperta della vera cucina americana oggi ragazzi siamo chiaramente a maiemi beach in una giornata che è partita con questo autobus gratuito che qua chiamano trolley col quale poi tramite un altro autobus siamo riusciti ad arrivare a maiemi ma prima di ciò chiaramente colazione in un 7-eleven due fette di pizza una bevanda solo i 5 dollari direi top classica slice americana che tra l'altro non era neanche male anche perché era comunque calda dopo di che abbiamo fatto un paio di incontri molto casuali ma molto carini con delle iguane che a maiemi praticamente girano liberi e qua per esempio erano all'interno di una scuola dopo di che erano i vari maiemi siamo andati subito al base side market ma praticamente un insieme di negozi sul mollo molto molto carini e che almeno era l'ombra visto che c'erano praticamente 30 bar 40 gradi poi ho girato alla hard rock a fe e siamo ritornati in quelli maiemi beach dove siamo andati subito ovviamente a doce and drive che è la via più famosa di maiemi beach questa tra l'altro è la macchina di toni montana perché davanti all'hotel dove hanno girato scarface e ci siamo fermati proprio lì a provare il piatto tipico di maiemi ovvero il cuban sandwich praticamente un panino con il rosso di maiale prosciutto formaggio svizzero cittro linee senape un acostamento un po' particolare che nel complesso ci stava e come se non fosse chiaramente a maiemi utilizzano il prosciutto americano che è super salato e tipo affumicato che copriva completamente tutti gli altri sapori quindi purtroppo non mi sento di promuoverlo dopo aver pranzato piccolo incontro con una sola iguana e siamo poi andati sulla spiaggia a vedere le classiche torrette dei bagnini di maiemi ma ragazzi faceva veramente troppo caldo quindi ci siamo fatti un bagnetto poi siamo tra le altre case ci siamo cambiati pronti per andare a cenare cena che abbiamo deciso di fare da taco taco per provare il cibo messicano che li ama i ambi bici a bai come abbiamo iniziato da dei nachos mistico guacamole panna cida picodegaio cedar fuso devo dire veramente veramente buoni la crocantezza il sapore del nachos in sé era già diversa rispetto a quelli che avevo provato in italia dopo di che ho provato due tacos con la carnitas e col pollo molto saporiti con una sassina leggermente dolce ma purtroppo che hanno che gli ho presi soft invece avevo dovuto prendere quelli cranci che secondo me sono molto più buoni in generale però la cucina messicana direi più che promossa ed infine prima di tornare in hotel direto per c'è un drive che di sere veramente uno spettacolo",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

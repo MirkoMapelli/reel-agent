@@ -1,0 +1,187 @@
+{
+  "title": "Wing Stop Milano: il verdetto",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "annuncio arrivo catena, totem e insegna Milano"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio parete e schermo pubblicitario del locale"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "cliente presenta il locale sorridendo in camera"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 4.0,
+      "scene_need": [
+        "food_plated",
+        "food_closeup"
+      ],
+      "moment": "vista dall'alto ordine completo su vassoio"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte glassate dorate"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona mostra vassoio con ali e patate"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio patate fritte croccanti dorate"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ali glassate esposte sopra il totem"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano versa bevanda dal dispenser Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge bicchiere branded al tavolo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona beve accanto al vassoio di cibo"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani intingono ala fritta nella salsa"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "assaggio con espressione entusiasta al primo morso"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano salsa bianca con ala intinta"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona commenta sapore mentre mangia"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "dettaglio mani che spezzano ala fritta"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali e patate irresistibili"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto piatti quasi finiti soddisfazione"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "cliente esprime curiosità per prossima visita"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "saluto finale con vassoio verso camera"
+    }
+  ],
+  "edl_job_id": 144
+}

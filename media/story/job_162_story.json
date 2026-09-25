@@ -1,0 +1,186 @@
+{
+  "title": "Wings Top arriva in Italia",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu con logo brand annuncia apertura Milano"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "pareti verdi logo locale inquadrate lentamente"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona sorridente introduce ordine completo"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem touchscreen mostra scelta flavor disponibili"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali glassate dorate in basket"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "tavolo con molteplici ordini ali e bocconcini"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani maneggiano ordine completo ali fritte patate"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio glassa colante su ala fritta"
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "packaging Wing Stop mostrato con logo brand"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "bevanda versata da distributore Coca-Cola Freestyle"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "bicchiere carta marchio Wing Stop in primo piano"
+    },
+    {
+      "idx": 12,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente sorride bevendo al tavolo"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani immergono ala fritta nella salsa bianca"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona assaggia con entusiasmo visibile"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "panoramica locale con clienti sullo sfondo"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "boccone gustato con reazione soddisfatta"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "palle di ricotta fritte mostrate da vicino"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "insegna locale ripresa come chiusura visiva"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona esprime curiosità per prossima visita"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "ultimo sguardo ai piatti resta impresso"
+    }
+  ],
+  "edl_job_id": 162
+}

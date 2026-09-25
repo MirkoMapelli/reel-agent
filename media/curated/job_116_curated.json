@@ -1,0 +1,2032 @@
+{
+  "generated_at": "2026-09-18T10:45:01",
+  "profile_id": null,
+  "total": 119,
+  "keep": 76,
+  "skip": 43,
+  "scenes": [
+    {
+      "id": 0,
+      "decision": "keep",
+      "role": "menu_board",
+      "duplicate_of": null,
+      "reason": "Chiaro totem menù con scritte leggibili, buona illuminazione.",
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6813_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6813_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 0,
+      "reason": "Duplicato di id=0, stessa inquadratura menù, qualità inferiore.",
+      "clip_name": "IMG_6815.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6815.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.97,
+      "duration": 2.97,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6815_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6815_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "decision": "skip",
+      "role": "dead-air",
+      "duplicate_of": null,
+      "reason": "Spazio vuoto, pavimento/pareti senza contenuto rilevante.",
+      "clip_name": "IMG_6816.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6816.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 5.6,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6816_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6816_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "decision": "keep",
+      "role": "food_plated",
+      "duplicate_of": null,
+      "reason": "Primi piatti visibili, composizione completa ali e fritture.",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6820_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6820_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "decision": "keep",
+      "role": "food_plated",
+      "duplicate_of": null,
+      "reason": "Angolo diverso stesso ordine, buona visibilità dettagli cibo.",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6820_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6820_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio ali fritte e patatine, texture e glassa visibili.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Close-up ali glassate, dettagli appetitosi e ben illuminati.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio palle fritte, panatura e composizione visibile.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Piatti varianti, mix ali e patatine, prospettiva intrigante.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettagli diferentes piatti, palle croccanti e ali glassate.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Primissimo piano ali fritte, parte mano visibile, azione naturale.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio piatto singolo, texture impanatura ben visibile.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Ali glassate dettaglio, lucentezza salsa, primo piano attraente.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Overhead composizione piatti, patatine vivaci gialle ben visibili.",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 27.04,
+      "duration": 2.24,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6821_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Ali aperte dettaglio, due varianti sapore, primo piano nutriente.",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Patatine dolci close-up, colore vivace, texture perfetta.",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Mix piatti diverse tipologie, composizione bilanciata visuale.",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Ali glassate dettaglio brillante, contrasto patatine gialle.",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6822_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Mani e cibo in azione, persona interagisce con ordine.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Portrait con cibo, volto visibile, sorridendo mostra ordine.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona regge vassoi piene, reazione positiva leggibile.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Volto calma, vassoi in mano, dettagli cibo ben visibili.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Espressione concentrata, cibo prominente, azione naturale.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona regge vassoi multiple, visione d'insieme ordine.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Dettaglio regge piatti, volto sereno, cibo well-presented.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona con vassoio, dettagli nitidi, azione completa visibile.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 26,
+      "reason": "Quasi identico a id=26, stessa posa e angolo.",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 27.27,
+      "duration": 2.47,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6823_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona assaggia con salsa, primer piano mano piatto.",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Morso in atto, mano cibo in bocca, reazione genuina.",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Close-up mano piatto, volto reazione, assaggio in camera.",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona mostra chiaramente il piatto, presenta reazione genuina",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio nitido di fritti e salsa, composizione appetibile",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 32,
+      "reason": "Duplicato di id=32, stessa inquadratura",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 32,
+      "reason": "Duplicato di id=32, variante minima",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Volto visibile, assaggio in primo piano, reazione autentica",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Morso diretto con salsa, espressione naturale durante consumo",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 36,
+      "reason": "Variante simile di id=36",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.9",
+      "start": 27.9,
+      "end": 31.4,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 36,
+      "reason": "Stessa azione, angolo leggermente diverso",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.10",
+      "start": 31.0,
+      "end": 34.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub10/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub10/f1.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 36,
+      "reason": "Continuazione della stessa sequenza, poco valore aggiunto",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.11",
+      "start": 34.1,
+      "end": 37.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub11/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub11/f1.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 36,
+      "reason": "Stessa azione, duplicato dalla sequenza",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.12",
+      "start": 37.2,
+      "end": 40.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub12/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub12/f1.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Assaggio con salsa visibile, reazione di gusto autentica",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.13",
+      "start": 40.3,
+      "end": 43.2,
+      "duration": 2.9,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub13/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6824_s0_sub13/f1.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Hands versa salsa su fritti, azione dinamica appetibile",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "decision": "keep",
+      "role": "food_detail",
+      "duplicate_of": null,
+      "reason": "Close-up salsa su fritti, dettaglio texture interessante",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Mangiare fritti, espressione piacevole, buona composizione",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Assaggio fritti con salsa, reazione positiva visibile",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 46,
+      "reason": "Quasi identico a id=46",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 46,
+      "reason": "Variante della stessa sequenza",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 46,
+      "reason": "Duplicato di id=47, non aggiunge valore",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 46,
+      "reason": "Stessa azione, variante minima",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6825_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Immersione fritti in salsa, azione gustativa chiara",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "decision": "keep",
+      "role": "food_detail",
+      "duplicate_of": null,
+      "reason": "Fritti lunghi in mano, dettaglio interessante, buona inquadratura",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 51,
+      "reason": "Variante di id=51, stessa azione",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Assaggio fritti immessi in salsa, gesto naturale",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 55,
+      "reason": "Molto simile a id=55, angolo leggero diverso",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 55,
+      "reason": "Continuazione della stessa sequenza",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.03,
+      "duration": 3.43,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6826_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Assaggio fritti con salsa, espressione consapevole",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Dettaglio mani immerge fritti in salsa, azione appetibile",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 55,
+      "reason": "Duplicato di id=55, stessa posa",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 55,
+      "reason": "Variante simile, poco valore aggiunto",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 63,
+      "decision": "skip",
+      "role": "dead-air",
+      "duplicate_of": null,
+      "reason": "Persona ferma senza azione, tempo morto",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 17.54,
+      "duration": 2.04,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6827_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 64,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio primo piano cibo fritta con texture crispy",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 65,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona che indica piatto, mostri dettagli food",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 66,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 65,
+      "reason": "Simile a id=65, stessa inquadratura e azione",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 69,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 65,
+      "reason": "Duplicato di sequenza mangia, morso con diversi angoli",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 70,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 65,
+      "reason": "Stessa sequenza, scarta per brevità",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 71,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Reazione mentre assaggia il cibo, espressione genuine",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 24.8,
+      "duration": 3.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6828_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "decision": "keep",
+      "role": "food_plated",
+      "duplicate_of": null,
+      "reason": "Mani con salsa/condimento, dettaglio presentazione piatto",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 73,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Hands dip food in sauce, gesto di assaggio",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 75,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 71,
+      "reason": "Reazione simile già catturata, stessa sequenza",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 76,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Morso autentico, reazione gusto visibile",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 77,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 76,
+      "reason": "Stessa azione, frame successivo già coperto",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 78,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 76,
+      "reason": "Continuo della sequenza precedente, ridondante",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6829_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 79,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio fritto lucido, texture appetitosa primo piano",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6830_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6830_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 81,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Polpetta panata in mano, dettaglio texture ottimo",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6830_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6830_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 82,
+      "decision": "keep",
+      "role": "food_plated",
+      "duplicate_of": null,
+      "reason": "Pollo fritto dorato presentazione, lusciousness",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 85,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona mostra piatto, reazione durante degustazione",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.0",
+      "start": 6.04,
+      "end": 9.54,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s3_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s3_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 86,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 85,
+      "reason": "Stessa azione e frame, ridondante",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.1",
+      "start": 9.14,
+      "end": 12.64,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s3_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6831_s3_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 89,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Mani che prendono cibo, gesto naturale assaggio",
+      "clip_name": "IMG_6832.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.3,
+      "duration": 1.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6832_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6832_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 90,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Fritto lucido da vicino, dettaglio salsa dorata",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 91,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 90,
+      "reason": "Simile angolazione, piatto già mostrato",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 92,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 90,
+      "reason": "Stessa sequenza closeup food, già coperto",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 95,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Espressione gusto, reazione autentica mangiata",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 96,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 95,
+      "reason": "Continuo stessa sequenza, frame successivo ridondante",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 97,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 95,
+      "reason": "Stessa azione mangia, già catturata bene",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6833_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 98,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Mani dip con salsa, gesto assaggio naturale",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 100,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Persona guarda piatto, reazione considerazione gusto",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 101,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 100,
+      "reason": "Stessa sequenza, morso già catturato bene",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6834_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 100,
+      "reason": "Duplicato marcato, stessa azione assaggio",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "duplicate_of": null,
+      "reason": "Gesto immersione salsa, dettaglio interazione cibo",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 104,
+      "reason": "Frame successivo stessa azione, ridondante",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Reazione genuina durante assaggio, volto espressivo",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 106,
+      "reason": "Duplicato di id=106, stessa sequenza, scarta",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 106,
+      "reason": "Duplicato di id=106, stessa sequenza, scarta",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Primo piano assaggio, locale visibile sfondo",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6835_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Gesto con packaging, mostra identità locale brand",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 110,
+      "reason": "Duplicato di id=110, stessa azione, scarta",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 110,
+      "reason": "Duplicato di id=110, packaging in primo piano",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 8.33,
+      "duration": 2.13,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6836_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Dettaglio prodotto, texture al forno, mani mostrano",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "decision": "keep",
+      "role": "food_closeup",
+      "duplicate_of": null,
+      "reason": "Primo piano rottura prodotto, texture croccante visibile",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Reazione sorpresa durante assaggio, espressione autentica",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Morso, assaggio genuino con reazione naturale",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 118,
+      "reason": "Duplicato di id=61 e id=118, stessa sequenza, scarta",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Assaggio concentrato, mani e piatto visibili",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Reazione durante assaggio, espressione autentica sorpresa",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "decision": "skip",
+      "role": "dead-air",
+      "duplicate_of": null,
+      "reason": "Ripresa statica senza azione dinamica, assaggio finito",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.9",
+      "start": 27.9,
+      "end": 30.0,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6837_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "duplicate_of": null,
+      "reason": "Macchina Coca Freestyle, elemento locale interessante",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "decision": "keep",
+      "role": "drink_detail",
+      "duplicate_of": null,
+      "reason": "Dettaglio bevanda colorata, scelta gusti visibile",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "decision": "keep",
+      "role": "drink_pour",
+      "duplicate_of": null,
+      "reason": "Erogazione bevanda in tempo reale, mano che prende",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "decision": "keep",
+      "role": "drink_detail",
+      "duplicate_of": null,
+      "reason": "Primo piano bicchiere con bevanda colorata, brand visibile",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 126,
+      "reason": "Duplicato di id=126, stessa inquadratura macchina",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6838_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 128,
+      "decision": "keep",
+      "role": "drink_detail",
+      "duplicate_of": null,
+      "reason": "Scelta gusti Coca, elemento interattivo locale",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6839_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6839_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 129,
+      "decision": "keep",
+      "role": "drink_detail",
+      "duplicate_of": null,
+      "reason": "Erogazione bevanda Coca Zero, azione dinamica",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6839_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6839_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 130,
+      "decision": "keep",
+      "role": "food_detail",
+      "duplicate_of": null,
+      "reason": "Packaging Wings Flavor, mostra identità brand chiara",
+      "clip_name": "IMG_6840.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6840_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6840_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 131,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "duplicate_of": null,
+      "reason": "Claw machine Wing Stop, elemento locale peculiare",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 132,
+      "decision": "keep",
+      "role": "person_eating",
+      "duplicate_of": null,
+      "reason": "Cliente interagisce con claw machine, dinamica locale",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 133,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 132,
+      "reason": "Duplicato di id=132, stessa azione claw machine",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 134,
+      "decision": "skip",
+      "role": "duplicate",
+      "duplicate_of": 132,
+      "reason": "Duplicato di id=132, stessa sequenza claw machine",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 135,
+      "decision": "keep",
+      "role": "venue_interior_wide",
+      "duplicate_of": null,
+      "reason": "Ambiente locale con murales, claw machine, atmosfera",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.18,
+      "duration": 2.78,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6844_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 136,
+      "decision": "skip",
+      "role": "non-pertinente",
+      "duplicate_of": null,
+      "reason": "Peluche/mascotte, non pertinente al cibo/locale",
+      "clip_name": "IMG_6848.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6848.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6848_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_116/IMG_6848_s0_sub0/f1.jpg"
+      ]
+    }
+  ]
+}

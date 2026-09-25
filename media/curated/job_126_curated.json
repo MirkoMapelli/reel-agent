@@ -1,0 +1,3025 @@
+{
+  "generated_at": "2026-09-18T11:19:52",
+  "profile_id": null,
+  "total": 127,
+  "keep": 69,
+  "skip": 58,
+  "scenes": [
+    {
+      "id": 0,
+      "decision": "keep",
+      "role": "menu_board",
+      "description": "totem menù digitale interattivo con schermate su parete verde brillante del locale",
+      "subject": "menu totem digitale",
+      "key_props": [
+        "totem",
+        "schermo",
+        "parete verde"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra sistema ordini del locale, utile per narrare esperienza",
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6813_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6813_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "schermo menù su pilastro strutturale del locale, inquadratura simile a id=0",
+      "subject": "menu screen su pilastro",
+      "key_props": [
+        "schermo",
+        "pilastro",
+        "ali fritte immagine"
+      ],
+      "duplicate_of": 0,
+      "reason": "duplicato di id=0, scegliamo quello più chiaro",
+      "clip_name": "IMG_6815.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6815.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 2.97,
+      "duration": 2.97,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6815_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6815_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "decision": "skip",
+      "role": "backstage",
+      "description": "logo bianco della venue su pavimento, soffitto blu, inquadratura statica da sopra",
+      "subject": "logo venue",
+      "key_props": [
+        "logo",
+        "pavimento",
+        "soffitto"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura di setup, nessuna azione o contesto utile al video",
+      "clip_name": "IMG_6816.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6816.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 5.6,
+      "duration": 2.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6816_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6816_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "decision": "keep",
+      "role": "food_plated",
+      "description": "carrello con multiple vassoi di ali fritte, panature, patatine, birra vista dall'alto tavolo",
+      "subject": "ordine completo ali e patatine",
+      "key_props": [
+        "ali fritte",
+        "patatine",
+        "vassoi carta"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra presentazione finale del piatto, composizione ricca della proposta",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6820_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6820_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "stesso carrello vista frontale leggermente diversa, ali fritte, patatine, salse",
+      "subject": "ordine ali e patatine",
+      "key_props": [
+        "ali fritte",
+        "patatine",
+        "salse"
+      ],
+      "duplicate_of": 4,
+      "reason": "stesso soggetto e momento di id=4, manteniamo quello con prospettiva migliore",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6820_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6820_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali fritte croccanti dorate con patatine gialle su carta branded",
+      "subject": "ali fritte e patatine closeup",
+      "key_props": [
+        "ali fritte",
+        "patatine",
+        "carta branded"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio texture cibo, mostra qualità e presentazione piatto",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali glassate marroni lucide su carta, dettaglio salsa e cottura",
+      "subject": "ali glassate closeup",
+      "key_props": [
+        "ali glassate",
+        "salsa",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "varietà flavour ali, mostra dettaglio diverso da id=6",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano morbidini dorati e ali croccanti mix texture su carta branded",
+      "subject": "morbidini e ali mix",
+      "key_props": [
+        "morbidini",
+        "ali",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra varietà menu, texture diverse del menu",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatine gialle con condimento, ali croccanti, morbidini su carta",
+      "subject": "patatine e accompagnamenti",
+      "key_props": [
+        "patatine",
+        "ali",
+        "morbidini"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio patatine, mostra contrasto texture croccante",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "primo piano morbidini e ali mix, simile a id=8 angolo leggermente diverso",
+      "subject": "morbidini ali mix",
+      "key_props": [
+        "morbidini",
+        "ali",
+        "carta"
+      ],
+      "duplicate_of": 8,
+      "reason": "ripete stesso soggetto di id=8, manteniamo quello più nitido",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano in primo piano con ali fritte, patatine, morbidini su carta",
+      "subject": "hand gesture ali fritte",
+      "key_props": [
+        "mano",
+        "ali",
+        "patatine"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra mano ma non azione chiara, preferibilmente scartare per ambiguità",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali strip croccanti dorate su carta branded, dettaglio panatura",
+      "subject": "ali strip croccanti",
+      "key_props": [
+        "ali strip",
+        "panatura",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra variant ali strips, diverso dalla closeup precedenti",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali glassate lucide e marroni con morbidini su carta bianca",
+      "subject": "ali glassate e morbidini",
+      "key_props": [
+        "ali glassate",
+        "morbidini",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio salsa sulle ali, mostra flavour appeal",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatine ondulate giallo brillante e ali su carta branded",
+      "subject": "patatine ondulate",
+      "key_props": [
+        "patatine",
+        "ali",
+        "carta branded"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio patatine diverso, mostra formato ondulato specifico",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 27.04,
+      "duration": 2.24,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6821_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali dorate croccanti e ali glassate insieme su carta",
+      "subject": "ali dorate e glassate mix",
+      "key_props": [
+        "ali dorate",
+        "ali glassate",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra varietà gusti ali in una scena, buono per montaggio rapido",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali strips croccanti dorate su carta, dettaglio panatura fine",
+      "subject": "ali strips panate",
+      "key_props": [
+        "ali strips",
+        "panatura",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "variant ali strips specifico, mostra texture diversa",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano morbidini dorati sfocati con ali e patatine su carta branded",
+      "subject": "morbidini e ali",
+      "key_props": [
+        "morbidini",
+        "ali",
+        "patatine"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra morbidini prominenti, varietà menu coerente",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali glassate lucide con patatine gialle e ali croccanti mix",
+      "subject": "ali glassate patatine mix",
+      "key_props": [
+        "ali glassate",
+        "patatine",
+        "ali croccanti"
+      ],
+      "duplicate_of": null,
+      "reason": "composizione ricca con 3 elementi, buona per show varietà",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6822_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "mani persona in maglietta nera che tiene vassoi con ali e patatine, angolo basso",
+      "subject": "mani con vassoi cibo",
+      "key_props": [
+        "mani",
+        "vassoi",
+        "ali e patatine"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra person interacting con cibo, gesto naturale di assaggio imminente",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona sorridente in maglietta bianca che tiene vassoi overloaded di ali e patatine",
+      "subject": "persona con ordine grande",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "ali fritte"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra persona felice con cibo, reazione positiva al piatto",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "stessa persona maglietta bianca con vassoi, angolo leggermente diverso",
+      "subject": "persona con ordine",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "ali"
+      ],
+      "duplicate_of": 20,
+      "reason": "ripete id=20, manteniamo il meglio della sequenza",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona maglietta bianca con vassoi, mano dietro, stessa sequenza id=20-21",
+      "subject": "persona con cibo",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "ali"
+      ],
+      "duplicate_of": 20,
+      "reason": "parte della stessa sequenza, scartare per evitare ridondanza",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona maglietta bianca che guarda verso il basso ai vassoi, postura riflessiva",
+      "subject": "persona che esamina cibo",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "sguardo"
+      ],
+      "duplicate_of": null,
+      "reason": "frame diverso della sequenza, mostra reazione contemplativa al piatto",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona maglietta bianca con vassoi, variante della stessa pose",
+      "subject": "persona con vassoi",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "ali"
+      ],
+      "duplicate_of": 23,
+      "reason": "ripete sequenza, manteniamo i frame migliori della persona",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona maglietta bianca che abbassa lo sguardo sui vassoi, transizione naturale",
+      "subject": "persona verso vassoi",
+      "key_props": [
+        "persona",
+        "vassoi",
+        "gesto"
+      ],
+      "duplicate_of": null,
+      "reason": "transizione buona nella sequenza persona, mostra movimento naturale",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona maglietta bianca che solleva un vassoio verso la camera con sguardo",
+      "subject": "persona solleva vassoio",
+      "key_props": [
+        "persona",
+        "vassoio",
+        "gesto"
+      ],
+      "duplicate_of": null,
+      "reason": "azione chiara, mostra engagement con cibo, buono per montaggio",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona con vassoio, mano visibile, molto simile a id=26",
+      "subject": "persona vassoio",
+      "key_props": [
+        "persona",
+        "vassoio",
+        "mano"
+      ],
+      "duplicate_of": 26,
+      "reason": "duplicato di id=26, stesso frame della sequenza",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 27.27,
+      "duration": 2.47,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6823_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona maglietta bianca che intinge un morbidino in salsa, primo piano azione",
+      "subject": "persona che intinge cibo",
+      "key_props": [
+        "persona",
+        "morbidino",
+        "salsa"
+      ],
+      "duplicate_of": null,
+      "reason": "azione specifica di assaggio, mostra product interaction genuina",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che mostra a camera una patata fritta gialla in primo piano",
+      "subject": "persona mostra patata fritta",
+      "key_props": [
+        "persona",
+        "patata fritta",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di presentazione cibo, engagement diretto con camera",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "primo piano volto persona che mostra patata fritta gialla con espressione curiosa",
+      "subject": "persona closeup con patata fritta",
+      "key_props": [
+        "volto",
+        "patata fritta",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione faccia, closeup utile per emozione, buono per hook finale",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente donna che mostra ala fritta dorata alla fotocamera al tavolo, sorridendo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "tavolo",
+        "salsa bianca"
+      ],
+      "duplicate_of": null,
+      "reason": "Buona reazione e presentazione del piatto principale",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ala fritta dorata intinta in salsa bianca, mani visibili al tavolo con patatine e pollo",
+      "subject": "ala fritta con salsa",
+      "key_props": [
+        "ala fritta",
+        "salsa",
+        "patate fritte"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio texture perfetto per mostrare cibo",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "ala fritta intinta in salsa bianca, inquadratura molto simile a id=32",
+      "subject": "ala fritta con salsa",
+      "key_props": [
+        "ala fritta",
+        "salsa"
+      ],
+      "duplicate_of": 32,
+      "reason": "Duplicato di id=32, angolo e azione identici",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "ala fritta con salsa, inquadratura praticamente identica alle precedenti",
+      "subject": "ala fritta con salsa",
+      "key_props": [
+        "ala fritta",
+        "salsa"
+      ],
+      "duplicate_of": 32,
+      "reason": "Duplicato di id=32, scena ripetuta",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che alza ala fritta davanti al volto sorridendo, tavolo con cibo sullo sfondo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "volto",
+        "salsa"
+      ],
+      "duplicate_of": null,
+      "reason": "Inquadratura full-face con reazione positiva genuina",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che morde ala fritta, espressione soddisfatta, bicchiere di salsa visibile in mano",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "morso",
+        "salsa"
+      ],
+      "duplicate_of": null,
+      "reason": "Cattura momento autentico di assaggio con reazione",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che mastica ala fritta con espressione neutra, tavolo con cibo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "masticazione"
+      ],
+      "duplicate_of": 36,
+      "reason": "Variazione minima di id=36, azione già catturata",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.9",
+      "start": 27.9,
+      "end": 31.4,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che finisce di masticare con volto leggermente abbassato, tavolo con ali fritte",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "masticazione",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Momento post-assaggio con espressione naturale",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.10",
+      "start": 31.0,
+      "end": 34.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub10/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub10/f1.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con ala fritta in mano, tavolata con cibo, volto pensieroso",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "mano"
+      ],
+      "duplicate_of": 35,
+      "reason": "Variante di id=35, stessa posizione e azione",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.11",
+      "start": 34.1,
+      "end": 37.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub11/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub11/f1.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che porta ala fritta alla bocca per mordere, tavolo con cibo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta",
+        "bocca"
+      ],
+      "duplicate_of": 36,
+      "reason": "Duplicato di id=36, stesso gesto di morso",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.12",
+      "start": 37.2,
+      "end": 40.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub12/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub12/f1.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che mastica ala fritta con espressione concentrata",
+      "subject": "persona che mangia",
+      "key_props": [
+        "ala fritta"
+      ],
+      "duplicate_of": 36,
+      "reason": "Sequenza ripetuta dell'assaggio, già catturata in id=36",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "scene_index": "0.13",
+      "start": 40.3,
+      "end": 43.2,
+      "duration": 2.9,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub13/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6824_s0_sub13/f1.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatine fritte gialle con mano che versa salsa bianca sopra, tavola con logo",
+      "subject": "patatine con salsa",
+      "key_props": [
+        "patate fritte",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio di condimento e texture eccellente",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "mani che versano salsa bianca su patatine fritte gialle in contenitore carta",
+      "subject": "mani versano salsa",
+      "key_props": [
+        "salsa",
+        "patate",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "Azione di condimento catturata bene, movimento naturale",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatine fritte con salsa bianca, cliente di spalle con mano che tiene forchetta",
+      "subject": "patatine con salsa",
+      "key_props": [
+        "patate fritte",
+        "salsa",
+        "forchetta"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio food con strumento da mangiare visibile",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mangia patatina singola con espressione soddisfatta, contenitore fritti visibile",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta",
+        "volto",
+        "contenitore"
+      ],
+      "duplicate_of": null,
+      "reason": "Assaggio patatina con reazione positiva genuina",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che regge patatina lunga con entrambe le mani, volto di spalle con espressione concentrata",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta lunga",
+        "mani"
+      ],
+      "duplicate_of": null,
+      "reason": "Gesto interessante e inusuale, patatina fritta lunghissima",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che tiene patatina lunga con gesto simile a id=46, volto con espressione neutra",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta lunga"
+      ],
+      "duplicate_of": 46,
+      "reason": "Quasi identico a id=46, stessa patatina e gesto",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mangia patatina singola portandola alla bocca, tavolo con fritti sullo sfondo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta",
+        "bocca"
+      ],
+      "duplicate_of": null,
+      "reason": "Momento assaggio patatina con movimento naturale",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che mangia patatina con espressione concentrata, tavolo fritti visibile",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta"
+      ],
+      "duplicate_of": 48,
+      "reason": "Variante minima di id=48, azione identica",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che tiene patatina singola con dito, contenitore verde nel piano, espressione neutra",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta"
+      ],
+      "duplicate_of": 48,
+      "reason": "Sequenza ripetuta dell'assaggio patatina",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6825_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "decision": "keep",
+      "role": "food_plated",
+      "description": "cliente che versa patatine fritte in contenitore carta verde, tavolo con ali fritte sullo sfondo",
+      "subject": "patatine versate",
+      "key_props": [
+        "patate fritte",
+        "contenitore verde",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "Presentazione/servizio del piatto lato, buona inquadratura",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatine fritte sottili gialle in contenitore carta verde, mano di cliente visibile",
+      "subject": "patatine fritte gialle",
+      "key_props": [
+        "patate fritte",
+        "contenitore verde"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio ottimo delle patatine, colore e texture perfetti",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "patatine fritte in contenitore verde, cliente che mangia con gesto simile a precedente",
+      "subject": "patatine fritte",
+      "key_props": [
+        "patate fritte",
+        "contenitore verde"
+      ],
+      "duplicate_of": 52,
+      "reason": "Stesso food e contenitore, angolo molto simile a id=52",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che regge contenitore verde con patatine mentre mangia, tavolo con ali fritte visibili",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patate fritte",
+        "contenitore verde"
+      ],
+      "duplicate_of": null,
+      "reason": "Assaggio da contenitore, interazione naturale con cibo",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che regge contenitore verde con patatine con gesto simile a id=54",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patate fritte",
+        "contenitore verde"
+      ],
+      "duplicate_of": 54,
+      "reason": "Quasi identico a id=54, stessa azione e prospettiva",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che guarda verso il basso con contenitore patatine, tavolo con fritti sullo sfondo",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patate fritte",
+        "contenitore"
+      ],
+      "duplicate_of": 54,
+      "reason": "Variazione di id=54, stessa sequenza mangia",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "decision": "skip",
+      "role": "dead-air",
+      "description": "cliente che osserva il tavolo con cibo, nessuna azione particolare, volto abbassato",
+      "subject": "persona al tavolo",
+      "key_props": [
+        "fritti",
+        "tavolo"
+      ],
+      "duplicate_of": null,
+      "reason": "Scena statica senza azione o interazione significativa",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.03,
+      "duration": 3.43,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6826_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano patatina fritta intinta in salsa bianca, mano che la regge davanti a cliente",
+      "subject": "patatina con salsa",
+      "key_props": [
+        "patata fritta",
+        "salsa bianca"
+      ],
+      "duplicate_of": null,
+      "reason": "Dettaglio ottimo di condimento e texture della patatina",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "patatina fritta intinta in salsa bianca, mano che la immerge nel contenitore bianco",
+      "subject": "patatina con salsa",
+      "key_props": [
+        "patata fritta",
+        "salsa"
+      ],
+      "duplicate_of": 58,
+      "reason": "Variante minima di id=58, stesso dettaglio",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che mangia patatina fritta con salsa, volto con espressione concentrata",
+      "subject": "persona che mangia",
+      "key_props": [
+        "patata fritta",
+        "salsa"
+      ],
+      "duplicate_of": 38,
+      "reason": "Simile a id=38, sequenza mangia già catturata",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona seduta che mangia ali fritte con salsa, guardando verso il basso in modo neutro",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "carta"
+      ],
+      "duplicate_of": 62,
+      "reason": "duplicato di id=62, scegli versione con più espressione",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona con espressione sorpresa che tiene ali fritte in mano e salsa, morso imminente",
+      "subject": "cliente reazione",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "t-shirt bianca"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione genuina e interessante, migliore delle varianti",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 63,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che guarda verso il basso tenendo ali fritte e salsa, espressione neutra",
+      "subject": "cliente che mangia",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "carta"
+      ],
+      "duplicate_of": 61,
+      "reason": "scena statica senza azione o reazione particolare",
+      "clip_name": "IMG_6827.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 17.54,
+      "duration": 2.04,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6827_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 64,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "primo piano mani che tengono ali fritte croccanti e salsa, focus sulle mani",
+      "subject": "mani e ali",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "mani"
+      ],
+      "duplicate_of": 65,
+      "reason": "duplicato, versione id=65 più chiara e stabile",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 65,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali fritte croccante dorate tenute in mano accanto al volto del cliente",
+      "subject": "ali fritte closeup",
+      "key_props": [
+        "ali fritte",
+        "texture croccante",
+        "volto"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio cibo di qualità, mostra texture croccanza e presentazione",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 66,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "primo piano ali gialle fritte tenute in mano accanto al volto, inquadratura leggermente mossa",
+      "subject": "ali fritte",
+      "key_props": [
+        "ali fritte",
+        "mano",
+        "volto"
+      ],
+      "duplicate_of": 65,
+      "reason": "simile a id=65 ma con stabilità inferiore, scarta",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 69,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che morde ali fritta con espressione dubbiosa, guardando verso destra",
+      "subject": "cliente che morde",
+      "key_props": [
+        "ali fritte",
+        "morso",
+        "salsa"
+      ],
+      "duplicate_of": 70,
+      "reason": "duplicato di id=70, mantieni versione più nitida",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 70,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che morde ali fritta con espressione concentrata e leggermente sorpresa",
+      "subject": "cliente morso",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "braccia tatuate"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di morso chiara, espressione interessante, inquadratura stabile",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 71,
+      "decision": "skip",
+      "role": "person_eating",
+      "description": "persona seduta che guarda verso il basso tenendo ali fritte, espressione neutra e calma",
+      "subject": "cliente neutro",
+      "key_props": [
+        "ali fritte",
+        "carta",
+        "braccia tatuate"
+      ],
+      "duplicate_of": null,
+      "reason": "scena statica senza reazione emotiva marcata, ripetitiva rispetto ad altre",
+      "clip_name": "IMG_6828.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 24.8,
+      "duration": 3.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6828_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "mani che intingono ali fritta croccante in salsa bianca, azione di intingimento chiara",
+      "subject": "intingimento salsa",
+      "key_props": [
+        "ali fritte",
+        "salsa bianca",
+        "intingimento"
+      ],
+      "duplicate_of": null,
+      "reason": "azione dettagliata di intingimento, mostra modalità di consumo",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 73,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mani che intingono ali fritta in salsa, primo piano su azione di immersione",
+      "subject": "intingimento",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "mani"
+      ],
+      "duplicate_of": 72,
+      "reason": "simile a id=72, versione precedente è migliore",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 75,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che porta ali fritta alla bocca con salsa in mano, sguardo disorientato",
+      "subject": "cliente",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "volto"
+      ],
+      "duplicate_of": 76,
+      "reason": "duplicato, mantieni id=76 con migliore definizione",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 76,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che porta ali fritta alla bocca per il morso, salsa in mano, espressione concentrata",
+      "subject": "cliente morso imminente",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "braccia tatuate"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di morso ben catturata, inquadratura nitida e stabile",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 77,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che parla mentre tiene ali fritta, sguardo verso sinistra, bocca aperta",
+      "subject": "cliente parla",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "espressione"
+      ],
+      "duplicate_of": 78,
+      "reason": "variante di id=78, meno interessante",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 78,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che sta per mordere ali fritta con espressione di concentrazione, salsa in mano",
+      "subject": "cliente morso",
+      "key_props": [
+        "ali fritte",
+        "salsa",
+        "bocca aperta"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di consumo ben definita, espressione autentica",
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6829_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 79,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali fritte lucide e intere su carta con stampa, accanto ali fritte dorate",
+      "subject": "ali fritte closeup",
+      "key_props": [
+        "ali fritte",
+        "carta stampata",
+        "lucido"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio cibo di qualità, mostra presentazione e texture lucida",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 80,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano che prende ali fritta dalla carta stampata, primo piano su dettaglio di presa",
+      "subject": "mano ali",
+      "key_props": [
+        "ali fritte",
+        "carta",
+        "mano"
+      ],
+      "duplicate_of": 79,
+      "reason": "simile a id=79, mantieni versione più statica e chiara",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 81,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali fritta panata e dorata nella mano, texture ruvida dettagliata visibile",
+      "subject": "ali fritta panata",
+      "key_props": [
+        "ali fritta",
+        "panatura",
+        "texture"
+      ],
+      "duplicate_of": null,
+      "reason": "ottimo dettaglio di panatura croccante, mostra qualità del cibo",
+      "clip_name": "IMG_6830.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6830_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 82,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano ali fritte intere lucide e glassate su carta con logo stampato",
+      "subject": "ali fritte glassate",
+      "key_props": [
+        "ali fritte",
+        "glassa lucida",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "presentazione cibo di alta qualità, mostra finitezza e lucentezza",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.2,
+      "duration": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 85,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che tiene ali fritta davanti al volto con espressione neutra, locale interno dietro",
+      "subject": "cliente con cibo",
+      "key_props": [
+        "ali fritte",
+        "t-shirt bianca",
+        "locale"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura interessante che mostra locale sullo sfondo e cliente",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.0",
+      "start": 6.04,
+      "end": 9.54,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 86,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che morde ali fritta con espressione concentrata, volto in primo piano",
+      "subject": "cliente morso",
+      "key_props": [
+        "ali fritte",
+        "morso",
+        "locale"
+      ],
+      "duplicate_of": 85,
+      "reason": "simile a id=85, variante meno interessante",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.1",
+      "start": 9.14,
+      "end": 12.64,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 88,
+      "decision": "skip",
+      "role": "dead-air",
+      "description": "camera mossa che inquadra locale interno con persone sfocate sullo sfondo, persona con cibo",
+      "subject": "sfondo locale",
+      "key_props": [
+        "locale",
+        "persone",
+        "tavoli"
+      ],
+      "duplicate_of": null,
+      "reason": "camera instabile, persone sfocate, inquadratura poco chiara e poco utile",
+      "clip_name": "IMG_6831.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "scene_index": "3.3",
+      "start": 15.34,
+      "end": 17.61,
+      "duration": 2.27,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6831_s3_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 89,
+      "decision": "keep",
+      "role": "hands_gesture",
+      "description": "mani che tengono ali fritta glassata in contenitore, primo piano su azione di presa",
+      "subject": "mani contenitore",
+      "key_props": [
+        "ali fritta",
+        "contenitore",
+        "glassa"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio interessante di come il cibo viene presentato e tenuto",
+      "clip_name": "IMG_6832.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6832.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 1.3,
+      "duration": 1.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6832_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6832_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 90,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mani che tengono ali fritta glassata dorata, primo piano su dettaglio di texture e colore",
+      "subject": "mani ali",
+      "key_props": [
+        "ali fritta",
+        "glassa dorata",
+        "mani"
+      ],
+      "duplicate_of": 89,
+      "reason": "simile a id=89, mantieni versione precedente",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 91,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che tiene ali fritta lunga davanti al volto, sguardo verso il lato destro della camera",
+      "subject": "cliente con ali",
+      "key_props": [
+        "ali fritta lunga",
+        "volto",
+        "t-shirt"
+      ],
+      "duplicate_of": 92,
+      "reason": "duplicato di id=92, mantieni versione con migliore espressione",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 92,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che tiene ali fritta lunga in primo piano accanto al volto, espressione neutrale",
+      "subject": "cliente con ali",
+      "key_props": [
+        "ali fritta lunga",
+        "volto",
+        "braccia tatuate"
+      ],
+      "duplicate_of": null,
+      "reason": "inquadratura interessante che mostra dimensione e forma del cibo",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 93,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che tiene ali fritta davanti, sguardo neutro, contenitore con cibo sotto",
+      "subject": "cliente",
+      "key_props": [
+        "ali fritta",
+        "contenitore",
+        "volto"
+      ],
+      "duplicate_of": 92,
+      "reason": "variante simile, mantieni id=92",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 94,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che tiene ali fritta accanto al volto, sguardo leggermente a lato, espressione calma",
+      "subject": "cliente",
+      "key_props": [
+        "ali fritta",
+        "volto",
+        "braccia tatuate"
+      ],
+      "duplicate_of": 92,
+      "reason": "variante di id=92, scarta",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 95,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "persona che porta ali fritta verso la bocca con sguardo concentrato, salsa in mano",
+      "subject": "cliente morso",
+      "key_props": [
+        "ali fritta",
+        "salsa",
+        "bocca"
+      ],
+      "duplicate_of": 76,
+      "reason": "simile a id=76, mantieni versione precedente",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 96,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "persona che morde ali fritta con espressione dubbiosa o concentrata, salsa in mano visibile",
+      "subject": "cliente morso",
+      "key_props": [
+        "ali fritta",
+        "salsa",
+        "morso"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di morso autentica, espressione interessante diversa dalle altre",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 97,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente maschio che assaggia ala fritta con salsa bianca al tavolo con carta",
+      "subject": "cliente mangia ala",
+      "key_props": [
+        "ala fritta",
+        "salsa",
+        "carta"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione genuina assaggio primo piano, buona inquadratura",
+      "clip_name": "IMG_6833.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6833.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6833_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 98,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano mano che intinge ala fritta dorata in salsa bianca cremosa",
+      "subject": "ala intinta salsa",
+      "key_props": [
+        "ala fritta",
+        "salsa bianca",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio texture cibo e azione intingere, molto appetibile",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 99,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano che intinge ala fritta in salsa, vista leggermente diversa dalla 98",
+      "subject": "ala intinta",
+      "key_props": [
+        "ala",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": 98,
+      "reason": "duplicato molto simile a id 98, mantieni quello migliore",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 100,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che tiene ala fritta sopra salsa con espressione neutrale",
+      "subject": "cliente ala",
+      "key_props": [
+        "ala",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": 97,
+      "reason": "variante dello stesso momento, id 97 è più nitido",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 101,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente maschio che morde/assaggia ala fritta con salsa in mano sinistra",
+      "subject": "cliente morso ala",
+      "key_props": [
+        "ala fritta",
+        "salsa",
+        "morso"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di assaggio genuina, volto visibile con reazione",
+      "clip_name": "IMG_6834.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6834.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6834_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 102,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano mano che mostra nugget/polpettone croccante sopra salsa bianca",
+      "subject": "nugget croccante",
+      "key_props": [
+        "nugget dorato",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio cibo ben illuminato, texture appetibile, diverso da 98",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano che mostra nugget sopra salsa bianca, posizionamento simile a 102",
+      "subject": "nugget mano",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": 102,
+      "reason": "ripetizione visiva di 102, mantieni 102",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che intinge nugget in salsa bianca con espressione concentrata",
+      "subject": "cliente intinge nugget",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": null,
+      "reason": "azione intingere in salsa, primo piano mano e volto, racconta il modo di mangiare",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano che intinge nugget in salsa, cliente di spalle parzialmente",
+      "subject": "nugget salsa",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": 104,
+      "reason": "stessa azione di 104, mantieni id 104 più nitido",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che tiene nugget sopra salsa con volto di profilo",
+      "subject": "cliente nugget",
+      "key_props": [
+        "nugget",
+        "salsa"
+      ],
+      "duplicate_of": 104,
+      "reason": "variante dello stesso momento, id 104 è superiore",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che morde nugget/polpettone con espressione di gusto visibile",
+      "subject": "cliente morso nugget",
+      "key_props": [
+        "nugget",
+        "morso",
+        "volto"
+      ],
+      "duplicate_of": null,
+      "reason": "reazione naturale assaggio, mimica facciale positiva, buon piano",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che morde nugget con stessa posa di 107",
+      "subject": "morso nugget",
+      "key_props": [
+        "nugget",
+        "morso"
+      ],
+      "duplicate_of": 107,
+      "reason": "ripetizione di 107, mantieni 107",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mastica/assaggia nugget con salsa, sfondo sala con persone",
+      "subject": "cliente assaggio nugget",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "volto"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di consumo, mostra contesto sala sullo sfondo, narrativa completa",
+      "clip_name": "IMG_6835.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6835_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "decision": "keep",
+      "role": "drink_detail",
+      "description": "cliente che tiene bevanda in bicchiere di carta con stampa locale e piatti sullo sfondo",
+      "subject": "bevanda bicchiere",
+      "key_props": [
+        "bicchiere carta",
+        "bevanda",
+        "locale"
+      ],
+      "duplicate_of": null,
+      "reason": "introduce bevanda, bicchiere di carta riconoscibile, mostra branding locale",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che tiene stesso bicchiere di carta con bevanda, posizione leggermente diversa",
+      "subject": "bevanda bicchiere",
+      "key_props": [
+        "bicchiere",
+        "bevanda"
+      ],
+      "duplicate_of": 110,
+      "reason": "duplicato di 110, mantieni 110",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente che beve/tiene bicchiere di carta, durata 2.13s, stessa scena di 110-111",
+      "subject": "bevanda",
+      "key_props": [
+        "bicchiere",
+        "bevanda"
+      ],
+      "duplicate_of": 110,
+      "reason": "variante stessa scena, mantieni 110",
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 8.33,
+      "duration": 2.13,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6836_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "decision": "keep",
+      "role": "food_closeup",
+      "description": "primo piano mani che mostrano nugget/polpettone dorato e croccante intero",
+      "subject": "nugget dorato",
+      "key_props": [
+        "nugget croccante",
+        "mani",
+        "texture"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio texture e forma nugget, illuminazione ottima, prodotto appetibile",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che tiene nugget intero davanti viso con espressione incuriosita prima di assaggiare",
+      "subject": "cliente nugget intero",
+      "key_props": [
+        "nugget",
+        "volto",
+        "mani"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra dimensione nugget, reazione pre-assaggio, narrativa graduale",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mangia/morde nugget con concentrazione, salsa bianca in basso a destra",
+      "subject": "cliente mangia nugget",
+      "key_props": [
+        "nugget",
+        "morso",
+        "salsa"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di consumo, mimica naturale, piatti sullo sfondo contesto",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.5",
+      "start": 15.5,
+      "end": 19.0,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub5/f1.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente con nugget in mano sopra salsa, postura simile a altre scene",
+      "subject": "nugget mano",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "mano"
+      ],
+      "duplicate_of": 117,
+      "reason": "variante di 117, mantieni 117",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.6",
+      "start": 18.6,
+      "end": 22.1,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub6/f1.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che prepara/intinge nugget in salsa bianca con mani e volto visibili",
+      "subject": "cliente intinge nugget",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "intingere"
+      ],
+      "duplicate_of": null,
+      "reason": "azione intingere ben ripresa, mani in primo piano, narrativa crescente",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.7",
+      "start": 21.7,
+      "end": 25.2,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub7/f1.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che assaggia/morde nugget con salsa visibile in basso, espressione neutra",
+      "subject": "cliente assaggio",
+      "key_props": [
+        "nugget",
+        "salsa",
+        "morso"
+      ],
+      "duplicate_of": null,
+      "reason": "sequenza assaggio continuato, diverse angolazioni della reazione",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.8",
+      "start": 24.8,
+      "end": 28.3,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub8/f1.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "decision": "keep",
+      "role": "person_eating",
+      "description": "cliente che mastica/termina assaggio nugget, volto concentrato da vicino",
+      "subject": "cliente mastica",
+      "key_props": [
+        "nugget",
+        "mascella",
+        "espressione"
+      ],
+      "duplicate_of": null,
+      "reason": "conclude sequenza assaggio, reazione processamento gusto, buon piano",
+      "clip_name": "IMG_6837.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6837.MOV",
+      "scene_index": "0.9",
+      "start": 27.9,
+      "end": 30.0,
+      "duration": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub9/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6837_s0_sub9/f1.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "decision": "keep",
+      "role": "menu_board",
+      "description": "macchina distributrice bevande freestyle coca-cola con totem display colori gusti",
+      "subject": "freestyle bevande",
+      "key_props": [
+        "distributore",
+        "coca-cola",
+        "totem colori"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra menu interattivo bevande, elemento locale importante, design moderno",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "decision": "skip",
+      "role": "blurry",
+      "description": "distributrice freestyle con effetto vapore/getto acqua, immagine offuscata",
+      "subject": "freestyle",
+      "key_props": [
+        "distributore",
+        "vapore"
+      ],
+      "duplicate_of": 123,
+      "reason": "troppo mosso/offuscato, mantieni 123 più nitido",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "decision": "keep",
+      "role": "drink_pour",
+      "description": "mano che preleva bevanda dalla macchina freestyle sotto logo coca-cola freestyle",
+      "subject": "preleva bevanda",
+      "key_props": [
+        "freestyle",
+        "mano",
+        "bicchiere"
+      ],
+      "duplicate_of": null,
+      "reason": "azione di ottenimento bevanda, interazione con distributore, narrativa completa",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "stessa azione di 125, mano che prende bicchiere dalla freestyle",
+      "subject": "preleva bevanda",
+      "key_props": [
+        "freestyle",
+        "mano"
+      ],
+      "duplicate_of": 125,
+      "reason": "ripetizione visiva di 125, mantieni 125",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "mano con bicchiere alla freestyle, stessa inquadratura di 125-126",
+      "subject": "bevanda freestyle",
+      "key_props": [
+        "freestyle",
+        "bicchiere"
+      ],
+      "duplicate_of": 125,
+      "reason": "variante duplicate, mantieni 125",
+      "clip_name": "IMG_6838.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.9,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6838_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 128,
+      "decision": "keep",
+      "role": "drink_detail",
+      "description": "primo piano bevanda rossa in bicchiere (coca-cola zero zuccheri) sulla freestyle con display",
+      "subject": "coca-cola zero",
+      "key_props": [
+        "bevanda rossa",
+        "bicchiere",
+        "coca-cola"
+      ],
+      "duplicate_of": null,
+      "reason": "dettaglio bevanda finale, colore identificativo, mostra prodotto specifico",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6839_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6839_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 129,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "bicchiere con bevanda rossa sulla freestyle, simile a 128",
+      "subject": "bevanda",
+      "key_props": [
+        "bevanda",
+        "bicchiere"
+      ],
+      "duplicate_of": 128,
+      "reason": "ripetizione di 128, mantieni 128",
+      "clip_name": "IMG_6839.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6839.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6839_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6839_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 130,
+      "decision": "keep",
+      "role": "menu_board",
+      "description": "mano che tiene sacchetto verde con logo e testo ripetuto WING STOP FRIES FLAVOR davanti camera",
+      "subject": "sacchetto branded WING STOP",
+      "key_props": [
+        "sacchetto verde",
+        "logo WING STOP",
+        "text pattern"
+      ],
+      "duplicate_of": null,
+      "reason": "identifica chiaramente il brand e prodotto principale",
+      "clip_name": "IMG_6840.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6840.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6840_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6840_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 131,
+      "decision": "keep",
+      "role": "venue_interior_detail",
+      "description": "cliente osserva claw machine WING STOP con ali bianche dentro, parete street art colorata dietro",
+      "subject": "claw machine WING STOP",
+      "key_props": [
+        "claw machine",
+        "logo WING STOP",
+        "street art"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra atmosfera locale unica e interattiva, elemento visivo distintivo",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub0/f1.jpg"
+      ]
+    },
+    {
+      "id": 132,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente osserva claw machine WING STOP con ali bianche dentro, parete street art colorata dietro",
+      "subject": "claw machine WING STOP",
+      "key_props": [
+        "claw machine",
+        "logo WING STOP",
+        "street art"
+      ],
+      "duplicate_of": 131,
+      "reason": "inquadratura quasi identica a id=131, angolo leggermente diverso ma stessa azione",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.1",
+      "start": 3.1,
+      "end": 6.6,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub1/f1.jpg"
+      ]
+    },
+    {
+      "id": 133,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente osserva claw machine WING STOP con ali bianche dentro, parete street art colorata dietro",
+      "subject": "claw machine WING STOP",
+      "key_props": [
+        "claw machine",
+        "logo WING STOP",
+        "street art"
+      ],
+      "duplicate_of": 131,
+      "reason": "duplicato esatto di id=131, stessa inquadratura e azione",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.2",
+      "start": 6.2,
+      "end": 9.7,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub2/f1.jpg"
+      ]
+    },
+    {
+      "id": 134,
+      "decision": "skip",
+      "role": "duplicate",
+      "description": "cliente osserva claw machine WING STOP con ali bianche dentro, parete street art colorata dietro",
+      "subject": "claw machine WING STOP",
+      "key_props": [
+        "claw machine",
+        "logo WING STOP",
+        "street art"
+      ],
+      "duplicate_of": 131,
+      "reason": "duplicate sequenza di id=131-132-133, stessa scena ripetuta",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.3",
+      "start": 9.3,
+      "end": 12.8,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub3/f1.jpg"
+      ]
+    },
+    {
+      "id": 135,
+      "decision": "keep",
+      "role": "person_talking",
+      "description": "cliente giovane di profilo sorride e parla guardando claw machine WING STOP, street art dietro",
+      "subject": "cliente reazione sorriso",
+      "key_props": [
+        "claw machine",
+        "volto cliente",
+        "logo WING STOP"
+      ],
+      "duplicate_of": null,
+      "reason": "mostra reazione genuina e coinvolgimento cliente con elemento interattivo del locale",
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "scene_index": "0.4",
+      "start": 12.4,
+      "end": 15.18,
+      "duration": 2.78,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6844_s0_sub4/f1.jpg"
+      ]
+    },
+    {
+      "id": 136,
+      "decision": "skip",
+      "role": "non-pertinente",
+      "description": "mano tiene mascotte peluche bianca e verde con espressione sorridente, sacchetto WING STOP sullo sfondo",
+      "subject": "mascotte peluche",
+      "key_props": [
+        "mascotte",
+        "peluche",
+        "sacchetto"
+      ],
+      "duplicate_of": null,
+      "reason": "soggetto secondario, focus su merchandise non su cibo/bevande/locale principale",
+      "clip_name": "IMG_6848.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6848.MOV",
+      "scene_index": "0.0",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6848_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_126/IMG_6848_s0_sub0/f1.jpg"
+      ]
+    }
+  ]
+}

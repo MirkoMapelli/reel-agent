@@ -1,0 +1,236 @@
+{
+  "ref_id": "ref_46_7573644886348533015",
+  "video": "/opt/reel-agent/media/style_ref/ref_46_7573644886348533015.mp4",
+  "n_segments": 11,
+  "n_words": 25,
+  "n_shots": 6,
+  "full_text": "Sipangian Hey, how do you do? Ga laugh �� tempi Is there one? is there one? gammie Andre Hey ulia Gaspbra Sì, sì, sì, sì, sì.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Sipangian"
+    },
+    {
+      "start": 2.1,
+      "end": 2.88,
+      "text": "Hey, how do you do?"
+    },
+    {
+      "start": 8.54,
+      "end": 10.74,
+      "text": "Ga laugh"
+    },
+    {
+      "start": 10.74,
+      "end": 11.4,
+      "text": "�� tempi"
+    },
+    {
+      "start": 11.4,
+      "end": 13.3,
+      "text": "Is there one?"
+    },
+    {
+      "start": 13.3,
+      "end": 15.24,
+      "text": "is there one?"
+    },
+    {
+      "start": 15.24,
+      "end": 25.16,
+      "text": "gammie"
+    },
+    {
+      "start": 28.54,
+      "end": 29.64,
+      "text": "Andre"
+    },
+    {
+      "start": 23.62,
+      "end": 25.08,
+      "text": "Hey ulia"
+    },
+    {
+      "start": 28.1,
+      "end": 29.8,
+      "text": "Gaspbra"
+    },
+    {
+      "start": 32.44,
+      "end": 33.74,
+      "text": "Sì, sì, sì, sì, sì."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "word": "Sipangian"
+    },
+    {
+      "start": 2.1,
+      "end": 2.1,
+      "word": "Hey,"
+    },
+    {
+      "start": 2.22,
+      "end": 2.44,
+      "word": "how"
+    },
+    {
+      "start": 2.44,
+      "end": 2.52,
+      "word": "do"
+    },
+    {
+      "start": 2.52,
+      "end": 2.72,
+      "word": "you"
+    },
+    {
+      "start": 2.72,
+      "end": 2.88,
+      "word": "do?"
+    },
+    {
+      "start": 8.54,
+      "end": 9.64,
+      "word": "Ga"
+    },
+    {
+      "start": 9.64,
+      "end": 10.74,
+      "word": "laugh��"
+    },
+    {
+      "start": 10.74,
+      "end": 11.4,
+      "word": "tempi"
+    },
+    {
+      "start": 11.4,
+      "end": 11.4,
+      "word": "Is"
+    },
+    {
+      "start": 11.4,
+      "end": 11.48,
+      "word": "there"
+    },
+    {
+      "start": 11.48,
+      "end": 12.0,
+      "word": "one?"
+    },
+    {
+      "start": 12.74,
+      "end": 13.3,
+      "word": "is"
+    },
+    {
+      "start": 13.3,
+      "end": 13.42,
+      "word": "there"
+    },
+    {
+      "start": 13.42,
+      "end": 13.76,
+      "word": "one?"
+    },
+    {
+      "start": 14.7,
+      "end": 15.24,
+      "word": "gammie"
+    },
+    {
+      "start": 15.24,
+      "end": 16.74,
+      "word": "Andre"
+    },
+    {
+      "start": 16.74,
+      "end": 23.66,
+      "word": "Hey"
+    },
+    {
+      "start": 23.66,
+      "end": 25.16,
+      "word": "ulia"
+    },
+    {
+      "start": 28.54,
+      "end": 29.64,
+      "word": "Gaspbra"
+    },
+    {
+      "start": 32.44,
+      "end": 32.84,
+      "word": "Sì,"
+    },
+    {
+      "start": 32.94,
+      "end": 33.14,
+      "word": "sì,"
+    },
+    {
+      "start": 33.14,
+      "end": 33.26,
+      "word": "sì,"
+    },
+    {
+      "start": 33.26,
+      "end": 33.74,
+      "word": "sì,"
+    },
+    {
+      "start": 33.74,
+      "end": 33.74,
+      "word": "sì."
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 4.633,
+      "dur": 4.633,
+      "transcript": "Sipangian Hey, how do you do?"
+    },
+    {
+      "shot_idx": 1,
+      "start": 4.633,
+      "end": 6.933,
+      "dur": 2.3,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 2,
+      "start": 6.933,
+      "end": 20.433,
+      "dur": 13.5,
+      "transcript": "Ga laugh�� tempi Is there one? is there one? gammie Andre Hey"
+    },
+    {
+      "shot_idx": 3,
+      "start": 20.433,
+      "end": 21.167,
+      "dur": 0.733,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 4,
+      "start": 21.167,
+      "end": 34.233,
+      "dur": 13.067,
+      "transcript": "ulia Gaspbra Sì, sì, sì, sì, sì."
+    },
+    {
+      "shot_idx": 5,
+      "start": 34.233,
+      "end": 36.8,
+      "dur": 2.567,
+      "transcript": ""
+    }
+  ]
+}

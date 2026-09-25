@@ -1,0 +1,627 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>reel-agent</title>
+  <link rel="stylesheet" href="/static/style.css?v=1789933297">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">🎬 <strong>reel-agent</strong> <span class="ver">v{{ version }}</span></div>
+    <div class="status" id="top-status">pronto</div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <h3>Come funziona</h3>
+      <div class="muted" style="font-size:12px; line-height:1.6">
+        <b>1.</b> Carica i video raw nel tab <b>Apply</b><br>
+        <b>2.</b> Clicca <b>🎬 Genera da Master (B)</b><br>
+        <b>3.</b> Regola impostazioni e renderizza<br>
+        <br>
+        Il Brain analizza il materiale e propone la timeline automaticamente.
+      </div>
+
+      <div class="divider"></div>
+
+      <h3>Stato</h3>
+      <div class="muted" id="fetch-msg">in attesa…</div>
+    </aside>
+
+    <section class="stage">
+      <div class="mode-tabs">
+        
+        <button class="mode-tab active" data-mode="apply">📥 Caricamento Video</button>
+        <button class="mode-tab" data-mode="studio">🎛 Studio</button>
+        <button class="mode-tab" data-mode="brain">🧠 Brain</button>
+        <button class="mode-tab" data-mode="subs">📝 Inserimento Sottotitoli</button>
+        <button class="mode-tab" data-mode="storage">💾 Spazio</button>
+      </div>
+
+      <!-- === LEARN === -->
+      <div id="mode-learn" class="mode-panel hidden" style="display:none !important">
+        <div class="stage-header">
+          <h2>Video TikTok di riferimento</h2>
+          <label class="muted small">
+            <input type="checkbox" id="select-all"> seleziona tutti
+          </label>
+        </div>
+        <div id="grid" class="grid">
+          <div class="empty">Inserisci un account TikTok nella sidebar e premi <em>Carica lista</em>.</div>
+        </div>
+      </div>
+
+      <!-- === APPLY === -->
+      <div id="mode-apply" class="mode-panel hidden">
+        <div class="stage-header">
+          <h2>Video raw da montare</h2>
+          <span class="muted small" id="raw-info">0 file</span>
+        </div>
+
+        <label id="dropzone" class="dropzone" for="raw-input">
+          <svg viewBox="0 0 24 24" width="42" height="42" fill="none"
+               stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 12 3 L 12 15"/>
+            <path d="M 6 9 L 12 15 L 18 9"/>
+            <rect x="3" y="17" width="18" height="4" rx="1"/>
+          </svg>
+          <div class="dz-title">Trascina qui i video o clicca per selezionarli</div>
+          <div class="dz-sub">MP4 / MOV / MKV · Max 2 GB per file</div>
+          <input type="file" id="raw-input" accept="video/*" multiple hidden>
+        </label>
+
+        <div id="raw-progress" class="raw-progress hidden">
+          <div class="raw-progress-fill" id="raw-progress-fill"></div>
+        </div>
+
+        <div id="raw-grid" class="raw-grid">
+          <div class="empty">Nessun video raw caricato.</div>
+        </div>
+
+        <div class="raw-actions">
+          <button id="btn-raw-analyze" class="btn primary" style="width:auto; padding:8px 16px; margin-right:8px;"><span class="step-num">1</span> 🔍 Analizza i raw</button>
+          <button id="btn-curate" class="btn primary" style="width:auto; padding:8px 16px; margin-right:8px; background:#0a84ff; border-color:#0a84ff; color:#fff;"><span class="step-num">2</span> ✨ Seleziona clip buone</button>
+          <button id="btn-raw-clear" class="btn danger" style="width:auto; padding:8px 16px;">🗑 Svuota tutti i raw</button>
+        </div>
+        <div class="muted small" style="margin-top:8px">
+          <span id="analysis-info">nessuna analisi</span> ·
+          <span id="curated-info">nessuna curation</span>
+        </div>
+
+        <!-- === IMMAGINI ANCHOR === -->
+        <div class="stage-header" style="margin-top:20px">
+          <h3>Immagini anchor (primo/ultimo frame)</h3>
+        </div>
+        <div class="muted small" style="margin-bottom:10px">
+          Opzionali. Se caricate, il primo frame appare in apertura (1s) e l'ultimo in chiusura (1s).
+        </div>
+        <div class="anchors-grid">
+          <div class="anchor-slot" data-kind="first">
+            <div class="anchor-title">Primo frame (apertura)</div>
+            <label class="anchor-drop" for="anchor-first-input">
+              <img class="anchor-preview hidden" id="anchor-first-preview" alt="">
+              <div class="anchor-placeholder" id="anchor-first-placeholder">
+                <svg viewBox="0 0 24 24" width="36" height="36" fill="none"
+                     stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="3" y="3" width="18" height="18" rx="2"/>
+                  <circle cx="9" cy="9" r="2"/>
+                  <path d="M 21 15 L 16 10 L 5 21"/>
+                </svg>
+                <div class="anchor-drop-title">Clicca o trascina un'immagine</div>
+                <div class="anchor-drop-sub">JPG · PNG · WEBP</div>
+              </div>
+              <input type="file" id="anchor-first-input" accept="image/*" hidden>
+            </label>
+            <div class="anchor-config hidden" id="anchor-first-config">
+              <label class="anchor-field">
+                <span>Durata (sec)</span>
+                <input type="number" id="anchor-first-duration" min="0.3" max="10" step="0.1" value="1.0">
+              </label>
+              <label class="anchor-field">
+                <span>Testo sottotitolo</span>
+                <input type="text" id="anchor-first-text" placeholder="es. Benvenuti da..." maxlength="500">
+              </label>
+            </div>
+            <button class="anchor-del hidden" id="anchor-first-del" data-kind="first">🗑 Rimuovi</button>
+          </div>
+
+          <div class="anchor-slot" data-kind="last">
+            <div class="anchor-title">Ultimo frame (chiusura)</div>
+            <label class="anchor-drop" for="anchor-last-input">
+              <img class="anchor-preview hidden" id="anchor-last-preview" alt="">
+              <div class="anchor-placeholder" id="anchor-last-placeholder">
+                <svg viewBox="0 0 24 24" width="36" height="36" fill="none"
+                     stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="3" y="3" width="18" height="18" rx="2"/>
+                  <circle cx="9" cy="9" r="2"/>
+                  <path d="M 21 15 L 16 10 L 5 21"/>
+                </svg>
+                <div class="anchor-drop-title">Clicca o trascina un'immagine</div>
+                <div class="anchor-drop-sub">JPG · PNG · WEBP</div>
+              </div>
+              <input type="file" id="anchor-last-input" accept="image/*" hidden>
+            </label>
+            <div class="anchor-config hidden" id="anchor-last-config">
+              <label class="anchor-field">
+                <span>Durata (sec)</span>
+                <input type="number" id="anchor-last-duration" min="0.3" max="10" step="0.1" value="1.0">
+              </label>
+              <label class="anchor-field">
+                <span>Testo sottotitolo</span>
+                <input type="text" id="anchor-last-text" placeholder="es. Seguici per altre recensioni!" maxlength="500">
+              </label>
+            </div>
+            <button class="anchor-del hidden" id="anchor-last-del" data-kind="last">🗑 Rimuovi</button>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="stage-header">
+          <h2>Impostazioni video</h2>
+        </div>
+        <label class="field" style="margin-bottom:12px">
+          <span>Nome locale / location (opzionale)</span>
+          <input type="text" id="venue-name" placeholder="es. Wing Stop Milano, Da Michele Napoli..." maxlength="80">
+        </label>
+
+        <div class="duration-range">
+          <div class="dr-title">Durata target (opzionale — sovrascrive il profilo)</div>
+          <div class="dr-fields">
+            <label class="field" style="margin:0">
+              <span>Da (sec)</span>
+              <input type="number" id="dur-min" min="0" max="300" step="1" placeholder="0 = auto">
+            </label>
+            <label class="field" style="margin:0">
+              <span>A (sec)</span>
+              <input type="number" id="dur-max" min="0" max="300" step="1" placeholder="0 = auto">
+            </label>
+            <button id="btn-save-dur" class="btn primary" style="width:auto; padding:8px 14px;">Salva</button>
+          </div>
+          <div class="muted small" id="dur-status" style="margin-top:6px"></div>
+        </div>
+        <div class="apply-profile" style="display:flex; flex-wrap:wrap; gap:10px; padding:14px; background:#0f1117; border:1px solid #2c3345; border-radius:8px; margin-top:12px">
+          <select id="apply-profile-select" style="display:none"><option value="16" selected>default</option></select>
+          <button id="btn-brain-master" class="btn primary" style="flex:1 1 220px; padding:14px 20px; font-size:14px; font-weight:600; background:linear-gradient(135deg,#16a34a,#22c55e); white-space:normal">
+            🎬 Genera da Master (B)
+            <div style="font-size:11px; font-weight:400; opacity:0.85; margin-top:2px">veloce · ~1 min</div>
+          </button>
+          <button id="btn-brain-generate" class="btn primary" style="flex:1 1 220px; padding:14px 20px; font-size:14px; font-weight:600; background:linear-gradient(135deg,#7c3aed,#2563eb); white-space:normal">
+            🧠 Genera con Brain
+            <div style="font-size:11px; font-weight:400; opacity:0.85; margin-top:2px">lento · 15-20 min</div>
+          </button>
+          <button id="btn-apply-generate" class="btn primary" style="flex:1 1 220px; padding:14px 20px; font-size:14px; font-weight:600; white-space:normal">
+            🎬 Genera montaggio
+            <div style="font-size:11px; font-weight:400; opacity:0.85; margin-top:2px">pipeline vecchia</div>
+          </button>
+        </div>
+        <div class="muted small" id="apply-msg" style="margin-top:8px">in attesa…</div>
+
+        <div class="divider"></div>
+
+
+        <div class="divider"></div>
+
+        </div>
+    <div id="mode-subs" class="mode-panel hidden">
+      <div class="stage-header">
+        <h2>Sottotitoli karaoke</h2>
+        <span class="muted small" id="subs-info"></span>
+      </div>
+      <div class="muted small" style="margin-bottom:14px">
+        Carica un video con audio già registrato. Verrà trascritto e riceverà sottotitoli karaoke. Nessuna AI, nessun brain.
+      </div>
+
+      <!-- STEP 1: upload -->
+      <div id="subs-step1">
+        <label id="subs-dropzone" class="dropzone" for="subs-input">
+          <svg viewBox="0 0 24 24" width="42" height="42" fill="none"
+               stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 12 3 L 12 15"/>
+            <path d="M 6 9 L 12 15 L 18 9"/>
+            <rect x="3" y="17" width="18" height="4" rx="1"/>
+          </svg>
+          <div class="dz-title">Trascina qui il video con audio o clicca per selezionarlo</div>
+          <div class="dz-sub">MP4 / MOV / MKV · Max 500 MB</div>
+          <input type="file" id="subs-input" accept="video/*" hidden>
+        </label>
+      </div>
+
+      <!-- STEP 2: preview + opzioni + elabora -->
+      <div id="subs-step2" class="hidden">
+        <video id="subs-preview" controls
+               style="max-width:100%; max-height:50vh; border-radius:6px; background:#000"></video>
+        <div class="muted small" id="subs-file-info" style="margin-top:8px"></div>
+
+        <div style="margin-top:16px; padding:14px; background:#181c26; border-radius:8px; border:1px solid #262b38">
+          <div style="font-size:12px; color:#b6bdcc; margin-bottom:10px">🎨 Opzioni sottotitoli</div>
+
+          <label style="font-size:12px; color:#8a92a6; display:block; margin-bottom:10px">
+            Font
+            <select id="subs-font" style="width:100%; margin-top:4px; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:8px 10px; font-size:13px">
+              <option value="">caricamento…</option>
+            </select>
+          </label>
+
+          <div style="padding:16px; background:#0b0d13; border-radius:8px; text-align:center; min-height:80px; display:flex; align-items:center; justify-content:center; margin-bottom:14px">
+            <div id="subs-font-preview" style="font-size:40px; color:#FFE600; text-shadow: 3px 3px 0 #000, -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000; letter-spacing:1px">
+              Hai scelto questo carattere
+            </div>
+          </div>
+
+          <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:12px">
+            <label style="font-size:12px; color:#8a92a6">
+              Modalità Karaoke
+              <select id="subs-karaoke-mode" style="width:100%; margin-top:4px; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:8px 10px; font-size:13px">
+                <option value="phrase" selected>Frase intera + parola evidenziata</option>
+                <option value="word">Una parola alla volta</option>
+                <option value="static">Frase intera statica (no karaoke)</option>
+              </select>
+              <div style="font-size:11px; color:#666; margin-top:2px">come mostrare i sottotitoli</div>
+            </label>
+
+            <label style="font-size:12px; color:#8a92a6">
+              Dimensione Carattere
+              <input type="number" id="subs-size" value="62" min="20" max="150"
+                     style="width:100%; margin-top:4px; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:6px 10px; font-size:13px">
+              <div style="font-size:11px; color:#666; margin-top:2px">altezza carattere · consigliato 50-80</div>
+            </label>
+
+            <label style="font-size:12px; color:#8a92a6">
+              Spessore Bordo Nero
+              <input type="number" id="subs-outline" value="5" min="0" max="10"
+                     style="width:100%; margin-top:4px; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:6px 10px; font-size:13px">
+              <div style="font-size:11px; color:#666; margin-top:2px">spessore bordo nero attorno alle lettere · consigliato 4-6 · range 0-10</div>
+            </label>
+
+            <label style="font-size:12px; color:#8a92a6">
+              Colore testo
+              <div style="display:flex; gap:10px; align-items:center; margin-top:4px">
+                <input type="color" id="subs-color" value="#FFE600"
+                       style="width:50px; height:36px; padding:0; border:1px solid #2c3345; border-radius:6px; background:transparent; cursor:pointer">
+                <span id="subs-color-label" style="font-family:monospace; font-size:12px; color:#b6bdcc">#FFE600</span>
+              </div>
+            </label>
+
+            <label style="font-size:12px; color:#8a92a6">
+              Colore parola karaoke
+              <div style="display:flex; gap:10px; align-items:center; margin-top:4px">
+                <input type="color" id="subs-highlight" value="#FFFFFF"
+                       style="width:50px; height:36px; padding:0; border:1px solid #2c3345; border-radius:6px; background:transparent; cursor:pointer">
+                <span id="subs-highlight-label" style="font-family:monospace; font-size:12px; color:#b6bdcc">#FFFFFF</span>
+              </div>
+            </label>
+
+            <label style="font-size:12px; color:#8a92a6; grid-column:1/-1">
+              Distanza dal Bordo Inferiore
+              <input type="number" id="subs-margin" value="155" min="50" max="500"
+                     style="width:100%; margin-top:4px; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:6px 10px; font-size:13px">
+              <div style="font-size:11px; color:#666; margin-top:2px">distanza dal bordo inferiore in px (video alto 1920px) · standard TikTok 150-250 · range 50-500</div>
+            </label>
+          </div>
+        </div>
+
+        <div class="row" style="margin-top:14px; gap:10px">
+          <button id="btn-subs-elabora" class="btn primary" style="padding:12px 24px; font-size:15px">
+            🎬 Elabora sottotitoli
+          </button>
+          <button id="btn-subs-reset" style="background:#444">↺ Carica un altro video</button>
+        </div>
+      </div>
+
+      <!-- STEP 3: progresso / risultato -->
+      <div id="subs-step3" class="hidden" style="margin-top:14px">
+        <div class="muted small" id="subs-status">elaborazione…</div>
+        <div class="raw-progress" style="margin-top:8px">
+          <div class="raw-progress-fill" id="subs-progress-fill" style="width:0%"></div>
+        </div>
+      </div>
+
+      <div id="subs-result" class="hidden" style="margin-top:14px">
+        <video id="subs-video-result" controls
+               style="max-width:100%; max-height:60vh; border-radius:6px; background:#000"></video>
+        <div style="margin-top:10px">
+          <a id="subs-download" class="btn primary" download>⬇ Scarica video con sottotitoli</a>
+        </div>
+      </div>
+    </div>
+
+    <div id="mode-brain" class="mode-panel hidden">
+      <iframe id="brain-iframe" loading="lazy" title="Creator Brain"></iframe>
+    </div>
+
+    <div id="mode-studio" class="mode-panel hidden">
+      <div class="stage-header">
+        <h2>Studio — Editing manuale</h2>
+        <span class="muted small" id="studio-info">nessun EDL</span>
+      </div>
+      <div class="muted small" style="margin-bottom:14px">
+        Modifica la timeline generata dal Brain prima di renderizzare.
+      </div>
+      <div class="card" style="background:#0f1117; border:1px solid #2c3345; padding:14px; border-radius:8px; margin-bottom:14px">
+        <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap">
+          <label class="field" style="flex:1; min-width:220px; margin:0">
+            <span>EDL da caricare</span>
+            <select id="studio-edl-select" style="width:100%">
+              <option value="">— seleziona —</option>
+            </select>
+          </label>
+          <button id="btn-studio-load-edl" class="btn primary" style="padding:9px 18px; align-self:flex-end">📂 Carica EDL</button>
+          <button id="btn-studio-load-latest" style="background:#444; color:#fff; border:0; padding:9px 14px; border-radius:6px; align-self:flex-end">🔄 Ultimo</button>
+        </div>
+      </div>
+
+      <div id="studio-empty" class="empty" style="padding:30px; display:none">
+        Nessun EDL caricato. Scegli un EDL sopra oppure vai in <b>Apply</b> e clicca <b>🎬 Genera da Master (B)</b>.
+      </div>
+      <div id="studio-content" style="display:none">
+        <div class="card" style="background:#0f1117; border:1px solid #2c3345; padding:14px; border-radius:8px; margin-bottom:14px">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px">
+            <div>
+              <b id="studio-title">—</b>
+              <div class="muted small" id="studio-meta"></div>
+            </div>
+            <div>
+              <button id="btn-studio-reload" style="background:#444; color:#fff; border:0; padding:8px 14px; border-radius:6px; margin-right:6px">↻ Ricarica</button>
+              <button id="btn-studio-save" style="background:#2d6cdf; color:#fff; border:0; padding:8px 14px; border-radius:6px">💾 Salva</button>
+            </div>
+          </div>
+          <div id="studio-shot-list"></div>
+        </div>
+        <div class="card" style="background:#0f1117; border:1px solid #2c3345; padding:14px; border-radius:8px">
+          <b>🎵 Musica di sottofondo</b>
+          <label class="field" style="margin-top:8px">
+            <span>Traccia</span>
+            <select id="studio-music-select"><option value="">— nessuna —</option></select>
+          </label>
+          <div class="row" style="display:flex; gap:14px; margin-top:8px">
+            <label class="field" style="flex:1">
+              <span>Volume parlato: <span id="vol-voice-label">100%</span></span>
+              <input type="range" id="vol-voice" min="0" max="200" value="100" style="width:100%">
+            </label>
+            <label class="field" style="flex:1">
+              <span>Volume musica: <span id="vol-music-label">30%</span></span>
+              <input type="range" id="vol-music" min="0" max="200" value="30" style="width:100%">
+            </label>
+          </div>
+          <div class="row" style="margin-top:10px">
+            <input type="file" id="studio-music-file" accept="audio/*" hidden>
+            <button id="btn-studio-music-up" style="background:#16a34a; color:#fff; border:0; padding:8px 14px; border-radius:6px">⬆ Carica musica</button>
+            <button id="btn-studio-music-del" style="background:#7a2020; color:#fff; border:0; padding:8px 14px; border-radius:6px">🗑 Elimina</button>
+            <button id="btn-studio-mix" style="background:linear-gradient(135deg,#7c3aed,#2563eb); color:#fff; border:0; padding:8px 18px; border-radius:6px; font-weight:600; margin-left:auto">🎵 Applica mix finale</button>
+          </div>
+        </div>
+      </div>
+
+        <!-- === RENDER (spostato da Apply) === -->
+<div class="stage-header">
+          <h2>Render e montaggio finale</h2>
+        </div>
+        <div class="muted small" style="margin-bottom:12px">
+          Sequenza finale del processo: renderizza il video, monta la voce registrata, poi aggiorna i sottotitoli se hai modificato i testi.
+
+    <div style="display:none"><div class="stage-header">
+          <h2><span class="step-num">4</span> Script voce per scena</h2>
+          <span class="muted small" id="voice-summary">in attesa</span>
+        </div>
+        <div class="muted small" style="margin-bottom:10px">
+          Correggi il testo di ogni scena, poi registra la voce leggendolo. Il video finale userà esattamente quello che leggi.
+        </div>
+        <div id="voice-grid" class="voice-grid">
+          <div class="empty">Nessun EDL caricato. Genera prima il montaggio.</div></div>
+        </div>
+
+        <div class="divider"></div>
+
+            </div>
+
+        <div class="final-actions">
+          <button id="btn-render" class="btn primary step-btn">
+            <span class="step-num">5</span> 🎞 Renderizza video
+          </button>
+          <button id="btn-assemble" class="btn primary step-btn" disabled>
+            <span class="step-num">6</span> 🎬 Monta voce sul video
+          </button>
+          <button id="btn-reburn" class="btn primary step-btn">
+            <span class="step-num">7</span> 🔄 Aggiorna sottotitoli sul video
+          </button>
+        </div>
+        <div class="muted small" id="render-info" style="margin-top:8px;">nessun render</div>
+        <div class="muted small" id="assemble-info" style="margin-top:4px;"></div>
+
+
+        <div id="render-result" class="hidden">
+          <div class="divider"></div>
+          <div class="render-preview">
+            <video id="preview-video" controls playsinline></video>
+            <div class="render-meta">
+              <div><b>File:</b> <span id="render-file"></span></div>
+              <div><b>Dimensione:</b> <span id="render-size"></span></div>
+              <div style="margin-top:10px"><b>Script voce:</b></div>
+              <pre id="render-script" class="voiceover-script"></pre>
+              <div class="render-actions" style="margin-top:10px">
+                <a id="btn-download-mp4" class="btn" download style="width:auto; padding:8px 14px; text-decoration:none; display:inline-block;">⬇ Scarica MP4</a>
+                <a id="btn-download-srt" class="btn" download style="width:auto; padding:8px 14px; text-decoration:none; display:inline-block; margin-left:8px;">⬇ Scarica SRT</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+    </div>
+
+    <div id="mode-storage" class="mode-panel hidden">
+      <div class="stage-header">
+        <h2>Gestione spazio</h2>
+        <span class="muted small" id="storage-info">carico…</span>
+      </div>
+
+      <!-- Riepilogo disco -->
+      <div class="storage-disk">
+        <div class="storage-disk-bar">
+          <div class="storage-disk-fill" id="disk-fill"></div>
+        </div>
+        <div class="storage-disk-info">
+          <span><b id="disk-used">0 GB</b> usati</span>
+          <span><b id="disk-free">0 GB</b> liberi</span>
+          <span><b id="disk-total">0 GB</b> totali</span>
+        </div>
+      </div>
+
+      <!-- Cleanup rapido -->
+      <div class="stage-header" style="margin-top:24px">
+        <h3>Cleanup rapido</h3>
+      </div>
+      <div class="muted small" style="margin-bottom:10px">
+        Queste cartelle contengono file temporanei rigenerabili — pulirle è sempre sicuro.
+      </div>
+      <div id="quick-clean" class="quick-clean-grid">
+        <div class="empty">carico…</div>
+      </div>
+
+      <!-- Categorie -->
+      <div class="stage-header" style="margin-top:24px">
+        <h3>Occupazione per categoria</h3>
+      </div>
+      <div id="storage-categories" class="storage-cats">
+        <div class="empty">carico…</div>
+      </div>
+
+      <!-- Render -->
+      <div class="stage-header" style="margin-top:24px">
+        <h3>Render salvati</h3>
+        <div>
+          <button id="btn-render-delete" class="btn danger" style="width:auto; padding:6px 12px; margin:0;">
+            🗑 Elimina selezionati
+          </button>
+        </div>
+      </div>
+      <div class="muted small" style="margin-bottom:8px">
+        Seleziona i render da eliminare. Il render base è sempre incluso; voce/SRT/merge sono opzionali.
+      </div>
+      <div class="render-delete-options">
+        <label><input type="checkbox" id="del-voice" checked> includi file voce</label>
+        <label><input type="checkbox" id="del-srt" checked> includi SRT e script</label>
+        <label><input type="checkbox" id="del-merged"> includi merge persistente (⚠ serve per reburn)</label>
+      </div>
+      <div id="renders-list" class="renders-list">
+        <div class="empty">carico…</div>
+      </div>
+    </div>
+    </section>
+
+
+    <aside class="inspector" id="inspector" style="display:none">
+      <h3>Inspector</h3>
+      <div id="inspector-body">
+        <p class="muted">Seleziona un profilo dalla sidebar per vederne i dettagli.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="workbar" id="workbar">
+    <div class="worker" id="worker" data-state="idle">
+      <svg viewBox="0 0 70 60" width="56" height="48" aria-hidden="true">
+        <!-- Coda -->
+        <path d="M 14 32 L 2 26 L 4 36 L 14 38 Z" fill="currentColor"/>
+        <!-- Corpo + collo + testa superiore (silhouette unica) -->
+        <path d="
+          M 14 22
+          L 36 22
+          L 38 10
+          L 42 8
+          L 60 8
+          Q 66 8, 66 14
+          L 66 16
+          Q 66 18, 64 18
+          L 46 18
+          L 44 22
+          L 44 40
+          L 14 40
+          Z
+        " fill="currentColor"/>
+        <!-- Occhio -->
+        <circle cx="56" cy="13" r="1.8" fill="#1c1c1f"/>
+        <!-- Mascella inferiore (animata) -->
+        <path class="dino-jaw" d="M 44 18 L 62 18 L 62 24 L 46 24 Z" fill="currentColor"/>
+        <!-- Braccino -->
+        <path d="M 40 26 L 48 26 L 48 30 L 42 30 Z" fill="currentColor"/>
+        <!-- Zampa A -->
+        <rect class="dino-leg-a" x="18" y="40" width="6" height="16" rx="2" fill="currentColor"/>
+        <!-- Zampa B -->
+        <rect class="dino-leg-b" x="30" y="40" width="6" height="16" rx="2" fill="currentColor"/>
+      </svg>
+    </div>
+    <div class="workbar-body">
+      <div class="workbar-line">
+        <span id="workbar-label" class="wb-label">nessun lavoro in corso</span>
+        <span id="workbar-pct" class="wb-pct">—</span>
+      </div>
+      <div class="progress"><div id="progress-fill" class="progress-fill"></div></div>
+    </div>
+    <button id="btn-log-toggle" class="wb-btn" type="button">Log</button>
+    <div id="log-panel" class="log-panel hidden">
+      <div class="log-header">Console <button id="log-close" class="wb-btn">✕</button></div>
+      <pre id="log-body"></pre>
+    </div>
+  </footer>
+
+  <script src="/static/app_v37.js?v=1790118039"></script>
+
+  <!-- TAB-SWITCHER-INLINE -->
+  <script>
+  (function() {
+    function bind() {
+      var tabs = document.querySelectorAll('.mode-tab');
+      console.log('[INLINE] Tab trovati:', tabs.length);
+      tabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+          var mode = tab.dataset.mode;
+          console.log('[INLINE] Click su:', mode);
+
+          // Active state
+          document.querySelectorAll('.mode-tab').forEach(function(t) {
+            t.classList.remove('active');
+          });
+          tab.classList.add('active');
+
+          // Mostra/nascondi pannelli
+          ['learn', 'apply', 'storage'].forEach(function(m) {
+            var el = document.getElementById('mode-' + m);
+            if (!el) {
+              console.warn('[INLINE] manca mode-' + m);
+              return;
+            }
+            if (m === mode) {
+              el.classList.remove('hidden');
+              console.log('[INLINE] mostrato mode-' + m);
+            } else {
+              el.classList.add('hidden');
+            }
+          });
+
+          // Azioni
+          if (mode === 'apply') {
+            if (typeof window.loadRawList === 'function') window.loadRawList();
+            if (typeof window.loadApplyProfiles === 'function') window.loadApplyProfiles();
+          } else if (mode === 'storage') {
+            if (typeof window.loadStorageSummary === 'function') window.loadStorageSummary();
+            else console.warn('[INLINE] loadStorageSummary non disponibile');
+            if (typeof window.loadRenders === 'function') window.loadRenders();
+            else console.warn('[INLINE] loadRenders non disponibile');
+          }
+        });
+      });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', bind);
+    } else {
+      bind();
+    }
+  })();
+  </script>
+  <!-- /TAB-SWITCHER-INLINE -->
+
+</body>
+</html>

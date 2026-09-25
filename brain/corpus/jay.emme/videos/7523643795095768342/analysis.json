@@ -1,0 +1,4197 @@
+{
+  "video_id": "7523643795095768342",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7523643795095768342",
+    "ref_id": "ref_82_7523643795095768342",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7523643795095768342",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 53,
+  "total_dur": 105.77,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6,
+      "center": 0.8,
+      "role": "person_eating",
+      "subject": "uomo mangia panino",
+      "description": "L'uomo sta mangiando un piccolo panino con cetriolini, con un vassoio di cibo davanti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Giorno 4 il mio viaggio in texa sarà"
+    },
+    {
+      "idx": 1,
+      "start": 1.6,
+      "end": 3.167,
+      "dur": 1.567,
+      "center": 2.383,
+      "role": "food_detail",
+      "subject": "carne affumicata",
+      "description": "Un pezzo di carne affumicata è tenuto in primo piano, con il vassoio di cibo sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "scoperta di migliori barbecue."
+    },
+    {
+      "idx": 2,
+      "start": 3.167,
+      "end": 4.633,
+      "dur": 1.467,
+      "center": 3.9,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "L'uomo ha un'espressione sorpresa o esagerata mentre parla, con uno sfondo scuro.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Che sogno è mai questo? Sì"
+    },
+    {
+      "idx": 3,
+      "start": 4.633,
+      "end": 6.267,
+      "dur": 1.633,
+      "center": 5.45,
+      "role": "drink_detail",
+      "subject": "uomo beve caffè",
+      "description": "L'uomo beve da una tazza bianca di carta con uno sfondo di grattacieli e cielo nuvoloso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ragazzi, un qualche mese di ritardo ma"
+    },
+    {
+      "idx": 4,
+      "start": 6.267,
+      "end": 8.633,
+      "dur": 2.367,
+      "center": 7.45,
+      "role": "other",
+      "subject": "uomo in palestra",
+      "description": "L'uomo si mostra in palestra, flettendo i muscoli, con dei manubri in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "continuiamo questa serie perché questa giornata dovo per forza"
+    },
+    {
+      "idx": 5,
+      "start": 8.633,
+      "end": 10.667,
+      "dur": 2.033,
+      "center": 9.65,
+      "role": "other",
+      "subject": "uomo in palestra",
+      "description": "Un uomo si scatta un selfie allo specchio in palestra, con pesi in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "raccontarvela. Giornata tecnizzata con un allerramento"
+    },
+    {
+      "idx": 6,
+      "start": 10.667,
+      "end": 12.267,
+      "dur": 1.6,
+      "center": 11.467,
+      "role": "drink_detail",
+      "subject": "uomo con tazza",
+      "description": "Un uomo è sdraiato a letto e tiene in mano una tazza bianca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "nella palestra dell 'hotel e un caffè."
+    },
+    {
+      "idx": 7,
+      "start": 12.267,
+      "end": 14.167,
+      "dur": 1.9,
+      "center": 13.217,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con cappellino e maglietta nera parla alla telecamera all'aperto.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "E oggi si gira un po' osti."
+    },
+    {
+      "idx": 8,
+      "start": 14.167,
+      "end": 16.2,
+      "dur": 2.033,
+      "center": 15.183,
+      "role": "venue_exterior",
+      "subject": "grattacieli in città",
+      "description": "Un'inquadratura dal basso mostra alti grattacieli moderni sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Fatto un giro nella città visitando il Texas"
+    },
+    {
+      "idx": 9,
+      "start": 16.2,
+      "end": 17.8,
+      "dur": 1.6,
+      "center": 17.0,
+      "role": "venue_exterior",
+      "subject": "edificio storico cupola",
+      "description": "Un grande edificio storico con una cupola è visibile tra gli alberi.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Capitol, sarebbe il Campidoglio."
+    },
+    {
+      "idx": 10,
+      "start": 17.8,
+      "end": 20.8,
+      "dur": 3.0,
+      "center": 19.3,
+      "role": "venue_interior_wide",
+      "subject": "orchestra in cupola",
+      "description": "Un'orchestra suona al centro di una grande sala circolare con balconate.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": ""
+    },
+    {
+      "idx": 11,
+      "start": 20.8,
+      "end": 23.067,
+      "dur": 2.267,
+      "center": 21.933,
+      "role": "venue_interior_wide",
+      "subject": "orchestra e pubblico",
+      "description": "L'orchestra è al centro della sala, con persone che osservano dalle balconate e dal piano terra.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "E"
+    },
+    {
+      "idx": 12,
+      "start": 23.067,
+      "end": 26.933,
+      "dur": 3.867,
+      "center": 25.0,
+      "role": "venue_interior_wide",
+      "subject": "interno cupola imponente",
+      "description": "La ripresa dal basso enfatizza l'altezza e la grandezza della cupola con le sue balconate.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "devo dire che è un edificio piuttosto imponente, essendo il più grande Campidoglio di tutti gli Stati"
+    },
+    {
+      "idx": 13,
+      "start": 26.933,
+      "end": 27.667,
+      "dur": 0.733,
+      "center": 27.3,
+      "role": "venue_interior_wide",
+      "subject": "orchestra e persone",
+      "description": "Una vista dall'alto mostra l'orchestra e le persone che si muovono sui vari livelli della struttura.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Uniti. E dopo"
+    },
+    {
+      "idx": 14,
+      "start": 27.667,
+      "end": 29.233,
+      "dur": 1.567,
+      "center": 28.45,
+      "role": "venue_exterior",
+      "subject": "insegna Franklin Barbecue",
+      "description": "Un'insegna nera con la scritta 'Franklin Barbecue' in bianco è appesa all'esterno di un edificio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "di che i ragazzi arrivato all 'oraggio del pranzo"
+    },
+    {
+      "idx": 15,
+      "start": 29.233,
+      "end": 31.2,
+      "dur": 1.967,
+      "center": 30.217,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante affollato",
+      "description": "L'interno di un locale con persone sedute ai tavoli e un carrello di servizio in primo piano.",
+      "composition": "wide",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e quindi dovuto provare semplicemente quello che"
+    },
+    {
+      "idx": 16,
+      "start": 31.2,
+      "end": 34.2,
+      "dur": 3.0,
+      "center": 32.7,
+      "role": "food_plated",
+      "subject": "piatto barbecue misto",
+      "description": "Un piatto con carne affumicata, salsicce, cetriolini e cipolle affettate.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "è probabilmente il miglior barbecue di tutto il mondo. O almeno sicuramente"
+    },
+    {
+      "idx": 17,
+      "start": 34.2,
+      "end": 35.767,
+      "dur": 1.567,
+      "center": 34.983,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Un ragazzo con un cappellino rosso tiene un pezzo di carne con una forchetta, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "uno dei più famosi, ovvero Franklin"
+    },
+    {
+      "idx": 18,
+      "start": 35.767,
+      "end": 37.767,
+      "dur": 2.0,
+      "center": 36.767,
+      "role": "food_detail",
+      "subject": "pezzo carne affumicata",
+      "description": "Un primo piano di un pezzo di carne affumicata tenuto tra le dita, con il ragazzo sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Barbecue. Dove stranamente non c 'era fila ma"
+    },
+    {
+      "idx": 19,
+      "start": 37.767,
+      "end": 39.6,
+      "dur": 1.833,
+      "center": 38.683,
+      "role": "person_eating",
+      "subject": "ragazzo assaggia carne",
+      "description": "Il ragazzo sta per mangiare un pezzo di carne dalla forchetta, con il piatto di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "avevano già finito diversi pezzi. Ma il nostro"
+    },
+    {
+      "idx": 20,
+      "start": 39.6,
+      "end": 40.867,
+      "dur": 1.267,
+      "center": 40.233,
+      "role": "person_eating",
+      "subject": "uomo con brisket",
+      "description": "Un uomo tiene in mano un pezzo di carne affumicata, il brisket, con un cappellino rosso e una maglietta dei Chicago Bulls.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "briscate e le nostre due"
+    },
+    {
+      "idx": 21,
+      "start": 40.867,
+      "end": 42.433,
+      "dur": 1.567,
+      "center": 41.65,
+      "role": "person_eating",
+      "subject": "uomo con salsiccia",
+      "description": "L'uomo tiene in mano una salsiccia con una forchetta, pronto a mangiarla.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "salsicce ce l 'è siamo portate a casa."
+    },
+    {
+      "idx": 22,
+      "start": 42.433,
+      "end": 44.767,
+      "dur": 2.333,
+      "center": 43.6,
+      "role": "person_eating",
+      "subject": "uomo mangia salsiccia",
+      "description": "L'uomo sta mangiando un pezzo di salsiccia dalla forchetta, con la bocca leggermente aperta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Briscate che ragazzi neanche ve lo sto a dire quanto effettivamente"
+    },
+    {
+      "idx": 23,
+      "start": 44.767,
+      "end": 46.8,
+      "dur": 2.033,
+      "center": 45.783,
+      "role": "person_eating",
+      "subject": "uomo con coleslaw",
+      "description": "L'uomo tiene in mano una piccola ciotola di coleslaw, guardando verso la telecamera.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "si scioglieva in bocca ed era morbido. E anche"
+    },
+    {
+      "idx": 24,
+      "start": 46.8,
+      "end": 49.2,
+      "dur": 2.4,
+      "center": 48.0,
+      "role": "person_eating",
+      "subject": "uomo mangia panino",
+      "description": "L'uomo sta addentando un piccolo panino, tenendolo con entrambe le mani.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "le due salsicce sia normali che concedere alla peglie erano"
+    },
+    {
+      "idx": 25,
+      "start": 49.2,
+      "end": 51.433,
+      "dur": 2.233,
+      "center": 50.317,
+      "role": "person_eating",
+      "subject": "ragazzo mangia sandwich",
+      "description": "Il ragazzo sta mangiando un piccolo sandwich con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "piuttosto buoni. Il causo che era bella dolce come piace a me."
+    },
+    {
+      "idx": 26,
+      "start": 51.433,
+      "end": 53.033,
+      "dur": 1.6,
+      "center": 52.233,
+      "role": "other",
+      "subject": "ragazzo tiene peperoncino",
+      "description": "Il ragazzo tiene in mano un peperoncino verde con un'espressione di sfida.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Questo non è il coraggio di mangiarlo."
+    },
+    {
+      "idx": 27,
+      "start": 53.033,
+      "end": 55.6,
+      "dur": 2.567,
+      "center": 54.317,
+      "role": "person_talking",
+      "subject": "ragazzo parla",
+      "description": "Il ragazzo sta parlando direttamente alla telecamera con un'espressione neutra.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Il migliore briscate di tutta la mia vita."
+    },
+    {
+      "idx": 28,
+      "start": 55.6,
+      "end": 57.567,
+      "dur": 1.967,
+      "center": 56.583,
+      "role": "other",
+      "subject": "autostrada con skyline",
+      "description": "Un'ampia veduta di un'autostrada trafficata con uno skyline di grattacieli sullo sfondo.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "E dopo aver fatto questa esperienza clamorosa ho continuato"
+    },
+    {
+      "idx": 29,
+      "start": 57.567,
+      "end": 59.233,
+      "dur": 1.667,
+      "center": 58.4,
+      "role": "venue_interior_detail",
+      "subject": "ingresso Gold's Gym",
+      "description": "L'ingresso di una palestra Gold's Gym con il logo giallo in evidenza.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "il mio giro per Ostin imbattendomi"
+    },
+    {
+      "idx": 30,
+      "start": 59.233,
+      "end": 61.6,
+      "dur": 2.367,
+      "center": 60.417,
+      "role": "venue_interior_wide",
+      "subject": "sala buia attrezzi",
+      "description": "La sala buia con attrezzi da palestra e un grande schermo che proietta 'Batman' sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "in una golgime e quindi semplicemente ho fatto un giro all 'interno."
+    },
+    {
+      "idx": 31,
+      "start": 61.6,
+      "end": 63.1,
+      "dur": 1.5,
+      "center": 62.35,
+      "role": "person_talking",
+      "subject": "ragazzo cappellino rosso",
+      "description": "Il ragazzo con il cappellino rosso e la maglietta scura che parla, con un'espressione sorpresa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Che sogno è mai questo?"
+    },
+    {
+      "idx": 32,
+      "start": 63.1,
+      "end": 64.467,
+      "dur": 1.367,
+      "center": 63.783,
+      "role": "person_talking",
+      "subject": "ragazzo cappellino rosso",
+      "description": "Il ragazzo con il cappellino rosso che gesticola leggermente mentre parla.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Cardio?"
+    },
+    {
+      "idx": 33,
+      "start": 64.467,
+      "end": 65.5,
+      "dur": 1.033,
+      "center": 64.983,
+      "role": "person_talking",
+      "subject": "ragazzo cappellino rosso",
+      "description": "Il ragazzo che parla con lo schermo di 'Batman' visibile sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Al cinema."
+    },
+    {
+      "idx": 34,
+      "start": 65.5,
+      "end": 66.833,
+      "dur": 1.333,
+      "center": 66.167,
+      "role": "person_talking",
+      "subject": "ragazzo cappellino rosso",
+      "description": "Il ragazzo con il cappellino rosso che continua a parlare, con un'espressione più rilassata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Solo nella golgime. Ho quindi"
+    },
+    {
+      "idx": 35,
+      "start": 66.833,
+      "end": 68.8,
+      "dur": 1.967,
+      "center": 67.817,
+      "role": "venue_interior_wide",
+      "subject": "palestra Gold's Gym",
+      "description": "La vasta sala pesi con molteplici attrezzi e persone che si allenano.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "poi dato un 'occhiata a tutti i macchinari della golgime."
+    },
+    {
+      "idx": 36,
+      "start": 68.8,
+      "end": 70.133,
+      "dur": 1.333,
+      "center": 69.467,
+      "role": "venue_interior_detail",
+      "subject": "attrezzi palestra, persone",
+      "description": "Una sezione della palestra con attrezzi per pesi e persone che si allenano in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Ho trovato veramente delle"
+    },
+    {
+      "idx": 37,
+      "start": 70.133,
+      "end": 70.867,
+      "dur": 0.733,
+      "center": 70.5,
+      "role": "venue_interior_detail",
+      "subject": "attrezzi palestra, uomo",
+      "description": "Un uomo che cammina tra gli attrezzi rossi della palestra, con una scala sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "chicche molto"
+    },
+    {
+      "idx": 38,
+      "start": 70.867,
+      "end": 72.833,
+      "dur": 1.967,
+      "center": 71.85,
+      "role": "venue_interior_wide",
+      "subject": "palestra, attrezzi, persone",
+      "description": "Una vista ampia della palestra dall'alto, con molti attrezzi rossi e persone sparse.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "interessanti. E mi sono perso a pensare come sarebbe"
+    },
+    {
+      "idx": 39,
+      "start": 72.833,
+      "end": 74.7,
+      "dur": 1.867,
+      "center": 73.767,
+      "role": "other",
+      "subject": "skyline città, fiume",
+      "description": "Uno skyline moderno di una città con grattacieli e un fiume in primo piano sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "effettivamente allenarsi una festa del genere."
+    },
+    {
+      "idx": 40,
+      "start": 74.7,
+      "end": 76.967,
+      "dur": 2.267,
+      "center": 75.833,
+      "role": "person_talking",
+      "subject": "ragazzo beve Prime",
+      "description": "Il ragazzo beve da una bottiglia di Prime con un grattacielo sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Prime del giorno. Molto"
+    },
+    {
+      "idx": 41,
+      "start": 76.967,
+      "end": 77.8,
+      "dur": 0.833,
+      "center": 77.383,
+      "role": "person_talking",
+      "subject": "ragazzo mostra Prime",
+      "description": "Il ragazzo tiene in mano la bottiglia di Prime e parla, con la scritta 'BUONA' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "buona. Dopodiché"
+    },
+    {
+      "idx": 42,
+      "start": 77.8,
+      "end": 81.333,
+      "dur": 3.533,
+      "center": 79.567,
+      "role": "other",
+      "subject": "paesaggio sfocato",
+      "description": "Un paesaggio sfocato con erba verde e la scritta 'PIPISTRELLI' in sovrimpressione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "mi sono diretto verso il ponte di Pipistrelli per ovviamente vedere i Pipistrelli."
+    },
+    {
+      "idx": 43,
+      "start": 81.333,
+      "end": 82.967,
+      "dur": 1.633,
+      "center": 82.15,
+      "role": "other",
+      "subject": "tramonto sul fiume",
+      "description": "Un tramonto arancione sul fiume con un ponte in lontananza e la scritta 'LORO' in sovrimpressione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ma al posto loro ho trovato invece questo"
+    },
+    {
+      "idx": 44,
+      "start": 82.967,
+      "end": 89.4,
+      "dur": 6.433,
+      "center": 86.183,
+      "role": "other",
+      "subject": "fiume e grattacielo",
+      "description": "Un'ampia vista di un fiume con un ponte e un grattacielo moderno sulla destra.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "bellissimo tramonto. E devo dire che comunque non mi posso lamentare. Ragazzi il Texas mi stupisceavesse sempre di più. Dopodiché Barrettina"
+    },
+    {
+      "idx": 45,
+      "start": 89.4,
+      "end": 91.233,
+      "dur": 1.833,
+      "center": 90.317,
+      "role": "person_eating",
+      "subject": "ragazzo mangia barretta",
+      "description": "Un ragazzo con un cappellino rosso mangia una barretta, con un ponte sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Porteica convista e di infine siamo"
+    },
+    {
+      "idx": 46,
+      "start": 91.233,
+      "end": 93.733,
+      "dur": 2.5,
+      "center": 92.483,
+      "role": "venue_interior_wide",
+      "subject": "piscina e persone",
+      "description": "Una piscina illuminata di notte con persone sullo sfondo e luci viola.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "arrivati alla cena. Che ho in realtà fatto in bucandomi a"
+    },
+    {
+      "idx": 47,
+      "start": 93.733,
+      "end": 96.667,
+      "dur": 2.933,
+      "center": 95.2,
+      "role": "food_detail",
+      "subject": "buffet con verdure",
+      "description": "Vassoi di cibo caldo, probabilmente verdure, in un buffet.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "questo parti sul rooftop di un hotel qui in Ostin. E quindi preso un"
+    },
+    {
+      "idx": 48,
+      "start": 96.667,
+      "end": 99.7,
+      "dur": 3.033,
+      "center": 98.183,
+      "role": "food_plated",
+      "subject": "tacos con carne",
+      "description": "Due tacos con carne e verdure su un piatto bianco, tenuto da una mano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "po' di tutto da questi tacos, questi gamberetti, questo roast beef di carne"
+    },
+    {
+      "idx": 49,
+      "start": 99.7,
+      "end": 100.433,
+      "dur": 0.733,
+      "center": 100.067,
+      "role": "venue_interior_detail",
+      "subject": "cucina all'aperto",
+      "description": "Una postazione di cucina all'aperto con chef e piatti impilati.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che devo dire che mi"
+    },
+    {
+      "idx": 50,
+      "start": 100.433,
+      "end": 101.4,
+      "dur": 0.967,
+      "center": 100.917,
+      "role": "food_plated",
+      "subject": "piatto carne mangiata",
+      "description": "Il piatto quasi vuoto con avanzi di carne e salsa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sono goduto alla grande"
+    },
+    {
+      "idx": 51,
+      "start": 101.4,
+      "end": 102.067,
+      "dur": 0.667,
+      "center": 101.733,
+      "role": "food_plated",
+      "subject": "piatto carne mangiata",
+      "description": "Il piatto con avanzi di carne e salsa, con una forchetta e un coltello.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "in questa vista"
+    },
+    {
+      "idx": 52,
+      "start": 102.067,
+      "end": 105.767,
+      "dur": 3.7,
+      "center": 103.917,
+      "role": "venue_exterior",
+      "subject": "skyline notturno città",
+      "description": "Lo skyline di una città di notte con molti edifici illuminati.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "sulla città. I skyline americani sono davvero clavo. Rosesi."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo sta mangiando un piccolo panino con cetriolini, con un vassoio di cibo davanti.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "carne affumicata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un pezzo di carne affumicata è tenuto in primo piano, con il vassoio di cibo sullo sfondo.",
+      "shot_idx": 1,
+      "start": 1.6,
+      "end": 3.167,
+      "dur": 1.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo che parla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'uomo ha un'espressione sorpresa o esagerata mentre parla, con uno sfondo scuro.",
+      "shot_idx": 2,
+      "start": 3.167,
+      "end": 4.633,
+      "dur": 1.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "drink_detail",
+      "soggetto": "uomo beve caffè",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo beve da una tazza bianca di carta con uno sfondo di grattacieli e cielo nuvoloso.",
+      "shot_idx": 3,
+      "start": 4.633,
+      "end": 6.267,
+      "dur": 1.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "uomo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo si mostra in palestra, flettendo i muscoli, con dei manubri in primo piano.",
+      "shot_idx": 4,
+      "start": 6.267,
+      "end": 8.633,
+      "dur": 2.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "uomo in palestra",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo si scatta un selfie allo specchio in palestra, con pesi in primo piano.",
+      "shot_idx": 5,
+      "start": 8.633,
+      "end": 10.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "uomo con tazza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo è sdraiato a letto e tiene in mano una tazza bianca.",
+      "shot_idx": 6,
+      "start": 10.667,
+      "end": 12.267,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo che parla",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo con cappellino e maglietta nera parla alla telecamera all'aperto.",
+      "shot_idx": 7,
+      "start": 12.267,
+      "end": 14.167,
+      "dur": 1.9
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "grattacieli in città",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'inquadratura dal basso mostra alti grattacieli moderni sotto un cielo azzurro.",
+      "shot_idx": 8,
+      "start": 14.167,
+      "end": 16.2,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio storico cupola",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande edificio storico con una cupola è visibile tra gli alberi.",
+      "shot_idx": 9,
+      "start": 16.2,
+      "end": 17.8,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "orchestra in cupola",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un'orchestra suona al centro di una grande sala circolare con balconate.",
+      "shot_idx": 10,
+      "start": 17.8,
+      "end": 20.8,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "orchestra e pubblico",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'orchestra è al centro della sala, con persone che osservano dalle balconate e dal piano terra.",
+      "shot_idx": 11,
+      "start": 20.8,
+      "end": 23.067,
+      "dur": 2.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno cupola imponente",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La ripresa dal basso enfatizza l'altezza e la grandezza della cupola con le sue balconate.",
+      "shot_idx": 12,
+      "start": 23.067,
+      "end": 26.933,
+      "dur": 3.867
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "orchestra e persone",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una vista dall'alto mostra l'orchestra e le persone che si muovono sui vari livelli della struttura.",
+      "shot_idx": 13,
+      "start": 26.933,
+      "end": 27.667,
+      "dur": 0.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Franklin Barbecue",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'insegna nera con la scritta 'Franklin Barbecue' in bianco è appesa all'esterno di un edificio.",
+      "shot_idx": 14,
+      "start": 27.667,
+      "end": 29.233,
+      "dur": 1.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante affollato",
+      "composizione": "wide",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'interno di un locale con persone sedute ai tavoli e un carrello di servizio in primo piano.",
+      "shot_idx": 15,
+      "start": 29.233,
+      "end": 31.2,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto barbecue misto",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un piatto con carne affumicata, salsicce, cetriolini e cipolle affettate.",
+      "shot_idx": 16,
+      "start": 31.2,
+      "end": 34.2,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso tiene un pezzo di carne con una forchetta, con un'espressione sorpresa.",
+      "shot_idx": 17,
+      "start": 34.2,
+      "end": 35.767,
+      "dur": 1.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pezzo carne affumicata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un primo piano di un pezzo di carne affumicata tenuto tra le dita, con il ragazzo sfocato sullo sfondo.",
+      "shot_idx": 18,
+      "start": 35.767,
+      "end": 37.767,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo assaggia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un pezzo di carne dalla forchetta, con il piatto di cibo in primo piano.",
+      "shot_idx": 19,
+      "start": 37.767,
+      "end": 39.6,
+      "dur": 1.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con brisket",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo tiene in mano un pezzo di carne affumicata, il brisket, con un cappellino rosso e una maglietta dei Chicago Bulls.",
+      "shot_idx": 20,
+      "start": 39.6,
+      "end": 40.867,
+      "dur": 1.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con salsiccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo tiene in mano una salsiccia con una forchetta, pronto a mangiarla.",
+      "shot_idx": 21,
+      "start": 40.867,
+      "end": 42.433,
+      "dur": 1.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia salsiccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo sta mangiando un pezzo di salsiccia dalla forchetta, con la bocca leggermente aperta.",
+      "shot_idx": 22,
+      "start": 42.433,
+      "end": 44.767,
+      "dur": 2.333
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con coleslaw",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo tiene in mano una piccola ciotola di coleslaw, guardando verso la telecamera.",
+      "shot_idx": 23,
+      "start": 44.767,
+      "end": 46.8,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo sta addentando un piccolo panino, tenendolo con entrambe le mani.",
+      "shot_idx": 24,
+      "start": 46.8,
+      "end": 49.2,
+      "dur": 2.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia sandwich",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un piccolo sandwich con un'espressione divertita.",
+      "shot_idx": 25,
+      "start": 49.2,
+      "end": 51.433,
+      "dur": 2.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo tiene peperoncino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un peperoncino verde con un'espressione di sfida.",
+      "shot_idx": 26,
+      "start": 51.433,
+      "end": 53.033,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo parla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta parlando direttamente alla telecamera con un'espressione neutra.",
+      "shot_idx": 27,
+      "start": 53.033,
+      "end": 55.6,
+      "dur": 2.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "autostrada con skyline",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'ampia veduta di un'autostrada trafficata con uno skyline di grattacieli sullo sfondo.",
+      "shot_idx": 28,
+      "start": 55.6,
+      "end": 57.567,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "ingresso Gold's Gym",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'ingresso di una palestra Gold's Gym con il logo giallo in evidenza.",
+      "shot_idx": 29,
+      "start": 57.567,
+      "end": 59.233,
+      "dur": 1.667
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "sala buia attrezzi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La sala buia con attrezzi da palestra e un grande schermo che proietta 'Batman' sullo sfondo.",
+      "shot_idx": 30,
+      "start": 59.233,
+      "end": 61.6,
+      "dur": 2.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cappellino rosso",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso e la maglietta scura che parla, con un'espressione sorpresa.",
+      "shot_idx": 31,
+      "start": 61.6,
+      "end": 63.1,
+      "dur": 1.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cappellino rosso",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso che gesticola leggermente mentre parla.",
+      "shot_idx": 32,
+      "start": 63.1,
+      "end": 64.467,
+      "dur": 1.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cappellino rosso",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo che parla con lo schermo di 'Batman' visibile sullo sfondo.",
+      "shot_idx": 33,
+      "start": 64.467,
+      "end": 65.5,
+      "dur": 1.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cappellino rosso",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso che continua a parlare, con un'espressione più rilassata.",
+      "shot_idx": 34,
+      "start": 65.5,
+      "end": 66.833,
+      "dur": 1.333
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "palestra Gold's Gym",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La vasta sala pesi con molteplici attrezzi e persone che si allenano.",
+      "shot_idx": 35,
+      "start": 66.833,
+      "end": 68.8,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "attrezzi palestra, persone",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una sezione della palestra con attrezzi per pesi e persone che si allenano in primo piano.",
+      "shot_idx": 36,
+      "start": 68.8,
+      "end": 70.133,
+      "dur": 1.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "attrezzi palestra, uomo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un uomo che cammina tra gli attrezzi rossi della palestra, con una scala sullo sfondo.",
+      "shot_idx": 37,
+      "start": 70.133,
+      "end": 70.867,
+      "dur": 0.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "palestra, attrezzi, persone",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una vista ampia della palestra dall'alto, con molti attrezzi rossi e persone sparse.",
+      "shot_idx": 38,
+      "start": 70.867,
+      "end": 72.833,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "skyline città, fiume",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Uno skyline moderno di una città con grattacieli e un fiume in primo piano sotto un cielo azzurro.",
+      "shot_idx": 39,
+      "start": 72.833,
+      "end": 74.7,
+      "dur": 1.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo beve Prime",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo beve da una bottiglia di Prime con un grattacielo sullo sfondo.",
+      "shot_idx": 40,
+      "start": 74.7,
+      "end": 76.967,
+      "dur": 2.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra Prime",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo tiene in mano la bottiglia di Prime e parla, con la scritta 'BUONA' in sovrimpressione.",
+      "shot_idx": 41,
+      "start": 76.967,
+      "end": 77.8,
+      "dur": 0.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "paesaggio sfocato",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un paesaggio sfocato con erba verde e la scritta 'PIPISTRELLI' in sovrimpressione.",
+      "shot_idx": 42,
+      "start": 77.8,
+      "end": 81.333,
+      "dur": 3.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "tramonto sul fiume",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un tramonto arancione sul fiume con un ponte in lontananza e la scritta 'LORO' in sovrimpressione.",
+      "shot_idx": 43,
+      "start": 81.333,
+      "end": 82.967,
+      "dur": 1.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "fiume e grattacielo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'ampia vista di un fiume con un ponte e un grattacielo moderno sulla destra.",
+      "shot_idx": 44,
+      "start": 82.967,
+      "end": 89.4,
+      "dur": 6.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia barretta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso mangia una barretta, con un ponte sfocato sullo sfondo.",
+      "shot_idx": 45,
+      "start": 89.4,
+      "end": 91.233,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "piscina e persone",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una piscina illuminata di notte con persone sullo sfondo e luci viola.",
+      "shot_idx": 46,
+      "start": 91.233,
+      "end": 93.733,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "buffet con verdure",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Vassoi di cibo caldo, probabilmente verdure, in un buffet.",
+      "shot_idx": 47,
+      "start": 93.733,
+      "end": 96.667,
+      "dur": 2.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "tacos con carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos con carne e verdure su un piatto bianco, tenuto da una mano.",
+      "shot_idx": 48,
+      "start": 96.667,
+      "end": 99.7,
+      "dur": 3.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cucina all'aperto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una postazione di cucina all'aperto con chef e piatti impilati.",
+      "shot_idx": 49,
+      "start": 99.7,
+      "end": 100.433,
+      "dur": 0.733
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne mangiata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto quasi vuoto con avanzi di carne e salsa.",
+      "shot_idx": 50,
+      "start": 100.433,
+      "end": 101.4,
+      "dur": 0.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne mangiata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto con avanzi di carne e salsa, con una forchetta e un coltello.",
+      "shot_idx": 51,
+      "start": 101.4,
+      "end": 102.067,
+      "dur": 0.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "skyline notturno città",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo skyline di una città di notte con molti edifici illuminati.",
+      "shot_idx": 52,
+      "start": 102.067,
+      "end": 105.767,
+      "dur": 3.7
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Giorno 4 il mio viaggio in texa sarà scoperta di migliori barbecue."
+    },
+    {
+      "start": 3.14,
+      "end": 4.12,
+      "text": "Che sogno è mai questo?"
+    },
+    {
+      "start": 4.52,
+      "end": 7.16,
+      "text": "Sì ragazzi, un qualche mese di ritardo ma continuiamo questa serie"
+    },
+    {
+      "start": 7.16,
+      "end": 9.26,
+      "text": "perché questa giornata dovo per forza raccontarvela."
+    },
+    {
+      "start": 9.36,
+      "end": 12.14,
+      "text": "Giornata tecnizzata con un allerramento nella palestra dell'hotel e un caffè."
+    },
+    {
+      "start": 12.26,
+      "end": 13.58,
+      "text": "E oggi si gira un po' osti."
+    },
+    {
+      "start": 14.08,
+      "end": 17.74,
+      "text": "Fatto un giro nella città visitando il Texas Capitol, sarebbe il Campidoglio."
+    },
+    {
+      "start": 22.48,
+      "end": 25.04,
+      "text": "E devo dire che è un edificio piuttosto imponente,"
+    },
+    {
+      "start": 25.16,
+      "end": 27.32,
+      "text": "essendo il più grande Campidoglio di tutti gli Stati Uniti."
+    },
+    {
+      "start": 27.32,
+      "end": 29.36,
+      "text": "E dopo di che i ragazzi arrivato all'oraggio del pranzo"
+    },
+    {
+      "start": 29.36,
+      "end": 31.98,
+      "text": "e quindi dovuto provare semplicemente quello che è probabilmente"
+    },
+    {
+      "start": 31.98,
+      "end": 33.4,
+      "text": "il miglior barbecue di tutto il mondo."
+    },
+    {
+      "start": 33.54,
+      "end": 36.38,
+      "text": "O almeno sicuramente uno dei più famosi, ovvero Franklin Barbecue."
+    },
+    {
+      "start": 36.52,
+      "end": 39.16,
+      "text": "Dove stranamente non c'era fila ma avevano già finito diversi pezzi."
+    },
+    {
+      "start": 39.22,
+      "end": 42.42,
+      "text": "Ma il nostro briscate e le nostre due salsicce ce l'è siamo portate a casa."
+    },
+    {
+      "start": 42.5,
+      "end": 46.54,
+      "text": "Briscate che ragazzi neanche ve lo sto a dire quanto effettivamente si scioglieva in bocca ed era morbido."
+    },
+    {
+      "start": 46.6,
+      "end": 49.66,
+      "text": "E anche le due salsicce sia normali che concedere alla peglie erano piuttosto buoni."
+    },
+    {
+      "start": 49.72,
+      "end": 51.36,
+      "text": "Il causo che era bella dolce come piace a me."
+    },
+    {
+      "start": 51.48,
+      "end": 52.86,
+      "text": "Questo non è il coraggio di mangiarlo."
+    },
+    {
+      "start": 52.86,
+      "end": 55.32,
+      "text": "Il migliore briscate di tutta la mia vita."
+    },
+    {
+      "start": 55.58,
+      "end": 58.54,
+      "text": "E dopo aver fatto questa esperienza clamorosa ho continuato il mio giro per Ostin"
+    },
+    {
+      "start": 58.54,
+      "end": 61.6,
+      "text": "imbattendomi in una golgime e quindi semplicemente ho fatto un giro all'interno."
+    },
+    {
+      "start": 61.78,
+      "end": 63.62,
+      "text": "Che sogno è mai questo? Cardio?"
+    },
+    {
+      "start": 64.34,
+      "end": 66.4,
+      "text": "Al cinema. Solo nella golgime."
+    },
+    {
+      "start": 66.64,
+      "end": 69.02,
+      "text": "Ho quindi poi dato un'occhiata a tutti i macchinari della golgime."
+    },
+    {
+      "start": 69.14,
+      "end": 71.18,
+      "text": "Ho trovato veramente delle chicche molto interessanti."
+    },
+    {
+      "start": 71.3,
+      "end": 74.56,
+      "text": "E mi sono perso a pensare come sarebbe effettivamente allenarsi una festa del genere."
+    },
+    {
+      "start": 74.78,
+      "end": 75.7,
+      "text": "Prime del giorno."
+    },
+    {
+      "start": 76.7,
+      "end": 77.4,
+      "text": "Molto buona."
+    },
+    {
+      "start": 77.66,
+      "end": 79.8,
+      "text": "Dopodiché mi sono diretto verso il ponte di Pipistrelli"
+    },
+    {
+      "start": 79.8,
+      "end": 81.42,
+      "text": "per ovviamente vedere i Pipistrelli."
+    },
+    {
+      "start": 81.42,
+      "end": 84.06,
+      "text": "Ma al posto loro ho trovato invece questo bellissimo tramonto."
+    },
+    {
+      "start": 84.16,
+      "end": 86.08,
+      "text": "E devo dire che comunque non mi posso lamentare."
+    },
+    {
+      "start": 86.22,
+      "end": 88.36,
+      "text": "Ragazzi il Texas mi stupisceavesse sempre di più."
+    },
+    {
+      "start": 88.58,
+      "end": 92.2,
+      "text": "Dopodiché Barrettina Porteica convista e di infine siamo arrivati alla cena."
+    },
+    {
+      "start": 92.32,
+      "end": 96.06,
+      "text": "Che ho in realtà fatto in bucandomi a questo parti sul rooftop di un hotel qui in Ostin."
+    },
+    {
+      "start": 96.12,
+      "end": 98.64,
+      "text": "E quindi preso un po' di tutto da questi tacos, questi gamberetti,"
+    },
+    {
+      "start": 98.72,
+      "end": 102.74,
+      "text": "questo roast beef di carne che devo dire che mi sono goduto alla grande in questa vista sulla città."
+    },
+    {
+      "start": 102.76,
+      "end": 104.72,
+      "text": "I skyline americani sono davvero clavo."
+    },
+    {
+      "start": 105.14,
+      "end": 105.54,
+      "text": "Rosesi."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "word": "Giorno"
+    },
+    {
+      "start": 0.46,
+      "end": 0.64,
+      "word": "4"
+    },
+    {
+      "start": 0.64,
+      "end": 0.82,
+      "word": "il"
+    },
+    {
+      "start": 0.82,
+      "end": 0.88,
+      "word": "mio"
+    },
+    {
+      "start": 0.88,
+      "end": 1.04,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.04,
+      "end": 1.22,
+      "word": "in"
+    },
+    {
+      "start": 1.22,
+      "end": 1.48,
+      "word": "texa"
+    },
+    {
+      "start": 1.48,
+      "end": 1.68,
+      "word": "sarà"
+    },
+    {
+      "start": 1.68,
+      "end": 2.04,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.04,
+      "end": 2.2,
+      "word": "di"
+    },
+    {
+      "start": 2.2,
+      "end": 2.56,
+      "word": "migliori"
+    },
+    {
+      "start": 2.56,
+      "end": 2.9,
+      "word": "barbecue."
+    },
+    {
+      "start": 3.14,
+      "end": 3.24,
+      "word": "Che"
+    },
+    {
+      "start": 3.24,
+      "end": 3.54,
+      "word": "sogno"
+    },
+    {
+      "start": 3.54,
+      "end": 3.68,
+      "word": "è"
+    },
+    {
+      "start": 3.68,
+      "end": 3.74,
+      "word": "mai"
+    },
+    {
+      "start": 3.74,
+      "end": 4.12,
+      "word": "questo?"
+    },
+    {
+      "start": 4.52,
+      "end": 4.68,
+      "word": "Sì"
+    },
+    {
+      "start": 4.68,
+      "end": 5.0,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 5.08,
+      "end": 5.14,
+      "word": "un"
+    },
+    {
+      "start": 5.14,
+      "end": 5.26,
+      "word": "qualche"
+    },
+    {
+      "start": 5.26,
+      "end": 5.48,
+      "word": "mese"
+    },
+    {
+      "start": 5.48,
+      "end": 5.64,
+      "word": "di"
+    },
+    {
+      "start": 5.64,
+      "end": 5.9,
+      "word": "ritardo"
+    },
+    {
+      "start": 5.9,
+      "end": 6.08,
+      "word": "ma"
+    },
+    {
+      "start": 6.08,
+      "end": 6.52,
+      "word": "continuiamo"
+    },
+    {
+      "start": 6.52,
+      "end": 6.84,
+      "word": "questa"
+    },
+    {
+      "start": 6.84,
+      "end": 7.16,
+      "word": "serie"
+    },
+    {
+      "start": 7.16,
+      "end": 7.42,
+      "word": "perché"
+    },
+    {
+      "start": 7.42,
+      "end": 7.66,
+      "word": "questa"
+    },
+    {
+      "start": 7.66,
+      "end": 8.0,
+      "word": "giornata"
+    },
+    {
+      "start": 8.0,
+      "end": 8.24,
+      "word": "dovo"
+    },
+    {
+      "start": 8.24,
+      "end": 8.38,
+      "word": "per"
+    },
+    {
+      "start": 8.38,
+      "end": 8.66,
+      "word": "forza"
+    },
+    {
+      "start": 8.66,
+      "end": 9.26,
+      "word": "raccontarvela."
+    },
+    {
+      "start": 9.36,
+      "end": 9.58,
+      "word": "Giornata"
+    },
+    {
+      "start": 9.58,
+      "end": 9.98,
+      "word": "tecnizzata"
+    },
+    {
+      "start": 9.98,
+      "end": 10.18,
+      "word": "con"
+    },
+    {
+      "start": 10.18,
+      "end": 10.28,
+      "word": "un"
+    },
+    {
+      "start": 10.28,
+      "end": 10.6,
+      "word": "allerramento"
+    },
+    {
+      "start": 10.6,
+      "end": 10.9,
+      "word": "nella"
+    },
+    {
+      "start": 10.9,
+      "end": 11.2,
+      "word": "palestra"
+    },
+    {
+      "start": 11.2,
+      "end": 11.38,
+      "word": "dell"
+    },
+    {
+      "start": 11.38,
+      "end": 11.64,
+      "word": "'hotel"
+    },
+    {
+      "start": 11.64,
+      "end": 11.72,
+      "word": "e"
+    },
+    {
+      "start": 11.72,
+      "end": 11.78,
+      "word": "un"
+    },
+    {
+      "start": 11.78,
+      "end": 12.14,
+      "word": "caffè."
+    },
+    {
+      "start": 12.26,
+      "end": 12.36,
+      "word": "E"
+    },
+    {
+      "start": 12.36,
+      "end": 12.52,
+      "word": "oggi"
+    },
+    {
+      "start": 12.52,
+      "end": 12.8,
+      "word": "si"
+    },
+    {
+      "start": 12.8,
+      "end": 13.0,
+      "word": "gira"
+    },
+    {
+      "start": 13.0,
+      "end": 13.12,
+      "word": "un"
+    },
+    {
+      "start": 13.12,
+      "end": 13.2,
+      "word": "po'"
+    },
+    {
+      "start": 13.28,
+      "end": 13.58,
+      "word": "osti."
+    },
+    {
+      "start": 14.08,
+      "end": 14.38,
+      "word": "Fatto"
+    },
+    {
+      "start": 14.38,
+      "end": 14.5,
+      "word": "un"
+    },
+    {
+      "start": 14.5,
+      "end": 14.78,
+      "word": "giro"
+    },
+    {
+      "start": 14.78,
+      "end": 14.94,
+      "word": "nella"
+    },
+    {
+      "start": 14.94,
+      "end": 15.34,
+      "word": "città"
+    },
+    {
+      "start": 15.34,
+      "end": 15.76,
+      "word": "visitando"
+    },
+    {
+      "start": 15.76,
+      "end": 15.92,
+      "word": "il"
+    },
+    {
+      "start": 15.92,
+      "end": 16.14,
+      "word": "Texas"
+    },
+    {
+      "start": 16.14,
+      "end": 16.64,
+      "word": "Capitol,"
+    },
+    {
+      "start": 16.74,
+      "end": 17.02,
+      "word": "sarebbe"
+    },
+    {
+      "start": 17.02,
+      "end": 17.12,
+      "word": "il"
+    },
+    {
+      "start": 17.12,
+      "end": 17.74,
+      "word": "Campidoglio."
+    },
+    {
+      "start": 22.48,
+      "end": 22.9,
+      "word": "E"
+    },
+    {
+      "start": 22.9,
+      "end": 23.32,
+      "word": "devo"
+    },
+    {
+      "start": 23.32,
+      "end": 23.5,
+      "word": "dire"
+    },
+    {
+      "start": 23.5,
+      "end": 23.64,
+      "word": "che"
+    },
+    {
+      "start": 23.64,
+      "end": 23.7,
+      "word": "è"
+    },
+    {
+      "start": 23.7,
+      "end": 23.8,
+      "word": "un"
+    },
+    {
+      "start": 23.8,
+      "end": 24.18,
+      "word": "edificio"
+    },
+    {
+      "start": 24.18,
+      "end": 24.48,
+      "word": "piuttosto"
+    },
+    {
+      "start": 24.48,
+      "end": 25.04,
+      "word": "imponente,"
+    },
+    {
+      "start": 25.16,
+      "end": 25.4,
+      "word": "essendo"
+    },
+    {
+      "start": 25.4,
+      "end": 25.52,
+      "word": "il"
+    },
+    {
+      "start": 25.52,
+      "end": 25.64,
+      "word": "più"
+    },
+    {
+      "start": 25.64,
+      "end": 25.84,
+      "word": "grande"
+    },
+    {
+      "start": 25.84,
+      "end": 26.38,
+      "word": "Campidoglio"
+    },
+    {
+      "start": 26.38,
+      "end": 26.54,
+      "word": "di"
+    },
+    {
+      "start": 26.54,
+      "end": 26.68,
+      "word": "tutti"
+    },
+    {
+      "start": 26.68,
+      "end": 26.82,
+      "word": "gli"
+    },
+    {
+      "start": 26.82,
+      "end": 27.02,
+      "word": "Stati"
+    },
+    {
+      "start": 27.02,
+      "end": 27.32,
+      "word": "Uniti."
+    },
+    {
+      "start": 27.32,
+      "end": 27.48,
+      "word": "E"
+    },
+    {
+      "start": 27.48,
+      "end": 27.64,
+      "word": "dopo"
+    },
+    {
+      "start": 27.64,
+      "end": 27.78,
+      "word": "di"
+    },
+    {
+      "start": 27.78,
+      "end": 27.88,
+      "word": "che"
+    },
+    {
+      "start": 27.88,
+      "end": 27.98,
+      "word": "i"
+    },
+    {
+      "start": 27.98,
+      "end": 28.18,
+      "word": "ragazzi"
+    },
+    {
+      "start": 28.18,
+      "end": 28.48,
+      "word": "arrivato"
+    },
+    {
+      "start": 28.48,
+      "end": 28.6,
+      "word": "all"
+    },
+    {
+      "start": 28.6,
+      "end": 28.82,
+      "word": "'oraggio"
+    },
+    {
+      "start": 28.82,
+      "end": 29.0,
+      "word": "del"
+    },
+    {
+      "start": 29.0,
+      "end": 29.36,
+      "word": "pranzo"
+    },
+    {
+      "start": 29.36,
+      "end": 29.4,
+      "word": "e"
+    },
+    {
+      "start": 29.4,
+      "end": 29.56,
+      "word": "quindi"
+    },
+    {
+      "start": 29.56,
+      "end": 29.82,
+      "word": "dovuto"
+    },
+    {
+      "start": 29.82,
+      "end": 30.14,
+      "word": "provare"
+    },
+    {
+      "start": 30.14,
+      "end": 30.68,
+      "word": "semplicemente"
+    },
+    {
+      "start": 30.68,
+      "end": 31.06,
+      "word": "quello"
+    },
+    {
+      "start": 31.06,
+      "end": 31.22,
+      "word": "che"
+    },
+    {
+      "start": 31.22,
+      "end": 31.3,
+      "word": "è"
+    },
+    {
+      "start": 31.3,
+      "end": 31.98,
+      "word": "probabilmente"
+    },
+    {
+      "start": 31.98,
+      "end": 32.2,
+      "word": "il"
+    },
+    {
+      "start": 32.2,
+      "end": 32.34,
+      "word": "miglior"
+    },
+    {
+      "start": 32.34,
+      "end": 32.66,
+      "word": "barbecue"
+    },
+    {
+      "start": 32.66,
+      "end": 32.88,
+      "word": "di"
+    },
+    {
+      "start": 32.88,
+      "end": 33.0,
+      "word": "tutto"
+    },
+    {
+      "start": 33.0,
+      "end": 33.16,
+      "word": "il"
+    },
+    {
+      "start": 33.16,
+      "end": 33.4,
+      "word": "mondo."
+    },
+    {
+      "start": 33.54,
+      "end": 33.56,
+      "word": "O"
+    },
+    {
+      "start": 33.56,
+      "end": 33.74,
+      "word": "almeno"
+    },
+    {
+      "start": 33.74,
+      "end": 34.3,
+      "word": "sicuramente"
+    },
+    {
+      "start": 34.3,
+      "end": 34.54,
+      "word": "uno"
+    },
+    {
+      "start": 34.54,
+      "end": 34.66,
+      "word": "dei"
+    },
+    {
+      "start": 34.66,
+      "end": 34.74,
+      "word": "più"
+    },
+    {
+      "start": 34.74,
+      "end": 35.14,
+      "word": "famosi,"
+    },
+    {
+      "start": 35.2,
+      "end": 35.4,
+      "word": "ovvero"
+    },
+    {
+      "start": 35.4,
+      "end": 35.84,
+      "word": "Franklin"
+    },
+    {
+      "start": 35.84,
+      "end": 36.38,
+      "word": "Barbecue."
+    },
+    {
+      "start": 36.52,
+      "end": 36.64,
+      "word": "Dove"
+    },
+    {
+      "start": 36.64,
+      "end": 37.04,
+      "word": "stranamente"
+    },
+    {
+      "start": 37.04,
+      "end": 37.24,
+      "word": "non"
+    },
+    {
+      "start": 37.24,
+      "end": 37.36,
+      "word": "c"
+    },
+    {
+      "start": 37.36,
+      "end": 37.42,
+      "word": "'era"
+    },
+    {
+      "start": 37.42,
+      "end": 37.7,
+      "word": "fila"
+    },
+    {
+      "start": 37.7,
+      "end": 37.8,
+      "word": "ma"
+    },
+    {
+      "start": 37.8,
+      "end": 38.02,
+      "word": "avevano"
+    },
+    {
+      "start": 38.02,
+      "end": 38.18,
+      "word": "già"
+    },
+    {
+      "start": 38.18,
+      "end": 38.42,
+      "word": "finito"
+    },
+    {
+      "start": 38.42,
+      "end": 38.78,
+      "word": "diversi"
+    },
+    {
+      "start": 38.78,
+      "end": 39.16,
+      "word": "pezzi."
+    },
+    {
+      "start": 39.22,
+      "end": 39.3,
+      "word": "Ma"
+    },
+    {
+      "start": 39.3,
+      "end": 39.36,
+      "word": "il"
+    },
+    {
+      "start": 39.36,
+      "end": 39.56,
+      "word": "nostro"
+    },
+    {
+      "start": 39.56,
+      "end": 40.1,
+      "word": "briscate"
+    },
+    {
+      "start": 40.1,
+      "end": 40.32,
+      "word": "e"
+    },
+    {
+      "start": 40.32,
+      "end": 40.38,
+      "word": "le"
+    },
+    {
+      "start": 40.38,
+      "end": 40.66,
+      "word": "nostre"
+    },
+    {
+      "start": 40.66,
+      "end": 40.88,
+      "word": "due"
+    },
+    {
+      "start": 40.88,
+      "end": 41.44,
+      "word": "salsicce"
+    },
+    {
+      "start": 41.44,
+      "end": 41.58,
+      "word": "ce"
+    },
+    {
+      "start": 41.58,
+      "end": 41.64,
+      "word": "l"
+    },
+    {
+      "start": 41.64,
+      "end": 41.68,
+      "word": "'è"
+    },
+    {
+      "start": 41.68,
+      "end": 41.8,
+      "word": "siamo"
+    },
+    {
+      "start": 41.8,
+      "end": 42.08,
+      "word": "portate"
+    },
+    {
+      "start": 42.08,
+      "end": 42.2,
+      "word": "a"
+    },
+    {
+      "start": 42.2,
+      "end": 42.42,
+      "word": "casa."
+    },
+    {
+      "start": 42.5,
+      "end": 42.76,
+      "word": "Briscate"
+    },
+    {
+      "start": 42.76,
+      "end": 42.9,
+      "word": "che"
+    },
+    {
+      "start": 42.9,
+      "end": 43.18,
+      "word": "ragazzi"
+    },
+    {
+      "start": 43.18,
+      "end": 43.44,
+      "word": "neanche"
+    },
+    {
+      "start": 43.44,
+      "end": 43.56,
+      "word": "ve"
+    },
+    {
+      "start": 43.56,
+      "end": 43.62,
+      "word": "lo"
+    },
+    {
+      "start": 43.62,
+      "end": 43.76,
+      "word": "sto"
+    },
+    {
+      "start": 43.76,
+      "end": 43.88,
+      "word": "a"
+    },
+    {
+      "start": 43.88,
+      "end": 43.96,
+      "word": "dire"
+    },
+    {
+      "start": 43.96,
+      "end": 44.26,
+      "word": "quanto"
+    },
+    {
+      "start": 44.26,
+      "end": 44.78,
+      "word": "effettivamente"
+    },
+    {
+      "start": 44.78,
+      "end": 45.08,
+      "word": "si"
+    },
+    {
+      "start": 45.08,
+      "end": 45.5,
+      "word": "scioglieva"
+    },
+    {
+      "start": 45.5,
+      "end": 45.6,
+      "word": "in"
+    },
+    {
+      "start": 45.6,
+      "end": 45.86,
+      "word": "bocca"
+    },
+    {
+      "start": 45.86,
+      "end": 45.96,
+      "word": "ed"
+    },
+    {
+      "start": 45.96,
+      "end": 46.08,
+      "word": "era"
+    },
+    {
+      "start": 46.08,
+      "end": 46.54,
+      "word": "morbido."
+    },
+    {
+      "start": 46.6,
+      "end": 46.66,
+      "word": "E"
+    },
+    {
+      "start": 46.66,
+      "end": 46.78,
+      "word": "anche"
+    },
+    {
+      "start": 46.78,
+      "end": 46.88,
+      "word": "le"
+    },
+    {
+      "start": 46.88,
+      "end": 46.94,
+      "word": "due"
+    },
+    {
+      "start": 46.94,
+      "end": 47.38,
+      "word": "salsicce"
+    },
+    {
+      "start": 47.38,
+      "end": 47.58,
+      "word": "sia"
+    },
+    {
+      "start": 47.58,
+      "end": 48.04,
+      "word": "normali"
+    },
+    {
+      "start": 48.04,
+      "end": 48.1,
+      "word": "che"
+    },
+    {
+      "start": 48.1,
+      "end": 48.56,
+      "word": "concedere"
+    },
+    {
+      "start": 48.56,
+      "end": 48.68,
+      "word": "alla"
+    },
+    {
+      "start": 48.68,
+      "end": 48.94,
+      "word": "peglie"
+    },
+    {
+      "start": 48.94,
+      "end": 49.12,
+      "word": "erano"
+    },
+    {
+      "start": 49.12,
+      "end": 49.36,
+      "word": "piuttosto"
+    },
+    {
+      "start": 49.36,
+      "end": 49.66,
+      "word": "buoni."
+    },
+    {
+      "start": 49.72,
+      "end": 49.78,
+      "word": "Il"
+    },
+    {
+      "start": 49.78,
+      "end": 50.04,
+      "word": "causo"
+    },
+    {
+      "start": 50.04,
+      "end": 50.2,
+      "word": "che"
+    },
+    {
+      "start": 50.2,
+      "end": 50.3,
+      "word": "era"
+    },
+    {
+      "start": 50.3,
+      "end": 50.52,
+      "word": "bella"
+    },
+    {
+      "start": 50.52,
+      "end": 50.8,
+      "word": "dolce"
+    },
+    {
+      "start": 50.8,
+      "end": 50.94,
+      "word": "come"
+    },
+    {
+      "start": 50.94,
+      "end": 51.12,
+      "word": "piace"
+    },
+    {
+      "start": 51.12,
+      "end": 51.24,
+      "word": "a"
+    },
+    {
+      "start": 51.24,
+      "end": 51.36,
+      "word": "me."
+    },
+    {
+      "start": 51.48,
+      "end": 51.68,
+      "word": "Questo"
+    },
+    {
+      "start": 51.68,
+      "end": 51.82,
+      "word": "non"
+    },
+    {
+      "start": 51.82,
+      "end": 51.92,
+      "word": "è"
+    },
+    {
+      "start": 51.92,
+      "end": 52.02,
+      "word": "il"
+    },
+    {
+      "start": 52.02,
+      "end": 52.24,
+      "word": "coraggio"
+    },
+    {
+      "start": 52.24,
+      "end": 52.38,
+      "word": "di"
+    },
+    {
+      "start": 52.38,
+      "end": 52.86,
+      "word": "mangiarlo."
+    },
+    {
+      "start": 52.86,
+      "end": 53.42,
+      "word": "Il"
+    },
+    {
+      "start": 53.42,
+      "end": 53.6,
+      "word": "migliore"
+    },
+    {
+      "start": 53.6,
+      "end": 54.08,
+      "word": "briscate"
+    },
+    {
+      "start": 54.08,
+      "end": 54.36,
+      "word": "di"
+    },
+    {
+      "start": 54.36,
+      "end": 54.8,
+      "word": "tutta"
+    },
+    {
+      "start": 54.8,
+      "end": 54.92,
+      "word": "la"
+    },
+    {
+      "start": 54.92,
+      "end": 55.02,
+      "word": "mia"
+    },
+    {
+      "start": 55.02,
+      "end": 55.32,
+      "word": "vita."
+    },
+    {
+      "start": 55.58,
+      "end": 55.64,
+      "word": "E"
+    },
+    {
+      "start": 55.64,
+      "end": 55.78,
+      "word": "dopo"
+    },
+    {
+      "start": 55.78,
+      "end": 55.94,
+      "word": "aver"
+    },
+    {
+      "start": 55.94,
+      "end": 56.1,
+      "word": "fatto"
+    },
+    {
+      "start": 56.1,
+      "end": 56.36,
+      "word": "questa"
+    },
+    {
+      "start": 56.36,
+      "end": 56.72,
+      "word": "esperienza"
+    },
+    {
+      "start": 56.72,
+      "end": 57.16,
+      "word": "clamorosa"
+    },
+    {
+      "start": 57.16,
+      "end": 57.28,
+      "word": "ho"
+    },
+    {
+      "start": 57.28,
+      "end": 57.6,
+      "word": "continuato"
+    },
+    {
+      "start": 57.6,
+      "end": 57.72,
+      "word": "il"
+    },
+    {
+      "start": 57.72,
+      "end": 57.82,
+      "word": "mio"
+    },
+    {
+      "start": 57.82,
+      "end": 58.08,
+      "word": "giro"
+    },
+    {
+      "start": 58.08,
+      "end": 58.24,
+      "word": "per"
+    },
+    {
+      "start": 58.24,
+      "end": 58.54,
+      "word": "Ostin"
+    },
+    {
+      "start": 58.54,
+      "end": 59.22,
+      "word": "imbattendomi"
+    },
+    {
+      "start": 59.22,
+      "end": 59.42,
+      "word": "in"
+    },
+    {
+      "start": 59.42,
+      "end": 59.56,
+      "word": "una"
+    },
+    {
+      "start": 59.56,
+      "end": 59.94,
+      "word": "golgime"
+    },
+    {
+      "start": 59.94,
+      "end": 60.06,
+      "word": "e"
+    },
+    {
+      "start": 60.06,
+      "end": 60.16,
+      "word": "quindi"
+    },
+    {
+      "start": 60.16,
+      "end": 60.58,
+      "word": "semplicemente"
+    },
+    {
+      "start": 60.58,
+      "end": 60.7,
+      "word": "ho"
+    },
+    {
+      "start": 60.7,
+      "end": 60.8,
+      "word": "fatto"
+    },
+    {
+      "start": 60.8,
+      "end": 60.98,
+      "word": "un"
+    },
+    {
+      "start": 60.98,
+      "end": 61.18,
+      "word": "giro"
+    },
+    {
+      "start": 61.18,
+      "end": 61.3,
+      "word": "all"
+    },
+    {
+      "start": 61.3,
+      "end": 61.6,
+      "word": "'interno."
+    },
+    {
+      "start": 61.78,
+      "end": 61.8,
+      "word": "Che"
+    },
+    {
+      "start": 61.8,
+      "end": 62.1,
+      "word": "sogno"
+    },
+    {
+      "start": 62.1,
+      "end": 62.28,
+      "word": "è"
+    },
+    {
+      "start": 62.28,
+      "end": 62.32,
+      "word": "mai"
+    },
+    {
+      "start": 62.32,
+      "end": 62.7,
+      "word": "questo?"
+    },
+    {
+      "start": 63.16,
+      "end": 63.62,
+      "word": "Cardio?"
+    },
+    {
+      "start": 64.34,
+      "end": 64.8,
+      "word": "Al"
+    },
+    {
+      "start": 64.8,
+      "end": 65.14,
+      "word": "cinema."
+    },
+    {
+      "start": 65.56,
+      "end": 65.72,
+      "word": "Solo"
+    },
+    {
+      "start": 65.72,
+      "end": 65.9,
+      "word": "nella"
+    },
+    {
+      "start": 65.9,
+      "end": 66.4,
+      "word": "golgime."
+    },
+    {
+      "start": 66.64,
+      "end": 66.74,
+      "word": "Ho"
+    },
+    {
+      "start": 66.74,
+      "end": 66.9,
+      "word": "quindi"
+    },
+    {
+      "start": 66.9,
+      "end": 67.02,
+      "word": "poi"
+    },
+    {
+      "start": 67.02,
+      "end": 67.14,
+      "word": "dato"
+    },
+    {
+      "start": 67.14,
+      "end": 67.3,
+      "word": "un"
+    },
+    {
+      "start": 67.3,
+      "end": 67.6,
+      "word": "'occhiata"
+    },
+    {
+      "start": 67.6,
+      "end": 67.74,
+      "word": "a"
+    },
+    {
+      "start": 67.74,
+      "end": 67.84,
+      "word": "tutti"
+    },
+    {
+      "start": 67.84,
+      "end": 68.04,
+      "word": "i"
+    },
+    {
+      "start": 68.04,
+      "end": 68.38,
+      "word": "macchinari"
+    },
+    {
+      "start": 68.38,
+      "end": 68.54,
+      "word": "della"
+    },
+    {
+      "start": 68.54,
+      "end": 69.02,
+      "word": "golgime."
+    },
+    {
+      "start": 69.14,
+      "end": 69.16,
+      "word": "Ho"
+    },
+    {
+      "start": 69.16,
+      "end": 69.44,
+      "word": "trovato"
+    },
+    {
+      "start": 69.44,
+      "end": 69.7,
+      "word": "veramente"
+    },
+    {
+      "start": 69.7,
+      "end": 70.0,
+      "word": "delle"
+    },
+    {
+      "start": 70.0,
+      "end": 70.38,
+      "word": "chicche"
+    },
+    {
+      "start": 70.38,
+      "end": 70.6,
+      "word": "molto"
+    },
+    {
+      "start": 70.6,
+      "end": 71.18,
+      "word": "interessanti."
+    },
+    {
+      "start": 71.3,
+      "end": 71.36,
+      "word": "E"
+    },
+    {
+      "start": 71.36,
+      "end": 71.42,
+      "word": "mi"
+    },
+    {
+      "start": 71.42,
+      "end": 71.56,
+      "word": "sono"
+    },
+    {
+      "start": 71.56,
+      "end": 71.9,
+      "word": "perso"
+    },
+    {
+      "start": 71.9,
+      "end": 71.98,
+      "word": "a"
+    },
+    {
+      "start": 71.98,
+      "end": 72.28,
+      "word": "pensare"
+    },
+    {
+      "start": 72.28,
+      "end": 72.5,
+      "word": "come"
+    },
+    {
+      "start": 72.5,
+      "end": 72.9,
+      "word": "sarebbe"
+    },
+    {
+      "start": 72.9,
+      "end": 73.26,
+      "word": "effettivamente"
+    },
+    {
+      "start": 73.26,
+      "end": 73.72,
+      "word": "allenarsi"
+    },
+    {
+      "start": 73.72,
+      "end": 73.86,
+      "word": "una"
+    },
+    {
+      "start": 73.86,
+      "end": 74.04,
+      "word": "festa"
+    },
+    {
+      "start": 74.04,
+      "end": 74.32,
+      "word": "del"
+    },
+    {
+      "start": 74.32,
+      "end": 74.56,
+      "word": "genere."
+    },
+    {
+      "start": 74.78,
+      "end": 75.14,
+      "word": "Prime"
+    },
+    {
+      "start": 75.14,
+      "end": 75.32,
+      "word": "del"
+    },
+    {
+      "start": 75.32,
+      "end": 75.7,
+      "word": "giorno."
+    },
+    {
+      "start": 76.7,
+      "end": 77.16,
+      "word": "Molto"
+    },
+    {
+      "start": 77.16,
+      "end": 77.4,
+      "word": "buona."
+    },
+    {
+      "start": 77.66,
+      "end": 77.9,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 77.9,
+      "end": 78.06,
+      "word": "mi"
+    },
+    {
+      "start": 78.06,
+      "end": 78.2,
+      "word": "sono"
+    },
+    {
+      "start": 78.2,
+      "end": 78.6,
+      "word": "diretto"
+    },
+    {
+      "start": 78.6,
+      "end": 78.74,
+      "word": "verso"
+    },
+    {
+      "start": 78.74,
+      "end": 78.94,
+      "word": "il"
+    },
+    {
+      "start": 78.94,
+      "end": 79.12,
+      "word": "ponte"
+    },
+    {
+      "start": 79.12,
+      "end": 79.26,
+      "word": "di"
+    },
+    {
+      "start": 79.26,
+      "end": 79.8,
+      "word": "Pipistrelli"
+    },
+    {
+      "start": 79.8,
+      "end": 79.98,
+      "word": "per"
+    },
+    {
+      "start": 79.98,
+      "end": 80.24,
+      "word": "ovviamente"
+    },
+    {
+      "start": 80.24,
+      "end": 80.62,
+      "word": "vedere"
+    },
+    {
+      "start": 80.62,
+      "end": 80.9,
+      "word": "i"
+    },
+    {
+      "start": 80.9,
+      "end": 81.42,
+      "word": "Pipistrelli."
+    },
+    {
+      "start": 81.42,
+      "end": 81.54,
+      "word": "Ma"
+    },
+    {
+      "start": 81.54,
+      "end": 81.6,
+      "word": "al"
+    },
+    {
+      "start": 81.6,
+      "end": 81.88,
+      "word": "posto"
+    },
+    {
+      "start": 81.88,
+      "end": 82.04,
+      "word": "loro"
+    },
+    {
+      "start": 82.04,
+      "end": 82.16,
+      "word": "ho"
+    },
+    {
+      "start": 82.16,
+      "end": 82.42,
+      "word": "trovato"
+    },
+    {
+      "start": 82.42,
+      "end": 82.64,
+      "word": "invece"
+    },
+    {
+      "start": 82.64,
+      "end": 83.0,
+      "word": "questo"
+    },
+    {
+      "start": 83.0,
+      "end": 83.5,
+      "word": "bellissimo"
+    },
+    {
+      "start": 83.5,
+      "end": 84.06,
+      "word": "tramonto."
+    },
+    {
+      "start": 84.16,
+      "end": 84.2,
+      "word": "E"
+    },
+    {
+      "start": 84.2,
+      "end": 84.32,
+      "word": "devo"
+    },
+    {
+      "start": 84.32,
+      "end": 84.54,
+      "word": "dire"
+    },
+    {
+      "start": 84.54,
+      "end": 84.68,
+      "word": "che"
+    },
+    {
+      "start": 84.68,
+      "end": 84.96,
+      "word": "comunque"
+    },
+    {
+      "start": 84.96,
+      "end": 85.26,
+      "word": "non"
+    },
+    {
+      "start": 85.26,
+      "end": 85.36,
+      "word": "mi"
+    },
+    {
+      "start": 85.36,
+      "end": 85.54,
+      "word": "posso"
+    },
+    {
+      "start": 85.54,
+      "end": 86.08,
+      "word": "lamentare."
+    },
+    {
+      "start": 86.22,
+      "end": 86.58,
+      "word": "Ragazzi"
+    },
+    {
+      "start": 86.58,
+      "end": 86.68,
+      "word": "il"
+    },
+    {
+      "start": 86.68,
+      "end": 86.94,
+      "word": "Texas"
+    },
+    {
+      "start": 86.94,
+      "end": 87.2,
+      "word": "mi"
+    },
+    {
+      "start": 87.2,
+      "end": 87.6,
+      "word": "stupisceavesse"
+    },
+    {
+      "start": 87.6,
+      "end": 87.96,
+      "word": "sempre"
+    },
+    {
+      "start": 87.96,
+      "end": 88.16,
+      "word": "di"
+    },
+    {
+      "start": 88.16,
+      "end": 88.36,
+      "word": "più."
+    },
+    {
+      "start": 88.58,
+      "end": 88.98,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 88.98,
+      "end": 89.44,
+      "word": "Barrettina"
+    },
+    {
+      "start": 89.44,
+      "end": 89.84,
+      "word": "Porteica"
+    },
+    {
+      "start": 89.84,
+      "end": 90.42,
+      "word": "convista"
+    },
+    {
+      "start": 90.42,
+      "end": 90.66,
+      "word": "e"
+    },
+    {
+      "start": 90.66,
+      "end": 90.76,
+      "word": "di"
+    },
+    {
+      "start": 90.76,
+      "end": 91.08,
+      "word": "infine"
+    },
+    {
+      "start": 91.08,
+      "end": 91.24,
+      "word": "siamo"
+    },
+    {
+      "start": 91.24,
+      "end": 91.64,
+      "word": "arrivati"
+    },
+    {
+      "start": 91.64,
+      "end": 91.86,
+      "word": "alla"
+    },
+    {
+      "start": 91.86,
+      "end": 92.2,
+      "word": "cena."
+    },
+    {
+      "start": 92.32,
+      "end": 92.36,
+      "word": "Che"
+    },
+    {
+      "start": 92.36,
+      "end": 92.44,
+      "word": "ho"
+    },
+    {
+      "start": 92.44,
+      "end": 92.46,
+      "word": "in"
+    },
+    {
+      "start": 92.46,
+      "end": 92.58,
+      "word": "realtà"
+    },
+    {
+      "start": 92.58,
+      "end": 93.0,
+      "word": "fatto"
+    },
+    {
+      "start": 93.0,
+      "end": 93.14,
+      "word": "in"
+    },
+    {
+      "start": 93.14,
+      "end": 93.6,
+      "word": "bucandomi"
+    },
+    {
+      "start": 93.6,
+      "end": 93.7,
+      "word": "a"
+    },
+    {
+      "start": 93.7,
+      "end": 93.88,
+      "word": "questo"
+    },
+    {
+      "start": 93.88,
+      "end": 94.28,
+      "word": "parti"
+    },
+    {
+      "start": 94.28,
+      "end": 94.42,
+      "word": "sul"
+    },
+    {
+      "start": 94.42,
+      "end": 94.76,
+      "word": "rooftop"
+    },
+    {
+      "start": 94.76,
+      "end": 94.96,
+      "word": "di"
+    },
+    {
+      "start": 94.96,
+      "end": 95.04,
+      "word": "un"
+    },
+    {
+      "start": 95.04,
+      "end": 95.22,
+      "word": "hotel"
+    },
+    {
+      "start": 95.22,
+      "end": 95.48,
+      "word": "qui"
+    },
+    {
+      "start": 95.48,
+      "end": 95.66,
+      "word": "in"
+    },
+    {
+      "start": 95.66,
+      "end": 96.06,
+      "word": "Ostin."
+    },
+    {
+      "start": 96.12,
+      "end": 96.16,
+      "word": "E"
+    },
+    {
+      "start": 96.16,
+      "end": 96.34,
+      "word": "quindi"
+    },
+    {
+      "start": 96.34,
+      "end": 96.6,
+      "word": "preso"
+    },
+    {
+      "start": 96.6,
+      "end": 96.68,
+      "word": "un"
+    },
+    {
+      "start": 96.68,
+      "end": 96.76,
+      "word": "po'"
+    },
+    {
+      "start": 96.8,
+      "end": 96.86,
+      "word": "di"
+    },
+    {
+      "start": 96.86,
+      "end": 97.06,
+      "word": "tutto"
+    },
+    {
+      "start": 97.06,
+      "end": 97.22,
+      "word": "da"
+    },
+    {
+      "start": 97.22,
+      "end": 97.44,
+      "word": "questi"
+    },
+    {
+      "start": 97.44,
+      "end": 97.7,
+      "word": "tacos,"
+    },
+    {
+      "start": 97.88,
+      "end": 98.04,
+      "word": "questi"
+    },
+    {
+      "start": 98.04,
+      "end": 98.64,
+      "word": "gamberetti,"
+    },
+    {
+      "start": 98.72,
+      "end": 98.86,
+      "word": "questo"
+    },
+    {
+      "start": 98.86,
+      "end": 99.1,
+      "word": "roast"
+    },
+    {
+      "start": 99.1,
+      "end": 99.26,
+      "word": "beef"
+    },
+    {
+      "start": 99.26,
+      "end": 99.46,
+      "word": "di"
+    },
+    {
+      "start": 99.46,
+      "end": 99.72,
+      "word": "carne"
+    },
+    {
+      "start": 99.72,
+      "end": 99.88,
+      "word": "che"
+    },
+    {
+      "start": 99.88,
+      "end": 100.0,
+      "word": "devo"
+    },
+    {
+      "start": 100.0,
+      "end": 100.18,
+      "word": "dire"
+    },
+    {
+      "start": 100.18,
+      "end": 100.28,
+      "word": "che"
+    },
+    {
+      "start": 100.28,
+      "end": 100.38,
+      "word": "mi"
+    },
+    {
+      "start": 100.38,
+      "end": 100.54,
+      "word": "sono"
+    },
+    {
+      "start": 100.54,
+      "end": 101.02,
+      "word": "goduto"
+    },
+    {
+      "start": 101.02,
+      "end": 101.18,
+      "word": "alla"
+    },
+    {
+      "start": 101.18,
+      "end": 101.52,
+      "word": "grande"
+    },
+    {
+      "start": 101.52,
+      "end": 101.72,
+      "word": "in"
+    },
+    {
+      "start": 101.72,
+      "end": 101.92,
+      "word": "questa"
+    },
+    {
+      "start": 101.92,
+      "end": 102.16,
+      "word": "vista"
+    },
+    {
+      "start": 102.16,
+      "end": 102.38,
+      "word": "sulla"
+    },
+    {
+      "start": 102.38,
+      "end": 102.74,
+      "word": "città."
+    },
+    {
+      "start": 102.76,
+      "end": 102.84,
+      "word": "I"
+    },
+    {
+      "start": 102.84,
+      "end": 103.24,
+      "word": "skyline"
+    },
+    {
+      "start": 103.24,
+      "end": 103.78,
+      "word": "americani"
+    },
+    {
+      "start": 103.78,
+      "end": 103.94,
+      "word": "sono"
+    },
+    {
+      "start": 103.94,
+      "end": 104.26,
+      "word": "davvero"
+    },
+    {
+      "start": 104.26,
+      "end": 104.72,
+      "word": "clavo."
+    },
+    {
+      "start": 105.14,
+      "end": 105.54,
+      "word": "Rosesi."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "dur": 1.6,
+      "transcript": "Giorno 4 il mio viaggio in texa sarà"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.6,
+      "end": 3.167,
+      "dur": 1.567,
+      "transcript": "scoperta di migliori barbecue."
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.167,
+      "end": 4.633,
+      "dur": 1.467,
+      "transcript": "Che sogno è mai questo? Sì"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.633,
+      "end": 6.267,
+      "dur": 1.633,
+      "transcript": "ragazzi, un qualche mese di ritardo ma"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.267,
+      "end": 8.633,
+      "dur": 2.367,
+      "transcript": "continuiamo questa serie perché questa giornata dovo per forza"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.633,
+      "end": 10.667,
+      "dur": 2.033,
+      "transcript": "raccontarvela. Giornata tecnizzata con un allerramento"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.667,
+      "end": 12.267,
+      "dur": 1.6,
+      "transcript": "nella palestra dell 'hotel e un caffè."
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.267,
+      "end": 14.167,
+      "dur": 1.9,
+      "transcript": "E oggi si gira un po' osti."
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.167,
+      "end": 16.2,
+      "dur": 2.033,
+      "transcript": "Fatto un giro nella città visitando il Texas"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.2,
+      "end": 17.8,
+      "dur": 1.6,
+      "transcript": "Capitol, sarebbe il Campidoglio."
+    },
+    {
+      "shot_idx": 10,
+      "start": 17.8,
+      "end": 20.8,
+      "dur": 3.0,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 11,
+      "start": 20.8,
+      "end": 23.067,
+      "dur": 2.267,
+      "transcript": "E"
+    },
+    {
+      "shot_idx": 12,
+      "start": 23.067,
+      "end": 26.933,
+      "dur": 3.867,
+      "transcript": "devo dire che è un edificio piuttosto imponente, essendo il più grande Campidoglio di tutti gli Stati"
+    },
+    {
+      "shot_idx": 13,
+      "start": 26.933,
+      "end": 27.667,
+      "dur": 0.733,
+      "transcript": "Uniti. E dopo"
+    },
+    {
+      "shot_idx": 14,
+      "start": 27.667,
+      "end": 29.233,
+      "dur": 1.567,
+      "transcript": "di che i ragazzi arrivato all 'oraggio del pranzo"
+    },
+    {
+      "shot_idx": 15,
+      "start": 29.233,
+      "end": 31.2,
+      "dur": 1.967,
+      "transcript": "e quindi dovuto provare semplicemente quello che"
+    },
+    {
+      "shot_idx": 16,
+      "start": 31.2,
+      "end": 34.2,
+      "dur": 3.0,
+      "transcript": "è probabilmente il miglior barbecue di tutto il mondo. O almeno sicuramente"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.2,
+      "end": 35.767,
+      "dur": 1.567,
+      "transcript": "uno dei più famosi, ovvero Franklin"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.767,
+      "end": 37.767,
+      "dur": 2.0,
+      "transcript": "Barbecue. Dove stranamente non c 'era fila ma"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.767,
+      "end": 39.6,
+      "dur": 1.833,
+      "transcript": "avevano già finito diversi pezzi. Ma il nostro"
+    },
+    {
+      "shot_idx": 20,
+      "start": 39.6,
+      "end": 40.867,
+      "dur": 1.267,
+      "transcript": "briscate e le nostre due"
+    },
+    {
+      "shot_idx": 21,
+      "start": 40.867,
+      "end": 42.433,
+      "dur": 1.567,
+      "transcript": "salsicce ce l 'è siamo portate a casa."
+    },
+    {
+      "shot_idx": 22,
+      "start": 42.433,
+      "end": 44.767,
+      "dur": 2.333,
+      "transcript": "Briscate che ragazzi neanche ve lo sto a dire quanto effettivamente"
+    },
+    {
+      "shot_idx": 23,
+      "start": 44.767,
+      "end": 46.8,
+      "dur": 2.033,
+      "transcript": "si scioglieva in bocca ed era morbido. E anche"
+    },
+    {
+      "shot_idx": 24,
+      "start": 46.8,
+      "end": 49.2,
+      "dur": 2.4,
+      "transcript": "le due salsicce sia normali che concedere alla peglie erano"
+    },
+    {
+      "shot_idx": 25,
+      "start": 49.2,
+      "end": 51.433,
+      "dur": 2.233,
+      "transcript": "piuttosto buoni. Il causo che era bella dolce come piace a me."
+    },
+    {
+      "shot_idx": 26,
+      "start": 51.433,
+      "end": 53.033,
+      "dur": 1.6,
+      "transcript": "Questo non è il coraggio di mangiarlo."
+    },
+    {
+      "shot_idx": 27,
+      "start": 53.033,
+      "end": 55.6,
+      "dur": 2.567,
+      "transcript": "Il migliore briscate di tutta la mia vita."
+    },
+    {
+      "shot_idx": 28,
+      "start": 55.6,
+      "end": 57.567,
+      "dur": 1.967,
+      "transcript": "E dopo aver fatto questa esperienza clamorosa ho continuato"
+    },
+    {
+      "shot_idx": 29,
+      "start": 57.567,
+      "end": 59.233,
+      "dur": 1.667,
+      "transcript": "il mio giro per Ostin imbattendomi"
+    },
+    {
+      "shot_idx": 30,
+      "start": 59.233,
+      "end": 61.6,
+      "dur": 2.367,
+      "transcript": "in una golgime e quindi semplicemente ho fatto un giro all 'interno."
+    },
+    {
+      "shot_idx": 31,
+      "start": 61.6,
+      "end": 63.1,
+      "dur": 1.5,
+      "transcript": "Che sogno è mai questo?"
+    },
+    {
+      "shot_idx": 32,
+      "start": 63.1,
+      "end": 64.467,
+      "dur": 1.367,
+      "transcript": "Cardio?"
+    },
+    {
+      "shot_idx": 33,
+      "start": 64.467,
+      "end": 65.5,
+      "dur": 1.033,
+      "transcript": "Al cinema."
+    },
+    {
+      "shot_idx": 34,
+      "start": 65.5,
+      "end": 66.833,
+      "dur": 1.333,
+      "transcript": "Solo nella golgime. Ho quindi"
+    },
+    {
+      "shot_idx": 35,
+      "start": 66.833,
+      "end": 68.8,
+      "dur": 1.967,
+      "transcript": "poi dato un 'occhiata a tutti i macchinari della golgime."
+    },
+    {
+      "shot_idx": 36,
+      "start": 68.8,
+      "end": 70.133,
+      "dur": 1.333,
+      "transcript": "Ho trovato veramente delle"
+    },
+    {
+      "shot_idx": 37,
+      "start": 70.133,
+      "end": 70.867,
+      "dur": 0.733,
+      "transcript": "chicche molto"
+    },
+    {
+      "shot_idx": 38,
+      "start": 70.867,
+      "end": 72.833,
+      "dur": 1.967,
+      "transcript": "interessanti. E mi sono perso a pensare come sarebbe"
+    },
+    {
+      "shot_idx": 39,
+      "start": 72.833,
+      "end": 74.7,
+      "dur": 1.867,
+      "transcript": "effettivamente allenarsi una festa del genere."
+    },
+    {
+      "shot_idx": 40,
+      "start": 74.7,
+      "end": 76.967,
+      "dur": 2.267,
+      "transcript": "Prime del giorno. Molto"
+    },
+    {
+      "shot_idx": 41,
+      "start": 76.967,
+      "end": 77.8,
+      "dur": 0.833,
+      "transcript": "buona. Dopodiché"
+    },
+    {
+      "shot_idx": 42,
+      "start": 77.8,
+      "end": 81.333,
+      "dur": 3.533,
+      "transcript": "mi sono diretto verso il ponte di Pipistrelli per ovviamente vedere i Pipistrelli."
+    },
+    {
+      "shot_idx": 43,
+      "start": 81.333,
+      "end": 82.967,
+      "dur": 1.633,
+      "transcript": "Ma al posto loro ho trovato invece questo"
+    },
+    {
+      "shot_idx": 44,
+      "start": 82.967,
+      "end": 89.4,
+      "dur": 6.433,
+      "transcript": "bellissimo tramonto. E devo dire che comunque non mi posso lamentare. Ragazzi il Texas mi stupisceavesse sempre di più. Dopodiché Barrettina"
+    },
+    {
+      "shot_idx": 45,
+      "start": 89.4,
+      "end": 91.233,
+      "dur": 1.833,
+      "transcript": "Porteica convista e di infine siamo"
+    },
+    {
+      "shot_idx": 46,
+      "start": 91.233,
+      "end": 93.733,
+      "dur": 2.5,
+      "transcript": "arrivati alla cena. Che ho in realtà fatto in bucandomi a"
+    },
+    {
+      "shot_idx": 47,
+      "start": 93.733,
+      "end": 96.667,
+      "dur": 2.933,
+      "transcript": "questo parti sul rooftop di un hotel qui in Ostin. E quindi preso un"
+    },
+    {
+      "shot_idx": 48,
+      "start": 96.667,
+      "end": 99.7,
+      "dur": 3.033,
+      "transcript": "po' di tutto da questi tacos, questi gamberetti, questo roast beef di carne"
+    },
+    {
+      "shot_idx": 49,
+      "start": 99.7,
+      "end": 100.433,
+      "dur": 0.733,
+      "transcript": "che devo dire che mi"
+    },
+    {
+      "shot_idx": 50,
+      "start": 100.433,
+      "end": 101.4,
+      "dur": 0.967,
+      "transcript": "sono goduto alla grande"
+    },
+    {
+      "shot_idx": 51,
+      "start": 101.4,
+      "end": 102.067,
+      "dur": 0.667,
+      "transcript": "in questa vista"
+    },
+    {
+      "shot_idx": 52,
+      "start": 102.067,
+      "end": 105.767,
+      "dur": 3.7,
+      "transcript": "sulla città. I skyline americani sono davvero clavo. Rosesi."
+    }
+  ],
+  "full_text": "Giorno 4 il mio viaggio in texa sarà scoperta di migliori barbecue. Che sogno è mai questo? Sì ragazzi, un qualche mese di ritardo ma continuiamo questa serie perché questa giornata dovo per forza raccontarvela. Giornata tecnizzata con un allerramento nella palestra dell'hotel e un caffè. E oggi si gira un po' osti. Fatto un giro nella città visitando il Texas Capitol, sarebbe il Campidoglio. E devo dire che è un edificio piuttosto imponente, essendo il più grande Campidoglio di tutti gli Stati Uniti. E dopo di che i ragazzi arrivato all'oraggio del pranzo e quindi dovuto provare semplicemente quello che è probabilmente il miglior barbecue di tutto il mondo. O almeno sicuramente uno dei più famosi, ovvero Franklin Barbecue. Dove stranamente non c'era fila ma avevano già finito diversi pezzi. Ma il nostro briscate e le nostre due salsicce ce l'è siamo portate a casa. Briscate che ragazzi neanche ve lo sto a dire quanto effettivamente si scioglieva in bocca ed era morbido. E anche le due salsicce sia normali che concedere alla peglie erano piuttosto buoni. Il causo che era bella dolce come piace a me. Questo non è il coraggio di mangiarlo. Il migliore briscate di tutta la mia vita. E dopo aver fatto questa esperienza clamorosa ho continuato il mio giro per Ostin imbattendomi in una golgime e quindi semplicemente ho fatto un giro all'interno. Che sogno è mai questo? Cardio? Al cinema. Solo nella golgime. Ho quindi poi dato un'occhiata a tutti i macchinari della golgime. Ho trovato veramente delle chicche molto interessanti. E mi sono perso a pensare come sarebbe effettivamente allenarsi una festa del genere. Prime del giorno. Molto buona. Dopodiché mi sono diretto verso il ponte di Pipistrelli per ovviamente vedere i Pipistrelli. Ma al posto loro ho trovato invece questo bellissimo tramonto. E devo dire che comunque non mi posso lamentare. Ragazzi il Texas mi stupisceavesse sempre di più. Dopodiché Barrettina Porteica convista e di infine siamo arrivati alla cena. Che ho in realtà fatto in bucandomi a questo parti sul rooftop di un hotel qui in Ostin. E quindi preso un po' di tutto da questi tacos, questi gamberetti, questo roast beef di carne che devo dire che mi sono goduto alla grande in questa vista sulla città. I skyline americani sono davvero clavo. Rosesi.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

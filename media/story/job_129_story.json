@@ -1,0 +1,186 @@
+{
+  "title": "Wing Stop Italia - Primo Ordine Esclusivo",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "voiceover": "Wing Stop è FINALMENTE arrivato in Italia e ho dovuto provarla subito.",
+      "scene_need": [
+        "venue_interior_detail"
+      ]
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.5,
+      "voiceover": "Questo è il nuovo spot nel cuore della città, già pieno di gente.",
+      "scene_need": [
+        "menu_board"
+      ]
+    },
+    {
+      "idx": 3,
+      "type": "discovery",
+      "duration": 2.0,
+      "voiceover": "Menu pazzesco: ali croccanti, glassate, morbidini e patatine.",
+      "scene_need": [
+        "person_talking"
+      ]
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.5,
+      "voiceover": "Ho ordinato le ali mix: croccanti dorate e glassate insieme.",
+      "scene_need": [
+        "food_plated"
+      ]
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.0,
+      "voiceover": "Le patatine ondulate sono il vero game changer qui.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 2.5,
+      "voiceover": "Primo piano: ali fritte croccanti dorate, panatura perfetta.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.0,
+      "voiceover": "E quelle glassate? Lucide, caramellate, incredibili.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.5,
+      "voiceover": "Morbidini dorati: texture morbida, panatura croccante fuori.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 2.0,
+      "voiceover": "Tutto servito su carta branded verde, presentazione da 10.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 10,
+      "type": "product",
+      "duration": 2.5,
+      "voiceover": "Ali strips panate finemente: il croccante che senti dalle orecchie.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.0,
+      "voiceover": "E la bevanda? Coca-Cola Zero dalla Freestyle machine.",
+      "scene_need": [
+        "drink_pour"
+      ]
+    },
+    {
+      "idx": 12,
+      "type": "drink",
+      "duration": 2.5,
+      "voiceover": "Rinfrescante, perfetta per accompagnare questo mix di cibo.",
+      "scene_need": [
+        "drink_detail"
+      ]
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 2.0,
+      "voiceover": "Adesso assaggio: intingo l'ala nella salsa bianca.",
+      "scene_need": [
+        "hands_gesture"
+      ]
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.5,
+      "voiceover": "Esplosione di sapori: spezie, tenerezza, croccantezza.",
+      "scene_need": [
+        "person_eating"
+      ]
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.0,
+      "voiceover": "Le patatine? Condite perfettamente, gusto addosso.",
+      "scene_need": [
+        "person_eating"
+      ]
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.5,
+      "voiceover": "Morbidino intinto in salsa: morbido dentro, croccante fuori.",
+      "scene_need": [
+        "person_eating"
+      ]
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.0,
+      "voiceover": "Wing Stop non è solo cibo: è un'esperienza flavor esplosiva.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.5,
+      "voiceover": "La prossima volta proverò tutti i sapori delle ali glassate.",
+      "scene_need": [
+        "food_closeup"
+      ]
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 2.5,
+      "voiceover": "Se siete a Milano, questo è MUST. Wing Stop, vi aspetta.",
+      "scene_need": [
+        "person_talking"
+      ]
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 2.0,
+      "voiceover": "Commentate il vostro gusto preferito: croccante o glassato?",
+      "scene_need": [
+        "menu_board"
+      ]
+    }
+  ],
+  "edl_job_id": 129
+}

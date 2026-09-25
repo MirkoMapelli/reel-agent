@@ -1,0 +1,2752 @@
+{
+  "video_id": "7563654688713854230",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7563654688713854230",
+    "ref_id": "ref_54_7563654688713854230",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7563654688713854230",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 53,
+  "total_dur": 124.87,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.733,
+      "dur": 2.733,
+      "center": 1.367,
+      "role": "other",
+      "subject": "ragazzo sul ponte",
+      "description": "Un ragazzo in piedi su una piattaforma, pronto a buttarsi da un ponte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 1,
+      "start": 2.733,
+      "end": 4.467,
+      "dur": 1.733,
+      "center": 3.6,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il volto del ragazzo mentre sta cadendo, con espressione di sorpresa.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 2,
+      "start": 4.467,
+      "end": 5.267,
+      "dur": 0.8,
+      "center": 4.867,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il ragazzo in caduta con i capelli al vento e lo sguardo verso l'alto.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 3,
+      "start": 5.267,
+      "end": 6.6,
+      "dur": 1.333,
+      "center": 5.933,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il ragazzo sorride mentre è in caduta libera.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 4,
+      "start": 6.6,
+      "end": 7.767,
+      "dur": 1.167,
+      "center": 7.183,
+      "role": "other",
+      "subject": "ragazzo alla guida",
+      "description": "Il ragazzo è alla guida di un'auto, con un logo Nike visibile sui pantaloni.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "ehi!"
+    },
+    {
+      "idx": 5,
+      "start": 7.767,
+      "end": 11.2,
+      "dur": 3.433,
+      "center": 9.483,
+      "role": "person_talking",
+      "subject": "ragazzo in auto",
+      "description": "Il ragazzo guarda verso destra con un'espressione pensierosa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "come"
+    },
+    {
+      "idx": 6,
+      "start": 11.2,
+      "end": 15.967,
+      "dur": 4.767,
+      "center": 13.583,
+      "role": "person_talking",
+      "subject": "ragazzo sorridente in auto",
+      "description": "Il ragazzo sorride mentre guida, con del testo sovrapposto allo schermo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ti senti? manca 40 di me qui oggi"
+    },
+    {
+      "idx": 7,
+      "start": 15.967,
+      "end": 20.633,
+      "dur": 4.667,
+      "center": 18.3,
+      "role": "person_talking",
+      "subject": "ragazzo in auto",
+      "description": "Il ragazzo guarda verso destra con un'espressione neutra, con un piccolo testo in basso a destra.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ora che ho visto il fonte come ti senti? guarda che ho toccato"
+    },
+    {
+      "idx": 8,
+      "start": 20.633,
+      "end": 21.8,
+      "dur": 1.167,
+      "center": 21.217,
+      "role": "other",
+      "subject": "navigatore auto paesaggio",
+      "description": "Un navigatore satellitare mostra un percorso, con un paesaggio montano e una casa rossa sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "il due scienzi stavo"
+    },
+    {
+      "idx": 9,
+      "start": 21.8,
+      "end": 23.133,
+      "dur": 1.333,
+      "center": 22.467,
+      "role": "person_talking",
+      "subject": "ragazzo in auto",
+      "description": "Il ragazzo ha gli occhi chiusi o socchiusi, con un'espressione rilassata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "è"
+    },
+    {
+      "idx": 10,
+      "start": 23.133,
+      "end": 24.267,
+      "dur": 1.133,
+      "center": 23.7,
+      "role": "person_talking",
+      "subject": "ragazzo alla guida",
+      "description": "Il ragazzo è concentrato alla guida, con la luce del sole che entra dal finestrino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "un 'acrovera, è"
+    },
+    {
+      "idx": 11,
+      "start": 24.267,
+      "end": 28.867,
+      "dur": 4.6,
+      "center": 26.567,
+      "role": "person_talking",
+      "subject": "ragazzo alla guida",
+      "description": "Il ragazzo sorride mentre guida, con un'espressione rilassata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "impossibile, è impossibile è così che ti va finissimo ma è vero, è impossibile"
+    },
+    {
+      "idx": 12,
+      "start": 28.867,
+      "end": 32.0,
+      "dur": 3.133,
+      "center": 30.433,
+      "role": "hands_gesture",
+      "subject": "mano sulla bocca",
+      "description": "Una mano copre la bocca del ragazzo, che ha un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ho"
+    },
+    {
+      "idx": 13,
+      "start": 32.0,
+      "end": 40.533,
+      "dur": 8.533,
+      "center": 36.267,
+      "role": "person_talking",
+      "subject": "ragazzo alla guida",
+      "description": "Il sole forte entra dal finestrino, illuminando il viso del ragazzo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "capito che non devo pensarci quando su un momento un burto basta 5 secondi e ho finito in casa come vuoi?"
+    },
+    {
+      "idx": 14,
+      "start": 40.533,
+      "end": 44.967,
+      "dur": 4.433,
+      "center": 42.75,
+      "role": "other",
+      "subject": "ragazzo sul ponte",
+      "description": "Il ragazzo cammina sorridendo lungo un ponte, con una rete metallica sulla destra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "cosa stai per fare? per buttare vi dico un po'"
+    },
+    {
+      "idx": 15,
+      "start": 44.967,
+      "end": 49.767,
+      "dur": 4.8,
+      "center": 47.367,
+      "role": "person_talking",
+      "subject": "ragazzo con occhi chiusi",
+      "description": "Il ragazzo ha gli occhi chiusi e la lingua leggermente fuori, con la scritta 'CHILI' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "importante che abbiano segnato che ho peso 90 Kg che deve essere ben chiaro"
+    },
+    {
+      "idx": 16,
+      "start": 49.767,
+      "end": 51.8,
+      "dur": 2.033,
+      "center": 50.783,
+      "role": "hands_gesture",
+      "subject": "ragazzo che fa dab",
+      "description": "Il ragazzo fa un gesto 'dab' con le braccia, coprendosi parzialmente il viso, in un ambiente esterno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "e il succo?"
+    },
+    {
+      "idx": 17,
+      "start": 51.8,
+      "end": 54.067,
+      "dur": 2.267,
+      "center": 52.933,
+      "role": "other",
+      "subject": "istruttore che prepara ragazzo",
+      "description": "Un istruttore con tatuaggi sul braccio sta aiutando un ragazzo a indossare un'imbracatura sotto un tendone rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "quando la portale risalbe"
+    },
+    {
+      "idx": 18,
+      "start": 54.067,
+      "end": 58.767,
+      "dur": 4.7,
+      "center": 56.417,
+      "role": "other",
+      "subject": "mani sul parapetto",
+      "description": "Le mani di una persona sono appoggiate su un parapetto verde, con una vasta distesa di alberi e montagne sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "siamo pronti"
+    },
+    {
+      "idx": 19,
+      "start": 58.767,
+      "end": 60.333,
+      "dur": 1.567,
+      "center": 59.55,
+      "role": "other",
+      "subject": "ragazzo in preghiera",
+      "description": "Il ragazzo, con l'imbracatura, è in piedi di profilo con le mani giunte in un gesto di preghiera o concentrazione, con bandiere 'bungee.it' sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 20,
+      "start": 60.333,
+      "end": 62.4,
+      "dur": 2.067,
+      "center": 61.367,
+      "role": "person_talking",
+      "subject": "ragazzo che si prepara",
+      "description": "Il ragazzo con espressione concentrata mentre si sistema il colletto della giacca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 21,
+      "start": 62.4,
+      "end": 67.1,
+      "dur": 4.7,
+      "center": 64.75,
+      "role": "other",
+      "subject": "paesaggio montano verde",
+      "description": "La vista mozzafiato di una valle verde da un'altezza considerevole.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 22,
+      "start": 67.1,
+      "end": 68.7,
+      "dur": 1.6,
+      "center": 67.9,
+      "role": "person_talking",
+      "subject": "istruttore sorridente occhiali",
+      "description": "L'istruttore con occhiali da sole verdi che sorride e indica qualcosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 23,
+      "start": 68.7,
+      "end": 69.867,
+      "dur": 1.167,
+      "center": 69.283,
+      "role": "person_talking",
+      "subject": "ragazzo saluta sorridendo",
+      "description": "Il ragazzo che saluta con la mano e sorride, pronto per l'attività.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 24,
+      "start": 69.867,
+      "end": 72.567,
+      "dur": 2.7,
+      "center": 71.217,
+      "role": "other",
+      "subject": "ragazzo sul trampolino",
+      "description": "Il ragazzo in piedi su una piattaforma, con un istruttore accanto, che guarda verso l'orizzonte.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 25,
+      "start": 72.567,
+      "end": 73.267,
+      "dur": 0.7,
+      "center": 72.917,
+      "role": "other",
+      "subject": "ragazzo con imbracatura",
+      "description": "Il ragazzo è concentrato sul tubo blu con la scritta 'Bungee Center Veglio 152 m'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 26,
+      "start": 73.267,
+      "end": 74.567,
+      "dur": 1.3,
+      "center": 73.917,
+      "role": "other",
+      "subject": "ragazzo con imbracatura",
+      "description": "Il ragazzo guarda verso il basso, con un'espressione concentrata, mentre un'altra persona è visibile in basso a destra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 27,
+      "start": 74.567,
+      "end": 76.0,
+      "dur": 1.433,
+      "center": 75.283,
+      "role": "other",
+      "subject": "spalla ragazzo",
+      "description": "Si vede la spalla del ragazzo con una giacca sportiva a strisce arancioni e bianche, e il cielo azzurro sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 28,
+      "start": 76.0,
+      "end": 79.533,
+      "dur": 3.533,
+      "center": 77.767,
+      "role": "other",
+      "subject": "ragazzo sul bordo",
+      "description": "Il ragazzo è in piedi sul bordo di una piattaforma, con le braccia aperte, pronto per il bungee jumping, con la scritta 'BUNGEE' in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 29,
+      "start": 79.533,
+      "end": 80.633,
+      "dur": 1.1,
+      "center": 80.083,
+      "role": "other",
+      "subject": "ragazzo pronto al salto",
+      "description": "Il ragazzo guarda in basso con un'espressione seria, le braccia leggermente aperte, pronto a saltare.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 30,
+      "start": 80.633,
+      "end": 82.6,
+      "dur": 1.967,
+      "center": 81.617,
+      "role": "other",
+      "subject": "persona che si prepara",
+      "description": "Una persona si sta preparando per un'attività, con un'imbracatura e una telecamera sul braccio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 31,
+      "start": 82.6,
+      "end": 85.033,
+      "dur": 2.433,
+      "center": 83.817,
+      "role": "other",
+      "subject": "ragazzo che guarda",
+      "description": "Un ragazzo con un'espressione concentrata guarda verso destra, con un paesaggio montano sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 32,
+      "start": 85.033,
+      "end": 88.033,
+      "dur": 3.0,
+      "center": 86.533,
+      "role": "other",
+      "subject": "ragazzo che guarda",
+      "description": "Il ragazzo guarda verso l'alto con un'espressione tesa, ripreso dal basso.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "e"
+    },
+    {
+      "idx": 33,
+      "start": 88.033,
+      "end": 88.667,
+      "dur": 0.633,
+      "center": 88.35,
+      "role": "other",
+      "subject": "ragazzo che guarda",
+      "description": "Il ragazzo guarda in alto con un'espressione di attesa, con il paesaggio verde sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "si"
+    },
+    {
+      "idx": 34,
+      "start": 88.667,
+      "end": 90.2,
+      "dur": 1.533,
+      "center": 89.433,
+      "role": "other",
+      "subject": "persona che cade",
+      "description": "Una persona sta cadendo nel vuoto, legata a una corda elastica, circondata da alberi.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fa in pino e"
+    },
+    {
+      "idx": 35,
+      "start": 90.2,
+      "end": 91.333,
+      "dur": 1.133,
+      "center": 90.767,
+      "role": "other",
+      "subject": "paesaggio boschivo dall'alto",
+      "description": "La vegetazione fitta e un piccolo ruscello in basso.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 36,
+      "start": 91.333,
+      "end": 95.433,
+      "dur": 4.1,
+      "center": 93.383,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il ragazzo con i capelli all'aria e un'espressione di sorpresa/divertimento.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "la"
+    },
+    {
+      "idx": 37,
+      "start": 95.433,
+      "end": 95.967,
+      "dur": 0.533,
+      "center": 95.7,
+      "role": "other",
+      "subject": "ragazzo sorridente in caduta",
+      "description": "Il ragazzo sorride con la bocca aperta, mentre i capelli sono ancora all'aria.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 38,
+      "start": 95.967,
+      "end": 98.767,
+      "dur": 2.8,
+      "center": 97.367,
+      "role": "other",
+      "subject": "ragazzo che rimbalza",
+      "description": "Il ragazzo è visibile in lontananza, appeso alla corda elastica sopra il bosco.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 39,
+      "start": 98.767,
+      "end": 99.567,
+      "dur": 0.8,
+      "center": 99.167,
+      "role": "other",
+      "subject": "ragazzo sorridente",
+      "description": "Il ragazzo sorride alla telecamera con la scritta 'CAZZO' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 40,
+      "start": 99.567,
+      "end": 100.3,
+      "dur": 0.733,
+      "center": 99.933,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo con un'espressione di stupore e la scritta 'FOLLIA' in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "portale"
+    },
+    {
+      "idx": 41,
+      "start": 100.3,
+      "end": 102.167,
+      "dur": 1.867,
+      "center": 101.233,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il ragazzo con i capelli scompigliati dal vento e lo sfondo di una montagna verde.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 42,
+      "start": 102.167,
+      "end": 103.633,
+      "dur": 1.467,
+      "center": 102.9,
+      "role": "other",
+      "subject": "bungee jumping dall'alto",
+      "description": "Una persona che sta facendo bungee jumping vista dall'alto, con un fiume e alberi sotto.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 43,
+      "start": 103.633,
+      "end": 104.467,
+      "dur": 0.833,
+      "center": 104.05,
+      "role": "other",
+      "subject": "paesaggio montano",
+      "description": "Un paesaggio montano con alberi e un fiume, senza persone in primo piano.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 44,
+      "start": 104.467,
+      "end": 106.133,
+      "dur": 1.667,
+      "center": 105.3,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "Il ragazzo con un'espressione di sorpresa, ripreso dal basso con il cielo azzurro sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 45,
+      "start": 106.133,
+      "end": 106.8,
+      "dur": 0.667,
+      "center": 106.467,
+      "role": "other",
+      "subject": "ragazzo che cade",
+      "description": "Il ragazzo è ripreso da un'angolazione insolita, con la testa in basso e lo sfondo sfocato.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "risalbe"
+    },
+    {
+      "idx": 46,
+      "start": 106.8,
+      "end": 107.7,
+      "dur": 0.9,
+      "center": 107.25,
+      "role": "other",
+      "subject": "ragazzo in caduta",
+      "description": "I capelli del ragazzo sono sparati all'indietro a causa della velocità della caduta.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 47,
+      "start": 107.7,
+      "end": 111.2,
+      "dur": 3.5,
+      "center": 109.45,
+      "role": "other",
+      "subject": "ragazzo sorridente caduta",
+      "description": "Il ragazzo sorride mentre cade, mostrando un'espressione di gioia o eccitazione.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 48,
+      "start": 111.2,
+      "end": 113.867,
+      "dur": 2.667,
+      "center": 112.533,
+      "role": "other",
+      "subject": "bungee jumping",
+      "description": "Una persona sta facendo bungee jumping, ripresa dall'alto con un ampio panorama di alberi e un fiume.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 49,
+      "start": 113.867,
+      "end": 116.833,
+      "dur": 2.967,
+      "center": 115.35,
+      "role": "other",
+      "subject": "ragazzo risalita",
+      "description": "Il ragazzo è ripreso mentre risale, con i capelli ancora scompigliati e lo sguardo rivolto verso l'alto.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "mamma"
+    },
+    {
+      "idx": 50,
+      "start": 116.833,
+      "end": 118.8,
+      "dur": 1.967,
+      "center": 117.817,
+      "role": "other",
+      "subject": "ragazzo sorridente cielo",
+      "description": "Il ragazzo guarda in alto con un'espressione di gioia, illuminato dal sole.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "mia"
+    },
+    {
+      "idx": 51,
+      "start": 118.8,
+      "end": 123.267,
+      "dur": 4.467,
+      "center": 121.033,
+      "role": "other",
+      "subject": "ragazzo montagna corda",
+      "description": "Il ragazzo è ripreso dal basso, con la montagna sullo sfondo e una corda blu in primo piano.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "one two one two one"
+    },
+    {
+      "idx": 52,
+      "start": 123.267,
+      "end": 124.867,
+      "dur": 1.6,
+      "center": 124.067,
+      "role": "other",
+      "subject": "ragazzo sorridente natura",
+      "description": "Il ragazzo sorride alla telecamera con un paesaggio naturale di alberi e cielo azzurro alle spalle.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "two"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sul ponte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo in piedi su una piattaforma, pronto a buttarsi da un ponte.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.733,
+      "dur": 2.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il volto del ragazzo mentre sta cadendo, con espressione di sorpresa.",
+      "shot_idx": 1,
+      "start": 2.733,
+      "end": 4.467,
+      "dur": 1.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo in caduta con i capelli al vento e lo sguardo verso l'alto.",
+      "shot_idx": 2,
+      "start": 4.467,
+      "end": 5.267,
+      "dur": 0.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre è in caduta libera.",
+      "shot_idx": 3,
+      "start": 5.267,
+      "end": 6.6,
+      "dur": 1.333
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo alla guida",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è alla guida di un'auto, con un logo Nike visibile sui pantaloni.",
+      "shot_idx": 4,
+      "start": 6.6,
+      "end": 7.767,
+      "dur": 1.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in auto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda verso destra con un'espressione pensierosa.",
+      "shot_idx": 5,
+      "start": 7.767,
+      "end": 11.2,
+      "dur": 3.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo sorridente in auto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre guida, con del testo sovrapposto allo schermo.",
+      "shot_idx": 6,
+      "start": 11.2,
+      "end": 15.967,
+      "dur": 4.767
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in auto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda verso destra con un'espressione neutra, con un piccolo testo in basso a destra.",
+      "shot_idx": 7,
+      "start": 15.967,
+      "end": 20.633,
+      "dur": 4.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "navigatore auto paesaggio",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un navigatore satellitare mostra un percorso, con un paesaggio montano e una casa rossa sullo sfondo.",
+      "shot_idx": 8,
+      "start": 20.633,
+      "end": 21.8,
+      "dur": 1.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo in auto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo ha gli occhi chiusi o socchiusi, con un'espressione rilassata.",
+      "shot_idx": 9,
+      "start": 21.8,
+      "end": 23.133,
+      "dur": 1.333
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo alla guida",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo è concentrato alla guida, con la luce del sole che entra dal finestrino.",
+      "shot_idx": 10,
+      "start": 23.133,
+      "end": 24.267,
+      "dur": 1.133
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo alla guida",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre guida, con un'espressione rilassata.",
+      "shot_idx": 11,
+      "start": 24.267,
+      "end": 28.867,
+      "dur": 4.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano sulla bocca",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano copre la bocca del ragazzo, che ha un'espressione sorpresa.",
+      "shot_idx": 12,
+      "start": 28.867,
+      "end": 32.0,
+      "dur": 3.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo alla guida",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il sole forte entra dal finestrino, illuminando il viso del ragazzo.",
+      "shot_idx": 13,
+      "start": 32.0,
+      "end": 40.533,
+      "dur": 8.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sul ponte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo cammina sorridendo lungo un ponte, con una rete metallica sulla destra.",
+      "shot_idx": 14,
+      "start": 40.533,
+      "end": 44.967,
+      "dur": 4.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con occhi chiusi",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo ha gli occhi chiusi e la lingua leggermente fuori, con la scritta 'CHILI' in sovrimpressione.",
+      "shot_idx": 15,
+      "start": 44.967,
+      "end": 49.767,
+      "dur": 4.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo che fa dab",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo fa un gesto 'dab' con le braccia, coprendosi parzialmente il viso, in un ambiente esterno.",
+      "shot_idx": 16,
+      "start": 49.767,
+      "end": 51.8,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "istruttore che prepara ragazzo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un istruttore con tatuaggi sul braccio sta aiutando un ragazzo a indossare un'imbracatura sotto un tendone rosso.",
+      "shot_idx": 17,
+      "start": 51.8,
+      "end": 54.067,
+      "dur": 2.267
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "mani sul parapetto",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le mani di una persona sono appoggiate su un parapetto verde, con una vasta distesa di alberi e montagne sullo sfondo.",
+      "shot_idx": 18,
+      "start": 54.067,
+      "end": 58.767,
+      "dur": 4.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in preghiera",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo, con l'imbracatura, è in piedi di profilo con le mani giunte in un gesto di preghiera o concentrazione, con bandiere 'bungee.it' sullo sfondo.",
+      "shot_idx": 19,
+      "start": 58.767,
+      "end": 60.333,
+      "dur": 1.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che si prepara",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con espressione concentrata mentre si sistema il colletto della giacca.",
+      "shot_idx": 20,
+      "start": 60.333,
+      "end": 62.4,
+      "dur": 2.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "paesaggio montano verde",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vista mozzafiato di una valle verde da un'altezza considerevole.",
+      "shot_idx": 21,
+      "start": 62.4,
+      "end": 67.1,
+      "dur": 4.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "istruttore sorridente occhiali",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'istruttore con occhiali da sole verdi che sorride e indica qualcosa.",
+      "shot_idx": 22,
+      "start": 67.1,
+      "end": 68.7,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo saluta sorridendo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo che saluta con la mano e sorride, pronto per l'attività.",
+      "shot_idx": 23,
+      "start": 68.7,
+      "end": 69.867,
+      "dur": 1.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sul trampolino",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo in piedi su una piattaforma, con un istruttore accanto, che guarda verso l'orizzonte.",
+      "shot_idx": 24,
+      "start": 69.867,
+      "end": 72.567,
+      "dur": 2.7
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo con imbracatura",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è concentrato sul tubo blu con la scritta 'Bungee Center Veglio 152 m'.",
+      "shot_idx": 25,
+      "start": 72.567,
+      "end": 73.267,
+      "dur": 0.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo con imbracatura",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda verso il basso, con un'espressione concentrata, mentre un'altra persona è visibile in basso a destra.",
+      "shot_idx": 26,
+      "start": 73.267,
+      "end": 74.567,
+      "dur": 1.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "spalla ragazzo",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Si vede la spalla del ragazzo con una giacca sportiva a strisce arancioni e bianche, e il cielo azzurro sullo sfondo.",
+      "shot_idx": 27,
+      "start": 74.567,
+      "end": 76.0,
+      "dur": 1.433
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sul bordo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è in piedi sul bordo di una piattaforma, con le braccia aperte, pronto per il bungee jumping, con la scritta 'BUNGEE' in primo piano.",
+      "shot_idx": 28,
+      "start": 76.0,
+      "end": 79.533,
+      "dur": 3.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo pronto al salto",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda in basso con un'espressione seria, le braccia leggermente aperte, pronto a saltare.",
+      "shot_idx": 29,
+      "start": 79.533,
+      "end": 80.633,
+      "dur": 1.1
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "persona che si prepara",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona si sta preparando per un'attività, con un'imbracatura e una telecamera sul braccio.",
+      "shot_idx": 30,
+      "start": 80.633,
+      "end": 82.6,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo che guarda",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un'espressione concentrata guarda verso destra, con un paesaggio montano sullo sfondo.",
+      "shot_idx": 31,
+      "start": 82.6,
+      "end": 85.033,
+      "dur": 2.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo che guarda",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda verso l'alto con un'espressione tesa, ripreso dal basso.",
+      "shot_idx": 32,
+      "start": 85.033,
+      "end": 88.033,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo che guarda",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda in alto con un'espressione di attesa, con il paesaggio verde sullo sfondo.",
+      "shot_idx": 33,
+      "start": 88.033,
+      "end": 88.667,
+      "dur": 0.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "persona che cade",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona sta cadendo nel vuoto, legata a una corda elastica, circondata da alberi.",
+      "shot_idx": 34,
+      "start": 88.667,
+      "end": 90.2,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "paesaggio boschivo dall'alto",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vegetazione fitta e un piccolo ruscello in basso.",
+      "shot_idx": 35,
+      "start": 90.2,
+      "end": 91.333,
+      "dur": 1.133
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con i capelli all'aria e un'espressione di sorpresa/divertimento.",
+      "shot_idx": 36,
+      "start": 91.333,
+      "end": 95.433,
+      "dur": 4.1
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride con la bocca aperta, mentre i capelli sono ancora all'aria.",
+      "shot_idx": 37,
+      "start": 95.433,
+      "end": 95.967,
+      "dur": 0.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "ragazzo che rimbalza",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è visibile in lontananza, appeso alla corda elastica sopra il bosco.",
+      "shot_idx": 38,
+      "start": 95.967,
+      "end": 98.767,
+      "dur": 2.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera con la scritta 'CAZZO' in sovrimpressione.",
+      "shot_idx": 39,
+      "start": 98.767,
+      "end": 99.567,
+      "dur": 0.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con un'espressione di stupore e la scritta 'FOLLIA' in primo piano.",
+      "shot_idx": 40,
+      "start": 99.567,
+      "end": 100.3,
+      "dur": 0.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con i capelli scompigliati dal vento e lo sfondo di una montagna verde.",
+      "shot_idx": 41,
+      "start": 100.3,
+      "end": 102.167,
+      "dur": 1.867
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "bungee jumping dall'alto",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona che sta facendo bungee jumping vista dall'alto, con un fiume e alberi sotto.",
+      "shot_idx": 42,
+      "start": 102.167,
+      "end": 103.633,
+      "dur": 1.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "paesaggio montano",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un paesaggio montano con alberi e un fiume, senza persone in primo piano.",
+      "shot_idx": 43,
+      "start": 103.633,
+      "end": 104.467,
+      "dur": 0.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con un'espressione di sorpresa, ripreso dal basso con il cielo azzurro sullo sfondo.",
+      "shot_idx": 44,
+      "start": 104.467,
+      "end": 106.133,
+      "dur": 1.667
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo che cade",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è ripreso da un'angolazione insolita, con la testa in basso e lo sfondo sfocato.",
+      "shot_idx": 45,
+      "start": 106.133,
+      "end": 106.8,
+      "dur": 0.667
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo in caduta",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "I capelli del ragazzo sono sparati all'indietro a causa della velocità della caduta.",
+      "shot_idx": 46,
+      "start": 106.8,
+      "end": 107.7,
+      "dur": 0.9
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente caduta",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride mentre cade, mostrando un'espressione di gioia o eccitazione.",
+      "shot_idx": 47,
+      "start": 107.7,
+      "end": 111.2,
+      "dur": 3.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "bungee jumping",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una persona sta facendo bungee jumping, ripresa dall'alto con un ampio panorama di alberi e un fiume.",
+      "shot_idx": 48,
+      "start": 111.2,
+      "end": 113.867,
+      "dur": 2.667
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "ragazzo risalita",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è ripreso mentre risale, con i capelli ancora scompigliati e lo sguardo rivolto verso l'alto.",
+      "shot_idx": 49,
+      "start": 113.867,
+      "end": 116.833,
+      "dur": 2.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente cielo",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo guarda in alto con un'espressione di gioia, illuminato dal sole.",
+      "shot_idx": 50,
+      "start": 116.833,
+      "end": 118.8,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo montagna corda",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è ripreso dal basso, con la montagna sullo sfondo e una corda blu in primo piano.",
+      "shot_idx": 51,
+      "start": 118.8,
+      "end": 123.267,
+      "dur": 4.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente natura",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera con un paesaggio naturale di alberi e cielo azzurro alle spalle.",
+      "shot_idx": 52,
+      "start": 123.267,
+      "end": 124.867,
+      "dur": 1.6
+    }
+  ],
+  "segments": [
+    {
+      "start": 6.44,
+      "end": 6.96,
+      "text": "ehi!"
+    },
+    {
+      "start": 10.42,
+      "end": 11.92,
+      "text": "come ti senti?"
+    },
+    {
+      "start": 13.08,
+      "end": 14.98,
+      "text": "manca 40 di me qui oggi"
+    },
+    {
+      "start": 16.2,
+      "end": 17.56,
+      "text": "ora che ho visto il fonte"
+    },
+    {
+      "start": 18.68,
+      "end": 19.82,
+      "text": "come ti senti?"
+    },
+    {
+      "start": 19.88,
+      "end": 22.08,
+      "text": "guarda che ho toccato il due scienzi stavo"
+    },
+    {
+      "start": 22.84,
+      "end": 25.5,
+      "text": "è un'acrovera, è impossibile, è impossibile"
+    },
+    {
+      "start": 25.5,
+      "end": 26.54,
+      "text": "è così che ti va finissimo"
+    },
+    {
+      "start": 27.1,
+      "end": 28.56,
+      "text": "ma è vero, è impossibile"
+    },
+    {
+      "start": 31.28,
+      "end": 33.88,
+      "text": "ho capito che non devo pensarci"
+    },
+    {
+      "start": 33.88,
+      "end": 36.0,
+      "text": "quando su un momento un burto basta"
+    },
+    {
+      "start": 36.0,
+      "end": 38.68,
+      "text": "5 secondi e ho finito in casa"
+    },
+    {
+      "start": 38.68,
+      "end": 39.32,
+      "text": "come vuoi?"
+    },
+    {
+      "start": 40.9,
+      "end": 41.76,
+      "text": "cosa stai per fare?"
+    },
+    {
+      "start": 42.28,
+      "end": 43.12,
+      "text": "per buttare"
+    },
+    {
+      "start": 43.12,
+      "end": 44.14,
+      "text": "vi dico un po'"
+    },
+    {
+      "start": 44.92,
+      "end": 47.92,
+      "text": "importante che abbiano segnato che ho peso 90 Kg"
+    },
+    {
+      "start": 47.92,
+      "end": 49.72,
+      "text": "che deve essere ben chiaro"
+    },
+    {
+      "start": 49.72,
+      "end": 51.48,
+      "text": "e il succo?"
+    },
+    {
+      "start": 51.74,
+      "end": 53.52,
+      "text": "quando la portale risalbe"
+    },
+    {
+      "start": 57.12,
+      "end": 58.4,
+      "text": "siamo pronti"
+    },
+    {
+      "start": 86.34,
+      "end": 89.96,
+      "text": "e si fa in pino"
+    },
+    {
+      "start": 90.0,
+      "end": 112.4,
+      "text": "e la portale risalbe"
+    },
+    {
+      "start": 115.7,
+      "end": 117.56,
+      "text": "mamma mia"
+    },
+    {
+      "start": 120.6,
+      "end": 124.22,
+      "text": "one two one two one two"
+    }
+  ],
+  "words": [
+    {
+      "start": 6.44,
+      "end": 6.96,
+      "word": "ehi!"
+    },
+    {
+      "start": 10.42,
+      "end": 10.94,
+      "word": "come"
+    },
+    {
+      "start": 10.94,
+      "end": 11.46,
+      "word": "ti"
+    },
+    {
+      "start": 11.46,
+      "end": 11.92,
+      "word": "senti?"
+    },
+    {
+      "start": 13.08,
+      "end": 13.3,
+      "word": "manca"
+    },
+    {
+      "start": 13.3,
+      "end": 13.78,
+      "word": "40"
+    },
+    {
+      "start": 13.78,
+      "end": 14.1,
+      "word": "di"
+    },
+    {
+      "start": 14.1,
+      "end": 14.34,
+      "word": "me"
+    },
+    {
+      "start": 14.34,
+      "end": 14.72,
+      "word": "qui"
+    },
+    {
+      "start": 14.72,
+      "end": 14.98,
+      "word": "oggi"
+    },
+    {
+      "start": 16.2,
+      "end": 16.72,
+      "word": "ora"
+    },
+    {
+      "start": 16.72,
+      "end": 16.9,
+      "word": "che"
+    },
+    {
+      "start": 16.9,
+      "end": 16.94,
+      "word": "ho"
+    },
+    {
+      "start": 16.94,
+      "end": 17.1,
+      "word": "visto"
+    },
+    {
+      "start": 17.1,
+      "end": 17.3,
+      "word": "il"
+    },
+    {
+      "start": 17.3,
+      "end": 17.56,
+      "word": "fonte"
+    },
+    {
+      "start": 18.68,
+      "end": 19.2,
+      "word": "come"
+    },
+    {
+      "start": 19.2,
+      "end": 19.42,
+      "word": "ti"
+    },
+    {
+      "start": 19.42,
+      "end": 19.82,
+      "word": "senti?"
+    },
+    {
+      "start": 19.88,
+      "end": 19.96,
+      "word": "guarda"
+    },
+    {
+      "start": 19.96,
+      "end": 20.08,
+      "word": "che"
+    },
+    {
+      "start": 20.08,
+      "end": 20.2,
+      "word": "ho"
+    },
+    {
+      "start": 20.2,
+      "end": 20.66,
+      "word": "toccato"
+    },
+    {
+      "start": 20.66,
+      "end": 21.02,
+      "word": "il"
+    },
+    {
+      "start": 21.02,
+      "end": 21.08,
+      "word": "due"
+    },
+    {
+      "start": 21.08,
+      "end": 21.46,
+      "word": "scienzi"
+    },
+    {
+      "start": 21.46,
+      "end": 22.08,
+      "word": "stavo"
+    },
+    {
+      "start": 22.84,
+      "end": 23.36,
+      "word": "è"
+    },
+    {
+      "start": 23.36,
+      "end": 23.5,
+      "word": "un"
+    },
+    {
+      "start": 23.5,
+      "end": 23.96,
+      "word": "'acrovera,"
+    },
+    {
+      "start": 23.98,
+      "end": 24.36,
+      "word": "è"
+    },
+    {
+      "start": 24.36,
+      "end": 25.1,
+      "word": "impossibile,"
+    },
+    {
+      "start": 25.24,
+      "end": 25.24,
+      "word": "è"
+    },
+    {
+      "start": 25.24,
+      "end": 25.5,
+      "word": "impossibile"
+    },
+    {
+      "start": 25.5,
+      "end": 25.52,
+      "word": "è"
+    },
+    {
+      "start": 25.52,
+      "end": 25.84,
+      "word": "così"
+    },
+    {
+      "start": 25.84,
+      "end": 25.92,
+      "word": "che"
+    },
+    {
+      "start": 25.92,
+      "end": 26.02,
+      "word": "ti"
+    },
+    {
+      "start": 26.02,
+      "end": 26.12,
+      "word": "va"
+    },
+    {
+      "start": 26.12,
+      "end": 26.54,
+      "word": "finissimo"
+    },
+    {
+      "start": 26.96,
+      "end": 27.22,
+      "word": "ma"
+    },
+    {
+      "start": 27.22,
+      "end": 27.34,
+      "word": "è"
+    },
+    {
+      "start": 27.34,
+      "end": 27.74,
+      "word": "vero,"
+    },
+    {
+      "start": 27.82,
+      "end": 27.92,
+      "word": "è"
+    },
+    {
+      "start": 27.92,
+      "end": 28.56,
+      "word": "impossibile"
+    },
+    {
+      "start": 31.28,
+      "end": 31.92,
+      "word": "ho"
+    },
+    {
+      "start": 31.92,
+      "end": 32.56,
+      "word": "capito"
+    },
+    {
+      "start": 32.56,
+      "end": 32.7,
+      "word": "che"
+    },
+    {
+      "start": 32.7,
+      "end": 32.98,
+      "word": "non"
+    },
+    {
+      "start": 32.98,
+      "end": 33.18,
+      "word": "devo"
+    },
+    {
+      "start": 33.18,
+      "end": 33.88,
+      "word": "pensarci"
+    },
+    {
+      "start": 33.88,
+      "end": 34.24,
+      "word": "quando"
+    },
+    {
+      "start": 34.24,
+      "end": 34.68,
+      "word": "su"
+    },
+    {
+      "start": 34.68,
+      "end": 34.82,
+      "word": "un"
+    },
+    {
+      "start": 34.82,
+      "end": 35.06,
+      "word": "momento"
+    },
+    {
+      "start": 35.06,
+      "end": 35.34,
+      "word": "un"
+    },
+    {
+      "start": 35.34,
+      "end": 35.68,
+      "word": "burto"
+    },
+    {
+      "start": 35.68,
+      "end": 36.0,
+      "word": "basta"
+    },
+    {
+      "start": 36.0,
+      "end": 36.38,
+      "word": "5"
+    },
+    {
+      "start": 36.38,
+      "end": 36.9,
+      "word": "secondi"
+    },
+    {
+      "start": 36.9,
+      "end": 36.98,
+      "word": "e"
+    },
+    {
+      "start": 36.98,
+      "end": 37.1,
+      "word": "ho"
+    },
+    {
+      "start": 37.1,
+      "end": 37.24,
+      "word": "finito"
+    },
+    {
+      "start": 37.24,
+      "end": 37.76,
+      "word": "in"
+    },
+    {
+      "start": 37.76,
+      "end": 38.68,
+      "word": "casa"
+    },
+    {
+      "start": 38.68,
+      "end": 39.02,
+      "word": "come"
+    },
+    {
+      "start": 39.02,
+      "end": 39.32,
+      "word": "vuoi?"
+    },
+    {
+      "start": 40.9,
+      "end": 41.14,
+      "word": "cosa"
+    },
+    {
+      "start": 41.14,
+      "end": 41.34,
+      "word": "stai"
+    },
+    {
+      "start": 41.34,
+      "end": 41.48,
+      "word": "per"
+    },
+    {
+      "start": 41.48,
+      "end": 41.76,
+      "word": "fare?"
+    },
+    {
+      "start": 42.28,
+      "end": 42.56,
+      "word": "per"
+    },
+    {
+      "start": 42.56,
+      "end": 43.12,
+      "word": "buttare"
+    },
+    {
+      "start": 43.12,
+      "end": 43.78,
+      "word": "vi"
+    },
+    {
+      "start": 43.78,
+      "end": 43.84,
+      "word": "dico"
+    },
+    {
+      "start": 43.84,
+      "end": 44.02,
+      "word": "un"
+    },
+    {
+      "start": 44.02,
+      "end": 44.14,
+      "word": "po'"
+    },
+    {
+      "start": 44.92,
+      "end": 45.52,
+      "word": "importante"
+    },
+    {
+      "start": 45.52,
+      "end": 45.76,
+      "word": "che"
+    },
+    {
+      "start": 45.76,
+      "end": 46.02,
+      "word": "abbiano"
+    },
+    {
+      "start": 46.02,
+      "end": 46.4,
+      "word": "segnato"
+    },
+    {
+      "start": 46.4,
+      "end": 46.56,
+      "word": "che"
+    },
+    {
+      "start": 46.56,
+      "end": 46.64,
+      "word": "ho"
+    },
+    {
+      "start": 46.64,
+      "end": 46.68,
+      "word": "peso"
+    },
+    {
+      "start": 46.68,
+      "end": 47.16,
+      "word": "90"
+    },
+    {
+      "start": 47.16,
+      "end": 47.92,
+      "word": "Kg"
+    },
+    {
+      "start": 47.92,
+      "end": 48.44,
+      "word": "che"
+    },
+    {
+      "start": 48.44,
+      "end": 48.52,
+      "word": "deve"
+    },
+    {
+      "start": 48.52,
+      "end": 48.72,
+      "word": "essere"
+    },
+    {
+      "start": 48.72,
+      "end": 48.9,
+      "word": "ben"
+    },
+    {
+      "start": 48.9,
+      "end": 49.72,
+      "word": "chiaro"
+    },
+    {
+      "start": 49.72,
+      "end": 50.94,
+      "word": "e"
+    },
+    {
+      "start": 50.94,
+      "end": 51.1,
+      "word": "il"
+    },
+    {
+      "start": 51.1,
+      "end": 51.48,
+      "word": "succo?"
+    },
+    {
+      "start": 51.74,
+      "end": 52.22,
+      "word": "quando"
+    },
+    {
+      "start": 52.22,
+      "end": 52.5,
+      "word": "la"
+    },
+    {
+      "start": 52.5,
+      "end": 52.96,
+      "word": "portale"
+    },
+    {
+      "start": 52.96,
+      "end": 53.52,
+      "word": "risalbe"
+    },
+    {
+      "start": 57.12,
+      "end": 57.76,
+      "word": "siamo"
+    },
+    {
+      "start": 57.76,
+      "end": 58.4,
+      "word": "pronti"
+    },
+    {
+      "start": 86.34,
+      "end": 87.74,
+      "word": "e"
+    },
+    {
+      "start": 87.74,
+      "end": 89.14,
+      "word": "si"
+    },
+    {
+      "start": 89.14,
+      "end": 89.9,
+      "word": "fa"
+    },
+    {
+      "start": 89.9,
+      "end": 89.92,
+      "word": "in"
+    },
+    {
+      "start": 89.92,
+      "end": 89.96,
+      "word": "pino"
+    },
+    {
+      "start": 90.0,
+      "end": 90.0,
+      "word": "e"
+    },
+    {
+      "start": 90.0,
+      "end": 99.28,
+      "word": "la"
+    },
+    {
+      "start": 99.28,
+      "end": 100.04,
+      "word": "portale"
+    },
+    {
+      "start": 100.04,
+      "end": 112.4,
+      "word": "risalbe"
+    },
+    {
+      "start": 115.7,
+      "end": 117.1,
+      "word": "mamma"
+    },
+    {
+      "start": 117.1,
+      "end": 117.56,
+      "word": "mia"
+    },
+    {
+      "start": 120.6,
+      "end": 121.76,
+      "word": "one"
+    },
+    {
+      "start": 121.76,
+      "end": 121.96,
+      "word": "two"
+    },
+    {
+      "start": 121.96,
+      "end": 122.1,
+      "word": "one"
+    },
+    {
+      "start": 122.1,
+      "end": 122.72,
+      "word": "two"
+    },
+    {
+      "start": 122.72,
+      "end": 123.68,
+      "word": "one"
+    },
+    {
+      "start": 123.68,
+      "end": 124.22,
+      "word": "two"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.733,
+      "dur": 2.733,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.733,
+      "end": 4.467,
+      "dur": 1.733,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.467,
+      "end": 5.267,
+      "dur": 0.8,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.267,
+      "end": 6.6,
+      "dur": 1.333,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.6,
+      "end": 7.767,
+      "dur": 1.167,
+      "transcript": "ehi!"
+    },
+    {
+      "shot_idx": 5,
+      "start": 7.767,
+      "end": 11.2,
+      "dur": 3.433,
+      "transcript": "come"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.2,
+      "end": 15.967,
+      "dur": 4.767,
+      "transcript": "ti senti? manca 40 di me qui oggi"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.967,
+      "end": 20.633,
+      "dur": 4.667,
+      "transcript": "ora che ho visto il fonte come ti senti? guarda che ho toccato"
+    },
+    {
+      "shot_idx": 8,
+      "start": 20.633,
+      "end": 21.8,
+      "dur": 1.167,
+      "transcript": "il due scienzi stavo"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.8,
+      "end": 23.133,
+      "dur": 1.333,
+      "transcript": "è"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.133,
+      "end": 24.267,
+      "dur": 1.133,
+      "transcript": "un 'acrovera, è"
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.267,
+      "end": 28.867,
+      "dur": 4.6,
+      "transcript": "impossibile, è impossibile è così che ti va finissimo ma è vero, è impossibile"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.867,
+      "end": 32.0,
+      "dur": 3.133,
+      "transcript": "ho"
+    },
+    {
+      "shot_idx": 13,
+      "start": 32.0,
+      "end": 40.533,
+      "dur": 8.533,
+      "transcript": "capito che non devo pensarci quando su un momento un burto basta 5 secondi e ho finito in casa come vuoi?"
+    },
+    {
+      "shot_idx": 14,
+      "start": 40.533,
+      "end": 44.967,
+      "dur": 4.433,
+      "transcript": "cosa stai per fare? per buttare vi dico un po'"
+    },
+    {
+      "shot_idx": 15,
+      "start": 44.967,
+      "end": 49.767,
+      "dur": 4.8,
+      "transcript": "importante che abbiano segnato che ho peso 90 Kg che deve essere ben chiaro"
+    },
+    {
+      "shot_idx": 16,
+      "start": 49.767,
+      "end": 51.8,
+      "dur": 2.033,
+      "transcript": "e il succo?"
+    },
+    {
+      "shot_idx": 17,
+      "start": 51.8,
+      "end": 54.067,
+      "dur": 2.267,
+      "transcript": "quando la portale risalbe"
+    },
+    {
+      "shot_idx": 18,
+      "start": 54.067,
+      "end": 58.767,
+      "dur": 4.7,
+      "transcript": "siamo pronti"
+    },
+    {
+      "shot_idx": 19,
+      "start": 58.767,
+      "end": 60.333,
+      "dur": 1.567,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 20,
+      "start": 60.333,
+      "end": 62.4,
+      "dur": 2.067,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 21,
+      "start": 62.4,
+      "end": 67.1,
+      "dur": 4.7,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 22,
+      "start": 67.1,
+      "end": 68.7,
+      "dur": 1.6,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 23,
+      "start": 68.7,
+      "end": 69.867,
+      "dur": 1.167,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 24,
+      "start": 69.867,
+      "end": 72.567,
+      "dur": 2.7,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 25,
+      "start": 72.567,
+      "end": 73.267,
+      "dur": 0.7,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 26,
+      "start": 73.267,
+      "end": 74.567,
+      "dur": 1.3,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 27,
+      "start": 74.567,
+      "end": 76.0,
+      "dur": 1.433,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 28,
+      "start": 76.0,
+      "end": 79.533,
+      "dur": 3.533,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 29,
+      "start": 79.533,
+      "end": 80.633,
+      "dur": 1.1,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 30,
+      "start": 80.633,
+      "end": 82.6,
+      "dur": 1.967,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 31,
+      "start": 82.6,
+      "end": 85.033,
+      "dur": 2.433,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 32,
+      "start": 85.033,
+      "end": 88.033,
+      "dur": 3.0,
+      "transcript": "e"
+    },
+    {
+      "shot_idx": 33,
+      "start": 88.033,
+      "end": 88.667,
+      "dur": 0.633,
+      "transcript": "si"
+    },
+    {
+      "shot_idx": 34,
+      "start": 88.667,
+      "end": 90.2,
+      "dur": 1.533,
+      "transcript": "fa in pino e"
+    },
+    {
+      "shot_idx": 35,
+      "start": 90.2,
+      "end": 91.333,
+      "dur": 1.133,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 36,
+      "start": 91.333,
+      "end": 95.433,
+      "dur": 4.1,
+      "transcript": "la"
+    },
+    {
+      "shot_idx": 37,
+      "start": 95.433,
+      "end": 95.967,
+      "dur": 0.533,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 38,
+      "start": 95.967,
+      "end": 98.767,
+      "dur": 2.8,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 39,
+      "start": 98.767,
+      "end": 99.567,
+      "dur": 0.8,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 40,
+      "start": 99.567,
+      "end": 100.3,
+      "dur": 0.733,
+      "transcript": "portale"
+    },
+    {
+      "shot_idx": 41,
+      "start": 100.3,
+      "end": 102.167,
+      "dur": 1.867,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 42,
+      "start": 102.167,
+      "end": 103.633,
+      "dur": 1.467,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 43,
+      "start": 103.633,
+      "end": 104.467,
+      "dur": 0.833,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 44,
+      "start": 104.467,
+      "end": 106.133,
+      "dur": 1.667,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 45,
+      "start": 106.133,
+      "end": 106.8,
+      "dur": 0.667,
+      "transcript": "risalbe"
+    },
+    {
+      "shot_idx": 46,
+      "start": 106.8,
+      "end": 107.7,
+      "dur": 0.9,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 47,
+      "start": 107.7,
+      "end": 111.2,
+      "dur": 3.5,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 48,
+      "start": 111.2,
+      "end": 113.867,
+      "dur": 2.667,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 49,
+      "start": 113.867,
+      "end": 116.833,
+      "dur": 2.967,
+      "transcript": "mamma"
+    },
+    {
+      "shot_idx": 50,
+      "start": 116.833,
+      "end": 118.8,
+      "dur": 1.967,
+      "transcript": "mia"
+    },
+    {
+      "shot_idx": 51,
+      "start": 118.8,
+      "end": 123.267,
+      "dur": 4.467,
+      "transcript": "one two one two one"
+    },
+    {
+      "shot_idx": 52,
+      "start": 123.267,
+      "end": 124.867,
+      "dur": 1.6,
+      "transcript": "two"
+    }
+  ],
+  "full_text": "ehi! come ti senti? manca 40 di me qui oggi ora che ho visto il fonte come ti senti? guarda che ho toccato il due scienzi stavo è un'acrovera, è impossibile, è impossibile è così che ti va finissimo ma è vero, è impossibile ho capito che non devo pensarci quando su un momento un burto basta 5 secondi e ho finito in casa come vuoi? cosa stai per fare? per buttare vi dico un po' importante che abbiano segnato che ho peso 90 Kg che deve essere ben chiaro e il succo? quando la portale risalbe siamo pronti e si fa in pino e la portale risalbe mamma mia one two one two one two",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": "0.2",
+  "generated_at": "2026-09-20T22:44:00",
+  "primary_creator": "jay.emme",
+  "corpus": {
+    "creators": {
+      "chefmaxmariola": 2,
+      "jay.emme": 107
+    },
+    "n_videos_total": 109,
+    "n_shots_total": 3837
+  },
+  "rhythmic_memory": {
+    "dur_stats": {
+      "count": 3714,
+      "mean": 2.42,
+      "median": 2.03,
+      "p10": 1.23,
+      "p90": 4.03,
+      "min": 0.07,
+      "max": 16.33
+    },
+    "dur_opening_mean": 2.24,
+    "dur_closing_mean": 2.93,
+    "roles_dist": {
+      "person_eating": 1053,
+      "other": 752,
+      "food_detail": 561,
+      "food_plated": 302,
+      "person_talking": 285,
+      "venue_exterior": 182,
+      "food_closeup": 162,
+      "venue_interior_wide": 151,
+      "venue_interior_detail": 110,
+      "drink_detail": 74,
+      "hands_gesture": 63,
+      "menu_board": 18,
+      "claw_game": 1
+    },
+    "compositions_dist": {
+      "medium": 1748,
+      "close_up": 1170,
+      "wide": 477,
+      "": 270,
+      "detail": 48,
+      "pov": 1
+    },
+    "angles_dist": {
+      "orizzontale": 2447,
+      "dall_alto": 815,
+      "": 270,
+      "dal_basso": 98,
+      "pov": 84
+    },
+    "lightings_dist": {
+      "artificiale_caldo": 1135,
+      "naturale": 865,
+      "mista": 783,
+      "artificiale_freddo": 633,
+      "": 270,
+      "artificiale_mista": 26,
+      "artificial_caldo": 2
+    },
+    "human_ratio": 0.665,
+    "food_ratio": 0.296,
+    "venue_ratio": 0.119,
+    "logo_ratio": 0.318
+  },
+  "visual_memory": {
+    "visual_signature": "Montaggio rapido centrato sull'esperienza personale del cibo: il creator è sempre presente come protagonista che mostra, assaggia e reagisce, alternando inquadrature medie del volto a dettagli ravvicinati del piatto.",
+    "opening_rules": [
+      "Apertura con food_plated (2-2.5s): piatto completo mostrato dal creator o in primo piano per stabilire il tema",
+      "Alternativa person_eating/talking (1.6-2s): il creator introduce direttamente con espressione o gesto",
+      "Raramente apertura con venue o contesto ambientale, focus immediato su cibo o persona",
+      "Shot di apertura medio-lungo (2-3s) per dare contesto prima di accelerare il ritmo",
+      "Food_closeup come hook visivo (1.9-2s) per catturare attenzione immediata",
+      "Sequenza tipica: piatto completo → dettaglio ingrediente → reazione umana entro 6 secondi"
+    ],
+    "closing_rules": [
+      "Chiusura dominata da person_eating (2-6s): il momento del morso finale o reazione conclusiva",
+      "Shot finali più lunghi della media (2.93s vs 2.42s): lascia respirare l'esperienza",
+      "Sequenza emotiva: dettaglio cibo → persona che mangia → reazione soddisfatta",
+      "Uso di 'other' come stacco finale (0.1-0.3s): logo, packaging o elemento sorpresa",
+      "Person_talking come chiusura narrativa (5-7s) per commento finale o call-to-action",
+      "Food_closeup finale (2-4s) per lasciare desiderio visivo nel pubblico"
+    ],
+    "food_vocabulary": [
+      "Food_detail ravvicinato (0.7-2.8s): texture, strati, cheese pull, succulenza",
+      "Food_plated con creator che tiene il piatto (1.8-3s): ownership dell'esperienza",
+      "Momenti di versamento/preparazione: sciroppo, pastella, salse in azione",
+      "Carne affumicata con smoke ring visibile: dettaglio tecnico BBQ",
+      "Pizza con formaggio filante: momento iconico ripetuto",
+      "Inquadrature dall'alto per piatti complessi o abbondanti",
+      "Focus su dimensioni generose: due pizze, vassoi pieni, porzioni XL"
+    ],
+    "human_vocabulary": [
+      "Person_eating dominante (1053 shot): il morso è il climax narrativo",
+      "Espressioni facciali esagerate: sorpresa, soddisfazione, godimento",
+      "Creator sempre riconoscibile: cappellino, sorriso, energia costante",
+      "Gesti con le mani: mostrare, indicare, enfatizzare dimensioni",
+      "Sguardo in camera: connessione diretta con audience",
+      "Person_talking breve (1.4-2.1s): commenti rapidi, no monologhi",
+      "Presenza fisica costante: 66.5% mix umano, mai solo cibo astratto"
+    ],
+    "venue_vocabulary": [
+      "Venue_exterior minimo (182 shot): contesto geografico rapido",
+      "Venue_interior_wide per stabilire atmosfera (2.7s)",
+      "Dettagli ambientali caratteristici: murales, insegne, branding locale",
+      "Location come elemento narrativo secondario, non protagonista",
+      "Inquadrature di contesto urbano: grattacieli, panorami da finestra",
+      "Ambienti autentici: cucine a vista, banchi BBQ, pizzerie tradizionali"
+    ],
+    "signature_moves": [
+      "Cheese pull: momento rallentato del formaggio che si allunga",
+      "Il morso decisivo: inquadratura ravvicinata del primo assaggio",
+      "Doppia presentazione: mostrare due piatti/pizze contemporaneamente",
+      "Smoke ring reveal: taglio della carne per mostrare cottura perfetta",
+      "Reazione a cascata: piatto → dettaglio → morso → espressione in 8-10s",
+      "Versamento liquidi: sciroppo, salse, bevande come transizione visiva",
+      "Contrasto dimensionale: mano che tiene cibo per enfatizzare grandezza",
+      "Travel montage: location esotiche integrate con food locale"
+    ],
+    "unique_vs_others": [
+      "Presenza umana costante (66.5%) vs altri creator più product-focused: il cibo è esperienza personale, non oggetto",
+      "Shot duration bilanciata (2.42s): né troppo frenetica né contemplativa, ritmo digestibile",
+      "Chiusure più lunghe delle aperture (2.93s vs 2.24s): costruisce verso payoff emotivo",
+      "Person_eating come categoria dominante (1053): l'atto del mangiare è contenuto, non contorno",
+      "Mix equilibrato food/human/venue: storytelling completo vs solo food porn",
+      "Composizione medium dominante (1748): distanza intima ma non invadente",
+      "Luce calda artificiale prevalente: atmosfera accogliente e appetitosa costante",
+      "Narrazione geografica: travel food vlog vs recensioni statiche di ristoranti"
+    ]
+  },
+  "narrative_memory": {
+    "narrative_signature": "Narrazione iperbolica in prima persona con enfasi emotiva e coinvolgimento diretto del pubblico attraverso domande retoriche e dichiarazioni entusiastiche.",
+    "opening_rules": [
+      "Domanda retorica provocatoria ('e se vi dicessi che...')",
+      "Dichiarazione di intenti personali ('Ciao ragazzi sono Jay e voglio...')",
+      "Annuncio diretto dell'esperienza ('oggi ragazzi vi porto...')",
+      "Esclamazione enfatica ('No, be' ragazzi ancora non ci credo')",
+      "Contestualizzazione immediata del luogo o situazione"
+    ],
+    "body_structure": [
+      "Sequenza cronologica rigida degli eventi (colazione → attività → pranzo → allenamento → cena)",
+      "Descrizione dettagliata di ogni piatto/momento con aggettivi amplificati",
+      "Inserimento di stati emotivi personali ('faccia affranta', 'bello carico')",
+      "Uso costante di 'ragazzi' come punteggiatura narrativa",
+      "Alternanza tra momenti di vita quotidiana e food review",
+      "Commenti valutativi immediati ('veramente clamorosa', 'tanta roba')"
+    ],
+    "closing_rules": [
+      "Valutazione finale enfatica dell'esperienza",
+      "Spesso troncato mid-sentence suggerendo continuità",
+      "Richiamo emotivo all'esperienza complessiva",
+      "Raramente chiusura formale, più flow naturale interrotto"
+    ],
+    "transitions_between_beats": [
+      "Marcatori temporali espliciti ('dopo di che', 'poi', 'passando a')",
+      "Connettivi di progressione ('infatti', 'ovviamente', 'quindi')",
+      "Cambio di scena annunciato verbalmente ('qua mi vedete', 'invece questa è')",
+      "Uso di 'ragazzi' come reset attenzionale tra segmenti"
+    ],
+    "content_types": [
+      "Vlog di miglioramento personale (fitness/studio)",
+      "Food review di ristoranti specifici",
+      "Full day of eating in definizione",
+      "Travel vlog con focus gastronomico",
+      "Challenge/novità food"
+    ],
+    "unique_vs_others": [
+      "Ibrida costantemente food review con personal journey (fitness, esami, vita quotidiana) creando narrativa seriale",
+      "Usa il cibo come punctum in una storia più ampia di self-improvement, non come contenuto isolato",
+      "Mantiene continuità narrativa tra video attraverso riferimenti a obiettivi personali e routine",
+      "Linguaggio colloquiale estremo con ripetizioni enfatiche ('veramente veramente', 'clamoroso') assenti negli altri",
+      "Mostra vulnerabilità (esami andati male, stanchezza) integrata nel food content",
+      "Struttura diaristica con timestamp emotivi, non solo descrittivi"
+    ]
+  },
+  "lexical_memory": {
+    "language_signature": "Linguaggio colloquiale e diretto con marcatori discorsivi ricorrenti e strutture narrative sequenziali tipiche del parlato spontaneo food-vlogging.",
+    "signature_words": [
+      "ragazzi",
+      "ovviamente",
+      "veramente",
+      "comunque",
+      "appunto",
+      "devo dire",
+      "tra l'altro",
+      "infatti",
+      "praticamente",
+      "dopodiché",
+      "infine",
+      "abbastanza",
+      "nonostante",
+      "ovvero",
+      "subito"
+    ],
+    "banned_words": [
+      "eccellente",
+      "sublime",
+      "straordinario",
+      "magnifico",
+      "delizioso",
+      "squisito",
+      "raffinato",
+      "gourmet",
+      "sofisticato",
+      "elegante"
+    ],
+    "opening_phrases": [
+      "Oggi ragazzi vi porto [a provare/da]",
+      "Giorno [numero] del mio viaggio in [luogo]",
+      "Il miglior/La miglior [cibo] di [luogo]",
+      "Proviamo [cibo/esperienza] [aggettivo]",
+      "[Ciao] ragazzi [sono Jay e/oggi]"
+    ],
+    "closing_phrases": [
+      "Insomma ragazzi [valutazione finale]",
+      "In conclusione direi [valutazione]",
+      "Quindi ragazzi [consiglio/invito]",
+      "[Aggettivo] veramente [valutazione enfatica]",
+      "E se avete voglia di [azione] iniziate a seguirmi"
+    ],
+    "sentence_patterns": [
+      "devo dire che [valutazione]",
+      "un po' di [sostantivo]",
+      "dopo di che [azione successiva]",
+      "che tra l'altro [informazione aggiuntiva]",
+      "abbiamo iniziato con [cibo]",
+      "ed infine [elemento conclusivo]",
+      "veramente [aggettivo/avverbio intensivo]",
+      "un sacco di [sostantivo plurale]"
+    ],
+    "tone": "Entusiasta, informale e narrativo con forte connotazione youth-oriented e registro medio-basso tipico dei content creator food su social media."
+  },
+  "signature_unique": {
+    "visual": [
+      "Presenza umana costante (66.5%) vs altri creator più product-focused: il cibo è esperienza personale, non oggetto",
+      "Shot duration bilanciata (2.42s): né troppo frenetica né contemplativa, ritmo digestibile",
+      "Chiusure più lunghe delle aperture (2.93s vs 2.24s): costruisce verso payoff emotivo",
+      "Person_eating come categoria dominante (1053): l'atto del mangiare è contenuto, non contorno",
+      "Mix equilibrato food/human/venue: storytelling completo vs solo food porn",
+      "Composizione medium dominante (1748): distanza intima ma non invadente",
+      "Luce calda artificiale prevalente: atmosfera accogliente e appetitosa costante",
+      "Narrazione geografica: travel food vlog vs recensioni statiche di ristoranti"
+    ],
+    "narrative": [
+      "Ibrida costantemente food review con personal journey (fitness, esami, vita quotidiana) creando narrativa seriale",
+      "Usa il cibo come punctum in una storia più ampia di self-improvement, non come contenuto isolato",
+      "Mantiene continuità narrativa tra video attraverso riferimenti a obiettivi personali e routine",
+      "Linguaggio colloquiale estremo con ripetizioni enfatiche ('veramente veramente', 'clamoroso') assenti negli altri",
+      "Mostra vulnerabilità (esami andati male, stanchezza) integrata nel food content",
+      "Struttura diaristica con timestamp emotivi, non solo descrittivi"
+    ]
+  }
+}

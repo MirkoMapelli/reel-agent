@@ -1,0 +1,16 @@
+{
+  "ref_id": "ref_37_7598494205207481622",
+  "video": "/opt/reel-agent/media/style_ref/ref_37_7598494205207481622.mp4",
+  "n_shots": 1,
+  "total_dur": 13.2,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2,
+      "center": 6.6,
+      "frame": "/opt/reel-agent/brain/frames/ref_37_7598494205207481622/shot_000.jpg"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "title": "Wing Stop Milano - Il verdetto definitivo",
+  "voiceover_script": "Wing Stop è finalmente arrivato a Milano, ragazzi. Ovviamente abbiamo subito ordinato di tutto. Wings boneless, patatine, un menu abbastanza pieno. Location super curata, anche il gioco al banco. Il secondo giro ovviamente non poteva mancare. Il flavor giusto fa davvero la differenza. La bibita fa parte del menu combo, ovviamente. La salsa qui è un punto forte, devo dirlo. Il vassoio pieno parla da solo, in realtà. Sapore deciso, croccantezza al punto giusto. Ordinazione completa, wings, nuggets, patate, salse. Le patatine col formaggio sono un'altra storia. Panoramica pazzesca, ci abbiamo provato tutto. La faccia dice tutto, sorpresa vera, ragazzi. Ogni flavor ha il suo carattere, devo ammetterlo. Wings glassate al miele, sapore super equilibrato. Concentrazione massima davanti a questo vassoio. Alla fine è stata un'esperienza super apprezzata. Le patatine cheese vanno assolutamente provate. Wings croccanti fuori, morbide dentro, ovviamente. Da provare a Milano, con calma, tra amici.",
+  "timeline": [
+    {
+      "scene_id": 0,
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "role": "venue_interior_detail",
+      "subject": "totem menu",
+      "description": "Parete verde MILANO con totem touchscreen menu e dispenser bevande al banco",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6813_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6813_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.77,
+      "in_sec": 0.0,
+      "out_sec": 3.77,
+      "duration": 3.77,
+      "requested_duration": 2.2,
+      "beat_type": "hook",
+      "beat_moment": "insegna e parete verde MILANO, claim iniziale forte",
+      "subtitle_text": "Wing Stop è finalmente arrivato a Milano, ragazzi."
+    },
+    {
+      "scene_id": 21,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente positivo",
+      "description": "Volto ragazzo sorridente con vassoio ali e patate al tavolo, posa frontale",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub2/f1.jpg"
+      ],
+      "start": 6.6,
+      "end": 9.0,
+      "in_sec": 6.6,
+      "out_sec": 9.0,
+      "duration": 2.4,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ragazzo sorride mordendo un'ala grande",
+      "subtitle_text": "Ovviamente abbiamo subito ordinato di tutto."
+    },
+    {
+      "scene_id": 19,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "hands_gesture",
+      "subject": "mani cliente",
+      "description": "Mani in primo piano che toccano le ali su tavolo con patate accanto",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.8,
+      "in_sec": 0.0,
+      "out_sec": 2.8,
+      "duration": 2.8,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "mani spezzano ala mostrando interno succoso",
+      "subtitle_text": "Wings boneless, patatine, un menu abbastanza pieno."
+    },
+    {
+      "scene_id": 138,
+      "clip_name": "IMG_6844.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6844.MOV",
+      "role": "venue_interior_detail",
+      "subject": "Wing Stop display case",
+      "description": "Persona vista di profilo esamina display case WING STOP verde con ali fritte sotto illuminazione LED",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6844_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6844_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.1,
+      "in_sec": 0.0,
+      "out_sec": 2.1,
+      "duration": 2.1,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ambiente interno locale, tavoli occupati clienti",
+      "subtitle_text": "Location super curata, anche il gioco al banco."
+    },
+    {
+      "scene_id": 22,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente",
+      "description": "Ragazzo guarda verso il basso vassoio ali e patate con sorriso lieve",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub3/f1.jpg"
+      ],
+      "start": 9.0,
+      "end": 10.8,
+      "in_sec": 9.0,
+      "out_sec": 10.8,
+      "duration": 1.8,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ragazzo tiene vassoi ali e patate soddisfatto",
+      "subtitle_text": "Il secondo giro ovviamente non poteva mancare."
+    },
+    {
+      "scene_id": 8,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "nuggets panati",
+      "description": "Close-up ali panate e nuggets impanati su carta, vari gusti visibili",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub2/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub2/f1.jpg"
+      ],
+      "start": 5.0,
+      "end": 9.2,
+      "in_sec": 5.0,
+      "out_sec": 9.2,
+      "duration": 4.2,
+      "requested_duration": 2.2,
+      "beat_type": "climax",
+      "beat_moment": "primissimo piano salsa che cola dall'ala",
+      "subtitle_text": "Il flavor giusto fa davvero la differenza."
+    },
+    {
+      "scene_id": 117,
+      "clip_name": "IMG_6836.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+      "role": "drink_detail",
+      "subject": "bicchiere, brand",
+      "description": "cliente che tiene bicchiere di carta grande con stampa verde intera del logo",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6836_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6836_s0_sub1/f1.jpg"
+      ],
+      "start": 4.2,
+      "end": 8.33,
+      "in_sec": 4.2,
+      "out_sec": 8.33,
+      "duration": 4.13,
+      "requested_duration": 2.2,
+      "beat_type": "climax",
+      "beat_moment": "parete verde e branding locale, atmosfera finale",
+      "subtitle_text": "La bibita fa parte del menu combo, ovviamente."
+    },
+    {
+      "scene_id": 75,
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "role": "food_detail",
+      "subject": "ala intinta salsa",
+      "description": "Primo piano mani che intingono ala fritta nella salsa crema, mostra azione e texture",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6829_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6829_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.8,
+      "in_sec": 0.0,
+      "out_sec": 2.8,
+      "duration": 2.8,
+      "requested_duration": 2.2,
+      "beat_type": "product",
+      "beat_moment": "nuggets croccanti mostrati da vicino",
+      "subtitle_text": "La salsa qui è un punto forte, devo dirlo."
+    },
+    {
+      "scene_id": 23,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente al tavolo",
+      "description": "Ragazzo con vassoio ali glassate e patate, espressione pacata al tavolo",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub4/f1.jpg"
+      ],
+      "start": 10.8,
+      "end": 14.0,
+      "in_sec": 10.8,
+      "out_sec": 14.0,
+      "duration": 3.2,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ragazzo assaggia nuggets con espressione entusiasta",
+      "subtitle_text": "Il vassoio pieno parla da solo, in realtà."
+    },
+    {
+      "scene_id": 9,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "piatto misto",
+      "description": "Dettaglio mix ali e patate fritte con salse bianche a lato",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub3/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub3/f1.jpg"
+      ],
+      "start": 9.2,
+      "end": 11.8,
+      "in_sec": 9.2,
+      "out_sec": 11.8,
+      "duration": 2.6,
+      "requested_duration": 2.2,
+      "beat_type": "product",
+      "beat_moment": "dettaglio patate con salse varie sul tavolo",
+      "subtitle_text": "Sapore deciso, croccantezza al punto giusto."
+    },
+    {
+      "scene_id": 4,
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "role": "food_plated",
+      "subject": "ordinazione completa",
+      "description": "Vista d'insieme tavolo con ali fritte, nuggets, patate fritte e salse varie",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6820_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6820_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 2.8,
+      "in_sec": 0.0,
+      "out_sec": 2.8,
+      "duration": 2.8,
+      "requested_duration": 2.2,
+      "beat_type": "context",
+      "beat_moment": "totem menu con prezzi inquadrato di nuovo",
+      "subtitle_text": "Ordinazione completa, wings, nuggets, patate, salse."
+    },
+    {
+      "scene_id": 42,
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "role": "hands_gesture",
+      "subject": "mani sollevano patatine",
+      "description": "mani che sollevano patatine fritte gialle da piatto bianco su wrapping carta, forchetta visibile",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6825_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6825_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.4,
+      "in_sec": 0.0,
+      "out_sec": 3.4,
+      "duration": 3.4,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "mani prendono patata intingendola in salsa",
+      "subtitle_text": "Le patatine col formaggio sono un'altra storia."
+    },
+    {
+      "scene_id": 5,
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "role": "food_plated",
+      "subject": "presentazione piatti",
+      "description": "Panoramica ampia dal basso con mani che toccano diversi piatti e salse",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6820_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6820_s0_sub1/f1.jpg"
+      ],
+      "start": 2.8,
+      "end": 7.8,
+      "in_sec": 2.8,
+      "out_sec": 7.8,
+      "duration": 5.0,
+      "requested_duration": 2.2,
+      "beat_type": "product",
+      "beat_moment": "vassoio completo ripreso dall'alto",
+      "subtitle_text": "Panoramica pazzesca, ci abbiamo provato tutto."
+    },
+    {
+      "scene_id": 24,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente sorpreso",
+      "description": "Volto ragazzo sorpreso positivamente di fronte a vassoio abbondante",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub5/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub5/f1.jpg"
+      ],
+      "start": 14.0,
+      "end": 18.2,
+      "in_sec": 14.0,
+      "out_sec": 18.2,
+      "duration": 4.2,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ragazzo commenta gusto con gesto mani",
+      "subtitle_text": "La faccia dice tutto, sorpresa vera, ragazzi."
+    },
+    {
+      "scene_id": 25,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente attento",
+      "description": "Ragazzo al tavolo con vassoio ali e patate, volto leggermente rivolto giù",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub6/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub6/f1.jpg"
+      ],
+      "start": 18.2,
+      "end": 20.8,
+      "in_sec": 18.2,
+      "out_sec": 20.8,
+      "duration": 2.6,
+      "requested_duration": 2.2,
+      "beat_type": "drink",
+      "beat_moment": "bicchiere ripreso ancora vicino al vassoio",
+      "subtitle_text": "Ogni flavor ha il suo carattere, devo ammetterlo."
+    },
+    {
+      "scene_id": 10,
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "role": "food_closeup",
+      "subject": "ali e nuggets",
+      "description": "Close-up ali glassate miele e nuggets su carta, dettagli coating visibili",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub4/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6821_s0_sub4/f1.jpg"
+      ],
+      "start": 11.8,
+      "end": 14.8,
+      "in_sec": 11.8,
+      "out_sec": 14.8,
+      "duration": 3.0,
+      "requested_duration": 2.2,
+      "beat_type": "reaction",
+      "beat_moment": "ultimo primo piano ali rimaste sul vassoio",
+      "subtitle_text": "Wings glassate al miele, sapore super equilibrato."
+    },
+    {
+      "scene_id": 26,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente focalizzato",
+      "description": "Ragazzo tiene vassoio ali e patate fritte, sguardo concentrato sul cibo",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub7/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub7/f1.jpg"
+      ],
+      "start": 20.8,
+      "end": 23.8,
+      "in_sec": 20.8,
+      "out_sec": 23.8,
+      "duration": 3.0,
+      "requested_duration": 2.2,
+      "beat_type": "climax",
+      "beat_moment": "vista ambiente locale pieno di gente",
+      "subtitle_text": "Concentrazione massima davanti a questo vassoio."
+    },
+    {
+      "scene_id": 27,
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "role": "person_eating",
+      "subject": "cliente sereno",
+      "description": "Volto ragazzo sereno davanti a vassoio pieno ali panate e patate",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub8/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6823_s0_sub8/f1.jpg"
+      ],
+      "start": 23.8,
+      "end": 27.27,
+      "in_sec": 23.8,
+      "out_sec": 27.27,
+      "duration": 3.47,
+      "requested_duration": 2.2,
+      "beat_type": "cta",
+      "beat_moment": "ragazzo guarda in camera con consiglio finale",
+      "subtitle_text": "Alla fine è stata un'esperienza super apprezzata."
+    },
+    {
+      "scene_id": 43,
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "role": "hands_gesture",
+      "subject": "mani con patatine",
+      "description": "mani che mostrano e sollevano patatine fritte dal piatto in primo piano",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6825_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6825_s0_sub1/f1.jpg"
+      ],
+      "start": 3.4,
+      "end": 5.9,
+      "in_sec": 3.4,
+      "out_sec": 5.9,
+      "duration": 2.5,
+      "requested_duration": 2.2,
+      "beat_type": "cta",
+      "beat_moment": "mani indicano vassoio come raccomandazione",
+      "subtitle_text": "Le patatine cheese vanno assolutamente provate."
+    },
+    {
+      "scene_id": 76,
+      "clip_name": "IMG_6829.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "role": "food_detail",
+      "subject": "ala spezzata dettaglio",
+      "description": "Mani che spezzano ala fritta mostrando l'interno e la salsa, dettaglio texture croccante",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6829_s0_sub1/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6829_s0_sub1/f1.jpg"
+      ],
+      "start": 2.8,
+      "end": 6.6,
+      "in_sec": 2.8,
+      "out_sec": 6.6,
+      "duration": 3.8,
+      "requested_duration": 2.2,
+      "beat_type": "cta",
+      "beat_moment": "ultima inquadratura insegna locale Milano",
+      "subtitle_text": "Wings croccanti fuori, morbide dentro, ovviamente."
+    },
+    {
+      "scene_id": 28,
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "role": "person_eating",
+      "subject": "cliente che mangia",
+      "description": "Ragazzo seduto mangia ali con salsa bianca in mano accanto a tavolo pieno",
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6824_s0_sub0/f0.jpg",
+        "/opt/reel-agent/media/frames/curate_job_180/IMG_6824_s0_sub0/f1.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.4,
+      "in_sec": 0.0,
+      "out_sec": 3.4,
+      "duration": 3.4,
+      "requested_duration": 2.2,
+      "beat_type": "cta",
+      "beat_moment": "ragazzo saluta sorridendo chiusura video",
+      "subtitle_text": "Da provare a Milano, con calma, tra amici."
+    }
+  ],
+  "total_duration": 66.97,
+  "n_clips": 21,
+  "profile_id": null,
+  "venue_name": "",
+  "generated_at": "2026-09-19T18:50:47"
+}

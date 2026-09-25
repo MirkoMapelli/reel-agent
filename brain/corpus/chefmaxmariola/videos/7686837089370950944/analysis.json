@@ -1,0 +1,3394 @@
+{
+  "video_id": "7686837089370950944",
+  "creator": "chefmaxmariola",
+  "meta": {
+    "id": "7686837089370950944",
+    "title": "Tonno ammuffito 60 giorni 😱 Ragazzi, in Giappone ho fatto davvero del...",
+    "url": "https://www.tiktok.com/@chefmaxmariola/video/7686837089370950944",
+    "creator": "chefmaxmariola",
+    "duration": 113,
+    "downloaded_at": "2026-09-20T19:02:55"
+  },
+  "n_shots": 57,
+  "total_dur": 113.13,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.401,
+      "dur": 1.401,
+      "center": 0.701,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 1.401,
+      "end": 2.319,
+      "dur": 0.918,
+      "center": 1.86,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 2.319,
+      "end": 3.804,
+      "dur": 1.485,
+      "center": 3.061,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_002.jpg"
+    },
+    {
+      "idx": 3,
+      "start": 3.804,
+      "end": 5.956,
+      "dur": 2.152,
+      "center": 4.88,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_003.jpg"
+    },
+    {
+      "idx": 4,
+      "start": 5.956,
+      "end": 7.307,
+      "dur": 1.351,
+      "center": 6.632,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_004.jpg"
+    },
+    {
+      "idx": 5,
+      "start": 7.307,
+      "end": 7.774,
+      "dur": 0.467,
+      "center": 7.541,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_005.jpg"
+    },
+    {
+      "idx": 6,
+      "start": 7.774,
+      "end": 8.258,
+      "dur": 0.484,
+      "center": 8.016,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_006.jpg"
+    },
+    {
+      "idx": 7,
+      "start": 8.258,
+      "end": 8.792,
+      "dur": 0.534,
+      "center": 8.525,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_007.jpg"
+    },
+    {
+      "idx": 8,
+      "start": 8.792,
+      "end": 9.176,
+      "dur": 0.384,
+      "center": 8.984,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_008.jpg"
+    },
+    {
+      "idx": 9,
+      "start": 9.176,
+      "end": 9.543,
+      "dur": 0.367,
+      "center": 9.359,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_009.jpg"
+    },
+    {
+      "idx": 10,
+      "start": 9.543,
+      "end": 10.894,
+      "dur": 1.351,
+      "center": 10.219,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_010.jpg"
+    },
+    {
+      "idx": 11,
+      "start": 10.894,
+      "end": 11.728,
+      "dur": 0.834,
+      "center": 11.311,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_011.jpg"
+    },
+    {
+      "idx": 12,
+      "start": 11.728,
+      "end": 12.729,
+      "dur": 1.001,
+      "center": 12.229,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_012.jpg"
+    },
+    {
+      "idx": 13,
+      "start": 12.729,
+      "end": 13.597,
+      "dur": 0.868,
+      "center": 13.163,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_013.jpg"
+    },
+    {
+      "idx": 14,
+      "start": 13.597,
+      "end": 15.365,
+      "dur": 1.768,
+      "center": 14.481,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_014.jpg"
+    },
+    {
+      "idx": 15,
+      "start": 15.365,
+      "end": 16.917,
+      "dur": 1.552,
+      "center": 16.141,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_015.jpg"
+    },
+    {
+      "idx": 16,
+      "start": 16.917,
+      "end": 18.101,
+      "dur": 1.185,
+      "center": 17.509,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_016.jpg"
+    },
+    {
+      "idx": 17,
+      "start": 18.101,
+      "end": 19.269,
+      "dur": 1.168,
+      "center": 18.685,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_017.jpg"
+    },
+    {
+      "idx": 18,
+      "start": 19.269,
+      "end": 20.17,
+      "dur": 0.901,
+      "center": 19.72,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_018.jpg"
+    },
+    {
+      "idx": 19,
+      "start": 20.17,
+      "end": 25.242,
+      "dur": 5.072,
+      "center": 22.706,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_019.jpg"
+    },
+    {
+      "idx": 20,
+      "start": 25.242,
+      "end": 26.376,
+      "dur": 1.134,
+      "center": 25.809,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_020.jpg"
+    },
+    {
+      "idx": 21,
+      "start": 26.376,
+      "end": 29.129,
+      "dur": 2.753,
+      "center": 27.753,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_021.jpg"
+    },
+    {
+      "idx": 22,
+      "start": 29.129,
+      "end": 30.097,
+      "dur": 0.968,
+      "center": 29.613,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_022.jpg"
+    },
+    {
+      "idx": 23,
+      "start": 30.097,
+      "end": 34.334,
+      "dur": 4.238,
+      "center": 32.216,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_023.jpg"
+    },
+    {
+      "idx": 24,
+      "start": 34.334,
+      "end": 35.686,
+      "dur": 1.351,
+      "center": 35.01,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_024.jpg"
+    },
+    {
+      "idx": 25,
+      "start": 35.686,
+      "end": 37.554,
+      "dur": 1.869,
+      "center": 36.62,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_025.jpg"
+    },
+    {
+      "idx": 26,
+      "start": 37.554,
+      "end": 39.173,
+      "dur": 1.618,
+      "center": 38.363,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_026.jpg"
+    },
+    {
+      "idx": 27,
+      "start": 39.173,
+      "end": 40.14,
+      "dur": 0.968,
+      "center": 39.656,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_027.jpg"
+    },
+    {
+      "idx": 28,
+      "start": 40.14,
+      "end": 44.261,
+      "dur": 4.121,
+      "center": 42.201,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_028.jpg"
+    },
+    {
+      "idx": 29,
+      "start": 44.261,
+      "end": 45.546,
+      "dur": 1.285,
+      "center": 44.903,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_029.jpg"
+    },
+    {
+      "idx": 30,
+      "start": 45.546,
+      "end": 48.665,
+      "dur": 3.12,
+      "center": 47.105,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_030.jpg"
+    },
+    {
+      "idx": 31,
+      "start": 48.665,
+      "end": 50.284,
+      "dur": 1.618,
+      "center": 49.474,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_031.jpg"
+    },
+    {
+      "idx": 32,
+      "start": 50.284,
+      "end": 51.885,
+      "dur": 1.602,
+      "center": 51.084,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_032.jpg"
+    },
+    {
+      "idx": 33,
+      "start": 51.885,
+      "end": 53.504,
+      "dur": 1.618,
+      "center": 52.694,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_033.jpg"
+    },
+    {
+      "idx": 34,
+      "start": 53.504,
+      "end": 55.556,
+      "dur": 2.052,
+      "center": 54.53,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_034.jpg"
+    },
+    {
+      "idx": 35,
+      "start": 55.556,
+      "end": 56.924,
+      "dur": 1.368,
+      "center": 56.24,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_035.jpg"
+    },
+    {
+      "idx": 36,
+      "start": 56.924,
+      "end": 58.192,
+      "dur": 1.268,
+      "center": 57.558,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_036.jpg"
+    },
+    {
+      "idx": 37,
+      "start": 58.192,
+      "end": 61.912,
+      "dur": 3.72,
+      "center": 60.052,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_037.jpg"
+    },
+    {
+      "idx": 38,
+      "start": 61.912,
+      "end": 66.85,
+      "dur": 4.938,
+      "center": 64.381,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_038.jpg"
+    },
+    {
+      "idx": 39,
+      "start": 66.85,
+      "end": 70.487,
+      "dur": 3.637,
+      "center": 68.669,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_039.jpg"
+    },
+    {
+      "idx": 40,
+      "start": 70.487,
+      "end": 75.125,
+      "dur": 4.638,
+      "center": 72.806,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_040.jpg"
+    },
+    {
+      "idx": 41,
+      "start": 75.125,
+      "end": 76.693,
+      "dur": 1.568,
+      "center": 75.909,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_041.jpg"
+    },
+    {
+      "idx": 42,
+      "start": 76.693,
+      "end": 77.661,
+      "dur": 0.968,
+      "center": 77.177,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_042.jpg"
+    },
+    {
+      "idx": 43,
+      "start": 77.661,
+      "end": 78.478,
+      "dur": 0.817,
+      "center": 78.07,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_043.jpg"
+    },
+    {
+      "idx": 44,
+      "start": 78.478,
+      "end": 79.179,
+      "dur": 0.701,
+      "center": 78.829,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_044.jpg"
+    },
+    {
+      "idx": 45,
+      "start": 79.179,
+      "end": 81.682,
+      "dur": 2.503,
+      "center": 80.43,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_045.jpg"
+    },
+    {
+      "idx": 46,
+      "start": 81.682,
+      "end": 87.821,
+      "dur": 6.139,
+      "center": 84.751,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_046.jpg"
+    },
+    {
+      "idx": 47,
+      "start": 87.821,
+      "end": 88.872,
+      "dur": 1.051,
+      "center": 88.347,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_047.jpg"
+    },
+    {
+      "idx": 48,
+      "start": 88.872,
+      "end": 90.674,
+      "dur": 1.802,
+      "center": 89.773,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_048.jpg"
+    },
+    {
+      "idx": 49,
+      "start": 90.674,
+      "end": 91.441,
+      "dur": 0.767,
+      "center": 91.058,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_049.jpg"
+    },
+    {
+      "idx": 50,
+      "start": 91.441,
+      "end": 93.694,
+      "dur": 2.252,
+      "center": 92.568,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_050.jpg"
+    },
+    {
+      "idx": 51,
+      "start": 93.694,
+      "end": 96.029,
+      "dur": 2.336,
+      "center": 94.862,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_051.jpg"
+    },
+    {
+      "idx": 52,
+      "start": 96.029,
+      "end": 102.135,
+      "dur": 6.106,
+      "center": 99.082,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_052.jpg"
+    },
+    {
+      "idx": 53,
+      "start": 102.135,
+      "end": 102.836,
+      "dur": 0.701,
+      "center": 102.486,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_053.jpg"
+    },
+    {
+      "idx": 54,
+      "start": 102.836,
+      "end": 105.706,
+      "dur": 2.87,
+      "center": 104.271,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_054.jpg"
+    },
+    {
+      "idx": 55,
+      "start": 105.706,
+      "end": 107.14,
+      "dur": 1.435,
+      "center": 106.423,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_055.jpg"
+    },
+    {
+      "idx": 56,
+      "start": 107.14,
+      "end": 113.13,
+      "dur": 5.989,
+      "center": 110.135,
+      "frame": "/opt/reel-agent/brain/corpus/chefmaxmariola/videos/7686837089370950944/frames/shot_056.jpg"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role": "person_eating",
+      "subject": "uomo mangia muffa",
+      "description": "Un uomo sorride mentre tiene in mano un piccolo pezzo di cibo e lo mostra alla telecamera, con la didascalia \"I'M EATING MOLD, GUYS.\"",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.401,
+      "dur": 1.401
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "taglio di pesce",
+      "description": "Una mano taglia un pezzo di pesce con un coltello affilato su un tagliere scuro. Il pesce ha una crosta esterna chiara.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 1,
+      "start": 1.401,
+      "end": 2.319,
+      "dur": 0.918
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "interno del pesce",
+      "description": "Una mano continua a tagliare il pezzo di pesce, rivelando l'interno rosato. La didascalia dice \"LOOK AT THE INSIDES.\"",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 2,
+      "start": 2.319,
+      "end": 3.804,
+      "dur": 1.485
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "pesce tagliato",
+      "description": "Una mano solleva un pezzo di pesce appena tagliato, mostrando la sua carne rosata e la pelle esterna. La didascalia chiede \"CAN YOU HEAR HOW THE SKIN CRUNCHES?\".",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 3,
+      "start": 3.804,
+      "end": 5.956,
+      "dur": 2.152
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "dettaglio carne pesce",
+      "description": "Un primo piano ravvicinato della carne rosata del pesce appena tagliato, tenuto da una mano. La didascalia recita \"IT'S MOIST INSIDE, SEE?\".",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 4,
+      "start": 5.956,
+      "end": 7.307,
+      "dur": 1.351
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Un pezzo di tonno dalla carne rosa intenso viene tagliato su un tagliere scuro. Si intravede una mano che tiene il tonno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 5,
+      "start": 7.307,
+      "end": 7.774,
+      "dur": 0.467
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Un pezzo di tonno dalla carne rosa intenso viene tagliato su un tagliere scuro. Una mano tiene saldamente il tonno mentre il coltello affonda nella carne.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 6,
+      "start": 7.774,
+      "end": 8.258,
+      "dur": 0.484
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Il coltello sta tagliando il tonno, separando una fetta dal blocco principale. La carne rosa è ben visibile.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 7,
+      "start": 8.258,
+      "end": 8.792,
+      "dur": 0.534
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Il coltello ha quasi completato il taglio, separando due pezzi di tonno. La mano continua a tenere il pezzo più grande.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 8,
+      "start": 8.792,
+      "end": 9.176,
+      "dur": 0.384
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "I due pezzi di tonno sono ora separati dal taglio del coltello. La mano tiene il pezzo più grande mentre l'altro è sul tagliere.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 9,
+      "start": 9.176,
+      "end": 9.543,
+      "dur": 0.367
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Una mano tiene un pezzo di tonno mentre un coltello taglia via la parte esterna. Si vede la scritta 'TRIM IT' in basso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 10,
+      "start": 9.543,
+      "end": 10.894,
+      "dur": 1.351
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Una mano tiene un pezzo di tonno mentre un coltello affetta via una parte. Si vede un pezzo di tonno già tagliato in basso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 11,
+      "start": 10.894,
+      "end": 11.728,
+      "dur": 0.834
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "chef taglia tonno",
+      "description": "Uno chef in camice blu taglia un pezzo di tonno su un tagliere nero. Sullo sfondo si vedono bottiglie e contenitori vari.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 12,
+      "start": 11.728,
+      "end": 12.729,
+      "dur": 1.001
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "tonno in mano",
+      "description": "Una mano tiene un pezzo di tonno fresco e rosato. Sullo sfondo si vedono bottiglie e contenitori.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 13,
+      "start": 12.729,
+      "end": 13.597,
+      "dur": 0.868
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "chef taglia tonno",
+      "description": "Uno chef taglia un pezzo di tonno su un tagliere nero. Si vedono pezzi di scarto e la scritta 'HE EATS THIS PART, WATCH.'",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 14,
+      "start": 13.597,
+      "end": 15.365,
+      "dur": 1.768
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con cappello",
+      "description": "Un uomo con un cappello blu e una divisa da lavoro blu guarda direttamente in camera con un'espressione seria. Sullo sfondo si intravedono delle bottiglie.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "bottiglie"
+      ],
+      "shot_idx": 15,
+      "start": 15.365,
+      "end": 16.917,
+      "dur": 1.552
+    },
+    {
+      "idx": 1,
+      "role": "hands_gesture",
+      "subject": "uomo pollice in su",
+      "description": "L'uomo con il cappello blu e la divisa da lavoro blu sorride e fa un gesto di pollice in su con la mano destra. Sullo sfondo si intravedono delle bottiglie.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "bottiglie"
+      ],
+      "shot_idx": 16,
+      "start": 16.917,
+      "end": 18.101,
+      "dur": 1.185
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo occhiali neri",
+      "description": "Un uomo con occhiali neri e una maglietta scura ride, con le braccia incrociate. Sullo sfondo si vede un corridoio con un armadio aperto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "armadio"
+      ],
+      "shot_idx": 17,
+      "start": 18.101,
+      "end": 19.269,
+      "dur": 1.168
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo occhiali neri",
+      "description": "Un uomo con occhiali neri e una maglietta scura guarda verso destra e parla. Sotto di lui appare la scritta 'LET ME TRY.'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "armadio"
+      ],
+      "shot_idx": 18,
+      "start": 19.269,
+      "end": 20.17,
+      "dur": 0.901
+    },
+    {
+      "idx": 4,
+      "role": "hands_gesture",
+      "subject": "uomo gesticola",
+      "description": "Un uomo con occhiali neri e una maglietta scura gesticola con la mano destra, con un'espressione concentrata. Sullo sfondo si intravede un corridoio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 19,
+      "start": 20.17,
+      "end": 25.242,
+      "dur": 5.072
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta nera gesticola con le mani mentre parla, con un'espressione sorridente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "porta"
+      ],
+      "shot_idx": 20,
+      "start": 25.242,
+      "end": 26.376,
+      "dur": 1.134
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "due uomini che parlano",
+      "description": "Un uomo in divisa blu e cappello blu guarda in camera mentre un altro uomo, parzialmente visibile, gesticola con la mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "frigorifero",
+        "scaffale",
+        "condizionatore"
+      ],
+      "shot_idx": 21,
+      "start": 26.376,
+      "end": 29.129,
+      "dur": 2.753
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "due uomini che ridono",
+      "description": "Due uomini ridono e interagiscono, uno con un'espressione di gioia e l'altro sorridente, mentre uno fa il segno di vittoria con le dita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "frigorifero",
+        "condizionatore"
+      ],
+      "shot_idx": 22,
+      "start": 29.129,
+      "end": 30.097,
+      "dur": 0.968
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta nera parla e gesticola, con un'espressione seria, mentre un altro uomo è parzialmente visibile a sinistra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "frigorifero",
+        "scatole",
+        "condizionatore"
+      ],
+      "shot_idx": 23,
+      "start": 30.097,
+      "end": 34.334,
+      "dur": 4.238
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "uomo che sorride",
+      "description": "Un uomo in divisa blu e cappello blu sorride alla telecamera, con un'espressione amichevole e rilassata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "frigorifero",
+        "scatole",
+        "condizionatore"
+      ],
+      "shot_idx": 24,
+      "start": 34.334,
+      "end": 35.686,
+      "dur": 1.351
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "due uomini parlano",
+      "description": "Due uomini, uno con un cappello blu e l'altro con occhiali, sono in piedi e parlano. L'uomo con gli occhiali gesticola con le mani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "scaffale",
+        "scatole",
+        "condizionatore"
+      ],
+      "shot_idx": 25,
+      "start": 35.686,
+      "end": 37.554,
+      "dur": 1.869
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "pezzi di tonno",
+      "description": "Due pezzi di tonno congelato o stagionato sono mostrati in un contenitore bianco. Sullo sfondo si intravede un ambiente interno.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "scaffale",
+        "finestra"
+      ],
+      "shot_idx": 26,
+      "start": 37.554,
+      "end": 39.173,
+      "dur": 1.618
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "tonno stagionato",
+      "description": "Un pezzo di tonno stagionato è adagiato su una griglia all'interno di un contenitore bianco. Il tonno ha una patina chiara sulla superficie.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "contenitore",
+        "griglia"
+      ],
+      "shot_idx": 27,
+      "start": 39.173,
+      "end": 40.14,
+      "dur": 0.968
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo sorride",
+      "description": "Un uomo con un cappello blu e un camice da lavoro sorride mentre guarda verso il basso. Sullo sfondo si vedono scatole e un ambiente interno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "scatole",
+        "condizionatore",
+        "scaffale"
+      ],
+      "shot_idx": 28,
+      "start": 40.14,
+      "end": 44.261,
+      "dur": 4.121
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "uomo mostra tonno",
+      "description": "Un uomo con un cappello blu e un camice da lavoro tiene in mano un grande pezzo di tonno stagionato e sorride alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "muro",
+        "scaffale"
+      ],
+      "shot_idx": 29,
+      "start": 44.261,
+      "end": 45.546,
+      "dur": 1.285
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali neri e capelli grigi è in primo piano, con il viso parzialmente visibile mentre parla. Sullo sfondo si intravedono scaffali e oggetti vari.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "scaffale"
+      ],
+      "shot_idx": 30,
+      "start": 45.546,
+      "end": 48.665,
+      "dur": 3.12
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "L'uomo con gli occhiali neri e i capelli grigi è in primo piano, con il viso parzialmente visibile mentre parla. Sullo sfondo si vedono scaffali con oggetti e un contenitore trasparente con del cibo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "scaffale",
+        "contenitore"
+      ],
+      "shot_idx": 31,
+      "start": 48.665,
+      "end": 50.284,
+      "dur": 1.618
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "L'uomo con gli occhiali neri e i capelli grigi sorride e tiene in mano uno smartphone arancione. Sullo sfondo si intravedono scaffali e oggetti.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "scaffale"
+      ],
+      "shot_idx": 32,
+      "start": 50.284,
+      "end": 51.885,
+      "dur": 1.602
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "due uomini che parlano",
+      "description": "Due uomini sono inquadrati, uno con occhiali neri e l'altro con un cappello blu e abiti da lavoro. Sullo sfondo si vedono un orologio a muro e degli elettrodomestici.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "orologio",
+        "elettrodomestico"
+      ],
+      "shot_idx": 33,
+      "start": 51.885,
+      "end": 53.504,
+      "dur": 1.618
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "due uomini che parlano",
+      "description": "Due uomini sono inquadrati, uno con occhiali neri che gesticola e l'altro con un cappello blu. Sullo sfondo si vedono elettrodomestici e un ripiano con oggetti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [
+        "elettrodomestico",
+        "ripiano"
+      ],
+      "shot_idx": 34,
+      "start": 53.504,
+      "end": 55.556,
+      "dur": 2.052
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo anziano con occhiali neri e una maglietta scura parla gesticolando con le mani. Sullo sfondo si intravede una cucina.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro",
+        "pentola"
+      ],
+      "shot_idx": 35,
+      "start": 55.556,
+      "end": 56.924,
+      "dur": 1.368
+    },
+    {
+      "idx": 1,
+      "role": "detail",
+      "subject": "piastra di Petri",
+      "description": "Due mani, una delle quali indica, tengono una piastra di Petri trasparente contenente una sostanza biancastra e densa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 36,
+      "start": 56.924,
+      "end": 58.192,
+      "dur": 1.268
+    },
+    {
+      "idx": 2,
+      "role": "detail",
+      "subject": "sostanza in piastra",
+      "description": "Una piastra di Petri trasparente è tenuta da una mano e contiene una sostanza densa e biancastra con delle bolle in superficie.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 37,
+      "start": 58.192,
+      "end": 61.912,
+      "dur": 3.72
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "uomo con spray",
+      "description": "Un uomo asiatico con un cappello chirurgico blu e occhiali da vista tiene in mano una piccola bottiglia spray bianca, guardando direttamente la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 38,
+      "start": 61.912,
+      "end": 66.85,
+      "dur": 4.938
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "uomo che gesticola",
+      "description": "Un uomo anziano con occhiali neri e una maglietta scura parla, gesticolando con entrambe le mani. Si vede parte della sua testa e delle sue spalle.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 39,
+      "start": 66.85,
+      "end": 70.487,
+      "dur": 3.637
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta nera sorride e parla, gesticolando con le mani. Si trova in un ambiente interno con oggetti sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "condizionatore",
+        "scaffale"
+      ],
+      "shot_idx": 40,
+      "start": 70.487,
+      "end": 75.125,
+      "dur": 4.638
+    },
+    {
+      "idx": 1,
+      "role": "hands_gesture",
+      "subject": "uomo con spray",
+      "description": "Un uomo con un cappello blu e camice medico tiene in mano una bottiglietta spray e la punta verso la telecamera. Ha un'espressione facciale intensa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "orologio",
+        "scaffale",
+        "frigorifero"
+      ],
+      "shot_idx": 41,
+      "start": 75.125,
+      "end": 76.693,
+      "dur": 1.568
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "tonno tagliato",
+      "description": "Una mano affetta un pezzo di tonno rosa su un tagliere nero. Ci sono già delle fette di tonno tagliate sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 42,
+      "start": 76.693,
+      "end": 77.661,
+      "dur": 0.968
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "tonno affettato",
+      "description": "Una mano tiene un pezzo di tonno rosa mentre viene affettato con un coltello su un tagliere nero. Altre fette di tonno sono visibili sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 43,
+      "start": 77.661,
+      "end": 78.478,
+      "dur": 0.817
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "fette di tonno",
+      "description": "Una mano sposta delle fette di tonno rosa su un tagliere nero. Un pezzo più grande di tonno è in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 44,
+      "start": 78.478,
+      "end": 79.179,
+      "dur": 0.701
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "Un uomo con occhiali e maglietta nera si tiene la testa tra le mani, con un'espressione di stupore o incredulità. Sullo sfondo si intravede un ambiente interno con mobili e oggetti vari.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "porta",
+        "scaffale",
+        "tavolo"
+      ],
+      "shot_idx": 45,
+      "start": 79.179,
+      "end": 81.682,
+      "dur": 2.503
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "chef che prepara nigiri",
+      "description": "Un uomo con un cappello blu da chef sta preparando del cibo su un bancone. Accanto a lui, un altro uomo in maglietta verde osserva. Sul bancone ci sono ingredienti e utensili da cucina.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "bancone",
+        "scaffale",
+        "orologio",
+        "frigorifero"
+      ],
+      "shot_idx": 46,
+      "start": 81.682,
+      "end": 87.821,
+      "dur": 6.139
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo che parla",
+      "description": "L'uomo con gli occhiali e la maglietta nera sorride e guarda verso la telecamera. Sullo sfondo si vede un ambiente interno con mobili e oggetti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "scaffale",
+        "tavolo"
+      ],
+      "shot_idx": 47,
+      "start": 87.821,
+      "end": 88.872,
+      "dur": 1.051
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "mani che preparano sushi",
+      "description": "Delle mani stanno lavorando del riso per sushi. Sul bancone nero ci sono pezzi di tonno fresco e diverse bottiglie di salse e condimenti sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "bancone",
+        "bottiglie"
+      ],
+      "shot_idx": 48,
+      "start": 88.872,
+      "end": 90.674,
+      "dur": 1.802
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "due uomini che parlano",
+      "description": "Due uomini, uno con maglietta nera e l'altro con maglietta verde, sono in piedi e parlano. L'uomo in nero indica qualcosa con la mano destra. Sullo sfondo si intravede un ambiente interno con attrezzature.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "bancone",
+        "attrezzature"
+      ],
+      "shot_idx": 49,
+      "start": 90.674,
+      "end": 91.441,
+      "dur": 0.767
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "uomo con sushi",
+      "description": "Un uomo con occhiali neri tiene in mano un pezzo di sushi rosa e parla, mentre un altro uomo sorride sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 50,
+      "start": 91.441,
+      "end": 93.694,
+      "dur": 2.252
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "due uomini parlano",
+      "description": "Due uomini sono inquadrati, uno tiene in mano un pezzo di sushi rosa e parla, l'altro lo guarda sorridendo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 51,
+      "start": 93.694,
+      "end": 96.029,
+      "dur": 2.336
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "uomo che gesticola",
+      "description": "Un uomo con occhiali neri gesticola con la mano destra mentre parla, l'altro uomo lo guarda sorridendo sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 52,
+      "start": 96.029,
+      "end": 102.135,
+      "dur": 6.106
+    },
+    {
+      "idx": 3,
+      "role": "person_talking",
+      "subject": "chef in cucina",
+      "description": "Uno chef con un cappello blu e una divisa blu sorride mentre si trova in una cucina con vari ingredienti e utensili sul bancone.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "bancone",
+        "mensola"
+      ],
+      "shot_idx": 53,
+      "start": 102.135,
+      "end": 102.836,
+      "dur": 0.701
+    },
+    {
+      "idx": 4,
+      "role": "person_talking",
+      "subject": "due uomini sorridono",
+      "description": "Due uomini sorridono e parlano in un ambiente interno, uno con una maglietta verde e l'altro con una maglietta nera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "venue_elements": [],
+      "shot_idx": 54,
+      "start": 102.836,
+      "end": 105.706,
+      "dur": 2.87
+    },
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "due uomini che parlano",
+      "description": "Due uomini sono in piedi in una cucina, uno con una maglietta verde e l'altro con una maglietta nera e occhiali. L'uomo con gli occhiali sta parlando e gesticolando con le mani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "frigorifero",
+        "tavolo"
+      ],
+      "shot_idx": 55,
+      "start": 105.706,
+      "end": 107.14,
+      "dur": 1.435
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "uomo che gesticola",
+      "description": "Un uomo con occhiali e maglietta nera sta parlando e gesticolando con entrambe le mani. Si vede parzialmente un altro uomo sulla sinistra.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "frigorifero"
+      ],
+      "shot_idx": 56,
+      "start": 107.14,
+      "end": 113.13,
+      "dur": 5.989
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "Mi sono mangato a fare, ragazzi."
+    },
+    {
+      "start": 2.08,
+      "end": 3.36,
+      "text": "Guarda dentro come me."
+    },
+    {
+      "start": 4.1,
+      "end": 5.92,
+      "text": "Sentis la pelle come scrocchia, guarda."
+    },
+    {
+      "start": 6.06,
+      "end": 7.42,
+      "text": "È un vito dentro, guarda."
+    },
+    {
+      "start": 9.6,
+      "end": 10.72,
+      "text": "Lo ripulisce."
+    },
+    {
+      "start": 12.3,
+      "end": 13.22,
+      "text": "È unissimo."
+    },
+    {
+      "start": 13.7,
+      "end": 15.02,
+      "text": "Lui mangia sta parte, guarda."
+    },
+    {
+      "start": 18.02,
+      "end": 20.0,
+      "text": "È una messaggheria."
+    },
+    {
+      "start": 20.26,
+      "end": 21.72,
+      "text": "Mi sono mangato a fare, ragazzi."
+    },
+    {
+      "start": 24.0,
+      "end": 25.08,
+      "text": "Il Viro!"
+    },
+    {
+      "start": 25.5,
+      "end": 26.34,
+      "text": "Simbio formaggio."
+    },
+    {
+      "start": 26.34,
+      "end": 28.54,
+      "text": "Lui fa il dentista, si chiama Papa."
+    },
+    {
+      "start": 29.72,
+      "end": 31.14,
+      "text": "Lui c'è anche un hobby."
+    },
+    {
+      "start": 31.62,
+      "end": 34.62,
+      "text": "Si mette a far crescere le muffe"
+    },
+    {
+      "start": 34.62,
+      "end": 37.64,
+      "text": "intorno, soprattutto al tonno ai pesci."
+    },
+    {
+      "start": 37.76,
+      "end": 39.04,
+      "text": "Questo è tonno."
+    },
+    {
+      "start": 39.28,
+      "end": 40.12,
+      "text": "40 giorni."
+    },
+    {
+      "start": 40.7,
+      "end": 42.42,
+      "text": "50 giorni, 50 giorni."
+    },
+    {
+      "start": 42.96,
+      "end": 43.88,
+      "text": "Sono la potente che ha."
+    },
+    {
+      "start": 44.16,
+      "end": 45.56,
+      "text": "Oggi mangiamo questa a detti."
+    },
+    {
+      "start": 45.68,
+      "end": 46.42,
+      "text": "Piero che muffa."
+    },
+    {
+      "start": 46.72,
+      "end": 48.52,
+      "text": "Se tu lo pesi, c'è il sommagno a questo."
+    },
+    {
+      "start": 49.64,
+      "end": 50.16,
+      "text": "Pazzesco."
+    },
+    {
+      "start": 50.46,
+      "end": 51.76,
+      "text": "Tu assaggieresti, la verità."
+    },
+    {
+      "start": 52.12,
+      "end": 53.44,
+      "text": "Allora lui prima da fare il dentista."
+    },
+    {
+      "start": 53.6,
+      "end": 55.38,
+      "text": "Faccia i ricercatori dentro un'azienda"
+    },
+    {
+      "start": 55.38,
+      "end": 57.04,
+      "text": "che selezionava muffe."
+    },
+    {
+      "start": 57.22,
+      "end": 59.58,
+      "text": "Quindi lui ha creato da queste muffe,"
+    },
+    {
+      "start": 59.64,
+      "end": 61.84,
+      "text": "vedi così, la resa liquida."
+    },
+    {
+      "start": 62.12,
+      "end": 63.3,
+      "text": "E questa qua la spruzza"
+    },
+    {
+      "start": 63.3,
+      "end": 66.0,
+      "text": "e sulla superficie o della carne"
+    },
+    {
+      "start": 66.0,
+      "end": 67.86,
+      "text": "o del pesce."
+    },
+    {
+      "start": 68.16,
+      "end": 70.4,
+      "text": "E fai di questo tipo di muffa speciale."
+    },
+    {
+      "start": 70.5,
+      "end": 71.82,
+      "text": "Se qualcosa di stantipatico"
+    },
+    {
+      "start": 71.82,
+      "end": 73.44,
+      "text": "so a borza bella, di marca,"
+    },
+    {
+      "start": 73.66,
+      "end": 74.72,
+      "text": "e i fecosi, è un tamuffa."
+    },
+    {
+      "start": 74.74,
+      "end": 76.44,
+      "text": "Da un paio di giorni si fanno le muffe."
+    },
+    {
+      "start": 79.36,
+      "end": 81.52,
+      "text": "Vedete conto in che situazione stiamo."
+    },
+    {
+      "start": 81.66,
+      "end": 83.04,
+      "text": "È uscito poi dal dentista,"
+    },
+    {
+      "start": 83.04,
+      "end": 84.38,
+      "text": "dal suo laboratorio."
+    },
+    {
+      "start": 84.6,
+      "end": 86.6,
+      "text": "E sta facendo i nighiri per noi"
+    },
+    {
+      "start": 86.6,
+      "end": 88.74,
+      "text": "col tonno a muffilo."
+    },
+    {
+      "start": 90.66,
+      "end": 93.04,
+      "text": "Vedete che sto mangiando un tonno di 60..."
+    },
+    {
+      "start": 93.56,
+      "end": 94.6,
+      "text": "quanti giorni ci aveva? 60?"
+    },
+    {
+      "start": 95.1,
+      "end": 95.76,
+      "text": "Questo è 60."
+    },
+    {
+      "start": 103.46,
+      "end": 104.04,
+      "text": "Impensabile."
+    },
+    {
+      "start": 104.94,
+      "end": 105.52,
+      "text": "Bravissimo."
+    },
+    {
+      "start": 105.7,
+      "end": 107.08,
+      "text": "È una cosa..."
+    },
+    {
+      "start": 107.08,
+      "end": 108.6,
+      "text": "tu sei pronto a mangiare un qualcosa"
+    },
+    {
+      "start": 108.6,
+      "end": 110.66,
+      "text": "che ha un sapore fortissimo,"
+    },
+    {
+      "start": 110.66,
+      "end": 113.0,
+      "text": "quindi si è pazzisco."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "word": "Mi"
+    },
+    {
+      "start": 0.12,
+      "end": 0.18,
+      "word": "sono"
+    },
+    {
+      "start": 0.18,
+      "end": 0.54,
+      "word": "mangato"
+    },
+    {
+      "start": 0.54,
+      "end": 0.98,
+      "word": "a"
+    },
+    {
+      "start": 0.98,
+      "end": 0.98,
+      "word": "fare,"
+    },
+    {
+      "start": 1.08,
+      "end": 1.36,
+      "word": "ragazzi."
+    },
+    {
+      "start": 2.08,
+      "end": 2.64,
+      "word": "Guarda"
+    },
+    {
+      "start": 2.64,
+      "end": 2.88,
+      "word": "dentro"
+    },
+    {
+      "start": 2.88,
+      "end": 3.18,
+      "word": "come"
+    },
+    {
+      "start": 3.18,
+      "end": 3.36,
+      "word": "me."
+    },
+    {
+      "start": 4.1,
+      "end": 4.66,
+      "word": "Sentis"
+    },
+    {
+      "start": 4.66,
+      "end": 4.78,
+      "word": "la"
+    },
+    {
+      "start": 4.78,
+      "end": 5.04,
+      "word": "pelle"
+    },
+    {
+      "start": 5.04,
+      "end": 5.24,
+      "word": "come"
+    },
+    {
+      "start": 5.24,
+      "end": 5.72,
+      "word": "scrocchia,"
+    },
+    {
+      "start": 5.8,
+      "end": 5.92,
+      "word": "guarda."
+    },
+    {
+      "start": 6.06,
+      "end": 6.22,
+      "word": "È"
+    },
+    {
+      "start": 6.22,
+      "end": 6.42,
+      "word": "un"
+    },
+    {
+      "start": 6.42,
+      "end": 6.58,
+      "word": "vito"
+    },
+    {
+      "start": 6.58,
+      "end": 6.86,
+      "word": "dentro,"
+    },
+    {
+      "start": 7.12,
+      "end": 7.42,
+      "word": "guarda."
+    },
+    {
+      "start": 9.6,
+      "end": 10.16,
+      "word": "Lo"
+    },
+    {
+      "start": 10.16,
+      "end": 10.72,
+      "word": "ripulisce."
+    },
+    {
+      "start": 12.3,
+      "end": 12.86,
+      "word": "È"
+    },
+    {
+      "start": 12.86,
+      "end": 13.22,
+      "word": "unissimo."
+    },
+    {
+      "start": 13.7,
+      "end": 13.84,
+      "word": "Lui"
+    },
+    {
+      "start": 13.84,
+      "end": 14.08,
+      "word": "mangia"
+    },
+    {
+      "start": 14.08,
+      "end": 14.28,
+      "word": "sta"
+    },
+    {
+      "start": 14.28,
+      "end": 14.6,
+      "word": "parte,"
+    },
+    {
+      "start": 14.74,
+      "end": 15.02,
+      "word": "guarda."
+    },
+    {
+      "start": 18.02,
+      "end": 18.58,
+      "word": "È"
+    },
+    {
+      "start": 18.58,
+      "end": 19.14,
+      "word": "una"
+    },
+    {
+      "start": 19.14,
+      "end": 20.0,
+      "word": "messaggheria."
+    },
+    {
+      "start": 20.26,
+      "end": 20.48,
+      "word": "Mi"
+    },
+    {
+      "start": 20.48,
+      "end": 20.48,
+      "word": "sono"
+    },
+    {
+      "start": 20.48,
+      "end": 20.88,
+      "word": "mangato"
+    },
+    {
+      "start": 20.88,
+      "end": 21.26,
+      "word": "a"
+    },
+    {
+      "start": 21.26,
+      "end": 21.34,
+      "word": "fare,"
+    },
+    {
+      "start": 21.5,
+      "end": 21.72,
+      "word": "ragazzi."
+    },
+    {
+      "start": 24.0,
+      "end": 24.56,
+      "word": "Il"
+    },
+    {
+      "start": 24.56,
+      "end": 25.08,
+      "word": "Viro!"
+    },
+    {
+      "start": 25.5,
+      "end": 25.8,
+      "word": "Simbio"
+    },
+    {
+      "start": 25.8,
+      "end": 26.34,
+      "word": "formaggio."
+    },
+    {
+      "start": 26.34,
+      "end": 26.64,
+      "word": "Lui"
+    },
+    {
+      "start": 26.64,
+      "end": 26.82,
+      "word": "fa"
+    },
+    {
+      "start": 26.82,
+      "end": 26.92,
+      "word": "il"
+    },
+    {
+      "start": 26.92,
+      "end": 27.5,
+      "word": "dentista,"
+    },
+    {
+      "start": 27.6,
+      "end": 27.72,
+      "word": "si"
+    },
+    {
+      "start": 27.72,
+      "end": 27.92,
+      "word": "chiama"
+    },
+    {
+      "start": 27.92,
+      "end": 28.54,
+      "word": "Papa."
+    },
+    {
+      "start": 29.72,
+      "end": 30.24,
+      "word": "Lui"
+    },
+    {
+      "start": 30.24,
+      "end": 30.38,
+      "word": "c"
+    },
+    {
+      "start": 30.38,
+      "end": 30.4,
+      "word": "'è"
+    },
+    {
+      "start": 30.4,
+      "end": 30.6,
+      "word": "anche"
+    },
+    {
+      "start": 30.6,
+      "end": 30.8,
+      "word": "un"
+    },
+    {
+      "start": 30.8,
+      "end": 31.14,
+      "word": "hobby."
+    },
+    {
+      "start": 31.62,
+      "end": 31.76,
+      "word": "Si"
+    },
+    {
+      "start": 31.76,
+      "end": 32.24,
+      "word": "mette"
+    },
+    {
+      "start": 32.24,
+      "end": 32.54,
+      "word": "a"
+    },
+    {
+      "start": 32.54,
+      "end": 32.86,
+      "word": "far"
+    },
+    {
+      "start": 32.86,
+      "end": 33.52,
+      "word": "crescere"
+    },
+    {
+      "start": 33.52,
+      "end": 33.78,
+      "word": "le"
+    },
+    {
+      "start": 33.78,
+      "end": 34.62,
+      "word": "muffe"
+    },
+    {
+      "start": 34.62,
+      "end": 35.3,
+      "word": "intorno,"
+    },
+    {
+      "start": 35.86,
+      "end": 36.14,
+      "word": "soprattutto"
+    },
+    {
+      "start": 36.14,
+      "end": 36.68,
+      "word": "al"
+    },
+    {
+      "start": 36.68,
+      "end": 37.04,
+      "word": "tonno"
+    },
+    {
+      "start": 37.04,
+      "end": 37.2,
+      "word": "ai"
+    },
+    {
+      "start": 37.2,
+      "end": 37.64,
+      "word": "pesci."
+    },
+    {
+      "start": 37.76,
+      "end": 38.08,
+      "word": "Questo"
+    },
+    {
+      "start": 38.08,
+      "end": 38.48,
+      "word": "è"
+    },
+    {
+      "start": 38.48,
+      "end": 39.04,
+      "word": "tonno."
+    },
+    {
+      "start": 39.28,
+      "end": 39.48,
+      "word": "40"
+    },
+    {
+      "start": 39.48,
+      "end": 40.12,
+      "word": "giorni."
+    },
+    {
+      "start": 40.7,
+      "end": 41.22,
+      "word": "50"
+    },
+    {
+      "start": 41.22,
+      "end": 41.72,
+      "word": "giorni,"
+    },
+    {
+      "start": 41.76,
+      "end": 42.16,
+      "word": "50"
+    },
+    {
+      "start": 42.16,
+      "end": 42.42,
+      "word": "giorni."
+    },
+    {
+      "start": 42.96,
+      "end": 43.12,
+      "word": "Sono"
+    },
+    {
+      "start": 43.12,
+      "end": 43.22,
+      "word": "la"
+    },
+    {
+      "start": 43.22,
+      "end": 43.4,
+      "word": "potente"
+    },
+    {
+      "start": 43.4,
+      "end": 43.68,
+      "word": "che"
+    },
+    {
+      "start": 43.68,
+      "end": 43.88,
+      "word": "ha."
+    },
+    {
+      "start": 44.16,
+      "end": 44.38,
+      "word": "Oggi"
+    },
+    {
+      "start": 44.38,
+      "end": 44.68,
+      "word": "mangiamo"
+    },
+    {
+      "start": 44.68,
+      "end": 45.08,
+      "word": "questa"
+    },
+    {
+      "start": 45.08,
+      "end": 45.28,
+      "word": "a"
+    },
+    {
+      "start": 45.28,
+      "end": 45.56,
+      "word": "detti."
+    },
+    {
+      "start": 45.68,
+      "end": 45.86,
+      "word": "Piero"
+    },
+    {
+      "start": 45.86,
+      "end": 46.0,
+      "word": "che"
+    },
+    {
+      "start": 46.0,
+      "end": 46.42,
+      "word": "muffa."
+    },
+    {
+      "start": 46.72,
+      "end": 46.78,
+      "word": "Se"
+    },
+    {
+      "start": 46.78,
+      "end": 47.0,
+      "word": "tu"
+    },
+    {
+      "start": 47.0,
+      "end": 47.1,
+      "word": "lo"
+    },
+    {
+      "start": 47.1,
+      "end": 47.3,
+      "word": "pesi,"
+    },
+    {
+      "start": 47.52,
+      "end": 47.54,
+      "word": "c"
+    },
+    {
+      "start": 47.54,
+      "end": 47.54,
+      "word": "'è"
+    },
+    {
+      "start": 47.54,
+      "end": 47.72,
+      "word": "il"
+    },
+    {
+      "start": 47.72,
+      "end": 48.18,
+      "word": "sommagno"
+    },
+    {
+      "start": 48.18,
+      "end": 48.32,
+      "word": "a"
+    },
+    {
+      "start": 48.32,
+      "end": 48.52,
+      "word": "questo."
+    },
+    {
+      "start": 49.64,
+      "end": 50.16,
+      "word": "Pazzesco."
+    },
+    {
+      "start": 50.46,
+      "end": 50.6,
+      "word": "Tu"
+    },
+    {
+      "start": 50.6,
+      "end": 51.24,
+      "word": "assaggieresti,"
+    },
+    {
+      "start": 51.42,
+      "end": 51.48,
+      "word": "la"
+    },
+    {
+      "start": 51.48,
+      "end": 51.76,
+      "word": "verità."
+    },
+    {
+      "start": 52.12,
+      "end": 52.3,
+      "word": "Allora"
+    },
+    {
+      "start": 52.3,
+      "end": 52.48,
+      "word": "lui"
+    },
+    {
+      "start": 52.48,
+      "end": 52.66,
+      "word": "prima"
+    },
+    {
+      "start": 52.66,
+      "end": 52.8,
+      "word": "da"
+    },
+    {
+      "start": 52.8,
+      "end": 52.92,
+      "word": "fare"
+    },
+    {
+      "start": 52.92,
+      "end": 53.18,
+      "word": "il"
+    },
+    {
+      "start": 53.18,
+      "end": 53.44,
+      "word": "dentista."
+    },
+    {
+      "start": 53.6,
+      "end": 53.66,
+      "word": "Faccia"
+    },
+    {
+      "start": 53.66,
+      "end": 53.78,
+      "word": "i"
+    },
+    {
+      "start": 53.78,
+      "end": 54.38,
+      "word": "ricercatori"
+    },
+    {
+      "start": 54.38,
+      "end": 54.72,
+      "word": "dentro"
+    },
+    {
+      "start": 54.72,
+      "end": 54.94,
+      "word": "un"
+    },
+    {
+      "start": 54.94,
+      "end": 55.38,
+      "word": "'azienda"
+    },
+    {
+      "start": 55.38,
+      "end": 55.6,
+      "word": "che"
+    },
+    {
+      "start": 55.6,
+      "end": 56.52,
+      "word": "selezionava"
+    },
+    {
+      "start": 56.52,
+      "end": 57.04,
+      "word": "muffe."
+    },
+    {
+      "start": 57.22,
+      "end": 57.22,
+      "word": "Quindi"
+    },
+    {
+      "start": 57.22,
+      "end": 57.4,
+      "word": "lui"
+    },
+    {
+      "start": 57.4,
+      "end": 57.52,
+      "word": "ha"
+    },
+    {
+      "start": 57.52,
+      "end": 58.1,
+      "word": "creato"
+    },
+    {
+      "start": 58.1,
+      "end": 58.32,
+      "word": "da"
+    },
+    {
+      "start": 58.32,
+      "end": 58.68,
+      "word": "queste"
+    },
+    {
+      "start": 58.68,
+      "end": 59.58,
+      "word": "muffe,"
+    },
+    {
+      "start": 59.64,
+      "end": 60.08,
+      "word": "vedi"
+    },
+    {
+      "start": 60.08,
+      "end": 60.44,
+      "word": "così,"
+    },
+    {
+      "start": 60.74,
+      "end": 60.86,
+      "word": "la"
+    },
+    {
+      "start": 60.86,
+      "end": 61.28,
+      "word": "resa"
+    },
+    {
+      "start": 61.28,
+      "end": 61.84,
+      "word": "liquida."
+    },
+    {
+      "start": 62.12,
+      "end": 62.14,
+      "word": "E"
+    },
+    {
+      "start": 62.14,
+      "end": 62.46,
+      "word": "questa"
+    },
+    {
+      "start": 62.46,
+      "end": 62.62,
+      "word": "qua"
+    },
+    {
+      "start": 62.62,
+      "end": 62.74,
+      "word": "la"
+    },
+    {
+      "start": 62.74,
+      "end": 63.3,
+      "word": "spruzza"
+    },
+    {
+      "start": 63.3,
+      "end": 63.94,
+      "word": "e"
+    },
+    {
+      "start": 63.94,
+      "end": 64.36,
+      "word": "sulla"
+    },
+    {
+      "start": 64.36,
+      "end": 65.12,
+      "word": "superficie"
+    },
+    {
+      "start": 65.12,
+      "end": 65.32,
+      "word": "o"
+    },
+    {
+      "start": 65.32,
+      "end": 65.54,
+      "word": "della"
+    },
+    {
+      "start": 65.54,
+      "end": 66.0,
+      "word": "carne"
+    },
+    {
+      "start": 66.0,
+      "end": 66.46,
+      "word": "o"
+    },
+    {
+      "start": 66.46,
+      "end": 66.66,
+      "word": "del"
+    },
+    {
+      "start": 66.66,
+      "end": 67.86,
+      "word": "pesce."
+    },
+    {
+      "start": 68.16,
+      "end": 68.22,
+      "word": "E"
+    },
+    {
+      "start": 68.22,
+      "end": 68.38,
+      "word": "fai"
+    },
+    {
+      "start": 68.38,
+      "end": 68.48,
+      "word": "di"
+    },
+    {
+      "start": 68.48,
+      "end": 68.8,
+      "word": "questo"
+    },
+    {
+      "start": 68.8,
+      "end": 69.1,
+      "word": "tipo"
+    },
+    {
+      "start": 69.1,
+      "end": 69.3,
+      "word": "di"
+    },
+    {
+      "start": 69.3,
+      "end": 69.72,
+      "word": "muffa"
+    },
+    {
+      "start": 69.72,
+      "end": 70.4,
+      "word": "speciale."
+    },
+    {
+      "start": 70.5,
+      "end": 70.58,
+      "word": "Se"
+    },
+    {
+      "start": 70.58,
+      "end": 70.82,
+      "word": "qualcosa"
+    },
+    {
+      "start": 70.82,
+      "end": 71.08,
+      "word": "di"
+    },
+    {
+      "start": 71.08,
+      "end": 71.82,
+      "word": "stantipatico"
+    },
+    {
+      "start": 71.82,
+      "end": 71.96,
+      "word": "so"
+    },
+    {
+      "start": 71.96,
+      "end": 72.12,
+      "word": "a"
+    },
+    {
+      "start": 72.12,
+      "end": 72.54,
+      "word": "borza"
+    },
+    {
+      "start": 72.54,
+      "end": 73.04,
+      "word": "bella,"
+    },
+    {
+      "start": 73.12,
+      "end": 73.18,
+      "word": "di"
+    },
+    {
+      "start": 73.18,
+      "end": 73.44,
+      "word": "marca,"
+    },
+    {
+      "start": 73.66,
+      "end": 73.72,
+      "word": "e"
+    },
+    {
+      "start": 73.72,
+      "end": 73.8,
+      "word": "i"
+    },
+    {
+      "start": 73.8,
+      "end": 74.18,
+      "word": "fecosi,"
+    },
+    {
+      "start": 74.36,
+      "end": 74.44,
+      "word": "è"
+    },
+    {
+      "start": 74.44,
+      "end": 74.58,
+      "word": "un"
+    },
+    {
+      "start": 74.58,
+      "end": 74.72,
+      "word": "tamuffa."
+    },
+    {
+      "start": 74.74,
+      "end": 74.84,
+      "word": "Da"
+    },
+    {
+      "start": 74.84,
+      "end": 74.98,
+      "word": "un"
+    },
+    {
+      "start": 74.98,
+      "end": 75.2,
+      "word": "paio"
+    },
+    {
+      "start": 75.2,
+      "end": 75.3,
+      "word": "di"
+    },
+    {
+      "start": 75.3,
+      "end": 75.66,
+      "word": "giorni"
+    },
+    {
+      "start": 75.66,
+      "end": 75.82,
+      "word": "si"
+    },
+    {
+      "start": 75.82,
+      "end": 75.92,
+      "word": "fanno"
+    },
+    {
+      "start": 75.92,
+      "end": 76.1,
+      "word": "le"
+    },
+    {
+      "start": 76.1,
+      "end": 76.44,
+      "word": "muffe."
+    },
+    {
+      "start": 79.36,
+      "end": 79.8,
+      "word": "Vedete"
+    },
+    {
+      "start": 79.8,
+      "end": 80.24,
+      "word": "conto"
+    },
+    {
+      "start": 80.24,
+      "end": 80.38,
+      "word": "in"
+    },
+    {
+      "start": 80.38,
+      "end": 80.48,
+      "word": "che"
+    },
+    {
+      "start": 80.48,
+      "end": 80.9,
+      "word": "situazione"
+    },
+    {
+      "start": 80.9,
+      "end": 81.52,
+      "word": "stiamo."
+    },
+    {
+      "start": 81.66,
+      "end": 81.74,
+      "word": "È"
+    },
+    {
+      "start": 81.74,
+      "end": 82.02,
+      "word": "uscito"
+    },
+    {
+      "start": 82.02,
+      "end": 82.18,
+      "word": "poi"
+    },
+    {
+      "start": 82.18,
+      "end": 82.34,
+      "word": "dal"
+    },
+    {
+      "start": 82.34,
+      "end": 83.04,
+      "word": "dentista,"
+    },
+    {
+      "start": 83.04,
+      "end": 83.3,
+      "word": "dal"
+    },
+    {
+      "start": 83.3,
+      "end": 83.68,
+      "word": "suo"
+    },
+    {
+      "start": 83.68,
+      "end": 84.38,
+      "word": "laboratorio."
+    },
+    {
+      "start": 84.6,
+      "end": 84.92,
+      "word": "E"
+    },
+    {
+      "start": 84.92,
+      "end": 85.06,
+      "word": "sta"
+    },
+    {
+      "start": 85.06,
+      "end": 85.46,
+      "word": "facendo"
+    },
+    {
+      "start": 85.46,
+      "end": 85.74,
+      "word": "i"
+    },
+    {
+      "start": 85.74,
+      "end": 86.08,
+      "word": "nighiri"
+    },
+    {
+      "start": 86.08,
+      "end": 86.36,
+      "word": "per"
+    },
+    {
+      "start": 86.36,
+      "end": 86.6,
+      "word": "noi"
+    },
+    {
+      "start": 86.6,
+      "end": 86.84,
+      "word": "col"
+    },
+    {
+      "start": 86.84,
+      "end": 87.64,
+      "word": "tonno"
+    },
+    {
+      "start": 87.64,
+      "end": 88.12,
+      "word": "a"
+    },
+    {
+      "start": 88.12,
+      "end": 88.74,
+      "word": "muffilo."
+    },
+    {
+      "start": 90.66,
+      "end": 91.24,
+      "word": "Vedete"
+    },
+    {
+      "start": 91.24,
+      "end": 91.82,
+      "word": "che"
+    },
+    {
+      "start": 91.82,
+      "end": 91.98,
+      "word": "sto"
+    },
+    {
+      "start": 91.98,
+      "end": 92.32,
+      "word": "mangiando"
+    },
+    {
+      "start": 92.32,
+      "end": 92.52,
+      "word": "un"
+    },
+    {
+      "start": 92.52,
+      "end": 92.76,
+      "word": "tonno"
+    },
+    {
+      "start": 92.76,
+      "end": 92.86,
+      "word": "di"
+    },
+    {
+      "start": 92.86,
+      "end": 93.15,
+      "word": "60..."
+    },
+    {
+      "start": 93.56,
+      "end": 93.82,
+      "word": "quanti"
+    },
+    {
+      "start": 93.82,
+      "end": 94.04,
+      "word": "giorni"
+    },
+    {
+      "start": 94.04,
+      "end": 94.14,
+      "word": "ci"
+    },
+    {
+      "start": 94.14,
+      "end": 94.28,
+      "word": "aveva?"
+    },
+    {
+      "start": 94.42,
+      "end": 94.6,
+      "word": "60?"
+    },
+    {
+      "start": 95.1,
+      "end": 95.34,
+      "word": "Questo"
+    },
+    {
+      "start": 95.34,
+      "end": 95.46,
+      "word": "è"
+    },
+    {
+      "start": 95.46,
+      "end": 95.76,
+      "word": "60."
+    },
+    {
+      "start": 103.46,
+      "end": 104.04,
+      "word": "Impensabile."
+    },
+    {
+      "start": 104.94,
+      "end": 105.52,
+      "word": "Bravissimo."
+    },
+    {
+      "start": 105.7,
+      "end": 105.76,
+      "word": "È"
+    },
+    {
+      "start": 105.76,
+      "end": 105.96,
+      "word": "una"
+    },
+    {
+      "start": 105.96,
+      "end": 107.08,
+      "word": "cosa..."
+    },
+    {
+      "start": 107.08,
+      "end": 107.22,
+      "word": "tu"
+    },
+    {
+      "start": 107.22,
+      "end": 107.4,
+      "word": "sei"
+    },
+    {
+      "start": 107.4,
+      "end": 107.68,
+      "word": "pronto"
+    },
+    {
+      "start": 107.68,
+      "end": 108.0,
+      "word": "a"
+    },
+    {
+      "start": 108.0,
+      "end": 108.28,
+      "word": "mangiare"
+    },
+    {
+      "start": 108.28,
+      "end": 108.6,
+      "word": "un"
+    },
+    {
+      "start": 108.6,
+      "end": 108.6,
+      "word": "qualcosa"
+    },
+    {
+      "start": 108.6,
+      "end": 108.96,
+      "word": "che"
+    },
+    {
+      "start": 108.96,
+      "end": 109.32,
+      "word": "ha"
+    },
+    {
+      "start": 109.32,
+      "end": 109.64,
+      "word": "un"
+    },
+    {
+      "start": 109.64,
+      "end": 109.96,
+      "word": "sapore"
+    },
+    {
+      "start": 109.96,
+      "end": 110.66,
+      "word": "fortissimo,"
+    },
+    {
+      "start": 110.66,
+      "end": 110.86,
+      "word": "quindi"
+    },
+    {
+      "start": 110.86,
+      "end": 111.02,
+      "word": "si"
+    },
+    {
+      "start": 111.02,
+      "end": 111.44,
+      "word": "è"
+    },
+    {
+      "start": 111.44,
+      "end": 113.0,
+      "word": "pazzisco."
+    }
+  ],
+  "aligned": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.401,
+      "dur": 1.401,
+      "transcript": "Mi sono mangato a fare, ragazzi."
+    },
+    {
+      "idx": 1,
+      "start": 1.401,
+      "end": 2.319,
+      "dur": 0.918,
+      "transcript": ""
+    },
+    {
+      "idx": 2,
+      "start": 2.319,
+      "end": 3.804,
+      "dur": 1.485,
+      "transcript": "Guarda dentro come me."
+    },
+    {
+      "idx": 3,
+      "start": 3.804,
+      "end": 5.956,
+      "dur": 2.152,
+      "transcript": "Sentis la pelle come scrocchia, guarda."
+    },
+    {
+      "idx": 4,
+      "start": 5.956,
+      "end": 7.307,
+      "dur": 1.351,
+      "transcript": "È un vito dentro, guarda."
+    },
+    {
+      "idx": 5,
+      "start": 7.307,
+      "end": 7.774,
+      "dur": 0.467,
+      "transcript": ""
+    },
+    {
+      "idx": 6,
+      "start": 7.774,
+      "end": 8.258,
+      "dur": 0.484,
+      "transcript": ""
+    },
+    {
+      "idx": 7,
+      "start": 8.258,
+      "end": 8.792,
+      "dur": 0.534,
+      "transcript": ""
+    },
+    {
+      "idx": 8,
+      "start": 8.792,
+      "end": 9.176,
+      "dur": 0.384,
+      "transcript": ""
+    },
+    {
+      "idx": 9,
+      "start": 9.176,
+      "end": 9.543,
+      "dur": 0.367,
+      "transcript": ""
+    },
+    {
+      "idx": 10,
+      "start": 9.543,
+      "end": 10.894,
+      "dur": 1.351,
+      "transcript": "Lo ripulisce."
+    },
+    {
+      "idx": 11,
+      "start": 10.894,
+      "end": 11.728,
+      "dur": 0.834,
+      "transcript": ""
+    },
+    {
+      "idx": 12,
+      "start": 11.728,
+      "end": 12.729,
+      "dur": 1.001,
+      "transcript": "È"
+    },
+    {
+      "idx": 13,
+      "start": 12.729,
+      "end": 13.597,
+      "dur": 0.868,
+      "transcript": "unissimo."
+    },
+    {
+      "idx": 14,
+      "start": 13.597,
+      "end": 15.365,
+      "dur": 1.768,
+      "transcript": "Lui mangia sta parte, guarda."
+    },
+    {
+      "idx": 15,
+      "start": 15.365,
+      "end": 16.917,
+      "dur": 1.552,
+      "transcript": ""
+    },
+    {
+      "idx": 16,
+      "start": 16.917,
+      "end": 18.101,
+      "dur": 1.185,
+      "transcript": ""
+    },
+    {
+      "idx": 17,
+      "start": 18.101,
+      "end": 19.269,
+      "dur": 1.168,
+      "transcript": "È una"
+    },
+    {
+      "idx": 18,
+      "start": 19.269,
+      "end": 20.17,
+      "dur": 0.901,
+      "transcript": "messaggheria."
+    },
+    {
+      "idx": 19,
+      "start": 20.17,
+      "end": 25.242,
+      "dur": 5.072,
+      "transcript": "Mi sono mangato a fare, ragazzi. Il Viro!"
+    },
+    {
+      "idx": 20,
+      "start": 25.242,
+      "end": 26.376,
+      "dur": 1.134,
+      "transcript": "Simbio formaggio."
+    },
+    {
+      "idx": 21,
+      "start": 26.376,
+      "end": 29.129,
+      "dur": 2.753,
+      "transcript": "Lui fa il dentista, si chiama Papa."
+    },
+    {
+      "idx": 22,
+      "start": 29.129,
+      "end": 30.097,
+      "dur": 0.968,
+      "transcript": "Lui"
+    },
+    {
+      "idx": 23,
+      "start": 30.097,
+      "end": 34.334,
+      "dur": 4.238,
+      "transcript": "c 'è anche un hobby. Si mette a far crescere le muffe"
+    },
+    {
+      "idx": 24,
+      "start": 34.334,
+      "end": 35.686,
+      "dur": 1.351,
+      "transcript": "intorno,"
+    },
+    {
+      "idx": 25,
+      "start": 35.686,
+      "end": 37.554,
+      "dur": 1.869,
+      "transcript": "soprattutto al tonno ai pesci."
+    },
+    {
+      "idx": 26,
+      "start": 37.554,
+      "end": 39.173,
+      "dur": 1.618,
+      "transcript": "Questo è tonno."
+    },
+    {
+      "idx": 27,
+      "start": 39.173,
+      "end": 40.14,
+      "dur": 0.968,
+      "transcript": "40 giorni."
+    },
+    {
+      "idx": 28,
+      "start": 40.14,
+      "end": 44.261,
+      "dur": 4.121,
+      "transcript": "50 giorni, 50 giorni. Sono la potente che ha."
+    },
+    {
+      "idx": 29,
+      "start": 44.261,
+      "end": 45.546,
+      "dur": 1.285,
+      "transcript": "Oggi mangiamo questa a detti."
+    },
+    {
+      "idx": 30,
+      "start": 45.546,
+      "end": 48.665,
+      "dur": 3.12,
+      "transcript": "Piero che muffa. Se tu lo pesi, c 'è il sommagno a questo."
+    },
+    {
+      "idx": 31,
+      "start": 48.665,
+      "end": 50.284,
+      "dur": 1.618,
+      "transcript": "Pazzesco."
+    },
+    {
+      "idx": 32,
+      "start": 50.284,
+      "end": 51.885,
+      "dur": 1.602,
+      "transcript": "Tu assaggieresti, la verità."
+    },
+    {
+      "idx": 33,
+      "start": 51.885,
+      "end": 53.504,
+      "dur": 1.618,
+      "transcript": "Allora lui prima da fare il dentista."
+    },
+    {
+      "idx": 34,
+      "start": 53.504,
+      "end": 55.556,
+      "dur": 2.052,
+      "transcript": "Faccia i ricercatori dentro un 'azienda che"
+    },
+    {
+      "idx": 35,
+      "start": 55.556,
+      "end": 56.924,
+      "dur": 1.368,
+      "transcript": "selezionava muffe."
+    },
+    {
+      "idx": 36,
+      "start": 56.924,
+      "end": 58.192,
+      "dur": 1.268,
+      "transcript": "Quindi lui ha creato"
+    },
+    {
+      "idx": 37,
+      "start": 58.192,
+      "end": 61.912,
+      "dur": 3.72,
+      "transcript": "da queste muffe, vedi così, la resa liquida."
+    },
+    {
+      "idx": 38,
+      "start": 61.912,
+      "end": 66.85,
+      "dur": 4.938,
+      "transcript": "E questa qua la spruzza e sulla superficie o della carne o del"
+    },
+    {
+      "idx": 39,
+      "start": 66.85,
+      "end": 70.487,
+      "dur": 3.637,
+      "transcript": "pesce. E fai di questo tipo di muffa speciale."
+    },
+    {
+      "idx": 40,
+      "start": 70.487,
+      "end": 75.125,
+      "dur": 4.638,
+      "transcript": "Se qualcosa di stantipatico so a borza bella, di marca, e i fecosi, è un tamuffa. Da un paio"
+    },
+    {
+      "idx": 41,
+      "start": 75.125,
+      "end": 76.693,
+      "dur": 1.568,
+      "transcript": "di giorni si fanno le muffe."
+    },
+    {
+      "idx": 42,
+      "start": 76.693,
+      "end": 77.661,
+      "dur": 0.968,
+      "transcript": ""
+    },
+    {
+      "idx": 43,
+      "start": 77.661,
+      "end": 78.478,
+      "dur": 0.817,
+      "transcript": ""
+    },
+    {
+      "idx": 44,
+      "start": 78.478,
+      "end": 79.179,
+      "dur": 0.701,
+      "transcript": ""
+    },
+    {
+      "idx": 45,
+      "start": 79.179,
+      "end": 81.682,
+      "dur": 2.503,
+      "transcript": "Vedete conto in che situazione stiamo."
+    },
+    {
+      "idx": 46,
+      "start": 81.682,
+      "end": 87.821,
+      "dur": 6.139,
+      "transcript": "È uscito poi dal dentista, dal suo laboratorio. E sta facendo i nighiri per noi col tonno"
+    },
+    {
+      "idx": 47,
+      "start": 87.821,
+      "end": 88.872,
+      "dur": 1.051,
+      "transcript": "a muffilo."
+    },
+    {
+      "idx": 48,
+      "start": 88.872,
+      "end": 90.674,
+      "dur": 1.802,
+      "transcript": ""
+    },
+    {
+      "idx": 49,
+      "start": 90.674,
+      "end": 91.441,
+      "dur": 0.767,
+      "transcript": "Vedete"
+    },
+    {
+      "idx": 50,
+      "start": 91.441,
+      "end": 93.694,
+      "dur": 2.252,
+      "transcript": "che sto mangiando un tonno di 60... quanti"
+    },
+    {
+      "idx": 51,
+      "start": 93.694,
+      "end": 96.029,
+      "dur": 2.336,
+      "transcript": "giorni ci aveva? 60? Questo è 60."
+    },
+    {
+      "idx": 52,
+      "start": 96.029,
+      "end": 102.135,
+      "dur": 6.106,
+      "transcript": ""
+    },
+    {
+      "idx": 53,
+      "start": 102.135,
+      "end": 102.836,
+      "dur": 0.701,
+      "transcript": ""
+    },
+    {
+      "idx": 54,
+      "start": 102.836,
+      "end": 105.706,
+      "dur": 2.87,
+      "transcript": "Impensabile. Bravissimo."
+    },
+    {
+      "idx": 55,
+      "start": 105.706,
+      "end": 107.14,
+      "dur": 1.435,
+      "transcript": "È una cosa..."
+    },
+    {
+      "idx": 56,
+      "start": 107.14,
+      "end": 113.13,
+      "dur": 5.989,
+      "transcript": "tu sei pronto a mangiare un qualcosa che ha un sapore fortissimo, quindi si è pazzisco."
+    }
+  ],
+  "full_text": "Mi sono mangato a fare, ragazzi. Guarda dentro come me. Sentis la pelle come scrocchia, guarda. È un vito dentro, guarda. Lo ripulisce. È unissimo. Lui mangia sta parte, guarda. È una messaggheria. Mi sono mangato a fare, ragazzi. Il Viro! Simbio formaggio. Lui fa il dentista, si chiama Papa. Lui c'è anche un hobby. Si mette a far crescere le muffe intorno, soprattutto al tonno ai pesci. Questo è tonno. 40 giorni. 50 giorni, 50 giorni. Sono la potente che ha. Oggi mangiamo questa a detti. Piero che muffa. Se tu lo pesi, c'è il sommagno a questo. Pazzesco. Tu assaggieresti, la verità. Allora lui prima da fare il dentista. Faccia i ricercatori dentro un'azienda che selezionava muffe. Quindi lui ha creato da queste muffe, vedi così, la resa liquida. E questa qua la spruzza e sulla superficie o della carne o del pesce. E fai di questo tipo di muffa speciale. Se qualcosa di stantipatico so a borza bella, di marca, e i fecosi, è un tamuffa. Da un paio di giorni si fanno le muffe. Vedete conto in che situazione stiamo. È uscito poi dal dentista, dal suo laboratorio. E sta facendo i nighiri per noi col tonno a muffilo. Vedete che sto mangiando un tonno di 60... quanti giorni ci aveva? 60? Questo è 60. Impensabile. Bravissimo. È una cosa... tu sei pronto a mangiare un qualcosa che ha un sapore fortissimo, quindi si è pazzisco.",
+  "analyzed_at": "2026-09-20T19:08:11"
+}

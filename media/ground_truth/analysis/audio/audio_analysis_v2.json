@@ -1,0 +1,2866 @@
+{
+  "summary": {
+    "duration": 79.58,
+    "voice_pct": 61.6,
+    "ambient_pct": 30.0,
+    "asmr_pct": 8.4,
+    "avg_rms": 0.17038,
+    "avg_centroid": 1427.0,
+    "avg_flatness": 0.01594
+  },
+  "windows": [
+    {
+      "t": 0.0,
+      "rms": 0.23729,
+      "voice_pct": 71.8,
+      "ambient_pct": 20.6,
+      "asmr_pct": 7.6,
+      "centroid_hz": 1237.0,
+      "flatness": 0.00978
+    },
+    {
+      "t": 0.25,
+      "rms": 0.16777,
+      "voice_pct": 68.3,
+      "ambient_pct": 24.3,
+      "asmr_pct": 7.4,
+      "centroid_hz": 1517.0,
+      "flatness": 0.01329
+    },
+    {
+      "t": 0.5,
+      "rms": 0.15897,
+      "voice_pct": 71.2,
+      "ambient_pct": 25.2,
+      "asmr_pct": 3.6,
+      "centroid_hz": 1243.0,
+      "flatness": 0.00367
+    },
+    {
+      "t": 0.75,
+      "rms": 0.16112,
+      "voice_pct": 70.6,
+      "ambient_pct": 26.3,
+      "asmr_pct": 3.1,
+      "centroid_hz": 1227.0,
+      "flatness": 0.00262
+    },
+    {
+      "t": 1.0,
+      "rms": 0.16009,
+      "voice_pct": 63.3,
+      "ambient_pct": 34.6,
+      "asmr_pct": 2.1,
+      "centroid_hz": 1281.0,
+      "flatness": 0.00263
+    },
+    {
+      "t": 1.25,
+      "rms": 0.15544,
+      "voice_pct": 61.3,
+      "ambient_pct": 36.9,
+      "asmr_pct": 1.8,
+      "centroid_hz": 1305.0,
+      "flatness": 0.00276
+    },
+    {
+      "t": 1.5,
+      "rms": 0.15823,
+      "voice_pct": 65.5,
+      "ambient_pct": 31.5,
+      "asmr_pct": 3.0,
+      "centroid_hz": 1184.0,
+      "flatness": 0.00288
+    },
+    {
+      "t": 1.75,
+      "rms": 0.1971,
+      "voice_pct": 71.9,
+      "ambient_pct": 23.4,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1138.0,
+      "flatness": 0.00427
+    },
+    {
+      "t": 2.0,
+      "rms": 0.2279,
+      "voice_pct": 74.5,
+      "ambient_pct": 21.3,
+      "asmr_pct": 4.2,
+      "centroid_hz": 1118.0,
+      "flatness": 0.00177
+    },
+    {
+      "t": 2.25,
+      "rms": 0.19701,
+      "voice_pct": 71.7,
+      "ambient_pct": 25.6,
+      "asmr_pct": 2.7,
+      "centroid_hz": 980.0,
+      "flatness": 0.00162
+    },
+    {
+      "t": 2.5,
+      "rms": 0.13115,
+      "voice_pct": 67.9,
+      "ambient_pct": 27.7,
+      "asmr_pct": 4.4,
+      "centroid_hz": 1146.0,
+      "flatness": 0.00496
+    },
+    {
+      "t": 2.75,
+      "rms": 0.1167,
+      "voice_pct": 58.7,
+      "ambient_pct": 36.1,
+      "asmr_pct": 5.1,
+      "centroid_hz": 1542.0,
+      "flatness": 0.02048
+    },
+    {
+      "t": 3.0,
+      "rms": 0.14095,
+      "voice_pct": 55.1,
+      "ambient_pct": 42.0,
+      "asmr_pct": 2.9,
+      "centroid_hz": 1608.0,
+      "flatness": 0.02919
+    },
+    {
+      "t": 3.25,
+      "rms": 0.14418,
+      "voice_pct": 59.2,
+      "ambient_pct": 38.0,
+      "asmr_pct": 2.8,
+      "centroid_hz": 1228.0,
+      "flatness": 0.00375
+    },
+    {
+      "t": 3.5,
+      "rms": 0.14512,
+      "voice_pct": 74.9,
+      "ambient_pct": 19.3,
+      "asmr_pct": 5.7,
+      "centroid_hz": 1186.0,
+      "flatness": 0.00343
+    },
+    {
+      "t": 3.75,
+      "rms": 0.13967,
+      "voice_pct": 72.1,
+      "ambient_pct": 21.7,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1153.0,
+      "flatness": 0.00417
+    },
+    {
+      "t": 4.0,
+      "rms": 0.09453,
+      "voice_pct": 68.1,
+      "ambient_pct": 24.2,
+      "asmr_pct": 7.7,
+      "centroid_hz": 1342.0,
+      "flatness": 0.02074
+    },
+    {
+      "t": 4.25,
+      "rms": 0.13738,
+      "voice_pct": 64.4,
+      "ambient_pct": 26.4,
+      "asmr_pct": 9.2,
+      "centroid_hz": 1534.0,
+      "flatness": 0.02352
+    },
+    {
+      "t": 4.5,
+      "rms": 0.21394,
+      "voice_pct": 62.7,
+      "ambient_pct": 26.5,
+      "asmr_pct": 10.8,
+      "centroid_hz": 1441.0,
+      "flatness": 0.01591
+    },
+    {
+      "t": 4.75,
+      "rms": 0.25818,
+      "voice_pct": 61.2,
+      "ambient_pct": 31.1,
+      "asmr_pct": 7.7,
+      "centroid_hz": 1472.0,
+      "flatness": 0.01995
+    },
+    {
+      "t": 5.0,
+      "rms": 0.25876,
+      "voice_pct": 64.4,
+      "ambient_pct": 31.0,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1202.0,
+      "flatness": 0.0054
+    },
+    {
+      "t": 5.25,
+      "rms": 0.29296,
+      "voice_pct": 73.9,
+      "ambient_pct": 22.9,
+      "asmr_pct": 3.2,
+      "centroid_hz": 962.0,
+      "flatness": 0.00136
+    },
+    {
+      "t": 5.5,
+      "rms": 0.28012,
+      "voice_pct": 77.2,
+      "ambient_pct": 18.0,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1061.0,
+      "flatness": 0.00125
+    },
+    {
+      "t": 5.75,
+      "rms": 0.17742,
+      "voice_pct": 76.3,
+      "ambient_pct": 16.6,
+      "asmr_pct": 7.1,
+      "centroid_hz": 1203.0,
+      "flatness": 0.00314
+    },
+    {
+      "t": 6.0,
+      "rms": 0.15592,
+      "voice_pct": 71.9,
+      "ambient_pct": 20.4,
+      "asmr_pct": 7.7,
+      "centroid_hz": 1335.0,
+      "flatness": 0.00969
+    },
+    {
+      "t": 6.25,
+      "rms": 0.21855,
+      "voice_pct": 74.7,
+      "ambient_pct": 19.2,
+      "asmr_pct": 6.1,
+      "centroid_hz": 1273.0,
+      "flatness": 0.00783
+    },
+    {
+      "t": 6.5,
+      "rms": 0.21547,
+      "voice_pct": 76.5,
+      "ambient_pct": 18.3,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1177.0,
+      "flatness": 0.0058
+    },
+    {
+      "t": 6.75,
+      "rms": 0.13889,
+      "voice_pct": 72.6,
+      "ambient_pct": 20.6,
+      "asmr_pct": 6.8,
+      "centroid_hz": 1248.0,
+      "flatness": 0.0077
+    },
+    {
+      "t": 7.0,
+      "rms": 0.152,
+      "voice_pct": 73.7,
+      "ambient_pct": 19.9,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1310.0,
+      "flatness": 0.00824
+    },
+    {
+      "t": 7.25,
+      "rms": 0.16758,
+      "voice_pct": 66.0,
+      "ambient_pct": 30.0,
+      "asmr_pct": 4.0,
+      "centroid_hz": 1268.0,
+      "flatness": 0.01284
+    },
+    {
+      "t": 7.5,
+      "rms": 0.14611,
+      "voice_pct": 62.1,
+      "ambient_pct": 34.1,
+      "asmr_pct": 3.8,
+      "centroid_hz": 1245.0,
+      "flatness": 0.0067
+    },
+    {
+      "t": 7.75,
+      "rms": 0.12232,
+      "voice_pct": 63.1,
+      "ambient_pct": 33.3,
+      "asmr_pct": 3.6,
+      "centroid_hz": 1188.0,
+      "flatness": 0.0051
+    },
+    {
+      "t": 8.0,
+      "rms": 0.13455,
+      "voice_pct": 66.7,
+      "ambient_pct": 29.9,
+      "asmr_pct": 3.3,
+      "centroid_hz": 1019.0,
+      "flatness": 0.0041
+    },
+    {
+      "t": 8.25,
+      "rms": 0.17214,
+      "voice_pct": 72.6,
+      "ambient_pct": 21.5,
+      "asmr_pct": 6.0,
+      "centroid_hz": 1059.0,
+      "flatness": 0.00323
+    },
+    {
+      "t": 8.5,
+      "rms": 0.19087,
+      "voice_pct": 63.7,
+      "ambient_pct": 31.0,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1248.0,
+      "flatness": 0.00526
+    },
+    {
+      "t": 8.75,
+      "rms": 0.15678,
+      "voice_pct": 59.4,
+      "ambient_pct": 31.8,
+      "asmr_pct": 8.9,
+      "centroid_hz": 1762.0,
+      "flatness": 0.03978
+    },
+    {
+      "t": 9.0,
+      "rms": 0.09135,
+      "voice_pct": 63.4,
+      "ambient_pct": 14.9,
+      "asmr_pct": 21.7,
+      "centroid_hz": 1757.0,
+      "flatness": 0.02554
+    },
+    {
+      "t": 9.25,
+      "rms": 0.1707,
+      "voice_pct": 72.7,
+      "ambient_pct": 15.7,
+      "asmr_pct": 11.6,
+      "centroid_hz": 1547.0,
+      "flatness": 0.01543
+    },
+    {
+      "t": 9.5,
+      "rms": 0.21722,
+      "voice_pct": 72.1,
+      "ambient_pct": 14.5,
+      "asmr_pct": 13.4,
+      "centroid_hz": 1884.0,
+      "flatness": 0.03561
+    },
+    {
+      "t": 9.75,
+      "rms": 0.17463,
+      "voice_pct": 70.2,
+      "ambient_pct": 15.4,
+      "asmr_pct": 14.4,
+      "centroid_hz": 1760.0,
+      "flatness": 0.03409
+    },
+    {
+      "t": 10.0,
+      "rms": 0.17095,
+      "voice_pct": 68.8,
+      "ambient_pct": 19.1,
+      "asmr_pct": 12.1,
+      "centroid_hz": 1603.0,
+      "flatness": 0.02304
+    },
+    {
+      "t": 10.25,
+      "rms": 0.21532,
+      "voice_pct": 63.8,
+      "ambient_pct": 28.7,
+      "asmr_pct": 7.5,
+      "centroid_hz": 1433.0,
+      "flatness": 0.01627
+    },
+    {
+      "t": 10.5,
+      "rms": 0.22497,
+      "voice_pct": 62.4,
+      "ambient_pct": 32.5,
+      "asmr_pct": 5.0,
+      "centroid_hz": 1236.0,
+      "flatness": 0.0038
+    },
+    {
+      "t": 10.75,
+      "rms": 0.23261,
+      "voice_pct": 71.7,
+      "ambient_pct": 23.6,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1168.0,
+      "flatness": 0.00271
+    },
+    {
+      "t": 11.0,
+      "rms": 0.19734,
+      "voice_pct": 74.8,
+      "ambient_pct": 16.4,
+      "asmr_pct": 8.8,
+      "centroid_hz": 1302.0,
+      "flatness": 0.01215
+    },
+    {
+      "t": 11.25,
+      "rms": 0.13912,
+      "voice_pct": 66.0,
+      "ambient_pct": 26.5,
+      "asmr_pct": 7.5,
+      "centroid_hz": 1207.0,
+      "flatness": 0.01389
+    },
+    {
+      "t": 11.5,
+      "rms": 0.16135,
+      "voice_pct": 68.3,
+      "ambient_pct": 26.8,
+      "asmr_pct": 4.9,
+      "centroid_hz": 1060.0,
+      "flatness": 0.00654
+    },
+    {
+      "t": 11.75,
+      "rms": 0.21585,
+      "voice_pct": 67.8,
+      "ambient_pct": 27.3,
+      "asmr_pct": 4.9,
+      "centroid_hz": 1106.0,
+      "flatness": 0.00579
+    },
+    {
+      "t": 12.0,
+      "rms": 0.20891,
+      "voice_pct": 61.9,
+      "ambient_pct": 28.9,
+      "asmr_pct": 9.1,
+      "centroid_hz": 1566.0,
+      "flatness": 0.02886
+    },
+    {
+      "t": 12.25,
+      "rms": 0.17645,
+      "voice_pct": 62.4,
+      "ambient_pct": 25.1,
+      "asmr_pct": 12.5,
+      "centroid_hz": 1721.0,
+      "flatness": 0.02871
+    },
+    {
+      "t": 12.5,
+      "rms": 0.18805,
+      "voice_pct": 61.1,
+      "ambient_pct": 32.4,
+      "asmr_pct": 6.5,
+      "centroid_hz": 1524.0,
+      "flatness": 0.00787
+    },
+    {
+      "t": 12.75,
+      "rms": 0.18641,
+      "voice_pct": 57.4,
+      "ambient_pct": 33.0,
+      "asmr_pct": 9.6,
+      "centroid_hz": 1704.0,
+      "flatness": 0.02138
+    },
+    {
+      "t": 13.0,
+      "rms": 0.20043,
+      "voice_pct": 59.2,
+      "ambient_pct": 26.8,
+      "asmr_pct": 14.0,
+      "centroid_hz": 1912.0,
+      "flatness": 0.0311
+    },
+    {
+      "t": 13.25,
+      "rms": 0.18245,
+      "voice_pct": 56.9,
+      "ambient_pct": 24.3,
+      "asmr_pct": 18.8,
+      "centroid_hz": 2183.0,
+      "flatness": 0.03732
+    },
+    {
+      "t": 13.5,
+      "rms": 0.17785,
+      "voice_pct": 60.6,
+      "ambient_pct": 23.4,
+      "asmr_pct": 16.0,
+      "centroid_hz": 1787.0,
+      "flatness": 0.02287
+    },
+    {
+      "t": 13.75,
+      "rms": 0.24274,
+      "voice_pct": 61.3,
+      "ambient_pct": 33.9,
+      "asmr_pct": 4.8,
+      "centroid_hz": 1274.0,
+      "flatness": 0.00609
+    },
+    {
+      "t": 14.0,
+      "rms": 0.2095,
+      "voice_pct": 60.3,
+      "ambient_pct": 35.3,
+      "asmr_pct": 4.4,
+      "centroid_hz": 1246.0,
+      "flatness": 0.00724
+    },
+    {
+      "t": 14.25,
+      "rms": 0.15839,
+      "voice_pct": 59.5,
+      "ambient_pct": 37.1,
+      "asmr_pct": 3.4,
+      "centroid_hz": 1174.0,
+      "flatness": 0.00557
+    },
+    {
+      "t": 14.5,
+      "rms": 0.15903,
+      "voice_pct": 57.1,
+      "ambient_pct": 36.8,
+      "asmr_pct": 6.1,
+      "centroid_hz": 1540.0,
+      "flatness": 0.02079
+    },
+    {
+      "t": 14.75,
+      "rms": 0.12277,
+      "voice_pct": 58.0,
+      "ambient_pct": 33.6,
+      "asmr_pct": 8.5,
+      "centroid_hz": 1669.0,
+      "flatness": 0.02718
+    },
+    {
+      "t": 15.0,
+      "rms": 0.10723,
+      "voice_pct": 59.0,
+      "ambient_pct": 33.2,
+      "asmr_pct": 7.8,
+      "centroid_hz": 1548.0,
+      "flatness": 0.01724
+    },
+    {
+      "t": 15.25,
+      "rms": 0.09135,
+      "voice_pct": 66.1,
+      "ambient_pct": 23.6,
+      "asmr_pct": 10.3,
+      "centroid_hz": 1510.0,
+      "flatness": 0.01291
+    },
+    {
+      "t": 15.5,
+      "rms": 0.16718,
+      "voice_pct": 64.0,
+      "ambient_pct": 24.5,
+      "asmr_pct": 11.5,
+      "centroid_hz": 1597.0,
+      "flatness": 0.01408
+    },
+    {
+      "t": 15.75,
+      "rms": 0.17244,
+      "voice_pct": 63.1,
+      "ambient_pct": 23.9,
+      "asmr_pct": 12.9,
+      "centroid_hz": 1523.0,
+      "flatness": 0.01425
+    },
+    {
+      "t": 16.0,
+      "rms": 0.13831,
+      "voice_pct": 63.4,
+      "ambient_pct": 24.3,
+      "asmr_pct": 12.2,
+      "centroid_hz": 1543.0,
+      "flatness": 0.01845
+    },
+    {
+      "t": 16.25,
+      "rms": 0.1813,
+      "voice_pct": 64.5,
+      "ambient_pct": 27.9,
+      "asmr_pct": 7.6,
+      "centroid_hz": 1502.0,
+      "flatness": 0.0159
+    },
+    {
+      "t": 16.5,
+      "rms": 0.16388,
+      "voice_pct": 66.0,
+      "ambient_pct": 30.3,
+      "asmr_pct": 3.7,
+      "centroid_hz": 1145.0,
+      "flatness": 0.00417
+    },
+    {
+      "t": 16.75,
+      "rms": 0.11735,
+      "voice_pct": 65.8,
+      "ambient_pct": 26.3,
+      "asmr_pct": 7.9,
+      "centroid_hz": 1311.0,
+      "flatness": 0.00868
+    },
+    {
+      "t": 17.0,
+      "rms": 0.18937,
+      "voice_pct": 60.0,
+      "ambient_pct": 32.9,
+      "asmr_pct": 7.2,
+      "centroid_hz": 1477.0,
+      "flatness": 0.01325
+    },
+    {
+      "t": 17.25,
+      "rms": 0.21795,
+      "voice_pct": 60.5,
+      "ambient_pct": 34.3,
+      "asmr_pct": 5.1,
+      "centroid_hz": 1272.0,
+      "flatness": 0.00856
+    },
+    {
+      "t": 17.5,
+      "rms": 0.18812,
+      "voice_pct": 65.6,
+      "ambient_pct": 30.1,
+      "asmr_pct": 4.3,
+      "centroid_hz": 1199.0,
+      "flatness": 0.00475
+    },
+    {
+      "t": 17.75,
+      "rms": 0.17278,
+      "voice_pct": 67.1,
+      "ambient_pct": 27.7,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1230.0,
+      "flatness": 0.00416
+    },
+    {
+      "t": 18.0,
+      "rms": 0.14782,
+      "voice_pct": 66.3,
+      "ambient_pct": 29.3,
+      "asmr_pct": 4.4,
+      "centroid_hz": 984.0,
+      "flatness": 0.00234
+    },
+    {
+      "t": 18.25,
+      "rms": 0.12939,
+      "voice_pct": 65.2,
+      "ambient_pct": 28.4,
+      "asmr_pct": 6.5,
+      "centroid_hz": 1068.0,
+      "flatness": 0.00692
+    },
+    {
+      "t": 18.5,
+      "rms": 0.20006,
+      "voice_pct": 62.0,
+      "ambient_pct": 33.3,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1156.0,
+      "flatness": 0.00817
+    },
+    {
+      "t": 18.75,
+      "rms": 0.25611,
+      "voice_pct": 63.6,
+      "ambient_pct": 31.1,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1198.0,
+      "flatness": 0.00498
+    },
+    {
+      "t": 19.0,
+      "rms": 0.19589,
+      "voice_pct": 59.0,
+      "ambient_pct": 22.9,
+      "asmr_pct": 18.1,
+      "centroid_hz": 1766.0,
+      "flatness": 0.02975
+    },
+    {
+      "t": 19.25,
+      "rms": 0.15166,
+      "voice_pct": 48.4,
+      "ambient_pct": 32.3,
+      "asmr_pct": 19.3,
+      "centroid_hz": 2531.0,
+      "flatness": 0.07031
+    },
+    {
+      "t": 19.5,
+      "rms": 0.17412,
+      "voice_pct": 55.7,
+      "ambient_pct": 31.2,
+      "asmr_pct": 13.1,
+      "centroid_hz": 2109.0,
+      "flatness": 0.04933
+    },
+    {
+      "t": 19.75,
+      "rms": 0.16621,
+      "voice_pct": 65.3,
+      "ambient_pct": 29.4,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1206.0,
+      "flatness": 0.00788
+    },
+    {
+      "t": 20.0,
+      "rms": 0.17248,
+      "voice_pct": 54.9,
+      "ambient_pct": 32.0,
+      "asmr_pct": 13.1,
+      "centroid_hz": 1720.0,
+      "flatness": 0.0217
+    },
+    {
+      "t": 20.25,
+      "rms": 0.19399,
+      "voice_pct": 53.5,
+      "ambient_pct": 33.3,
+      "asmr_pct": 13.2,
+      "centroid_hz": 2055.0,
+      "flatness": 0.03255
+    },
+    {
+      "t": 20.5,
+      "rms": 0.23393,
+      "voice_pct": 57.9,
+      "ambient_pct": 37.2,
+      "asmr_pct": 4.8,
+      "centroid_hz": 1537.0,
+      "flatness": 0.02023
+    },
+    {
+      "t": 20.75,
+      "rms": 0.19511,
+      "voice_pct": 55.8,
+      "ambient_pct": 34.0,
+      "asmr_pct": 10.2,
+      "centroid_hz": 2056.0,
+      "flatness": 0.04643
+    },
+    {
+      "t": 21.0,
+      "rms": 0.18745,
+      "voice_pct": 56.9,
+      "ambient_pct": 30.8,
+      "asmr_pct": 12.3,
+      "centroid_hz": 1945.0,
+      "flatness": 0.04324
+    },
+    {
+      "t": 21.25,
+      "rms": 0.23422,
+      "voice_pct": 62.9,
+      "ambient_pct": 33.5,
+      "asmr_pct": 3.6,
+      "centroid_hz": 1112.0,
+      "flatness": 0.00283
+    },
+    {
+      "t": 21.5,
+      "rms": 0.23147,
+      "voice_pct": 60.3,
+      "ambient_pct": 35.5,
+      "asmr_pct": 4.2,
+      "centroid_hz": 1257.0,
+      "flatness": 0.00755
+    },
+    {
+      "t": 21.75,
+      "rms": 0.22516,
+      "voice_pct": 58.6,
+      "ambient_pct": 35.2,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1622.0,
+      "flatness": 0.01306
+    },
+    {
+      "t": 22.0,
+      "rms": 0.18261,
+      "voice_pct": 60.6,
+      "ambient_pct": 31.4,
+      "asmr_pct": 8.0,
+      "centroid_hz": 1643.0,
+      "flatness": 0.01196
+    },
+    {
+      "t": 22.25,
+      "rms": 0.121,
+      "voice_pct": 63.0,
+      "ambient_pct": 30.5,
+      "asmr_pct": 6.4,
+      "centroid_hz": 1407.0,
+      "flatness": 0.01121
+    },
+    {
+      "t": 22.5,
+      "rms": 0.10743,
+      "voice_pct": 63.5,
+      "ambient_pct": 30.7,
+      "asmr_pct": 5.8,
+      "centroid_hz": 1493.0,
+      "flatness": 0.01456
+    },
+    {
+      "t": 22.75,
+      "rms": 0.09226,
+      "voice_pct": 66.7,
+      "ambient_pct": 26.0,
+      "asmr_pct": 7.3,
+      "centroid_hz": 1415.0,
+      "flatness": 0.00871
+    },
+    {
+      "t": 23.0,
+      "rms": 0.12409,
+      "voice_pct": 68.4,
+      "ambient_pct": 21.5,
+      "asmr_pct": 10.1,
+      "centroid_hz": 1346.0,
+      "flatness": 0.00788
+    },
+    {
+      "t": 23.25,
+      "rms": 0.26136,
+      "voice_pct": 68.4,
+      "ambient_pct": 22.3,
+      "asmr_pct": 9.3,
+      "centroid_hz": 1247.0,
+      "flatness": 0.00755
+    },
+    {
+      "t": 23.5,
+      "rms": 0.29049,
+      "voice_pct": 64.1,
+      "ambient_pct": 30.7,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1057.0,
+      "flatness": 0.00272
+    },
+    {
+      "t": 23.75,
+      "rms": 0.20528,
+      "voice_pct": 64.8,
+      "ambient_pct": 31.3,
+      "asmr_pct": 3.9,
+      "centroid_hz": 972.0,
+      "flatness": 0.003
+    },
+    {
+      "t": 24.0,
+      "rms": 0.15418,
+      "voice_pct": 69.1,
+      "ambient_pct": 25.0,
+      "asmr_pct": 5.9,
+      "centroid_hz": 1007.0,
+      "flatness": 0.00472
+    },
+    {
+      "t": 24.25,
+      "rms": 0.13843,
+      "voice_pct": 69.1,
+      "ambient_pct": 23.7,
+      "asmr_pct": 7.2,
+      "centroid_hz": 1191.0,
+      "flatness": 0.00573
+    },
+    {
+      "t": 24.5,
+      "rms": 0.12252,
+      "voice_pct": 58.9,
+      "ambient_pct": 18.5,
+      "asmr_pct": 22.6,
+      "centroid_hz": 1877.0,
+      "flatness": 0.02664
+    },
+    {
+      "t": 24.75,
+      "rms": 0.15105,
+      "voice_pct": 62.9,
+      "ambient_pct": 20.4,
+      "asmr_pct": 16.7,
+      "centroid_hz": 1911.0,
+      "flatness": 0.02817
+    },
+    {
+      "t": 25.0,
+      "rms": 0.1493,
+      "voice_pct": 70.0,
+      "ambient_pct": 25.4,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1311.0,
+      "flatness": 0.00829
+    },
+    {
+      "t": 25.25,
+      "rms": 0.12416,
+      "voice_pct": 70.8,
+      "ambient_pct": 23.8,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1230.0,
+      "flatness": 0.0078
+    },
+    {
+      "t": 25.5,
+      "rms": 0.20521,
+      "voice_pct": 73.8,
+      "ambient_pct": 22.6,
+      "asmr_pct": 3.6,
+      "centroid_hz": 1051.0,
+      "flatness": 0.00267
+    },
+    {
+      "t": 25.75,
+      "rms": 0.20561,
+      "voice_pct": 68.1,
+      "ambient_pct": 24.4,
+      "asmr_pct": 7.5,
+      "centroid_hz": 1301.0,
+      "flatness": 0.01258
+    },
+    {
+      "t": 26.0,
+      "rms": 0.15378,
+      "voice_pct": 60.0,
+      "ambient_pct": 33.7,
+      "asmr_pct": 6.4,
+      "centroid_hz": 1289.0,
+      "flatness": 0.0123
+    },
+    {
+      "t": 26.25,
+      "rms": 0.13493,
+      "voice_pct": 60.1,
+      "ambient_pct": 34.3,
+      "asmr_pct": 5.6,
+      "centroid_hz": 1196.0,
+      "flatness": 0.00642
+    },
+    {
+      "t": 26.5,
+      "rms": 0.21408,
+      "voice_pct": 63.4,
+      "ambient_pct": 31.1,
+      "asmr_pct": 5.5,
+      "centroid_hz": 1158.0,
+      "flatness": 0.009
+    },
+    {
+      "t": 26.75,
+      "rms": 0.23245,
+      "voice_pct": 57.6,
+      "ambient_pct": 29.1,
+      "asmr_pct": 13.3,
+      "centroid_hz": 1778.0,
+      "flatness": 0.03282
+    },
+    {
+      "t": 27.0,
+      "rms": 0.19159,
+      "voice_pct": 53.1,
+      "ambient_pct": 35.2,
+      "asmr_pct": 11.7,
+      "centroid_hz": 1772.0,
+      "flatness": 0.03272
+    },
+    {
+      "t": 27.25,
+      "rms": 0.23906,
+      "voice_pct": 55.6,
+      "ambient_pct": 41.4,
+      "asmr_pct": 3.1,
+      "centroid_hz": 1059.0,
+      "flatness": 0.00298
+    },
+    {
+      "t": 27.5,
+      "rms": 0.20356,
+      "voice_pct": 57.0,
+      "ambient_pct": 38.9,
+      "asmr_pct": 4.1,
+      "centroid_hz": 1202.0,
+      "flatness": 0.00585
+    },
+    {
+      "t": 27.75,
+      "rms": 0.10056,
+      "voice_pct": 59.1,
+      "ambient_pct": 32.2,
+      "asmr_pct": 8.7,
+      "centroid_hz": 1374.0,
+      "flatness": 0.01585
+    },
+    {
+      "t": 28.0,
+      "rms": 0.10606,
+      "voice_pct": 60.6,
+      "ambient_pct": 30.5,
+      "asmr_pct": 8.9,
+      "centroid_hz": 1239.0,
+      "flatness": 0.01289
+    },
+    {
+      "t": 28.25,
+      "rms": 0.12064,
+      "voice_pct": 64.0,
+      "ambient_pct": 30.7,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1040.0,
+      "flatness": 0.00644
+    },
+    {
+      "t": 28.5,
+      "rms": 0.11839,
+      "voice_pct": 54.6,
+      "ambient_pct": 32.6,
+      "asmr_pct": 12.8,
+      "centroid_hz": 1766.0,
+      "flatness": 0.03347
+    },
+    {
+      "t": 28.75,
+      "rms": 0.11495,
+      "voice_pct": 54.0,
+      "ambient_pct": 31.3,
+      "asmr_pct": 14.7,
+      "centroid_hz": 1707.0,
+      "flatness": 0.03032
+    },
+    {
+      "t": 29.0,
+      "rms": 0.13849,
+      "voice_pct": 56.8,
+      "ambient_pct": 38.0,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1135.0,
+      "flatness": 0.00415
+    },
+    {
+      "t": 29.25,
+      "rms": 0.18669,
+      "voice_pct": 57.6,
+      "ambient_pct": 37.8,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1100.0,
+      "flatness": 0.00358
+    },
+    {
+      "t": 29.5,
+      "rms": 0.25551,
+      "voice_pct": 65.1,
+      "ambient_pct": 30.3,
+      "asmr_pct": 4.7,
+      "centroid_hz": 1105.0,
+      "flatness": 0.00464
+    },
+    {
+      "t": 29.75,
+      "rms": 0.23325,
+      "voice_pct": 66.8,
+      "ambient_pct": 26.6,
+      "asmr_pct": 6.5,
+      "centroid_hz": 1225.0,
+      "flatness": 0.00732
+    },
+    {
+      "t": 30.0,
+      "rms": 0.18523,
+      "voice_pct": 61.5,
+      "ambient_pct": 20.3,
+      "asmr_pct": 18.2,
+      "centroid_hz": 1752.0,
+      "flatness": 0.02738
+    },
+    {
+      "t": 30.25,
+      "rms": 0.21317,
+      "voice_pct": 64.2,
+      "ambient_pct": 22.6,
+      "asmr_pct": 13.2,
+      "centroid_hz": 1559.0,
+      "flatness": 0.02429
+    },
+    {
+      "t": 30.5,
+      "rms": 0.19582,
+      "voice_pct": 65.3,
+      "ambient_pct": 30.9,
+      "asmr_pct": 3.8,
+      "centroid_hz": 910.0,
+      "flatness": 0.00247
+    },
+    {
+      "t": 30.75,
+      "rms": 0.20709,
+      "voice_pct": 59.4,
+      "ambient_pct": 37.3,
+      "asmr_pct": 3.3,
+      "centroid_hz": 1051.0,
+      "flatness": 0.00554
+    },
+    {
+      "t": 31.0,
+      "rms": 0.25196,
+      "voice_pct": 60.2,
+      "ambient_pct": 36.8,
+      "asmr_pct": 3.0,
+      "centroid_hz": 1063.0,
+      "flatness": 0.00466
+    },
+    {
+      "t": 31.25,
+      "rms": 0.24581,
+      "voice_pct": 64.3,
+      "ambient_pct": 32.3,
+      "asmr_pct": 3.4,
+      "centroid_hz": 1086.0,
+      "flatness": 0.00824
+    },
+    {
+      "t": 31.5,
+      "rms": 0.16866,
+      "voice_pct": 57.9,
+      "ambient_pct": 30.6,
+      "asmr_pct": 11.5,
+      "centroid_hz": 1639.0,
+      "flatness": 0.02935
+    },
+    {
+      "t": 31.75,
+      "rms": 0.14097,
+      "voice_pct": 54.2,
+      "ambient_pct": 36.5,
+      "asmr_pct": 9.3,
+      "centroid_hz": 1600.0,
+      "flatness": 0.02763
+    },
+    {
+      "t": 32.0,
+      "rms": 0.20738,
+      "voice_pct": 62.1,
+      "ambient_pct": 34.2,
+      "asmr_pct": 3.8,
+      "centroid_hz": 1055.0,
+      "flatness": 0.0042
+    },
+    {
+      "t": 32.25,
+      "rms": 0.22661,
+      "voice_pct": 64.0,
+      "ambient_pct": 30.7,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1115.0,
+      "flatness": 0.00463
+    },
+    {
+      "t": 32.5,
+      "rms": 0.18139,
+      "voice_pct": 54.5,
+      "ambient_pct": 29.4,
+      "asmr_pct": 16.2,
+      "centroid_hz": 1736.0,
+      "flatness": 0.02392
+    },
+    {
+      "t": 32.75,
+      "rms": 0.15714,
+      "voice_pct": 55.0,
+      "ambient_pct": 28.1,
+      "asmr_pct": 16.9,
+      "centroid_hz": 1865.0,
+      "flatness": 0.03272
+    },
+    {
+      "t": 33.0,
+      "rms": 0.1684,
+      "voice_pct": 66.4,
+      "ambient_pct": 25.8,
+      "asmr_pct": 7.7,
+      "centroid_hz": 1341.0,
+      "flatness": 0.00779
+    },
+    {
+      "t": 33.25,
+      "rms": 0.17871,
+      "voice_pct": 66.3,
+      "ambient_pct": 26.7,
+      "asmr_pct": 7.0,
+      "centroid_hz": 1184.0,
+      "flatness": 0.0058
+    },
+    {
+      "t": 33.5,
+      "rms": 0.21521,
+      "voice_pct": 67.6,
+      "ambient_pct": 26.9,
+      "asmr_pct": 5.5,
+      "centroid_hz": 1112.0,
+      "flatness": 0.00725
+    },
+    {
+      "t": 33.75,
+      "rms": 0.19547,
+      "voice_pct": 68.7,
+      "ambient_pct": 25.0,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1172.0,
+      "flatness": 0.00908
+    },
+    {
+      "t": 34.0,
+      "rms": 0.1309,
+      "voice_pct": 63.2,
+      "ambient_pct": 32.4,
+      "asmr_pct": 4.4,
+      "centroid_hz": 958.0,
+      "flatness": 0.00488
+    },
+    {
+      "t": 34.25,
+      "rms": 0.10974,
+      "voice_pct": 56.5,
+      "ambient_pct": 38.9,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1071.0,
+      "flatness": 0.00644
+    },
+    {
+      "t": 34.5,
+      "rms": 0.18729,
+      "voice_pct": 59.6,
+      "ambient_pct": 34.4,
+      "asmr_pct": 6.0,
+      "centroid_hz": 1139.0,
+      "flatness": 0.00509
+    },
+    {
+      "t": 34.75,
+      "rms": 0.24856,
+      "voice_pct": 57.5,
+      "ambient_pct": 36.5,
+      "asmr_pct": 6.0,
+      "centroid_hz": 1259.0,
+      "flatness": 0.00724
+    },
+    {
+      "t": 35.0,
+      "rms": 0.20885,
+      "voice_pct": 54.9,
+      "ambient_pct": 38.6,
+      "asmr_pct": 6.5,
+      "centroid_hz": 1441.0,
+      "flatness": 0.00937
+    },
+    {
+      "t": 35.25,
+      "rms": 0.13994,
+      "voice_pct": 58.5,
+      "ambient_pct": 30.8,
+      "asmr_pct": 10.7,
+      "centroid_hz": 1539.0,
+      "flatness": 0.018
+    },
+    {
+      "t": 35.5,
+      "rms": 0.16997,
+      "voice_pct": 58.6,
+      "ambient_pct": 33.0,
+      "asmr_pct": 8.4,
+      "centroid_hz": 1363.0,
+      "flatness": 0.01268
+    },
+    {
+      "t": 35.75,
+      "rms": 0.19915,
+      "voice_pct": 58.1,
+      "ambient_pct": 36.8,
+      "asmr_pct": 5.1,
+      "centroid_hz": 1145.0,
+      "flatness": 0.00285
+    },
+    {
+      "t": 36.0,
+      "rms": 0.19627,
+      "voice_pct": 62.2,
+      "ambient_pct": 33.6,
+      "asmr_pct": 4.2,
+      "centroid_hz": 1007.0,
+      "flatness": 0.00323
+    },
+    {
+      "t": 36.25,
+      "rms": 0.17704,
+      "voice_pct": 70.8,
+      "ambient_pct": 26.1,
+      "asmr_pct": 3.1,
+      "centroid_hz": 867.0,
+      "flatness": 0.00233
+    },
+    {
+      "t": 36.5,
+      "rms": 0.12228,
+      "voice_pct": 64.3,
+      "ambient_pct": 31.2,
+      "asmr_pct": 4.5,
+      "centroid_hz": 1048.0,
+      "flatness": 0.00439
+    },
+    {
+      "t": 36.75,
+      "rms": 0.0911,
+      "voice_pct": 58.3,
+      "ambient_pct": 35.9,
+      "asmr_pct": 5.8,
+      "centroid_hz": 1246.0,
+      "flatness": 0.00823
+    },
+    {
+      "t": 37.0,
+      "rms": 0.13274,
+      "voice_pct": 58.8,
+      "ambient_pct": 36.2,
+      "asmr_pct": 5.1,
+      "centroid_hz": 1276.0,
+      "flatness": 0.01398
+    },
+    {
+      "t": 37.25,
+      "rms": 0.21918,
+      "voice_pct": 64.2,
+      "ambient_pct": 32.3,
+      "asmr_pct": 3.5,
+      "centroid_hz": 1060.0,
+      "flatness": 0.00928
+    },
+    {
+      "t": 37.5,
+      "rms": 0.20062,
+      "voice_pct": 69.7,
+      "ambient_pct": 25.9,
+      "asmr_pct": 4.4,
+      "centroid_hz": 962.0,
+      "flatness": 0.00332
+    },
+    {
+      "t": 37.75,
+      "rms": 0.14744,
+      "voice_pct": 57.7,
+      "ambient_pct": 37.1,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1072.0,
+      "flatness": 0.00513
+    },
+    {
+      "t": 38.0,
+      "rms": 0.15575,
+      "voice_pct": 56.1,
+      "ambient_pct": 39.3,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1098.0,
+      "flatness": 0.00464
+    },
+    {
+      "t": 38.25,
+      "rms": 0.11671,
+      "voice_pct": 57.0,
+      "ambient_pct": 32.5,
+      "asmr_pct": 10.5,
+      "centroid_hz": 1414.0,
+      "flatness": 0.01104
+    },
+    {
+      "t": 38.5,
+      "rms": 0.12146,
+      "voice_pct": 58.3,
+      "ambient_pct": 27.5,
+      "asmr_pct": 14.2,
+      "centroid_hz": 1560.0,
+      "flatness": 0.01404
+    },
+    {
+      "t": 38.75,
+      "rms": 0.23498,
+      "voice_pct": 62.9,
+      "ambient_pct": 27.2,
+      "asmr_pct": 9.9,
+      "centroid_hz": 1360.0,
+      "flatness": 0.00753
+    },
+    {
+      "t": 39.0,
+      "rms": 0.24281,
+      "voice_pct": 59.9,
+      "ambient_pct": 33.4,
+      "asmr_pct": 6.6,
+      "centroid_hz": 1197.0,
+      "flatness": 0.00459
+    },
+    {
+      "t": 39.25,
+      "rms": 0.13924,
+      "voice_pct": 54.2,
+      "ambient_pct": 33.6,
+      "asmr_pct": 12.2,
+      "centroid_hz": 1549.0,
+      "flatness": 0.01048
+    },
+    {
+      "t": 39.5,
+      "rms": 0.16482,
+      "voice_pct": 53.6,
+      "ambient_pct": 28.0,
+      "asmr_pct": 18.4,
+      "centroid_hz": 1853.0,
+      "flatness": 0.01356
+    },
+    {
+      "t": 39.75,
+      "rms": 0.17471,
+      "voice_pct": 54.5,
+      "ambient_pct": 31.7,
+      "asmr_pct": 13.8,
+      "centroid_hz": 1602.0,
+      "flatness": 0.01006
+    },
+    {
+      "t": 40.0,
+      "rms": 0.12134,
+      "voice_pct": 56.3,
+      "ambient_pct": 32.0,
+      "asmr_pct": 11.8,
+      "centroid_hz": 1451.0,
+      "flatness": 0.01686
+    },
+    {
+      "t": 40.25,
+      "rms": 0.15789,
+      "voice_pct": 54.2,
+      "ambient_pct": 37.9,
+      "asmr_pct": 7.9,
+      "centroid_hz": 1329.0,
+      "flatness": 0.00998
+    },
+    {
+      "t": 40.5,
+      "rms": 0.14912,
+      "voice_pct": 50.3,
+      "ambient_pct": 33.5,
+      "asmr_pct": 16.2,
+      "centroid_hz": 1905.0,
+      "flatness": 0.02423
+    },
+    {
+      "t": 40.75,
+      "rms": 0.13024,
+      "voice_pct": 54.3,
+      "ambient_pct": 22.6,
+      "asmr_pct": 23.2,
+      "centroid_hz": 2177.0,
+      "flatness": 0.05862
+    },
+    {
+      "t": 41.0,
+      "rms": 0.21251,
+      "voice_pct": 57.7,
+      "ambient_pct": 35.1,
+      "asmr_pct": 7.2,
+      "centroid_hz": 1502.0,
+      "flatness": 0.04751
+    },
+    {
+      "t": 41.25,
+      "rms": 0.2271,
+      "voice_pct": 60.6,
+      "ambient_pct": 34.4,
+      "asmr_pct": 5.0,
+      "centroid_hz": 1073.0,
+      "flatness": 0.00226
+    },
+    {
+      "t": 41.5,
+      "rms": 0.18188,
+      "voice_pct": 68.9,
+      "ambient_pct": 22.1,
+      "asmr_pct": 9.0,
+      "centroid_hz": 1236.0,
+      "flatness": 0.00456
+    },
+    {
+      "t": 41.75,
+      "rms": 0.19024,
+      "voice_pct": 61.5,
+      "ambient_pct": 29.7,
+      "asmr_pct": 8.8,
+      "centroid_hz": 1410.0,
+      "flatness": 0.00541
+    },
+    {
+      "t": 42.0,
+      "rms": 0.17991,
+      "voice_pct": 57.9,
+      "ambient_pct": 34.3,
+      "asmr_pct": 7.8,
+      "centroid_hz": 1651.0,
+      "flatness": 0.03353
+    },
+    {
+      "t": 42.25,
+      "rms": 0.13545,
+      "voice_pct": 59.7,
+      "ambient_pct": 30.7,
+      "asmr_pct": 9.5,
+      "centroid_hz": 1776.0,
+      "flatness": 0.05879
+    },
+    {
+      "t": 42.5,
+      "rms": 0.16186,
+      "voice_pct": 60.8,
+      "ambient_pct": 31.3,
+      "asmr_pct": 7.9,
+      "centroid_hz": 1581.0,
+      "flatness": 0.03477
+    },
+    {
+      "t": 42.75,
+      "rms": 0.16667,
+      "voice_pct": 60.8,
+      "ambient_pct": 31.9,
+      "asmr_pct": 7.2,
+      "centroid_hz": 1330.0,
+      "flatness": 0.00843
+    },
+    {
+      "t": 43.0,
+      "rms": 0.23309,
+      "voice_pct": 64.7,
+      "ambient_pct": 29.3,
+      "asmr_pct": 6.0,
+      "centroid_hz": 1163.0,
+      "flatness": 0.00648
+    },
+    {
+      "t": 43.25,
+      "rms": 0.23816,
+      "voice_pct": 66.8,
+      "ambient_pct": 28.5,
+      "asmr_pct": 4.7,
+      "centroid_hz": 981.0,
+      "flatness": 0.0019
+    },
+    {
+      "t": 43.5,
+      "rms": 0.16985,
+      "voice_pct": 61.4,
+      "ambient_pct": 31.7,
+      "asmr_pct": 6.8,
+      "centroid_hz": 1215.0,
+      "flatness": 0.00895
+    },
+    {
+      "t": 43.75,
+      "rms": 0.146,
+      "voice_pct": 59.2,
+      "ambient_pct": 33.0,
+      "asmr_pct": 7.8,
+      "centroid_hz": 1426.0,
+      "flatness": 0.01499
+    },
+    {
+      "t": 44.0,
+      "rms": 0.13106,
+      "voice_pct": 61.2,
+      "ambient_pct": 30.0,
+      "asmr_pct": 8.9,
+      "centroid_hz": 1528.0,
+      "flatness": 0.02163
+    },
+    {
+      "t": 44.25,
+      "rms": 0.14143,
+      "voice_pct": 56.0,
+      "ambient_pct": 23.9,
+      "asmr_pct": 20.1,
+      "centroid_hz": 2268.0,
+      "flatness": 0.05052
+    },
+    {
+      "t": 44.5,
+      "rms": 0.13097,
+      "voice_pct": 61.7,
+      "ambient_pct": 19.4,
+      "asmr_pct": 18.9,
+      "centroid_hz": 1910.0,
+      "flatness": 0.03613
+    },
+    {
+      "t": 44.75,
+      "rms": 0.1084,
+      "voice_pct": 66.7,
+      "ambient_pct": 22.0,
+      "asmr_pct": 11.2,
+      "centroid_hz": 1335.0,
+      "flatness": 0.01127
+    },
+    {
+      "t": 45.0,
+      "rms": 0.08045,
+      "voice_pct": 63.4,
+      "ambient_pct": 21.9,
+      "asmr_pct": 14.7,
+      "centroid_hz": 1515.0,
+      "flatness": 0.01543
+    },
+    {
+      "t": 45.25,
+      "rms": 0.107,
+      "voice_pct": 64.5,
+      "ambient_pct": 27.9,
+      "asmr_pct": 7.6,
+      "centroid_hz": 1162.0,
+      "flatness": 0.00805
+    },
+    {
+      "t": 45.5,
+      "rms": 0.18547,
+      "voice_pct": 62.0,
+      "ambient_pct": 32.7,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1043.0,
+      "flatness": 0.00429
+    },
+    {
+      "t": 45.75,
+      "rms": 0.24911,
+      "voice_pct": 64.0,
+      "ambient_pct": 30.6,
+      "asmr_pct": 5.4,
+      "centroid_hz": 1067.0,
+      "flatness": 0.00495
+    },
+    {
+      "t": 46.0,
+      "rms": 0.22422,
+      "voice_pct": 67.1,
+      "ambient_pct": 26.7,
+      "asmr_pct": 6.1,
+      "centroid_hz": 1206.0,
+      "flatness": 0.00761
+    },
+    {
+      "t": 46.25,
+      "rms": 0.17469,
+      "voice_pct": 63.3,
+      "ambient_pct": 24.1,
+      "asmr_pct": 12.6,
+      "centroid_hz": 1581.0,
+      "flatness": 0.02207
+    },
+    {
+      "t": 46.5,
+      "rms": 0.23272,
+      "voice_pct": 56.6,
+      "ambient_pct": 35.0,
+      "asmr_pct": 8.4,
+      "centroid_hz": 1459.0,
+      "flatness": 0.01783
+    },
+    {
+      "t": 46.75,
+      "rms": 0.22665,
+      "voice_pct": 55.8,
+      "ambient_pct": 38.0,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1208.0,
+      "flatness": 0.00353
+    },
+    {
+      "t": 47.0,
+      "rms": 0.15894,
+      "voice_pct": 62.8,
+      "ambient_pct": 29.9,
+      "asmr_pct": 7.2,
+      "centroid_hz": 1277.0,
+      "flatness": 0.00446
+    },
+    {
+      "t": 47.25,
+      "rms": 0.12417,
+      "voice_pct": 65.9,
+      "ambient_pct": 19.0,
+      "asmr_pct": 15.1,
+      "centroid_hz": 1676.0,
+      "flatness": 0.02337
+    },
+    {
+      "t": 47.5,
+      "rms": 0.09689,
+      "voice_pct": 59.5,
+      "ambient_pct": 21.7,
+      "asmr_pct": 18.8,
+      "centroid_hz": 1613.0,
+      "flatness": 0.02855
+    },
+    {
+      "t": 47.75,
+      "rms": 0.09514,
+      "voice_pct": 65.2,
+      "ambient_pct": 26.4,
+      "asmr_pct": 8.4,
+      "centroid_hz": 1145.0,
+      "flatness": 0.00726
+    },
+    {
+      "t": 48.0,
+      "rms": 0.09009,
+      "voice_pct": 64.7,
+      "ambient_pct": 25.1,
+      "asmr_pct": 10.2,
+      "centroid_hz": 1127.0,
+      "flatness": 0.00441
+    },
+    {
+      "t": 48.25,
+      "rms": 0.0959,
+      "voice_pct": 61.9,
+      "ambient_pct": 30.9,
+      "asmr_pct": 7.2,
+      "centroid_hz": 978.0,
+      "flatness": 0.00317
+    },
+    {
+      "t": 48.5,
+      "rms": 0.08855,
+      "voice_pct": 59.4,
+      "ambient_pct": 34.0,
+      "asmr_pct": 6.6,
+      "centroid_hz": 927.0,
+      "flatness": 0.0027
+    },
+    {
+      "t": 48.75,
+      "rms": 0.06723,
+      "voice_pct": 57.6,
+      "ambient_pct": 34.4,
+      "asmr_pct": 8.0,
+      "centroid_hz": 1085.0,
+      "flatness": 0.00638
+    },
+    {
+      "t": 49.0,
+      "rms": 0.16589,
+      "voice_pct": 56.8,
+      "ambient_pct": 36.8,
+      "asmr_pct": 6.4,
+      "centroid_hz": 1409.0,
+      "flatness": 0.0185
+    },
+    {
+      "t": 49.25,
+      "rms": 0.21655,
+      "voice_pct": 55.0,
+      "ambient_pct": 36.6,
+      "asmr_pct": 8.4,
+      "centroid_hz": 1828.0,
+      "flatness": 0.04968
+    },
+    {
+      "t": 49.5,
+      "rms": 0.20501,
+      "voice_pct": 55.7,
+      "ambient_pct": 37.7,
+      "asmr_pct": 6.6,
+      "centroid_hz": 1561.0,
+      "flatness": 0.03044
+    },
+    {
+      "t": 49.75,
+      "rms": 0.2211,
+      "voice_pct": 61.5,
+      "ambient_pct": 35.9,
+      "asmr_pct": 2.6,
+      "centroid_hz": 1166.0,
+      "flatness": 0.00394
+    },
+    {
+      "t": 50.0,
+      "rms": 0.18285,
+      "voice_pct": 60.1,
+      "ambient_pct": 27.5,
+      "asmr_pct": 12.4,
+      "centroid_hz": 1723.0,
+      "flatness": 0.02903
+    },
+    {
+      "t": 50.25,
+      "rms": 0.14534,
+      "voice_pct": 51.5,
+      "ambient_pct": 34.2,
+      "asmr_pct": 14.4,
+      "centroid_hz": 2499.0,
+      "flatness": 0.05529
+    },
+    {
+      "t": 50.5,
+      "rms": 0.14066,
+      "voice_pct": 55.9,
+      "ambient_pct": 34.7,
+      "asmr_pct": 9.4,
+      "centroid_hz": 2116.0,
+      "flatness": 0.0346
+    },
+    {
+      "t": 50.75,
+      "rms": 0.17832,
+      "voice_pct": 62.8,
+      "ambient_pct": 32.4,
+      "asmr_pct": 4.8,
+      "centroid_hz": 1681.0,
+      "flatness": 0.02529
+    },
+    {
+      "t": 51.0,
+      "rms": 0.19192,
+      "voice_pct": 58.4,
+      "ambient_pct": 32.8,
+      "asmr_pct": 8.8,
+      "centroid_hz": 1986.0,
+      "flatness": 0.04088
+    },
+    {
+      "t": 51.25,
+      "rms": 0.19025,
+      "voice_pct": 59.4,
+      "ambient_pct": 28.7,
+      "asmr_pct": 11.9,
+      "centroid_hz": 1726.0,
+      "flatness": 0.02333
+    },
+    {
+      "t": 51.5,
+      "rms": 0.26397,
+      "voice_pct": 61.7,
+      "ambient_pct": 28.2,
+      "asmr_pct": 10.1,
+      "centroid_hz": 1743.0,
+      "flatness": 0.04439
+    },
+    {
+      "t": 51.75,
+      "rms": 0.29036,
+      "voice_pct": 61.4,
+      "ambient_pct": 29.2,
+      "asmr_pct": 9.4,
+      "centroid_hz": 1679.0,
+      "flatness": 0.05055
+    },
+    {
+      "t": 52.0,
+      "rms": 0.23424,
+      "voice_pct": 59.3,
+      "ambient_pct": 28.4,
+      "asmr_pct": 12.3,
+      "centroid_hz": 1809.0,
+      "flatness": 0.02443
+    },
+    {
+      "t": 52.25,
+      "rms": 0.15443,
+      "voice_pct": 56.2,
+      "ambient_pct": 27.4,
+      "asmr_pct": 16.4,
+      "centroid_hz": 2124.0,
+      "flatness": 0.03154
+    },
+    {
+      "t": 52.5,
+      "rms": 0.23742,
+      "voice_pct": 62.3,
+      "ambient_pct": 32.4,
+      "asmr_pct": 5.3,
+      "centroid_hz": 1452.0,
+      "flatness": 0.01073
+    },
+    {
+      "t": 52.75,
+      "rms": 0.22614,
+      "voice_pct": 62.4,
+      "ambient_pct": 32.8,
+      "asmr_pct": 4.9,
+      "centroid_hz": 1313.0,
+      "flatness": 0.00826
+    },
+    {
+      "t": 53.0,
+      "rms": 0.10617,
+      "voice_pct": 59.8,
+      "ambient_pct": 29.1,
+      "asmr_pct": 11.1,
+      "centroid_hz": 1675.0,
+      "flatness": 0.02691
+    },
+    {
+      "t": 53.25,
+      "rms": 0.09674,
+      "voice_pct": 58.9,
+      "ambient_pct": 24.8,
+      "asmr_pct": 16.4,
+      "centroid_hz": 2064.0,
+      "flatness": 0.04932
+    },
+    {
+      "t": 53.5,
+      "rms": 0.0871,
+      "voice_pct": 59.0,
+      "ambient_pct": 25.9,
+      "asmr_pct": 15.1,
+      "centroid_hz": 2024.0,
+      "flatness": 0.04774
+    },
+    {
+      "t": 53.75,
+      "rms": 0.09803,
+      "voice_pct": 61.2,
+      "ambient_pct": 31.1,
+      "asmr_pct": 7.8,
+      "centroid_hz": 1511.0,
+      "flatness": 0.01977
+    },
+    {
+      "t": 54.0,
+      "rms": 0.11236,
+      "voice_pct": 58.5,
+      "ambient_pct": 37.2,
+      "asmr_pct": 4.3,
+      "centroid_hz": 1278.0,
+      "flatness": 0.00623
+    },
+    {
+      "t": 54.25,
+      "rms": 0.09988,
+      "voice_pct": 57.0,
+      "ambient_pct": 36.3,
+      "asmr_pct": 6.7,
+      "centroid_hz": 1818.0,
+      "flatness": 0.04025
+    },
+    {
+      "t": 54.5,
+      "rms": 0.10288,
+      "voice_pct": 58.3,
+      "ambient_pct": 30.3,
+      "asmr_pct": 11.4,
+      "centroid_hz": 1915.0,
+      "flatness": 0.04887
+    },
+    {
+      "t": 54.75,
+      "rms": 0.19567,
+      "voice_pct": 59.8,
+      "ambient_pct": 31.8,
+      "asmr_pct": 8.5,
+      "centroid_hz": 1560.0,
+      "flatness": 0.02325
+    },
+    {
+      "t": 55.0,
+      "rms": 0.19485,
+      "voice_pct": 59.6,
+      "ambient_pct": 29.8,
+      "asmr_pct": 10.6,
+      "centroid_hz": 1682.0,
+      "flatness": 0.0302
+    },
+    {
+      "t": 55.25,
+      "rms": 0.19398,
+      "voice_pct": 56.1,
+      "ambient_pct": 19.6,
+      "asmr_pct": 24.3,
+      "centroid_hz": 2041.0,
+      "flatness": 0.03589
+    },
+    {
+      "t": 55.5,
+      "rms": 0.24779,
+      "voice_pct": 58.9,
+      "ambient_pct": 25.2,
+      "asmr_pct": 15.9,
+      "centroid_hz": 1855.0,
+      "flatness": 0.01517
+    },
+    {
+      "t": 55.75,
+      "rms": 0.20711,
+      "voice_pct": 58.9,
+      "ambient_pct": 27.1,
+      "asmr_pct": 14.0,
+      "centroid_hz": 1892.0,
+      "flatness": 0.03649
+    },
+    {
+      "t": 56.0,
+      "rms": 0.14861,
+      "voice_pct": 52.2,
+      "ambient_pct": 18.6,
+      "asmr_pct": 29.1,
+      "centroid_hz": 2383.0,
+      "flatness": 0.05996
+    },
+    {
+      "t": 56.25,
+      "rms": 0.17025,
+      "voice_pct": 57.7,
+      "ambient_pct": 23.8,
+      "asmr_pct": 18.5,
+      "centroid_hz": 2007.0,
+      "flatness": 0.04092
+    },
+    {
+      "t": 56.5,
+      "rms": 0.25727,
+      "voice_pct": 64.7,
+      "ambient_pct": 27.8,
+      "asmr_pct": 7.5,
+      "centroid_hz": 1095.0,
+      "flatness": 0.00401
+    },
+    {
+      "t": 56.75,
+      "rms": 0.25761,
+      "voice_pct": 60.3,
+      "ambient_pct": 29.6,
+      "asmr_pct": 10.1,
+      "centroid_hz": 1521.0,
+      "flatness": 0.01926
+    },
+    {
+      "t": 57.0,
+      "rms": 0.20861,
+      "voice_pct": 55.5,
+      "ambient_pct": 30.9,
+      "asmr_pct": 13.6,
+      "centroid_hz": 2137.0,
+      "flatness": 0.03657
+    },
+    {
+      "t": 57.25,
+      "rms": 0.17599,
+      "voice_pct": 58.9,
+      "ambient_pct": 27.3,
+      "asmr_pct": 13.8,
+      "centroid_hz": 1809.0,
+      "flatness": 0.02355
+    },
+    {
+      "t": 57.5,
+      "rms": 0.11479,
+      "voice_pct": 58.4,
+      "ambient_pct": 30.6,
+      "asmr_pct": 11.1,
+      "centroid_hz": 1516.0,
+      "flatness": 0.02184
+    },
+    {
+      "t": 57.75,
+      "rms": 0.14352,
+      "voice_pct": 54.5,
+      "ambient_pct": 38.1,
+      "asmr_pct": 7.5,
+      "centroid_hz": 1397.0,
+      "flatness": 0.01797
+    },
+    {
+      "t": 58.0,
+      "rms": 0.13693,
+      "voice_pct": 56.2,
+      "ambient_pct": 36.5,
+      "asmr_pct": 7.4,
+      "centroid_hz": 1351.0,
+      "flatness": 0.01623
+    },
+    {
+      "t": 58.25,
+      "rms": 0.1353,
+      "voice_pct": 66.4,
+      "ambient_pct": 25.4,
+      "asmr_pct": 8.1,
+      "centroid_hz": 1254.0,
+      "flatness": 0.01398
+    },
+    {
+      "t": 58.5,
+      "rms": 0.13064,
+      "voice_pct": 68.5,
+      "ambient_pct": 21.3,
+      "asmr_pct": 10.2,
+      "centroid_hz": 1246.0,
+      "flatness": 0.00842
+    },
+    {
+      "t": 58.75,
+      "rms": 0.11688,
+      "voice_pct": 57.6,
+      "ambient_pct": 33.5,
+      "asmr_pct": 8.9,
+      "centroid_hz": 1316.0,
+      "flatness": 0.01289
+    },
+    {
+      "t": 59.0,
+      "rms": 0.12086,
+      "voice_pct": 54.1,
+      "ambient_pct": 35.5,
+      "asmr_pct": 10.4,
+      "centroid_hz": 1463.0,
+      "flatness": 0.0167
+    },
+    {
+      "t": 59.25,
+      "rms": 0.12107,
+      "voice_pct": 52.3,
+      "ambient_pct": 30.6,
+      "asmr_pct": 17.1,
+      "centroid_hz": 1879.0,
+      "flatness": 0.03299
+    },
+    {
+      "t": 59.5,
+      "rms": 0.12025,
+      "voice_pct": 54.5,
+      "ambient_pct": 29.4,
+      "asmr_pct": 16.2,
+      "centroid_hz": 1825.0,
+      "flatness": 0.03395
+    },
+    {
+      "t": 59.75,
+      "rms": 0.19481,
+      "voice_pct": 63.3,
+      "ambient_pct": 27.7,
+      "asmr_pct": 9.0,
+      "centroid_hz": 1460.0,
+      "flatness": 0.01497
+    },
+    {
+      "t": 60.0,
+      "rms": 0.26364,
+      "voice_pct": 66.1,
+      "ambient_pct": 27.6,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1230.0,
+      "flatness": 0.0048
+    },
+    {
+      "t": 60.25,
+      "rms": 0.2549,
+      "voice_pct": 63.3,
+      "ambient_pct": 30.3,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1152.0,
+      "flatness": 0.00469
+    },
+    {
+      "t": 60.5,
+      "rms": 0.20539,
+      "voice_pct": 62.1,
+      "ambient_pct": 31.6,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1198.0,
+      "flatness": 0.0058
+    },
+    {
+      "t": 60.75,
+      "rms": 0.18551,
+      "voice_pct": 64.4,
+      "ambient_pct": 28.6,
+      "asmr_pct": 7.0,
+      "centroid_hz": 1093.0,
+      "flatness": 0.00441
+    },
+    {
+      "t": 61.0,
+      "rms": 0.19047,
+      "voice_pct": 51.2,
+      "ambient_pct": 18.3,
+      "asmr_pct": 30.6,
+      "centroid_hz": 1862.0,
+      "flatness": 0.01792
+    },
+    {
+      "t": 61.25,
+      "rms": 0.16555,
+      "voice_pct": 49.0,
+      "ambient_pct": 14.7,
+      "asmr_pct": 36.3,
+      "centroid_hz": 2342.0,
+      "flatness": 0.03508
+    },
+    {
+      "t": 61.5,
+      "rms": 0.22005,
+      "voice_pct": 65.7,
+      "ambient_pct": 20.7,
+      "asmr_pct": 13.6,
+      "centroid_hz": 1824.0,
+      "flatness": 0.0287
+    },
+    {
+      "t": 61.75,
+      "rms": 0.25135,
+      "voice_pct": 63.3,
+      "ambient_pct": 26.8,
+      "asmr_pct": 9.9,
+      "centroid_hz": 1626.0,
+      "flatness": 0.01924
+    },
+    {
+      "t": 62.0,
+      "rms": 0.22476,
+      "voice_pct": 56.7,
+      "ambient_pct": 38.8,
+      "asmr_pct": 4.5,
+      "centroid_hz": 1315.0,
+      "flatness": 0.00475
+    },
+    {
+      "t": 62.25,
+      "rms": 0.20398,
+      "voice_pct": 56.7,
+      "ambient_pct": 40.6,
+      "asmr_pct": 2.7,
+      "centroid_hz": 1260.0,
+      "flatness": 0.00535
+    },
+    {
+      "t": 62.5,
+      "rms": 0.17255,
+      "voice_pct": 59.8,
+      "ambient_pct": 37.1,
+      "asmr_pct": 3.1,
+      "centroid_hz": 1292.0,
+      "flatness": 0.00554
+    },
+    {
+      "t": 62.75,
+      "rms": 0.14376,
+      "voice_pct": 62.4,
+      "ambient_pct": 33.7,
+      "asmr_pct": 3.9,
+      "centroid_hz": 1355.0,
+      "flatness": 0.00791
+    },
+    {
+      "t": 63.0,
+      "rms": 0.12362,
+      "voice_pct": 62.2,
+      "ambient_pct": 28.5,
+      "asmr_pct": 9.4,
+      "centroid_hz": 1595.0,
+      "flatness": 0.02065
+    },
+    {
+      "t": 63.25,
+      "rms": 0.09788,
+      "voice_pct": 58.2,
+      "ambient_pct": 23.0,
+      "asmr_pct": 18.8,
+      "centroid_hz": 2179.0,
+      "flatness": 0.04797
+    },
+    {
+      "t": 63.5,
+      "rms": 0.09482,
+      "voice_pct": 62.7,
+      "ambient_pct": 23.9,
+      "asmr_pct": 13.4,
+      "centroid_hz": 2058.0,
+      "flatness": 0.04197
+    },
+    {
+      "t": 63.75,
+      "rms": 0.13449,
+      "voice_pct": 60.2,
+      "ambient_pct": 35.2,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1317.0,
+      "flatness": 0.00944
+    },
+    {
+      "t": 64.0,
+      "rms": 0.12091,
+      "voice_pct": 57.1,
+      "ambient_pct": 34.8,
+      "asmr_pct": 8.1,
+      "centroid_hz": 1494.0,
+      "flatness": 0.01863
+    },
+    {
+      "t": 64.25,
+      "rms": 0.08055,
+      "voice_pct": 56.5,
+      "ambient_pct": 35.2,
+      "asmr_pct": 8.3,
+      "centroid_hz": 1685.0,
+      "flatness": 0.03373
+    },
+    {
+      "t": 64.5,
+      "rms": 0.07416,
+      "voice_pct": 56.6,
+      "ambient_pct": 38.8,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1343.0,
+      "flatness": 0.01314
+    },
+    {
+      "t": 64.75,
+      "rms": 0.14872,
+      "voice_pct": 58.1,
+      "ambient_pct": 34.9,
+      "asmr_pct": 7.0,
+      "centroid_hz": 1234.0,
+      "flatness": 0.00722
+    },
+    {
+      "t": 65.0,
+      "rms": 0.23836,
+      "voice_pct": 57.0,
+      "ambient_pct": 38.4,
+      "asmr_pct": 4.6,
+      "centroid_hz": 1152.0,
+      "flatness": 0.00582
+    },
+    {
+      "t": 65.25,
+      "rms": 0.2454,
+      "voice_pct": 55.6,
+      "ambient_pct": 41.6,
+      "asmr_pct": 2.8,
+      "centroid_hz": 1162.0,
+      "flatness": 0.00795
+    },
+    {
+      "t": 65.5,
+      "rms": 0.21411,
+      "voice_pct": 55.2,
+      "ambient_pct": 40.5,
+      "asmr_pct": 4.3,
+      "centroid_hz": 1364.0,
+      "flatness": 0.0222
+    },
+    {
+      "t": 65.75,
+      "rms": 0.17298,
+      "voice_pct": 58.6,
+      "ambient_pct": 37.2,
+      "asmr_pct": 4.2,
+      "centroid_hz": 1274.0,
+      "flatness": 0.02229
+    },
+    {
+      "t": 66.0,
+      "rms": 0.10455,
+      "voice_pct": 61.3,
+      "ambient_pct": 32.4,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1294.0,
+      "flatness": 0.01837
+    },
+    {
+      "t": 66.25,
+      "rms": 0.12516,
+      "voice_pct": 63.4,
+      "ambient_pct": 29.9,
+      "asmr_pct": 6.7,
+      "centroid_hz": 1269.0,
+      "flatness": 0.01649
+    },
+    {
+      "t": 66.5,
+      "rms": 0.15275,
+      "voice_pct": 63.7,
+      "ambient_pct": 31.1,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1104.0,
+      "flatness": 0.00351
+    },
+    {
+      "t": 66.75,
+      "rms": 0.13214,
+      "voice_pct": 63.3,
+      "ambient_pct": 30.4,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1192.0,
+      "flatness": 0.00409
+    },
+    {
+      "t": 67.0,
+      "rms": 0.1578,
+      "voice_pct": 61.6,
+      "ambient_pct": 35.5,
+      "asmr_pct": 2.9,
+      "centroid_hz": 1067.0,
+      "flatness": 0.00209
+    },
+    {
+      "t": 67.25,
+      "rms": 0.20613,
+      "voice_pct": 64.3,
+      "ambient_pct": 33.5,
+      "asmr_pct": 2.2,
+      "centroid_hz": 952.0,
+      "flatness": 0.00073
+    },
+    {
+      "t": 67.5,
+      "rms": 0.19916,
+      "voice_pct": 70.4,
+      "ambient_pct": 26.4,
+      "asmr_pct": 3.2,
+      "centroid_hz": 892.0,
+      "flatness": 0.00068
+    },
+    {
+      "t": 67.75,
+      "rms": 0.13573,
+      "voice_pct": 61.0,
+      "ambient_pct": 23.5,
+      "asmr_pct": 15.4,
+      "centroid_hz": 1557.0,
+      "flatness": 0.02396
+    },
+    {
+      "t": 68.0,
+      "rms": 0.06314,
+      "voice_pct": 53.6,
+      "ambient_pct": 22.5,
+      "asmr_pct": 23.9,
+      "centroid_hz": 1647.0,
+      "flatness": 0.02619
+    },
+    {
+      "t": 68.25,
+      "rms": 0.05156,
+      "voice_pct": 56.8,
+      "ambient_pct": 38.8,
+      "asmr_pct": 4.4,
+      "centroid_hz": 1119.0,
+      "flatness": 0.00661
+    },
+    {
+      "t": 68.5,
+      "rms": 0.1158,
+      "voice_pct": 59.0,
+      "ambient_pct": 37.5,
+      "asmr_pct": 3.5,
+      "centroid_hz": 1088.0,
+      "flatness": 0.00612
+    },
+    {
+      "t": 68.75,
+      "rms": 0.1872,
+      "voice_pct": 59.3,
+      "ambient_pct": 34.6,
+      "asmr_pct": 6.1,
+      "centroid_hz": 1280.0,
+      "flatness": 0.00847
+    },
+    {
+      "t": 69.0,
+      "rms": 0.19539,
+      "voice_pct": 61.4,
+      "ambient_pct": 33.2,
+      "asmr_pct": 5.5,
+      "centroid_hz": 1263.0,
+      "flatness": 0.00666
+    },
+    {
+      "t": 69.25,
+      "rms": 0.16961,
+      "voice_pct": 64.8,
+      "ambient_pct": 31.8,
+      "asmr_pct": 3.4,
+      "centroid_hz": 1093.0,
+      "flatness": 0.0023
+    },
+    {
+      "t": 69.5,
+      "rms": 0.21807,
+      "voice_pct": 62.1,
+      "ambient_pct": 34.8,
+      "asmr_pct": 3.0,
+      "centroid_hz": 1200.0,
+      "flatness": 0.0027
+    },
+    {
+      "t": 69.75,
+      "rms": 0.26522,
+      "voice_pct": 59.0,
+      "ambient_pct": 38.2,
+      "asmr_pct": 2.8,
+      "centroid_hz": 1195.0,
+      "flatness": 0.00368
+    },
+    {
+      "t": 70.0,
+      "rms": 0.21884,
+      "voice_pct": 58.6,
+      "ambient_pct": 37.0,
+      "asmr_pct": 4.4,
+      "centroid_hz": 1337.0,
+      "flatness": 0.01275
+    },
+    {
+      "t": 70.25,
+      "rms": 0.13068,
+      "voice_pct": 64.7,
+      "ambient_pct": 29.2,
+      "asmr_pct": 6.1,
+      "centroid_hz": 1367.0,
+      "flatness": 0.01389
+    },
+    {
+      "t": 70.5,
+      "rms": 0.11694,
+      "voice_pct": 60.0,
+      "ambient_pct": 36.5,
+      "asmr_pct": 3.5,
+      "centroid_hz": 1198.0,
+      "flatness": 0.00427
+    },
+    {
+      "t": 70.75,
+      "rms": 0.10249,
+      "voice_pct": 59.1,
+      "ambient_pct": 36.9,
+      "asmr_pct": 3.9,
+      "centroid_hz": 1141.0,
+      "flatness": 0.00332
+    },
+    {
+      "t": 71.0,
+      "rms": 0.14814,
+      "voice_pct": 56.2,
+      "ambient_pct": 35.9,
+      "asmr_pct": 7.8,
+      "centroid_hz": 1199.0,
+      "flatness": 0.00644
+    },
+    {
+      "t": 71.25,
+      "rms": 0.17893,
+      "voice_pct": 57.6,
+      "ambient_pct": 33.2,
+      "asmr_pct": 9.2,
+      "centroid_hz": 1431.0,
+      "flatness": 0.01097
+    },
+    {
+      "t": 71.5,
+      "rms": 0.14235,
+      "voice_pct": 62.2,
+      "ambient_pct": 25.5,
+      "asmr_pct": 12.3,
+      "centroid_hz": 1583.0,
+      "flatness": 0.01369
+    },
+    {
+      "t": 71.75,
+      "rms": 0.17265,
+      "voice_pct": 55.4,
+      "ambient_pct": 35.8,
+      "asmr_pct": 8.8,
+      "centroid_hz": 1459.0,
+      "flatness": 0.01134
+    },
+    {
+      "t": 72.0,
+      "rms": 0.18164,
+      "voice_pct": 53.6,
+      "ambient_pct": 33.8,
+      "asmr_pct": 12.5,
+      "centroid_hz": 1694.0,
+      "flatness": 0.02079
+    },
+    {
+      "t": 72.25,
+      "rms": 0.13582,
+      "voice_pct": 56.0,
+      "ambient_pct": 27.2,
+      "asmr_pct": 16.9,
+      "centroid_hz": 1930.0,
+      "flatness": 0.03039
+    },
+    {
+      "t": 72.5,
+      "rms": 0.17559,
+      "voice_pct": 65.0,
+      "ambient_pct": 27.1,
+      "asmr_pct": 7.9,
+      "centroid_hz": 1480.0,
+      "flatness": 0.01032
+    },
+    {
+      "t": 72.75,
+      "rms": 0.21081,
+      "voice_pct": 68.2,
+      "ambient_pct": 27.3,
+      "asmr_pct": 4.5,
+      "centroid_hz": 1212.0,
+      "flatness": 0.00256
+    },
+    {
+      "t": 73.0,
+      "rms": 0.23041,
+      "voice_pct": 60.4,
+      "ambient_pct": 36.5,
+      "asmr_pct": 3.1,
+      "centroid_hz": 1137.0,
+      "flatness": 0.00292
+    },
+    {
+      "t": 73.25,
+      "rms": 0.19624,
+      "voice_pct": 58.9,
+      "ambient_pct": 36.0,
+      "asmr_pct": 5.1,
+      "centroid_hz": 1459.0,
+      "flatness": 0.0136
+    },
+    {
+      "t": 73.5,
+      "rms": 0.13622,
+      "voice_pct": 62.2,
+      "ambient_pct": 30.9,
+      "asmr_pct": 6.9,
+      "centroid_hz": 1539.0,
+      "flatness": 0.01316
+    },
+    {
+      "t": 73.75,
+      "rms": 0.16476,
+      "voice_pct": 61.2,
+      "ambient_pct": 35.5,
+      "asmr_pct": 3.3,
+      "centroid_hz": 1225.0,
+      "flatness": 0.00271
+    },
+    {
+      "t": 74.0,
+      "rms": 0.14239,
+      "voice_pct": 59.3,
+      "ambient_pct": 38.0,
+      "asmr_pct": 2.7,
+      "centroid_hz": 1145.0,
+      "flatness": 0.00312
+    },
+    {
+      "t": 74.25,
+      "rms": 0.09176,
+      "voice_pct": 60.7,
+      "ambient_pct": 34.1,
+      "asmr_pct": 5.2,
+      "centroid_hz": 1352.0,
+      "flatness": 0.00808
+    },
+    {
+      "t": 74.5,
+      "rms": 0.08778,
+      "voice_pct": 68.6,
+      "ambient_pct": 25.2,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1531.0,
+      "flatness": 0.01158
+    },
+    {
+      "t": 74.75,
+      "rms": 0.06932,
+      "voice_pct": 58.4,
+      "ambient_pct": 28.9,
+      "asmr_pct": 12.7,
+      "centroid_hz": 2025.0,
+      "flatness": 0.03712
+    },
+    {
+      "t": 75.0,
+      "rms": 0.10007,
+      "voice_pct": 58.9,
+      "ambient_pct": 25.8,
+      "asmr_pct": 15.4,
+      "centroid_hz": 1864.0,
+      "flatness": 0.03117
+    },
+    {
+      "t": 75.25,
+      "rms": 0.17569,
+      "voice_pct": 67.6,
+      "ambient_pct": 21.6,
+      "asmr_pct": 10.8,
+      "centroid_hz": 1493.0,
+      "flatness": 0.00979
+    },
+    {
+      "t": 75.5,
+      "rms": 0.21871,
+      "voice_pct": 58.8,
+      "ambient_pct": 32.9,
+      "asmr_pct": 8.3,
+      "centroid_hz": 1656.0,
+      "flatness": 0.01238
+    },
+    {
+      "t": 75.75,
+      "rms": 0.20069,
+      "voice_pct": 56.1,
+      "ambient_pct": 34.8,
+      "asmr_pct": 9.1,
+      "centroid_hz": 1740.0,
+      "flatness": 0.02457
+    },
+    {
+      "t": 76.0,
+      "rms": 0.17816,
+      "voice_pct": 56.7,
+      "ambient_pct": 30.0,
+      "asmr_pct": 13.3,
+      "centroid_hz": 1777.0,
+      "flatness": 0.03368
+    },
+    {
+      "t": 76.25,
+      "rms": 0.17243,
+      "voice_pct": 55.2,
+      "ambient_pct": 28.8,
+      "asmr_pct": 16.0,
+      "centroid_hz": 1958.0,
+      "flatness": 0.05054
+    },
+    {
+      "t": 76.5,
+      "rms": 0.17252,
+      "voice_pct": 58.3,
+      "ambient_pct": 24.6,
+      "asmr_pct": 17.1,
+      "centroid_hz": 2102.0,
+      "flatness": 0.05422
+    },
+    {
+      "t": 76.75,
+      "rms": 0.23932,
+      "voice_pct": 62.8,
+      "ambient_pct": 30.9,
+      "asmr_pct": 6.3,
+      "centroid_hz": 1440.0,
+      "flatness": 0.01388
+    },
+    {
+      "t": 77.0,
+      "rms": 0.24799,
+      "voice_pct": 58.1,
+      "ambient_pct": 38.9,
+      "asmr_pct": 3.0,
+      "centroid_hz": 1096.0,
+      "flatness": 0.00371
+    },
+    {
+      "t": 77.25,
+      "rms": 0.18391,
+      "voice_pct": 57.4,
+      "ambient_pct": 39.1,
+      "asmr_pct": 3.4,
+      "centroid_hz": 1152.0,
+      "flatness": 0.0051
+    },
+    {
+      "t": 77.5,
+      "rms": 0.17233,
+      "voice_pct": 62.1,
+      "ambient_pct": 33.7,
+      "asmr_pct": 4.2,
+      "centroid_hz": 1194.0,
+      "flatness": 0.00762
+    },
+    {
+      "t": 77.75,
+      "rms": 0.21298,
+      "voice_pct": 61.9,
+      "ambient_pct": 33.6,
+      "asmr_pct": 4.5,
+      "centroid_hz": 1392.0,
+      "flatness": 0.00463
+    },
+    {
+      "t": 78.0,
+      "rms": 0.2026,
+      "voice_pct": 59.6,
+      "ambient_pct": 36.1,
+      "asmr_pct": 4.3,
+      "centroid_hz": 1383.0,
+      "flatness": 0.0062
+    },
+    {
+      "t": 78.25,
+      "rms": 0.13113,
+      "voice_pct": 56.5,
+      "ambient_pct": 38.0,
+      "asmr_pct": 5.4,
+      "centroid_hz": 1530.0,
+      "flatness": 0.03613
+    },
+    {
+      "t": 78.5,
+      "rms": 0.09647,
+      "voice_pct": 57.6,
+      "ambient_pct": 36.2,
+      "asmr_pct": 6.2,
+      "centroid_hz": 1529.0,
+      "flatness": 0.03893
+    },
+    {
+      "t": 78.75,
+      "rms": 0.08197,
+      "voice_pct": 60.8,
+      "ambient_pct": 35.0,
+      "asmr_pct": 4.1,
+      "centroid_hz": 1380.0,
+      "flatness": 0.01754
+    },
+    {
+      "t": 79.0,
+      "rms": 0.03184,
+      "voice_pct": 60.8,
+      "ambient_pct": 27.8,
+      "asmr_pct": 11.4,
+      "centroid_hz": 1465.0,
+      "flatness": 0.02108
+    }
+  ]
+}

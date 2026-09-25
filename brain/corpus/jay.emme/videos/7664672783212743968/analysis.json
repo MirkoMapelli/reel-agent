@@ -1,0 +1,1984 @@
+{
+  "video_id": "7664672783212743968",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7664672783212743968",
+    "ref_id": "ref_07_7664672783212743968",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7664672783212743968",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 22,
+  "total_dur": 54.2,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8,
+      "center": 0.9,
+      "role": "person_talking",
+      "subject": "ragazzo che mostra kebab",
+      "description": "Il ragazzo tiene in mano un kebab aperto e guarda in camera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Proviamo il kebab fit di Giovanni"
+    },
+    {
+      "idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033,
+      "center": 2.817,
+      "role": "person_eating",
+      "subject": "ragazzo che addenta kebab",
+      "description": "Il ragazzo sta per mordere il kebab che tiene in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Fois. Sì ragazzi finalmente si sono"
+    },
+    {
+      "idx": 2,
+      "start": 3.833,
+      "end": 6.233,
+      "dur": 2.4,
+      "center": 5.033,
+      "role": "food_detail",
+      "subject": "kebab in mano",
+      "description": "Un kebab aperto è tenuto in mano, con la carta brandizzata 'KEBEST' sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "riuscito ad andare da kebabs, ovvero la kebabberia"
+    },
+    {
+      "idx": 3,
+      "start": 6.233,
+      "end": 7.467,
+      "dur": 1.233,
+      "center": 6.85,
+      "role": "venue_exterior",
+      "subject": "esterno negozio Kebest",
+      "description": "La facciata di un negozio chiamato 'KEBEST' con insegne rosa e blu e persone all'interno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "fit e fat di"
+    },
+    {
+      "idx": 4,
+      "start": 7.467,
+      "end": 9.433,
+      "dur": 1.967,
+      "center": 8.45,
+      "role": "venue_interior_wide",
+      "subject": "interno negozio Kebest",
+      "description": "L'interno del negozio 'KEBEST' con tavoli e sedie rosa e clienti seduti.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giovanni Fois e Gianna. Devo dire che ero tentato"
+    },
+    {
+      "idx": 5,
+      "start": 9.433,
+      "end": 12.433,
+      "dur": 3.0,
+      "center": 10.933,
+      "role": "food_detail",
+      "subject": "patate fritte spicchi",
+      "description": "Un cartoccio di patate fritte a spicchi appoggiato su una tovaglietta di carta con logo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "di andare sul fat ma ho lo stesso preso il menu fit con il kenami"
+    },
+    {
+      "idx": 6,
+      "start": 12.433,
+      "end": 15.5,
+      "dur": 3.067,
+      "center": 13.967,
+      "role": "hands_gesture",
+      "subject": "mano prende patata",
+      "description": "Una mano afferra una patata a spicchio dal cartoccio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "e le patatine cotti in frigidrice ad aria. Partendo proprio da loro devo"
+    },
+    {
+      "idx": 7,
+      "start": 15.5,
+      "end": 17.533,
+      "dur": 2.033,
+      "center": 16.517,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patata",
+      "description": "Un ragazzo con una maglietta bianca sta mangiando una patata, con uno sfondo rosa acceso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "dire che nonostante non mi aspettasse ovviamente la"
+    },
+    {
+      "idx": 8,
+      "start": 17.533,
+      "end": 20.033,
+      "dur": 2.5,
+      "center": 18.783,
+      "role": "hands_gesture",
+      "subject": "ragazzo mostra patata",
+      "description": "Il ragazzo tiene una patata a spicchio tra le dita, mostrandola alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "consistenza e la sfidzorità delle patatine fritte"
+    },
+    {
+      "idx": 9,
+      "start": 20.033,
+      "end": 22.0,
+      "dur": 1.967,
+      "center": 21.017,
+      "role": "food_detail",
+      "subject": "patate fritte cartoccio",
+      "description": "Una mano tiene un cartoccio di patate fritte a spicchi, con un bicchiere Pepsi sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "risultavano comunque tanto secche. Don lato posso"
+    },
+    {
+      "idx": 10,
+      "start": 22.0,
+      "end": 24.8,
+      "dur": 2.8,
+      "center": 23.4,
+      "role": "food_plated",
+      "subject": "kebab in carta",
+      "description": "Il kebab è avvolto in carta con il logo 'KEBAST'.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "capirlo perché sono cotto senso olio dall 'altro si poteva fare"
+    },
+    {
+      "idx": 11,
+      "start": 24.8,
+      "end": 27.767,
+      "dur": 2.967,
+      "center": 26.283,
+      "role": "food_detail",
+      "subject": "kebab aperto in mano",
+      "description": "Una mano tiene un kebab aperto, mostrando il ripieno e la scritta 'KEBAB' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "sicuramente di più. Passando invece il kebab ho preso il loro kenami con sovraccoce"
+    },
+    {
+      "idx": 12,
+      "start": 27.767,
+      "end": 31.267,
+      "dur": 3.5,
+      "center": 29.517,
+      "role": "food_detail",
+      "subject": "kebab con pomodoro",
+      "description": "Il ripieno del kebab include un pezzo di pomodoro e la scritta 'CIPOLLA' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "di pollo installata a pomodoro. Cipolla, avocado e salsa nami a base"
+    },
+    {
+      "idx": 13,
+      "start": 31.267,
+      "end": 36.233,
+      "dur": 4.967,
+      "center": 33.75,
+      "role": "person_eating",
+      "subject": "ragazzo mangia kebab",
+      "description": "Un ragazzo sta per addentare il kebab, con la scritta 'CHE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "di formaggio proteico lime e rosmarino. E lui sì che era veramente clamoroso. Panino bello grande super"
+    },
+    {
+      "idx": 14,
+      "start": 36.233,
+      "end": 38.233,
+      "dur": 2.0,
+      "center": 37.233,
+      "role": "person_eating",
+      "subject": "ragazzo morde kebab",
+      "description": "Il ragazzo sta mordendo il kebab, con la scritta 'COSA' in sovrimpressione.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "condito cosa che avendo così poche calorie"
+    },
+    {
+      "idx": 15,
+      "start": 38.233,
+      "end": 41.6,
+      "dur": 3.367,
+      "center": 39.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo sta addentando un panino con ripieno verde.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "non me lo aspettavo. E poi devo dire che l 'avocado ci stava davvero un gran bene. Ho provato"
+    },
+    {
+      "idx": 16,
+      "start": 41.6,
+      "end": 43.767,
+      "dur": 2.167,
+      "center": 42.683,
+      "role": "person_eating",
+      "subject": "ragazzo mangia panino",
+      "description": "Il ragazzo tiene in mano un panino con ripieno verde e gli occhi chiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "anche il kefois che è praticamente la versione fit del"
+    },
+    {
+      "idx": 17,
+      "start": 43.767,
+      "end": 44.367,
+      "dur": 0.6,
+      "center": 44.067,
+      "role": "food_detail",
+      "subject": "panino kebab",
+      "description": "Un panino lungo con ripieno e un pezzo di pomodoro, con un'altra persona che mangia sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "kebab classico"
+    },
+    {
+      "idx": 18,
+      "start": 44.367,
+      "end": 47.067,
+      "dur": 2.7,
+      "center": 45.717,
+      "role": "food_detail",
+      "subject": "panino kebab yogurt",
+      "description": "Un panino lungo con ripieno e un pezzo di pomodoro, tenuto da una mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "e nonostante l 'acidità dello gurgliere così sentisse un po devo"
+    },
+    {
+      "idx": 19,
+      "start": 47.067,
+      "end": 50.067,
+      "dur": 3.0,
+      "center": 48.567,
+      "role": "food_detail",
+      "subject": "panino kebab salse",
+      "description": "Un panino aperto con abbondanti salse e ripieno, tenuto da una mano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "dire che ricordava tanto il kebab vero. Ed infine guardate anche il"
+    },
+    {
+      "idx": 20,
+      "start": 50.067,
+      "end": 54.033,
+      "dur": 3.967,
+      "center": 52.05,
+      "role": "food_closeup",
+      "subject": "kebab in tortilla",
+      "description": "Il kebab è avvolto in una tortilla e farcito con carne, salsa bianca e pomodori a cubetti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "kezucca quanto cavole pieno. Insomma il kebab fit ha provati le patatine un po meno."
+    },
+    {
+      "idx": 21,
+      "start": 54.033,
+      "end": 54.2,
+      "dur": 0.167,
+      "center": 54.117,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Lo schermo è completamente nero.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che mostra kebab",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un kebab aperto e guarda in camera.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che addenta kebab",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mordere il kebab che tiene in mano.",
+      "shot_idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "kebab in mano",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un kebab aperto è tenuto in mano, con la carta brandizzata 'KEBEST' sullo sfondo.",
+      "shot_idx": 2,
+      "start": 3.833,
+      "end": 6.233,
+      "dur": 2.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "esterno negozio Kebest",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "La facciata di un negozio chiamato 'KEBEST' con insegne rosa e blu e persone all'interno.",
+      "shot_idx": 3,
+      "start": 6.233,
+      "end": 7.467,
+      "dur": 1.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno negozio Kebest",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'interno del negozio 'KEBEST' con tavoli e sedie rosa e clienti seduti.",
+      "shot_idx": 4,
+      "start": 7.467,
+      "end": 9.433,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "patate fritte spicchi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un cartoccio di patate fritte a spicchi appoggiato su una tovaglietta di carta con logo.",
+      "shot_idx": 5,
+      "start": 9.433,
+      "end": 12.433,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano prende patata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano afferra una patata a spicchio dal cartoccio.",
+      "shot_idx": 6,
+      "start": 12.433,
+      "end": 15.5,
+      "dur": 3.067
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca sta mangiando una patata, con uno sfondo rosa acceso.",
+      "shot_idx": 7,
+      "start": 15.5,
+      "end": 17.533,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "ragazzo mostra patata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene una patata a spicchio tra le dita, mostrandola alla telecamera.",
+      "shot_idx": 8,
+      "start": 17.533,
+      "end": 20.033,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "patate fritte cartoccio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene un cartoccio di patate fritte a spicchi, con un bicchiere Pepsi sullo sfondo.",
+      "shot_idx": 9,
+      "start": 20.033,
+      "end": 22.0,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "kebab in carta",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il kebab è avvolto in carta con il logo 'KEBAST'.",
+      "shot_idx": 10,
+      "start": 22.0,
+      "end": 24.8,
+      "dur": 2.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "kebab aperto in mano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene un kebab aperto, mostrando il ripieno e la scritta 'KEBAB' in sovrimpressione.",
+      "shot_idx": 11,
+      "start": 24.8,
+      "end": 27.767,
+      "dur": 2.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "kebab con pomodoro",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ripieno del kebab include un pezzo di pomodoro e la scritta 'CIPOLLA' in sovrimpressione.",
+      "shot_idx": 12,
+      "start": 27.767,
+      "end": 31.267,
+      "dur": 3.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia kebab",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta per addentare il kebab, con la scritta 'CHE' in sovrimpressione.",
+      "shot_idx": 13,
+      "start": 31.267,
+      "end": 36.233,
+      "dur": 4.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo morde kebab",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mordendo il kebab, con la scritta 'COSA' in sovrimpressione.",
+      "shot_idx": 14,
+      "start": 36.233,
+      "end": 38.233,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta addentando un panino con ripieno verde.",
+      "shot_idx": 15,
+      "start": 38.233,
+      "end": 41.6,
+      "dur": 3.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un panino con ripieno verde e gli occhi chiusi.",
+      "shot_idx": 16,
+      "start": 41.6,
+      "end": 43.767,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "panino kebab",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un panino lungo con ripieno e un pezzo di pomodoro, con un'altra persona che mangia sullo sfondo.",
+      "shot_idx": 17,
+      "start": 43.767,
+      "end": 44.367,
+      "dur": 0.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "panino kebab yogurt",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un panino lungo con ripieno e un pezzo di pomodoro, tenuto da una mano.",
+      "shot_idx": 18,
+      "start": 44.367,
+      "end": 47.067,
+      "dur": 2.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "panino kebab salse",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un panino aperto con abbondanti salse e ripieno, tenuto da una mano.",
+      "shot_idx": 19,
+      "start": 47.067,
+      "end": 50.067,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "kebab in tortilla",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il kebab è avvolto in una tortilla e farcito con carne, salsa bianca e pomodori a cubetti.",
+      "shot_idx": 20,
+      "start": 50.067,
+      "end": 54.033,
+      "dur": 3.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo schermo è completamente nero.",
+      "shot_idx": 21,
+      "start": 54.033,
+      "end": 54.2,
+      "dur": 0.167
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.72,
+      "text": "Proviamo il kebab fit di Giovanni Fois. Sì ragazzi finalmente si sono riuscito ad andare da kebabs, ovvero la kebabberia fit e fat di Giovanni Fois e Gianna."
+    },
+    {
+      "start": 8.78,
+      "end": 14.38,
+      "text": "Devo dire che ero tentato di andare sul fat ma ho lo stesso preso il menu fit con il kenami e le patatine cotti in frigidrice ad aria."
+    },
+    {
+      "start": 14.44,
+      "end": 21.54,
+      "text": "Partendo proprio da loro devo dire che nonostante non mi aspettasse ovviamente la consistenza e la sfidzorità delle patatine fritte risultavano comunque tanto secche."
+    },
+    {
+      "start": 21.6,
+      "end": 25.5,
+      "text": "Don lato posso capirlo perché sono cotto senso olio dall'altro si poteva fare sicuramente di più."
+    },
+    {
+      "start": 25.6,
+      "end": 29.38,
+      "text": "Passando invece il kebab ho preso il loro kenami con sovraccoce di pollo installata a pomodoro."
+    },
+    {
+      "start": 29.38,
+      "end": 33.04,
+      "text": "Cipolla, avocado e salsa nami a base di formaggio proteico lime e rosmarino."
+    },
+    {
+      "start": 33.1,
+      "end": 39.1,
+      "text": "E lui sì che era veramente clamoroso. Panino bello grande super condito cosa che avendo così poche calorie non me lo aspettavo."
+    },
+    {
+      "start": 39.18,
+      "end": 41.24,
+      "text": "E poi devo dire che l'avocado ci stava davvero un gran bene."
+    },
+    {
+      "start": 41.36,
+      "end": 48.92,
+      "text": "Ho provato anche il kefois che è praticamente la versione fit del kebab classico e nonostante l'acidità dello gurgliere così sentisse un po devo dire che ricordava tanto il kebab vero."
+    },
+    {
+      "start": 48.94,
+      "end": 51.44,
+      "text": "Ed infine guardate anche il kezucca quanto cavole pieno."
+    },
+    {
+      "start": 51.5,
+      "end": 53.94,
+      "text": "Insomma il kebab fit ha provati le patatine un po meno."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "word": "Proviamo"
+    },
+    {
+      "start": 0.52,
+      "end": 0.68,
+      "word": "il"
+    },
+    {
+      "start": 0.68,
+      "end": 0.94,
+      "word": "kebab"
+    },
+    {
+      "start": 0.94,
+      "end": 1.32,
+      "word": "fit"
+    },
+    {
+      "start": 1.32,
+      "end": 1.56,
+      "word": "di"
+    },
+    {
+      "start": 1.56,
+      "end": 1.86,
+      "word": "Giovanni"
+    },
+    {
+      "start": 1.86,
+      "end": 2.28,
+      "word": "Fois."
+    },
+    {
+      "start": 2.44,
+      "end": 2.52,
+      "word": "Sì"
+    },
+    {
+      "start": 2.52,
+      "end": 2.84,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.84,
+      "end": 3.4,
+      "word": "finalmente"
+    },
+    {
+      "start": 3.4,
+      "end": 3.74,
+      "word": "si"
+    },
+    {
+      "start": 3.74,
+      "end": 3.84,
+      "word": "sono"
+    },
+    {
+      "start": 3.84,
+      "end": 4.2,
+      "word": "riuscito"
+    },
+    {
+      "start": 4.2,
+      "end": 4.34,
+      "word": "ad"
+    },
+    {
+      "start": 4.34,
+      "end": 4.54,
+      "word": "andare"
+    },
+    {
+      "start": 4.54,
+      "end": 4.72,
+      "word": "da"
+    },
+    {
+      "start": 4.72,
+      "end": 5.12,
+      "word": "kebabs,"
+    },
+    {
+      "start": 5.3,
+      "end": 5.5,
+      "word": "ovvero"
+    },
+    {
+      "start": 5.5,
+      "end": 5.64,
+      "word": "la"
+    },
+    {
+      "start": 5.64,
+      "end": 6.18,
+      "word": "kebabberia"
+    },
+    {
+      "start": 6.18,
+      "end": 6.62,
+      "word": "fit"
+    },
+    {
+      "start": 6.62,
+      "end": 6.96,
+      "word": "e"
+    },
+    {
+      "start": 6.96,
+      "end": 7.24,
+      "word": "fat"
+    },
+    {
+      "start": 7.24,
+      "end": 7.54,
+      "word": "di"
+    },
+    {
+      "start": 7.54,
+      "end": 7.82,
+      "word": "Giovanni"
+    },
+    {
+      "start": 7.82,
+      "end": 8.24,
+      "word": "Fois"
+    },
+    {
+      "start": 8.24,
+      "end": 8.42,
+      "word": "e"
+    },
+    {
+      "start": 8.42,
+      "end": 8.72,
+      "word": "Gianna."
+    },
+    {
+      "start": 8.78,
+      "end": 8.8,
+      "word": "Devo"
+    },
+    {
+      "start": 8.8,
+      "end": 8.96,
+      "word": "dire"
+    },
+    {
+      "start": 8.96,
+      "end": 9.1,
+      "word": "che"
+    },
+    {
+      "start": 9.1,
+      "end": 9.2,
+      "word": "ero"
+    },
+    {
+      "start": 9.2,
+      "end": 9.58,
+      "word": "tentato"
+    },
+    {
+      "start": 9.58,
+      "end": 9.68,
+      "word": "di"
+    },
+    {
+      "start": 9.68,
+      "end": 9.8,
+      "word": "andare"
+    },
+    {
+      "start": 9.8,
+      "end": 9.98,
+      "word": "sul"
+    },
+    {
+      "start": 9.98,
+      "end": 10.3,
+      "word": "fat"
+    },
+    {
+      "start": 10.3,
+      "end": 10.52,
+      "word": "ma"
+    },
+    {
+      "start": 10.52,
+      "end": 10.6,
+      "word": "ho"
+    },
+    {
+      "start": 10.6,
+      "end": 10.68,
+      "word": "lo"
+    },
+    {
+      "start": 10.68,
+      "end": 10.78,
+      "word": "stesso"
+    },
+    {
+      "start": 10.78,
+      "end": 11.12,
+      "word": "preso"
+    },
+    {
+      "start": 11.12,
+      "end": 11.24,
+      "word": "il"
+    },
+    {
+      "start": 11.24,
+      "end": 11.32,
+      "word": "menu"
+    },
+    {
+      "start": 11.32,
+      "end": 11.72,
+      "word": "fit"
+    },
+    {
+      "start": 11.72,
+      "end": 12.02,
+      "word": "con"
+    },
+    {
+      "start": 12.02,
+      "end": 12.18,
+      "word": "il"
+    },
+    {
+      "start": 12.18,
+      "end": 12.5,
+      "word": "kenami"
+    },
+    {
+      "start": 12.5,
+      "end": 12.62,
+      "word": "e"
+    },
+    {
+      "start": 12.62,
+      "end": 12.68,
+      "word": "le"
+    },
+    {
+      "start": 12.68,
+      "end": 13.02,
+      "word": "patatine"
+    },
+    {
+      "start": 13.02,
+      "end": 13.4,
+      "word": "cotti"
+    },
+    {
+      "start": 13.4,
+      "end": 13.52,
+      "word": "in"
+    },
+    {
+      "start": 13.52,
+      "end": 13.98,
+      "word": "frigidrice"
+    },
+    {
+      "start": 13.98,
+      "end": 14.16,
+      "word": "ad"
+    },
+    {
+      "start": 14.16,
+      "end": 14.38,
+      "word": "aria."
+    },
+    {
+      "start": 14.44,
+      "end": 14.68,
+      "word": "Partendo"
+    },
+    {
+      "start": 14.68,
+      "end": 14.88,
+      "word": "proprio"
+    },
+    {
+      "start": 14.88,
+      "end": 15.06,
+      "word": "da"
+    },
+    {
+      "start": 15.06,
+      "end": 15.26,
+      "word": "loro"
+    },
+    {
+      "start": 15.26,
+      "end": 15.42,
+      "word": "devo"
+    },
+    {
+      "start": 15.42,
+      "end": 15.58,
+      "word": "dire"
+    },
+    {
+      "start": 15.58,
+      "end": 15.72,
+      "word": "che"
+    },
+    {
+      "start": 15.72,
+      "end": 16.12,
+      "word": "nonostante"
+    },
+    {
+      "start": 16.12,
+      "end": 16.3,
+      "word": "non"
+    },
+    {
+      "start": 16.3,
+      "end": 16.4,
+      "word": "mi"
+    },
+    {
+      "start": 16.4,
+      "end": 16.84,
+      "word": "aspettasse"
+    },
+    {
+      "start": 16.84,
+      "end": 17.22,
+      "word": "ovviamente"
+    },
+    {
+      "start": 17.22,
+      "end": 17.48,
+      "word": "la"
+    },
+    {
+      "start": 17.48,
+      "end": 18.26,
+      "word": "consistenza"
+    },
+    {
+      "start": 18.26,
+      "end": 18.44,
+      "word": "e"
+    },
+    {
+      "start": 18.44,
+      "end": 18.52,
+      "word": "la"
+    },
+    {
+      "start": 18.52,
+      "end": 19.08,
+      "word": "sfidzorità"
+    },
+    {
+      "start": 19.08,
+      "end": 19.24,
+      "word": "delle"
+    },
+    {
+      "start": 19.24,
+      "end": 19.62,
+      "word": "patatine"
+    },
+    {
+      "start": 19.62,
+      "end": 19.94,
+      "word": "fritte"
+    },
+    {
+      "start": 19.94,
+      "end": 20.42,
+      "word": "risultavano"
+    },
+    {
+      "start": 20.42,
+      "end": 20.76,
+      "word": "comunque"
+    },
+    {
+      "start": 20.76,
+      "end": 21.02,
+      "word": "tanto"
+    },
+    {
+      "start": 21.02,
+      "end": 21.54,
+      "word": "secche."
+    },
+    {
+      "start": 21.6,
+      "end": 21.66,
+      "word": "Don"
+    },
+    {
+      "start": 21.66,
+      "end": 21.82,
+      "word": "lato"
+    },
+    {
+      "start": 21.82,
+      "end": 22.0,
+      "word": "posso"
+    },
+    {
+      "start": 22.0,
+      "end": 22.48,
+      "word": "capirlo"
+    },
+    {
+      "start": 22.48,
+      "end": 22.64,
+      "word": "perché"
+    },
+    {
+      "start": 22.64,
+      "end": 22.86,
+      "word": "sono"
+    },
+    {
+      "start": 22.86,
+      "end": 23.06,
+      "word": "cotto"
+    },
+    {
+      "start": 23.06,
+      "end": 23.44,
+      "word": "senso"
+    },
+    {
+      "start": 23.44,
+      "end": 23.7,
+      "word": "olio"
+    },
+    {
+      "start": 23.7,
+      "end": 23.92,
+      "word": "dall"
+    },
+    {
+      "start": 23.92,
+      "end": 24.2,
+      "word": "'altro"
+    },
+    {
+      "start": 24.2,
+      "end": 24.36,
+      "word": "si"
+    },
+    {
+      "start": 24.36,
+      "end": 24.6,
+      "word": "poteva"
+    },
+    {
+      "start": 24.6,
+      "end": 24.74,
+      "word": "fare"
+    },
+    {
+      "start": 24.74,
+      "end": 25.14,
+      "word": "sicuramente"
+    },
+    {
+      "start": 25.14,
+      "end": 25.34,
+      "word": "di"
+    },
+    {
+      "start": 25.34,
+      "end": 25.5,
+      "word": "più."
+    },
+    {
+      "start": 25.6,
+      "end": 25.82,
+      "word": "Passando"
+    },
+    {
+      "start": 25.82,
+      "end": 25.98,
+      "word": "invece"
+    },
+    {
+      "start": 25.98,
+      "end": 26.14,
+      "word": "il"
+    },
+    {
+      "start": 26.14,
+      "end": 26.38,
+      "word": "kebab"
+    },
+    {
+      "start": 26.38,
+      "end": 26.54,
+      "word": "ho"
+    },
+    {
+      "start": 26.54,
+      "end": 26.7,
+      "word": "preso"
+    },
+    {
+      "start": 26.7,
+      "end": 26.82,
+      "word": "il"
+    },
+    {
+      "start": 26.82,
+      "end": 26.9,
+      "word": "loro"
+    },
+    {
+      "start": 26.9,
+      "end": 27.36,
+      "word": "kenami"
+    },
+    {
+      "start": 27.36,
+      "end": 27.52,
+      "word": "con"
+    },
+    {
+      "start": 27.52,
+      "end": 27.96,
+      "word": "sovraccoce"
+    },
+    {
+      "start": 27.96,
+      "end": 28.12,
+      "word": "di"
+    },
+    {
+      "start": 28.12,
+      "end": 28.38,
+      "word": "pollo"
+    },
+    {
+      "start": 28.38,
+      "end": 28.82,
+      "word": "installata"
+    },
+    {
+      "start": 28.82,
+      "end": 28.94,
+      "word": "a"
+    },
+    {
+      "start": 28.94,
+      "end": 29.38,
+      "word": "pomodoro."
+    },
+    {
+      "start": 29.38,
+      "end": 29.74,
+      "word": "Cipolla,"
+    },
+    {
+      "start": 29.82,
+      "end": 30.1,
+      "word": "avocado"
+    },
+    {
+      "start": 30.1,
+      "end": 30.28,
+      "word": "e"
+    },
+    {
+      "start": 30.28,
+      "end": 30.46,
+      "word": "salsa"
+    },
+    {
+      "start": 30.46,
+      "end": 30.9,
+      "word": "nami"
+    },
+    {
+      "start": 30.9,
+      "end": 31.02,
+      "word": "a"
+    },
+    {
+      "start": 31.02,
+      "end": 31.18,
+      "word": "base"
+    },
+    {
+      "start": 31.18,
+      "end": 31.36,
+      "word": "di"
+    },
+    {
+      "start": 31.36,
+      "end": 31.7,
+      "word": "formaggio"
+    },
+    {
+      "start": 31.7,
+      "end": 32.1,
+      "word": "proteico"
+    },
+    {
+      "start": 32.1,
+      "end": 32.42,
+      "word": "lime"
+    },
+    {
+      "start": 32.42,
+      "end": 32.52,
+      "word": "e"
+    },
+    {
+      "start": 32.52,
+      "end": 33.04,
+      "word": "rosmarino."
+    },
+    {
+      "start": 33.1,
+      "end": 33.14,
+      "word": "E"
+    },
+    {
+      "start": 33.14,
+      "end": 33.36,
+      "word": "lui"
+    },
+    {
+      "start": 33.36,
+      "end": 33.58,
+      "word": "sì"
+    },
+    {
+      "start": 33.58,
+      "end": 33.68,
+      "word": "che"
+    },
+    {
+      "start": 33.68,
+      "end": 33.78,
+      "word": "era"
+    },
+    {
+      "start": 33.78,
+      "end": 34.12,
+      "word": "veramente"
+    },
+    {
+      "start": 34.12,
+      "end": 34.82,
+      "word": "clamoroso."
+    },
+    {
+      "start": 34.94,
+      "end": 35.24,
+      "word": "Panino"
+    },
+    {
+      "start": 35.24,
+      "end": 35.56,
+      "word": "bello"
+    },
+    {
+      "start": 35.56,
+      "end": 35.88,
+      "word": "grande"
+    },
+    {
+      "start": 35.88,
+      "end": 36.42,
+      "word": "super"
+    },
+    {
+      "start": 36.42,
+      "end": 36.98,
+      "word": "condito"
+    },
+    {
+      "start": 36.98,
+      "end": 37.16,
+      "word": "cosa"
+    },
+    {
+      "start": 37.16,
+      "end": 37.32,
+      "word": "che"
+    },
+    {
+      "start": 37.32,
+      "end": 37.52,
+      "word": "avendo"
+    },
+    {
+      "start": 37.52,
+      "end": 37.68,
+      "word": "così"
+    },
+    {
+      "start": 37.68,
+      "end": 37.94,
+      "word": "poche"
+    },
+    {
+      "start": 37.94,
+      "end": 38.26,
+      "word": "calorie"
+    },
+    {
+      "start": 38.26,
+      "end": 38.44,
+      "word": "non"
+    },
+    {
+      "start": 38.44,
+      "end": 38.54,
+      "word": "me"
+    },
+    {
+      "start": 38.54,
+      "end": 38.62,
+      "word": "lo"
+    },
+    {
+      "start": 38.62,
+      "end": 39.1,
+      "word": "aspettavo."
+    },
+    {
+      "start": 39.18,
+      "end": 39.22,
+      "word": "E"
+    },
+    {
+      "start": 39.22,
+      "end": 39.36,
+      "word": "poi"
+    },
+    {
+      "start": 39.36,
+      "end": 39.48,
+      "word": "devo"
+    },
+    {
+      "start": 39.48,
+      "end": 39.66,
+      "word": "dire"
+    },
+    {
+      "start": 39.66,
+      "end": 39.8,
+      "word": "che"
+    },
+    {
+      "start": 39.8,
+      "end": 39.88,
+      "word": "l"
+    },
+    {
+      "start": 39.88,
+      "end": 40.12,
+      "word": "'avocado"
+    },
+    {
+      "start": 40.12,
+      "end": 40.3,
+      "word": "ci"
+    },
+    {
+      "start": 40.3,
+      "end": 40.48,
+      "word": "stava"
+    },
+    {
+      "start": 40.48,
+      "end": 40.78,
+      "word": "davvero"
+    },
+    {
+      "start": 40.78,
+      "end": 40.86,
+      "word": "un"
+    },
+    {
+      "start": 40.86,
+      "end": 40.98,
+      "word": "gran"
+    },
+    {
+      "start": 40.98,
+      "end": 41.24,
+      "word": "bene."
+    },
+    {
+      "start": 41.36,
+      "end": 41.4,
+      "word": "Ho"
+    },
+    {
+      "start": 41.4,
+      "end": 41.72,
+      "word": "provato"
+    },
+    {
+      "start": 41.72,
+      "end": 41.86,
+      "word": "anche"
+    },
+    {
+      "start": 41.86,
+      "end": 41.98,
+      "word": "il"
+    },
+    {
+      "start": 41.98,
+      "end": 42.38,
+      "word": "kefois"
+    },
+    {
+      "start": 42.38,
+      "end": 42.48,
+      "word": "che"
+    },
+    {
+      "start": 42.48,
+      "end": 42.54,
+      "word": "è"
+    },
+    {
+      "start": 42.54,
+      "end": 42.72,
+      "word": "praticamente"
+    },
+    {
+      "start": 42.72,
+      "end": 42.96,
+      "word": "la"
+    },
+    {
+      "start": 42.96,
+      "end": 43.42,
+      "word": "versione"
+    },
+    {
+      "start": 43.42,
+      "end": 43.58,
+      "word": "fit"
+    },
+    {
+      "start": 43.58,
+      "end": 43.8,
+      "word": "del"
+    },
+    {
+      "start": 43.8,
+      "end": 44.06,
+      "word": "kebab"
+    },
+    {
+      "start": 44.06,
+      "end": 44.6,
+      "word": "classico"
+    },
+    {
+      "start": 44.6,
+      "end": 44.66,
+      "word": "e"
+    },
+    {
+      "start": 44.66,
+      "end": 45.04,
+      "word": "nonostante"
+    },
+    {
+      "start": 45.04,
+      "end": 45.16,
+      "word": "l"
+    },
+    {
+      "start": 45.16,
+      "end": 45.44,
+      "word": "'acidità"
+    },
+    {
+      "start": 45.44,
+      "end": 45.6,
+      "word": "dello"
+    },
+    {
+      "start": 45.6,
+      "end": 46.02,
+      "word": "gurgliere"
+    },
+    {
+      "start": 46.02,
+      "end": 46.18,
+      "word": "così"
+    },
+    {
+      "start": 46.18,
+      "end": 46.62,
+      "word": "sentisse"
+    },
+    {
+      "start": 46.62,
+      "end": 46.76,
+      "word": "un"
+    },
+    {
+      "start": 46.76,
+      "end": 46.9,
+      "word": "po"
+    },
+    {
+      "start": 46.9,
+      "end": 47.02,
+      "word": "devo"
+    },
+    {
+      "start": 47.02,
+      "end": 47.22,
+      "word": "dire"
+    },
+    {
+      "start": 47.22,
+      "end": 47.34,
+      "word": "che"
+    },
+    {
+      "start": 47.34,
+      "end": 47.7,
+      "word": "ricordava"
+    },
+    {
+      "start": 47.7,
+      "end": 48.04,
+      "word": "tanto"
+    },
+    {
+      "start": 48.04,
+      "end": 48.34,
+      "word": "il"
+    },
+    {
+      "start": 48.34,
+      "end": 48.6,
+      "word": "kebab"
+    },
+    {
+      "start": 48.6,
+      "end": 48.92,
+      "word": "vero."
+    },
+    {
+      "start": 48.94,
+      "end": 49.0,
+      "word": "Ed"
+    },
+    {
+      "start": 49.0,
+      "end": 49.28,
+      "word": "infine"
+    },
+    {
+      "start": 49.28,
+      "end": 49.54,
+      "word": "guardate"
+    },
+    {
+      "start": 49.54,
+      "end": 49.66,
+      "word": "anche"
+    },
+    {
+      "start": 49.66,
+      "end": 49.8,
+      "word": "il"
+    },
+    {
+      "start": 49.8,
+      "end": 50.36,
+      "word": "kezucca"
+    },
+    {
+      "start": 50.36,
+      "end": 50.64,
+      "word": "quanto"
+    },
+    {
+      "start": 50.64,
+      "end": 51.06,
+      "word": "cavole"
+    },
+    {
+      "start": 51.06,
+      "end": 51.44,
+      "word": "pieno."
+    },
+    {
+      "start": 51.5,
+      "end": 51.78,
+      "word": "Insomma"
+    },
+    {
+      "start": 51.78,
+      "end": 51.88,
+      "word": "il"
+    },
+    {
+      "start": 51.88,
+      "end": 52.08,
+      "word": "kebab"
+    },
+    {
+      "start": 52.08,
+      "end": 52.34,
+      "word": "fit"
+    },
+    {
+      "start": 52.34,
+      "end": 52.52,
+      "word": "ha"
+    },
+    {
+      "start": 52.52,
+      "end": 52.96,
+      "word": "provati"
+    },
+    {
+      "start": 52.96,
+      "end": 53.12,
+      "word": "le"
+    },
+    {
+      "start": 53.12,
+      "end": 53.52,
+      "word": "patatine"
+    },
+    {
+      "start": 53.52,
+      "end": 53.66,
+      "word": "un"
+    },
+    {
+      "start": 53.66,
+      "end": 53.72,
+      "word": "po"
+    },
+    {
+      "start": 53.72,
+      "end": 53.94,
+      "word": "meno."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8,
+      "transcript": "Proviamo il kebab fit di Giovanni"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033,
+      "transcript": "Fois. Sì ragazzi finalmente si sono"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.833,
+      "end": 6.233,
+      "dur": 2.4,
+      "transcript": "riuscito ad andare da kebabs, ovvero la kebabberia"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.233,
+      "end": 7.467,
+      "dur": 1.233,
+      "transcript": "fit e fat di"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.467,
+      "end": 9.433,
+      "dur": 1.967,
+      "transcript": "Giovanni Fois e Gianna. Devo dire che ero tentato"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.433,
+      "end": 12.433,
+      "dur": 3.0,
+      "transcript": "di andare sul fat ma ho lo stesso preso il menu fit con il kenami"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.433,
+      "end": 15.5,
+      "dur": 3.067,
+      "transcript": "e le patatine cotti in frigidrice ad aria. Partendo proprio da loro devo"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.5,
+      "end": 17.533,
+      "dur": 2.033,
+      "transcript": "dire che nonostante non mi aspettasse ovviamente la"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.533,
+      "end": 20.033,
+      "dur": 2.5,
+      "transcript": "consistenza e la sfidzorità delle patatine fritte"
+    },
+    {
+      "shot_idx": 9,
+      "start": 20.033,
+      "end": 22.0,
+      "dur": 1.967,
+      "transcript": "risultavano comunque tanto secche. Don lato posso"
+    },
+    {
+      "shot_idx": 10,
+      "start": 22.0,
+      "end": 24.8,
+      "dur": 2.8,
+      "transcript": "capirlo perché sono cotto senso olio dall 'altro si poteva fare"
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.8,
+      "end": 27.767,
+      "dur": 2.967,
+      "transcript": "sicuramente di più. Passando invece il kebab ho preso il loro kenami con sovraccoce"
+    },
+    {
+      "shot_idx": 12,
+      "start": 27.767,
+      "end": 31.267,
+      "dur": 3.5,
+      "transcript": "di pollo installata a pomodoro. Cipolla, avocado e salsa nami a base"
+    },
+    {
+      "shot_idx": 13,
+      "start": 31.267,
+      "end": 36.233,
+      "dur": 4.967,
+      "transcript": "di formaggio proteico lime e rosmarino. E lui sì che era veramente clamoroso. Panino bello grande super"
+    },
+    {
+      "shot_idx": 14,
+      "start": 36.233,
+      "end": 38.233,
+      "dur": 2.0,
+      "transcript": "condito cosa che avendo così poche calorie"
+    },
+    {
+      "shot_idx": 15,
+      "start": 38.233,
+      "end": 41.6,
+      "dur": 3.367,
+      "transcript": "non me lo aspettavo. E poi devo dire che l 'avocado ci stava davvero un gran bene. Ho provato"
+    },
+    {
+      "shot_idx": 16,
+      "start": 41.6,
+      "end": 43.767,
+      "dur": 2.167,
+      "transcript": "anche il kefois che è praticamente la versione fit del"
+    },
+    {
+      "shot_idx": 17,
+      "start": 43.767,
+      "end": 44.367,
+      "dur": 0.6,
+      "transcript": "kebab classico"
+    },
+    {
+      "shot_idx": 18,
+      "start": 44.367,
+      "end": 47.067,
+      "dur": 2.7,
+      "transcript": "e nonostante l 'acidità dello gurgliere così sentisse un po devo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 47.067,
+      "end": 50.067,
+      "dur": 3.0,
+      "transcript": "dire che ricordava tanto il kebab vero. Ed infine guardate anche il"
+    },
+    {
+      "shot_idx": 20,
+      "start": 50.067,
+      "end": 54.033,
+      "dur": 3.967,
+      "transcript": "kezucca quanto cavole pieno. Insomma il kebab fit ha provati le patatine un po meno."
+    },
+    {
+      "shot_idx": 21,
+      "start": 54.033,
+      "end": 54.2,
+      "dur": 0.167,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Proviamo il kebab fit di Giovanni Fois. Sì ragazzi finalmente si sono riuscito ad andare da kebabs, ovvero la kebabberia fit e fat di Giovanni Fois e Gianna. Devo dire che ero tentato di andare sul fat ma ho lo stesso preso il menu fit con il kenami e le patatine cotti in frigidrice ad aria. Partendo proprio da loro devo dire che nonostante non mi aspettasse ovviamente la consistenza e la sfidzorità delle patatine fritte risultavano comunque tanto secche. Don lato posso capirlo perché sono cotto senso olio dall'altro si poteva fare sicuramente di più. Passando invece il kebab ho preso il loro kenami con sovraccoce di pollo installata a pomodoro. Cipolla, avocado e salsa nami a base di formaggio proteico lime e rosmarino. E lui sì che era veramente clamoroso. Panino bello grande super condito cosa che avendo così poche calorie non me lo aspettavo. E poi devo dire che l'avocado ci stava davvero un gran bene. Ho provato anche il kefois che è praticamente la versione fit del kebab classico e nonostante l'acidità dello gurgliere così sentisse un po devo dire che ricordava tanto il kebab vero. Ed infine guardate anche il kezucca quanto cavole pieno. Insomma il kebab fit ha provati le patatine un po meno.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,703 @@
+{
+  "n_videos": 95,
+  "n_shots": 3444,
+  "stats": {
+    "roles_dist": {
+      "person_eating": 1053,
+      "food_detail": 561,
+      "other": 482,
+      "food_plated": 302,
+      "person_talking": 285,
+      "venue_exterior": 182,
+      "food_closeup": 162,
+      "venue_interior_wide": 151,
+      "venue_interior_detail": 110,
+      "drink_detail": 74,
+      "hands_gesture": 63,
+      "menu_board": 18,
+      "claw_game": 1
+    },
+    "compositions_dist": {
+      "medium": 1748,
+      "close_up": 1170,
+      "wide": 477,
+      "detail": 48,
+      "pov": 1
+    },
+    "angoli_dist": {
+      "orizzontale": 2447,
+      "dall_alto": 815,
+      "dal_basso": 98,
+      "pov": 84
+    },
+    "luci_dist": {
+      "artificiale_caldo": 1135,
+      "naturale": 865,
+      "mista": 783,
+      "artificiale_freddo": 633,
+      "artificiale_mista": 26,
+      "artificial_caldo": 2
+    },
+    "dur_stats": {
+      "count": 3444,
+      "mean": 2.39,
+      "median": 2.0,
+      "p10": 1.23,
+      "p90": 4.0,
+      "min": 0.07,
+      "max": 14.83
+    },
+    "dur_opening_mean": 2.13,
+    "dur_closing_mean": 2.78,
+    "human_ratio": 0.717,
+    "logo_ratio": 0.343,
+    "food_ratio": 0.319,
+    "venue_ratio": 0.129,
+    "top_words": [
+      [
+        "non",
+        269
+      ],
+      [
+        "abbiamo",
+        180
+      ],
+      [
+        "siamo",
+        175
+      ],
+      [
+        "ragazzi",
+        175
+      ],
+      [
+        "ovviamente",
+        167
+      ],
+      [
+        "loro",
+        137
+      ],
+      [
+        "pizza",
+        123
+      ],
+      [
+        "davvero",
+        121
+      ],
+      [
+        "quindi",
+        115
+      ],
+      [
+        "era",
+        110
+      ],
+      [
+        "oggi",
+        92
+      ],
+      [
+        "alla",
+        92
+      ],
+      [
+        "comunque",
+        87
+      ],
+      [
+        "tra",
+        80
+      ],
+      [
+        "perché",
+        78
+      ],
+      [
+        "veramente",
+        78
+      ],
+      [
+        "appunto",
+        71
+      ],
+      [
+        "salsa",
+        70
+      ],
+      [
+        "questi",
+        70
+      ],
+      [
+        "proprio",
+        68
+      ],
+      [
+        "fatto",
+        67
+      ],
+      [
+        "provare",
+        65
+      ],
+      [
+        "tutto",
+        63
+      ],
+      [
+        "carne",
+        62
+      ],
+      [
+        "mio",
+        60
+      ],
+      [
+        "devo",
+        58
+      ],
+      [
+        "l'altro",
+        55
+      ],
+      [
+        "però",
+        55
+      ],
+      [
+        "provato",
+        54
+      ],
+      [
+        "due",
+        54
+      ],
+      [
+        "pollo",
+        50
+      ],
+      [
+        "senza",
+        50
+      ],
+      [
+        "cui",
+        49
+      ],
+      [
+        "preso",
+        48
+      ],
+      [
+        "giro",
+        46
+      ],
+      [
+        "super",
+        45
+      ],
+      [
+        "iniziato",
+        45
+      ],
+      [
+        "ovvero",
+        45
+      ],
+      [
+        "bel",
+        45
+      ],
+      [
+        "dopodiché",
+        45
+      ],
+      [
+        "infine",
+        44
+      ],
+      [
+        "tutti",
+        44
+      ],
+      [
+        "cena",
+        44
+      ],
+      [
+        "viaggio",
+        43
+      ],
+      [
+        "praticamente",
+        43
+      ],
+      [
+        "subito",
+        42
+      ],
+      [
+        "milano",
+        41
+      ],
+      [
+        "mai",
+        41
+      ],
+      [
+        "bella",
+        40
+      ],
+      [
+        "posto",
+        39
+      ],
+      [
+        "americana",
+        39
+      ],
+      [
+        "barbecue",
+        39
+      ],
+      [
+        "ben",
+        38
+      ],
+      [
+        "bene",
+        38
+      ],
+      [
+        "troppo",
+        37
+      ],
+      [
+        "visto",
+        37
+      ],
+      [
+        "invece",
+        37
+      ],
+      [
+        "dolce",
+        37
+      ],
+      [
+        "col",
+        36
+      ],
+      [
+        "queste",
+        35
+      ],
+      [
+        "noi",
+        34
+      ],
+      [
+        "potete",
+        34
+      ],
+      [
+        "vedere",
+        34
+      ],
+      [
+        "gluten",
+        34
+      ],
+      [
+        "glutine",
+        34
+      ],
+      [
+        "infatti",
+        34
+      ],
+      [
+        "quanto",
+        33
+      ],
+      [
+        "hanno",
+        33
+      ],
+      [
+        "abbastanza",
+        33
+      ],
+      [
+        "giorno",
+        33
+      ],
+      [
+        "alle",
+        32
+      ],
+      [
+        "nonostante",
+        32
+      ],
+      [
+        "piatto",
+        32
+      ],
+      [
+        "qualche",
+        32
+      ],
+      [
+        "fritto",
+        31
+      ],
+      [
+        "essendo",
+        31
+      ],
+      [
+        "colazione",
+        31
+      ],
+      [
+        "giornata",
+        30
+      ],
+      [
+        "mare",
+        30
+      ],
+      [
+        "insomma",
+        30
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "un po",
+        107
+      ],
+      [
+        "con un",
+        88
+      ],
+      [
+        "con la",
+        64
+      ],
+      [
+        "anche se",
+        51
+      ],
+      [
+        "tra l'altro",
+        50
+      ],
+      [
+        "devo dire",
+        49
+      ],
+      [
+        "ci siamo",
+        49
+      ],
+      [
+        "di che",
+        48
+      ],
+      [
+        "po di",
+        45
+      ],
+      [
+        "dopo di",
+        43
+      ],
+      [
+        "con una",
+        43
+      ],
+      [
+        "che non",
+        41
+      ],
+      [
+        "un bel",
+        41
+      ],
+      [
+        "dire che",
+        40
+      ],
+      [
+        "oggi ragazzi",
+        38
+      ],
+      [
+        "il loro",
+        37
+      ],
+      [
+        "mi sono",
+        33
+      ],
+      [
+        "in un",
+        33
+      ],
+      [
+        "di questo",
+        32
+      ],
+      [
+        "che ho",
+        32
+      ],
+      [
+        "per poi",
+        32
+      ],
+      [
+        "con il",
+        31
+      ],
+      [
+        "che era",
+        31
+      ],
+      [
+        "senza glutine",
+        30
+      ],
+      [
+        "un paio",
+        29
+      ],
+      [
+        "la loro",
+        28
+      ],
+      [
+        "in questo",
+        28
+      ],
+      [
+        "paio di",
+        28
+      ],
+      [
+        "ed infine",
+        27
+      ],
+      [
+        "gluten free",
+        27
+      ],
+      [
+        "con anche",
+        27
+      ],
+      [
+        "il mio",
+        26
+      ],
+      [
+        "molto molto",
+        26
+      ],
+      [
+        "mio viaggio",
+        26
+      ],
+      [
+        "che mi",
+        25
+      ],
+      [
+        "di un",
+        25
+      ],
+      [
+        "in cui",
+        25
+      ],
+      [
+        "un sacco",
+        24
+      ],
+      [
+        "fare un",
+        24
+      ],
+      [
+        "per il",
+        24
+      ],
+      [
+        "che sono",
+        23
+      ],
+      [
+        "ho preso",
+        23
+      ],
+      [
+        "di carne",
+        23
+      ],
+      [
+        "abbiamo iniziato",
+        22
+      ],
+      [
+        "una bella",
+        22
+      ],
+      [
+        "mi ha",
+        22
+      ],
+      [
+        "per concludere",
+        22
+      ],
+      [
+        "ho provato",
+        22
+      ],
+      [
+        "del mio",
+        22
+      ],
+      [
+        "la pizza",
+        22
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "dopo di che",
+        43
+      ],
+      [
+        "un po di",
+        42
+      ],
+      [
+        "devo dire che",
+        32
+      ],
+      [
+        "un paio di",
+        28
+      ],
+      [
+        "del mio viaggio",
+        20
+      ],
+      [
+        "mio viaggio in",
+        19
+      ],
+      [
+        "un sacco di",
+        18
+      ],
+      [
+        "un po più",
+        17
+      ],
+      [
+        "che tra l'altro",
+        16
+      ],
+      [
+        "oggi ragazzi vi",
+        14
+      ],
+      [
+        "scoperta della vera",
+        13
+      ],
+      [
+        "della vera cucina",
+        13
+      ],
+      [
+        "vera cucina americana",
+        13
+      ],
+      [
+        "ragazzi vi porto",
+        12
+      ],
+      [
+        "di tutto il",
+        12
+      ],
+      [
+        "vi assicuro che",
+        11
+      ],
+      [
+        "con un po",
+        11
+      ],
+      [
+        "la possibilità di",
+        10
+      ],
+      [
+        "abbiamo iniziato con",
+        10
+      ],
+      [
+        "milano oggi ragazzi",
+        10
+      ],
+      [
+        "una sorta di",
+        10
+      ],
+      [
+        "oggi vi porto",
+        9
+      ],
+      [
+        "giorno del mio",
+        9
+      ],
+      [
+        "in questo caso",
+        9
+      ],
+      [
+        "mi ha stupito",
+        9
+      ],
+      [
+        "ci siamo fermati",
+        9
+      ],
+      [
+        "che ci ha",
+        8
+      ],
+      [
+        "in ogni caso",
+        8
+      ],
+      [
+        "che devo dire",
+        8
+      ],
+      [
+        "questa sorta di",
+        8
+      ]
+    ]
+  }
+}

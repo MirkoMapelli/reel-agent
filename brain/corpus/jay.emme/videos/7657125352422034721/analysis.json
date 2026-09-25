@@ -1,0 +1,2561 @@
+{
+  "video_id": "7657125352422034721",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7657125352422034721",
+    "ref_id": "ref_10_7657125352422034721",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7657125352422034721",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 36,
+  "total_dur": 65.0,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "center": 1.033,
+      "role": "food_plated",
+      "subject": "piatto carne patatine",
+      "description": "Un ragazzo sorridente tiene in mano un piatto giallo con carne e patatine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Proviamo il nuovo menu gluten free di all dwell"
+    },
+    {
+      "idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0,
+      "center": 3.067,
+      "role": "food_detail",
+      "subject": "hamburger con bacon",
+      "description": "Un hamburger con bacon e formaggio viene tenuto in mano da un ragazzo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "west tante nuove proposte senza glutine"
+    },
+    {
+      "idx": 2,
+      "start": 4.067,
+      "end": 6.033,
+      "dur": 1.967,
+      "center": 5.05,
+      "role": "food_plated",
+      "subject": "hamburger patatine fritte",
+      "description": "Due piatti gialli con hamburger e patatine fritte sono sul tavolo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che potete trovare in tantissimi dei loro stor"
+    },
+    {
+      "idx": 3,
+      "start": 6.033,
+      "end": 7.767,
+      "dur": 1.733,
+      "center": 6.9,
+      "role": "menu_board",
+      "subject": "menu gluten free",
+      "description": "Due cartelli 'Menu Gluten Free' sono visibili su un tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Iniziamo degli appetizer provando"
+    },
+    {
+      "idx": 4,
+      "start": 7.767,
+      "end": 9.767,
+      "dur": 2.0,
+      "center": 8.767,
+      "role": "food_plated",
+      "subject": "nuggets di pollo",
+      "description": "Quattro nuggets di pollo impanati sono serviti su un letto di insalata.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "il loro nuggets di pollo serviti con l 'iconica"
+    },
+    {
+      "idx": 5,
+      "start": 9.767,
+      "end": 10.933,
+      "dur": 1.167,
+      "center": 10.35,
+      "role": "food_detail",
+      "subject": "bustina salsa OWW",
+      "description": "La bustina di salsa Old Wild West è al centro dell'immagine, con il logo ben visibile.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "salsa all dwell west"
+    },
+    {
+      "idx": 6,
+      "start": 10.933,
+      "end": 12.733,
+      "dur": 1.8,
+      "center": 11.833,
+      "role": "food_detail",
+      "subject": "nugget di pollo",
+      "description": "Un uomo tiene in mano un nugget di pollo impanato, con uno sguardo sorpreso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "panatura gluten free super"
+    },
+    {
+      "idx": 7,
+      "start": 12.733,
+      "end": 14.3,
+      "dur": 1.567,
+      "center": 13.517,
+      "role": "person_eating",
+      "subject": "uomo mangia nugget",
+      "description": "L'uomo sta addentando il nugget di pollo, con un piatto di altri nugget in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "croccante ed uguali ai classici"
+    },
+    {
+      "idx": 8,
+      "start": 14.3,
+      "end": 15.767,
+      "dur": 1.467,
+      "center": 15.033,
+      "role": "food_detail",
+      "subject": "nugget di pollo tagliato",
+      "description": "Un nugget di pollo è stato tagliato a metà, mostrando l'interno, mentre l'uomo è sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "nuggets davvero davvero buoni"
+    },
+    {
+      "idx": 9,
+      "start": 15.767,
+      "end": 16.8,
+      "dur": 1.033,
+      "center": 16.283,
+      "role": "hands_gesture",
+      "subject": "salsa su nugget",
+      "description": "Delle mani stanno spremendo la salsa da una bustina su un nugget di pollo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "grazie anche all 'iconica"
+    },
+    {
+      "idx": 10,
+      "start": 16.8,
+      "end": 18.233,
+      "dur": 1.433,
+      "center": 17.517,
+      "role": "food_detail",
+      "subject": "nugget con salsa",
+      "description": "Un nugget croccante con una salsa arancione in primo piano, tenuto da una mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "salsa passiamo ora al bacon"
+    },
+    {
+      "idx": 11,
+      "start": 18.233,
+      "end": 19.667,
+      "dur": 1.433,
+      "center": 18.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nugget",
+      "description": "Un ragazzo sta mangiando un nugget, con gli occhi chiusi per il gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "cheddar burger con ovviamente"
+    },
+    {
+      "idx": 12,
+      "start": 19.667,
+      "end": 24.133,
+      "dur": 4.467,
+      "center": 21.9,
+      "role": "food_plated",
+      "subject": "hamburger patatine",
+      "description": "Due piatti gialli con hamburger e patatine fritte, uno in primo piano e uno sfocato sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "hamburger cheddar fuso pomodori un salata ketchup e beccone e procediamo quindi col test"
+    },
+    {
+      "idx": 13,
+      "start": 24.133,
+      "end": 26.3,
+      "dur": 2.167,
+      "center": 25.217,
+      "role": "food_detail",
+      "subject": "hamburger con bacon",
+      "description": "Un hamburger con bacon e formaggio fuso, tenuto da due mani, con patatine sfocate in basso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "test di questo burger carne davvero davvero"
+    },
+    {
+      "idx": 14,
+      "start": 26.3,
+      "end": 28.067,
+      "dur": 1.767,
+      "center": 27.183,
+      "role": "person_eating",
+      "subject": "ragazzo mangia hamburger",
+      "description": "Un ragazzo sta addentando un hamburger, con un piatto di patatine in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Buona e pane super morbido"
+    },
+    {
+      "idx": 15,
+      "start": 28.067,
+      "end": 29.9,
+      "dur": 1.833,
+      "center": 28.983,
+      "role": "person_eating",
+      "subject": "ragazzo con panino",
+      "description": "Il ragazzo tiene un panino con entrambe le mani, pronto per addentarlo, con un piatto di patatine fritte in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "e croccante tanto da non distingue lo dò un"
+    },
+    {
+      "idx": 16,
+      "start": 29.9,
+      "end": 31.5,
+      "dur": 1.6,
+      "center": 30.7,
+      "role": "person_eating",
+      "subject": "ragazzo che morde panino",
+      "description": "Il ragazzo sta addentando il panino, con gli occhi chiusi per la concentrazione o il piacere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "panino classico Ho poi fatto assaggiare"
+    },
+    {
+      "idx": 17,
+      "start": 31.5,
+      "end": 32.667,
+      "dur": 1.167,
+      "center": 32.083,
+      "role": "person_eating",
+      "subject": "ragazzo con panino",
+      "description": "Il ragazzo tiene il panino con entrambe le mani, guardando verso la fotocamera, con un'espressione neutra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "questo panino un 'altra persona"
+    },
+    {
+      "idx": 18,
+      "start": 32.667,
+      "end": 34.733,
+      "dur": 2.067,
+      "center": 33.7,
+      "role": "person_eating",
+      "subject": "ragazzo che morde panino",
+      "description": "Il ragazzo sta addentando il panino, con gli occhi chiusi, concentrato sul morso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "non ce li ha capo di sapere cosa ne pensasse"
+    },
+    {
+      "idx": 19,
+      "start": 34.733,
+      "end": 39.4,
+      "dur": 4.667,
+      "center": 37.067,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia panino",
+      "description": "Il ragazzo ha appena morso il panino e lo tiene in mano, con un'espressione soddisfatta o pensierosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "da non ce li ha col pane davvero ottimo ed è identico al pane col gluten"
+    },
+    {
+      "idx": 20,
+      "start": 39.4,
+      "end": 41.367,
+      "dur": 1.967,
+      "center": 40.383,
+      "role": "food_plated",
+      "subject": "tagliata e patatine",
+      "description": "Un piatto giallo con tagliata di manzo e patatine fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "test test anche della rodeo steak"
+    },
+    {
+      "idx": 21,
+      "start": 41.367,
+      "end": 43.4,
+      "dur": 2.033,
+      "center": 42.383,
+      "role": "food_plated",
+      "subject": "tagliata e patatine",
+      "description": "Il piatto è in primo piano con la tagliata di manzo e le patatine fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovvero la tagliata di filetto alla griglia"
+    },
+    {
+      "idx": 22,
+      "start": 43.4,
+      "end": 44.967,
+      "dur": 1.567,
+      "center": 44.183,
+      "role": "person_eating",
+      "subject": "ragazzo con piatto",
+      "description": "Un ragazzo sorridente tiene in mano un piatto di tagliata e patatine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "con rucola patatini e fritte"
+    },
+    {
+      "idx": 23,
+      "start": 44.967,
+      "end": 46.8,
+      "dur": 1.833,
+      "center": 45.883,
+      "role": "food_detail",
+      "subject": "pezzo di carne",
+      "description": "Un pezzo di carne al sangue è tenuto in primo piano con una forchetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e salsa all dwell west cottura"
+    },
+    {
+      "idx": 24,
+      "start": 46.8,
+      "end": 47.767,
+      "dur": 0.967,
+      "center": 47.283,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo mostra un pezzo di carne al sangue con una forchetta, con il piatto sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "della carne davvero"
+    },
+    {
+      "idx": 25,
+      "start": 47.767,
+      "end": 49.567,
+      "dur": 1.8,
+      "center": 48.667,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Un ragazzo sta mangiando un piatto di carne e patatine in un ristorante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "perfetta con la parte centrale"
+    },
+    {
+      "idx": 26,
+      "start": 49.567,
+      "end": 51.2,
+      "dur": 1.633,
+      "center": 50.383,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo ha la bocca leggermente aperta mentre mastica il cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "della tagliata che davvero si scioglieva"
+    },
+    {
+      "idx": 27,
+      "start": 51.2,
+      "end": 52.2,
+      "dur": 1.0,
+      "center": 51.7,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo sorride leggermente, mostrando soddisfazione per il cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "in bocca patatini salsa"
+    },
+    {
+      "idx": 28,
+      "start": 52.2,
+      "end": 53.767,
+      "dur": 1.567,
+      "center": 52.983,
+      "role": "hands_gesture",
+      "subject": "mano spremi salsa",
+      "description": "Una mano sta spremendo una bustina di salsa sulle patatine fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "che chiaramente sono la combo"
+    },
+    {
+      "idx": 29,
+      "start": 53.767,
+      "end": 56.067,
+      "dur": 2.3,
+      "center": 54.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatine",
+      "description": "Il ragazzo sta mangiando una patatina fritta con la bocca aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "perfetta e per concludere mini ice cookies e"
+    },
+    {
+      "idx": 30,
+      "start": 56.067,
+      "end": 59.067,
+      "dur": 3.0,
+      "center": 57.567,
+      "role": "food_detail",
+      "subject": "due dessert bicchiere",
+      "description": "I due dessert in bicchiere, uno con un biscotto Oreo, sono il fulcro dell'immagine.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mini ice alla fragola ovviamente anche essi senza glutine"
+    },
+    {
+      "idx": 31,
+      "start": 59.067,
+      "end": 60.5,
+      "dur": 1.433,
+      "center": 59.783,
+      "role": "person_eating",
+      "subject": "ragazzo mangia biscotto",
+      "description": "Il ragazzo sta mangiando un biscotto, con un dessert in bicchiere in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "un 'ottima iniziativa che vi permette"
+    },
+    {
+      "idx": 32,
+      "start": 60.5,
+      "end": 62.067,
+      "dur": 1.567,
+      "center": 61.283,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Il ragazzo sta assaggiando il dessert con un cucchiaino, concentrato sul cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "di avere a disposizione un ampio"
+    },
+    {
+      "idx": 33,
+      "start": 62.067,
+      "end": 63.533,
+      "dur": 1.467,
+      "center": 62.8,
+      "role": "person_eating",
+      "subject": "ragazzo sorride cucchiaio",
+      "description": "Il ragazzo sorride alla telecamera mentre tiene un cucchiaio con del dessert.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "menu certificato senza glutine"
+    },
+    {
+      "idx": 34,
+      "start": 63.533,
+      "end": 64.5,
+      "dur": 0.967,
+      "center": 64.017,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Il ragazzo sta mangiando il dessert, con un'espressione di gusto, e il secondo dessert è visibile sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "senza rinunciare il gusto"
+    },
+    {
+      "idx": 35,
+      "start": 64.5,
+      "end": 65.0,
+      "dur": 0.5,
+      "center": 64.75,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Il frame è completamente nero, non si distingue alcun dettaglio.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano un piatto giallo con carne e patatine.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "hamburger con bacon",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un hamburger con bacon e formaggio viene tenuto in mano da un ragazzo.",
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "hamburger patatine fritte",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due piatti gialli con hamburger e patatine fritte sono sul tavolo.",
+      "shot_idx": 2,
+      "start": 4.067,
+      "end": 6.033,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "menu_board",
+      "soggetto": "menu gluten free",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due cartelli 'Menu Gluten Free' sono visibili su un tavolo.",
+      "shot_idx": 3,
+      "start": 6.033,
+      "end": 7.767,
+      "dur": 1.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "nuggets di pollo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Quattro nuggets di pollo impanati sono serviti su un letto di insalata.",
+      "shot_idx": 4,
+      "start": 7.767,
+      "end": 9.767,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "bustina salsa OWW",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La bustina di salsa Old Wild West è al centro dell'immagine, con il logo ben visibile.",
+      "shot_idx": 5,
+      "start": 9.767,
+      "end": 10.933,
+      "dur": 1.167
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "nugget di pollo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano un nugget di pollo impanato, con uno sguardo sorpreso.",
+      "shot_idx": 6,
+      "start": 10.933,
+      "end": 12.733,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia nugget",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo sta addentando il nugget di pollo, con un piatto di altri nugget in primo piano.",
+      "shot_idx": 7,
+      "start": 12.733,
+      "end": 14.3,
+      "dur": 1.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "nugget di pollo tagliato",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un nugget di pollo è stato tagliato a metà, mostrando l'interno, mentre l'uomo è sfocato sullo sfondo.",
+      "shot_idx": 8,
+      "start": 14.3,
+      "end": 15.767,
+      "dur": 1.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "salsa su nugget",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Delle mani stanno spremendo la salsa da una bustina su un nugget di pollo.",
+      "shot_idx": 9,
+      "start": 15.767,
+      "end": 16.8,
+      "dur": 1.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "nugget con salsa",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un nugget croccante con una salsa arancione in primo piano, tenuto da una mano.",
+      "shot_idx": 10,
+      "start": 16.8,
+      "end": 18.233,
+      "dur": 1.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nugget",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta mangiando un nugget, con gli occhi chiusi per il gusto.",
+      "shot_idx": 11,
+      "start": 18.233,
+      "end": 19.667,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "hamburger patatine",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Due piatti gialli con hamburger e patatine fritte, uno in primo piano e uno sfocato sullo sfondo.",
+      "shot_idx": 12,
+      "start": 19.667,
+      "end": 24.133,
+      "dur": 4.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "hamburger con bacon",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un hamburger con bacon e formaggio fuso, tenuto da due mani, con patatine sfocate in basso.",
+      "shot_idx": 13,
+      "start": 24.133,
+      "end": 26.3,
+      "dur": 2.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia hamburger",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta addentando un hamburger, con un piatto di patatine in primo piano.",
+      "shot_idx": 14,
+      "start": 26.3,
+      "end": 28.067,
+      "dur": 1.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un panino con entrambe le mani, pronto per addentarlo, con un piatto di patatine fritte in primo piano.",
+      "shot_idx": 15,
+      "start": 28.067,
+      "end": 29.9,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che morde panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando il panino, con gli occhi chiusi per la concentrazione o il piacere.",
+      "shot_idx": 16,
+      "start": 29.9,
+      "end": 31.5,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene il panino con entrambe le mani, guardando verso la fotocamera, con un'espressione neutra.",
+      "shot_idx": 17,
+      "start": 31.5,
+      "end": 32.667,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che morde panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando il panino, con gli occhi chiusi, concentrato sul morso.",
+      "shot_idx": 18,
+      "start": 32.667,
+      "end": 34.733,
+      "dur": 2.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ha appena morso il panino e lo tiene in mano, con un'espressione soddisfatta o pensierosa.",
+      "shot_idx": 19,
+      "start": 34.733,
+      "end": 39.4,
+      "dur": 4.667
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "tagliata e patatine",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto giallo con tagliata di manzo e patatine fritte.",
+      "shot_idx": 20,
+      "start": 39.4,
+      "end": 41.367,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "tagliata e patatine",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto è in primo piano con la tagliata di manzo e le patatine fritte.",
+      "shot_idx": 21,
+      "start": 41.367,
+      "end": 43.4,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano un piatto di tagliata e patatine.",
+      "shot_idx": 22,
+      "start": 43.4,
+      "end": 44.967,
+      "dur": 1.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pezzo di carne",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di carne al sangue è tenuto in primo piano con una forchetta.",
+      "shot_idx": 23,
+      "start": 44.967,
+      "end": 46.8,
+      "dur": 1.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo mostra un pezzo di carne al sangue con una forchetta, con il piatto sullo sfondo.",
+      "shot_idx": 24,
+      "start": 46.8,
+      "end": 47.767,
+      "dur": 0.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta mangiando un piatto di carne e patatine in un ristorante.",
+      "shot_idx": 25,
+      "start": 47.767,
+      "end": 49.567,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha la bocca leggermente aperta mentre mastica il cibo.",
+      "shot_idx": 26,
+      "start": 49.567,
+      "end": 51.2,
+      "dur": 1.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride leggermente, mostrando soddisfazione per il cibo.",
+      "shot_idx": 27,
+      "start": 51.2,
+      "end": 52.2,
+      "dur": 1.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano spremi salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano sta spremendo una bustina di salsa sulle patatine fritte.",
+      "shot_idx": 28,
+      "start": 52.2,
+      "end": 53.767,
+      "dur": 1.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando una patatina fritta con la bocca aperta.",
+      "shot_idx": 29,
+      "start": 53.767,
+      "end": 56.067,
+      "dur": 2.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "due dessert bicchiere",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I due dessert in bicchiere, uno con un biscotto Oreo, sono il fulcro dell'immagine.",
+      "shot_idx": 30,
+      "start": 56.067,
+      "end": 59.067,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia biscotto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un biscotto, con un dessert in bicchiere in primo piano.",
+      "shot_idx": 31,
+      "start": 59.067,
+      "end": 60.5,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta assaggiando il dessert con un cucchiaino, concentrato sul cibo.",
+      "shot_idx": 32,
+      "start": 60.5,
+      "end": 62.067,
+      "dur": 1.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorride cucchiaio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera mentre tiene un cucchiaio con del dessert.",
+      "shot_idx": 33,
+      "start": 62.067,
+      "end": 63.533,
+      "dur": 1.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia dessert",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando il dessert, con un'espressione di gusto, e il secondo dessert è visibile sul tavolo.",
+      "shot_idx": 34,
+      "start": 63.533,
+      "end": 64.5,
+      "dur": 0.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il frame è completamente nero, non si distingue alcun dettaglio.",
+      "shot_idx": 35,
+      "start": 64.5,
+      "end": 65.0,
+      "dur": 0.5
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "Proviamo il nuovo menu gluten free di all dwell west tante nuove proposte senza glutine che potete trovare in tantissimi dei loro stor"
+    },
+    {
+      "start": 6.14,
+      "end": 12.2,
+      "text": "Iniziamo degli appetizer provando il loro nuggets di pollo serviti con l'iconica salsa all dwell west panatura gluten free"
+    },
+    {
+      "start": 12.2,
+      "end": 19.02,
+      "text": "super croccante ed uguali ai classici nuggets davvero davvero buoni grazie anche all'iconica salsa passiamo ora al bacon cheddar burger"
+    },
+    {
+      "start": 19.02,
+      "end": 26.44,
+      "text": "con ovviamente hamburger cheddar fuso pomodori un salata ketchup e beccone e procediamo quindi col test test di questo burger carne davvero davvero"
+    },
+    {
+      "start": 26.44,
+      "end": 30.68,
+      "text": "Buona e pane super morbido e croccante tanto da non distingue lo dò un panino classico"
+    },
+    {
+      "start": 30.68,
+      "end": 34.68,
+      "text": "Ho poi fatto assaggiare questo panino un'altra persona non ce li ha capo di sapere cosa ne pensasse"
+    },
+    {
+      "start": 34.68,
+      "end": 39.16,
+      "text": "da non ce li ha col pane davvero ottimo ed è identico al pane col gluten"
+    },
+    {
+      "start": 39.16,
+      "end": 44.08,
+      "text": "test test anche della rodeo steak ovvero la tagliata di filetto alla griglia con rucola"
+    },
+    {
+      "start": 44.08,
+      "end": 51.66,
+      "text": "patatini e fritte e salsa all dwell west cottura della carne davvero perfetta con la parte centrale della tagliata che davvero si scioglieva in bocca"
+    },
+    {
+      "start": 51.66,
+      "end": 59.02,
+      "text": "patatini salsa che chiaramente sono la combo perfetta e per concludere mini ice cookies e mini ice alla fragola ovviamente anche essi senza glutine"
+    },
+    {
+      "start": 59.02,
+      "end": 64.6,
+      "text": "un'ottima iniziativa che vi permette di avere a disposizione un ampio menu certificato senza glutine senza rinunciare il gusto"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "word": "Proviamo"
+    },
+    {
+      "start": 0.44,
+      "end": 0.56,
+      "word": "il"
+    },
+    {
+      "start": 0.56,
+      "end": 0.66,
+      "word": "nuovo"
+    },
+    {
+      "start": 0.66,
+      "end": 0.92,
+      "word": "menu"
+    },
+    {
+      "start": 0.92,
+      "end": 1.24,
+      "word": "gluten"
+    },
+    {
+      "start": 1.24,
+      "end": 1.54,
+      "word": "free"
+    },
+    {
+      "start": 1.54,
+      "end": 1.72,
+      "word": "di"
+    },
+    {
+      "start": 1.72,
+      "end": 1.8,
+      "word": "all"
+    },
+    {
+      "start": 1.8,
+      "end": 1.96,
+      "word": "dwell"
+    },
+    {
+      "start": 1.96,
+      "end": 2.36,
+      "word": "west"
+    },
+    {
+      "start": 2.36,
+      "end": 2.7,
+      "word": "tante"
+    },
+    {
+      "start": 2.7,
+      "end": 2.92,
+      "word": "nuove"
+    },
+    {
+      "start": 2.92,
+      "end": 3.36,
+      "word": "proposte"
+    },
+    {
+      "start": 3.36,
+      "end": 3.58,
+      "word": "senza"
+    },
+    {
+      "start": 3.58,
+      "end": 4.04,
+      "word": "glutine"
+    },
+    {
+      "start": 4.04,
+      "end": 4.2,
+      "word": "che"
+    },
+    {
+      "start": 4.2,
+      "end": 4.5,
+      "word": "potete"
+    },
+    {
+      "start": 4.5,
+      "end": 4.9,
+      "word": "trovare"
+    },
+    {
+      "start": 4.9,
+      "end": 5.02,
+      "word": "in"
+    },
+    {
+      "start": 5.02,
+      "end": 5.54,
+      "word": "tantissimi"
+    },
+    {
+      "start": 5.54,
+      "end": 5.68,
+      "word": "dei"
+    },
+    {
+      "start": 5.68,
+      "end": 5.84,
+      "word": "loro"
+    },
+    {
+      "start": 5.84,
+      "end": 6.14,
+      "word": "stor"
+    },
+    {
+      "start": 6.14,
+      "end": 6.52,
+      "word": "Iniziamo"
+    },
+    {
+      "start": 6.52,
+      "end": 6.78,
+      "word": "degli"
+    },
+    {
+      "start": 6.78,
+      "end": 7.34,
+      "word": "appetizer"
+    },
+    {
+      "start": 7.34,
+      "end": 7.72,
+      "word": "provando"
+    },
+    {
+      "start": 7.72,
+      "end": 7.84,
+      "word": "il"
+    },
+    {
+      "start": 7.84,
+      "end": 7.96,
+      "word": "loro"
+    },
+    {
+      "start": 7.96,
+      "end": 8.28,
+      "word": "nuggets"
+    },
+    {
+      "start": 8.28,
+      "end": 8.54,
+      "word": "di"
+    },
+    {
+      "start": 8.54,
+      "end": 8.82,
+      "word": "pollo"
+    },
+    {
+      "start": 8.82,
+      "end": 9.22,
+      "word": "serviti"
+    },
+    {
+      "start": 9.22,
+      "end": 9.38,
+      "word": "con"
+    },
+    {
+      "start": 9.38,
+      "end": 9.48,
+      "word": "l"
+    },
+    {
+      "start": 9.48,
+      "end": 9.82,
+      "word": "'iconica"
+    },
+    {
+      "start": 9.82,
+      "end": 10.12,
+      "word": "salsa"
+    },
+    {
+      "start": 10.12,
+      "end": 10.36,
+      "word": "all"
+    },
+    {
+      "start": 10.36,
+      "end": 10.44,
+      "word": "dwell"
+    },
+    {
+      "start": 10.44,
+      "end": 10.84,
+      "word": "west"
+    },
+    {
+      "start": 10.84,
+      "end": 11.38,
+      "word": "panatura"
+    },
+    {
+      "start": 11.38,
+      "end": 11.86,
+      "word": "gluten"
+    },
+    {
+      "start": 11.86,
+      "end": 12.2,
+      "word": "free"
+    },
+    {
+      "start": 12.2,
+      "end": 12.56,
+      "word": "super"
+    },
+    {
+      "start": 12.56,
+      "end": 13.1,
+      "word": "croccante"
+    },
+    {
+      "start": 13.1,
+      "end": 13.42,
+      "word": "ed"
+    },
+    {
+      "start": 13.42,
+      "end": 13.78,
+      "word": "uguali"
+    },
+    {
+      "start": 13.78,
+      "end": 13.9,
+      "word": "ai"
+    },
+    {
+      "start": 13.9,
+      "end": 14.28,
+      "word": "classici"
+    },
+    {
+      "start": 14.28,
+      "end": 14.58,
+      "word": "nuggets"
+    },
+    {
+      "start": 14.58,
+      "end": 15.04,
+      "word": "davvero"
+    },
+    {
+      "start": 15.04,
+      "end": 15.32,
+      "word": "davvero"
+    },
+    {
+      "start": 15.32,
+      "end": 15.62,
+      "word": "buoni"
+    },
+    {
+      "start": 15.62,
+      "end": 16.02,
+      "word": "grazie"
+    },
+    {
+      "start": 16.02,
+      "end": 16.2,
+      "word": "anche"
+    },
+    {
+      "start": 16.2,
+      "end": 16.36,
+      "word": "all"
+    },
+    {
+      "start": 16.36,
+      "end": 16.68,
+      "word": "'iconica"
+    },
+    {
+      "start": 16.68,
+      "end": 17.02,
+      "word": "salsa"
+    },
+    {
+      "start": 17.02,
+      "end": 17.62,
+      "word": "passiamo"
+    },
+    {
+      "start": 17.62,
+      "end": 17.9,
+      "word": "ora"
+    },
+    {
+      "start": 17.9,
+      "end": 18.06,
+      "word": "al"
+    },
+    {
+      "start": 18.06,
+      "end": 18.22,
+      "word": "bacon"
+    },
+    {
+      "start": 18.22,
+      "end": 18.54,
+      "word": "cheddar"
+    },
+    {
+      "start": 18.54,
+      "end": 19.02,
+      "word": "burger"
+    },
+    {
+      "start": 19.02,
+      "end": 19.26,
+      "word": "con"
+    },
+    {
+      "start": 19.26,
+      "end": 19.56,
+      "word": "ovviamente"
+    },
+    {
+      "start": 19.56,
+      "end": 20.08,
+      "word": "hamburger"
+    },
+    {
+      "start": 20.08,
+      "end": 20.5,
+      "word": "cheddar"
+    },
+    {
+      "start": 20.5,
+      "end": 20.9,
+      "word": "fuso"
+    },
+    {
+      "start": 20.9,
+      "end": 21.44,
+      "word": "pomodori"
+    },
+    {
+      "start": 21.44,
+      "end": 21.56,
+      "word": "un"
+    },
+    {
+      "start": 21.56,
+      "end": 21.82,
+      "word": "salata"
+    },
+    {
+      "start": 21.82,
+      "end": 22.26,
+      "word": "ketchup"
+    },
+    {
+      "start": 22.26,
+      "end": 22.6,
+      "word": "e"
+    },
+    {
+      "start": 22.6,
+      "end": 22.98,
+      "word": "beccone"
+    },
+    {
+      "start": 22.98,
+      "end": 23.1,
+      "word": "e"
+    },
+    {
+      "start": 23.1,
+      "end": 23.5,
+      "word": "procediamo"
+    },
+    {
+      "start": 23.5,
+      "end": 23.72,
+      "word": "quindi"
+    },
+    {
+      "start": 23.72,
+      "end": 24.02,
+      "word": "col"
+    },
+    {
+      "start": 24.02,
+      "end": 24.16,
+      "word": "test"
+    },
+    {
+      "start": 24.16,
+      "end": 24.48,
+      "word": "test"
+    },
+    {
+      "start": 24.48,
+      "end": 24.62,
+      "word": "di"
+    },
+    {
+      "start": 24.62,
+      "end": 24.82,
+      "word": "questo"
+    },
+    {
+      "start": 24.82,
+      "end": 25.12,
+      "word": "burger"
+    },
+    {
+      "start": 25.12,
+      "end": 25.48,
+      "word": "carne"
+    },
+    {
+      "start": 25.48,
+      "end": 26.0,
+      "word": "davvero"
+    },
+    {
+      "start": 26.0,
+      "end": 26.44,
+      "word": "davvero"
+    },
+    {
+      "start": 26.44,
+      "end": 26.82,
+      "word": "Buona"
+    },
+    {
+      "start": 26.82,
+      "end": 27.04,
+      "word": "e"
+    },
+    {
+      "start": 27.04,
+      "end": 27.28,
+      "word": "pane"
+    },
+    {
+      "start": 27.28,
+      "end": 27.6,
+      "word": "super"
+    },
+    {
+      "start": 27.6,
+      "end": 28.1,
+      "word": "morbido"
+    },
+    {
+      "start": 28.1,
+      "end": 28.2,
+      "word": "e"
+    },
+    {
+      "start": 28.2,
+      "end": 28.62,
+      "word": "croccante"
+    },
+    {
+      "start": 28.62,
+      "end": 28.9,
+      "word": "tanto"
+    },
+    {
+      "start": 28.9,
+      "end": 29.06,
+      "word": "da"
+    },
+    {
+      "start": 29.06,
+      "end": 29.18,
+      "word": "non"
+    },
+    {
+      "start": 29.18,
+      "end": 29.6,
+      "word": "distingue"
+    },
+    {
+      "start": 29.6,
+      "end": 29.72,
+      "word": "lo"
+    },
+    {
+      "start": 29.72,
+      "end": 29.82,
+      "word": "dò"
+    },
+    {
+      "start": 29.82,
+      "end": 29.92,
+      "word": "un"
+    },
+    {
+      "start": 29.92,
+      "end": 30.18,
+      "word": "panino"
+    },
+    {
+      "start": 30.18,
+      "end": 30.68,
+      "word": "classico"
+    },
+    {
+      "start": 30.68,
+      "end": 30.82,
+      "word": "Ho"
+    },
+    {
+      "start": 30.82,
+      "end": 30.9,
+      "word": "poi"
+    },
+    {
+      "start": 30.9,
+      "end": 31.06,
+      "word": "fatto"
+    },
+    {
+      "start": 31.06,
+      "end": 31.46,
+      "word": "assaggiare"
+    },
+    {
+      "start": 31.46,
+      "end": 31.7,
+      "word": "questo"
+    },
+    {
+      "start": 31.7,
+      "end": 32.08,
+      "word": "panino"
+    },
+    {
+      "start": 32.08,
+      "end": 32.2,
+      "word": "un"
+    },
+    {
+      "start": 32.2,
+      "end": 32.3,
+      "word": "'altra"
+    },
+    {
+      "start": 32.3,
+      "end": 32.7,
+      "word": "persona"
+    },
+    {
+      "start": 32.7,
+      "end": 32.96,
+      "word": "non"
+    },
+    {
+      "start": 32.96,
+      "end": 33.12,
+      "word": "ce"
+    },
+    {
+      "start": 33.12,
+      "end": 33.22,
+      "word": "li"
+    },
+    {
+      "start": 33.22,
+      "end": 33.34,
+      "word": "ha"
+    },
+    {
+      "start": 33.34,
+      "end": 33.48,
+      "word": "capo"
+    },
+    {
+      "start": 33.48,
+      "end": 33.62,
+      "word": "di"
+    },
+    {
+      "start": 33.62,
+      "end": 33.86,
+      "word": "sapere"
+    },
+    {
+      "start": 33.86,
+      "end": 34.0,
+      "word": "cosa"
+    },
+    {
+      "start": 34.0,
+      "end": 34.14,
+      "word": "ne"
+    },
+    {
+      "start": 34.14,
+      "end": 34.68,
+      "word": "pensasse"
+    },
+    {
+      "start": 34.68,
+      "end": 34.94,
+      "word": "da"
+    },
+    {
+      "start": 34.94,
+      "end": 35.12,
+      "word": "non"
+    },
+    {
+      "start": 35.12,
+      "end": 35.24,
+      "word": "ce"
+    },
+    {
+      "start": 35.24,
+      "end": 35.32,
+      "word": "li"
+    },
+    {
+      "start": 35.32,
+      "end": 35.38,
+      "word": "ha"
+    },
+    {
+      "start": 35.38,
+      "end": 35.54,
+      "word": "col"
+    },
+    {
+      "start": 35.54,
+      "end": 35.74,
+      "word": "pane"
+    },
+    {
+      "start": 35.74,
+      "end": 36.3,
+      "word": "davvero"
+    },
+    {
+      "start": 36.3,
+      "end": 36.86,
+      "word": "ottimo"
+    },
+    {
+      "start": 36.86,
+      "end": 37.36,
+      "word": "ed"
+    },
+    {
+      "start": 37.36,
+      "end": 37.46,
+      "word": "è"
+    },
+    {
+      "start": 37.46,
+      "end": 38.2,
+      "word": "identico"
+    },
+    {
+      "start": 38.2,
+      "end": 38.46,
+      "word": "al"
+    },
+    {
+      "start": 38.46,
+      "end": 38.6,
+      "word": "pane"
+    },
+    {
+      "start": 38.6,
+      "end": 38.82,
+      "word": "col"
+    },
+    {
+      "start": 38.82,
+      "end": 39.16,
+      "word": "gluten"
+    },
+    {
+      "start": 39.16,
+      "end": 39.7,
+      "word": "test"
+    },
+    {
+      "start": 39.7,
+      "end": 40.1,
+      "word": "test"
+    },
+    {
+      "start": 40.1,
+      "end": 40.48,
+      "word": "anche"
+    },
+    {
+      "start": 40.48,
+      "end": 40.72,
+      "word": "della"
+    },
+    {
+      "start": 40.72,
+      "end": 41.02,
+      "word": "rodeo"
+    },
+    {
+      "start": 41.02,
+      "end": 41.38,
+      "word": "steak"
+    },
+    {
+      "start": 41.38,
+      "end": 41.84,
+      "word": "ovvero"
+    },
+    {
+      "start": 41.84,
+      "end": 42.0,
+      "word": "la"
+    },
+    {
+      "start": 42.0,
+      "end": 42.42,
+      "word": "tagliata"
+    },
+    {
+      "start": 42.42,
+      "end": 42.6,
+      "word": "di"
+    },
+    {
+      "start": 42.6,
+      "end": 42.96,
+      "word": "filetto"
+    },
+    {
+      "start": 42.96,
+      "end": 43.14,
+      "word": "alla"
+    },
+    {
+      "start": 43.14,
+      "end": 43.5,
+      "word": "griglia"
+    },
+    {
+      "start": 43.5,
+      "end": 43.68,
+      "word": "con"
+    },
+    {
+      "start": 43.68,
+      "end": 44.08,
+      "word": "rucola"
+    },
+    {
+      "start": 44.08,
+      "end": 44.6,
+      "word": "patatini"
+    },
+    {
+      "start": 44.6,
+      "end": 44.68,
+      "word": "e"
+    },
+    {
+      "start": 44.68,
+      "end": 44.96,
+      "word": "fritte"
+    },
+    {
+      "start": 44.96,
+      "end": 45.28,
+      "word": "e"
+    },
+    {
+      "start": 45.28,
+      "end": 45.48,
+      "word": "salsa"
+    },
+    {
+      "start": 45.48,
+      "end": 45.92,
+      "word": "all"
+    },
+    {
+      "start": 45.92,
+      "end": 46.06,
+      "word": "dwell"
+    },
+    {
+      "start": 46.06,
+      "end": 46.44,
+      "word": "west"
+    },
+    {
+      "start": 46.44,
+      "end": 46.84,
+      "word": "cottura"
+    },
+    {
+      "start": 46.84,
+      "end": 47.02,
+      "word": "della"
+    },
+    {
+      "start": 47.02,
+      "end": 47.38,
+      "word": "carne"
+    },
+    {
+      "start": 47.38,
+      "end": 47.92,
+      "word": "davvero"
+    },
+    {
+      "start": 47.92,
+      "end": 48.5,
+      "word": "perfetta"
+    },
+    {
+      "start": 48.5,
+      "end": 48.7,
+      "word": "con"
+    },
+    {
+      "start": 48.7,
+      "end": 48.82,
+      "word": "la"
+    },
+    {
+      "start": 48.82,
+      "end": 49.0,
+      "word": "parte"
+    },
+    {
+      "start": 49.0,
+      "end": 49.56,
+      "word": "centrale"
+    },
+    {
+      "start": 49.56,
+      "end": 49.78,
+      "word": "della"
+    },
+    {
+      "start": 49.78,
+      "end": 50.16,
+      "word": "tagliata"
+    },
+    {
+      "start": 50.16,
+      "end": 50.32,
+      "word": "che"
+    },
+    {
+      "start": 50.32,
+      "end": 50.68,
+      "word": "davvero"
+    },
+    {
+      "start": 50.68,
+      "end": 50.88,
+      "word": "si"
+    },
+    {
+      "start": 50.88,
+      "end": 51.26,
+      "word": "scioglieva"
+    },
+    {
+      "start": 51.26,
+      "end": 51.36,
+      "word": "in"
+    },
+    {
+      "start": 51.36,
+      "end": 51.66,
+      "word": "bocca"
+    },
+    {
+      "start": 51.66,
+      "end": 52.02,
+      "word": "patatini"
+    },
+    {
+      "start": 52.02,
+      "end": 52.32,
+      "word": "salsa"
+    },
+    {
+      "start": 52.32,
+      "end": 52.56,
+      "word": "che"
+    },
+    {
+      "start": 52.56,
+      "end": 53.04,
+      "word": "chiaramente"
+    },
+    {
+      "start": 53.04,
+      "end": 53.3,
+      "word": "sono"
+    },
+    {
+      "start": 53.3,
+      "end": 53.44,
+      "word": "la"
+    },
+    {
+      "start": 53.44,
+      "end": 53.62,
+      "word": "combo"
+    },
+    {
+      "start": 53.62,
+      "end": 54.24,
+      "word": "perfetta"
+    },
+    {
+      "start": 54.24,
+      "end": 54.42,
+      "word": "e"
+    },
+    {
+      "start": 54.42,
+      "end": 54.56,
+      "word": "per"
+    },
+    {
+      "start": 54.56,
+      "end": 55.12,
+      "word": "concludere"
+    },
+    {
+      "start": 55.12,
+      "end": 55.4,
+      "word": "mini"
+    },
+    {
+      "start": 55.4,
+      "end": 55.56,
+      "word": "ice"
+    },
+    {
+      "start": 55.56,
+      "end": 55.86,
+      "word": "cookies"
+    },
+    {
+      "start": 55.86,
+      "end": 56.26,
+      "word": "e"
+    },
+    {
+      "start": 56.26,
+      "end": 56.5,
+      "word": "mini"
+    },
+    {
+      "start": 56.5,
+      "end": 56.74,
+      "word": "ice"
+    },
+    {
+      "start": 56.74,
+      "end": 56.88,
+      "word": "alla"
+    },
+    {
+      "start": 56.88,
+      "end": 57.32,
+      "word": "fragola"
+    },
+    {
+      "start": 57.32,
+      "end": 57.7,
+      "word": "ovviamente"
+    },
+    {
+      "start": 57.7,
+      "end": 57.96,
+      "word": "anche"
+    },
+    {
+      "start": 57.96,
+      "end": 58.28,
+      "word": "essi"
+    },
+    {
+      "start": 58.28,
+      "end": 58.46,
+      "word": "senza"
+    },
+    {
+      "start": 58.46,
+      "end": 59.02,
+      "word": "glutine"
+    },
+    {
+      "start": 59.02,
+      "end": 59.24,
+      "word": "un"
+    },
+    {
+      "start": 59.24,
+      "end": 59.46,
+      "word": "'ottima"
+    },
+    {
+      "start": 59.46,
+      "end": 60.0,
+      "word": "iniziativa"
+    },
+    {
+      "start": 60.0,
+      "end": 60.12,
+      "word": "che"
+    },
+    {
+      "start": 60.12,
+      "end": 60.22,
+      "word": "vi"
+    },
+    {
+      "start": 60.22,
+      "end": 60.66,
+      "word": "permette"
+    },
+    {
+      "start": 60.66,
+      "end": 60.78,
+      "word": "di"
+    },
+    {
+      "start": 60.78,
+      "end": 61.0,
+      "word": "avere"
+    },
+    {
+      "start": 61.0,
+      "end": 61.1,
+      "word": "a"
+    },
+    {
+      "start": 61.1,
+      "end": 61.66,
+      "word": "disposizione"
+    },
+    {
+      "start": 61.66,
+      "end": 61.8,
+      "word": "un"
+    },
+    {
+      "start": 61.8,
+      "end": 62.04,
+      "word": "ampio"
+    },
+    {
+      "start": 62.04,
+      "end": 62.24,
+      "word": "menu"
+    },
+    {
+      "start": 62.24,
+      "end": 62.88,
+      "word": "certificato"
+    },
+    {
+      "start": 62.88,
+      "end": 63.04,
+      "word": "senza"
+    },
+    {
+      "start": 63.04,
+      "end": 63.52,
+      "word": "glutine"
+    },
+    {
+      "start": 63.52,
+      "end": 63.72,
+      "word": "senza"
+    },
+    {
+      "start": 63.72,
+      "end": 64.24,
+      "word": "rinunciare"
+    },
+    {
+      "start": 64.24,
+      "end": 64.32,
+      "word": "il"
+    },
+    {
+      "start": 64.32,
+      "end": 64.6,
+      "word": "gusto"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "transcript": "Proviamo il nuovo menu gluten free di all dwell"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 4.067,
+      "dur": 2.0,
+      "transcript": "west tante nuove proposte senza glutine"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.067,
+      "end": 6.033,
+      "dur": 1.967,
+      "transcript": "che potete trovare in tantissimi dei loro stor"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.033,
+      "end": 7.767,
+      "dur": 1.733,
+      "transcript": "Iniziamo degli appetizer provando"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.767,
+      "end": 9.767,
+      "dur": 2.0,
+      "transcript": "il loro nuggets di pollo serviti con l 'iconica"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.767,
+      "end": 10.933,
+      "dur": 1.167,
+      "transcript": "salsa all dwell west"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.933,
+      "end": 12.733,
+      "dur": 1.8,
+      "transcript": "panatura gluten free super"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.733,
+      "end": 14.3,
+      "dur": 1.567,
+      "transcript": "croccante ed uguali ai classici"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.3,
+      "end": 15.767,
+      "dur": 1.467,
+      "transcript": "nuggets davvero davvero buoni"
+    },
+    {
+      "shot_idx": 9,
+      "start": 15.767,
+      "end": 16.8,
+      "dur": 1.033,
+      "transcript": "grazie anche all 'iconica"
+    },
+    {
+      "shot_idx": 10,
+      "start": 16.8,
+      "end": 18.233,
+      "dur": 1.433,
+      "transcript": "salsa passiamo ora al bacon"
+    },
+    {
+      "shot_idx": 11,
+      "start": 18.233,
+      "end": 19.667,
+      "dur": 1.433,
+      "transcript": "cheddar burger con ovviamente"
+    },
+    {
+      "shot_idx": 12,
+      "start": 19.667,
+      "end": 24.133,
+      "dur": 4.467,
+      "transcript": "hamburger cheddar fuso pomodori un salata ketchup e beccone e procediamo quindi col test"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.133,
+      "end": 26.3,
+      "dur": 2.167,
+      "transcript": "test di questo burger carne davvero davvero"
+    },
+    {
+      "shot_idx": 14,
+      "start": 26.3,
+      "end": 28.067,
+      "dur": 1.767,
+      "transcript": "Buona e pane super morbido"
+    },
+    {
+      "shot_idx": 15,
+      "start": 28.067,
+      "end": 29.9,
+      "dur": 1.833,
+      "transcript": "e croccante tanto da non distingue lo dò un"
+    },
+    {
+      "shot_idx": 16,
+      "start": 29.9,
+      "end": 31.5,
+      "dur": 1.6,
+      "transcript": "panino classico Ho poi fatto assaggiare"
+    },
+    {
+      "shot_idx": 17,
+      "start": 31.5,
+      "end": 32.667,
+      "dur": 1.167,
+      "transcript": "questo panino un 'altra persona"
+    },
+    {
+      "shot_idx": 18,
+      "start": 32.667,
+      "end": 34.733,
+      "dur": 2.067,
+      "transcript": "non ce li ha capo di sapere cosa ne pensasse"
+    },
+    {
+      "shot_idx": 19,
+      "start": 34.733,
+      "end": 39.4,
+      "dur": 4.667,
+      "transcript": "da non ce li ha col pane davvero ottimo ed è identico al pane col gluten"
+    },
+    {
+      "shot_idx": 20,
+      "start": 39.4,
+      "end": 41.367,
+      "dur": 1.967,
+      "transcript": "test test anche della rodeo steak"
+    },
+    {
+      "shot_idx": 21,
+      "start": 41.367,
+      "end": 43.4,
+      "dur": 2.033,
+      "transcript": "ovvero la tagliata di filetto alla griglia"
+    },
+    {
+      "shot_idx": 22,
+      "start": 43.4,
+      "end": 44.967,
+      "dur": 1.567,
+      "transcript": "con rucola patatini e fritte"
+    },
+    {
+      "shot_idx": 23,
+      "start": 44.967,
+      "end": 46.8,
+      "dur": 1.833,
+      "transcript": "e salsa all dwell west cottura"
+    },
+    {
+      "shot_idx": 24,
+      "start": 46.8,
+      "end": 47.767,
+      "dur": 0.967,
+      "transcript": "della carne davvero"
+    },
+    {
+      "shot_idx": 25,
+      "start": 47.767,
+      "end": 49.567,
+      "dur": 1.8,
+      "transcript": "perfetta con la parte centrale"
+    },
+    {
+      "shot_idx": 26,
+      "start": 49.567,
+      "end": 51.2,
+      "dur": 1.633,
+      "transcript": "della tagliata che davvero si scioglieva"
+    },
+    {
+      "shot_idx": 27,
+      "start": 51.2,
+      "end": 52.2,
+      "dur": 1.0,
+      "transcript": "in bocca patatini salsa"
+    },
+    {
+      "shot_idx": 28,
+      "start": 52.2,
+      "end": 53.767,
+      "dur": 1.567,
+      "transcript": "che chiaramente sono la combo"
+    },
+    {
+      "shot_idx": 29,
+      "start": 53.767,
+      "end": 56.067,
+      "dur": 2.3,
+      "transcript": "perfetta e per concludere mini ice cookies e"
+    },
+    {
+      "shot_idx": 30,
+      "start": 56.067,
+      "end": 59.067,
+      "dur": 3.0,
+      "transcript": "mini ice alla fragola ovviamente anche essi senza glutine"
+    },
+    {
+      "shot_idx": 31,
+      "start": 59.067,
+      "end": 60.5,
+      "dur": 1.433,
+      "transcript": "un 'ottima iniziativa che vi permette"
+    },
+    {
+      "shot_idx": 32,
+      "start": 60.5,
+      "end": 62.067,
+      "dur": 1.567,
+      "transcript": "di avere a disposizione un ampio"
+    },
+    {
+      "shot_idx": 33,
+      "start": 62.067,
+      "end": 63.533,
+      "dur": 1.467,
+      "transcript": "menu certificato senza glutine"
+    },
+    {
+      "shot_idx": 34,
+      "start": 63.533,
+      "end": 64.5,
+      "dur": 0.967,
+      "transcript": "senza rinunciare il gusto"
+    },
+    {
+      "shot_idx": 35,
+      "start": 64.5,
+      "end": 65.0,
+      "dur": 0.5,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Proviamo il nuovo menu gluten free di all dwell west tante nuove proposte senza glutine che potete trovare in tantissimi dei loro stor Iniziamo degli appetizer provando il loro nuggets di pollo serviti con l'iconica salsa all dwell west panatura gluten free super croccante ed uguali ai classici nuggets davvero davvero buoni grazie anche all'iconica salsa passiamo ora al bacon cheddar burger con ovviamente hamburger cheddar fuso pomodori un salata ketchup e beccone e procediamo quindi col test test di questo burger carne davvero davvero Buona e pane super morbido e croccante tanto da non distingue lo dò un panino classico Ho poi fatto assaggiare questo panino un'altra persona non ce li ha capo di sapere cosa ne pensasse da non ce li ha col pane davvero ottimo ed è identico al pane col gluten test test anche della rodeo steak ovvero la tagliata di filetto alla griglia con rucola patatini e fritte e salsa all dwell west cottura della carne davvero perfetta con la parte centrale della tagliata che davvero si scioglieva in bocca patatini salsa che chiaramente sono la combo perfetta e per concludere mini ice cookies e mini ice alla fragola ovviamente anche essi senza glutine un'ottima iniziativa che vi permette di avere a disposizione un ampio menu certificato senza glutine senza rinunciare il gusto",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

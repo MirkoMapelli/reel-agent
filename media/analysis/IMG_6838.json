@@ -1,0 +1,123 @@
+{
+  "name": "IMG_6838.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6838.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 29.97,
+    "duration": 16.27,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "duration": 2.0,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_000_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 85.1,
+      "brightness": 137.5,
+      "contrast": 71.8,
+      "blur_score": 302.4
+    },
+    {
+      "idx": 1,
+      "start": 2.0,
+      "end": 3.5,
+      "duration": 1.5,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_001_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 87.2,
+      "brightness": 150.9,
+      "contrast": 61.9,
+      "blur_score": 311.2
+    },
+    {
+      "idx": 2,
+      "start": 3.5,
+      "end": 5.9,
+      "duration": 2.4,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_002_sheet.jpg",
+      "motion_type": "handheld",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 96.6,
+      "brightness": 157.1,
+      "contrast": 57.2,
+      "blur_score": 296.6
+    },
+    {
+      "idx": 3,
+      "start": 5.9,
+      "end": 9.1,
+      "duration": 3.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_003_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 97.9,
+      "brightness": 141.8,
+      "contrast": 67.5,
+      "blur_score": 417.9
+    },
+    {
+      "idx": 4,
+      "start": 9.1,
+      "end": 11.2,
+      "duration": 2.1,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_004_sheet.jpg",
+      "motion_type": "tilt_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 69.3,
+      "brightness": 142.7,
+      "contrast": 72.5,
+      "blur_score": 334.4
+    },
+    {
+      "idx": 5,
+      "start": 11.2,
+      "end": 13.4,
+      "duration": 2.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_005_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 86.1,
+      "brightness": 146.5,
+      "contrast": 70.8,
+      "blur_score": 415.1
+    },
+    {
+      "idx": 6,
+      "start": 13.4,
+      "end": 16.27,
+      "duration": 2.87,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6838/scene_006_sheet.jpg",
+      "motion_type": "pan_fast",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 84.2,
+      "brightness": 147.5,
+      "contrast": 66.9,
+      "blur_score": 332.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Sottotitoli e revisione a cura di QTSS"
+    }
+  ],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6838.wav"
+}

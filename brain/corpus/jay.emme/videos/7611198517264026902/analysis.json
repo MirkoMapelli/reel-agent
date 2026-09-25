@@ -1,0 +1,4947 @@
+{
+  "video_id": "7611198517264026902",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7611198517264026902",
+    "ref_id": "ref_32_7611198517264026902",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7611198517264026902",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 63,
+  "total_dur": 121.7,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "dur": 2.1,
+      "center": 1.05,
+      "role": "person_eating",
+      "subject": "uomo con calice vino",
+      "description": "Un uomo sorridente tiene in mano un calice di vino rosso, con un grande piatto di carne in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "La vera carne argentina a Milano? Oggi ragazzi"
+    },
+    {
+      "idx": 1,
+      "start": 2.1,
+      "end": 3.9,
+      "dur": 1.8,
+      "center": 3.0,
+      "role": "food_detail",
+      "subject": "carne alla griglia",
+      "description": "Una forchetta infilza un pezzo di carne al sangue su un grande piatto di carne mista.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "proviamo il primo ristorante argentino in"
+    },
+    {
+      "idx": 2,
+      "start": 3.9,
+      "end": 5.7,
+      "dur": 1.8,
+      "center": 4.8,
+      "role": "food_plated",
+      "subject": "piatto carne mista",
+      "description": "Un grande piatto ovale di carne mista alla griglia con salsiccia e verdure.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Italia. Siamo da Don Juan, in Via Alta"
+    },
+    {
+      "idx": 3,
+      "start": 5.7,
+      "end": 7.3,
+      "dur": 1.6,
+      "center": 6.5,
+      "role": "person_eating",
+      "subject": "uomo con dessert",
+      "description": "Un uomo tiene in mano due piatti di dessert, sorridendo leggermente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Guardia, in Porta Romana. Uno dei migliori"
+    },
+    {
+      "idx": 4,
+      "start": 7.3,
+      "end": 8.8,
+      "dur": 1.5,
+      "center": 8.05,
+      "role": "venue_exterior",
+      "subject": "ingresso ristorante",
+      "description": "L'ingresso di un ristorante con una tenda rossa e la scritta 'don juan ristorante argentino'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "ristoranti di tutta Italia, con una"
+    },
+    {
+      "idx": 5,
+      "start": 8.8,
+      "end": 11.3,
+      "dur": 2.5,
+      "center": 10.05,
+      "role": "venue_interior_wide",
+      "subject": "sala ristorante elegante",
+      "description": "L'ambiente del ristorante con pareti rosse e tavoli apparecchiati.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "location molto curata ed elegante, e dove, essendo stavato"
+    },
+    {
+      "idx": 6,
+      "start": 11.3,
+      "end": 12.7,
+      "dur": 1.4,
+      "center": 12.0,
+      "role": "venue_interior_detail",
+      "subject": "cucina a vista",
+      "description": "La cucina a vista con attrezzature in acciaio e decorazioni a tema bovino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "a pranzo, abbiamo provato la loro promozione"
+    },
+    {
+      "idx": 7,
+      "start": 12.7,
+      "end": 14.733,
+      "dur": 2.033,
+      "center": 13.717,
+      "role": "food_plated",
+      "subject": "vassoio pane salse",
+      "description": "Un vassoio d'argento con vari tipi di pane e una ciotolina di paté.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "grillata libera. Iniziando con questo bassolletto"
+    },
+    {
+      "idx": 8,
+      "start": 14.733,
+      "end": 16.7,
+      "dur": 1.967,
+      "center": 15.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia focaccia",
+      "description": "Un ragazzo che addenta un pezzo di focaccia con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "di pane, con un po' di focaccia e crostini"
+    },
+    {
+      "idx": 9,
+      "start": 16.7,
+      "end": 17.933,
+      "dur": 1.233,
+      "center": 17.317,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo",
+      "description": "Lo stesso ragazzo che mangia un boccone di pollo, con un'espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "col paté di pollo, poi un bel"
+    },
+    {
+      "idx": 10,
+      "start": 17.933,
+      "end": 19.967,
+      "dur": 2.033,
+      "center": 18.95,
+      "role": "drink_detail",
+      "subject": "bicchiere vino rosso",
+      "description": "Un bicchiere di vino rosso e una bottiglia di vino con l'etichetta 'Don J' su un tavolo bianco.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "bicchiere di questo malbec argentino"
+    },
+    {
+      "idx": 11,
+      "start": 19.967,
+      "end": 22.4,
+      "dur": 2.433,
+      "center": 21.183,
+      "role": "hands_gesture",
+      "subject": "mano che tiene bicchiere",
+      "description": "Una mano tiene un bicchiere di vino rosso, con un vassoio di pane in primo piano e un ambiente sfocato sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "marchiato Don Juan del 2022, che nonostante"
+    },
+    {
+      "idx": 12,
+      "start": 22.4,
+      "end": 24.133,
+      "dur": 1.733,
+      "center": 23.267,
+      "role": "person_eating",
+      "subject": "ragazzo che beve vino",
+      "description": "Un ragazzo beve da un bicchiere di vino rosso, seduto a un tavolo con un tovagliolo piegato a forma di fiore.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "non sia un amante del vino, comunque apprezzato,"
+    },
+    {
+      "idx": 13,
+      "start": 24.133,
+      "end": 26.333,
+      "dur": 2.2,
+      "center": 25.233,
+      "role": "food_detail",
+      "subject": "formaggio fuso erbe",
+      "description": "Un piatto di formaggio fuso con erbe e olio, servito in una padella di ghisa nera.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "non essendo troppo forte, e dopo di che siamo passati subito"
+    },
+    {
+      "idx": 14,
+      "start": 26.333,
+      "end": 28.3,
+      "dur": 1.967,
+      "center": 27.317,
+      "role": "food_plated",
+      "subject": "antipasti serviti",
+      "description": "Delle mani tengono un piatto con due antipasti, uno fritto e uno a base di mais, sopra un tavolo con altri piatti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "agli antipasti con questa provoletta"
+    },
+    {
+      "idx": 15,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0,
+      "center": 29.3,
+      "role": "food_detail",
+      "subject": "formaggio fuso ciotola",
+      "description": "Una ciotola di formaggio fuso con erbe e olio, con un cucchiaio che lo mescola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "alla Parria, ovvero questa fetta di provola"
+    },
+    {
+      "idx": 16,
+      "start": 30.3,
+      "end": 31.467,
+      "dur": 1.167,
+      "center": 30.883,
+      "role": "food_detail",
+      "subject": "formaggio fuso forchetta",
+      "description": "Una mano tiene una forchetta con del formaggio fuso, mentre sullo sfondo si intravede un piatto vuoto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ben condita e servita su"
+    },
+    {
+      "idx": 17,
+      "start": 31.467,
+      "end": 32.833,
+      "dur": 1.367,
+      "center": 32.15,
+      "role": "person_eating",
+      "subject": "ragazzo tiene pane",
+      "description": "Un ragazzo tiene in mano un pezzo di pane con formaggio fuso, guardando verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "questa griglia bollente, tanto"
+    },
+    {
+      "idx": 18,
+      "start": 32.833,
+      "end": 34.333,
+      "dur": 1.5,
+      "center": 33.583,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pane",
+      "description": "Il ragazzo sta per addentare il pezzo di pane con formaggio fuso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "da renderla bella morbida, ma allo"
+    },
+    {
+      "idx": 19,
+      "start": 34.333,
+      "end": 35.8,
+      "dur": 1.467,
+      "center": 35.067,
+      "role": "food_detail",
+      "subject": "pane formaggio primo piano",
+      "description": "Un pezzo di pane con formaggio fuso e erbe è tenuto in primo piano, con il ragazzo sorridente sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "stesso tempo con uno strato ben"
+    },
+    {
+      "idx": 20,
+      "start": 35.8,
+      "end": 38.367,
+      "dur": 2.567,
+      "center": 37.083,
+      "role": "person_eating",
+      "subject": "ragazzo mangia focaccia",
+      "description": "Il ragazzo sta mangiando un pezzo di focaccia con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "croccante. Dopo di che siamo passati alle empanadas con prosciutte"
+    },
+    {
+      "idx": 21,
+      "start": 38.367,
+      "end": 40.367,
+      "dur": 2.0,
+      "center": 39.367,
+      "role": "food_detail",
+      "subject": "mani tagliano cibo fritto",
+      "description": "Due mani stanno tagliando un pezzo di cibo fritto su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "formaggio, fritta ma per niente unta, e col"
+    },
+    {
+      "idx": 22,
+      "start": 40.367,
+      "end": 43.433,
+      "dur": 3.067,
+      "center": 41.9,
+      "role": "person_eating",
+      "subject": "ragazzo mangia cibo fritto",
+      "description": "Il ragazzo sta mangiando un pezzo di cibo fritto con la bocca aperta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "formaggio bello filante, e questa sorta di fettere di tortiglia di patate"
+    },
+    {
+      "idx": 23,
+      "start": 43.433,
+      "end": 44.2,
+      "dur": 0.767,
+      "center": 43.817,
+      "role": "person_eating",
+      "subject": "ragazzo mostra formaggio filante",
+      "description": "Il ragazzo tiene in mano un pezzo di cibo fritto con formaggio filante.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto buona. Ed"
+    },
+    {
+      "idx": 24,
+      "start": 44.2,
+      "end": 46.0,
+      "dur": 1.8,
+      "center": 45.1,
+      "role": "food_detail",
+      "subject": "mani tagliano frittata",
+      "description": "Due mani stanno tagliando una frittata dorata su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "arrivando al punto forte di questo menu speciale"
+    },
+    {
+      "idx": 25,
+      "start": 46.0,
+      "end": 47.833,
+      "dur": 1.833,
+      "center": 46.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia cibo",
+      "description": "Un ragazzo sta mangiando un boccone di cibo con una forchetta, con uno sfondo rosso e un quadro.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "per sabato a pranzo, con soli 45"
+    },
+    {
+      "idx": 26,
+      "start": 47.833,
+      "end": 50.867,
+      "dur": 3.033,
+      "center": 49.35,
+      "role": "food_plated",
+      "subject": "grigliata mista carne",
+      "description": "Un grande piatto ovale di carne grigliata con spiedini e verdure, con un logo a forma di mucca.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "euro per su, avete anche questa grillata mista, che vi permette di provare più"
+    },
+    {
+      "idx": 27,
+      "start": 50.867,
+      "end": 52.6,
+      "dur": 1.733,
+      "center": 51.733,
+      "role": "person_eating",
+      "subject": "ragazzo bicchiere vino",
+      "description": "Il ragazzo del primo frame sorride tenendo in mano un bicchiere di vino rosso, con la grigliata in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "tagli, tra cui ovviamente l 'entra in"
+    },
+    {
+      "idx": 28,
+      "start": 52.6,
+      "end": 55.1,
+      "dur": 2.5,
+      "center": 53.85,
+      "role": "food_detail",
+      "subject": "dettaglio carne grigliata",
+      "description": "Un primo piano della carne grigliata con sale grosso e spiedini, con un logo a forma di mucca.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Argentino, ovvero gli Aframma, dello scamone e dell 'asadodetiera"
+    },
+    {
+      "idx": 29,
+      "start": 55.1,
+      "end": 57.133,
+      "dur": 2.033,
+      "center": 56.117,
+      "role": "food_plated",
+      "subject": "grigliata mista bottiglia",
+      "description": "La grigliata mista è mostrata con una bottiglia di vino sullo sfondo e un logo a forma di mucca.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovviamente il chior riso che la salamella argentina."
+    },
+    {
+      "idx": 30,
+      "start": 57.133,
+      "end": 59.1,
+      "dur": 1.967,
+      "center": 58.117,
+      "role": "person_eating",
+      "subject": "ragazzo con carne",
+      "description": "Un ragazzo tiene in mano un pezzo di carne su un osso, con un piatto di carne e patate in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "E queste costine di manzo, da cui ho iniziato"
+    },
+    {
+      "idx": 31,
+      "start": 59.1,
+      "end": 60.9,
+      "dur": 1.8,
+      "center": 60.0,
+      "role": "person_eating",
+      "subject": "ragazzo con carne",
+      "description": "Il ragazzo guarda la telecamera mentre tiene in mano un pezzo di carne su un osso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il mio giro di assaggi, trovando tra l"
+    },
+    {
+      "idx": 32,
+      "start": 60.9,
+      "end": 61.9,
+      "dur": 1.0,
+      "center": 61.4,
+      "role": "person_eating",
+      "subject": "ragazzo sorpreso con carne",
+      "description": "Il ragazzo ha un'espressione sorpresa mentre tiene il pezzo di carne con entrambe le mani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "'altro una carne davvero"
+    },
+    {
+      "idx": 33,
+      "start": 61.9,
+      "end": 65.867,
+      "dur": 3.967,
+      "center": 63.883,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia carne",
+      "description": "Il ragazzo sta per mordere il pezzo di carne, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "morbidissima che si staccava letteralmente dal losso. Dopo di che sono passato all 'assaggio di"
+    },
+    {
+      "idx": 34,
+      "start": 65.867,
+      "end": 67.1,
+      "dur": 1.233,
+      "center": 66.483,
+      "role": "person_eating",
+      "subject": "ragazzo sorridente con carne",
+      "description": "Il ragazzo sorride alla telecamera mentre tiene il pezzo di carne.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "questo scamone o colita di"
+    },
+    {
+      "idx": 35,
+      "start": 67.1,
+      "end": 70.6,
+      "dur": 3.5,
+      "center": 68.85,
+      "role": "food_detail",
+      "subject": "controfiletto al sangue",
+      "description": "La carne è tagliata e mostra una cottura al sangue perfetta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "quadrille, un taglio simile al contro filetto, con una cottura a medial sangue"
+    },
+    {
+      "idx": 36,
+      "start": 70.6,
+      "end": 72.0,
+      "dur": 1.4,
+      "center": 71.3,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta assaggiando un boccone con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "davvero perfetto. Una carne super"
+    },
+    {
+      "idx": 37,
+      "start": 72.0,
+      "end": 73.233,
+      "dur": 1.233,
+      "center": 72.617,
+      "role": "person_eating",
+      "subject": "ragazzo che mastica",
+      "description": "Il ragazzo ha gli occhi chiusi, assaporando il cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tenera con uno strato di"
+    },
+    {
+      "idx": 38,
+      "start": 73.233,
+      "end": 75.267,
+      "dur": 2.033,
+      "center": 74.25,
+      "role": "food_detail",
+      "subject": "pezzo di carne",
+      "description": "Un pezzo di carne viene sollevato con forchetta e coltello, mostrando la sua consistenza.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "grasso che la rende quasi dolce. Ho poi"
+    },
+    {
+      "idx": 39,
+      "start": 75.267,
+      "end": 77.033,
+      "dur": 1.767,
+      "center": 76.15,
+      "role": "person_eating",
+      "subject": "ragazzo mostra carne",
+      "description": "Il ragazzo sorride e mostra un pezzo di carne in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "provato l 'entragna che è uno dei tagli"
+    },
+    {
+      "idx": 40,
+      "start": 77.033,
+      "end": 79.033,
+      "dur": 2.0,
+      "center": 78.033,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo sorride mentre porta alla bocca un pezzo di carne.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "più saporiti, uno dei migliori per chi ama la"
+    },
+    {
+      "idx": 41,
+      "start": 79.033,
+      "end": 81.033,
+      "dur": 2.0,
+      "center": 80.033,
+      "role": "food_detail",
+      "subject": "salsiccia sulla forchetta",
+      "description": "Una salsiccia intera è in primo piano, tenuta da una forchetta, con il ragazzo che fa una smorfia sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "carne, poi l 'asadodetiera che sarebbero le beef"
+    },
+    {
+      "idx": 42,
+      "start": 81.033,
+      "end": 83.733,
+      "dur": 2.7,
+      "center": 82.383,
+      "role": "food_detail",
+      "subject": "fetta di salsiccia",
+      "description": "Una fetta di salsiccia è in primo piano, tenuta da una forchetta, quasi a coprire il volto sorridente del ragazzo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ribs, e il chior riso che è appunto la salamella argentina,"
+    },
+    {
+      "idx": 43,
+      "start": 83.733,
+      "end": 85.1,
+      "dur": 1.367,
+      "center": 84.417,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo sta per mangiare un pezzo di carne con un cucchiaio, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto spezziato e che sapeva"
+    },
+    {
+      "idx": 44,
+      "start": 85.1,
+      "end": 87.133,
+      "dur": 2.033,
+      "center": 86.117,
+      "role": "food_plated",
+      "subject": "carne con salsa",
+      "description": "Una mano aggiunge salsa colorata su un pezzo di carne tagliato su un piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto di griglia. Tutti tagli di carne perfetti"
+    },
+    {
+      "idx": 45,
+      "start": 87.133,
+      "end": 88.967,
+      "dur": 1.833,
+      "center": 88.05,
+      "role": "food_detail",
+      "subject": "salsa su carne",
+      "description": "Una mano versa della salsa verde da un bricco metallico su pezzi di carne in un piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "si è accompagnati dalla criogia"
+    },
+    {
+      "idx": 46,
+      "start": 88.967,
+      "end": 90.567,
+      "dur": 1.6,
+      "center": 89.767,
+      "role": "food_detail",
+      "subject": "salsa su carne",
+      "description": "Una mano con un cucchiaio sta per aggiungere salsa verde su un pezzo di carne nel piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "argentina, il classico cimiciori, ovvero"
+    },
+    {
+      "idx": 47,
+      "start": 90.567,
+      "end": 92.433,
+      "dur": 1.867,
+      "center": 91.5,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo con una felpa scura porta una forchetta alla bocca, con un quadro sullo sfondo rosso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "due salsa che con la carne non possono"
+    },
+    {
+      "idx": 48,
+      "start": 92.433,
+      "end": 94.033,
+      "dur": 1.6,
+      "center": 93.233,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando con la forchetta, con un'espressione soddisfatta e un quadro dietro di lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "mancare. E come contorno abbiamo"
+    },
+    {
+      "idx": 49,
+      "start": 94.033,
+      "end": 96.2,
+      "dur": 2.167,
+      "center": 95.117,
+      "role": "food_detail",
+      "subject": "patatine in ciotola",
+      "description": "Una mano prende delle patatine da una ciotola nera, con un bicchiere di vino rosso sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "provato queste chips di patate fatte da loro,"
+    },
+    {
+      "idx": 50,
+      "start": 96.2,
+      "end": 97.767,
+      "dur": 1.567,
+      "center": 96.983,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatina",
+      "description": "Il ragazzo sta mangiando una patatina con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "croccanti ma lo stesso con la consistenza"
+    },
+    {
+      "idx": 51,
+      "start": 97.767,
+      "end": 99.933,
+      "dur": 2.167,
+      "center": 98.85,
+      "role": "person_eating",
+      "subject": "ragazzo tiene patatina",
+      "description": "Il ragazzo tiene una patatina vicino alla bocca, pronto a mangiarla.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "della patata non essendo tagliate troppo fini."
+    },
+    {
+      "idx": 52,
+      "start": 99.933,
+      "end": 101.9,
+      "dur": 1.967,
+      "center": 100.917,
+      "role": "food_detail",
+      "subject": "patate al forno",
+      "description": "Un piatto di patate al forno con rosmarino viene servito con una forchetta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "E poi le classiche patate al forno e anche dell"
+    },
+    {
+      "idx": 53,
+      "start": 101.9,
+      "end": 103.533,
+      "dur": 1.633,
+      "center": 102.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia verdura",
+      "description": "Il ragazzo sta mangiando qualcosa con un cucchiaio, probabilmente una verdura.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "'insalata, che è comunque tradizione per"
+    },
+    {
+      "idx": 54,
+      "start": 103.533,
+      "end": 106.6,
+      "dur": 3.067,
+      "center": 105.067,
+      "role": "food_plated",
+      "subject": "dessert vari",
+      "description": "Due piatti con dessert diversi, tra cui una crepe e un budino, vengono presentati.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "accompagnare la carne. E poi per chiudere questa cena argentina tipica abbiamo"
+    },
+    {
+      "idx": 55,
+      "start": 106.6,
+      "end": 108.567,
+      "dur": 1.967,
+      "center": 107.583,
+      "role": "food_plated",
+      "subject": "pancake con gelato",
+      "description": "Un pancake arrotolato con gelato e frutti rossi su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "preso il loro pancake con dolce de leche"
+    },
+    {
+      "idx": 56,
+      "start": 108.567,
+      "end": 110.433,
+      "dur": 1.867,
+      "center": 109.5,
+      "role": "food_plated",
+      "subject": "budino con salsa",
+      "description": "Un budino con salsa caramello e una fragola su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "accompagnato con degelato, che è praticamente"
+    },
+    {
+      "idx": 57,
+      "start": 110.433,
+      "end": 112.233,
+      "dur": 1.8,
+      "center": 111.333,
+      "role": "hands_gesture",
+      "subject": "mani che reggono piatto",
+      "description": "Due mani reggono un piatto bianco con un pancake e gelato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "uno cre. Con questa crema al latte"
+    },
+    {
+      "idx": 58,
+      "start": 112.233,
+      "end": 113.6,
+      "dur": 1.367,
+      "center": 112.917,
+      "role": "hands_gesture",
+      "subject": "mani che tagliano pancake",
+      "description": "Due mani usano forchetta e coltello per tagliare un pancake.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "veramente incredibile che è l"
+    },
+    {
+      "idx": 59,
+      "start": 113.6,
+      "end": 115.6,
+      "dur": 2.0,
+      "center": 114.6,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo sta mangiando un pezzo di pancake con un cucchiaio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "'assessa che ha accompagnato il loro flanca zero."
+    },
+    {
+      "idx": 60,
+      "start": 115.6,
+      "end": 117.9,
+      "dur": 2.3,
+      "center": 116.75,
+      "role": "food_detail",
+      "subject": "flan con caramello",
+      "description": "Una mano che affonda un cucchiaio in un flan al caramello, guarnito con frutti di bosco e panna.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Uno dei dolci più tipici della cultura argentina,"
+    },
+    {
+      "idx": 61,
+      "start": 117.9,
+      "end": 119.7,
+      "dur": 1.8,
+      "center": 118.8,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo con un cucchiaio in bocca, mentre assaggia un dolce.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che ha concluso perfettamente questa esperienza"
+    },
+    {
+      "idx": 62,
+      "start": 119.7,
+      "end": 121.7,
+      "dur": 2.0,
+      "center": 120.7,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo continua a mangiare il dolce, con un'espressione di soddisfazione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "davvero clà. Morosa."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con calice vino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo sorridente tiene in mano un calice di vino rosso, con un grande piatto di carne in primo piano.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "dur": 2.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "carne alla griglia",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una forchetta infilza un pezzo di carne al sangue su un grande piatto di carne mista.",
+      "shot_idx": 1,
+      "start": 2.1,
+      "end": 3.9,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne mista",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un grande piatto ovale di carne mista alla griglia con salsiccia e verdure.",
+      "shot_idx": 2,
+      "start": 3.9,
+      "end": 5.7,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con dessert",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo tiene in mano due piatti di dessert, sorridendo leggermente.",
+      "shot_idx": 3,
+      "start": 5.7,
+      "end": 7.3,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso ristorante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'ingresso di un ristorante con una tenda rossa e la scritta 'don juan ristorante argentino'.",
+      "shot_idx": 4,
+      "start": 7.3,
+      "end": 8.8,
+      "dur": 1.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "sala ristorante elegante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'ambiente del ristorante con pareti rosse e tavoli apparecchiati.",
+      "shot_idx": 5,
+      "start": 8.8,
+      "end": 11.3,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "cucina a vista",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La cucina a vista con attrezzature in acciaio e decorazioni a tema bovino.",
+      "shot_idx": 6,
+      "start": 11.3,
+      "end": 12.7,
+      "dur": 1.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "vassoio pane salse",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un vassoio d'argento con vari tipi di pane e una ciotolina di paté.",
+      "shot_idx": 7,
+      "start": 12.7,
+      "end": 14.733,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia focaccia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo che addenta un pezzo di focaccia con un'espressione concentrata.",
+      "shot_idx": 8,
+      "start": 14.733,
+      "end": 16.7,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Lo stesso ragazzo che mangia un boccone di pollo, con un'espressione soddisfatta.",
+      "shot_idx": 9,
+      "start": 16.7,
+      "end": 17.933,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere vino rosso",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un bicchiere di vino rosso e una bottiglia di vino con l'etichetta 'Don J' su un tavolo bianco.",
+      "shot_idx": 10,
+      "start": 17.933,
+      "end": 19.967,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano che tiene bicchiere",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene un bicchiere di vino rosso, con un vassoio di pane in primo piano e un ambiente sfocato sullo sfondo.",
+      "shot_idx": 11,
+      "start": 19.967,
+      "end": 22.4,
+      "dur": 2.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve vino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo beve da un bicchiere di vino rosso, seduto a un tavolo con un tovagliolo piegato a forma di fiore.",
+      "shot_idx": 12,
+      "start": 22.4,
+      "end": 24.133,
+      "dur": 1.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio fuso erbe",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di formaggio fuso con erbe e olio, servito in una padella di ghisa nera.",
+      "shot_idx": 13,
+      "start": 24.133,
+      "end": 26.333,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "antipasti serviti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Delle mani tengono un piatto con due antipasti, uno fritto e uno a base di mais, sopra un tavolo con altri piatti.",
+      "shot_idx": 14,
+      "start": 26.333,
+      "end": 28.3,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio fuso ciotola",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una ciotola di formaggio fuso con erbe e olio, con un cucchiaio che lo mescola.",
+      "shot_idx": 15,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "formaggio fuso forchetta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene una forchetta con del formaggio fuso, mentre sullo sfondo si intravede un piatto vuoto.",
+      "shot_idx": 16,
+      "start": 30.3,
+      "end": 31.467,
+      "dur": 1.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene pane",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene in mano un pezzo di pane con formaggio fuso, guardando verso la telecamera.",
+      "shot_idx": 17,
+      "start": 31.467,
+      "end": 32.833,
+      "dur": 1.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pane",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per addentare il pezzo di pane con formaggio fuso.",
+      "shot_idx": 18,
+      "start": 32.833,
+      "end": 34.333,
+      "dur": 1.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "pane formaggio primo piano",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di pane con formaggio fuso e erbe è tenuto in primo piano, con il ragazzo sorridente sullo sfondo.",
+      "shot_idx": 19,
+      "start": 34.333,
+      "end": 35.8,
+      "dur": 1.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia focaccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di focaccia con un'espressione divertita.",
+      "shot_idx": 20,
+      "start": 35.8,
+      "end": 38.367,
+      "dur": 2.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "mani tagliano cibo fritto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due mani stanno tagliando un pezzo di cibo fritto su un piatto bianco.",
+      "shot_idx": 21,
+      "start": 38.367,
+      "end": 40.367,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia cibo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di cibo fritto con la bocca aperta.",
+      "shot_idx": 22,
+      "start": 40.367,
+      "end": 43.433,
+      "dur": 3.067
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra formaggio filante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di cibo fritto con formaggio filante.",
+      "shot_idx": 23,
+      "start": 43.433,
+      "end": 44.2,
+      "dur": 0.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "mani tagliano frittata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due mani stanno tagliando una frittata dorata su un piatto bianco.",
+      "shot_idx": 24,
+      "start": 44.2,
+      "end": 46.0,
+      "dur": 1.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia cibo",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando un boccone di cibo con una forchetta, con uno sfondo rosso e un quadro.",
+      "shot_idx": 25,
+      "start": 46.0,
+      "end": 47.833,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "grigliata mista carne",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un grande piatto ovale di carne grigliata con spiedini e verdure, con un logo a forma di mucca.",
+      "shot_idx": 26,
+      "start": 47.833,
+      "end": 50.867,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo bicchiere vino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo del primo frame sorride tenendo in mano un bicchiere di vino rosso, con la grigliata in primo piano.",
+      "shot_idx": 27,
+      "start": 50.867,
+      "end": 52.6,
+      "dur": 1.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "dettaglio carne grigliata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano della carne grigliata con sale grosso e spiedini, con un logo a forma di mucca.",
+      "shot_idx": 28,
+      "start": 52.6,
+      "end": 55.1,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "grigliata mista bottiglia",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La grigliata mista è mostrata con una bottiglia di vino sullo sfondo e un logo a forma di mucca.",
+      "shot_idx": 29,
+      "start": 55.1,
+      "end": 57.133,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo tiene in mano un pezzo di carne su un osso, con un piatto di carne e patate in primo piano.",
+      "shot_idx": 30,
+      "start": 57.133,
+      "end": 59.1,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo guarda la telecamera mentre tiene in mano un pezzo di carne su un osso.",
+      "shot_idx": 31,
+      "start": 59.1,
+      "end": 60.9,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorpreso con carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ha un'espressione sorpresa mentre tiene il pezzo di carne con entrambe le mani.",
+      "shot_idx": 32,
+      "start": 60.9,
+      "end": 61.9,
+      "dur": 1.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mordere il pezzo di carne, con un'espressione concentrata.",
+      "shot_idx": 33,
+      "start": 61.9,
+      "end": 65.867,
+      "dur": 3.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorridente con carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride alla telecamera mentre tiene il pezzo di carne.",
+      "shot_idx": 34,
+      "start": 65.867,
+      "end": 67.1,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "controfiletto al sangue",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La carne è tagliata e mostra una cottura al sangue perfetta.",
+      "shot_idx": 35,
+      "start": 67.1,
+      "end": 70.6,
+      "dur": 3.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta assaggiando un boccone con espressione concentrata.",
+      "shot_idx": 36,
+      "start": 70.6,
+      "end": 72.0,
+      "dur": 1.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mastica",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ha gli occhi chiusi, assaporando il cibo.",
+      "shot_idx": 37,
+      "start": 72.0,
+      "end": 73.233,
+      "dur": 1.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pezzo di carne",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di carne viene sollevato con forchetta e coltello, mostrando la sua consistenza.",
+      "shot_idx": 38,
+      "start": 73.233,
+      "end": 75.267,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride e mostra un pezzo di carne in primo piano.",
+      "shot_idx": 39,
+      "start": 75.267,
+      "end": 77.033,
+      "dur": 1.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride mentre porta alla bocca un pezzo di carne.",
+      "shot_idx": 40,
+      "start": 77.033,
+      "end": 79.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "salsiccia sulla forchetta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una salsiccia intera è in primo piano, tenuta da una forchetta, con il ragazzo che fa una smorfia sullo sfondo.",
+      "shot_idx": 41,
+      "start": 79.033,
+      "end": 81.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta di salsiccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una fetta di salsiccia è in primo piano, tenuta da una forchetta, quasi a coprire il volto sorridente del ragazzo.",
+      "shot_idx": 42,
+      "start": 81.033,
+      "end": 83.733,
+      "dur": 2.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un pezzo di carne con un cucchiaio, con un'espressione concentrata.",
+      "shot_idx": 43,
+      "start": 83.733,
+      "end": 85.1,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "carne con salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano aggiunge salsa colorata su un pezzo di carne tagliato su un piatto.",
+      "shot_idx": 44,
+      "start": 85.1,
+      "end": 87.133,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "salsa su carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano versa della salsa verde da un bricco metallico su pezzi di carne in un piatto.",
+      "shot_idx": 45,
+      "start": 87.133,
+      "end": 88.967,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "salsa su carne",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano con un cucchiaio sta per aggiungere salsa verde su un pezzo di carne nel piatto.",
+      "shot_idx": 46,
+      "start": 88.967,
+      "end": 90.567,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una felpa scura porta una forchetta alla bocca, con un quadro sullo sfondo rosso.",
+      "shot_idx": 47,
+      "start": 90.567,
+      "end": 92.433,
+      "dur": 1.867
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando con la forchetta, con un'espressione soddisfatta e un quadro dietro di lui.",
+      "shot_idx": 48,
+      "start": 92.433,
+      "end": 94.033,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "patatine in ciotola",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano prende delle patatine da una ciotola nera, con un bicchiere di vino rosso sullo sfondo.",
+      "shot_idx": 49,
+      "start": 94.033,
+      "end": 96.2,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando una patatina con un'espressione divertita.",
+      "shot_idx": 50,
+      "start": 96.2,
+      "end": 97.767,
+      "dur": 1.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene patatina",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene una patatina vicino alla bocca, pronto a mangiarla.",
+      "shot_idx": 51,
+      "start": 97.767,
+      "end": 99.933,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "patate al forno",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di patate al forno con rosmarino viene servito con una forchetta.",
+      "shot_idx": 52,
+      "start": 99.933,
+      "end": 101.9,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia verdura",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando qualcosa con un cucchiaio, probabilmente una verdura.",
+      "shot_idx": 53,
+      "start": 101.9,
+      "end": 103.533,
+      "dur": 1.633
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "dessert vari",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due piatti con dessert diversi, tra cui una crepe e un budino, vengono presentati.",
+      "shot_idx": 54,
+      "start": 103.533,
+      "end": 106.6,
+      "dur": 3.067
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pancake con gelato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pancake arrotolato con gelato e frutti rossi su un piatto bianco.",
+      "shot_idx": 55,
+      "start": 106.6,
+      "end": 108.567,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "budino con salsa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un budino con salsa caramello e una fragola su un piatto bianco.",
+      "shot_idx": 56,
+      "start": 108.567,
+      "end": 110.433,
+      "dur": 1.867
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mani che reggono piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due mani reggono un piatto bianco con un pancake e gelato.",
+      "shot_idx": 57,
+      "start": 110.433,
+      "end": 112.233,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mani che tagliano pancake",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due mani usano forchetta e coltello per tagliare un pancake.",
+      "shot_idx": 58,
+      "start": 112.233,
+      "end": 113.6,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sta mangiando un pezzo di pancake con un cucchiaio.",
+      "shot_idx": 59,
+      "start": 113.6,
+      "end": 115.6,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "flan con caramello",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano che affonda un cucchiaio in un flan al caramello, guarnito con frutti di bosco e panna.",
+      "shot_idx": 60,
+      "start": 115.6,
+      "end": 117.9,
+      "dur": 2.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con un cucchiaio in bocca, mentre assaggia un dolce.",
+      "shot_idx": 61,
+      "start": 117.9,
+      "end": 119.7,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo continua a mangiare il dolce, con un'espressione di soddisfazione.",
+      "shot_idx": 62,
+      "start": 119.7,
+      "end": 121.7,
+      "dur": 2.0
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "La vera carne argentina a Milano? Oggi ragazzi proviamo il primo ristorante argentino in Italia."
+    },
+    {
+      "start": 4.38,
+      "end": 6.64,
+      "text": "Siamo da Don Juan, in Via Alta Guardia, in Porta Romana."
+    },
+    {
+      "start": 6.7,
+      "end": 10.28,
+      "text": "Uno dei migliori ristoranti di tutta Italia, con una location molto curata ed elegante,"
+    },
+    {
+      "start": 10.46,
+      "end": 13.66,
+      "text": "e dove, essendo stavato a pranzo, abbiamo provato la loro promozione grillata libera."
+    },
+    {
+      "start": 13.72,
+      "end": 17.46,
+      "text": "Iniziando con questo bassolletto di pane, con un po' di focaccia e crostini col paté di pollo,"
+    },
+    {
+      "start": 17.52,
+      "end": 21.62,
+      "text": "poi un bel bicchiere di questo malbec argentino marchiato Don Juan del 2022,"
+    },
+    {
+      "start": 21.88,
+      "end": 25.12,
+      "text": "che nonostante non sia un amante del vino, comunque apprezzato, non essendo troppo forte,"
+    },
+    {
+      "start": 25.3,
+      "end": 28.96,
+      "text": "e dopo di che siamo passati subito agli antipasti con questa provoletta alla Parria,"
+    },
+    {
+      "start": 28.96,
+      "end": 32.54,
+      "text": "ovvero questa fetta di provola ben condita e servita su questa griglia bollente,"
+    },
+    {
+      "start": 32.68,
+      "end": 36.1,
+      "text": "tanto da renderla bella morbida, ma allo stesso tempo con uno strato ben croccante."
+    },
+    {
+      "start": 36.28,
+      "end": 40.02,
+      "text": "Dopo di che siamo passati alle empanadas con prosciutte formaggio, fritta ma per niente unta,"
+    },
+    {
+      "start": 40.12,
+      "end": 44.1,
+      "text": "e col formaggio bello filante, e questa sorta di fettere di tortiglia di patate molto buona."
+    },
+    {
+      "start": 44.18,
+      "end": 46.88,
+      "text": "Ed arrivando al punto forte di questo menu speciale per sabato a pranzo,"
+    },
+    {
+      "start": 46.96,
+      "end": 51.16,
+      "text": "con soli 45 euro per su, avete anche questa grillata mista, che vi permette di provare più tagli,"
+    },
+    {
+      "start": 51.18,
+      "end": 53.7,
+      "text": "tra cui ovviamente l'entra in Argentino, ovvero gli Aframma,"
+    },
+    {
+      "start": 53.78,
+      "end": 57.12,
+      "text": "dello scamone e dell'asadodetiera ovviamente il chior riso che la salamella argentina."
+    },
+    {
+      "start": 57.12,
+      "end": 60.1,
+      "text": "E queste costine di manzo, da cui ho iniziato il mio giro di assaggi,"
+    },
+    {
+      "start": 60.28,
+      "end": 64.6,
+      "text": "trovando tra l'altro una carne davvero morbidissima che si staccava letteralmente dal losso."
+    },
+    {
+      "start": 64.64,
+      "end": 67.56,
+      "text": "Dopo di che sono passato all'assaggio di questo scamone o colita di quadrille,"
+    },
+    {
+      "start": 67.72,
+      "end": 71.42,
+      "text": "un taglio simile al contro filetto, con una cottura a medial sangue davvero perfetto."
+    },
+    {
+      "start": 71.56,
+      "end": 74.88,
+      "text": "Una carne super tenera con uno strato di grasso che la rende quasi dolce."
+    },
+    {
+      "start": 74.98,
+      "end": 77.68,
+      "text": "Ho poi provato l'entragna che è uno dei tagli più saporiti,"
+    },
+    {
+      "start": 77.76,
+      "end": 81.34,
+      "text": "uno dei migliori per chi ama la carne, poi l'asadodetiera che sarebbero le beef ribs,"
+    },
+    {
+      "start": 81.54,
+      "end": 83.9,
+      "text": "e il chior riso che è appunto la salamella argentina,"
+    },
+    {
+      "start": 83.98,
+      "end": 85.88,
+      "text": "molto spezziato e che sapeva molto di griglia."
+    },
+    {
+      "start": 85.88,
+      "end": 89.28,
+      "text": "Tutti tagli di carne perfetti si è accompagnati dalla criogia argentina,"
+    },
+    {
+      "start": 89.3,
+      "end": 92.94,
+      "text": "il classico cimiciori, ovvero due salsa che con la carne non possono mancare."
+    },
+    {
+      "start": 93.06,
+      "end": 96.12,
+      "text": "E come contorno abbiamo provato queste chips di patate fatte da loro,"
+    },
+    {
+      "start": 96.26,
+      "end": 99.88,
+      "text": "croccanti ma lo stesso con la consistenza della patata non essendo tagliate troppo fini."
+    },
+    {
+      "start": 99.96,
+      "end": 102.36,
+      "text": "E poi le classiche patate al forno e anche dell'insalata,"
+    },
+    {
+      "start": 102.4,
+      "end": 104.48,
+      "text": "che è comunque tradizione per accompagnare la carne."
+    },
+    {
+      "start": 104.58,
+      "end": 107.58,
+      "text": "E poi per chiudere questa cena argentina tipica abbiamo preso il loro pancake"
+    },
+    {
+      "start": 107.58,
+      "end": 110.86,
+      "text": "con dolce de leche accompagnato con degelato, che è praticamente uno cre."
+    },
+    {
+      "start": 111.16,
+      "end": 115.64,
+      "text": "Con questa crema al latte veramente incredibile che è l'assessa che ha accompagnato il loro flanca zero."
+    },
+    {
+      "start": 115.64,
+      "end": 117.86,
+      "text": "Uno dei dolci più tipici della cultura argentina,"
+    },
+    {
+      "start": 117.92,
+      "end": 120.36,
+      "text": "che ha concluso perfettamente questa esperienza davvero clà."
+    },
+    {
+      "start": 120.74,
+      "end": 121.28,
+      "text": "Morosa."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": "La"
+    },
+    {
+      "start": 0.2,
+      "end": 0.44,
+      "word": "vera"
+    },
+    {
+      "start": 0.44,
+      "end": 0.6,
+      "word": "carne"
+    },
+    {
+      "start": 0.6,
+      "end": 1.12,
+      "word": "argentina"
+    },
+    {
+      "start": 1.12,
+      "end": 1.22,
+      "word": "a"
+    },
+    {
+      "start": 1.22,
+      "end": 1.58,
+      "word": "Milano?"
+    },
+    {
+      "start": 1.72,
+      "end": 1.84,
+      "word": "Oggi"
+    },
+    {
+      "start": 1.84,
+      "end": 2.1,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.1,
+      "end": 2.42,
+      "word": "proviamo"
+    },
+    {
+      "start": 2.42,
+      "end": 2.56,
+      "word": "il"
+    },
+    {
+      "start": 2.56,
+      "end": 2.74,
+      "word": "primo"
+    },
+    {
+      "start": 2.74,
+      "end": 3.18,
+      "word": "ristorante"
+    },
+    {
+      "start": 3.18,
+      "end": 3.74,
+      "word": "argentino"
+    },
+    {
+      "start": 3.74,
+      "end": 3.82,
+      "word": "in"
+    },
+    {
+      "start": 3.82,
+      "end": 4.12,
+      "word": "Italia."
+    },
+    {
+      "start": 4.38,
+      "end": 4.48,
+      "word": "Siamo"
+    },
+    {
+      "start": 4.48,
+      "end": 4.64,
+      "word": "da"
+    },
+    {
+      "start": 4.64,
+      "end": 4.76,
+      "word": "Don"
+    },
+    {
+      "start": 4.76,
+      "end": 4.98,
+      "word": "Juan,"
+    },
+    {
+      "start": 5.26,
+      "end": 5.32,
+      "word": "in"
+    },
+    {
+      "start": 5.32,
+      "end": 5.44,
+      "word": "Via"
+    },
+    {
+      "start": 5.44,
+      "end": 5.6,
+      "word": "Alta"
+    },
+    {
+      "start": 5.6,
+      "end": 5.98,
+      "word": "Guardia,"
+    },
+    {
+      "start": 6.04,
+      "end": 6.1,
+      "word": "in"
+    },
+    {
+      "start": 6.1,
+      "end": 6.32,
+      "word": "Porta"
+    },
+    {
+      "start": 6.32,
+      "end": 6.64,
+      "word": "Romana."
+    },
+    {
+      "start": 6.7,
+      "end": 6.84,
+      "word": "Uno"
+    },
+    {
+      "start": 6.84,
+      "end": 6.94,
+      "word": "dei"
+    },
+    {
+      "start": 6.94,
+      "end": 7.22,
+      "word": "migliori"
+    },
+    {
+      "start": 7.22,
+      "end": 7.72,
+      "word": "ristoranti"
+    },
+    {
+      "start": 7.72,
+      "end": 7.9,
+      "word": "di"
+    },
+    {
+      "start": 7.9,
+      "end": 8.1,
+      "word": "tutta"
+    },
+    {
+      "start": 8.1,
+      "end": 8.42,
+      "word": "Italia,"
+    },
+    {
+      "start": 8.52,
+      "end": 8.6,
+      "word": "con"
+    },
+    {
+      "start": 8.6,
+      "end": 8.74,
+      "word": "una"
+    },
+    {
+      "start": 8.74,
+      "end": 9.06,
+      "word": "location"
+    },
+    {
+      "start": 9.06,
+      "end": 9.36,
+      "word": "molto"
+    },
+    {
+      "start": 9.36,
+      "end": 9.74,
+      "word": "curata"
+    },
+    {
+      "start": 9.74,
+      "end": 9.88,
+      "word": "ed"
+    },
+    {
+      "start": 9.88,
+      "end": 10.28,
+      "word": "elegante,"
+    },
+    {
+      "start": 10.46,
+      "end": 10.48,
+      "word": "e"
+    },
+    {
+      "start": 10.48,
+      "end": 10.68,
+      "word": "dove,"
+    },
+    {
+      "start": 10.8,
+      "end": 10.96,
+      "word": "essendo"
+    },
+    {
+      "start": 10.96,
+      "end": 11.32,
+      "word": "stavato"
+    },
+    {
+      "start": 11.32,
+      "end": 11.42,
+      "word": "a"
+    },
+    {
+      "start": 11.42,
+      "end": 11.7,
+      "word": "pranzo,"
+    },
+    {
+      "start": 11.74,
+      "end": 11.82,
+      "word": "abbiamo"
+    },
+    {
+      "start": 11.82,
+      "end": 12.16,
+      "word": "provato"
+    },
+    {
+      "start": 12.16,
+      "end": 12.26,
+      "word": "la"
+    },
+    {
+      "start": 12.26,
+      "end": 12.42,
+      "word": "loro"
+    },
+    {
+      "start": 12.42,
+      "end": 12.94,
+      "word": "promozione"
+    },
+    {
+      "start": 12.94,
+      "end": 13.34,
+      "word": "grillata"
+    },
+    {
+      "start": 13.34,
+      "end": 13.66,
+      "word": "libera."
+    },
+    {
+      "start": 13.72,
+      "end": 14.08,
+      "word": "Iniziando"
+    },
+    {
+      "start": 14.08,
+      "end": 14.24,
+      "word": "con"
+    },
+    {
+      "start": 14.24,
+      "end": 14.44,
+      "word": "questo"
+    },
+    {
+      "start": 14.44,
+      "end": 14.88,
+      "word": "bassolletto"
+    },
+    {
+      "start": 14.88,
+      "end": 15.02,
+      "word": "di"
+    },
+    {
+      "start": 15.02,
+      "end": 15.26,
+      "word": "pane,"
+    },
+    {
+      "start": 15.34,
+      "end": 15.46,
+      "word": "con"
+    },
+    {
+      "start": 15.46,
+      "end": 15.5,
+      "word": "un"
+    },
+    {
+      "start": 15.5,
+      "end": 15.58,
+      "word": "po'"
+    },
+    {
+      "start": 15.64,
+      "end": 15.68,
+      "word": "di"
+    },
+    {
+      "start": 15.68,
+      "end": 16.14,
+      "word": "focaccia"
+    },
+    {
+      "start": 16.14,
+      "end": 16.22,
+      "word": "e"
+    },
+    {
+      "start": 16.22,
+      "end": 16.62,
+      "word": "crostini"
+    },
+    {
+      "start": 16.62,
+      "end": 16.78,
+      "word": "col"
+    },
+    {
+      "start": 16.78,
+      "end": 17.02,
+      "word": "paté"
+    },
+    {
+      "start": 17.02,
+      "end": 17.14,
+      "word": "di"
+    },
+    {
+      "start": 17.14,
+      "end": 17.46,
+      "word": "pollo,"
+    },
+    {
+      "start": 17.52,
+      "end": 17.68,
+      "word": "poi"
+    },
+    {
+      "start": 17.68,
+      "end": 17.88,
+      "word": "un"
+    },
+    {
+      "start": 17.88,
+      "end": 17.98,
+      "word": "bel"
+    },
+    {
+      "start": 17.98,
+      "end": 18.42,
+      "word": "bicchiere"
+    },
+    {
+      "start": 18.42,
+      "end": 18.54,
+      "word": "di"
+    },
+    {
+      "start": 18.54,
+      "end": 18.78,
+      "word": "questo"
+    },
+    {
+      "start": 18.78,
+      "end": 19.22,
+      "word": "malbec"
+    },
+    {
+      "start": 19.22,
+      "end": 19.88,
+      "word": "argentino"
+    },
+    {
+      "start": 19.88,
+      "end": 20.34,
+      "word": "marchiato"
+    },
+    {
+      "start": 20.34,
+      "end": 20.62,
+      "word": "Don"
+    },
+    {
+      "start": 20.62,
+      "end": 20.92,
+      "word": "Juan"
+    },
+    {
+      "start": 20.92,
+      "end": 21.12,
+      "word": "del"
+    },
+    {
+      "start": 21.12,
+      "end": 21.62,
+      "word": "2022,"
+    },
+    {
+      "start": 21.88,
+      "end": 21.9,
+      "word": "che"
+    },
+    {
+      "start": 21.9,
+      "end": 22.32,
+      "word": "nonostante"
+    },
+    {
+      "start": 22.32,
+      "end": 22.5,
+      "word": "non"
+    },
+    {
+      "start": 22.5,
+      "end": 22.64,
+      "word": "sia"
+    },
+    {
+      "start": 22.64,
+      "end": 22.72,
+      "word": "un"
+    },
+    {
+      "start": 22.72,
+      "end": 22.9,
+      "word": "amante"
+    },
+    {
+      "start": 22.9,
+      "end": 23.1,
+      "word": "del"
+    },
+    {
+      "start": 23.1,
+      "end": 23.28,
+      "word": "vino,"
+    },
+    {
+      "start": 23.4,
+      "end": 23.56,
+      "word": "comunque"
+    },
+    {
+      "start": 23.56,
+      "end": 24.12,
+      "word": "apprezzato,"
+    },
+    {
+      "start": 24.2,
+      "end": 24.28,
+      "word": "non"
+    },
+    {
+      "start": 24.28,
+      "end": 24.54,
+      "word": "essendo"
+    },
+    {
+      "start": 24.54,
+      "end": 24.8,
+      "word": "troppo"
+    },
+    {
+      "start": 24.8,
+      "end": 25.12,
+      "word": "forte,"
+    },
+    {
+      "start": 25.3,
+      "end": 25.36,
+      "word": "e"
+    },
+    {
+      "start": 25.36,
+      "end": 25.44,
+      "word": "dopo"
+    },
+    {
+      "start": 25.44,
+      "end": 25.58,
+      "word": "di"
+    },
+    {
+      "start": 25.58,
+      "end": 25.66,
+      "word": "che"
+    },
+    {
+      "start": 25.66,
+      "end": 25.82,
+      "word": "siamo"
+    },
+    {
+      "start": 25.82,
+      "end": 26.14,
+      "word": "passati"
+    },
+    {
+      "start": 26.14,
+      "end": 26.52,
+      "word": "subito"
+    },
+    {
+      "start": 26.52,
+      "end": 26.66,
+      "word": "agli"
+    },
+    {
+      "start": 26.66,
+      "end": 27.2,
+      "word": "antipasti"
+    },
+    {
+      "start": 27.2,
+      "end": 27.44,
+      "word": "con"
+    },
+    {
+      "start": 27.44,
+      "end": 27.76,
+      "word": "questa"
+    },
+    {
+      "start": 27.76,
+      "end": 28.26,
+      "word": "provoletta"
+    },
+    {
+      "start": 28.26,
+      "end": 28.44,
+      "word": "alla"
+    },
+    {
+      "start": 28.44,
+      "end": 28.96,
+      "word": "Parria,"
+    },
+    {
+      "start": 28.96,
+      "end": 29.24,
+      "word": "ovvero"
+    },
+    {
+      "start": 29.24,
+      "end": 29.48,
+      "word": "questa"
+    },
+    {
+      "start": 29.48,
+      "end": 29.72,
+      "word": "fetta"
+    },
+    {
+      "start": 29.72,
+      "end": 29.88,
+      "word": "di"
+    },
+    {
+      "start": 29.88,
+      "end": 30.24,
+      "word": "provola"
+    },
+    {
+      "start": 30.24,
+      "end": 30.5,
+      "word": "ben"
+    },
+    {
+      "start": 30.5,
+      "end": 30.92,
+      "word": "condita"
+    },
+    {
+      "start": 30.92,
+      "end": 31.06,
+      "word": "e"
+    },
+    {
+      "start": 31.06,
+      "end": 31.32,
+      "word": "servita"
+    },
+    {
+      "start": 31.32,
+      "end": 31.48,
+      "word": "su"
+    },
+    {
+      "start": 31.48,
+      "end": 31.74,
+      "word": "questa"
+    },
+    {
+      "start": 31.74,
+      "end": 32.04,
+      "word": "griglia"
+    },
+    {
+      "start": 32.04,
+      "end": 32.54,
+      "word": "bollente,"
+    },
+    {
+      "start": 32.68,
+      "end": 32.84,
+      "word": "tanto"
+    },
+    {
+      "start": 32.84,
+      "end": 32.96,
+      "word": "da"
+    },
+    {
+      "start": 32.96,
+      "end": 33.42,
+      "word": "renderla"
+    },
+    {
+      "start": 33.42,
+      "end": 33.66,
+      "word": "bella"
+    },
+    {
+      "start": 33.66,
+      "end": 34.08,
+      "word": "morbida,"
+    },
+    {
+      "start": 34.14,
+      "end": 34.2,
+      "word": "ma"
+    },
+    {
+      "start": 34.2,
+      "end": 34.34,
+      "word": "allo"
+    },
+    {
+      "start": 34.34,
+      "end": 34.44,
+      "word": "stesso"
+    },
+    {
+      "start": 34.44,
+      "end": 34.78,
+      "word": "tempo"
+    },
+    {
+      "start": 34.78,
+      "end": 35.0,
+      "word": "con"
+    },
+    {
+      "start": 35.0,
+      "end": 35.14,
+      "word": "uno"
+    },
+    {
+      "start": 35.14,
+      "end": 35.42,
+      "word": "strato"
+    },
+    {
+      "start": 35.42,
+      "end": 35.62,
+      "word": "ben"
+    },
+    {
+      "start": 35.62,
+      "end": 36.1,
+      "word": "croccante."
+    },
+    {
+      "start": 36.28,
+      "end": 36.4,
+      "word": "Dopo"
+    },
+    {
+      "start": 36.4,
+      "end": 36.54,
+      "word": "di"
+    },
+    {
+      "start": 36.54,
+      "end": 36.62,
+      "word": "che"
+    },
+    {
+      "start": 36.62,
+      "end": 36.78,
+      "word": "siamo"
+    },
+    {
+      "start": 36.78,
+      "end": 37.08,
+      "word": "passati"
+    },
+    {
+      "start": 37.08,
+      "end": 37.2,
+      "word": "alle"
+    },
+    {
+      "start": 37.2,
+      "end": 37.68,
+      "word": "empanadas"
+    },
+    {
+      "start": 37.68,
+      "end": 37.88,
+      "word": "con"
+    },
+    {
+      "start": 37.88,
+      "end": 38.24,
+      "word": "prosciutte"
+    },
+    {
+      "start": 38.24,
+      "end": 38.74,
+      "word": "formaggio,"
+    },
+    {
+      "start": 38.84,
+      "end": 39.08,
+      "word": "fritta"
+    },
+    {
+      "start": 39.08,
+      "end": 39.22,
+      "word": "ma"
+    },
+    {
+      "start": 39.22,
+      "end": 39.38,
+      "word": "per"
+    },
+    {
+      "start": 39.38,
+      "end": 39.62,
+      "word": "niente"
+    },
+    {
+      "start": 39.62,
+      "end": 40.02,
+      "word": "unta,"
+    },
+    {
+      "start": 40.12,
+      "end": 40.12,
+      "word": "e"
+    },
+    {
+      "start": 40.12,
+      "end": 40.26,
+      "word": "col"
+    },
+    {
+      "start": 40.26,
+      "end": 40.64,
+      "word": "formaggio"
+    },
+    {
+      "start": 40.64,
+      "end": 40.86,
+      "word": "bello"
+    },
+    {
+      "start": 40.86,
+      "end": 41.3,
+      "word": "filante,"
+    },
+    {
+      "start": 41.52,
+      "end": 41.6,
+      "word": "e"
+    },
+    {
+      "start": 41.6,
+      "end": 41.76,
+      "word": "questa"
+    },
+    {
+      "start": 41.76,
+      "end": 42.02,
+      "word": "sorta"
+    },
+    {
+      "start": 42.02,
+      "end": 42.22,
+      "word": "di"
+    },
+    {
+      "start": 42.22,
+      "end": 42.42,
+      "word": "fettere"
+    },
+    {
+      "start": 42.42,
+      "end": 42.52,
+      "word": "di"
+    },
+    {
+      "start": 42.52,
+      "end": 42.82,
+      "word": "tortiglia"
+    },
+    {
+      "start": 42.82,
+      "end": 42.94,
+      "word": "di"
+    },
+    {
+      "start": 42.94,
+      "end": 43.24,
+      "word": "patate"
+    },
+    {
+      "start": 43.24,
+      "end": 43.68,
+      "word": "molto"
+    },
+    {
+      "start": 43.68,
+      "end": 44.1,
+      "word": "buona."
+    },
+    {
+      "start": 44.18,
+      "end": 44.2,
+      "word": "Ed"
+    },
+    {
+      "start": 44.2,
+      "end": 44.52,
+      "word": "arrivando"
+    },
+    {
+      "start": 44.52,
+      "end": 44.64,
+      "word": "al"
+    },
+    {
+      "start": 44.64,
+      "end": 44.74,
+      "word": "punto"
+    },
+    {
+      "start": 44.74,
+      "end": 45.08,
+      "word": "forte"
+    },
+    {
+      "start": 45.08,
+      "end": 45.22,
+      "word": "di"
+    },
+    {
+      "start": 45.22,
+      "end": 45.4,
+      "word": "questo"
+    },
+    {
+      "start": 45.4,
+      "end": 45.56,
+      "word": "menu"
+    },
+    {
+      "start": 45.56,
+      "end": 46.06,
+      "word": "speciale"
+    },
+    {
+      "start": 46.06,
+      "end": 46.2,
+      "word": "per"
+    },
+    {
+      "start": 46.2,
+      "end": 46.42,
+      "word": "sabato"
+    },
+    {
+      "start": 46.42,
+      "end": 46.54,
+      "word": "a"
+    },
+    {
+      "start": 46.54,
+      "end": 46.88,
+      "word": "pranzo,"
+    },
+    {
+      "start": 46.96,
+      "end": 47.04,
+      "word": "con"
+    },
+    {
+      "start": 47.04,
+      "end": 47.28,
+      "word": "soli"
+    },
+    {
+      "start": 47.28,
+      "end": 47.84,
+      "word": "45"
+    },
+    {
+      "start": 47.84,
+      "end": 48.04,
+      "word": "euro"
+    },
+    {
+      "start": 48.04,
+      "end": 48.24,
+      "word": "per"
+    },
+    {
+      "start": 48.24,
+      "end": 48.32,
+      "word": "su,"
+    },
+    {
+      "start": 48.42,
+      "end": 48.54,
+      "word": "avete"
+    },
+    {
+      "start": 48.54,
+      "end": 48.82,
+      "word": "anche"
+    },
+    {
+      "start": 48.82,
+      "end": 49.1,
+      "word": "questa"
+    },
+    {
+      "start": 49.1,
+      "end": 49.46,
+      "word": "grillata"
+    },
+    {
+      "start": 49.46,
+      "end": 49.84,
+      "word": "mista,"
+    },
+    {
+      "start": 49.88,
+      "end": 49.92,
+      "word": "che"
+    },
+    {
+      "start": 49.92,
+      "end": 50.04,
+      "word": "vi"
+    },
+    {
+      "start": 50.04,
+      "end": 50.34,
+      "word": "permette"
+    },
+    {
+      "start": 50.34,
+      "end": 50.48,
+      "word": "di"
+    },
+    {
+      "start": 50.48,
+      "end": 50.74,
+      "word": "provare"
+    },
+    {
+      "start": 50.74,
+      "end": 50.9,
+      "word": "più"
+    },
+    {
+      "start": 50.9,
+      "end": 51.16,
+      "word": "tagli,"
+    },
+    {
+      "start": 51.18,
+      "end": 51.3,
+      "word": "tra"
+    },
+    {
+      "start": 51.3,
+      "end": 51.46,
+      "word": "cui"
+    },
+    {
+      "start": 51.46,
+      "end": 51.9,
+      "word": "ovviamente"
+    },
+    {
+      "start": 51.9,
+      "end": 52.12,
+      "word": "l"
+    },
+    {
+      "start": 52.12,
+      "end": 52.32,
+      "word": "'entra"
+    },
+    {
+      "start": 52.32,
+      "end": 52.4,
+      "word": "in"
+    },
+    {
+      "start": 52.4,
+      "end": 52.92,
+      "word": "Argentino,"
+    },
+    {
+      "start": 52.98,
+      "end": 53.1,
+      "word": "ovvero"
+    },
+    {
+      "start": 53.1,
+      "end": 53.26,
+      "word": "gli"
+    },
+    {
+      "start": 53.26,
+      "end": 53.7,
+      "word": "Aframma,"
+    },
+    {
+      "start": 53.78,
+      "end": 53.94,
+      "word": "dello"
+    },
+    {
+      "start": 53.94,
+      "end": 54.34,
+      "word": "scamone"
+    },
+    {
+      "start": 54.34,
+      "end": 54.44,
+      "word": "e"
+    },
+    {
+      "start": 54.44,
+      "end": 54.52,
+      "word": "dell"
+    },
+    {
+      "start": 54.52,
+      "end": 55.14,
+      "word": "'asadodetiera"
+    },
+    {
+      "start": 55.14,
+      "end": 55.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 55.4,
+      "end": 55.64,
+      "word": "il"
+    },
+    {
+      "start": 55.64,
+      "end": 55.76,
+      "word": "chior"
+    },
+    {
+      "start": 55.76,
+      "end": 55.96,
+      "word": "riso"
+    },
+    {
+      "start": 55.96,
+      "end": 56.06,
+      "word": "che"
+    },
+    {
+      "start": 56.06,
+      "end": 56.18,
+      "word": "la"
+    },
+    {
+      "start": 56.18,
+      "end": 56.56,
+      "word": "salamella"
+    },
+    {
+      "start": 56.56,
+      "end": 57.12,
+      "word": "argentina."
+    },
+    {
+      "start": 57.12,
+      "end": 57.22,
+      "word": "E"
+    },
+    {
+      "start": 57.22,
+      "end": 57.4,
+      "word": "queste"
+    },
+    {
+      "start": 57.4,
+      "end": 57.88,
+      "word": "costine"
+    },
+    {
+      "start": 57.88,
+      "end": 58.04,
+      "word": "di"
+    },
+    {
+      "start": 58.04,
+      "end": 58.42,
+      "word": "manzo,"
+    },
+    {
+      "start": 58.54,
+      "end": 58.62,
+      "word": "da"
+    },
+    {
+      "start": 58.62,
+      "end": 58.7,
+      "word": "cui"
+    },
+    {
+      "start": 58.7,
+      "end": 58.8,
+      "word": "ho"
+    },
+    {
+      "start": 58.8,
+      "end": 59.2,
+      "word": "iniziato"
+    },
+    {
+      "start": 59.2,
+      "end": 59.32,
+      "word": "il"
+    },
+    {
+      "start": 59.32,
+      "end": 59.36,
+      "word": "mio"
+    },
+    {
+      "start": 59.36,
+      "end": 59.56,
+      "word": "giro"
+    },
+    {
+      "start": 59.56,
+      "end": 59.7,
+      "word": "di"
+    },
+    {
+      "start": 59.7,
+      "end": 60.1,
+      "word": "assaggi,"
+    },
+    {
+      "start": 60.28,
+      "end": 60.54,
+      "word": "trovando"
+    },
+    {
+      "start": 60.54,
+      "end": 60.74,
+      "word": "tra"
+    },
+    {
+      "start": 60.74,
+      "end": 60.86,
+      "word": "l"
+    },
+    {
+      "start": 60.86,
+      "end": 61.02,
+      "word": "'altro"
+    },
+    {
+      "start": 61.02,
+      "end": 61.2,
+      "word": "una"
+    },
+    {
+      "start": 61.2,
+      "end": 61.44,
+      "word": "carne"
+    },
+    {
+      "start": 61.44,
+      "end": 61.96,
+      "word": "davvero"
+    },
+    {
+      "start": 61.96,
+      "end": 62.56,
+      "word": "morbidissima"
+    },
+    {
+      "start": 62.56,
+      "end": 62.7,
+      "word": "che"
+    },
+    {
+      "start": 62.7,
+      "end": 62.84,
+      "word": "si"
+    },
+    {
+      "start": 62.84,
+      "end": 63.54,
+      "word": "staccava"
+    },
+    {
+      "start": 63.54,
+      "end": 64.0,
+      "word": "letteralmente"
+    },
+    {
+      "start": 64.0,
+      "end": 64.2,
+      "word": "dal"
+    },
+    {
+      "start": 64.2,
+      "end": 64.6,
+      "word": "losso."
+    },
+    {
+      "start": 64.64,
+      "end": 64.72,
+      "word": "Dopo"
+    },
+    {
+      "start": 64.72,
+      "end": 64.84,
+      "word": "di"
+    },
+    {
+      "start": 64.84,
+      "end": 64.88,
+      "word": "che"
+    },
+    {
+      "start": 64.88,
+      "end": 65.04,
+      "word": "sono"
+    },
+    {
+      "start": 65.04,
+      "end": 65.36,
+      "word": "passato"
+    },
+    {
+      "start": 65.36,
+      "end": 65.48,
+      "word": "all"
+    },
+    {
+      "start": 65.48,
+      "end": 65.76,
+      "word": "'assaggio"
+    },
+    {
+      "start": 65.76,
+      "end": 65.92,
+      "word": "di"
+    },
+    {
+      "start": 65.92,
+      "end": 66.12,
+      "word": "questo"
+    },
+    {
+      "start": 66.12,
+      "end": 66.6,
+      "word": "scamone"
+    },
+    {
+      "start": 66.6,
+      "end": 66.74,
+      "word": "o"
+    },
+    {
+      "start": 66.74,
+      "end": 66.98,
+      "word": "colita"
+    },
+    {
+      "start": 66.98,
+      "end": 67.1,
+      "word": "di"
+    },
+    {
+      "start": 67.1,
+      "end": 67.56,
+      "word": "quadrille,"
+    },
+    {
+      "start": 67.72,
+      "end": 67.84,
+      "word": "un"
+    },
+    {
+      "start": 67.84,
+      "end": 68.02,
+      "word": "taglio"
+    },
+    {
+      "start": 68.02,
+      "end": 68.42,
+      "word": "simile"
+    },
+    {
+      "start": 68.42,
+      "end": 68.54,
+      "word": "al"
+    },
+    {
+      "start": 68.54,
+      "end": 68.72,
+      "word": "contro"
+    },
+    {
+      "start": 68.72,
+      "end": 69.06,
+      "word": "filetto,"
+    },
+    {
+      "start": 69.12,
+      "end": 69.22,
+      "word": "con"
+    },
+    {
+      "start": 69.22,
+      "end": 69.36,
+      "word": "una"
+    },
+    {
+      "start": 69.36,
+      "end": 69.72,
+      "word": "cottura"
+    },
+    {
+      "start": 69.72,
+      "end": 69.96,
+      "word": "a"
+    },
+    {
+      "start": 69.96,
+      "end": 70.1,
+      "word": "medial"
+    },
+    {
+      "start": 70.1,
+      "end": 70.54,
+      "word": "sangue"
+    },
+    {
+      "start": 70.54,
+      "end": 70.98,
+      "word": "davvero"
+    },
+    {
+      "start": 70.98,
+      "end": 71.42,
+      "word": "perfetto."
+    },
+    {
+      "start": 71.56,
+      "end": 71.66,
+      "word": "Una"
+    },
+    {
+      "start": 71.66,
+      "end": 71.86,
+      "word": "carne"
+    },
+    {
+      "start": 71.86,
+      "end": 72.12,
+      "word": "super"
+    },
+    {
+      "start": 72.12,
+      "end": 72.52,
+      "word": "tenera"
+    },
+    {
+      "start": 72.52,
+      "end": 72.74,
+      "word": "con"
+    },
+    {
+      "start": 72.74,
+      "end": 72.88,
+      "word": "uno"
+    },
+    {
+      "start": 72.88,
+      "end": 73.12,
+      "word": "strato"
+    },
+    {
+      "start": 73.12,
+      "end": 73.32,
+      "word": "di"
+    },
+    {
+      "start": 73.32,
+      "end": 73.76,
+      "word": "grasso"
+    },
+    {
+      "start": 73.76,
+      "end": 73.86,
+      "word": "che"
+    },
+    {
+      "start": 73.86,
+      "end": 73.96,
+      "word": "la"
+    },
+    {
+      "start": 73.96,
+      "end": 74.24,
+      "word": "rende"
+    },
+    {
+      "start": 74.24,
+      "end": 74.44,
+      "word": "quasi"
+    },
+    {
+      "start": 74.44,
+      "end": 74.88,
+      "word": "dolce."
+    },
+    {
+      "start": 74.98,
+      "end": 75.04,
+      "word": "Ho"
+    },
+    {
+      "start": 75.04,
+      "end": 75.16,
+      "word": "poi"
+    },
+    {
+      "start": 75.16,
+      "end": 75.58,
+      "word": "provato"
+    },
+    {
+      "start": 75.58,
+      "end": 75.72,
+      "word": "l"
+    },
+    {
+      "start": 75.72,
+      "end": 76.24,
+      "word": "'entragna"
+    },
+    {
+      "start": 76.24,
+      "end": 76.42,
+      "word": "che"
+    },
+    {
+      "start": 76.42,
+      "end": 76.5,
+      "word": "è"
+    },
+    {
+      "start": 76.5,
+      "end": 76.6,
+      "word": "uno"
+    },
+    {
+      "start": 76.6,
+      "end": 76.76,
+      "word": "dei"
+    },
+    {
+      "start": 76.76,
+      "end": 77.0,
+      "word": "tagli"
+    },
+    {
+      "start": 77.0,
+      "end": 77.18,
+      "word": "più"
+    },
+    {
+      "start": 77.18,
+      "end": 77.68,
+      "word": "saporiti,"
+    },
+    {
+      "start": 77.76,
+      "end": 77.86,
+      "word": "uno"
+    },
+    {
+      "start": 77.86,
+      "end": 78.0,
+      "word": "dei"
+    },
+    {
+      "start": 78.0,
+      "end": 78.46,
+      "word": "migliori"
+    },
+    {
+      "start": 78.46,
+      "end": 78.62,
+      "word": "per"
+    },
+    {
+      "start": 78.62,
+      "end": 78.74,
+      "word": "chi"
+    },
+    {
+      "start": 78.74,
+      "end": 78.86,
+      "word": "ama"
+    },
+    {
+      "start": 78.86,
+      "end": 79.02,
+      "word": "la"
+    },
+    {
+      "start": 79.02,
+      "end": 79.3,
+      "word": "carne,"
+    },
+    {
+      "start": 79.46,
+      "end": 79.54,
+      "word": "poi"
+    },
+    {
+      "start": 79.54,
+      "end": 79.68,
+      "word": "l"
+    },
+    {
+      "start": 79.68,
+      "end": 80.26,
+      "word": "'asadodetiera"
+    },
+    {
+      "start": 80.26,
+      "end": 80.4,
+      "word": "che"
+    },
+    {
+      "start": 80.4,
+      "end": 80.72,
+      "word": "sarebbero"
+    },
+    {
+      "start": 80.72,
+      "end": 80.86,
+      "word": "le"
+    },
+    {
+      "start": 80.86,
+      "end": 81.06,
+      "word": "beef"
+    },
+    {
+      "start": 81.06,
+      "end": 81.34,
+      "word": "ribs,"
+    },
+    {
+      "start": 81.54,
+      "end": 81.6,
+      "word": "e"
+    },
+    {
+      "start": 81.6,
+      "end": 81.74,
+      "word": "il"
+    },
+    {
+      "start": 81.74,
+      "end": 81.92,
+      "word": "chior"
+    },
+    {
+      "start": 81.92,
+      "end": 82.16,
+      "word": "riso"
+    },
+    {
+      "start": 82.16,
+      "end": 82.28,
+      "word": "che"
+    },
+    {
+      "start": 82.28,
+      "end": 82.42,
+      "word": "è"
+    },
+    {
+      "start": 82.42,
+      "end": 82.58,
+      "word": "appunto"
+    },
+    {
+      "start": 82.58,
+      "end": 82.78,
+      "word": "la"
+    },
+    {
+      "start": 82.78,
+      "end": 83.22,
+      "word": "salamella"
+    },
+    {
+      "start": 83.22,
+      "end": 83.9,
+      "word": "argentina,"
+    },
+    {
+      "start": 83.98,
+      "end": 84.2,
+      "word": "molto"
+    },
+    {
+      "start": 84.2,
+      "end": 84.66,
+      "word": "spezziato"
+    },
+    {
+      "start": 84.66,
+      "end": 84.78,
+      "word": "e"
+    },
+    {
+      "start": 84.78,
+      "end": 84.8,
+      "word": "che"
+    },
+    {
+      "start": 84.8,
+      "end": 85.1,
+      "word": "sapeva"
+    },
+    {
+      "start": 85.1,
+      "end": 85.32,
+      "word": "molto"
+    },
+    {
+      "start": 85.32,
+      "end": 85.54,
+      "word": "di"
+    },
+    {
+      "start": 85.54,
+      "end": 85.88,
+      "word": "griglia."
+    },
+    {
+      "start": 85.88,
+      "end": 86.12,
+      "word": "Tutti"
+    },
+    {
+      "start": 86.12,
+      "end": 86.32,
+      "word": "tagli"
+    },
+    {
+      "start": 86.32,
+      "end": 86.46,
+      "word": "di"
+    },
+    {
+      "start": 86.46,
+      "end": 86.72,
+      "word": "carne"
+    },
+    {
+      "start": 86.72,
+      "end": 87.32,
+      "word": "perfetti"
+    },
+    {
+      "start": 87.32,
+      "end": 87.46,
+      "word": "si"
+    },
+    {
+      "start": 87.46,
+      "end": 87.5,
+      "word": "è"
+    },
+    {
+      "start": 87.5,
+      "end": 88.0,
+      "word": "accompagnati"
+    },
+    {
+      "start": 88.0,
+      "end": 88.24,
+      "word": "dalla"
+    },
+    {
+      "start": 88.24,
+      "end": 88.72,
+      "word": "criogia"
+    },
+    {
+      "start": 88.72,
+      "end": 89.28,
+      "word": "argentina,"
+    },
+    {
+      "start": 89.3,
+      "end": 89.44,
+      "word": "il"
+    },
+    {
+      "start": 89.44,
+      "end": 89.76,
+      "word": "classico"
+    },
+    {
+      "start": 89.76,
+      "end": 90.4,
+      "word": "cimiciori,"
+    },
+    {
+      "start": 90.46,
+      "end": 90.58,
+      "word": "ovvero"
+    },
+    {
+      "start": 90.58,
+      "end": 90.72,
+      "word": "due"
+    },
+    {
+      "start": 90.72,
+      "end": 90.94,
+      "word": "salsa"
+    },
+    {
+      "start": 90.94,
+      "end": 91.3,
+      "word": "che"
+    },
+    {
+      "start": 91.3,
+      "end": 91.46,
+      "word": "con"
+    },
+    {
+      "start": 91.46,
+      "end": 91.58,
+      "word": "la"
+    },
+    {
+      "start": 91.58,
+      "end": 91.88,
+      "word": "carne"
+    },
+    {
+      "start": 91.88,
+      "end": 92.12,
+      "word": "non"
+    },
+    {
+      "start": 92.12,
+      "end": 92.42,
+      "word": "possono"
+    },
+    {
+      "start": 92.42,
+      "end": 92.94,
+      "word": "mancare."
+    },
+    {
+      "start": 93.06,
+      "end": 93.14,
+      "word": "E"
+    },
+    {
+      "start": 93.14,
+      "end": 93.28,
+      "word": "come"
+    },
+    {
+      "start": 93.28,
+      "end": 93.68,
+      "word": "contorno"
+    },
+    {
+      "start": 93.68,
+      "end": 93.86,
+      "word": "abbiamo"
+    },
+    {
+      "start": 93.86,
+      "end": 94.26,
+      "word": "provato"
+    },
+    {
+      "start": 94.26,
+      "end": 94.52,
+      "word": "queste"
+    },
+    {
+      "start": 94.52,
+      "end": 94.84,
+      "word": "chips"
+    },
+    {
+      "start": 94.84,
+      "end": 95.08,
+      "word": "di"
+    },
+    {
+      "start": 95.08,
+      "end": 95.4,
+      "word": "patate"
+    },
+    {
+      "start": 95.4,
+      "end": 95.8,
+      "word": "fatte"
+    },
+    {
+      "start": 95.8,
+      "end": 95.92,
+      "word": "da"
+    },
+    {
+      "start": 95.92,
+      "end": 96.12,
+      "word": "loro,"
+    },
+    {
+      "start": 96.26,
+      "end": 96.58,
+      "word": "croccanti"
+    },
+    {
+      "start": 96.58,
+      "end": 96.72,
+      "word": "ma"
+    },
+    {
+      "start": 96.72,
+      "end": 96.84,
+      "word": "lo"
+    },
+    {
+      "start": 96.84,
+      "end": 97.08,
+      "word": "stesso"
+    },
+    {
+      "start": 97.08,
+      "end": 97.26,
+      "word": "con"
+    },
+    {
+      "start": 97.26,
+      "end": 97.36,
+      "word": "la"
+    },
+    {
+      "start": 97.36,
+      "end": 97.78,
+      "word": "consistenza"
+    },
+    {
+      "start": 97.78,
+      "end": 98.0,
+      "word": "della"
+    },
+    {
+      "start": 98.0,
+      "end": 98.38,
+      "word": "patata"
+    },
+    {
+      "start": 98.38,
+      "end": 98.56,
+      "word": "non"
+    },
+    {
+      "start": 98.56,
+      "end": 98.84,
+      "word": "essendo"
+    },
+    {
+      "start": 98.84,
+      "end": 99.18,
+      "word": "tagliate"
+    },
+    {
+      "start": 99.18,
+      "end": 99.5,
+      "word": "troppo"
+    },
+    {
+      "start": 99.5,
+      "end": 99.88,
+      "word": "fini."
+    },
+    {
+      "start": 99.96,
+      "end": 100.04,
+      "word": "E"
+    },
+    {
+      "start": 100.04,
+      "end": 100.14,
+      "word": "poi"
+    },
+    {
+      "start": 100.14,
+      "end": 100.24,
+      "word": "le"
+    },
+    {
+      "start": 100.24,
+      "end": 100.6,
+      "word": "classiche"
+    },
+    {
+      "start": 100.6,
+      "end": 100.84,
+      "word": "patate"
+    },
+    {
+      "start": 100.84,
+      "end": 101.0,
+      "word": "al"
+    },
+    {
+      "start": 101.0,
+      "end": 101.34,
+      "word": "forno"
+    },
+    {
+      "start": 101.34,
+      "end": 101.54,
+      "word": "e"
+    },
+    {
+      "start": 101.54,
+      "end": 101.74,
+      "word": "anche"
+    },
+    {
+      "start": 101.74,
+      "end": 101.9,
+      "word": "dell"
+    },
+    {
+      "start": 101.9,
+      "end": 102.36,
+      "word": "'insalata,"
+    },
+    {
+      "start": 102.4,
+      "end": 102.5,
+      "word": "che"
+    },
+    {
+      "start": 102.5,
+      "end": 102.56,
+      "word": "è"
+    },
+    {
+      "start": 102.56,
+      "end": 102.74,
+      "word": "comunque"
+    },
+    {
+      "start": 102.74,
+      "end": 103.24,
+      "word": "tradizione"
+    },
+    {
+      "start": 103.24,
+      "end": 103.56,
+      "word": "per"
+    },
+    {
+      "start": 103.56,
+      "end": 104.08,
+      "word": "accompagnare"
+    },
+    {
+      "start": 104.08,
+      "end": 104.22,
+      "word": "la"
+    },
+    {
+      "start": 104.22,
+      "end": 104.48,
+      "word": "carne."
+    },
+    {
+      "start": 104.58,
+      "end": 104.62,
+      "word": "E"
+    },
+    {
+      "start": 104.62,
+      "end": 104.68,
+      "word": "poi"
+    },
+    {
+      "start": 104.68,
+      "end": 104.8,
+      "word": "per"
+    },
+    {
+      "start": 104.8,
+      "end": 105.1,
+      "word": "chiudere"
+    },
+    {
+      "start": 105.1,
+      "end": 105.32,
+      "word": "questa"
+    },
+    {
+      "start": 105.32,
+      "end": 105.54,
+      "word": "cena"
+    },
+    {
+      "start": 105.54,
+      "end": 106.04,
+      "word": "argentina"
+    },
+    {
+      "start": 106.04,
+      "end": 106.38,
+      "word": "tipica"
+    },
+    {
+      "start": 106.38,
+      "end": 106.54,
+      "word": "abbiamo"
+    },
+    {
+      "start": 106.54,
+      "end": 106.9,
+      "word": "preso"
+    },
+    {
+      "start": 106.9,
+      "end": 107.04,
+      "word": "il"
+    },
+    {
+      "start": 107.04,
+      "end": 107.16,
+      "word": "loro"
+    },
+    {
+      "start": 107.16,
+      "end": 107.58,
+      "word": "pancake"
+    },
+    {
+      "start": 107.58,
+      "end": 107.9,
+      "word": "con"
+    },
+    {
+      "start": 107.9,
+      "end": 108.16,
+      "word": "dolce"
+    },
+    {
+      "start": 108.16,
+      "end": 108.3,
+      "word": "de"
+    },
+    {
+      "start": 108.3,
+      "end": 108.44,
+      "word": "leche"
+    },
+    {
+      "start": 108.44,
+      "end": 108.98,
+      "word": "accompagnato"
+    },
+    {
+      "start": 108.98,
+      "end": 109.16,
+      "word": "con"
+    },
+    {
+      "start": 109.16,
+      "end": 109.66,
+      "word": "degelato,"
+    },
+    {
+      "start": 109.78,
+      "end": 109.88,
+      "word": "che"
+    },
+    {
+      "start": 109.88,
+      "end": 109.96,
+      "word": "è"
+    },
+    {
+      "start": 109.96,
+      "end": 110.28,
+      "word": "praticamente"
+    },
+    {
+      "start": 110.28,
+      "end": 110.62,
+      "word": "uno"
+    },
+    {
+      "start": 110.62,
+      "end": 110.86,
+      "word": "cre."
+    },
+    {
+      "start": 111.16,
+      "end": 111.3,
+      "word": "Con"
+    },
+    {
+      "start": 111.3,
+      "end": 111.56,
+      "word": "questa"
+    },
+    {
+      "start": 111.56,
+      "end": 111.84,
+      "word": "crema"
+    },
+    {
+      "start": 111.84,
+      "end": 111.98,
+      "word": "al"
+    },
+    {
+      "start": 111.98,
+      "end": 112.18,
+      "word": "latte"
+    },
+    {
+      "start": 112.18,
+      "end": 112.5,
+      "word": "veramente"
+    },
+    {
+      "start": 112.5,
+      "end": 113.2,
+      "word": "incredibile"
+    },
+    {
+      "start": 113.2,
+      "end": 113.4,
+      "word": "che"
+    },
+    {
+      "start": 113.4,
+      "end": 113.46,
+      "word": "è"
+    },
+    {
+      "start": 113.46,
+      "end": 113.54,
+      "word": "l"
+    },
+    {
+      "start": 113.54,
+      "end": 113.78,
+      "word": "'assessa"
+    },
+    {
+      "start": 113.78,
+      "end": 113.98,
+      "word": "che"
+    },
+    {
+      "start": 113.98,
+      "end": 114.04,
+      "word": "ha"
+    },
+    {
+      "start": 114.04,
+      "end": 114.54,
+      "word": "accompagnato"
+    },
+    {
+      "start": 114.54,
+      "end": 114.7,
+      "word": "il"
+    },
+    {
+      "start": 114.7,
+      "end": 114.82,
+      "word": "loro"
+    },
+    {
+      "start": 114.82,
+      "end": 115.34,
+      "word": "flanca"
+    },
+    {
+      "start": 115.34,
+      "end": 115.64,
+      "word": "zero."
+    },
+    {
+      "start": 115.64,
+      "end": 115.92,
+      "word": "Uno"
+    },
+    {
+      "start": 115.92,
+      "end": 116.04,
+      "word": "dei"
+    },
+    {
+      "start": 116.04,
+      "end": 116.26,
+      "word": "dolci"
+    },
+    {
+      "start": 116.26,
+      "end": 116.42,
+      "word": "più"
+    },
+    {
+      "start": 116.42,
+      "end": 116.78,
+      "word": "tipici"
+    },
+    {
+      "start": 116.78,
+      "end": 116.92,
+      "word": "della"
+    },
+    {
+      "start": 116.92,
+      "end": 117.18,
+      "word": "cultura"
+    },
+    {
+      "start": 117.18,
+      "end": 117.86,
+      "word": "argentina,"
+    },
+    {
+      "start": 117.92,
+      "end": 118.0,
+      "word": "che"
+    },
+    {
+      "start": 118.0,
+      "end": 118.04,
+      "word": "ha"
+    },
+    {
+      "start": 118.04,
+      "end": 118.4,
+      "word": "concluso"
+    },
+    {
+      "start": 118.4,
+      "end": 118.86,
+      "word": "perfettamente"
+    },
+    {
+      "start": 118.86,
+      "end": 119.06,
+      "word": "questa"
+    },
+    {
+      "start": 119.06,
+      "end": 119.62,
+      "word": "esperienza"
+    },
+    {
+      "start": 119.62,
+      "end": 120.02,
+      "word": "davvero"
+    },
+    {
+      "start": 120.02,
+      "end": 120.36,
+      "word": "clà."
+    },
+    {
+      "start": 120.74,
+      "end": 121.28,
+      "word": "Morosa."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "dur": 2.1,
+      "transcript": "La vera carne argentina a Milano? Oggi ragazzi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.1,
+      "end": 3.9,
+      "dur": 1.8,
+      "transcript": "proviamo il primo ristorante argentino in"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.9,
+      "end": 5.7,
+      "dur": 1.8,
+      "transcript": "Italia. Siamo da Don Juan, in Via Alta"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.7,
+      "end": 7.3,
+      "dur": 1.6,
+      "transcript": "Guardia, in Porta Romana. Uno dei migliori"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.3,
+      "end": 8.8,
+      "dur": 1.5,
+      "transcript": "ristoranti di tutta Italia, con una"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.8,
+      "end": 11.3,
+      "dur": 2.5,
+      "transcript": "location molto curata ed elegante, e dove, essendo stavato"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.3,
+      "end": 12.7,
+      "dur": 1.4,
+      "transcript": "a pranzo, abbiamo provato la loro promozione"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.7,
+      "end": 14.733,
+      "dur": 2.033,
+      "transcript": "grillata libera. Iniziando con questo bassolletto"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.733,
+      "end": 16.7,
+      "dur": 1.967,
+      "transcript": "di pane, con un po' di focaccia e crostini"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.7,
+      "end": 17.933,
+      "dur": 1.233,
+      "transcript": "col paté di pollo, poi un bel"
+    },
+    {
+      "shot_idx": 10,
+      "start": 17.933,
+      "end": 19.967,
+      "dur": 2.033,
+      "transcript": "bicchiere di questo malbec argentino"
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.967,
+      "end": 22.4,
+      "dur": 2.433,
+      "transcript": "marchiato Don Juan del 2022, che nonostante"
+    },
+    {
+      "shot_idx": 12,
+      "start": 22.4,
+      "end": 24.133,
+      "dur": 1.733,
+      "transcript": "non sia un amante del vino, comunque apprezzato,"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.133,
+      "end": 26.333,
+      "dur": 2.2,
+      "transcript": "non essendo troppo forte, e dopo di che siamo passati subito"
+    },
+    {
+      "shot_idx": 14,
+      "start": 26.333,
+      "end": 28.3,
+      "dur": 1.967,
+      "transcript": "agli antipasti con questa provoletta"
+    },
+    {
+      "shot_idx": 15,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0,
+      "transcript": "alla Parria, ovvero questa fetta di provola"
+    },
+    {
+      "shot_idx": 16,
+      "start": 30.3,
+      "end": 31.467,
+      "dur": 1.167,
+      "transcript": "ben condita e servita su"
+    },
+    {
+      "shot_idx": 17,
+      "start": 31.467,
+      "end": 32.833,
+      "dur": 1.367,
+      "transcript": "questa griglia bollente, tanto"
+    },
+    {
+      "shot_idx": 18,
+      "start": 32.833,
+      "end": 34.333,
+      "dur": 1.5,
+      "transcript": "da renderla bella morbida, ma allo"
+    },
+    {
+      "shot_idx": 19,
+      "start": 34.333,
+      "end": 35.8,
+      "dur": 1.467,
+      "transcript": "stesso tempo con uno strato ben"
+    },
+    {
+      "shot_idx": 20,
+      "start": 35.8,
+      "end": 38.367,
+      "dur": 2.567,
+      "transcript": "croccante. Dopo di che siamo passati alle empanadas con prosciutte"
+    },
+    {
+      "shot_idx": 21,
+      "start": 38.367,
+      "end": 40.367,
+      "dur": 2.0,
+      "transcript": "formaggio, fritta ma per niente unta, e col"
+    },
+    {
+      "shot_idx": 22,
+      "start": 40.367,
+      "end": 43.433,
+      "dur": 3.067,
+      "transcript": "formaggio bello filante, e questa sorta di fettere di tortiglia di patate"
+    },
+    {
+      "shot_idx": 23,
+      "start": 43.433,
+      "end": 44.2,
+      "dur": 0.767,
+      "transcript": "molto buona. Ed"
+    },
+    {
+      "shot_idx": 24,
+      "start": 44.2,
+      "end": 46.0,
+      "dur": 1.8,
+      "transcript": "arrivando al punto forte di questo menu speciale"
+    },
+    {
+      "shot_idx": 25,
+      "start": 46.0,
+      "end": 47.833,
+      "dur": 1.833,
+      "transcript": "per sabato a pranzo, con soli 45"
+    },
+    {
+      "shot_idx": 26,
+      "start": 47.833,
+      "end": 50.867,
+      "dur": 3.033,
+      "transcript": "euro per su, avete anche questa grillata mista, che vi permette di provare più"
+    },
+    {
+      "shot_idx": 27,
+      "start": 50.867,
+      "end": 52.6,
+      "dur": 1.733,
+      "transcript": "tagli, tra cui ovviamente l 'entra in"
+    },
+    {
+      "shot_idx": 28,
+      "start": 52.6,
+      "end": 55.1,
+      "dur": 2.5,
+      "transcript": "Argentino, ovvero gli Aframma, dello scamone e dell 'asadodetiera"
+    },
+    {
+      "shot_idx": 29,
+      "start": 55.1,
+      "end": 57.133,
+      "dur": 2.033,
+      "transcript": "ovviamente il chior riso che la salamella argentina."
+    },
+    {
+      "shot_idx": 30,
+      "start": 57.133,
+      "end": 59.1,
+      "dur": 1.967,
+      "transcript": "E queste costine di manzo, da cui ho iniziato"
+    },
+    {
+      "shot_idx": 31,
+      "start": 59.1,
+      "end": 60.9,
+      "dur": 1.8,
+      "transcript": "il mio giro di assaggi, trovando tra l"
+    },
+    {
+      "shot_idx": 32,
+      "start": 60.9,
+      "end": 61.9,
+      "dur": 1.0,
+      "transcript": "'altro una carne davvero"
+    },
+    {
+      "shot_idx": 33,
+      "start": 61.9,
+      "end": 65.867,
+      "dur": 3.967,
+      "transcript": "morbidissima che si staccava letteralmente dal losso. Dopo di che sono passato all 'assaggio di"
+    },
+    {
+      "shot_idx": 34,
+      "start": 65.867,
+      "end": 67.1,
+      "dur": 1.233,
+      "transcript": "questo scamone o colita di"
+    },
+    {
+      "shot_idx": 35,
+      "start": 67.1,
+      "end": 70.6,
+      "dur": 3.5,
+      "transcript": "quadrille, un taglio simile al contro filetto, con una cottura a medial sangue"
+    },
+    {
+      "shot_idx": 36,
+      "start": 70.6,
+      "end": 72.0,
+      "dur": 1.4,
+      "transcript": "davvero perfetto. Una carne super"
+    },
+    {
+      "shot_idx": 37,
+      "start": 72.0,
+      "end": 73.233,
+      "dur": 1.233,
+      "transcript": "tenera con uno strato di"
+    },
+    {
+      "shot_idx": 38,
+      "start": 73.233,
+      "end": 75.267,
+      "dur": 2.033,
+      "transcript": "grasso che la rende quasi dolce. Ho poi"
+    },
+    {
+      "shot_idx": 39,
+      "start": 75.267,
+      "end": 77.033,
+      "dur": 1.767,
+      "transcript": "provato l 'entragna che è uno dei tagli"
+    },
+    {
+      "shot_idx": 40,
+      "start": 77.033,
+      "end": 79.033,
+      "dur": 2.0,
+      "transcript": "più saporiti, uno dei migliori per chi ama la"
+    },
+    {
+      "shot_idx": 41,
+      "start": 79.033,
+      "end": 81.033,
+      "dur": 2.0,
+      "transcript": "carne, poi l 'asadodetiera che sarebbero le beef"
+    },
+    {
+      "shot_idx": 42,
+      "start": 81.033,
+      "end": 83.733,
+      "dur": 2.7,
+      "transcript": "ribs, e il chior riso che è appunto la salamella argentina,"
+    },
+    {
+      "shot_idx": 43,
+      "start": 83.733,
+      "end": 85.1,
+      "dur": 1.367,
+      "transcript": "molto spezziato e che sapeva"
+    },
+    {
+      "shot_idx": 44,
+      "start": 85.1,
+      "end": 87.133,
+      "dur": 2.033,
+      "transcript": "molto di griglia. Tutti tagli di carne perfetti"
+    },
+    {
+      "shot_idx": 45,
+      "start": 87.133,
+      "end": 88.967,
+      "dur": 1.833,
+      "transcript": "si è accompagnati dalla criogia"
+    },
+    {
+      "shot_idx": 46,
+      "start": 88.967,
+      "end": 90.567,
+      "dur": 1.6,
+      "transcript": "argentina, il classico cimiciori, ovvero"
+    },
+    {
+      "shot_idx": 47,
+      "start": 90.567,
+      "end": 92.433,
+      "dur": 1.867,
+      "transcript": "due salsa che con la carne non possono"
+    },
+    {
+      "shot_idx": 48,
+      "start": 92.433,
+      "end": 94.033,
+      "dur": 1.6,
+      "transcript": "mancare. E come contorno abbiamo"
+    },
+    {
+      "shot_idx": 49,
+      "start": 94.033,
+      "end": 96.2,
+      "dur": 2.167,
+      "transcript": "provato queste chips di patate fatte da loro,"
+    },
+    {
+      "shot_idx": 50,
+      "start": 96.2,
+      "end": 97.767,
+      "dur": 1.567,
+      "transcript": "croccanti ma lo stesso con la consistenza"
+    },
+    {
+      "shot_idx": 51,
+      "start": 97.767,
+      "end": 99.933,
+      "dur": 2.167,
+      "transcript": "della patata non essendo tagliate troppo fini."
+    },
+    {
+      "shot_idx": 52,
+      "start": 99.933,
+      "end": 101.9,
+      "dur": 1.967,
+      "transcript": "E poi le classiche patate al forno e anche dell"
+    },
+    {
+      "shot_idx": 53,
+      "start": 101.9,
+      "end": 103.533,
+      "dur": 1.633,
+      "transcript": "'insalata, che è comunque tradizione per"
+    },
+    {
+      "shot_idx": 54,
+      "start": 103.533,
+      "end": 106.6,
+      "dur": 3.067,
+      "transcript": "accompagnare la carne. E poi per chiudere questa cena argentina tipica abbiamo"
+    },
+    {
+      "shot_idx": 55,
+      "start": 106.6,
+      "end": 108.567,
+      "dur": 1.967,
+      "transcript": "preso il loro pancake con dolce de leche"
+    },
+    {
+      "shot_idx": 56,
+      "start": 108.567,
+      "end": 110.433,
+      "dur": 1.867,
+      "transcript": "accompagnato con degelato, che è praticamente"
+    },
+    {
+      "shot_idx": 57,
+      "start": 110.433,
+      "end": 112.233,
+      "dur": 1.8,
+      "transcript": "uno cre. Con questa crema al latte"
+    },
+    {
+      "shot_idx": 58,
+      "start": 112.233,
+      "end": 113.6,
+      "dur": 1.367,
+      "transcript": "veramente incredibile che è l"
+    },
+    {
+      "shot_idx": 59,
+      "start": 113.6,
+      "end": 115.6,
+      "dur": 2.0,
+      "transcript": "'assessa che ha accompagnato il loro flanca zero."
+    },
+    {
+      "shot_idx": 60,
+      "start": 115.6,
+      "end": 117.9,
+      "dur": 2.3,
+      "transcript": "Uno dei dolci più tipici della cultura argentina,"
+    },
+    {
+      "shot_idx": 61,
+      "start": 117.9,
+      "end": 119.7,
+      "dur": 1.8,
+      "transcript": "che ha concluso perfettamente questa esperienza"
+    },
+    {
+      "shot_idx": 62,
+      "start": 119.7,
+      "end": 121.7,
+      "dur": 2.0,
+      "transcript": "davvero clà. Morosa."
+    }
+  ],
+  "full_text": "La vera carne argentina a Milano? Oggi ragazzi proviamo il primo ristorante argentino in Italia. Siamo da Don Juan, in Via Alta Guardia, in Porta Romana. Uno dei migliori ristoranti di tutta Italia, con una location molto curata ed elegante, e dove, essendo stavato a pranzo, abbiamo provato la loro promozione grillata libera. Iniziando con questo bassolletto di pane, con un po' di focaccia e crostini col paté di pollo, poi un bel bicchiere di questo malbec argentino marchiato Don Juan del 2022, che nonostante non sia un amante del vino, comunque apprezzato, non essendo troppo forte, e dopo di che siamo passati subito agli antipasti con questa provoletta alla Parria, ovvero questa fetta di provola ben condita e servita su questa griglia bollente, tanto da renderla bella morbida, ma allo stesso tempo con uno strato ben croccante. Dopo di che siamo passati alle empanadas con prosciutte formaggio, fritta ma per niente unta, e col formaggio bello filante, e questa sorta di fettere di tortiglia di patate molto buona. Ed arrivando al punto forte di questo menu speciale per sabato a pranzo, con soli 45 euro per su, avete anche questa grillata mista, che vi permette di provare più tagli, tra cui ovviamente l'entra in Argentino, ovvero gli Aframma, dello scamone e dell'asadodetiera ovviamente il chior riso che la salamella argentina. E queste costine di manzo, da cui ho iniziato il mio giro di assaggi, trovando tra l'altro una carne davvero morbidissima che si staccava letteralmente dal losso. Dopo di che sono passato all'assaggio di questo scamone o colita di quadrille, un taglio simile al contro filetto, con una cottura a medial sangue davvero perfetto. Una carne super tenera con uno strato di grasso che la rende quasi dolce. Ho poi provato l'entragna che è uno dei tagli più saporiti, uno dei migliori per chi ama la carne, poi l'asadodetiera che sarebbero le beef ribs, e il chior riso che è appunto la salamella argentina, molto spezziato e che sapeva molto di griglia. Tutti tagli di carne perfetti si è accompagnati dalla criogia argentina, il classico cimiciori, ovvero due salsa che con la carne non possono mancare. E come contorno abbiamo provato queste chips di patate fatte da loro, croccanti ma lo stesso con la consistenza della patata non essendo tagliate troppo fini. E poi le classiche patate al forno e anche dell'insalata, che è comunque tradizione per accompagnare la carne. E poi per chiudere questa cena argentina tipica abbiamo preso il loro pancake con dolce de leche accompagnato con degelato, che è praticamente uno cre. Con questa crema al latte veramente incredibile che è l'assessa che ha accompagnato il loro flanca zero. Uno dei dolci più tipici della cultura argentina, che ha concluso perfettamente questa esperienza davvero clà. Morosa.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

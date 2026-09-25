@@ -1,0 +1,294 @@
+{
+  "title": "Wing Stop Milano - Le ali più croccanti",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 2.5,
+      "scene_need": [
+        "venue_interior_wide"
+      ],
+      "moment": "ingresso locale WingStop con giochi claw machine"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "macchina Coca-Cola Freestyle rossa illuminata"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente osserva vassoi pieni di ali"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate croccanti"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "texture dettagliata della panatura ali"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vassoi sovrapposti mostrati al pubblico"
+    },
+    {
+      "idx": 7,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio ambiente moderno con colori brand"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.3,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "mano intinge ala nella salsa bianca"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "bevanda gialla versata da distributore Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge bicchiere con logo stampato"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "bevanda sollevata verso bocca per assaggio"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "espressione soddisfatta durante assaggio ali"
+    },
+    {
+      "idx": 13,
+      "type": "product",
+      "duration": 2.3,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio croccantezza ali spezzate"
+    },
+    {
+      "idx": 14,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "particolare arredamento street art locale"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mano solleva patata lunga croccante"
+    },
+    {
+      "idx": 16,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "zoom su contorno patate container verde"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 2.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ravvicinato ali più succose"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.3,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "atmosfera locale con illuminazione caratteristica"
+    },
+    {
+      "idx": 19,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente annuisce approvando il gusto"
+    },
+    {
+      "idx": 20,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "salsa che cola dall'ala fritta"
+    },
+    {
+      "idx": 21,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio schermo menu Coca Freestyle"
+    },
+    {
+      "idx": 22,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "gesto naturale preparazione a mangiare"
+    },
+    {
+      "idx": 23,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "particolare texture croccante esterno ali"
+    },
+    {
+      "idx": 24,
+      "type": "product",
+      "duration": 2.3,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "zoom su doratura perfetta panatura"
+    },
+    {
+      "idx": 25,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani che afferrano ali dal vassoio"
+    },
+    {
+      "idx": 26,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "presentazione completa vassoi colorati"
+    },
+    {
+      "idx": 27,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ambiente giovanile con branding WingStop"
+    },
+    {
+      "idx": 28,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente mostra soddisfazione per porzioni"
+    },
+    {
+      "idx": 29,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "ultimo dettaglio salse e condimenti"
+    },
+    {
+      "idx": 30,
+      "type": "cta",
+      "duration": 2.3,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente invita a provare esperienza"
+    },
+    {
+      "idx": 31,
+      "type": "cta",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "ultimo sguardo ali invitanti croccanti"
+    },
+    {
+      "idx": 32,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "chiusura su logo o elemento riconoscibile"
+    }
+  ],
+  "edl_job_id": 197
+}

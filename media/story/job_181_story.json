@@ -1,0 +1,294 @@
+{
+  "title": "Wing Stop Milano - Il verdetto definitivo",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "insegna e parete verde MILANO, claim iniziale forte"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem touchscreen menu inquadrato, si ordina"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo si siede al tavolo sorridente in attesa"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista d'insieme tavolo pieno di ali e patate"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate croccanti"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani toccano le ali mostrando croccantezza"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "mano intinge ala nella salsa crema"
+    },
+    {
+      "idx": 8,
+      "type": "discovery",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dispenser bevande al banco, dettaglio locale"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano raccoglie bicchiere dalla macchina Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente mostra bicchiere grande logo Wing Stop"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo beve un sorso soddisfatto"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano patate fritte croccanti dorate"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo sorride mordendo un'ala grande"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani spezzano ala mostrando interno succoso"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ambiente interno locale, tavoli occupati clienti"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo tiene vassoi ali e patate soddisfatto"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primissimo piano salsa che cola dall'ala"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "parete verde e branding locale, atmosfera finale"
+    },
+    {
+      "idx": 19,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "nuggets croccanti mostrati da vicino"
+    },
+    {
+      "idx": 20,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo assaggia nuggets con espressione entusiasta"
+    },
+    {
+      "idx": 21,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio patate con salse varie sul tavolo"
+    },
+    {
+      "idx": 22,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu con prezzi inquadrato di nuovo"
+    },
+    {
+      "idx": 23,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani prendono patata intingendola in salsa"
+    },
+    {
+      "idx": 24,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vassoio completo ripreso dall'alto"
+    },
+    {
+      "idx": 25,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo commenta gusto con gesto mani"
+    },
+    {
+      "idx": 26,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "bicchiere ripreso ancora vicino al vassoio"
+    },
+    {
+      "idx": 27,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "ultimo primo piano ali rimaste sul vassoio"
+    },
+    {
+      "idx": 28,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "vista ambiente locale pieno di gente"
+    },
+    {
+      "idx": 29,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo guarda in camera con consiglio finale"
+    },
+    {
+      "idx": 30,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani indicano vassoio come raccomandazione"
+    },
+    {
+      "idx": 31,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ultima inquadratura insegna locale Milano"
+    },
+    {
+      "idx": 32,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ragazzo saluta sorridendo chiusura video"
+    }
+  ],
+  "edl_job_id": 181
+}

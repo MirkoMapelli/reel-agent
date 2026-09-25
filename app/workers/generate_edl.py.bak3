@@ -1,0 +1,349 @@
+"""Genera EDL partendo dalle scene 'keep' della curation (o fallback raw)."""
+import os
+import json
+import base64
+import re
+from datetime import datetime
+
+from app.config import CFG
+from app.jobs import manager
+from app.db import get_conn
+
+
+def _b64(path):
+    with open(path, "rb") as f:
+        return base64.b64encode(f.read()).decode()
+
+
+def _load_profile(profile_id):
+    with get_conn() as conn:
+        row = conn.execute("SELECT style_json FROM profiles WHERE id=?", (profile_id,)).fetchone()
+    if not row:
+        raise RuntimeError(f"Profilo #{profile_id} non trovato.")
+    return json.loads(row["style_json"])
+
+
+def _load_latest_curated():
+    d = os.path.join(CFG["MEDIA_DIR"], "curated")
+    if not os.path.isdir(d):
+        return None
+    files = sorted(
+        [os.path.join(d, f) for f in os.listdir(d)
+         if f.startswith("job_") and f.endswith("_curated.json")],
+        key=os.path.getmtime, reverse=True,
+    )
+    if not files:
+        return None
+    with open(files[0]) as f:
+        return json.load(f)
+
+
+def _scenes_from_curated(curated):
+    out = []
+    for s in curated.get("scenes", []):
+        if s.get("decision") != "keep":
+            continue
+        out.append({
+            "scene_id": s.get("id"),
+            "clip_name": s.get("clip_name"),
+            "clip_path": s.get("clip_path"),
+            "scene_index": s.get("scene_index"),
+            "start": s.get("start"),
+            "end": s.get("end"),
+            "duration": s.get("duration"),
+            "role": s.get("role", "detail"),
+            "keyframe": (s.get("keyframes") or [None])[len(s.get("keyframes") or [None]) // 2],
+        })
+    return out
+
+
+def _build_prompt(profile, scenes, venue_name=""):
+    sub = profile.get("subtitle_style", {})
+    nar = profile.get("narrative", {})
+    met = profile.get("metrics", {})
+    tech = profile.get("technical_style", {})
+    closing = profile.get("closing_pattern", {})
+    closing_desc = closing.get("description", "") if isinstance(closing, dict) else ""
+    closing_type = closing.get("pattern", "") if isinstance(closing, dict) else ""
+    closing_vo = closing.get("voiceover_ending", "") if isinstance(closing, dict) else ""
+
+    avg_shot = met.get("avg_shot_duration_sec", 2.3)
+    target_dur_shot = avg_shot  # alias per il prompt
+    target_dur = met.get("target_duration_sec", 35.0)
+    target_dur_min = int(target_dur * 0.90)   # 54s se target=60
+    target_dur_max = int(target_dur * 1.15)   # 69s se target=60
+    # Numero minimo di scene per raggiungere il target con shot da 3s
+    n_scene_min = max(17, int(target_dur / 3.0))
+
+    lines = []
+    for s in scenes:
+        lines.append(
+            f"scene_id={s['scene_id']:>3} · {s['clip_name']:<18} "
+            f"· durata={s['duration']:.2f}s · ruolo={s['role']}"
+        )
+    scenes_block = "\n".join(lines)
+    n_available = len(scenes)
+
+    # Clausinga per nome locale (separata per evitare nested f-string)
+    if venue_name:
+        venue_clause = f'NOME LOCALE: "{venue_name}" — menzionalo ALMENO UNA VOLTA nel voiceover in modo naturale.'
+    else:
+        venue_clause = ''
+
+    prompt = f"""Sei un Senior Video Editor TikTok/Reels food. Hai già analizzato i raw e selezionato SOLO le scene buone.
+
+## PROFILO DI STILE appreso
+- Hook (primi 2-3s): {nar.get('hook_style','')}
+- Struttura: {nar.get('narrative_structure','')}
+- Tono: {nar.get('tone_of_voice','')}
+- Ritmo: {nar.get('pacing_style','')} (shot medio: {avg_shot:.2f}s)
+- Sequenza inquadrature: {nar.get('shot_sequence','')}
+- CTA: {nar.get('call_to_action_style','')}
+- Pattern di chiusura osservato: {closing_type} — {closing_desc}
+- Come chiudono il voiceover i riferimenti: {closing_vo}
+
+## STILE TECNICO
+- Transizione dominante: {tech.get('dominant_transition', 'cut')}
+- Movimento camera dominante: {tech.get('dominant_motion', 'static')}
+- Composizione dominante: {tech.get('dominant_composition', 'hands')}
+
+{venue_clause}
+
+## SCENE BUONE DISPONIBILI ({n_available})
+{scenes_block}
+
+## COMPITO
+Costruisci l'ORDINE NARRATIVO del video finale. **NON decidere tu le durate né il numero di scene** — il software le calcolerà automaticamente.
+
+Rispondi ESCLUSIVAMENTE con JSON valido:
+
+{{
+  "title": "Titolo breve (max 40 char)",
+  "voiceover_script": "Testo continuo 90-140 parole da leggere ad alta voce. Segui hook -> sviluppo -> CTA del profilo. Deve essere lungo abbastanza da coprire ~60 secondi di parlato.",
+  "timeline": [
+    {{
+      "scene_id": 5,
+      "subtitle_text": "Porzione esatta del voiceover letta durante questa scena"
+    }}
+  ]
+}}
+
+## REGOLA D'ORO — NUMERO DI SCENE
+Includi nella timeline **ALMENO 20 scene** (idealmente 22-25). 
+- Hai {n_available} scene buone disponibili, usane il maggior numero possibile.
+- Se includi meno di 20 scene, il montaggio sarà RIFIUTATO automaticamente.
+- **NON scrivere `in_sec` o `out_sec`**: il software li calcolerà per centrare la durata target di {target_dur:.0f}s.
+
+## REGOLE NARRATIVE
+A) CHIUSURA: l'ultima scena deve essere conclusiva (piatto completo, reazione finale).
+B) CHIUSURA VOICEOVER: termina con CTA netta ({closing_vo}).
+C) PRIMA SCENA: apri con inquadratura FORTE (piatto pronto, protagonista in azione).
+D) COMPOSIZIONE: privilegia "{tech.get('dominant_composition', 'unknown')}".
+
+## REGOLA SUL VOICEOVER
+Il voiceover deve essere **90-140 parole** (circa 55-75 secondi di parlato). Deve coprire TUTTE le 20+ scene.
+La concatenazione dei `subtitle_text` deve ricostruire ESATTAMENTE il voiceover_script.
+"""
+    return prompt
+
+
+def generate_edl(job_id, profile_id, venue_name=""):
+    manager.log(job_id, f"Carico profilo #{profile_id}…")
+    profile = _load_profile(profile_id)
+
+    curated = _load_latest_curated()
+    if curated:
+        scenes = _scenes_from_curated(curated)
+        manager.log(job_id,
+            f"Curation trovata: {len(scenes)} scene 'keep' su {curated.get('total',0)} totali.")
+        if not scenes:
+            manager.fail(job_id, "Nessuna scena 'keep' nella curation.")
+            return
+    else:
+        manager.log(job_id, "⚠ Nessuna curation trovata, uso TUTTE le scene del manifest (fallback).",
+                    level="error")
+        # Fallback: ogni scena del manifest diventa candidata
+        d = os.path.join(CFG["MEDIA_DIR"], "analysis")
+        files = sorted(
+            [os.path.join(d, f) for f in os.listdir(d)
+             if f.startswith("job_") and f.endswith("_manifest.json")],
+            key=os.path.getmtime, reverse=True,
+        )
+        if not files:
+            manager.fail(job_id, "Nessun manifest raw.")
+            return
+        with open(files[0]) as f:
+            manifest = json.load(f)
+        scenes = []
+        sid = 0
+        for v in manifest.get("videos", []):
+            for si, sc in enumerate(v.get("scenes", [])):
+                dur = float(sc["end"]) - float(sc["start"])
+                if dur < 0.3:
+                    continue
+                scenes.append({
+                    "scene_id": sid,
+                    "clip_name": v.get("name","?"),
+                    "clip_path": v.get("path"),
+                    "scene_index": si,
+                    "start": float(sc["start"]),
+                    "end": float(sc["end"]),
+                    "duration": round(dur, 2),
+                    "role": "detail",
+                    "keyframe": None,
+                })
+                sid += 1
+        if not scenes:
+            manager.fail(job_id, "Nessuna scena disponibile.")
+            return
+
+    manager.update_progress(job_id, 10, "preparazione prompt…")
+    prompt = _build_prompt(profile, scenes, venue_name)
+    manager.log(job_id, f"Prompt: {len(prompt)} char, {len(scenes)} scene candidate.")
+
+    from anthropic import Anthropic
+    client = Anthropic(api_key=CFG["ANTHROPIC_API_KEY"])
+
+    content = [{"type": "text", "text": prompt}]
+    # Allega 1 keyframe per le prime 40 scene (per confermare visivamente il contesto)
+    for s in scenes[:40]:
+        if s.get("keyframe") and os.path.exists(s["keyframe"]):
+            try:
+                content.append({"type": "text", "text": f"--- keyframe scene_id={s['scene_id']} ---"})
+                content.append({
+                    "type": "image",
+                    "source": {"type": "base64", "media_type": "image/jpeg",
+                               "data": _b64(s["keyframe"])},
+                })
+            except Exception:
+                pass
+
+    manager.update_progress(job_id, 25, "chiamo Claude…")
+    manager.log(job_id, "Invio richiesta a Claude…")
+    resp = client.messages.create(
+        model=CFG["CLAUDE_MODEL"],
+        max_tokens=4000,
+        messages=[{"role": "user", "content": content}],
+    )
+    raw = resp.content[0].text.strip()
+
+    manager.update_progress(job_id, 75, "parsing EDL…")
+    if "```" in raw:
+        raw = re.sub(r"```json\s*", "", raw)
+        raw = re.sub(r"```\s*", "", raw)
+    m = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not m:
+        manager.fail(job_id, f"Claude non ha restituito JSON. Raw: {raw[:400]}")
+        return
+    try:
+        edl = json.loads(m.group(0))
+    except Exception as e:
+        manager.fail(job_id, f"JSON parse: {e}")
+        return
+
+    # Risolvi scene_id -> dettagli completi
+    by_id = {s["scene_id"]: s for s in scenes}
+
+    # 1) Timeline da Claude (solo scene_id + subtitle_text)
+    claude_timeline = edl.get("timeline", [])
+    used_ids = set()
+    ordered_scenes = []
+    for seg in claude_timeline:
+        sid = seg.get("scene_id")
+        if sid in by_id and sid not in used_ids:
+            ordered_scenes.append({
+                "scene_id": sid,
+                "subtitle_text": seg.get("subtitle_text", ""),
+            })
+            used_ids.add(sid)
+
+    # 2) Auto-expand se Claude ne ha date poche
+    MIN_SCENES = 18
+    TARGET_SCENES = max(MIN_SCENES, int(round(target_dur / 3.0)))
+    if len(ordered_scenes) < TARGET_SCENES:
+        needed = TARGET_SCENES - len(ordered_scenes)
+        extras = [s for s in scenes if s["scene_id"] not in used_ids]
+        manager.log(job_id, f"WARN Claude ne ha date {len(ordered_scenes)}, aggiungo {min(needed, len(extras))} (target {TARGET_SCENES})")
+        insert_pos = max(1, len(ordered_scenes) // 2)
+        for extra in extras[:needed]:
+            ordered_scenes.insert(insert_pos, {
+                "scene_id": extra["scene_id"],
+                "subtitle_text": "",
+            })
+            insert_pos += 2
+
+    # 3) Durate variabili distribuite per centrare il target
+    n = len(ordered_scenes)
+    import random as _random
+    _random.seed(42)
+    base = target_dur / n if n > 0 else 3.0
+    durs = []
+    for _i in range(n):
+        d = base + _random.uniform(-0.35, 0.35)
+        d = max(2.4, min(3.2, d))
+        durs.append(d)
+    ssum = sum(durs)
+    if ssum > 0:
+        scale = target_dur / ssum
+        durs = [min(3.2, max(2.4, x * scale)) for x in durs]
+
+    # 4) Resolve con in/out calcolati
+    resolved = []
+    for _i, item in enumerate(ordered_scenes):
+        sid = item["scene_id"]
+        s = by_id[sid]
+        scene_start = float(s["start"])
+        scene_end = float(s["end"])
+        scene_dur = scene_end - scene_start
+
+        want = durs[_i] if _i < len(durs) else 3.0
+        actual = min(want, scene_dur)
+        if actual < 1.5:
+            actual = min(scene_dur, 1.5)
+        in_rel = max(0.0, (scene_dur - actual) / 2.0)
+        out_rel = in_rel + actual
+
+        abs_in = scene_start + in_rel
+        abs_out = scene_start + out_rel
+
+        resolved.append({
+            "scene_id": sid,
+            "clip_path": s["clip_path"],
+            "clip_name": s["clip_name"],
+            "in_sec": round(abs_in, 3),
+            "out_sec": round(abs_out, 3),
+            "duration": round(actual, 2),
+            "role": s["role"],
+            "subtitle_text": item["subtitle_text"],
+        })
+
+    actual_total = sum(r["duration"] for r in resolved)
+    manager.log(job_id, f"Timeline finale: {len(resolved)} scene target={target_dur:.1f}s actual={actual_total:.1f}s")
+
+    edl["timeline"] = resolved
+
+    total = sum(s["duration"] for s in resolved)
+    edl["total_duration"] = round(total, 2)
+    edl["n_clips"] = len(resolved)
+    edl["profile_id"] = profile_id
+    edl["generated_at"] = datetime.utcnow().isoformat(timespec="seconds")
+
+    edl_dir = os.path.join(CFG["MEDIA_DIR"], "edl")
+    os.makedirs(edl_dir, exist_ok=True)
+    edl_path = os.path.join(edl_dir, f"job_{job_id}_edl.json")
+    with open(edl_path, "w") as f:
+        json.dump(edl, f, indent=2, ensure_ascii=False)
+
+    manager.log(job_id, f"EDL salvato: {edl_path}")
+    manager.log(job_id, f"Titolo: {edl.get('title','—')}")
+    manager.log(job_id, f"Scene in timeline: {edl['n_clips']}")
+    manager.log(job_id, f"Durata totale: {edl['total_duration']}s")
+    manager.log(job_id, f"Voiceover: {len(edl.get('voiceover_script',''))} char")
+
+    manager.update_progress(job_id, 100, "completato")
+    manager.finish(job_id, {
+        "edl_path": edl_path,
+        "n_clips": edl["n_clips"],
+        "total_duration": edl["total_duration"],
+        "title": edl.get("title",""),
+    })

@@ -1,0 +1,10567 @@
+[
+  {
+    "shot_idx": 1,
+    "start": 0.0,
+    "end": 1.8,
+    "duration": 1.8,
+    "texts": [
+      {
+        "t": 0.2,
+        "text": "WINGSTOP"
+      },
+      {
+        "t": 1.0,
+        "text": "FINALMENTE"
+      },
+      {
+        "t": 1.2,
+        "text": "ARRIVATO"
+      },
+      {
+        "t": 1.4,
+        "text": "ITALIA"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 0.2,
+        "text": "WINGSTOP",
+        "conf": 0.98
+      },
+      {
+        "t": 0.4,
+        "text": "WINGSTOP",
+        "conf": 0.99
+      },
+      {
+        "t": 0.6,
+        "text": "WINGSTOP",
+        "conf": 0.99
+      },
+      {
+        "t": 1.0,
+        "text": "FINALMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 1.2,
+        "text": "ARRIVATO",
+        "conf": 0.99
+      },
+      {
+        "t": 1.4,
+        "text": "ITALIA",
+        "conf": 0.98
+      },
+      {
+        "t": 1.6,
+        "text": "ITALIA",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 2,
+    "start": 1.8,
+    "end": 3.83,
+    "duration": 2.03,
+    "texts": [
+      {
+        "t": 1.8,
+        "text": "IORW"
+      },
+      {
+        "t": 2.0,
+        "text": "CON"
+      },
+      {
+        "t": 2.0,
+        "text": "IORW"
+      },
+      {
+        "t": 2.2,
+        "text": "LUI"
+      },
+      {
+        "t": 2.2,
+        "text": "IORW"
+      },
+      {
+        "t": 2.4,
+        "text": "QUELLO"
+      },
+      {
+        "t": 2.4,
+        "text": "ORW"
+      },
+      {
+        "t": 2.6,
+        "text": "CHE"
+      },
+      {
+        "t": 2.6,
+        "text": "IORW"
+      },
+      {
+        "t": 2.6,
+        "text": "NG"
+      },
+      {
+        "t": 2.8,
+        "text": "PROBABILMENTE"
+      },
+      {
+        "t": 3.0,
+        "text": "SARa"
+      },
+      {
+        "t": 3.0,
+        "text": "IORW"
+      },
+      {
+        "t": 3.0,
+        "text": "NGS"
+      },
+      {
+        "t": 3.2,
+        "text": "IORW"
+      },
+      {
+        "t": 3.2,
+        "text": "NG"
+      },
+      {
+        "t": 3.4,
+        "text": "ORW"
+      },
+      {
+        "t": 3.6,
+        "text": "S9"
+      },
+      {
+        "t": 3.6,
+        "text": "IL"
+      },
+      {
+        "t": 3.6,
+        "text": "IORW"
+      },
+      {
+        "t": 3.6,
+        "text": "NG"
+      },
+      {
+        "t": 3.8,
+        "text": "S9"
+      },
+      {
+        "t": 3.8,
+        "text": "MIGLIOR"
+      },
+      {
+        "t": 3.8,
+        "text": "ONIM8O"
+      },
+      {
+        "t": 3.8,
+        "text": "ORW"
+      },
+      {
+        "t": 3.8,
+        "text": "NGS"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 1.8,
+        "text": "IORW",
+        "conf": 0.81
+      },
+      {
+        "t": 2.0,
+        "text": "CON",
+        "conf": 0.98
+      },
+      {
+        "t": 2.0,
+        "text": "IORW",
+        "conf": 0.82
+      },
+      {
+        "t": 2.2,
+        "text": "LUI",
+        "conf": 0.95
+      },
+      {
+        "t": 2.2,
+        "text": "IORW",
+        "conf": 0.85
+      },
+      {
+        "t": 2.4,
+        "text": "QUELLO",
+        "conf": 0.99
+      },
+      {
+        "t": 2.4,
+        "text": "ORW",
+        "conf": 0.96
+      },
+      {
+        "t": 2.6,
+        "text": "CHE",
+        "conf": 0.99
+      },
+      {
+        "t": 2.6,
+        "text": "IORW",
+        "conf": 0.85
+      },
+      {
+        "t": 2.6,
+        "text": "NG",
+        "conf": 0.99
+      },
+      {
+        "t": 2.8,
+        "text": "PROBABILMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 3.0,
+        "text": "SARa",
+        "conf": 0.98
+      },
+      {
+        "t": 3.0,
+        "text": "IORW",
+        "conf": 0.85
+      },
+      {
+        "t": 3.0,
+        "text": "NGS",
+        "conf": 0.86
+      },
+      {
+        "t": 3.2,
+        "text": "IORW",
+        "conf": 0.81
+      },
+      {
+        "t": 3.2,
+        "text": "NG",
+        "conf": 0.99
+      },
+      {
+        "t": 3.4,
+        "text": "ORW",
+        "conf": 0.99
+      },
+      {
+        "t": 3.6,
+        "text": "S9",
+        "conf": 0.61
+      },
+      {
+        "t": 3.6,
+        "text": "IL",
+        "conf": 0.98
+      },
+      {
+        "t": 3.6,
+        "text": "IORW",
+        "conf": 0.87
+      },
+      {
+        "t": 3.6,
+        "text": "NG",
+        "conf": 0.99
+      },
+      {
+        "t": 3.8,
+        "text": "S9",
+        "conf": 0.65
+      },
+      {
+        "t": 3.8,
+        "text": "MIGLIOR",
+        "conf": 0.97
+      },
+      {
+        "t": 3.8,
+        "text": "ONIM8O",
+        "conf": 0.77
+      },
+      {
+        "t": 3.8,
+        "text": "ORW",
+        "conf": 0.98
+      },
+      {
+        "t": 3.8,
+        "text": "NGS",
+        "conf": 0.87
+      }
+    ]
+  },
+  {
+    "shot_idx": 3,
+    "start": 3.83,
+    "end": 5.8,
+    "duration": 1.97,
+    "texts": [
+      {
+        "t": 3.83,
+        "text": "S9"
+      },
+      {
+        "t": 3.83,
+        "text": "MIGLIOR"
+      },
+      {
+        "t": 3.83,
+        "text": "ONIM8O"
+      },
+      {
+        "t": 3.83,
+        "text": "ORW"
+      },
+      {
+        "t": 3.83,
+        "text": "NGS"
+      },
+      {
+        "t": 4.03,
+        "text": "POLLO"
+      },
+      {
+        "t": 4.03,
+        "text": "LAVOR"
+      },
+      {
+        "t": 4.03,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 4.23,
+        "text": "POLLO"
+      },
+      {
+        "t": 4.23,
+        "text": "LAVORV"
+      },
+      {
+        "t": 4.43,
+        "text": "FRITTO"
+      },
+      {
+        "t": 4.43,
+        "text": "AVORV"
+      },
+      {
+        "t": 4.43,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 4.63,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 4.63,
+        "text": "LAVORW"
+      },
+      {
+        "t": 4.83,
+        "text": "OGGI"
+      },
+      {
+        "t": 4.83,
+        "text": "AVOR"
+      },
+      {
+        "t": 4.83,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 5.03,
+        "text": "OR WII"
+      },
+      {
+        "t": 5.23,
+        "text": "MILANO"
+      },
+      {
+        "t": 5.23,
+        "text": "OME"
+      },
+      {
+        "t": 5.23,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 5.43,
+        "text": "SOND"
+      },
+      {
+        "t": 5.43,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 5.43,
+        "text": "AVORV"
+      },
+      {
+        "t": 5.43,
+        "text": "NIM"
+      },
+      {
+        "t": 5.43,
+        "text": "AVORWI"
+      },
+      {
+        "t": 5.63,
+        "text": "LORO"
+      },
+      {
+        "t": 5.63,
+        "text": "NIM"
+      },
+      {
+        "t": 5.63,
+        "text": "AVOR WI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 3.83,
+        "text": "S9",
+        "conf": 0.65
+      },
+      {
+        "t": 3.83,
+        "text": "MIGLIOR",
+        "conf": 0.97
+      },
+      {
+        "t": 3.83,
+        "text": "ONIM8O",
+        "conf": 0.77
+      },
+      {
+        "t": 3.83,
+        "text": "ORW",
+        "conf": 0.98
+      },
+      {
+        "t": 3.83,
+        "text": "NGS",
+        "conf": 0.87
+      },
+      {
+        "t": 4.03,
+        "text": "POLLO",
+        "conf": 0.99
+      },
+      {
+        "t": 4.03,
+        "text": "LAVOR",
+        "conf": 0.97
+      },
+      {
+        "t": 4.03,
+        "text": "AVOR WI",
+        "conf": 0.95
+      },
+      {
+        "t": 4.23,
+        "text": "POLLO",
+        "conf": 0.99
+      },
+      {
+        "t": 4.23,
+        "text": "LAVORV",
+        "conf": 0.95
+      },
+      {
+        "t": 4.43,
+        "text": "FRITTO",
+        "conf": 0.99
+      },
+      {
+        "t": 4.43,
+        "text": "AVORV",
+        "conf": 0.95
+      },
+      {
+        "t": 4.43,
+        "text": "AVOR WI",
+        "conf": 0.95
+      },
+      {
+        "t": 4.63,
+        "text": "AVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 4.63,
+        "text": "LAVORW",
+        "conf": 0.97
+      },
+      {
+        "t": 4.83,
+        "text": "OGGI",
+        "conf": 1.0
+      },
+      {
+        "t": 4.83,
+        "text": "AVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 4.83,
+        "text": "AVOR WI",
+        "conf": 0.96
+      },
+      {
+        "t": 5.03,
+        "text": "OR WII",
+        "conf": 0.87
+      },
+      {
+        "t": 5.23,
+        "text": "MILANO",
+        "conf": 0.99
+      },
+      {
+        "t": 5.23,
+        "text": "OME",
+        "conf": 0.56
+      },
+      {
+        "t": 5.23,
+        "text": "AVOR WI",
+        "conf": 0.93
+      },
+      {
+        "t": 5.43,
+        "text": "SOND",
+        "conf": 0.63
+      },
+      {
+        "t": 5.43,
+        "text": "LAVOR WIN",
+        "conf": 0.9
+      },
+      {
+        "t": 5.43,
+        "text": "AVORV",
+        "conf": 0.92
+      },
+      {
+        "t": 5.43,
+        "text": "NIM",
+        "conf": 0.98
+      },
+      {
+        "t": 5.43,
+        "text": "AVORWI",
+        "conf": 0.97
+      },
+      {
+        "t": 5.63,
+        "text": "LORO",
+        "conf": 0.98
+      },
+      {
+        "t": 5.63,
+        "text": "NIM",
+        "conf": 0.97
+      },
+      {
+        "t": 5.63,
+        "text": "AVOR WI",
+        "conf": 0.92
+      }
+    ]
+  },
+  {
+    "shot_idx": 4,
+    "start": 5.8,
+    "end": 7.63,
+    "duration": 1.83,
+    "texts": [
+      {
+        "t": 5.8,
+        "text": "wingstopit"
+      },
+      {
+        "t": 5.8,
+        "text": "EVENTO"
+      },
+      {
+        "t": 6.0,
+        "text": "wingstopit"
+      },
+      {
+        "t": 6.0,
+        "text": "EVENTO"
+      },
+      {
+        "t": 6.0,
+        "text": "49"
+      },
+      {
+        "t": 6.2,
+        "text": "wingstopit"
+      },
+      {
+        "t": 6.2,
+        "text": "49"
+      },
+      {
+        "t": 6.4,
+        "text": "wingstopit"
+      },
+      {
+        "t": 6.4,
+        "text": "APERTURA"
+      },
+      {
+        "t": 6.4,
+        "text": "49"
+      },
+      {
+        "t": 6.6,
+        "text": "wingstopit"
+      },
+      {
+        "t": 6.6,
+        "text": "APERTURA"
+      },
+      {
+        "t": 6.6,
+        "text": "49"
+      },
+      {
+        "t": 6.8,
+        "text": "HA"
+      },
+      {
+        "t": 6.8,
+        "text": "wingstopit"
+      },
+      {
+        "t": 6.8,
+        "text": "DEL"
+      },
+      {
+        "t": 6.8,
+        "text": "49"
+      },
+      {
+        "t": 7.0,
+        "text": "HAW"
+      },
+      {
+        "t": 7.0,
+        "text": "wingstopit"
+      },
+      {
+        "t": 7.0,
+        "text": "LORO"
+      },
+      {
+        "t": 7.0,
+        "text": "49"
+      },
+      {
+        "t": 7.2,
+        "text": "HAV"
+      },
+      {
+        "t": 7.2,
+        "text": "wingstopit"
+      },
+      {
+        "t": 7.2,
+        "text": "PRIMO"
+      },
+      {
+        "t": 7.2,
+        "text": "49"
+      },
+      {
+        "t": 7.4,
+        "text": "HA"
+      },
+      {
+        "t": 7.4,
+        "text": "wingstopit"
+      },
+      {
+        "t": 7.4,
+        "text": "STORE"
+      },
+      {
+        "t": 7.4,
+        "text": "19"
+      },
+      {
+        "t": 7.6,
+        "text": "wingstopit"
+      },
+      {
+        "t": 7.6,
+        "text": "IN"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 5.8,
+        "text": "wingstopit",
+        "conf": 0.98
+      },
+      {
+        "t": 5.8,
+        "text": "EVENTO",
+        "conf": 0.99
+      },
+      {
+        "t": 6.0,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 6.0,
+        "text": "EVENTO",
+        "conf": 0.99
+      },
+      {
+        "t": 6.0,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 6.2,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 6.2,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 6.4,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 6.4,
+        "text": "APERTURA",
+        "conf": 0.96
+      },
+      {
+        "t": 6.4,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 6.6,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 6.6,
+        "text": "APERTURA",
+        "conf": 0.97
+      },
+      {
+        "t": 6.6,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 6.8,
+        "text": "HA",
+        "conf": 1.0
+      },
+      {
+        "t": 6.8,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 6.8,
+        "text": "DEL",
+        "conf": 1.0
+      },
+      {
+        "t": 6.8,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 7.0,
+        "text": "HAW",
+        "conf": 0.83
+      },
+      {
+        "t": 7.0,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 7.0,
+        "text": "LORO",
+        "conf": 0.99
+      },
+      {
+        "t": 7.0,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 7.2,
+        "text": "HAV",
+        "conf": 0.86
+      },
+      {
+        "t": 7.2,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 7.2,
+        "text": "PRIMO",
+        "conf": 0.99
+      },
+      {
+        "t": 7.2,
+        "text": "49",
+        "conf": 1.0
+      },
+      {
+        "t": 7.4,
+        "text": "HA",
+        "conf": 1.0
+      },
+      {
+        "t": 7.4,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 7.4,
+        "text": "STORE",
+        "conf": 0.98
+      },
+      {
+        "t": 7.4,
+        "text": "19",
+        "conf": 0.68
+      },
+      {
+        "t": 7.6,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 7.6,
+        "text": "IN",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 5,
+    "start": 7.63,
+    "end": 9.6,
+    "duration": 1.97,
+    "texts": [
+      {
+        "t": 7.63,
+        "text": "wingstopit"
+      },
+      {
+        "t": 7.63,
+        "text": "IN"
+      },
+      {
+        "t": 7.83,
+        "text": "ITALIA"
+      },
+      {
+        "t": 8.23,
+        "text": "APERTO"
+      },
+      {
+        "t": 8.43,
+        "text": "PROPRIO"
+      },
+      {
+        "t": 8.63,
+        "text": "IN"
+      },
+      {
+        "t": 8.83,
+        "text": "VIA"
+      },
+      {
+        "t": 9.03,
+        "text": "DANTE"
+      },
+      {
+        "t": 9.23,
+        "text": "SIOIENONA"
+      },
+      {
+        "t": 9.43,
+        "text": "16"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 7.63,
+        "text": "wingstopit",
+        "conf": 1.0
+      },
+      {
+        "t": 7.63,
+        "text": "IN",
+        "conf": 0.99
+      },
+      {
+        "t": 7.83,
+        "text": "ITALIA",
+        "conf": 0.99
+      },
+      {
+        "t": 8.23,
+        "text": "APERTO",
+        "conf": 0.99
+      },
+      {
+        "t": 8.43,
+        "text": "PROPRIO",
+        "conf": 0.99
+      },
+      {
+        "t": 8.63,
+        "text": "IN",
+        "conf": 1.0
+      },
+      {
+        "t": 8.83,
+        "text": "VIA",
+        "conf": 0.99
+      },
+      {
+        "t": 9.03,
+        "text": "DANTE",
+        "conf": 0.99
+      },
+      {
+        "t": 9.23,
+        "text": "DANTE",
+        "conf": 0.99
+      },
+      {
+        "t": 9.23,
+        "text": "SIOIENONA",
+        "conf": 0.54
+      },
+      {
+        "t": 9.43,
+        "text": "16",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 6,
+    "start": 9.6,
+    "end": 11.37,
+    "duration": 1.77,
+    "texts": [
+      {
+        "t": 9.6,
+        "text": "16"
+      },
+      {
+        "t": 10.0,
+        "text": "POSIZIONE"
+      },
+      {
+        "t": 10.2,
+        "text": "SUPER"
+      },
+      {
+        "t": 10.6,
+        "text": "CENTRALE"
+      },
+      {
+        "t": 11.2,
+        "text": "LOCATION"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 9.6,
+        "text": "16",
+        "conf": 1.0
+      },
+      {
+        "t": 9.8,
+        "text": "16",
+        "conf": 1.0
+      },
+      {
+        "t": 10.0,
+        "text": "POSIZIONE",
+        "conf": 0.99
+      },
+      {
+        "t": 10.2,
+        "text": "SUPER",
+        "conf": 0.99
+      },
+      {
+        "t": 10.6,
+        "text": "CENTRALE",
+        "conf": 0.98
+      },
+      {
+        "t": 10.8,
+        "text": "CENTRALE",
+        "conf": 0.97
+      },
+      {
+        "t": 11.2,
+        "text": "LOCATION",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 7,
+    "start": 11.37,
+    "end": 13.37,
+    "duration": 2.0,
+    "texts": [
+      {
+        "t": 11.37,
+        "text": "LOCATION"
+      },
+      {
+        "t": 11.57,
+        "text": "CLAMOROSA"
+      },
+      {
+        "t": 12.17,
+        "text": "NOI"
+      },
+      {
+        "t": 12.37,
+        "text": "ABBIAMO"
+      },
+      {
+        "t": 12.57,
+        "text": "FLMy"
+      },
+      {
+        "t": 12.57,
+        "text": "SUBITO"
+      },
+      {
+        "t": 12.77,
+        "text": "ORDINATO"
+      },
+      {
+        "t": 13.17,
+        "text": "SIAMO"
+      },
+      {
+        "t": 13.17,
+        "text": "LW"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 11.37,
+        "text": "LOCATION",
+        "conf": 0.98
+      },
+      {
+        "t": 11.57,
+        "text": "CLAMOROSA",
+        "conf": 1.0
+      },
+      {
+        "t": 11.77,
+        "text": "CLAMOROSA",
+        "conf": 0.99
+      },
+      {
+        "t": 11.97,
+        "text": "CLAMOROSA",
+        "conf": 0.99
+      },
+      {
+        "t": 12.17,
+        "text": "NOI",
+        "conf": 0.9
+      },
+      {
+        "t": 12.37,
+        "text": "ABBIAMO",
+        "conf": 0.99
+      },
+      {
+        "t": 12.57,
+        "text": "FLMy",
+        "conf": 0.68
+      },
+      {
+        "t": 12.57,
+        "text": "SUBITO",
+        "conf": 0.99
+      },
+      {
+        "t": 12.77,
+        "text": "ORDINATO",
+        "conf": 1.0
+      },
+      {
+        "t": 12.97,
+        "text": "ORDINATO",
+        "conf": 1.0
+      },
+      {
+        "t": 13.17,
+        "text": "SIAMO",
+        "conf": 0.99
+      },
+      {
+        "t": 13.17,
+        "text": "LW",
+        "conf": 0.65
+      }
+    ]
+  },
+  {
+    "shot_idx": 8,
+    "start": 13.37,
+    "end": 17.33,
+    "duration": 3.97,
+    "texts": [
+      {
+        "t": 13.77,
+        "text": "SECONDO"
+      },
+      {
+        "t": 13.77,
+        "text": "NGS"
+      },
+      {
+        "t": 13.77,
+        "text": "SSM"
+      },
+      {
+        "t": 13.77,
+        "text": "GSFR"
+      },
+      {
+        "t": 13.97,
+        "text": "PIANO"
+      },
+      {
+        "t": 13.97,
+        "text": "NGS"
+      },
+      {
+        "t": 13.97,
+        "text": "S9"
+      },
+      {
+        "t": 13.97,
+        "text": "SU"
+      },
+      {
+        "t": 13.97,
+        "text": "GSFR"
+      },
+      {
+        "t": 14.17,
+        "text": "PIANO"
+      },
+      {
+        "t": 14.17,
+        "text": "INGS"
+      },
+      {
+        "t": 14.17,
+        "text": "GSFR"
+      },
+      {
+        "t": 14.37,
+        "text": "DOVE"
+      },
+      {
+        "t": 14.37,
+        "text": "NGS"
+      },
+      {
+        "t": 14.37,
+        "text": "S91"
+      },
+      {
+        "t": 14.37,
+        "text": "SO"
+      },
+      {
+        "t": 14.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 14.57,
+        "text": "L'ALTRO"
+      },
+      {
+        "t": 14.57,
+        "text": "NGS"
+      },
+      {
+        "t": 14.57,
+        "text": "S9"
+      },
+      {
+        "t": 14.77,
+        "text": "L'ALTRO"
+      },
+      {
+        "t": 14.97,
+        "text": "C'ERA"
+      },
+      {
+        "t": 14.97,
+        "text": "HOAD"
+      },
+      {
+        "t": 14.97,
+        "text": "S9M"
+      },
+      {
+        "t": 15.17,
+        "text": "IL"
+      },
+      {
+        "t": 15.17,
+        "text": "INGS"
+      },
+      {
+        "t": 15.17,
+        "text": "SON"
+      },
+      {
+        "t": 15.37,
+        "text": "SONN"
+      },
+      {
+        "t": 15.57,
+        "text": "INGS"
+      },
+      {
+        "t": 15.57,
+        "text": "MIN"
+      },
+      {
+        "t": 15.77,
+        "text": "INGS"
+      },
+      {
+        "t": 15.77,
+        "text": "ARW"
+      },
+      {
+        "t": 15.97,
+        "text": "QUESTO"
+      },
+      {
+        "t": 16.17,
+        "text": "TUTTO"
+      },
+      {
+        "t": 16.37,
+        "text": "Clo"
+      },
+      {
+        "t": 16.57,
+        "text": "ABBIAMO"
+      },
+      {
+        "t": 16.77,
+        "text": "INGS"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 13.77,
+        "text": "SECONDO",
+        "conf": 0.99
+      },
+      {
+        "t": 13.77,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 13.77,
+        "text": "SSM",
+        "conf": 0.6
+      },
+      {
+        "t": 13.77,
+        "text": "GSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 13.97,
+        "text": "PIANO",
+        "conf": 0.99
+      },
+      {
+        "t": 13.97,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 13.97,
+        "text": "S9",
+        "conf": 0.53
+      },
+      {
+        "t": 13.97,
+        "text": "SU",
+        "conf": 0.59
+      },
+      {
+        "t": 13.97,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 14.17,
+        "text": "PIANO",
+        "conf": 0.99
+      },
+      {
+        "t": 14.17,
+        "text": "INGS",
+        "conf": 0.9
+      },
+      {
+        "t": 14.17,
+        "text": "GSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 14.37,
+        "text": "DOVE",
+        "conf": 1.0
+      },
+      {
+        "t": 14.37,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 14.37,
+        "text": "S91",
+        "conf": 0.72
+      },
+      {
+        "t": 14.37,
+        "text": "SO",
+        "conf": 0.6
+      },
+      {
+        "t": 14.37,
+        "text": "GSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 14.57,
+        "text": "L'ALTRO",
+        "conf": 0.94
+      },
+      {
+        "t": 14.57,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 14.57,
+        "text": "S9",
+        "conf": 0.71
+      },
+      {
+        "t": 14.77,
+        "text": "L'ALTRO",
+        "conf": 0.98
+      },
+      {
+        "t": 14.97,
+        "text": "C'ERA",
+        "conf": 0.91
+      },
+      {
+        "t": 14.97,
+        "text": "HOAD",
+        "conf": 0.62
+      },
+      {
+        "t": 14.97,
+        "text": "S9M",
+        "conf": 0.61
+      },
+      {
+        "t": 15.17,
+        "text": "IL",
+        "conf": 0.94
+      },
+      {
+        "t": 15.17,
+        "text": "INGS",
+        "conf": 0.93
+      },
+      {
+        "t": 15.17,
+        "text": "SON",
+        "conf": 0.64
+      },
+      {
+        "t": 15.37,
+        "text": "SONN",
+        "conf": 0.87
+      },
+      {
+        "t": 15.57,
+        "text": "INGS",
+        "conf": 0.98
+      },
+      {
+        "t": 15.57,
+        "text": "MIN",
+        "conf": 0.76
+      },
+      {
+        "t": 15.77,
+        "text": "INGS",
+        "conf": 0.9
+      },
+      {
+        "t": 15.77,
+        "text": "ARW",
+        "conf": 0.58
+      },
+      {
+        "t": 15.97,
+        "text": "QUESTO",
+        "conf": 0.99
+      },
+      {
+        "t": 16.17,
+        "text": "TUTTO",
+        "conf": 0.99
+      },
+      {
+        "t": 16.37,
+        "text": "Clo",
+        "conf": 0.7
+      },
+      {
+        "t": 16.57,
+        "text": "ABBIAMO",
+        "conf": 0.99
+      },
+      {
+        "t": 16.77,
+        "text": "INGS",
+        "conf": 0.79
+      }
+    ]
+  },
+  {
+    "shot_idx": 9,
+    "start": 17.33,
+    "end": 19.37,
+    "duration": 2.03,
+    "texts": [
+      {
+        "t": 17.33,
+        "text": "DI"
+      },
+      {
+        "t": 17.53,
+        "text": "BASE"
+      },
+      {
+        "t": 17.53,
+        "text": "INGS FRK"
+      },
+      {
+        "t": 17.53,
+        "text": "VOR W"
+      },
+      {
+        "t": 17.53,
+        "text": "AVORW"
+      },
+      {
+        "t": 17.53,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 17.73,
+        "text": "PRESO"
+      },
+      {
+        "t": 17.73,
+        "text": "INGS FRI"
+      },
+      {
+        "t": 17.73,
+        "text": "VORI"
+      },
+      {
+        "t": 17.73,
+        "text": "IMY"
+      },
+      {
+        "t": 17.73,
+        "text": "AVOR W"
+      },
+      {
+        "t": 17.73,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 17.93,
+        "text": "DEI"
+      },
+      {
+        "t": 17.93,
+        "text": "IGSFRIK"
+      },
+      {
+        "t": 17.93,
+        "text": "VOR W"
+      },
+      {
+        "t": 17.93,
+        "text": "AVOR W"
+      },
+      {
+        "t": 17.93,
+        "text": "VOR"
+      },
+      {
+        "t": 17.93,
+        "text": "AVOR WING"
+      },
+      {
+        "t": 18.13,
+        "text": "MENu"
+      },
+      {
+        "t": 18.13,
+        "text": "JOR"
+      },
+      {
+        "t": 18.13,
+        "text": "INSFRI"
+      },
+      {
+        "t": 18.13,
+        "text": "AVOR W"
+      },
+      {
+        "t": 18.13,
+        "text": "VOR"
+      },
+      {
+        "t": 18.13,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 18.33,
+        "text": "MENu"
+      },
+      {
+        "t": 18.33,
+        "text": "INGS FRIK"
+      },
+      {
+        "t": 18.33,
+        "text": "VOR"
+      },
+      {
+        "t": 18.33,
+        "text": "AVOR W"
+      },
+      {
+        "t": 18.33,
+        "text": "AVOR WING"
+      },
+      {
+        "t": 18.53,
+        "text": "COMBO"
+      },
+      {
+        "t": 18.53,
+        "text": "INGSFRK"
+      },
+      {
+        "t": 18.53,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 18.73,
+        "text": "COMBO"
+      },
+      {
+        "t": 18.73,
+        "text": "INS FRI"
+      },
+      {
+        "t": 18.73,
+        "text": "IORW"
+      },
+      {
+        "t": 18.73,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 18.93,
+        "text": "NGS FRI"
+      },
+      {
+        "t": 18.93,
+        "text": "VOR"
+      },
+      {
+        "t": 18.93,
+        "text": "ORW"
+      },
+      {
+        "t": 18.93,
+        "text": "AVOR WING"
+      },
+      {
+        "t": 19.13,
+        "text": "WINGS"
+      },
+      {
+        "t": 19.13,
+        "text": "NGS FRI"
+      },
+      {
+        "t": 19.13,
+        "text": "ORW"
+      },
+      {
+        "t": 19.13,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 19.33,
+        "text": "WINGS"
+      },
+      {
+        "t": 19.33,
+        "text": "NES FRIK"
+      },
+      {
+        "t": 19.33,
+        "text": "FLAVOR"
+      },
+      {
+        "t": 19.33,
+        "text": "IM 80"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 17.33,
+        "text": "DI",
+        "conf": 0.98
+      },
+      {
+        "t": 17.53,
+        "text": "BASE",
+        "conf": 0.99
+      },
+      {
+        "t": 17.53,
+        "text": "INGS FRK",
+        "conf": 0.75
+      },
+      {
+        "t": 17.53,
+        "text": "VOR W",
+        "conf": 0.94
+      },
+      {
+        "t": 17.53,
+        "text": "AVORW",
+        "conf": 0.99
+      },
+      {
+        "t": 17.53,
+        "text": "AVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 17.73,
+        "text": "PRESO",
+        "conf": 0.99
+      },
+      {
+        "t": 17.73,
+        "text": "INGS FRI",
+        "conf": 0.81
+      },
+      {
+        "t": 17.73,
+        "text": "VORI",
+        "conf": 0.8
+      },
+      {
+        "t": 17.73,
+        "text": "IMY",
+        "conf": 0.5
+      },
+      {
+        "t": 17.73,
+        "text": "AVOR W",
+        "conf": 0.92
+      },
+      {
+        "t": 17.73,
+        "text": "AVOR WIN",
+        "conf": 0.94
+      },
+      {
+        "t": 17.93,
+        "text": "DEI",
+        "conf": 0.98
+      },
+      {
+        "t": 17.93,
+        "text": "IGSFRIK",
+        "conf": 0.75
+      },
+      {
+        "t": 17.93,
+        "text": "VOR W",
+        "conf": 0.92
+      },
+      {
+        "t": 17.93,
+        "text": "AVOR W",
+        "conf": 0.92
+      },
+      {
+        "t": 17.93,
+        "text": "VOR",
+        "conf": 0.87
+      },
+      {
+        "t": 17.93,
+        "text": "AVOR WING",
+        "conf": 0.94
+      },
+      {
+        "t": 18.13,
+        "text": "MENu",
+        "conf": 0.92
+      },
+      {
+        "t": 18.13,
+        "text": "JOR",
+        "conf": 0.89
+      },
+      {
+        "t": 18.13,
+        "text": "INSFRI",
+        "conf": 0.77
+      },
+      {
+        "t": 18.13,
+        "text": "AVOR W",
+        "conf": 0.91
+      },
+      {
+        "t": 18.13,
+        "text": "VOR",
+        "conf": 0.8
+      },
+      {
+        "t": 18.13,
+        "text": "AVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 18.33,
+        "text": "MENu",
+        "conf": 0.89
+      },
+      {
+        "t": 18.33,
+        "text": "INGS FRIK",
+        "conf": 0.75
+      },
+      {
+        "t": 18.33,
+        "text": "VOR",
+        "conf": 0.95
+      },
+      {
+        "t": 18.33,
+        "text": "AVOR W",
+        "conf": 0.91
+      },
+      {
+        "t": 18.33,
+        "text": "AVOR WING",
+        "conf": 0.91
+      },
+      {
+        "t": 18.53,
+        "text": "COMBO",
+        "conf": 0.99
+      },
+      {
+        "t": 18.53,
+        "text": "INGSFRK",
+        "conf": 0.78
+      },
+      {
+        "t": 18.53,
+        "text": "AVOR WIN",
+        "conf": 0.96
+      },
+      {
+        "t": 18.73,
+        "text": "COMBO",
+        "conf": 0.99
+      },
+      {
+        "t": 18.73,
+        "text": "INS FRI",
+        "conf": 0.77
+      },
+      {
+        "t": 18.73,
+        "text": "IORW",
+        "conf": 0.9
+      },
+      {
+        "t": 18.73,
+        "text": "AVOR WIN",
+        "conf": 0.97
+      },
+      {
+        "t": 18.93,
+        "text": "NGS FRI",
+        "conf": 0.75
+      },
+      {
+        "t": 18.93,
+        "text": "VOR",
+        "conf": 0.98
+      },
+      {
+        "t": 18.93,
+        "text": "ORW",
+        "conf": 0.99
+      },
+      {
+        "t": 18.93,
+        "text": "AVOR WING",
+        "conf": 0.92
+      },
+      {
+        "t": 19.13,
+        "text": "WINGS",
+        "conf": 0.98
+      },
+      {
+        "t": 19.13,
+        "text": "NGS FRI",
+        "conf": 0.77
+      },
+      {
+        "t": 19.13,
+        "text": "ORW",
+        "conf": 0.99
+      },
+      {
+        "t": 19.13,
+        "text": "AVOR WIN",
+        "conf": 0.98
+      },
+      {
+        "t": 19.33,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 19.33,
+        "text": "NES FRIK",
+        "conf": 0.63
+      },
+      {
+        "t": 19.33,
+        "text": "FLAVOR",
+        "conf": 0.9
+      },
+      {
+        "t": 19.33,
+        "text": "IM 80",
+        "conf": 0.66
+      }
+    ]
+  },
+  {
+    "shot_idx": 10,
+    "start": 19.37,
+    "end": 21.83,
+    "duration": 2.47,
+    "texts": [
+      {
+        "t": 19.37,
+        "text": "WIN"
+      },
+      {
+        "t": 19.37,
+        "text": "RW"
+      },
+      {
+        "t": 19.57,
+        "text": "CLASSICHE"
+      },
+      {
+        "t": 19.97,
+        "text": "RW"
+      },
+      {
+        "t": 20.17,
+        "text": "BONELESS?"
+      },
+      {
+        "t": 20.37,
+        "text": "BONELESS"
+      },
+      {
+        "t": 21.37,
+        "text": "TE"
+      },
+      {
+        "t": 21.57,
+        "text": "E OVVIAMENTE"
+      },
+      {
+        "t": 21.77,
+        "text": "IINGS"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 19.37,
+        "text": "WIN",
+        "conf": 0.72
+      },
+      {
+        "t": 19.37,
+        "text": "RW",
+        "conf": 0.92
+      },
+      {
+        "t": 19.57,
+        "text": "CLASSICHE",
+        "conf": 0.99
+      },
+      {
+        "t": 19.77,
+        "text": "CLASSICHE",
+        "conf": 0.98
+      },
+      {
+        "t": 19.97,
+        "text": "RW",
+        "conf": 0.74
+      },
+      {
+        "t": 20.17,
+        "text": "BONELESS?",
+        "conf": 0.96
+      },
+      {
+        "t": 20.37,
+        "text": "BONELESS",
+        "conf": 0.99
+      },
+      {
+        "t": 21.37,
+        "text": "TE",
+        "conf": 1.0
+      },
+      {
+        "t": 21.57,
+        "text": "E OVVIAMENTE",
+        "conf": 0.98
+      },
+      {
+        "t": 21.77,
+        "text": "IINGS",
+        "conf": 0.76
+      }
+    ]
+  },
+  {
+    "shot_idx": 11,
+    "start": 21.83,
+    "end": 23.63,
+    "duration": 1.8,
+    "texts": [
+      {
+        "t": 21.83,
+        "text": "WINGSF"
+      },
+      {
+        "t": 22.03,
+        "text": "RWINGS"
+      },
+      {
+        "t": 22.03,
+        "text": "IGSFF"
+      },
+      {
+        "t": 22.03,
+        "text": "OR"
+      },
+      {
+        "t": 22.03,
+        "text": "FRIES"
+      },
+      {
+        "t": 22.23,
+        "text": "GS"
+      },
+      {
+        "t": 22.23,
+        "text": "URWINGS"
+      },
+      {
+        "t": 22.23,
+        "text": "GSFR"
+      },
+      {
+        "t": 22.23,
+        "text": "FRUD"
+      },
+      {
+        "t": 22.43,
+        "text": "CS"
+      },
+      {
+        "t": 22.43,
+        "text": "WINGS"
+      },
+      {
+        "t": 22.43,
+        "text": "BIBITA"
+      },
+      {
+        "t": 22.63,
+        "text": "0S"
+      },
+      {
+        "t": 22.63,
+        "text": "RWINGS"
+      },
+      {
+        "t": 22.63,
+        "text": "OSFR"
+      },
+      {
+        "t": 22.83,
+        "text": "WINGS"
+      },
+      {
+        "t": 22.83,
+        "text": "FREE"
+      },
+      {
+        "t": 23.03,
+        "text": "IQSFR"
+      },
+      {
+        "t": 23.03,
+        "text": "ORWINGS"
+      },
+      {
+        "t": 23.03,
+        "text": "REFILL"
+      },
+      {
+        "t": 23.23,
+        "text": "WINGS"
+      },
+      {
+        "t": 23.23,
+        "text": "REFILL"
+      },
+      {
+        "t": 23.43,
+        "text": "INGS"
+      },
+      {
+        "t": 23.43,
+        "text": "FR"
+      },
+      {
+        "t": 23.43,
+        "text": "REFILL"
+      },
+      {
+        "t": 23.63,
+        "text": "NGSFH"
+      },
+      {
+        "t": 23.63,
+        "text": "WINGS"
+      },
+      {
+        "t": 23.63,
+        "text": "DI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 21.83,
+        "text": "WINGSF",
+        "conf": 0.94
+      },
+      {
+        "t": 22.03,
+        "text": "RWINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 22.03,
+        "text": "IGSFF",
+        "conf": 0.85
+      },
+      {
+        "t": 22.03,
+        "text": "OR",
+        "conf": 0.98
+      },
+      {
+        "t": 22.03,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 22.23,
+        "text": "GS",
+        "conf": 0.87
+      },
+      {
+        "t": 22.23,
+        "text": "URWINGS",
+        "conf": 0.96
+      },
+      {
+        "t": 22.23,
+        "text": "GSFR",
+        "conf": 0.96
+      },
+      {
+        "t": 22.23,
+        "text": "FRUD",
+        "conf": 0.72
+      },
+      {
+        "t": 22.43,
+        "text": "CS",
+        "conf": 0.66
+      },
+      {
+        "t": 22.43,
+        "text": "WINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 22.43,
+        "text": "BIBITA",
+        "conf": 0.99
+      },
+      {
+        "t": 22.63,
+        "text": "0S",
+        "conf": 0.7
+      },
+      {
+        "t": 22.63,
+        "text": "RWINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 22.63,
+        "text": "OSFR",
+        "conf": 0.86
+      },
+      {
+        "t": 22.83,
+        "text": "WINGS",
+        "conf": 0.94
+      },
+      {
+        "t": 22.83,
+        "text": "FREE",
+        "conf": 0.99
+      },
+      {
+        "t": 23.03,
+        "text": "IQSFR",
+        "conf": 0.7
+      },
+      {
+        "t": 23.03,
+        "text": "ORWINGS",
+        "conf": 0.92
+      },
+      {
+        "t": 23.03,
+        "text": "REFILL",
+        "conf": 0.99
+      },
+      {
+        "t": 23.23,
+        "text": "WINGS",
+        "conf": 0.98
+      },
+      {
+        "t": 23.23,
+        "text": "REFILL",
+        "conf": 0.99
+      },
+      {
+        "t": 23.43,
+        "text": "INGS",
+        "conf": 0.92
+      },
+      {
+        "t": 23.43,
+        "text": "FR",
+        "conf": 0.97
+      },
+      {
+        "t": 23.43,
+        "text": "REFILL",
+        "conf": 0.98
+      },
+      {
+        "t": 23.63,
+        "text": "NGSFH",
+        "conf": 0.88
+      },
+      {
+        "t": 23.63,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 23.63,
+        "text": "DI",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 12,
+    "start": 23.63,
+    "end": 25.4,
+    "duration": 1.77,
+    "texts": [
+      {
+        "t": 23.63,
+        "text": "NGSFH"
+      },
+      {
+        "t": 23.63,
+        "text": "WINGS"
+      },
+      {
+        "t": 23.63,
+        "text": "DI"
+      },
+      {
+        "t": 23.83,
+        "text": "OGNUNO"
+      },
+      {
+        "t": 24.23,
+        "text": "ABBIAMO"
+      },
+      {
+        "t": 24.43,
+        "text": "DOVUTO"
+      },
+      {
+        "t": 24.43,
+        "text": "NGSF"
+      },
+      {
+        "t": 24.43,
+        "text": "GS"
+      },
+      {
+        "t": 24.63,
+        "text": "OVVIAMENTE"
+      },
+      {
+        "t": 24.83,
+        "text": "SCEGLIERE"
+      },
+      {
+        "t": 25.23,
+        "text": "JINGS"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 23.63,
+        "text": "NGSFH",
+        "conf": 0.88
+      },
+      {
+        "t": 23.63,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 23.63,
+        "text": "DI",
+        "conf": 0.98
+      },
+      {
+        "t": 23.83,
+        "text": "OGNUNO",
+        "conf": 0.99
+      },
+      {
+        "t": 24.23,
+        "text": "ABBIAMO",
+        "conf": 0.99
+      },
+      {
+        "t": 24.43,
+        "text": "DOVUTO",
+        "conf": 0.98
+      },
+      {
+        "t": 24.43,
+        "text": "NGSF",
+        "conf": 0.97
+      },
+      {
+        "t": 24.43,
+        "text": "GS",
+        "conf": 0.97
+      },
+      {
+        "t": 24.63,
+        "text": "OVVIAMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 24.83,
+        "text": "SCEGLIERE",
+        "conf": 0.98
+      },
+      {
+        "t": 25.03,
+        "text": "SCEGLIERE",
+        "conf": 0.99
+      },
+      {
+        "t": 25.23,
+        "text": "JINGS",
+        "conf": 0.84
+      }
+    ]
+  },
+  {
+    "shot_idx": 13,
+    "start": 25.4,
+    "end": 28.4,
+    "duration": 3.0,
+    "texts": [
+      {
+        "t": 25.6,
+        "text": "FLAVOR"
+      },
+      {
+        "t": 25.8,
+        "text": "NINGSFDS"
+      },
+      {
+        "t": 25.8,
+        "text": "SFP"
+      },
+      {
+        "t": 26.0,
+        "text": "HO"
+      },
+      {
+        "t": 26.0,
+        "text": "GSA"
+      },
+      {
+        "t": 26.2,
+        "text": "INIZIATO"
+      },
+      {
+        "t": 26.4,
+        "text": "DA"
+      },
+      {
+        "t": 26.6,
+        "text": "QUESTE"
+      },
+      {
+        "t": 26.8,
+        "text": "BONELESS"
+      },
+      {
+        "t": 27.4,
+        "text": "HAWAIIAN"
+      },
+      {
+        "t": 28.2,
+        "text": "gUN"
+      },
+      {
+        "t": 28.4,
+        "text": "SAPORE"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 25.6,
+        "text": "FLAVOR",
+        "conf": 1.0
+      },
+      {
+        "t": 25.8,
+        "text": "NINGSFDS",
+        "conf": 0.83
+      },
+      {
+        "t": 25.8,
+        "text": "SFP",
+        "conf": 0.75
+      },
+      {
+        "t": 26.0,
+        "text": "HO",
+        "conf": 0.97
+      },
+      {
+        "t": 26.0,
+        "text": "GSA",
+        "conf": 0.82
+      },
+      {
+        "t": 26.2,
+        "text": "INIZIATO",
+        "conf": 1.0
+      },
+      {
+        "t": 26.4,
+        "text": "DA",
+        "conf": 0.99
+      },
+      {
+        "t": 26.6,
+        "text": "QUESTE",
+        "conf": 0.99
+      },
+      {
+        "t": 26.8,
+        "text": "BONELESS",
+        "conf": 0.74
+      },
+      {
+        "t": 27.0,
+        "text": "BONELESS",
+        "conf": 0.99
+      },
+      {
+        "t": 27.2,
+        "text": "BONELESS",
+        "conf": 0.99
+      },
+      {
+        "t": 27.4,
+        "text": "HAWAIIAN",
+        "conf": 0.98
+      },
+      {
+        "t": 27.6,
+        "text": "HAWAIIAN",
+        "conf": 0.98
+      },
+      {
+        "t": 27.8,
+        "text": "HAWAIIAN",
+        "conf": 0.97
+      },
+      {
+        "t": 28.2,
+        "text": "gUN",
+        "conf": 0.56
+      },
+      {
+        "t": 28.4,
+        "text": "SAPORE",
+        "conf": 0.97
+      }
+    ]
+  },
+  {
+    "shot_idx": 14,
+    "start": 28.4,
+    "end": 30.87,
+    "duration": 2.47,
+    "texts": [
+      {
+        "t": 28.4,
+        "text": "SAPORE"
+      },
+      {
+        "t": 28.6,
+        "text": "MOLTO"
+      },
+      {
+        "t": 28.8,
+        "text": "CLASSICO"
+      },
+      {
+        "t": 29.0,
+        "text": "DEL"
+      },
+      {
+        "t": 29.4,
+        "text": "ICATO"
+      },
+      {
+        "t": 29.8,
+        "text": "CHE"
+      },
+      {
+        "t": 30.0,
+        "text": "OVVIAMENTE"
+      },
+      {
+        "t": 30.2,
+        "text": "FIN"
+      },
+      {
+        "t": 30.4,
+        "text": "DA"
+      },
+      {
+        "t": 30.6,
+        "text": "SUBITO"
+      },
+      {
+        "t": 30.8,
+        "text": "HO"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 28.4,
+        "text": "SAPORE",
+        "conf": 0.99
+      },
+      {
+        "t": 28.6,
+        "text": "MOLTO",
+        "conf": 0.98
+      },
+      {
+        "t": 28.8,
+        "text": "CLASSICO",
+        "conf": 1.0
+      },
+      {
+        "t": 29.0,
+        "text": "DEL",
+        "conf": 1.0
+      },
+      {
+        "t": 29.2,
+        "text": "DEL",
+        "conf": 1.0
+      },
+      {
+        "t": 29.4,
+        "text": "ICATO",
+        "conf": 0.99
+      },
+      {
+        "t": 29.6,
+        "text": "ICATO",
+        "conf": 0.99
+      },
+      {
+        "t": 29.8,
+        "text": "CHE",
+        "conf": 0.99
+      },
+      {
+        "t": 30.0,
+        "text": "OVVIAMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 30.2,
+        "text": "FIN",
+        "conf": 1.0
+      },
+      {
+        "t": 30.4,
+        "text": "DA",
+        "conf": 0.98
+      },
+      {
+        "t": 30.6,
+        "text": "SUBITO",
+        "conf": 0.99
+      },
+      {
+        "t": 30.8,
+        "text": "HO",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 15,
+    "start": 30.87,
+    "end": 33.37,
+    "duration": 2.5,
+    "texts": [
+      {
+        "t": 30.87,
+        "text": "IOR"
+      },
+      {
+        "t": 30.87,
+        "text": "ICCOMPAGNATO"
+      },
+      {
+        "t": 31.07,
+        "text": "IOR"
+      },
+      {
+        "t": 31.07,
+        "text": "ACCOMPAGNATO"
+      },
+      {
+        "t": 31.27,
+        "text": "IOR"
+      },
+      {
+        "t": 31.27,
+        "text": "CON"
+      },
+      {
+        "t": 31.27,
+        "text": "HO"
+      },
+      {
+        "t": 31.47,
+        "text": "IOR"
+      },
+      {
+        "t": 31.47,
+        "text": "LA"
+      },
+      {
+        "t": 31.67,
+        "text": "IOR"
+      },
+      {
+        "t": 31.67,
+        "text": "LORO"
+      },
+      {
+        "t": 31.67,
+        "text": "HO"
+      },
+      {
+        "t": 31.87,
+        "text": "IOR"
+      },
+      {
+        "t": 32.07,
+        "text": "VGS"
+      },
+      {
+        "t": 32.27,
+        "text": "IOR"
+      },
+      {
+        "t": 32.27,
+        "text": "RANCH"
+      },
+      {
+        "t": 32.47,
+        "text": "IOR"
+      },
+      {
+        "t": 32.67,
+        "text": "DELLE"
+      },
+      {
+        "t": 32.87,
+        "text": "IORW"
+      },
+      {
+        "t": 32.87,
+        "text": "MIE"
+      },
+      {
+        "t": 32.87,
+        "text": "NGS"
+      },
+      {
+        "t": 32.87,
+        "text": "HON"
+      },
+      {
+        "t": 33.07,
+        "text": "IORW"
+      },
+      {
+        "t": 33.07,
+        "text": "SALSE"
+      },
+      {
+        "t": 33.27,
+        "text": "LARW"
+      },
+      {
+        "t": 33.27,
+        "text": "PREFERITE"
+      },
+      {
+        "t": 33.27,
+        "text": "JG"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 30.87,
+        "text": "IOR",
+        "conf": 0.85
+      },
+      {
+        "t": 30.87,
+        "text": "ICCOMPAGNATO",
+        "conf": 0.94
+      },
+      {
+        "t": 31.07,
+        "text": "IOR",
+        "conf": 0.88
+      },
+      {
+        "t": 31.07,
+        "text": "ACCOMPAGNATO",
+        "conf": 0.99
+      },
+      {
+        "t": 31.27,
+        "text": "IOR",
+        "conf": 0.82
+      },
+      {
+        "t": 31.27,
+        "text": "CON",
+        "conf": 0.99
+      },
+      {
+        "t": 31.27,
+        "text": "HO",
+        "conf": 0.94
+      },
+      {
+        "t": 31.47,
+        "text": "IOR",
+        "conf": 0.84
+      },
+      {
+        "t": 31.47,
+        "text": "LA",
+        "conf": 1.0
+      },
+      {
+        "t": 31.67,
+        "text": "IOR",
+        "conf": 0.83
+      },
+      {
+        "t": 31.67,
+        "text": "LORO",
+        "conf": 0.96
+      },
+      {
+        "t": 31.67,
+        "text": "HO",
+        "conf": 0.58
+      },
+      {
+        "t": 31.87,
+        "text": "IOR",
+        "conf": 0.85
+      },
+      {
+        "t": 32.07,
+        "text": "IOR",
+        "conf": 0.82
+      },
+      {
+        "t": 32.07,
+        "text": "VGS",
+        "conf": 0.8
+      },
+      {
+        "t": 32.27,
+        "text": "IOR",
+        "conf": 0.85
+      },
+      {
+        "t": 32.27,
+        "text": "RANCH",
+        "conf": 0.98
+      },
+      {
+        "t": 32.47,
+        "text": "IOR",
+        "conf": 0.86
+      },
+      {
+        "t": 32.67,
+        "text": "IOR",
+        "conf": 0.86
+      },
+      {
+        "t": 32.67,
+        "text": "DELLE",
+        "conf": 1.0
+      },
+      {
+        "t": 32.87,
+        "text": "IORW",
+        "conf": 0.88
+      },
+      {
+        "t": 32.87,
+        "text": "MIE",
+        "conf": 0.98
+      },
+      {
+        "t": 32.87,
+        "text": "NGS",
+        "conf": 0.93
+      },
+      {
+        "t": 32.87,
+        "text": "HON",
+        "conf": 0.65
+      },
+      {
+        "t": 33.07,
+        "text": "IORW",
+        "conf": 0.89
+      },
+      {
+        "t": 33.07,
+        "text": "SALSE",
+        "conf": 0.99
+      },
+      {
+        "t": 33.27,
+        "text": "LARW",
+        "conf": 0.75
+      },
+      {
+        "t": 33.27,
+        "text": "PREFERITE",
+        "conf": 0.97
+      },
+      {
+        "t": 33.27,
+        "text": "JG",
+        "conf": 0.8
+      }
+    ]
+  },
+  {
+    "shot_idx": 16,
+    "start": 33.37,
+    "end": 35.33,
+    "duration": 1.97,
+    "texts": [
+      {
+        "t": 33.37,
+        "text": "IM"
+      },
+      {
+        "t": 33.37,
+        "text": "SFLAVO"
+      },
+      {
+        "t": 33.37,
+        "text": "INGSFRL"
+      },
+      {
+        "t": 33.37,
+        "text": "ORW"
+      },
+      {
+        "t": 33.37,
+        "text": "NGS"
+      },
+      {
+        "t": 33.37,
+        "text": "SO"
+      },
+      {
+        "t": 33.37,
+        "text": "SFRIE"
+      },
+      {
+        "t": 33.37,
+        "text": "SONI"
+      },
+      {
+        "t": 33.57,
+        "text": "COL"
+      },
+      {
+        "t": 33.57,
+        "text": "INGSFRI"
+      },
+      {
+        "t": 33.57,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 33.57,
+        "text": "OR"
+      },
+      {
+        "t": 33.57,
+        "text": "GSFR"
+      },
+      {
+        "t": 33.57,
+        "text": "SU"
+      },
+      {
+        "t": 33.57,
+        "text": "SFRIE"
+      },
+      {
+        "t": 33.57,
+        "text": "SAN"
+      },
+      {
+        "t": 33.57,
+        "text": "GSFRI"
+      },
+      {
+        "t": 33.77,
+        "text": "FRIES"
+      },
+      {
+        "t": 33.77,
+        "text": "ORWIN"
+      },
+      {
+        "t": 33.77,
+        "text": "POLLO"
+      },
+      {
+        "t": 33.77,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 33.77,
+        "text": "OB"
+      },
+      {
+        "t": 33.77,
+        "text": "NGSFR"
+      },
+      {
+        "t": 33.77,
+        "text": "SFRIE"
+      },
+      {
+        "t": 33.77,
+        "text": "SONI"
+      },
+      {
+        "t": 33.77,
+        "text": "FR"
+      },
+      {
+        "t": 33.77,
+        "text": "iS"
+      },
+      {
+        "t": 33.97,
+        "text": "NIMO"
+      },
+      {
+        "t": 33.97,
+        "text": "SFLAVO"
+      },
+      {
+        "t": 33.97,
+        "text": "PEPPOR"
+      },
+      {
+        "t": 33.97,
+        "text": "FRITTO"
+      },
+      {
+        "t": 33.97,
+        "text": "INGSFRI"
+      },
+      {
+        "t": 33.97,
+        "text": "DR"
+      },
+      {
+        "t": 33.97,
+        "text": "DUN"
+      },
+      {
+        "t": 33.97,
+        "text": "NGSFR"
+      },
+      {
+        "t": 33.97,
+        "text": "SFRIE"
+      },
+      {
+        "t": 33.97,
+        "text": "SONIN"
+      },
+      {
+        "t": 34.17,
+        "text": "ORWIN"
+      },
+      {
+        "t": 34.17,
+        "text": "FRIES"
+      },
+      {
+        "t": 34.17,
+        "text": "FRITTO"
+      },
+      {
+        "t": 34.17,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 34.17,
+        "text": "ORW"
+      },
+      {
+        "t": 34.17,
+        "text": "NGSFR"
+      },
+      {
+        "t": 34.17,
+        "text": "SO"
+      },
+      {
+        "t": 34.17,
+        "text": "SFRIE"
+      },
+      {
+        "t": 34.17,
+        "text": "SFRI"
+      },
+      {
+        "t": 34.37,
+        "text": "IMI"
+      },
+      {
+        "t": 34.37,
+        "text": "FRIES"
+      },
+      {
+        "t": 34.37,
+        "text": "ORWIN"
+      },
+      {
+        "t": 34.37,
+        "text": "PUo"
+      },
+      {
+        "t": 34.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 34.37,
+        "text": "CLAV"
+      },
+      {
+        "t": 34.37,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 34.37,
+        "text": "NGSFR"
+      },
+      {
+        "t": 34.37,
+        "text": "SO"
+      },
+      {
+        "t": 34.37,
+        "text": "SFRIE"
+      },
+      {
+        "t": 34.37,
+        "text": "SONI"
+      },
+      {
+        "t": 34.37,
+        "text": "FRI"
+      },
+      {
+        "t": 34.57,
+        "text": "MY"
+      },
+      {
+        "t": 34.57,
+        "text": "FRIES"
+      },
+      {
+        "t": 34.57,
+        "text": "ORWIN"
+      },
+      {
+        "t": 34.57,
+        "text": "NI HO"
+      },
+      {
+        "t": 34.57,
+        "text": "MANCARE"
+      },
+      {
+        "t": 34.57,
+        "text": "FR"
+      },
+      {
+        "t": 34.57,
+        "text": "ORW"
+      },
+      {
+        "t": 34.57,
+        "text": "NGSFR"
+      },
+      {
+        "t": 34.57,
+        "text": "SFRIE"
+      },
+      {
+        "t": 34.57,
+        "text": "SFRI"
+      },
+      {
+        "t": 34.77,
+        "text": "cme"
+      },
+      {
+        "t": 34.77,
+        "text": "ORWIN"
+      },
+      {
+        "t": 34.77,
+        "text": "FRIES"
+      },
+      {
+        "t": 34.77,
+        "text": "NIA HO"
+      },
+      {
+        "t": 34.77,
+        "text": "INGS FR"
+      },
+      {
+        "t": 34.77,
+        "text": "GIES"
+      },
+      {
+        "t": 34.77,
+        "text": "ZLAV"
+      },
+      {
+        "t": 34.77,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 34.77,
+        "text": "ORW"
+      },
+      {
+        "t": 34.77,
+        "text": "NGSFR"
+      },
+      {
+        "t": 34.77,
+        "text": "NGS"
+      },
+      {
+        "t": 34.77,
+        "text": "SFRIE"
+      },
+      {
+        "t": 34.77,
+        "text": "SONI"
+      },
+      {
+        "t": 34.77,
+        "text": "GSFRF"
+      },
+      {
+        "t": 34.97,
+        "text": "FRIES"
+      },
+      {
+        "t": 34.97,
+        "text": "ORWIN"
+      },
+      {
+        "t": 34.97,
+        "text": "SFLAVO"
+      },
+      {
+        "t": 34.97,
+        "text": "ERDE"
+      },
+      {
+        "t": 34.97,
+        "text": "NIA HO"
+      },
+      {
+        "t": 34.97,
+        "text": "PO"
+      },
+      {
+        "t": 34.97,
+        "text": "INGS FRI"
+      },
+      {
+        "t": 34.97,
+        "text": "GTM"
+      },
+      {
+        "t": 34.97,
+        "text": "BIES"
+      },
+      {
+        "t": 34.97,
+        "text": "GSFR"
+      },
+      {
+        "t": 34.97,
+        "text": "LAUE"
+      },
+      {
+        "t": 34.97,
+        "text": "ORW"
+      },
+      {
+        "t": 34.97,
+        "text": "NGSFR"
+      },
+      {
+        "t": 34.97,
+        "text": "INGS"
+      },
+      {
+        "t": 34.97,
+        "text": "SO"
+      },
+      {
+        "t": 34.97,
+        "text": "SFRIE"
+      },
+      {
+        "t": 34.97,
+        "text": "GSFRF"
+      },
+      {
+        "t": 34.97,
+        "text": "ES"
+      },
+      {
+        "t": 35.17,
+        "text": "ORWIN"
+      },
+      {
+        "t": 35.17,
+        "text": "FRIES"
+      },
+      {
+        "t": 35.17,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 35.17,
+        "text": "WINGSFRI"
+      },
+      {
+        "t": 35.17,
+        "text": "NGSFR"
+      },
+      {
+        "t": 35.17,
+        "text": "SFRIE"
+      },
+      {
+        "t": 35.17,
+        "text": "SONI"
+      },
+      {
+        "t": 35.17,
+        "text": "VGSFRI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 33.37,
+        "text": "IM",
+        "conf": 0.62
+      },
+      {
+        "t": 33.37,
+        "text": "SFLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 33.37,
+        "text": "INGSFRL",
+        "conf": 0.89
+      },
+      {
+        "t": 33.37,
+        "text": "ORW",
+        "conf": 0.99
+      },
+      {
+        "t": 33.37,
+        "text": "NGS",
+        "conf": 0.97
+      },
+      {
+        "t": 33.37,
+        "text": "SO",
+        "conf": 0.61
+      },
+      {
+        "t": 33.37,
+        "text": "SFRIE",
+        "conf": 0.97
+      },
+      {
+        "t": 33.37,
+        "text": "SONI",
+        "conf": 0.87
+      },
+      {
+        "t": 33.57,
+        "text": "COL",
+        "conf": 1.0
+      },
+      {
+        "t": 33.57,
+        "text": "INGSFRI",
+        "conf": 0.86
+      },
+      {
+        "t": 33.57,
+        "text": "ORWINGSFRI",
+        "conf": 0.97
+      },
+      {
+        "t": 33.57,
+        "text": "OR",
+        "conf": 0.76
+      },
+      {
+        "t": 33.57,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 33.57,
+        "text": "SU",
+        "conf": 0.57
+      },
+      {
+        "t": 33.57,
+        "text": "SFRIE",
+        "conf": 0.97
+      },
+      {
+        "t": 33.57,
+        "text": "SAN",
+        "conf": 0.82
+      },
+      {
+        "t": 33.57,
+        "text": "GSFRI",
+        "conf": 0.9
+      },
+      {
+        "t": 33.77,
+        "text": "FRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 33.77,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 33.77,
+        "text": "POLLO",
+        "conf": 1.0
+      },
+      {
+        "t": 33.77,
+        "text": "ORWINGSFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 33.77,
+        "text": "OB",
+        "conf": 0.87
+      },
+      {
+        "t": 33.77,
+        "text": "NGSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 33.77,
+        "text": "SFRIE",
+        "conf": 0.97
+      },
+      {
+        "t": 33.77,
+        "text": "SONI",
+        "conf": 0.68
+      },
+      {
+        "t": 33.77,
+        "text": "FR",
+        "conf": 0.97
+      },
+      {
+        "t": 33.77,
+        "text": "iS",
+        "conf": 0.54
+      },
+      {
+        "t": 33.97,
+        "text": "NIMO",
+        "conf": 0.52
+      },
+      {
+        "t": 33.97,
+        "text": "SFLAVO",
+        "conf": 0.97
+      },
+      {
+        "t": 33.97,
+        "text": "PEPPOR",
+        "conf": 0.77
+      },
+      {
+        "t": 33.97,
+        "text": "FRITTO",
+        "conf": 0.98
+      },
+      {
+        "t": 33.97,
+        "text": "INGSFRI",
+        "conf": 0.9
+      },
+      {
+        "t": 33.97,
+        "text": "DR",
+        "conf": 0.73
+      },
+      {
+        "t": 33.97,
+        "text": "DUN",
+        "conf": 0.6
+      },
+      {
+        "t": 33.97,
+        "text": "NGSFR",
+        "conf": 0.95
+      },
+      {
+        "t": 33.97,
+        "text": "SFRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 33.97,
+        "text": "SONIN",
+        "conf": 0.82
+      },
+      {
+        "t": 34.17,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 34.17,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 34.17,
+        "text": "FRITTO",
+        "conf": 0.99
+      },
+      {
+        "t": 34.17,
+        "text": "ORWINGSFRI",
+        "conf": 0.97
+      },
+      {
+        "t": 34.17,
+        "text": "ORW",
+        "conf": 0.96
+      },
+      {
+        "t": 34.17,
+        "text": "NGSFR",
+        "conf": 0.88
+      },
+      {
+        "t": 34.17,
+        "text": "SO",
+        "conf": 0.54
+      },
+      {
+        "t": 34.17,
+        "text": "SFRIE",
+        "conf": 0.95
+      },
+      {
+        "t": 34.17,
+        "text": "SFRI",
+        "conf": 0.85
+      },
+      {
+        "t": 34.37,
+        "text": "IMI",
+        "conf": 0.62
+      },
+      {
+        "t": 34.37,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 34.37,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 34.37,
+        "text": "PUo",
+        "conf": 0.78
+      },
+      {
+        "t": 34.37,
+        "text": "GSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 34.37,
+        "text": "CLAV",
+        "conf": 0.85
+      },
+      {
+        "t": 34.37,
+        "text": "ORWINGSFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 34.37,
+        "text": "NGSFR",
+        "conf": 0.91
+      },
+      {
+        "t": 34.37,
+        "text": "SO",
+        "conf": 0.54
+      },
+      {
+        "t": 34.37,
+        "text": "SFRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 34.37,
+        "text": "SONI",
+        "conf": 0.82
+      },
+      {
+        "t": 34.37,
+        "text": "FRI",
+        "conf": 0.85
+      },
+      {
+        "t": 34.57,
+        "text": "MY",
+        "conf": 0.89
+      },
+      {
+        "t": 34.57,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 34.57,
+        "text": "ORWIN",
+        "conf": 0.95
+      },
+      {
+        "t": 34.57,
+        "text": "NI HO",
+        "conf": 0.57
+      },
+      {
+        "t": 34.57,
+        "text": "MANCARE",
+        "conf": 0.97
+      },
+      {
+        "t": 34.57,
+        "text": "FR",
+        "conf": 0.93
+      },
+      {
+        "t": 34.57,
+        "text": "ORW",
+        "conf": 0.97
+      },
+      {
+        "t": 34.57,
+        "text": "NGSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 34.57,
+        "text": "SFRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 34.57,
+        "text": "SFRI",
+        "conf": 0.91
+      },
+      {
+        "t": 34.77,
+        "text": "cme",
+        "conf": 0.52
+      },
+      {
+        "t": 34.77,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 34.77,
+        "text": "FRIES",
+        "conf": 0.96
+      },
+      {
+        "t": 34.77,
+        "text": "NIA HO",
+        "conf": 0.53
+      },
+      {
+        "t": 34.77,
+        "text": "INGS FR",
+        "conf": 0.91
+      },
+      {
+        "t": 34.77,
+        "text": "GIES",
+        "conf": 0.84
+      },
+      {
+        "t": 34.77,
+        "text": "ZLAV",
+        "conf": 0.78
+      },
+      {
+        "t": 34.77,
+        "text": "ORWINGSFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 34.77,
+        "text": "ORW",
+        "conf": 0.99
+      },
+      {
+        "t": 34.77,
+        "text": "NGSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 34.77,
+        "text": "NGS",
+        "conf": 0.97
+      },
+      {
+        "t": 34.77,
+        "text": "SFRIE",
+        "conf": 0.97
+      },
+      {
+        "t": 34.77,
+        "text": "SONI",
+        "conf": 0.8
+      },
+      {
+        "t": 34.77,
+        "text": "GSFRF",
+        "conf": 0.82
+      },
+      {
+        "t": 34.97,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 34.97,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 34.97,
+        "text": "SFLAVO",
+        "conf": 0.97
+      },
+      {
+        "t": 34.97,
+        "text": "ERDE",
+        "conf": 0.51
+      },
+      {
+        "t": 34.97,
+        "text": "NIA HO",
+        "conf": 0.57
+      },
+      {
+        "t": 34.97,
+        "text": "PO",
+        "conf": 0.98
+      },
+      {
+        "t": 34.97,
+        "text": "INGS FRI",
+        "conf": 0.87
+      },
+      {
+        "t": 34.97,
+        "text": "GTM",
+        "conf": 0.79
+      },
+      {
+        "t": 34.97,
+        "text": "BIES",
+        "conf": 0.91
+      },
+      {
+        "t": 34.97,
+        "text": "GSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 34.97,
+        "text": "LAUE",
+        "conf": 0.67
+      },
+      {
+        "t": 34.97,
+        "text": "ORW",
+        "conf": 0.97
+      },
+      {
+        "t": 34.97,
+        "text": "NGSFR",
+        "conf": 0.94
+      },
+      {
+        "t": 34.97,
+        "text": "INGS",
+        "conf": 0.94
+      },
+      {
+        "t": 34.97,
+        "text": "SO",
+        "conf": 0.53
+      },
+      {
+        "t": 34.97,
+        "text": "SFRIE",
+        "conf": 0.97
+      },
+      {
+        "t": 34.97,
+        "text": "GSFRF",
+        "conf": 0.8
+      },
+      {
+        "t": 34.97,
+        "text": "ES",
+        "conf": 0.65
+      },
+      {
+        "t": 35.17,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 35.17,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 35.17,
+        "text": "NGSFRI",
+        "conf": 0.87
+      },
+      {
+        "t": 35.17,
+        "text": "WINGSFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 35.17,
+        "text": "NGSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 35.17,
+        "text": "SFRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 35.17,
+        "text": "SONI",
+        "conf": 0.69
+      },
+      {
+        "t": 35.17,
+        "text": "VGSFRI",
+        "conf": 0.72
+      }
+    ]
+  },
+  {
+    "shot_idx": 17,
+    "start": 35.33,
+    "end": 37.33,
+    "duration": 2.0,
+    "texts": [
+      {
+        "t": 35.33,
+        "text": "FRIES"
+      },
+      {
+        "t": 35.33,
+        "text": "MY"
+      },
+      {
+        "t": 35.33,
+        "text": "ORWIN"
+      },
+      {
+        "t": 35.33,
+        "text": "IM8O"
+      },
+      {
+        "t": 35.33,
+        "text": "FRIES"
+      },
+      {
+        "t": 35.33,
+        "text": "ORWINGSFRI"
+      },
+      {
+        "t": 35.33,
+        "text": "ORW"
+      },
+      {
+        "t": 35.33,
+        "text": "INGS"
+      },
+      {
+        "t": 35.33,
+        "text": "NGS"
+      },
+      {
+        "t": 35.33,
+        "text": "S9"
+      },
+      {
+        "t": 35.33,
+        "text": "SFRIE"
+      },
+      {
+        "t": 35.33,
+        "text": "FR"
+      },
+      {
+        "t": 35.53,
+        "text": "COL"
+      },
+      {
+        "t": 35.73,
+        "text": "SONIN"
+      },
+      {
+        "t": 35.73,
+        "text": "FRIES"
+      },
+      {
+        "t": 35.93,
+        "text": "CHEDDAR"
+      },
+      {
+        "t": 36.33,
+        "text": "OPPURE"
+      },
+      {
+        "t": 36.73,
+        "text": "LEMON"
+      },
+      {
+        "t": 36.93,
+        "text": "PEPPER"
+      },
+      {
+        "t": 36.93,
+        "text": "ENIN"
+      },
+      {
+        "t": 37.13,
+        "text": "PEPPER"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 35.33,
+        "text": "FRIES",
+        "conf": 0.96
+      },
+      {
+        "t": 35.33,
+        "text": "MY",
+        "conf": 0.76
+      },
+      {
+        "t": 35.33,
+        "text": "ORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 35.33,
+        "text": "IM8O",
+        "conf": 0.57
+      },
+      {
+        "t": 35.33,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 35.33,
+        "text": "ORWINGSFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 35.33,
+        "text": "ORW",
+        "conf": 0.97
+      },
+      {
+        "t": 35.33,
+        "text": "INGS",
+        "conf": 0.99
+      },
+      {
+        "t": 35.33,
+        "text": "NGS",
+        "conf": 0.95
+      },
+      {
+        "t": 35.33,
+        "text": "S9",
+        "conf": 0.63
+      },
+      {
+        "t": 35.33,
+        "text": "SFRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 35.33,
+        "text": "FR",
+        "conf": 0.94
+      },
+      {
+        "t": 35.53,
+        "text": "COL",
+        "conf": 1.0
+      },
+      {
+        "t": 35.73,
+        "text": "SONIN",
+        "conf": 0.87
+      },
+      {
+        "t": 35.73,
+        "text": "FRIES",
+        "conf": 0.91
+      },
+      {
+        "t": 35.93,
+        "text": "CHEDDAR",
+        "conf": 0.99
+      },
+      {
+        "t": 36.13,
+        "text": "CHEDDAR",
+        "conf": 0.99
+      },
+      {
+        "t": 36.33,
+        "text": "OPPURE",
+        "conf": 0.99
+      },
+      {
+        "t": 36.53,
+        "text": "OPPURE",
+        "conf": 0.99
+      },
+      {
+        "t": 36.73,
+        "text": "LEMON",
+        "conf": 0.98
+      },
+      {
+        "t": 36.93,
+        "text": "PEPPER",
+        "conf": 1.0
+      },
+      {
+        "t": 36.93,
+        "text": "ENIN",
+        "conf": 0.59
+      },
+      {
+        "t": 37.13,
+        "text": "PEPPER",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 18,
+    "start": 37.33,
+    "end": 38.87,
+    "duration": 1.53,
+    "texts": [
+      {
+        "t": 37.53,
+        "text": "LORO"
+      },
+      {
+        "t": 37.53,
+        "text": "NM"
+      },
+      {
+        "t": 37.53,
+        "text": "FLAVO"
+      },
+      {
+        "t": 37.53,
+        "text": "M 8O"
+      },
+      {
+        "t": 37.53,
+        "text": "VESFL"
+      },
+      {
+        "t": 37.53,
+        "text": "GSFRI"
+      },
+      {
+        "t": 37.53,
+        "text": "AVO"
+      },
+      {
+        "t": 37.53,
+        "text": "NGSFI"
+      },
+      {
+        "t": 37.53,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 37.73,
+        "text": "LORO"
+      },
+      {
+        "t": 37.73,
+        "text": "SRWIN"
+      },
+      {
+        "t": 37.73,
+        "text": "FLAVO"
+      },
+      {
+        "t": 37.73,
+        "text": "VESFL"
+      },
+      {
+        "t": 37.73,
+        "text": "GSFRI"
+      },
+      {
+        "t": 37.73,
+        "text": "AVO"
+      },
+      {
+        "t": 37.73,
+        "text": "NGSFN"
+      },
+      {
+        "t": 37.73,
+        "text": "ESFLAVORW"
+      },
+      {
+        "t": 37.93,
+        "text": "INZUPPATE"
+      },
+      {
+        "t": 37.93,
+        "text": "MZ"
+      },
+      {
+        "t": 37.93,
+        "text": "RIES"
+      },
+      {
+        "t": 37.93,
+        "text": "FLAVO"
+      },
+      {
+        "t": 37.93,
+        "text": "VESF"
+      },
+      {
+        "t": 37.93,
+        "text": "GSFR"
+      },
+      {
+        "t": 37.93,
+        "text": "AVO"
+      },
+      {
+        "t": 37.93,
+        "text": "NGSFH"
+      },
+      {
+        "t": 37.93,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 38.13,
+        "text": "INZUPPATE"
+      },
+      {
+        "t": 38.13,
+        "text": "FLAVO"
+      },
+      {
+        "t": 38.13,
+        "text": "IM 8O"
+      },
+      {
+        "t": 38.13,
+        "text": "VES"
+      },
+      {
+        "t": 38.13,
+        "text": "GSFR"
+      },
+      {
+        "t": 38.13,
+        "text": "AVO"
+      },
+      {
+        "t": 38.13,
+        "text": "NGSF"
+      },
+      {
+        "t": 38.13,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 38.33,
+        "text": "INZUPPATE"
+      },
+      {
+        "t": 38.33,
+        "text": "FLAVO"
+      },
+      {
+        "t": 38.33,
+        "text": "IES"
+      },
+      {
+        "t": 38.33,
+        "text": "GSFR"
+      },
+      {
+        "t": 38.33,
+        "text": "AVO"
+      },
+      {
+        "t": 38.33,
+        "text": "NGSFH"
+      },
+      {
+        "t": 38.33,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 38.53,
+        "text": "ERWIN"
+      },
+      {
+        "t": 38.53,
+        "text": "一学"
+      },
+      {
+        "t": 38.53,
+        "text": "VESFL"
+      },
+      {
+        "t": 38.53,
+        "text": "FRO"
+      },
+      {
+        "t": 38.53,
+        "text": "GSFRI"
+      },
+      {
+        "t": 38.53,
+        "text": "AVO"
+      },
+      {
+        "t": 38.53,
+        "text": "NGSFIN"
+      },
+      {
+        "t": 38.53,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 38.73,
+        "text": "RANCH"
+      },
+      {
+        "t": 38.73,
+        "text": "IMY"
+      },
+      {
+        "t": 38.73,
+        "text": "SRWIN"
+      },
+      {
+        "t": 38.73,
+        "text": "FLAVO"
+      },
+      {
+        "t": 38.73,
+        "text": "VIES"
+      },
+      {
+        "t": 38.73,
+        "text": "GSFR"
+      },
+      {
+        "t": 38.73,
+        "text": "AVG"
+      },
+      {
+        "t": 38.73,
+        "text": "NGSF"
+      },
+      {
+        "t": 38.73,
+        "text": "ES FLAVORW"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 37.53,
+        "text": "LORO",
+        "conf": 0.95
+      },
+      {
+        "t": 37.53,
+        "text": "NM",
+        "conf": 0.51
+      },
+      {
+        "t": 37.53,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 37.53,
+        "text": "M 8O",
+        "conf": 0.58
+      },
+      {
+        "t": 37.53,
+        "text": "VESFL",
+        "conf": 0.79
+      },
+      {
+        "t": 37.53,
+        "text": "GSFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 37.53,
+        "text": "AVO",
+        "conf": 0.86
+      },
+      {
+        "t": 37.53,
+        "text": "NGSFI",
+        "conf": 0.88
+      },
+      {
+        "t": 37.53,
+        "text": "ES FLAVORW",
+        "conf": 0.87
+      },
+      {
+        "t": 37.73,
+        "text": "LORO",
+        "conf": 0.96
+      },
+      {
+        "t": 37.73,
+        "text": "SRWIN",
+        "conf": 0.91
+      },
+      {
+        "t": 37.73,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 37.73,
+        "text": "VESFL",
+        "conf": 0.79
+      },
+      {
+        "t": 37.73,
+        "text": "GSFRI",
+        "conf": 0.95
+      },
+      {
+        "t": 37.73,
+        "text": "AVO",
+        "conf": 0.89
+      },
+      {
+        "t": 37.73,
+        "text": "NGSFN",
+        "conf": 0.92
+      },
+      {
+        "t": 37.73,
+        "text": "ESFLAVORW",
+        "conf": 0.82
+      },
+      {
+        "t": 37.93,
+        "text": "INZUPPATE",
+        "conf": 0.99
+      },
+      {
+        "t": 37.93,
+        "text": "MZ",
+        "conf": 0.64
+      },
+      {
+        "t": 37.93,
+        "text": "RIES",
+        "conf": 0.99
+      },
+      {
+        "t": 37.93,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 37.93,
+        "text": "VESF",
+        "conf": 0.74
+      },
+      {
+        "t": 37.93,
+        "text": "GSFR",
+        "conf": 0.96
+      },
+      {
+        "t": 37.93,
+        "text": "AVO",
+        "conf": 0.85
+      },
+      {
+        "t": 37.93,
+        "text": "NGSFH",
+        "conf": 0.86
+      },
+      {
+        "t": 37.93,
+        "text": "ES FLAVORV",
+        "conf": 0.93
+      },
+      {
+        "t": 38.13,
+        "text": "INZUPPATE",
+        "conf": 0.99
+      },
+      {
+        "t": 38.13,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 38.13,
+        "text": "IM 8O",
+        "conf": 0.67
+      },
+      {
+        "t": 38.13,
+        "text": "VES",
+        "conf": 0.8
+      },
+      {
+        "t": 38.13,
+        "text": "GSFR",
+        "conf": 0.96
+      },
+      {
+        "t": 38.13,
+        "text": "AVO",
+        "conf": 0.71
+      },
+      {
+        "t": 38.13,
+        "text": "NGSF",
+        "conf": 0.97
+      },
+      {
+        "t": 38.13,
+        "text": "ES FLAVORV",
+        "conf": 0.89
+      },
+      {
+        "t": 38.33,
+        "text": "INZUPPATE",
+        "conf": 0.99
+      },
+      {
+        "t": 38.33,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 38.33,
+        "text": "IES",
+        "conf": 0.92
+      },
+      {
+        "t": 38.33,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 38.33,
+        "text": "AVO",
+        "conf": 0.87
+      },
+      {
+        "t": 38.33,
+        "text": "NGSFH",
+        "conf": 0.83
+      },
+      {
+        "t": 38.33,
+        "text": "ES FLAVORW",
+        "conf": 0.88
+      },
+      {
+        "t": 38.53,
+        "text": "ERWIN",
+        "conf": 0.87
+      },
+      {
+        "t": 38.53,
+        "text": "一学",
+        "conf": 0.5
+      },
+      {
+        "t": 38.53,
+        "text": "VESFL",
+        "conf": 0.75
+      },
+      {
+        "t": 38.53,
+        "text": "FRO",
+        "conf": 0.78
+      },
+      {
+        "t": 38.53,
+        "text": "GSFRI",
+        "conf": 0.94
+      },
+      {
+        "t": 38.53,
+        "text": "AVO",
+        "conf": 0.89
+      },
+      {
+        "t": 38.53,
+        "text": "NGSFIN",
+        "conf": 0.86
+      },
+      {
+        "t": 38.53,
+        "text": "ES FLAVORV",
+        "conf": 0.88
+      },
+      {
+        "t": 38.73,
+        "text": "RANCH",
+        "conf": 0.99
+      },
+      {
+        "t": 38.73,
+        "text": "IMY",
+        "conf": 0.55
+      },
+      {
+        "t": 38.73,
+        "text": "SRWIN",
+        "conf": 0.89
+      },
+      {
+        "t": 38.73,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 38.73,
+        "text": "VIES",
+        "conf": 0.78
+      },
+      {
+        "t": 38.73,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 38.73,
+        "text": "AVG",
+        "conf": 0.53
+      },
+      {
+        "t": 38.73,
+        "text": "NGSF",
+        "conf": 0.98
+      },
+      {
+        "t": 38.73,
+        "text": "ES FLAVORW",
+        "conf": 0.88
+      }
+    ]
+  },
+  {
+    "shot_idx": 19,
+    "start": 38.87,
+    "end": 40.07,
+    "duration": 1.2,
+    "texts": [
+      {
+        "t": 38.87,
+        "text": "LAVOR"
+      },
+      {
+        "t": 38.87,
+        "text": "RANCH"
+      },
+      {
+        "t": 39.07,
+        "text": "HO"
+      },
+      {
+        "t": 39.07,
+        "text": "ESFLAVOR"
+      },
+      {
+        "t": 39.27,
+        "text": "VORWINGS"
+      },
+      {
+        "t": 39.27,
+        "text": "CONTINUATO"
+      },
+      {
+        "t": 39.47,
+        "text": "VORWINGS"
+      },
+      {
+        "t": 39.47,
+        "text": "CONTINUATO"
+      },
+      {
+        "t": 39.67,
+        "text": "GSFP"
+      },
+      {
+        "t": 39.67,
+        "text": "SONIMH"
+      },
+      {
+        "t": 39.67,
+        "text": "QUESTI"
+      },
+      {
+        "t": 39.67,
+        "text": "AVORI"
+      },
+      {
+        "t": 39.87,
+        "text": "GSFP"
+      },
+      {
+        "t": 39.87,
+        "text": "SONIMHO"
+      },
+      {
+        "t": 39.87,
+        "text": "TENDER"
+      },
+      {
+        "t": 39.87,
+        "text": "NGS"
+      },
+      {
+        "t": 39.87,
+        "text": "RW"
+      },
+      {
+        "t": 39.87,
+        "text": "ES FLAVOR"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 38.87,
+        "text": "LAVOR",
+        "conf": 0.97
+      },
+      {
+        "t": 38.87,
+        "text": "RANCH",
+        "conf": 0.99
+      },
+      {
+        "t": 39.07,
+        "text": "HO",
+        "conf": 0.98
+      },
+      {
+        "t": 39.07,
+        "text": "ESFLAVOR",
+        "conf": 0.94
+      },
+      {
+        "t": 39.27,
+        "text": "VORWINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 39.27,
+        "text": "CONTINUATO",
+        "conf": 1.0
+      },
+      {
+        "t": 39.47,
+        "text": "VORWINGS",
+        "conf": 0.91
+      },
+      {
+        "t": 39.47,
+        "text": "CONTINUATO",
+        "conf": 1.0
+      },
+      {
+        "t": 39.67,
+        "text": "GSFP",
+        "conf": 0.91
+      },
+      {
+        "t": 39.67,
+        "text": "SONIMH",
+        "conf": 0.59
+      },
+      {
+        "t": 39.67,
+        "text": "QUESTI",
+        "conf": 0.99
+      },
+      {
+        "t": 39.67,
+        "text": "AVORI",
+        "conf": 0.97
+      },
+      {
+        "t": 39.87,
+        "text": "GSFP",
+        "conf": 0.86
+      },
+      {
+        "t": 39.87,
+        "text": "SONIMHO",
+        "conf": 0.62
+      },
+      {
+        "t": 39.87,
+        "text": "TENDER",
+        "conf": 0.99
+      },
+      {
+        "t": 39.87,
+        "text": "NGS",
+        "conf": 0.98
+      },
+      {
+        "t": 39.87,
+        "text": "RW",
+        "conf": 0.51
+      },
+      {
+        "t": 39.87,
+        "text": "ES FLAVOR",
+        "conf": 0.9
+      }
+    ]
+  },
+  {
+    "shot_idx": 20,
+    "start": 40.07,
+    "end": 41.37,
+    "duration": 1.3,
+    "texts": [
+      {
+        "t": 40.07,
+        "text": "TENDER"
+      },
+      {
+        "t": 40.47,
+        "text": "CROCCANTI"
+      },
+      {
+        "t": 40.67,
+        "text": "SFB"
+      },
+      {
+        "t": 40.87,
+        "text": "OR WINCSFR"
+      },
+      {
+        "t": 41.07,
+        "text": "YOR WINCSFB"
+      },
+      {
+        "t": 41.07,
+        "text": "AVORW"
+      },
+      {
+        "t": 41.27,
+        "text": "SUPER"
+      },
+      {
+        "t": 41.27,
+        "text": "VOR"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 40.07,
+        "text": "TENDER",
+        "conf": 0.99
+      },
+      {
+        "t": 40.27,
+        "text": "TENDER",
+        "conf": 1.0
+      },
+      {
+        "t": 40.47,
+        "text": "CROCCANTI",
+        "conf": 0.99
+      },
+      {
+        "t": 40.67,
+        "text": "CROCCANTI",
+        "conf": 0.99
+      },
+      {
+        "t": 40.67,
+        "text": "SFB",
+        "conf": 0.74
+      },
+      {
+        "t": 40.87,
+        "text": "OR WINCSFR",
+        "conf": 0.83
+      },
+      {
+        "t": 41.07,
+        "text": "YOR WINCSFB",
+        "conf": 0.77
+      },
+      {
+        "t": 41.07,
+        "text": "AVORW",
+        "conf": 0.99
+      },
+      {
+        "t": 41.27,
+        "text": "SUPER",
+        "conf": 0.98
+      },
+      {
+        "t": 41.27,
+        "text": "VOR",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 21,
+    "start": 41.37,
+    "end": 42.77,
+    "duration": 1.4,
+    "texts": [
+      {
+        "t": 41.37,
+        "text": "MORBIDI"
+      },
+      {
+        "t": 41.77,
+        "text": "YSU"
+      },
+      {
+        "t": 41.77,
+        "text": "ALL'INTERNO"
+      },
+      {
+        "t": 42.17,
+        "text": "ON"
+      },
+      {
+        "t": 42.37,
+        "text": "ΛVOh"
+      },
+      {
+        "t": 42.57,
+        "text": "TVOH"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 41.37,
+        "text": "MORBIDI",
+        "conf": 0.98
+      },
+      {
+        "t": 41.57,
+        "text": "MORBIDI",
+        "conf": 0.98
+      },
+      {
+        "t": 41.77,
+        "text": "YSU",
+        "conf": 0.56
+      },
+      {
+        "t": 41.77,
+        "text": "ALL'INTERNO",
+        "conf": 0.96
+      },
+      {
+        "t": 41.97,
+        "text": "ALL'INTERNO",
+        "conf": 0.92
+      },
+      {
+        "t": 42.17,
+        "text": "ON",
+        "conf": 0.58
+      },
+      {
+        "t": 42.37,
+        "text": "ΛVOh",
+        "conf": 0.64
+      },
+      {
+        "t": 42.57,
+        "text": "TVOH",
+        "conf": 0.8
+      }
+    ]
+  },
+  {
+    "shot_idx": 22,
+    "start": 42.77,
+    "end": 44.77,
+    "duration": 2.0,
+    "texts": [
+      {
+        "t": 42.77,
+        "text": "OVVIAMENTE"
+      },
+      {
+        "t": 43.17,
+        "text": "ANCHE"
+      },
+      {
+        "t": 43.37,
+        "text": "LORO"
+      },
+      {
+        "t": 43.57,
+        "text": "LEMON"
+      },
+      {
+        "t": 43.97,
+        "text": "PEPPER"
+      },
+      {
+        "t": 44.17,
+        "text": "CHE"
+      },
+      {
+        "t": 44.57,
+        "text": "FORSE"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 42.77,
+        "text": "OVVIAMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 42.97,
+        "text": "OVVIAMENTE",
+        "conf": 0.98
+      },
+      {
+        "t": 43.17,
+        "text": "ANCHE",
+        "conf": 0.98
+      },
+      {
+        "t": 43.37,
+        "text": "LORO",
+        "conf": 0.92
+      },
+      {
+        "t": 43.57,
+        "text": "LEMON",
+        "conf": 0.99
+      },
+      {
+        "t": 43.77,
+        "text": "LEMON",
+        "conf": 0.99
+      },
+      {
+        "t": 43.97,
+        "text": "PEPPER",
+        "conf": 0.99
+      },
+      {
+        "t": 44.17,
+        "text": "CHE",
+        "conf": 0.99
+      },
+      {
+        "t": 44.57,
+        "text": "FORSE",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 23,
+    "start": 44.77,
+    "end": 47.6,
+    "duration": 2.83,
+    "texts": [
+      {
+        "t": 44.77,
+        "text": "VOR W"
+      },
+      {
+        "t": 44.77,
+        "text": "IL"
+      },
+      {
+        "t": 44.77,
+        "text": "MY"
+      },
+      {
+        "t": 44.77,
+        "text": "RIES"
+      },
+      {
+        "t": 44.77,
+        "text": "NIM"
+      },
+      {
+        "t": 44.77,
+        "text": "FLAVO"
+      },
+      {
+        "t": 44.77,
+        "text": "DNIMHO"
+      },
+      {
+        "t": 44.77,
+        "text": "SON"
+      },
+      {
+        "t": 44.77,
+        "text": "NGSFR"
+      },
+      {
+        "t": 44.77,
+        "text": "ES FLAVOR V"
+      },
+      {
+        "t": 44.77,
+        "text": "SFRIE"
+      },
+      {
+        "t": 44.97,
+        "text": "GUSTO"
+      },
+      {
+        "t": 44.97,
+        "text": "MY"
+      },
+      {
+        "t": 44.97,
+        "text": "NIMS"
+      },
+      {
+        "t": 44.97,
+        "text": "FLAVO"
+      },
+      {
+        "t": 44.97,
+        "text": "NGSFR"
+      },
+      {
+        "t": 44.97,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 44.97,
+        "text": "SFRI"
+      },
+      {
+        "t": 45.17,
+        "text": "GUSTO"
+      },
+      {
+        "t": 45.17,
+        "text": "RIES"
+      },
+      {
+        "t": 45.17,
+        "text": "NIMS"
+      },
+      {
+        "t": 45.17,
+        "text": "FLAVO"
+      },
+      {
+        "t": 45.17,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 45.17,
+        "text": "NGSFR"
+      },
+      {
+        "t": 45.17,
+        "text": "SFRI"
+      },
+      {
+        "t": 45.37,
+        "text": "PREFERITO"
+      },
+      {
+        "t": 45.37,
+        "text": "MY"
+      },
+      {
+        "t": 45.37,
+        "text": "NIM8"
+      },
+      {
+        "t": 45.37,
+        "text": "FLAVO"
+      },
+      {
+        "t": 45.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 45.37,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 45.37,
+        "text": "NGSFR"
+      },
+      {
+        "t": 45.37,
+        "text": "SFR"
+      },
+      {
+        "t": 45.57,
+        "text": "NIMG"
+      },
+      {
+        "t": 45.57,
+        "text": "RIES"
+      },
+      {
+        "t": 45.57,
+        "text": "NIM HO"
+      },
+      {
+        "t": 45.57,
+        "text": "IES"
+      },
+      {
+        "t": 45.57,
+        "text": "GSFR"
+      },
+      {
+        "t": 45.57,
+        "text": "子S"
+      },
+      {
+        "t": 45.57,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 45.57,
+        "text": "SFRI"
+      },
+      {
+        "t": 45.77,
+        "text": "QUANTO"
+      },
+      {
+        "t": 45.77,
+        "text": "RIES"
+      },
+      {
+        "t": 45.77,
+        "text": "NIMS"
+      },
+      {
+        "t": 45.77,
+        "text": "FLAVO"
+      },
+      {
+        "t": 45.77,
+        "text": "IHO"
+      },
+      {
+        "t": 45.77,
+        "text": "ES FLAVOR W"
+      },
+      {
+        "t": 45.77,
+        "text": "SFRI"
+      },
+      {
+        "t": 45.97,
+        "text": "ADORO"
+      },
+      {
+        "t": 45.97,
+        "text": "NIMS"
+      },
+      {
+        "t": 45.97,
+        "text": "RIES"
+      },
+      {
+        "t": 45.97,
+        "text": "FLAVO"
+      },
+      {
+        "t": 45.97,
+        "text": "NIO"
+      },
+      {
+        "t": 45.97,
+        "text": "NGSFR"
+      },
+      {
+        "t": 45.97,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 45.97,
+        "text": "SFRIE"
+      },
+      {
+        "t": 46.17,
+        "text": "ADORO"
+      },
+      {
+        "t": 46.17,
+        "text": "NIMS"
+      },
+      {
+        "t": 46.17,
+        "text": "RIES"
+      },
+      {
+        "t": 46.17,
+        "text": "FLAVO"
+      },
+      {
+        "t": 46.17,
+        "text": "GSFR"
+      },
+      {
+        "t": 46.17,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 46.17,
+        "text": "SFRI"
+      },
+      {
+        "t": 46.37,
+        "text": "QUESTO"
+      },
+      {
+        "t": 46.37,
+        "text": "MY"
+      },
+      {
+        "t": 46.37,
+        "text": "RIES"
+      },
+      {
+        "t": 46.37,
+        "text": "NIMS"
+      },
+      {
+        "t": 46.37,
+        "text": "FLAVO"
+      },
+      {
+        "t": 46.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 46.37,
+        "text": "IGSFR"
+      },
+      {
+        "t": 46.37,
+        "text": "ES FLAVOR W"
+      },
+      {
+        "t": 46.37,
+        "text": "FRI"
+      },
+      {
+        "t": 46.57,
+        "text": "LEGGERO"
+      },
+      {
+        "t": 46.57,
+        "text": "IMZ"
+      },
+      {
+        "t": 46.57,
+        "text": "NIM"
+      },
+      {
+        "t": 46.57,
+        "text": "FLAV"
+      },
+      {
+        "t": 46.57,
+        "text": "GSFR"
+      },
+      {
+        "t": 46.57,
+        "text": "ES FLAVOR"
+      },
+      {
+        "t": 46.77,
+        "text": "LEGGERO"
+      },
+      {
+        "t": 46.77,
+        "text": "MY"
+      },
+      {
+        "t": 46.77,
+        "text": "RIES"
+      },
+      {
+        "t": 46.77,
+        "text": "NIMS"
+      },
+      {
+        "t": 46.77,
+        "text": "FLAVO"
+      },
+      {
+        "t": 46.77,
+        "text": "8O"
+      },
+      {
+        "t": 46.77,
+        "text": "GSFR"
+      },
+      {
+        "t": 46.77,
+        "text": "IGS"
+      },
+      {
+        "t": 46.77,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 46.77,
+        "text": "FR"
+      },
+      {
+        "t": 46.97,
+        "text": "PEPATO"
+      },
+      {
+        "t": 46.97,
+        "text": "NIMS"
+      },
+      {
+        "t": 46.97,
+        "text": "FLAVO"
+      },
+      {
+        "t": 46.97,
+        "text": "ES FLAVOR"
+      },
+      {
+        "t": 46.97,
+        "text": "IGSFR"
+      },
+      {
+        "t": 46.97,
+        "text": "FRI"
+      },
+      {
+        "t": 47.17,
+        "text": "PEPATO"
+      },
+      {
+        "t": 47.17,
+        "text": "NIMS"
+      },
+      {
+        "t": 47.17,
+        "text": "FLAVO"
+      },
+      {
+        "t": 47.17,
+        "text": "GSFR"
+      },
+      {
+        "t": 47.17,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 47.37,
+        "text": "NIMS"
+      },
+      {
+        "t": 47.37,
+        "text": "FLAVO"
+      },
+      {
+        "t": 47.37,
+        "text": "AE"
+      },
+      {
+        "t": 47.37,
+        "text": "VES"
+      },
+      {
+        "t": 47.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 47.37,
+        "text": "AVO"
+      },
+      {
+        "t": 47.37,
+        "text": "NGS"
+      },
+      {
+        "t": 47.37,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 47.37,
+        "text": "NG"
+      },
+      {
+        "t": 47.37,
+        "text": "SFRI"
+      },
+      {
+        "t": 47.57,
+        "text": "PW"
+      },
+      {
+        "t": 47.57,
+        "text": "NIMS"
+      },
+      {
+        "t": 47.57,
+        "text": "FLAVO"
+      },
+      {
+        "t": 47.57,
+        "text": "GSFR"
+      },
+      {
+        "t": 47.57,
+        "text": "NGS"
+      },
+      {
+        "t": 47.57,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 47.57,
+        "text": "SFRI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 44.77,
+        "text": "VOR W",
+        "conf": 0.89
+      },
+      {
+        "t": 44.77,
+        "text": "IL",
+        "conf": 0.96
+      },
+      {
+        "t": 44.77,
+        "text": "MY",
+        "conf": 0.64
+      },
+      {
+        "t": 44.77,
+        "text": "RIES",
+        "conf": 0.98
+      },
+      {
+        "t": 44.77,
+        "text": "NIM",
+        "conf": 0.92
+      },
+      {
+        "t": 44.77,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 44.77,
+        "text": "DNIMHO",
+        "conf": 0.52
+      },
+      {
+        "t": 44.77,
+        "text": "SON",
+        "conf": 0.71
+      },
+      {
+        "t": 44.77,
+        "text": "NGSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 44.77,
+        "text": "ES FLAVOR V",
+        "conf": 0.88
+      },
+      {
+        "t": 44.77,
+        "text": "SFRIE",
+        "conf": 0.91
+      },
+      {
+        "t": 44.97,
+        "text": "GUSTO",
+        "conf": 0.97
+      },
+      {
+        "t": 44.97,
+        "text": "MY",
+        "conf": 0.64
+      },
+      {
+        "t": 44.97,
+        "text": "NIMS",
+        "conf": 0.86
+      },
+      {
+        "t": 44.97,
+        "text": "FLAVO",
+        "conf": 0.92
+      },
+      {
+        "t": 44.97,
+        "text": "NGSFR",
+        "conf": 0.99
+      },
+      {
+        "t": 44.97,
+        "text": "ES FLAVORV",
+        "conf": 0.91
+      },
+      {
+        "t": 44.97,
+        "text": "SFRI",
+        "conf": 0.97
+      },
+      {
+        "t": 45.17,
+        "text": "GUSTO",
+        "conf": 0.98
+      },
+      {
+        "t": 45.17,
+        "text": "RIES",
+        "conf": 0.97
+      },
+      {
+        "t": 45.17,
+        "text": "NIMS",
+        "conf": 0.76
+      },
+      {
+        "t": 45.17,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 45.17,
+        "text": "ES FLAVORV",
+        "conf": 0.89
+      },
+      {
+        "t": 45.17,
+        "text": "NGSFR",
+        "conf": 0.95
+      },
+      {
+        "t": 45.17,
+        "text": "SFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 45.37,
+        "text": "PREFERITO",
+        "conf": 0.98
+      },
+      {
+        "t": 45.37,
+        "text": "MY",
+        "conf": 0.61
+      },
+      {
+        "t": 45.37,
+        "text": "NIM8",
+        "conf": 0.72
+      },
+      {
+        "t": 45.37,
+        "text": "FLAVO",
+        "conf": 0.95
+      },
+      {
+        "t": 45.37,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 45.37,
+        "text": "ES FLAVORV",
+        "conf": 0.91
+      },
+      {
+        "t": 45.37,
+        "text": "NGSFR",
+        "conf": 0.92
+      },
+      {
+        "t": 45.37,
+        "text": "SFR",
+        "conf": 0.96
+      },
+      {
+        "t": 45.57,
+        "text": "NIMG",
+        "conf": 0.71
+      },
+      {
+        "t": 45.57,
+        "text": "RIES",
+        "conf": 0.99
+      },
+      {
+        "t": 45.57,
+        "text": "NIM HO",
+        "conf": 0.56
+      },
+      {
+        "t": 45.57,
+        "text": "IES",
+        "conf": 0.82
+      },
+      {
+        "t": 45.57,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 45.57,
+        "text": "子S",
+        "conf": 0.54
+      },
+      {
+        "t": 45.57,
+        "text": "ES FLAVORV",
+        "conf": 0.95
+      },
+      {
+        "t": 45.57,
+        "text": "SFRI",
+        "conf": 0.95
+      },
+      {
+        "t": 45.77,
+        "text": "QUANTO",
+        "conf": 0.99
+      },
+      {
+        "t": 45.77,
+        "text": "RIES",
+        "conf": 0.98
+      },
+      {
+        "t": 45.77,
+        "text": "NIMS",
+        "conf": 0.77
+      },
+      {
+        "t": 45.77,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 45.77,
+        "text": "IHO",
+        "conf": 0.51
+      },
+      {
+        "t": 45.77,
+        "text": "ES FLAVOR W",
+        "conf": 0.87
+      },
+      {
+        "t": 45.77,
+        "text": "SFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 45.97,
+        "text": "ADORO",
+        "conf": 0.99
+      },
+      {
+        "t": 45.97,
+        "text": "NIMS",
+        "conf": 0.77
+      },
+      {
+        "t": 45.97,
+        "text": "RIES",
+        "conf": 0.98
+      },
+      {
+        "t": 45.97,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 45.97,
+        "text": "NIO",
+        "conf": 0.68
+      },
+      {
+        "t": 45.97,
+        "text": "NGSFR",
+        "conf": 0.92
+      },
+      {
+        "t": 45.97,
+        "text": "ES FLAVORV",
+        "conf": 0.82
+      },
+      {
+        "t": 45.97,
+        "text": "SFRIE",
+        "conf": 0.85
+      },
+      {
+        "t": 46.17,
+        "text": "ADORO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.17,
+        "text": "NIMS",
+        "conf": 0.79
+      },
+      {
+        "t": 46.17,
+        "text": "RIES",
+        "conf": 0.98
+      },
+      {
+        "t": 46.17,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.17,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 46.17,
+        "text": "ES FLAVORV",
+        "conf": 0.87
+      },
+      {
+        "t": 46.17,
+        "text": "SFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 46.37,
+        "text": "QUESTO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.37,
+        "text": "MY",
+        "conf": 0.67
+      },
+      {
+        "t": 46.37,
+        "text": "RIES",
+        "conf": 0.98
+      },
+      {
+        "t": 46.37,
+        "text": "NIMS",
+        "conf": 0.84
+      },
+      {
+        "t": 46.37,
+        "text": "FLAVO",
+        "conf": 0.96
+      },
+      {
+        "t": 46.37,
+        "text": "GSFR",
+        "conf": 0.92
+      },
+      {
+        "t": 46.37,
+        "text": "IGSFR",
+        "conf": 0.89
+      },
+      {
+        "t": 46.37,
+        "text": "ES FLAVOR W",
+        "conf": 0.87
+      },
+      {
+        "t": 46.37,
+        "text": "FRI",
+        "conf": 0.89
+      },
+      {
+        "t": 46.57,
+        "text": "LEGGERO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.57,
+        "text": "IMZ",
+        "conf": 0.61
+      },
+      {
+        "t": 46.57,
+        "text": "NIM",
+        "conf": 0.84
+      },
+      {
+        "t": 46.57,
+        "text": "FLAV",
+        "conf": 0.99
+      },
+      {
+        "t": 46.57,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 46.57,
+        "text": "ES FLAVOR",
+        "conf": 0.93
+      },
+      {
+        "t": 46.77,
+        "text": "LEGGERO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.77,
+        "text": "MY",
+        "conf": 0.8
+      },
+      {
+        "t": 46.77,
+        "text": "RIES",
+        "conf": 0.97
+      },
+      {
+        "t": 46.77,
+        "text": "NIMS",
+        "conf": 0.89
+      },
+      {
+        "t": 46.77,
+        "text": "FLAVO",
+        "conf": 0.92
+      },
+      {
+        "t": 46.77,
+        "text": "8O",
+        "conf": 0.58
+      },
+      {
+        "t": 46.77,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 46.77,
+        "text": "IGS",
+        "conf": 0.86
+      },
+      {
+        "t": 46.77,
+        "text": "ES FLAVORV",
+        "conf": 0.9
+      },
+      {
+        "t": 46.77,
+        "text": "FR",
+        "conf": 0.93
+      },
+      {
+        "t": 46.97,
+        "text": "PEPATO",
+        "conf": 0.99
+      },
+      {
+        "t": 46.97,
+        "text": "NIMS",
+        "conf": 0.81
+      },
+      {
+        "t": 46.97,
+        "text": "FLAVO",
+        "conf": 0.93
+      },
+      {
+        "t": 46.97,
+        "text": "ES FLAVOR",
+        "conf": 0.91
+      },
+      {
+        "t": 46.97,
+        "text": "IGSFR",
+        "conf": 0.88
+      },
+      {
+        "t": 46.97,
+        "text": "FRI",
+        "conf": 0.76
+      },
+      {
+        "t": 47.17,
+        "text": "PEPATO",
+        "conf": 0.99
+      },
+      {
+        "t": 47.17,
+        "text": "NIMS",
+        "conf": 0.73
+      },
+      {
+        "t": 47.17,
+        "text": "FLAVO",
+        "conf": 0.87
+      },
+      {
+        "t": 47.17,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 47.17,
+        "text": "ES FLAVORV",
+        "conf": 0.89
+      },
+      {
+        "t": 47.37,
+        "text": "NIMS",
+        "conf": 0.81
+      },
+      {
+        "t": 47.37,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 47.37,
+        "text": "AE",
+        "conf": 0.53
+      },
+      {
+        "t": 47.37,
+        "text": "VES",
+        "conf": 0.77
+      },
+      {
+        "t": 47.37,
+        "text": "GSFR",
+        "conf": 0.94
+      },
+      {
+        "t": 47.37,
+        "text": "AVO",
+        "conf": 0.61
+      },
+      {
+        "t": 47.37,
+        "text": "NGS",
+        "conf": 1.0
+      },
+      {
+        "t": 47.37,
+        "text": "ES FLAVORW",
+        "conf": 0.9
+      },
+      {
+        "t": 47.37,
+        "text": "NG",
+        "conf": 0.92
+      },
+      {
+        "t": 47.37,
+        "text": "SFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 47.57,
+        "text": "PW",
+        "conf": 0.54
+      },
+      {
+        "t": 47.57,
+        "text": "NIMS",
+        "conf": 0.67
+      },
+      {
+        "t": 47.57,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 47.57,
+        "text": "GSFR",
+        "conf": 0.96
+      },
+      {
+        "t": 47.57,
+        "text": "NGS",
+        "conf": 0.97
+      },
+      {
+        "t": 47.57,
+        "text": "ES FLAVORV",
+        "conf": 0.86
+      },
+      {
+        "t": 47.57,
+        "text": "SFRI",
+        "conf": 0.94
+      }
+    ]
+  },
+  {
+    "shot_idx": 24,
+    "start": 47.6,
+    "end": 49.37,
+    "duration": 1.77,
+    "texts": [
+      {
+        "t": 47.6,
+        "text": "FRI"
+      },
+      {
+        "t": 47.6,
+        "text": "LAVOR"
+      },
+      {
+        "t": 47.6,
+        "text": "FR"
+      },
+      {
+        "t": 47.6,
+        "text": "CS"
+      },
+      {
+        "t": 47.8,
+        "text": "SAPORE"
+      },
+      {
+        "t": 47.8,
+        "text": "LAVOR"
+      },
+      {
+        "t": 47.8,
+        "text": "FR"
+      },
+      {
+        "t": 48.0,
+        "text": "FRI"
+      },
+      {
+        "t": 48.0,
+        "text": "LAVOR"
+      },
+      {
+        "t": 48.0,
+        "text": "FR"
+      },
+      {
+        "t": 48.0,
+        "text": "CS"
+      },
+      {
+        "t": 48.2,
+        "text": "LIMONE"
+      },
+      {
+        "t": 48.2,
+        "text": "LAVOR"
+      },
+      {
+        "t": 48.2,
+        "text": "FR"
+      },
+      {
+        "t": 48.4,
+        "text": "LIMONE"
+      },
+      {
+        "t": 48.4,
+        "text": "LAVOR"
+      },
+      {
+        "t": 48.6,
+        "text": "PO"
+      },
+      {
+        "t": 48.6,
+        "text": "LAVOR"
+      },
+      {
+        "t": 48.8,
+        "text": "AGRUMATO"
+      },
+      {
+        "t": 48.8,
+        "text": "LAVOR"
+      },
+      {
+        "t": 49.0,
+        "text": "AGRUMATO"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 47.6,
+        "text": "FRI",
+        "conf": 0.91
+      },
+      {
+        "t": 47.6,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 47.6,
+        "text": "FR",
+        "conf": 0.98
+      },
+      {
+        "t": 47.6,
+        "text": "CS",
+        "conf": 0.73
+      },
+      {
+        "t": 47.8,
+        "text": "SAPORE",
+        "conf": 0.99
+      },
+      {
+        "t": 47.8,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 47.8,
+        "text": "FR",
+        "conf": 0.92
+      },
+      {
+        "t": 48.0,
+        "text": "FRI",
+        "conf": 0.78
+      },
+      {
+        "t": 48.0,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 48.0,
+        "text": "FR",
+        "conf": 0.95
+      },
+      {
+        "t": 48.0,
+        "text": "CS",
+        "conf": 0.73
+      },
+      {
+        "t": 48.2,
+        "text": "LIMONE",
+        "conf": 0.99
+      },
+      {
+        "t": 48.2,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 48.2,
+        "text": "FR",
+        "conf": 0.87
+      },
+      {
+        "t": 48.4,
+        "text": "LIMONE",
+        "conf": 0.99
+      },
+      {
+        "t": 48.4,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 48.6,
+        "text": "PO",
+        "conf": 0.99
+      },
+      {
+        "t": 48.6,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 48.8,
+        "text": "AGRUMATO",
+        "conf": 0.99
+      },
+      {
+        "t": 48.8,
+        "text": "LAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 49.0,
+        "text": "AGRUMATO",
+        "conf": 0.99
+      },
+      {
+        "t": 49.2,
+        "text": "AGRUMATO",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 25,
+    "start": 49.37,
+    "end": 51.4,
+    "duration": 2.03,
+    "texts": [
+      {
+        "t": 49.37,
+        "text": "U LK22"
+      },
+      {
+        "t": 49.37,
+        "text": "NIM&"
+      },
+      {
+        "t": 49.37,
+        "text": "POI"
+      },
+      {
+        "t": 49.37,
+        "text": "NIN UO"
+      },
+      {
+        "t": 49.37,
+        "text": "SFR"
+      },
+      {
+        "t": 49.37,
+        "text": "IGSFR"
+      },
+      {
+        "t": 49.37,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 49.37,
+        "text": "R WING"
+      },
+      {
+        "t": 49.37,
+        "text": "SFR"
+      },
+      {
+        "t": 49.37,
+        "text": "SONIN"
+      },
+      {
+        "t": 49.57,
+        "text": "NIM&"
+      },
+      {
+        "t": 49.57,
+        "text": "FLAVO"
+      },
+      {
+        "t": 49.57,
+        "text": "SONO"
+      },
+      {
+        "t": 49.57,
+        "text": "NIN UO"
+      },
+      {
+        "t": 49.57,
+        "text": "IGSFR"
+      },
+      {
+        "t": 49.57,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 49.57,
+        "text": "RWING"
+      },
+      {
+        "t": 49.57,
+        "text": "SONI"
+      },
+      {
+        "t": 49.77,
+        "text": "MY"
+      },
+      {
+        "t": 49.77,
+        "text": "NIMS"
+      },
+      {
+        "t": 49.77,
+        "text": "PASSATO"
+      },
+      {
+        "t": 49.77,
+        "text": "FLAVC"
+      },
+      {
+        "t": 49.77,
+        "text": "GSFR"
+      },
+      {
+        "t": 49.77,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 49.77,
+        "text": "RWINGS"
+      },
+      {
+        "t": 49.77,
+        "text": "SONL"
+      },
+      {
+        "t": 49.97,
+        "text": "OU UK22"
+      },
+      {
+        "t": 49.97,
+        "text": "MY"
+      },
+      {
+        "t": 49.97,
+        "text": "EES"
+      },
+      {
+        "t": 49.97,
+        "text": "NIM&"
+      },
+      {
+        "t": 49.97,
+        "text": "FLAVO"
+      },
+      {
+        "t": 49.97,
+        "text": "OR WING"
+      },
+      {
+        "t": 49.97,
+        "text": "ANCHE"
+      },
+      {
+        "t": 49.97,
+        "text": "IGSFR"
+      },
+      {
+        "t": 49.97,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 49.97,
+        "text": "ORWINGS"
+      },
+      {
+        "t": 50.17,
+        "text": "NIM&"
+      },
+      {
+        "t": 50.17,
+        "text": "FLAVO"
+      },
+      {
+        "t": 50.17,
+        "text": "Ae"
+      },
+      {
+        "t": 50.17,
+        "text": "NIN UO"
+      },
+      {
+        "t": 50.17,
+        "text": "ALLE"
+      },
+      {
+        "t": 50.17,
+        "text": "GS"
+      },
+      {
+        "t": 50.17,
+        "text": "IGSFR"
+      },
+      {
+        "t": 50.17,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 50.17,
+        "text": "RWINGS"
+      },
+      {
+        "t": 50.17,
+        "text": "SONIM"
+      },
+      {
+        "t": 50.37,
+        "text": "NIM&"
+      },
+      {
+        "t": 50.37,
+        "text": "FLAVO"
+      },
+      {
+        "t": 50.37,
+        "text": "DNIN UO"
+      },
+      {
+        "t": 50.37,
+        "text": "WINGS"
+      },
+      {
+        "t": 50.37,
+        "text": "IES"
+      },
+      {
+        "t": 50.37,
+        "text": "CSFR"
+      },
+      {
+        "t": 50.37,
+        "text": "NGS"
+      },
+      {
+        "t": 50.37,
+        "text": "GSFR"
+      },
+      {
+        "t": 50.37,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 50.37,
+        "text": "ORWING"
+      },
+      {
+        "t": 50.37,
+        "text": "SONIM"
+      },
+      {
+        "t": 50.57,
+        "text": "MY"
+      },
+      {
+        "t": 50.57,
+        "text": "NIM&"
+      },
+      {
+        "t": 50.57,
+        "text": "FLAVO"
+      },
+      {
+        "t": 50.57,
+        "text": "SNIM UO"
+      },
+      {
+        "t": 50.57,
+        "text": "WINGS"
+      },
+      {
+        "t": 50.57,
+        "text": "NGS"
+      },
+      {
+        "t": 50.57,
+        "text": "GSFR"
+      },
+      {
+        "t": 50.57,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 50.57,
+        "text": "SONIN"
+      },
+      {
+        "t": 50.77,
+        "text": "NIM"
+      },
+      {
+        "t": 50.77,
+        "text": "DNIM UO"
+      },
+      {
+        "t": 50.77,
+        "text": "FLAVO"
+      },
+      {
+        "t": 50.77,
+        "text": "WINGS"
+      },
+      {
+        "t": 50.77,
+        "text": "SON"
+      },
+      {
+        "t": 50.77,
+        "text": "NGSFR"
+      },
+      {
+        "t": 50.77,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 50.77,
+        "text": "RWING"
+      },
+      {
+        "t": 50.77,
+        "text": "SFR"
+      },
+      {
+        "t": 50.77,
+        "text": "SSNI"
+      },
+      {
+        "t": 50.97,
+        "text": "MY"
+      },
+      {
+        "t": 50.97,
+        "text": "NIM&"
+      },
+      {
+        "t": 50.97,
+        "text": "DNIN UO"
+      },
+      {
+        "t": 50.97,
+        "text": "FLAV"
+      },
+      {
+        "t": 50.97,
+        "text": "CLASSICHE"
+      },
+      {
+        "t": 50.97,
+        "text": "SF"
+      },
+      {
+        "t": 50.97,
+        "text": "NGS"
+      },
+      {
+        "t": 50.97,
+        "text": "ESFLAVORV"
+      },
+      {
+        "t": 50.97,
+        "text": "SFR"
+      },
+      {
+        "t": 51.17,
+        "text": "MY"
+      },
+      {
+        "t": 51.17,
+        "text": "IMS"
+      },
+      {
+        "t": 51.17,
+        "text": "ONIN UO"
+      },
+      {
+        "t": 51.17,
+        "text": "FLAV"
+      },
+      {
+        "t": 51.17,
+        "text": "CLASSICHE"
+      },
+      {
+        "t": 51.17,
+        "text": "SM"
+      },
+      {
+        "t": 51.17,
+        "text": "IGSFR"
+      },
+      {
+        "t": 51.17,
+        "text": "ES FLAVORW"
+      },
+      {
+        "t": 51.17,
+        "text": "SFR"
+      },
+      {
+        "t": 51.17,
+        "text": "S9NI"
+      },
+      {
+        "t": 51.37,
+        "text": "NIM&"
+      },
+      {
+        "t": 51.37,
+        "text": "FLAVO"
+      },
+      {
+        "t": 51.37,
+        "text": "ORWING"
+      },
+      {
+        "t": 51.37,
+        "text": "ANCHE"
+      },
+      {
+        "t": 51.37,
+        "text": "SM"
+      },
+      {
+        "t": 51.37,
+        "text": "NGSFI"
+      },
+      {
+        "t": 51.37,
+        "text": "NGSFR"
+      },
+      {
+        "t": 51.37,
+        "text": "ES FLAVORV"
+      },
+      {
+        "t": 51.37,
+        "text": "SFR"
+      },
+      {
+        "t": 51.37,
+        "text": "SONIM"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 49.37,
+        "text": "U LK22",
+        "conf": 0.89
+      },
+      {
+        "t": 49.37,
+        "text": "NIM&",
+        "conf": 0.81
+      },
+      {
+        "t": 49.37,
+        "text": "POI",
+        "conf": 0.94
+      },
+      {
+        "t": 49.37,
+        "text": "NIN UO",
+        "conf": 0.68
+      },
+      {
+        "t": 49.37,
+        "text": "SFR",
+        "conf": 0.98
+      },
+      {
+        "t": 49.37,
+        "text": "IGSFR",
+        "conf": 0.85
+      },
+      {
+        "t": 49.37,
+        "text": "ES FLAVORW",
+        "conf": 0.85
+      },
+      {
+        "t": 49.37,
+        "text": "R WING",
+        "conf": 0.9
+      },
+      {
+        "t": 49.37,
+        "text": "SFR",
+        "conf": 0.95
+      },
+      {
+        "t": 49.37,
+        "text": "SONIN",
+        "conf": 0.52
+      },
+      {
+        "t": 49.57,
+        "text": "NIM&",
+        "conf": 0.8
+      },
+      {
+        "t": 49.57,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 49.57,
+        "text": "SONO",
+        "conf": 0.97
+      },
+      {
+        "t": 49.57,
+        "text": "NIN UO",
+        "conf": 0.67
+      },
+      {
+        "t": 49.57,
+        "text": "IGSFR",
+        "conf": 0.87
+      },
+      {
+        "t": 49.57,
+        "text": "ES FLAVORV",
+        "conf": 0.92
+      },
+      {
+        "t": 49.57,
+        "text": "RWING",
+        "conf": 0.98
+      },
+      {
+        "t": 49.57,
+        "text": "SONI",
+        "conf": 0.77
+      },
+      {
+        "t": 49.77,
+        "text": "MY",
+        "conf": 0.77
+      },
+      {
+        "t": 49.77,
+        "text": "NIMS",
+        "conf": 0.55
+      },
+      {
+        "t": 49.77,
+        "text": "PASSATO",
+        "conf": 0.99
+      },
+      {
+        "t": 49.77,
+        "text": "FLAVC",
+        "conf": 0.87
+      },
+      {
+        "t": 49.77,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 49.77,
+        "text": "ES FLAVORV",
+        "conf": 0.94
+      },
+      {
+        "t": 49.77,
+        "text": "RWINGS",
+        "conf": 0.93
+      },
+      {
+        "t": 49.77,
+        "text": "SONL",
+        "conf": 0.68
+      },
+      {
+        "t": 49.97,
+        "text": "OU UK22",
+        "conf": 0.82
+      },
+      {
+        "t": 49.97,
+        "text": "MY",
+        "conf": 0.89
+      },
+      {
+        "t": 49.97,
+        "text": "EES",
+        "conf": 0.52
+      },
+      {
+        "t": 49.97,
+        "text": "NIM&",
+        "conf": 0.85
+      },
+      {
+        "t": 49.97,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 49.97,
+        "text": "OR WING",
+        "conf": 0.96
+      },
+      {
+        "t": 49.97,
+        "text": "ANCHE",
+        "conf": 0.99
+      },
+      {
+        "t": 49.97,
+        "text": "IGSFR",
+        "conf": 0.88
+      },
+      {
+        "t": 49.97,
+        "text": "ES FLAVORW",
+        "conf": 0.86
+      },
+      {
+        "t": 49.97,
+        "text": "ORWINGS",
+        "conf": 0.93
+      },
+      {
+        "t": 50.17,
+        "text": "NIM&",
+        "conf": 0.85
+      },
+      {
+        "t": 50.17,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 50.17,
+        "text": "Ae",
+        "conf": 0.54
+      },
+      {
+        "t": 50.17,
+        "text": "NIN UO",
+        "conf": 0.61
+      },
+      {
+        "t": 50.17,
+        "text": "ALLE",
+        "conf": 0.99
+      },
+      {
+        "t": 50.17,
+        "text": "GS",
+        "conf": 0.94
+      },
+      {
+        "t": 50.17,
+        "text": "IGSFR",
+        "conf": 0.87
+      },
+      {
+        "t": 50.17,
+        "text": "ES FLAVORW",
+        "conf": 0.88
+      },
+      {
+        "t": 50.17,
+        "text": "RWINGS",
+        "conf": 0.93
+      },
+      {
+        "t": 50.17,
+        "text": "SONIM",
+        "conf": 0.72
+      },
+      {
+        "t": 50.37,
+        "text": "NIM&",
+        "conf": 0.84
+      },
+      {
+        "t": 50.37,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 50.37,
+        "text": "DNIN UO",
+        "conf": 0.68
+      },
+      {
+        "t": 50.37,
+        "text": "WINGS",
+        "conf": 0.96
+      },
+      {
+        "t": 50.37,
+        "text": "IES",
+        "conf": 0.84
+      },
+      {
+        "t": 50.37,
+        "text": "CSFR",
+        "conf": 0.85
+      },
+      {
+        "t": 50.37,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 50.37,
+        "text": "GSFR",
+        "conf": 0.97
+      },
+      {
+        "t": 50.37,
+        "text": "ES FLAVORW",
+        "conf": 0.89
+      },
+      {
+        "t": 50.37,
+        "text": "ORWING",
+        "conf": 0.96
+      },
+      {
+        "t": 50.37,
+        "text": "SONIM",
+        "conf": 0.61
+      },
+      {
+        "t": 50.57,
+        "text": "MY",
+        "conf": 0.83
+      },
+      {
+        "t": 50.57,
+        "text": "NIM&",
+        "conf": 0.77
+      },
+      {
+        "t": 50.57,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 50.57,
+        "text": "SNIM UO",
+        "conf": 0.68
+      },
+      {
+        "t": 50.57,
+        "text": "WINGS",
+        "conf": 0.98
+      },
+      {
+        "t": 50.57,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 50.57,
+        "text": "GSFR",
+        "conf": 0.98
+      },
+      {
+        "t": 50.57,
+        "text": "ES FLAVORW",
+        "conf": 0.9
+      },
+      {
+        "t": 50.57,
+        "text": "SONIN",
+        "conf": 0.75
+      },
+      {
+        "t": 50.77,
+        "text": "NIM",
+        "conf": 0.7
+      },
+      {
+        "t": 50.77,
+        "text": "DNIM UO",
+        "conf": 0.71
+      },
+      {
+        "t": 50.77,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 50.77,
+        "text": "WINGS",
+        "conf": 0.98
+      },
+      {
+        "t": 50.77,
+        "text": "SON",
+        "conf": 0.6
+      },
+      {
+        "t": 50.77,
+        "text": "NGSFR",
+        "conf": 0.89
+      },
+      {
+        "t": 50.77,
+        "text": "ES FLAVORV",
+        "conf": 0.88
+      },
+      {
+        "t": 50.77,
+        "text": "RWING",
+        "conf": 0.98
+      },
+      {
+        "t": 50.77,
+        "text": "SFR",
+        "conf": 0.99
+      },
+      {
+        "t": 50.77,
+        "text": "SSNI",
+        "conf": 0.8
+      },
+      {
+        "t": 50.97,
+        "text": "MY",
+        "conf": 0.83
+      },
+      {
+        "t": 50.97,
+        "text": "NIM&",
+        "conf": 0.57
+      },
+      {
+        "t": 50.97,
+        "text": "DNIN UO",
+        "conf": 0.69
+      },
+      {
+        "t": 50.97,
+        "text": "FLAV",
+        "conf": 0.99
+      },
+      {
+        "t": 50.97,
+        "text": "CLASSICHE",
+        "conf": 0.96
+      },
+      {
+        "t": 50.97,
+        "text": "SF",
+        "conf": 0.59
+      },
+      {
+        "t": 50.97,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 50.97,
+        "text": "ESFLAVORV",
+        "conf": 0.87
+      },
+      {
+        "t": 50.97,
+        "text": "SFR",
+        "conf": 0.99
+      },
+      {
+        "t": 51.17,
+        "text": "MY",
+        "conf": 0.74
+      },
+      {
+        "t": 51.17,
+        "text": "IMS",
+        "conf": 0.81
+      },
+      {
+        "t": 51.17,
+        "text": "ONIN UO",
+        "conf": 0.6
+      },
+      {
+        "t": 51.17,
+        "text": "FLAV",
+        "conf": 0.99
+      },
+      {
+        "t": 51.17,
+        "text": "CLASSICHE",
+        "conf": 0.96
+      },
+      {
+        "t": 51.17,
+        "text": "SM",
+        "conf": 0.57
+      },
+      {
+        "t": 51.17,
+        "text": "IGSFR",
+        "conf": 0.93
+      },
+      {
+        "t": 51.17,
+        "text": "ES FLAVORW",
+        "conf": 0.86
+      },
+      {
+        "t": 51.17,
+        "text": "SFR",
+        "conf": 0.98
+      },
+      {
+        "t": 51.17,
+        "text": "S9NI",
+        "conf": 0.87
+      },
+      {
+        "t": 51.37,
+        "text": "NIM&",
+        "conf": 0.81
+      },
+      {
+        "t": 51.37,
+        "text": "FLAVO",
+        "conf": 0.98
+      },
+      {
+        "t": 51.37,
+        "text": "ORWING",
+        "conf": 0.98
+      },
+      {
+        "t": 51.37,
+        "text": "ANCHE",
+        "conf": 0.99
+      },
+      {
+        "t": 51.37,
+        "text": "SM",
+        "conf": 0.6
+      },
+      {
+        "t": 51.37,
+        "text": "NGSFI",
+        "conf": 0.75
+      },
+      {
+        "t": 51.37,
+        "text": "NGSFR",
+        "conf": 0.93
+      },
+      {
+        "t": 51.37,
+        "text": "ES FLAVORV",
+        "conf": 0.91
+      },
+      {
+        "t": 51.37,
+        "text": "SFR",
+        "conf": 0.99
+      },
+      {
+        "t": 51.37,
+        "text": "SONIM",
+        "conf": 0.84
+      }
+    ]
+  },
+  {
+    "shot_idx": 26,
+    "start": 51.4,
+    "end": 53.5,
+    "duration": 2.1,
+    "texts": [
+      {
+        "t": 51.4,
+        "text": "ANCHE"
+      },
+      {
+        "t": 51.6,
+        "text": "PREFERISCO"
+      },
+      {
+        "t": 52.0,
+        "text": "LE'"
+      },
+      {
+        "t": 52.2,
+        "text": "BONELESS"
+      },
+      {
+        "t": 52.8,
+        "text": "LORO"
+      },
+      {
+        "t": 53.0,
+        "text": "ONOS"
+      },
+      {
+        "t": 53.2,
+        "text": "SEMPRE"
+      },
+      {
+        "t": 53.4,
+        "text": "SUPER"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 51.4,
+        "text": "ANCHE",
+        "conf": 0.99
+      },
+      {
+        "t": 51.6,
+        "text": "PREFERISCO",
+        "conf": 0.99
+      },
+      {
+        "t": 51.8,
+        "text": "PREFERISCO",
+        "conf": 0.99
+      },
+      {
+        "t": 52.0,
+        "text": "LE'",
+        "conf": 0.82
+      },
+      {
+        "t": 52.2,
+        "text": "BONELESS",
+        "conf": 0.99
+      },
+      {
+        "t": 52.8,
+        "text": "LORO",
+        "conf": 0.98
+      },
+      {
+        "t": 53.0,
+        "text": "ONOS",
+        "conf": 0.99
+      },
+      {
+        "t": 53.2,
+        "text": "SEMPRE",
+        "conf": 0.98
+      },
+      {
+        "t": 53.4,
+        "text": "SUPER",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 27,
+    "start": 53.5,
+    "end": 55.83,
+    "duration": 2.33,
+    "texts": [
+      {
+        "t": 53.5,
+        "text": "SODDISFACENTI"
+      },
+      {
+        "t": 54.1,
+        "text": "DA"
+      },
+      {
+        "t": 54.3,
+        "text": "MANGIARE"
+      },
+      {
+        "t": 54.9,
+        "text": "SONO"
+      },
+      {
+        "t": 55.1,
+        "text": "TORNATO"
+      },
+      {
+        "t": 55.3,
+        "text": "SU"
+      },
+      {
+        "t": 55.5,
+        "text": "QUESTI"
+      },
+      {
+        "t": 55.7,
+        "text": "TENDER"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 53.5,
+        "text": "SODDISFACENTI",
+        "conf": 0.99
+      },
+      {
+        "t": 53.7,
+        "text": "SODDISFACENTI",
+        "conf": 0.99
+      },
+      {
+        "t": 53.9,
+        "text": "SODDISFACENTI",
+        "conf": 0.99
+      },
+      {
+        "t": 54.1,
+        "text": "DA",
+        "conf": 0.99
+      },
+      {
+        "t": 54.3,
+        "text": "MANGIARE",
+        "conf": 0.97
+      },
+      {
+        "t": 54.9,
+        "text": "SONO",
+        "conf": 0.94
+      },
+      {
+        "t": 55.1,
+        "text": "TORNATO",
+        "conf": 0.99
+      },
+      {
+        "t": 55.3,
+        "text": "SU",
+        "conf": 0.89
+      },
+      {
+        "t": 55.5,
+        "text": "QUESTI",
+        "conf": 0.98
+      },
+      {
+        "t": 55.7,
+        "text": "TENDER",
+        "conf": 1.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 28,
+    "start": 55.83,
+    "end": 57.03,
+    "duration": 1.2,
+    "texts": [
+      {
+        "t": 55.83,
+        "text": "TENDER"
+      },
+      {
+        "t": 56.03,
+        "text": "NGS"
+      },
+      {
+        "t": 56.23,
+        "text": "TENDER"
+      },
+      {
+        "t": 56.23,
+        "text": "NGS"
+      },
+      {
+        "t": 56.43,
+        "text": "SUPER"
+      },
+      {
+        "t": 56.43,
+        "text": "NGS"
+      },
+      {
+        "t": 56.63,
+        "text": "DOLCI"
+      },
+      {
+        "t": 56.63,
+        "text": "NGS"
+      },
+      {
+        "t": 56.83,
+        "text": "ESFLAVOR WING"
+      },
+      {
+        "t": 56.83,
+        "text": "DOLCI"
+      },
+      {
+        "t": 56.83,
+        "text": "WINGS"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 55.83,
+        "text": "TENDER",
+        "conf": 1.0
+      },
+      {
+        "t": 56.03,
+        "text": "TENDER",
+        "conf": 1.0
+      },
+      {
+        "t": 56.03,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 56.23,
+        "text": "TENDER",
+        "conf": 0.99
+      },
+      {
+        "t": 56.23,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 56.43,
+        "text": "SUPER",
+        "conf": 0.99
+      },
+      {
+        "t": 56.43,
+        "text": "NGS",
+        "conf": 0.98
+      },
+      {
+        "t": 56.63,
+        "text": "DOLCI",
+        "conf": 0.99
+      },
+      {
+        "t": 56.63,
+        "text": "NGS",
+        "conf": 0.98
+      },
+      {
+        "t": 56.83,
+        "text": "ESFLAVOR WING",
+        "conf": 0.83
+      },
+      {
+        "t": 56.83,
+        "text": "DOLCI",
+        "conf": 0.99
+      },
+      {
+        "t": 56.83,
+        "text": "WINGS",
+        "conf": 0.95
+      }
+    ]
+  },
+  {
+    "shot_idx": 29,
+    "start": 57.03,
+    "end": 59.03,
+    "duration": 2.0,
+    "texts": [
+      {
+        "t": 57.03,
+        "text": "ES FLADDA WIo"
+      },
+      {
+        "t": 57.03,
+        "text": "VOR WINGSF"
+      },
+      {
+        "t": 57.03,
+        "text": "MA"
+      },
+      {
+        "t": 57.43,
+        "text": "STESSO"
+      },
+      {
+        "t": 57.63,
+        "text": "TEMPO"
+      },
+      {
+        "t": 57.83,
+        "text": "AFFUMICATI"
+      },
+      {
+        "t": 58.43,
+        "text": "OVVIAMENTE"
+      },
+      {
+        "t": 58.63,
+        "text": "INZUPPATI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 57.03,
+        "text": "ES FLADDA WIo",
+        "conf": 0.69
+      },
+      {
+        "t": 57.03,
+        "text": "VOR WINGSF",
+        "conf": 0.89
+      },
+      {
+        "t": 57.03,
+        "text": "MA",
+        "conf": 0.99
+      },
+      {
+        "t": 57.43,
+        "text": "STESSO",
+        "conf": 0.99
+      },
+      {
+        "t": 57.63,
+        "text": "TEMPO",
+        "conf": 1.0
+      },
+      {
+        "t": 57.83,
+        "text": "AFFUMICATI",
+        "conf": 0.98
+      },
+      {
+        "t": 58.03,
+        "text": "AFFUMICATI",
+        "conf": 0.98
+      },
+      {
+        "t": 58.23,
+        "text": "AFFUMICATI",
+        "conf": 0.99
+      },
+      {
+        "t": 58.43,
+        "text": "OVVIAMENTE",
+        "conf": 0.99
+      },
+      {
+        "t": 58.63,
+        "text": "INZUPPATI",
+        "conf": 0.98
+      },
+      {
+        "t": 58.83,
+        "text": "INZUPPATI",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 30,
+    "start": 59.03,
+    "end": 61.93,
+    "duration": 2.9,
+    "texts": [
+      {
+        "t": 59.03,
+        "text": "INZUPPATI"
+      },
+      {
+        "t": 59.23,
+        "text": "NELLA"
+      },
+      {
+        "t": 59.23,
+        "text": "HON"
+      },
+      {
+        "t": 59.23,
+        "text": "O8"
+      },
+      {
+        "t": 59.63,
+        "text": "RANCH"
+      },
+      {
+        "t": 59.63,
+        "text": "INGS FRIESAN"
+      },
+      {
+        "t": 59.63,
+        "text": "SFRIES"
+      },
+      {
+        "t": 59.63,
+        "text": "HON"
+      },
+      {
+        "t": 59.63,
+        "text": "FRIE"
+      },
+      {
+        "t": 59.83,
+        "text": "RANCH"
+      },
+      {
+        "t": 59.83,
+        "text": "VINGS FRIES AN"
+      },
+      {
+        "t": 59.83,
+        "text": "SFRIES"
+      },
+      {
+        "t": 59.83,
+        "text": "HO"
+      },
+      {
+        "t": 60.03,
+        "text": "ANCHE"
+      },
+      {
+        "t": 60.03,
+        "text": "WINGSF"
+      },
+      {
+        "t": 60.03,
+        "text": "INGSFRIESAN"
+      },
+      {
+        "t": 60.03,
+        "text": "HON"
+      },
+      {
+        "t": 60.03,
+        "text": "FRIE"
+      },
+      {
+        "t": 60.23,
+        "text": "LORO"
+      },
+      {
+        "t": 60.23,
+        "text": "IVOR"
+      },
+      {
+        "t": 60.23,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 60.23,
+        "text": "NGSF"
+      },
+      {
+        "t": 60.43,
+        "text": "WINGS"
+      },
+      {
+        "t": 60.43,
+        "text": "DAVVERO"
+      },
+      {
+        "t": 60.43,
+        "text": "SS"
+      },
+      {
+        "t": 60.43,
+        "text": "NGSI"
+      },
+      {
+        "t": 60.63,
+        "text": "WINGS"
+      },
+      {
+        "t": 60.63,
+        "text": "VINGSFRIES AIN"
+      },
+      {
+        "t": 60.63,
+        "text": "HO"
+      },
+      {
+        "t": 60.63,
+        "text": "RWIN"
+      },
+      {
+        "t": 60.63,
+        "text": "AVOR"
+      },
+      {
+        "t": 60.63,
+        "text": "FRIES"
+      },
+      {
+        "t": 60.63,
+        "text": "M2"
+      },
+      {
+        "t": 60.63,
+        "text": "AVOR WII"
+      },
+      {
+        "t": 60.63,
+        "text": "FLAVOR W"
+      },
+      {
+        "t": 60.63,
+        "text": "FLAV"
+      },
+      {
+        "t": 60.63,
+        "text": "NGSF"
+      },
+      {
+        "t": 60.83,
+        "text": "VINGSFRIESAN"
+      },
+      {
+        "t": 60.83,
+        "text": "PROVATO"
+      },
+      {
+        "t": 60.83,
+        "text": "SFRIES"
+      },
+      {
+        "t": 60.83,
+        "text": "AVOR"
+      },
+      {
+        "t": 60.83,
+        "text": "FRIES"
+      },
+      {
+        "t": 60.83,
+        "text": "ADOR"
+      },
+      {
+        "t": 60.83,
+        "text": "NGSH"
+      },
+      {
+        "t": 61.03,
+        "text": "INGSFRIESFI"
+      },
+      {
+        "t": 61.03,
+        "text": "QUINDI"
+      },
+      {
+        "t": 61.03,
+        "text": "ASFRIES FU"
+      },
+      {
+        "t": 61.03,
+        "text": "HOM"
+      },
+      {
+        "t": 61.03,
+        "text": "FRIES"
+      },
+      {
+        "t": 61.03,
+        "text": "FLAVOR W"
+      },
+      {
+        "t": 61.03,
+        "text": "NGSI"
+      },
+      {
+        "t": 61.23,
+        "text": "OLSIW"
+      },
+      {
+        "t": 61.23,
+        "text": "INGSFRIESFN"
+      },
+      {
+        "t": 61.23,
+        "text": "RC"
+      },
+      {
+        "t": 61.23,
+        "text": "ASFRIES"
+      },
+      {
+        "t": 61.23,
+        "text": "BW"
+      },
+      {
+        "t": 61.23,
+        "text": "FRIES"
+      },
+      {
+        "t": 61.23,
+        "text": "LADOR W"
+      },
+      {
+        "t": 61.43,
+        "text": "SFRIES"
+      },
+      {
+        "t": 61.43,
+        "text": "ORWI"
+      },
+      {
+        "t": 61.43,
+        "text": "FRIES"
+      },
+      {
+        "t": 61.43,
+        "text": "MY"
+      },
+      {
+        "t": 61.43,
+        "text": "AVOR WII"
+      },
+      {
+        "t": 61.43,
+        "text": "SFLAVOR WY"
+      },
+      {
+        "t": 61.43,
+        "text": "FLAI"
+      },
+      {
+        "t": 61.63,
+        "text": "DI"
+      },
+      {
+        "t": 61.63,
+        "text": "ASFRIES"
+      },
+      {
+        "t": 61.63,
+        "text": "OR WIN"
+      },
+      {
+        "t": 61.63,
+        "text": "VOR"
+      },
+      {
+        "t": 61.63,
+        "text": "FRIES"
+      },
+      {
+        "t": 61.63,
+        "text": "MY"
+      },
+      {
+        "t": 61.63,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 61.63,
+        "text": "S FLAVOR WINY"
+      },
+      {
+        "t": 61.63,
+        "text": "VINGS"
+      },
+      {
+        "t": 61.83,
+        "text": "INGSFRIESW"
+      },
+      {
+        "t": 61.83,
+        "text": "FLAVOR"
+      },
+      {
+        "t": 61.83,
+        "text": "ASFRIES"
+      },
+      {
+        "t": 61.83,
+        "text": "RW"
+      },
+      {
+        "t": 61.83,
+        "text": "AVOR"
+      },
+      {
+        "t": 61.83,
+        "text": "FL"
+      },
+      {
+        "t": 61.83,
+        "text": "FRIES"
+      },
+      {
+        "t": 61.83,
+        "text": "My"
+      },
+      {
+        "t": 61.83,
+        "text": "AVOR WII"
+      },
+      {
+        "t": 61.83,
+        "text": "FLADOR WINY"
+      },
+      {
+        "t": 61.83,
+        "text": "FLAV"
+      },
+      {
+        "t": 61.83,
+        "text": "VINGS"
+      },
+      {
+        "t": 61.83,
+        "text": "NGSI"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 59.03,
+        "text": "INZUPPATI",
+        "conf": 0.99
+      },
+      {
+        "t": 59.23,
+        "text": "NELLA",
+        "conf": 0.97
+      },
+      {
+        "t": 59.23,
+        "text": "HON",
+        "conf": 0.86
+      },
+      {
+        "t": 59.23,
+        "text": "O8",
+        "conf": 0.68
+      },
+      {
+        "t": 59.63,
+        "text": "RANCH",
+        "conf": 0.97
+      },
+      {
+        "t": 59.63,
+        "text": "INGS FRIESAN",
+        "conf": 0.79
+      },
+      {
+        "t": 59.63,
+        "text": "SFRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 59.63,
+        "text": "HON",
+        "conf": 0.87
+      },
+      {
+        "t": 59.63,
+        "text": "FRIE",
+        "conf": 0.99
+      },
+      {
+        "t": 59.83,
+        "text": "RANCH",
+        "conf": 0.99
+      },
+      {
+        "t": 59.83,
+        "text": "VINGS FRIES AN",
+        "conf": 0.81
+      },
+      {
+        "t": 59.83,
+        "text": "SFRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 59.83,
+        "text": "HO",
+        "conf": 0.72
+      },
+      {
+        "t": 60.03,
+        "text": "ANCHE",
+        "conf": 0.97
+      },
+      {
+        "t": 60.03,
+        "text": "WINGSF",
+        "conf": 0.89
+      },
+      {
+        "t": 60.03,
+        "text": "INGSFRIESAN",
+        "conf": 0.77
+      },
+      {
+        "t": 60.03,
+        "text": "HON",
+        "conf": 0.91
+      },
+      {
+        "t": 60.03,
+        "text": "FRIE",
+        "conf": 0.99
+      },
+      {
+        "t": 60.23,
+        "text": "LORO",
+        "conf": 0.98
+      },
+      {
+        "t": 60.23,
+        "text": "IVOR",
+        "conf": 0.83
+      },
+      {
+        "t": 60.23,
+        "text": "AVOR WI",
+        "conf": 0.95
+      },
+      {
+        "t": 60.23,
+        "text": "NGSF",
+        "conf": 0.87
+      },
+      {
+        "t": 60.43,
+        "text": "WINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 60.43,
+        "text": "DAVVERO",
+        "conf": 0.99
+      },
+      {
+        "t": 60.43,
+        "text": "SS",
+        "conf": 0.71
+      },
+      {
+        "t": 60.43,
+        "text": "NGSI",
+        "conf": 0.83
+      },
+      {
+        "t": 60.63,
+        "text": "WINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 60.63,
+        "text": "VINGSFRIES AIN",
+        "conf": 0.85
+      },
+      {
+        "t": 60.63,
+        "text": "HO",
+        "conf": 0.99
+      },
+      {
+        "t": 60.63,
+        "text": "RWIN",
+        "conf": 0.89
+      },
+      {
+        "t": 60.63,
+        "text": "AVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 60.63,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 60.63,
+        "text": "M2",
+        "conf": 0.76
+      },
+      {
+        "t": 60.63,
+        "text": "AVOR WII",
+        "conf": 0.88
+      },
+      {
+        "t": 60.63,
+        "text": "FLAVOR W",
+        "conf": 0.92
+      },
+      {
+        "t": 60.63,
+        "text": "FLAV",
+        "conf": 0.99
+      },
+      {
+        "t": 60.63,
+        "text": "NGSF",
+        "conf": 0.81
+      },
+      {
+        "t": 60.83,
+        "text": "VINGSFRIESAN",
+        "conf": 0.85
+      },
+      {
+        "t": 60.83,
+        "text": "PROVATO",
+        "conf": 0.99
+      },
+      {
+        "t": 60.83,
+        "text": "SFRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 60.83,
+        "text": "AVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 60.83,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 60.83,
+        "text": "ADOR",
+        "conf": 0.9
+      },
+      {
+        "t": 60.83,
+        "text": "NGSH",
+        "conf": 0.83
+      },
+      {
+        "t": 61.03,
+        "text": "INGSFRIESFI",
+        "conf": 0.86
+      },
+      {
+        "t": 61.03,
+        "text": "QUINDI",
+        "conf": 1.0
+      },
+      {
+        "t": 61.03,
+        "text": "ASFRIES FU",
+        "conf": 0.82
+      },
+      {
+        "t": 61.03,
+        "text": "HOM",
+        "conf": 0.6
+      },
+      {
+        "t": 61.03,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 61.03,
+        "text": "FLAVOR W",
+        "conf": 0.92
+      },
+      {
+        "t": 61.03,
+        "text": "NGSI",
+        "conf": 0.93
+      },
+      {
+        "t": 61.23,
+        "text": "OLSIW",
+        "conf": 0.62
+      },
+      {
+        "t": 61.23,
+        "text": "INGSFRIESFN",
+        "conf": 0.83
+      },
+      {
+        "t": 61.23,
+        "text": "RC",
+        "conf": 0.53
+      },
+      {
+        "t": 61.23,
+        "text": "ASFRIES",
+        "conf": 0.87
+      },
+      {
+        "t": 61.23,
+        "text": "BW",
+        "conf": 0.91
+      },
+      {
+        "t": 61.23,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 61.23,
+        "text": "LADOR W",
+        "conf": 0.88
+      },
+      {
+        "t": 61.43,
+        "text": "SFRIES",
+        "conf": 0.94
+      },
+      {
+        "t": 61.43,
+        "text": "ORWI",
+        "conf": 0.82
+      },
+      {
+        "t": 61.43,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 61.43,
+        "text": "MY",
+        "conf": 0.79
+      },
+      {
+        "t": 61.43,
+        "text": "AVOR WII",
+        "conf": 0.88
+      },
+      {
+        "t": 61.43,
+        "text": "SFLAVOR WY",
+        "conf": 0.82
+      },
+      {
+        "t": 61.43,
+        "text": "FLAI",
+        "conf": 0.98
+      },
+      {
+        "t": 61.63,
+        "text": "DI",
+        "conf": 0.97
+      },
+      {
+        "t": 61.63,
+        "text": "ASFRIES",
+        "conf": 0.9
+      },
+      {
+        "t": 61.63,
+        "text": "OR WIN",
+        "conf": 0.84
+      },
+      {
+        "t": 61.63,
+        "text": "VOR",
+        "conf": 0.96
+      },
+      {
+        "t": 61.63,
+        "text": "FRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 61.63,
+        "text": "MY",
+        "conf": 0.82
+      },
+      {
+        "t": 61.63,
+        "text": "AVOR WIN",
+        "conf": 0.96
+      },
+      {
+        "t": 61.63,
+        "text": "S FLAVOR WINY",
+        "conf": 0.86
+      },
+      {
+        "t": 61.63,
+        "text": "VINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 61.83,
+        "text": "INGSFRIESW",
+        "conf": 0.87
+      },
+      {
+        "t": 61.83,
+        "text": "FLAVOR",
+        "conf": 1.0
+      },
+      {
+        "t": 61.83,
+        "text": "ASFRIES",
+        "conf": 0.94
+      },
+      {
+        "t": 61.83,
+        "text": "RW",
+        "conf": 0.85
+      },
+      {
+        "t": 61.83,
+        "text": "AVOR",
+        "conf": 0.96
+      },
+      {
+        "t": 61.83,
+        "text": "FL",
+        "conf": 0.78
+      },
+      {
+        "t": 61.83,
+        "text": "FRIES",
+        "conf": 0.99
+      },
+      {
+        "t": 61.83,
+        "text": "My",
+        "conf": 0.76
+      },
+      {
+        "t": 61.83,
+        "text": "AVOR WII",
+        "conf": 0.88
+      },
+      {
+        "t": 61.83,
+        "text": "FLADOR WINY",
+        "conf": 0.89
+      },
+      {
+        "t": 61.83,
+        "text": "FLAV",
+        "conf": 0.97
+      },
+      {
+        "t": 61.83,
+        "text": "VINGS",
+        "conf": 0.99
+      },
+      {
+        "t": 61.83,
+        "text": "NGSI",
+        "conf": 0.85
+      }
+    ]
+  },
+  {
+    "shot_idx": 31,
+    "start": 61.93,
+    "end": 63.73,
+    "duration": 1.8,
+    "texts": [
+      {
+        "t": 61.93,
+        "text": "FLAVOR"
+      },
+      {
+        "t": 61.93,
+        "text": "SFRIES"
+      },
+      {
+        "t": 61.93,
+        "text": "HOM"
+      },
+      {
+        "t": 61.93,
+        "text": "SS"
+      },
+      {
+        "t": 61.93,
+        "text": "SFLAVOR WIN"
+      },
+      {
+        "t": 61.93,
+        "text": "FLAV"
+      },
+      {
+        "t": 61.93,
+        "text": "WINGS"
+      },
+      {
+        "t": 61.93,
+        "text": "NGS"
+      },
+      {
+        "t": 62.13,
+        "text": "RIE"
+      },
+      {
+        "t": 62.13,
+        "text": "IOR"
+      },
+      {
+        "t": 62.13,
+        "text": "R WINGSFR"
+      },
+      {
+        "t": 62.33,
+        "text": "JRWINGSFR"
+      },
+      {
+        "t": 62.53,
+        "text": "MA"
+      },
+      {
+        "t": 62.53,
+        "text": "WINGS"
+      },
+      {
+        "t": 62.73,
+        "text": "MA"
+      },
+      {
+        "t": 62.73,
+        "text": "ANA"
+      },
+      {
+        "t": 62.93,
+        "text": "DEVO"
+      },
+      {
+        "t": 63.13,
+        "text": "CHE"
+      },
+      {
+        "t": 63.13,
+        "text": "JR"
+      },
+      {
+        "t": 63.13,
+        "text": "WINGS"
+      },
+      {
+        "t": 63.33,
+        "text": "MI"
+      },
+      {
+        "t": 63.53,
+        "text": "SONO"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 61.93,
+        "text": "FLAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 61.93,
+        "text": "SFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 61.93,
+        "text": "HOM",
+        "conf": 0.67
+      },
+      {
+        "t": 61.93,
+        "text": "SS",
+        "conf": 0.7
+      },
+      {
+        "t": 61.93,
+        "text": "SFLAVOR WIN",
+        "conf": 0.92
+      },
+      {
+        "t": 61.93,
+        "text": "FLAV",
+        "conf": 0.98
+      },
+      {
+        "t": 61.93,
+        "text": "WINGS",
+        "conf": 0.96
+      },
+      {
+        "t": 61.93,
+        "text": "NGS",
+        "conf": 0.99
+      },
+      {
+        "t": 62.13,
+        "text": "RIE",
+        "conf": 0.83
+      },
+      {
+        "t": 62.13,
+        "text": "IOR",
+        "conf": 0.78
+      },
+      {
+        "t": 62.13,
+        "text": "R WINGSFR",
+        "conf": 0.93
+      },
+      {
+        "t": 62.33,
+        "text": "JRWINGSFR",
+        "conf": 0.92
+      },
+      {
+        "t": 62.53,
+        "text": "MA",
+        "conf": 0.99
+      },
+      {
+        "t": 62.53,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 62.73,
+        "text": "MA",
+        "conf": 0.99
+      },
+      {
+        "t": 62.73,
+        "text": "ANA",
+        "conf": 0.57
+      },
+      {
+        "t": 62.93,
+        "text": "DEVO",
+        "conf": 1.0
+      },
+      {
+        "t": 63.13,
+        "text": "CHE",
+        "conf": 0.99
+      },
+      {
+        "t": 63.13,
+        "text": "JR",
+        "conf": 0.8
+      },
+      {
+        "t": 63.13,
+        "text": "WINGS",
+        "conf": 0.98
+      },
+      {
+        "t": 63.33,
+        "text": "MI",
+        "conf": 0.99
+      },
+      {
+        "t": 63.53,
+        "text": "SONO",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 32,
+    "start": 63.73,
+    "end": 67.07,
+    "duration": 3.33,
+    "texts": [
+      {
+        "t": 63.73,
+        "text": "SPINTO"
+      },
+      {
+        "t": 63.93,
+        "text": "SFRISF"
+      },
+      {
+        "t": 63.93,
+        "text": "VORWI"
+      },
+      {
+        "t": 63.93,
+        "text": "HOM"
+      },
+      {
+        "t": 63.93,
+        "text": "IESFLAN"
+      },
+      {
+        "t": 63.93,
+        "text": "SS"
+      },
+      {
+        "t": 63.93,
+        "text": "ANGSA"
+      },
+      {
+        "t": 63.93,
+        "text": "VBS"
+      },
+      {
+        "t": 63.93,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 63.93,
+        "text": "S5N"
+      },
+      {
+        "t": 64.13,
+        "text": "INGSFRIESY"
+      },
+      {
+        "t": 64.13,
+        "text": "TROPPO"
+      },
+      {
+        "t": 64.13,
+        "text": "SFRIES"
+      },
+      {
+        "t": 64.13,
+        "text": "ESFLA"
+      },
+      {
+        "t": 64.13,
+        "text": "iNGSA"
+      },
+      {
+        "t": 64.13,
+        "text": "WINGS"
+      },
+      {
+        "t": 64.13,
+        "text": "VGSFRI"
+      },
+      {
+        "t": 64.33,
+        "text": "INGSFRIES"
+      },
+      {
+        "t": 64.33,
+        "text": "TROPPO"
+      },
+      {
+        "t": 64.33,
+        "text": "SFRIES"
+      },
+      {
+        "t": 64.33,
+        "text": "TORWI"
+      },
+      {
+        "t": 64.33,
+        "text": "HON"
+      },
+      {
+        "t": 64.33,
+        "text": "FRI"
+      },
+      {
+        "t": 64.33,
+        "text": "NGSA"
+      },
+      {
+        "t": 64.33,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 64.53,
+        "text": "ins"
+      },
+      {
+        "t": 64.53,
+        "text": "VORWIN"
+      },
+      {
+        "t": 64.53,
+        "text": "ESFIANG"
+      },
+      {
+        "t": 64.53,
+        "text": "FRII"
+      },
+      {
+        "t": 64.53,
+        "text": "VGSFRI"
+      },
+      {
+        "t": 64.73,
+        "text": "INGSFRIESY"
+      },
+      {
+        "t": 64.73,
+        "text": "ANINGS"
+      },
+      {
+        "t": 64.73,
+        "text": "SFRIES"
+      },
+      {
+        "t": 64.73,
+        "text": "PICCANTE"
+      },
+      {
+        "t": 64.73,
+        "text": "VORWIN"
+      },
+      {
+        "t": 64.73,
+        "text": "HON"
+      },
+      {
+        "t": 64.73,
+        "text": "IESFLAN"
+      },
+      {
+        "t": 64.73,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 64.73,
+        "text": "iNGSA"
+      },
+      {
+        "t": 64.73,
+        "text": "IGSFRI"
+      },
+      {
+        "t": 64.93,
+        "text": "VINGSFRIESR"
+      },
+      {
+        "t": 64.93,
+        "text": "MING"
+      },
+      {
+        "t": 64.93,
+        "text": "AVORWIN"
+      },
+      {
+        "t": 64.93,
+        "text": "SFRIES"
+      },
+      {
+        "t": 64.93,
+        "text": "VOR"
+      },
+      {
+        "t": 64.93,
+        "text": "BIES FLANG"
+      },
+      {
+        "t": 64.93,
+        "text": "NGSA"
+      },
+      {
+        "t": 64.93,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 64.93,
+        "text": "VOR"
+      },
+      {
+        "t": 64.93,
+        "text": "NGS FRIE"
+      },
+      {
+        "t": 65.13,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 65.13,
+        "text": "COSA"
+      },
+      {
+        "t": 65.13,
+        "text": "RIESFLANG"
+      },
+      {
+        "t": 65.13,
+        "text": "NGSA"
+      },
+      {
+        "t": 65.13,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 65.13,
+        "text": "VOR"
+      },
+      {
+        "t": 65.33,
+        "text": "INGSFRIES"
+      },
+      {
+        "t": 65.33,
+        "text": "FARo"
+      },
+      {
+        "t": 65.33,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 65.33,
+        "text": "SFRIES"
+      },
+      {
+        "t": 65.33,
+        "text": "FRIES FIANG"
+      },
+      {
+        "t": 65.33,
+        "text": "AVOR WIN"
+      },
+      {
+        "t": 65.33,
+        "text": "NGSA"
+      },
+      {
+        "t": 65.33,
+        "text": "NGS FRI"
+      },
+      {
+        "t": 65.33,
+        "text": "VORV"
+      },
+      {
+        "t": 65.33,
+        "text": "GS FRIE"
+      },
+      {
+        "t": 65.53,
+        "text": "INGSFRIESY"
+      },
+      {
+        "t": 65.53,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 65.53,
+        "text": "LA"
+      },
+      {
+        "t": 65.53,
+        "text": "FRIES FIANG"
+      },
+      {
+        "t": 65.53,
+        "text": "iNGSA"
+      },
+      {
+        "t": 65.53,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 65.53,
+        "text": "AVORV"
+      },
+      {
+        "t": 65.53,
+        "text": "NGS FRIE"
+      },
+      {
+        "t": 65.73,
+        "text": "INGSFRIES"
+      },
+      {
+        "t": 65.73,
+        "text": "ANINGS"
+      },
+      {
+        "t": 65.73,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 65.73,
+        "text": "SFRIES"
+      },
+      {
+        "t": 65.73,
+        "text": "VOLTA"
+      },
+      {
+        "t": 65.73,
+        "text": "FRIES FIAN"
+      },
+      {
+        "t": 65.73,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 65.73,
+        "text": "NGSF"
+      },
+      {
+        "t": 65.73,
+        "text": "VGSFRI"
+      },
+      {
+        "t": 65.73,
+        "text": "OR"
+      },
+      {
+        "t": 65.73,
+        "text": "GS FRIE"
+      },
+      {
+        "t": 65.93,
+        "text": "INGSFRIES"
+      },
+      {
+        "t": 65.93,
+        "text": "ANINGS"
+      },
+      {
+        "t": 65.93,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 65.93,
+        "text": "SFRIES"
+      },
+      {
+        "t": 65.93,
+        "text": "VOLTA"
+      },
+      {
+        "t": 65.93,
+        "text": "FRIES FIAN"
+      },
+      {
+        "t": 65.93,
+        "text": "HON"
+      },
+      {
+        "t": 65.93,
+        "text": "AVOR WI"
+      },
+      {
+        "t": 65.93,
+        "text": "NGSF"
+      },
+      {
+        "t": 65.93,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 65.93,
+        "text": "GS FRIE"
+      },
+      {
+        "t": 66.13,
+        "text": "INGSFRIESF"
+      },
+      {
+        "t": 66.13,
+        "text": "ANINGS"
+      },
+      {
+        "t": 66.13,
+        "text": "LAVOR WI"
+      },
+      {
+        "t": 66.13,
+        "text": "SFRIES"
+      },
+      {
+        "t": 66.13,
+        "text": "PERCHe"
+      },
+      {
+        "t": 66.13,
+        "text": "FRIES FLAN"
+      },
+      {
+        "t": 66.13,
+        "text": "FL"
+      },
+      {
+        "t": 66.13,
+        "text": "JON"
+      },
+      {
+        "t": 66.13,
+        "text": "NGSF"
+      },
+      {
+        "t": 66.13,
+        "text": "NGSFRI"
+      },
+      {
+        "t": 66.13,
+        "text": "VOR"
+      },
+      {
+        "t": 66.13,
+        "text": "GS FRIE"
+      },
+      {
+        "t": 66.33,
+        "text": "LAVORWIN"
+      },
+      {
+        "t": 66.33,
+        "text": "SFRIES"
+      },
+      {
+        "t": 66.33,
+        "text": "HON"
+      },
+      {
+        "t": 66.33,
+        "text": "FRIES FIANG"
+      },
+      {
+        "t": 66.33,
+        "text": "SF"
+      },
+      {
+        "t": 66.33,
+        "text": "ANGSF"
+      },
+      {
+        "t": 66.33,
+        "text": "VGSFRI"
+      },
+      {
+        "t": 66.33,
+        "text": "AVORV"
+      },
+      {
+        "t": 66.33,
+        "text": "IGS FRIE"
+      },
+      {
+        "t": 66.53,
+        "text": "INGSFRIESH"
+      },
+      {
+        "t": 66.53,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 66.53,
+        "text": "SFRIES"
+      },
+      {
+        "t": 66.53,
+        "text": "DAVVERO"
+      },
+      {
+        "t": 66.53,
+        "text": "VOR"
+      },
+      {
+        "t": 66.53,
+        "text": "FRIES FIAN"
+      },
+      {
+        "t": 66.53,
+        "text": "ANGSF"
+      },
+      {
+        "t": 66.53,
+        "text": "IGSFRI"
+      },
+      {
+        "t": 66.53,
+        "text": "JOR"
+      },
+      {
+        "t": 66.53,
+        "text": "GS FRIE"
+      },
+      {
+        "t": 66.73,
+        "text": "INGSFRIESD"
+      },
+      {
+        "t": 66.73,
+        "text": "LAVOR WI"
+      },
+      {
+        "t": 66.73,
+        "text": "ASFRIES"
+      },
+      {
+        "t": 66.73,
+        "text": "CURIOSO"
+      },
+      {
+        "t": 66.73,
+        "text": "FRIES FLAN"
+      },
+      {
+        "t": 66.73,
+        "text": "SS"
+      },
+      {
+        "t": 66.73,
+        "text": "NGSF"
+      },
+      {
+        "t": 66.73,
+        "text": "IGSFRI"
+      },
+      {
+        "t": 66.73,
+        "text": "VOR"
+      },
+      {
+        "t": 66.73,
+        "text": "FRIE"
+      },
+      {
+        "t": 66.93,
+        "text": "LAVOR WIN"
+      },
+      {
+        "t": 66.93,
+        "text": "CURIOSO"
+      },
+      {
+        "t": 66.93,
+        "text": "FRIESFIAN"
+      },
+      {
+        "t": 66.93,
+        "text": "AVOR WII"
+      },
+      {
+        "t": 66.93,
+        "text": "SS"
+      },
+      {
+        "t": 66.93,
+        "text": "NGSF"
+      },
+      {
+        "t": 66.93,
+        "text": "VOR"
+      },
+      {
+        "t": 66.93,
+        "text": "GS FRIE"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 63.73,
+        "text": "SPINTO",
+        "conf": 1.0
+      },
+      {
+        "t": 63.93,
+        "text": "SFRISF",
+        "conf": 0.86
+      },
+      {
+        "t": 63.93,
+        "text": "VORWI",
+        "conf": 0.98
+      },
+      {
+        "t": 63.93,
+        "text": "HOM",
+        "conf": 0.67
+      },
+      {
+        "t": 63.93,
+        "text": "IESFLAN",
+        "conf": 0.77
+      },
+      {
+        "t": 63.93,
+        "text": "SS",
+        "conf": 0.59
+      },
+      {
+        "t": 63.93,
+        "text": "ANGSA",
+        "conf": 0.77
+      },
+      {
+        "t": 63.93,
+        "text": "VBS",
+        "conf": 0.5
+      },
+      {
+        "t": 63.93,
+        "text": "NGSFRI",
+        "conf": 0.99
+      },
+      {
+        "t": 63.93,
+        "text": "S5N",
+        "conf": 0.53
+      },
+      {
+        "t": 64.13,
+        "text": "INGSFRIESY",
+        "conf": 0.87
+      },
+      {
+        "t": 64.13,
+        "text": "TROPPO",
+        "conf": 0.99
+      },
+      {
+        "t": 64.13,
+        "text": "SFRIES",
+        "conf": 0.87
+      },
+      {
+        "t": 64.13,
+        "text": "ESFLA",
+        "conf": 0.82
+      },
+      {
+        "t": 64.13,
+        "text": "iNGSA",
+        "conf": 0.85
+      },
+      {
+        "t": 64.13,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 64.13,
+        "text": "VGSFRI",
+        "conf": 0.94
+      },
+      {
+        "t": 64.33,
+        "text": "INGSFRIES",
+        "conf": 0.92
+      },
+      {
+        "t": 64.33,
+        "text": "TROPPO",
+        "conf": 0.99
+      },
+      {
+        "t": 64.33,
+        "text": "SFRIES",
+        "conf": 0.93
+      },
+      {
+        "t": 64.33,
+        "text": "TORWI",
+        "conf": 0.82
+      },
+      {
+        "t": 64.33,
+        "text": "HON",
+        "conf": 0.88
+      },
+      {
+        "t": 64.33,
+        "text": "FRI",
+        "conf": 0.84
+      },
+      {
+        "t": 64.33,
+        "text": "NGSA",
+        "conf": 0.88
+      },
+      {
+        "t": 64.33,
+        "text": "NGSFRI",
+        "conf": 0.94
+      },
+      {
+        "t": 64.53,
+        "text": "ins",
+        "conf": 0.52
+      },
+      {
+        "t": 64.53,
+        "text": "VORWIN",
+        "conf": 0.97
+      },
+      {
+        "t": 64.53,
+        "text": "ESFIANG",
+        "conf": 0.76
+      },
+      {
+        "t": 64.53,
+        "text": "FRII",
+        "conf": 0.87
+      },
+      {
+        "t": 64.53,
+        "text": "VGSFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 64.73,
+        "text": "INGSFRIESY",
+        "conf": 0.9
+      },
+      {
+        "t": 64.73,
+        "text": "ANINGS",
+        "conf": 0.89
+      },
+      {
+        "t": 64.73,
+        "text": "SFRIES",
+        "conf": 0.89
+      },
+      {
+        "t": 64.73,
+        "text": "PICCANTE",
+        "conf": 0.98
+      },
+      {
+        "t": 64.73,
+        "text": "VORWIN",
+        "conf": 0.94
+      },
+      {
+        "t": 64.73,
+        "text": "HON",
+        "conf": 0.79
+      },
+      {
+        "t": 64.73,
+        "text": "IESFLAN",
+        "conf": 0.77
+      },
+      {
+        "t": 64.73,
+        "text": "AVOR WI",
+        "conf": 0.95
+      },
+      {
+        "t": 64.73,
+        "text": "iNGSA",
+        "conf": 0.82
+      },
+      {
+        "t": 64.73,
+        "text": "IGSFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 64.93,
+        "text": "VINGSFRIESR",
+        "conf": 0.83
+      },
+      {
+        "t": 64.93,
+        "text": "MING",
+        "conf": 0.83
+      },
+      {
+        "t": 64.93,
+        "text": "AVORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 64.93,
+        "text": "SFRIES",
+        "conf": 0.93
+      },
+      {
+        "t": 64.93,
+        "text": "VOR",
+        "conf": 0.95
+      },
+      {
+        "t": 64.93,
+        "text": "BIES FLANG",
+        "conf": 0.83
+      },
+      {
+        "t": 64.93,
+        "text": "NGSA",
+        "conf": 0.85
+      },
+      {
+        "t": 64.93,
+        "text": "NGSFRI",
+        "conf": 0.98
+      },
+      {
+        "t": 64.93,
+        "text": "VOR",
+        "conf": 0.94
+      },
+      {
+        "t": 64.93,
+        "text": "NGS FRIE",
+        "conf": 0.95
+      },
+      {
+        "t": 65.13,
+        "text": "LAVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 65.13,
+        "text": "COSA",
+        "conf": 0.99
+      },
+      {
+        "t": 65.13,
+        "text": "RIESFLANG",
+        "conf": 0.86
+      },
+      {
+        "t": 65.13,
+        "text": "NGSA",
+        "conf": 0.86
+      },
+      {
+        "t": 65.13,
+        "text": "NGSFRI",
+        "conf": 0.95
+      },
+      {
+        "t": 65.13,
+        "text": "VOR",
+        "conf": 0.98
+      },
+      {
+        "t": 65.33,
+        "text": "INGSFRIES",
+        "conf": 0.98
+      },
+      {
+        "t": 65.33,
+        "text": "FARo",
+        "conf": 0.85
+      },
+      {
+        "t": 65.33,
+        "text": "LAVOR WIN",
+        "conf": 0.96
+      },
+      {
+        "t": 65.33,
+        "text": "SFRIES",
+        "conf": 0.91
+      },
+      {
+        "t": 65.33,
+        "text": "FRIES FIANG",
+        "conf": 0.82
+      },
+      {
+        "t": 65.33,
+        "text": "AVOR WIN",
+        "conf": 0.83
+      },
+      {
+        "t": 65.33,
+        "text": "NGSA",
+        "conf": 0.87
+      },
+      {
+        "t": 65.33,
+        "text": "NGS FRI",
+        "conf": 0.9
+      },
+      {
+        "t": 65.33,
+        "text": "VORV",
+        "conf": 0.84
+      },
+      {
+        "t": 65.33,
+        "text": "GS FRIE",
+        "conf": 0.86
+      },
+      {
+        "t": 65.53,
+        "text": "INGSFRIESY",
+        "conf": 0.88
+      },
+      {
+        "t": 65.53,
+        "text": "LAVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 65.53,
+        "text": "LA",
+        "conf": 1.0
+      },
+      {
+        "t": 65.53,
+        "text": "FRIES FIANG",
+        "conf": 0.87
+      },
+      {
+        "t": 65.53,
+        "text": "iNGSA",
+        "conf": 0.74
+      },
+      {
+        "t": 65.53,
+        "text": "NGSFRI",
+        "conf": 0.97
+      },
+      {
+        "t": 65.53,
+        "text": "AVORV",
+        "conf": 0.95
+      },
+      {
+        "t": 65.53,
+        "text": "NGS FRIE",
+        "conf": 0.92
+      },
+      {
+        "t": 65.73,
+        "text": "INGSFRIES",
+        "conf": 0.95
+      },
+      {
+        "t": 65.73,
+        "text": "ANINGS",
+        "conf": 0.87
+      },
+      {
+        "t": 65.73,
+        "text": "LAVOR WIN",
+        "conf": 0.91
+      },
+      {
+        "t": 65.73,
+        "text": "SFRIES",
+        "conf": 0.9
+      },
+      {
+        "t": 65.73,
+        "text": "VOLTA",
+        "conf": 0.99
+      },
+      {
+        "t": 65.73,
+        "text": "FRIES FIAN",
+        "conf": 0.87
+      },
+      {
+        "t": 65.73,
+        "text": "AVOR WI",
+        "conf": 0.9
+      },
+      {
+        "t": 65.73,
+        "text": "NGSF",
+        "conf": 0.86
+      },
+      {
+        "t": 65.73,
+        "text": "VGSFRI",
+        "conf": 0.91
+      },
+      {
+        "t": 65.73,
+        "text": "OR",
+        "conf": 0.8
+      },
+      {
+        "t": 65.73,
+        "text": "GS FRIE",
+        "conf": 0.93
+      },
+      {
+        "t": 65.93,
+        "text": "INGSFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 65.93,
+        "text": "ANINGS",
+        "conf": 0.86
+      },
+      {
+        "t": 65.93,
+        "text": "LAVOR WIN",
+        "conf": 0.9
+      },
+      {
+        "t": 65.93,
+        "text": "SFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 65.93,
+        "text": "VOLTA",
+        "conf": 0.99
+      },
+      {
+        "t": 65.93,
+        "text": "FRIES FIAN",
+        "conf": 0.88
+      },
+      {
+        "t": 65.93,
+        "text": "HON",
+        "conf": 0.76
+      },
+      {
+        "t": 65.93,
+        "text": "AVOR WI",
+        "conf": 0.94
+      },
+      {
+        "t": 65.93,
+        "text": "NGSF",
+        "conf": 0.88
+      },
+      {
+        "t": 65.93,
+        "text": "NGSFRI",
+        "conf": 0.92
+      },
+      {
+        "t": 65.93,
+        "text": "GS FRIE",
+        "conf": 0.94
+      },
+      {
+        "t": 66.13,
+        "text": "INGSFRIESF",
+        "conf": 0.89
+      },
+      {
+        "t": 66.13,
+        "text": "ANINGS",
+        "conf": 0.81
+      },
+      {
+        "t": 66.13,
+        "text": "LAVOR WI",
+        "conf": 0.94
+      },
+      {
+        "t": 66.13,
+        "text": "SFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 66.13,
+        "text": "PERCHe",
+        "conf": 0.95
+      },
+      {
+        "t": 66.13,
+        "text": "FRIES FLAN",
+        "conf": 0.88
+      },
+      {
+        "t": 66.13,
+        "text": "FL",
+        "conf": 0.66
+      },
+      {
+        "t": 66.13,
+        "text": "JON",
+        "conf": 0.55
+      },
+      {
+        "t": 66.13,
+        "text": "NGSF",
+        "conf": 0.89
+      },
+      {
+        "t": 66.13,
+        "text": "NGSFRI",
+        "conf": 0.95
+      },
+      {
+        "t": 66.13,
+        "text": "VOR",
+        "conf": 0.75
+      },
+      {
+        "t": 66.13,
+        "text": "GS FRIE",
+        "conf": 0.96
+      },
+      {
+        "t": 66.33,
+        "text": "LAVORWIN",
+        "conf": 0.99
+      },
+      {
+        "t": 66.33,
+        "text": "SFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 66.33,
+        "text": "HON",
+        "conf": 0.8
+      },
+      {
+        "t": 66.33,
+        "text": "FRIES FIANG",
+        "conf": 0.84
+      },
+      {
+        "t": 66.33,
+        "text": "SF",
+        "conf": 0.93
+      },
+      {
+        "t": 66.33,
+        "text": "ANGSF",
+        "conf": 0.84
+      },
+      {
+        "t": 66.33,
+        "text": "VGSFRI",
+        "conf": 0.92
+      },
+      {
+        "t": 66.33,
+        "text": "AVORV",
+        "conf": 0.81
+      },
+      {
+        "t": 66.33,
+        "text": "IGS FRIE",
+        "conf": 0.91
+      },
+      {
+        "t": 66.53,
+        "text": "INGSFRIESH",
+        "conf": 0.87
+      },
+      {
+        "t": 66.53,
+        "text": "LAVOR WIN",
+        "conf": 0.95
+      },
+      {
+        "t": 66.53,
+        "text": "SFRIES",
+        "conf": 0.97
+      },
+      {
+        "t": 66.53,
+        "text": "DAVVERO",
+        "conf": 0.99
+      },
+      {
+        "t": 66.53,
+        "text": "VOR",
+        "conf": 0.97
+      },
+      {
+        "t": 66.53,
+        "text": "FRIES FIAN",
+        "conf": 0.86
+      },
+      {
+        "t": 66.53,
+        "text": "ANGSF",
+        "conf": 0.84
+      },
+      {
+        "t": 66.53,
+        "text": "IGSFRI",
+        "conf": 0.93
+      },
+      {
+        "t": 66.53,
+        "text": "JOR",
+        "conf": 0.77
+      },
+      {
+        "t": 66.53,
+        "text": "GS FRIE",
+        "conf": 0.95
+      },
+      {
+        "t": 66.73,
+        "text": "INGSFRIESD",
+        "conf": 0.87
+      },
+      {
+        "t": 66.73,
+        "text": "LAVOR WI",
+        "conf": 0.93
+      },
+      {
+        "t": 66.73,
+        "text": "ASFRIES",
+        "conf": 0.8
+      },
+      {
+        "t": 66.73,
+        "text": "CURIOSO",
+        "conf": 0.98
+      },
+      {
+        "t": 66.73,
+        "text": "FRIES FLAN",
+        "conf": 0.87
+      },
+      {
+        "t": 66.73,
+        "text": "SS",
+        "conf": 0.58
+      },
+      {
+        "t": 66.73,
+        "text": "NGSF",
+        "conf": 0.9
+      },
+      {
+        "t": 66.73,
+        "text": "IGSFRI",
+        "conf": 0.96
+      },
+      {
+        "t": 66.73,
+        "text": "VOR",
+        "conf": 0.95
+      },
+      {
+        "t": 66.73,
+        "text": "FRIE",
+        "conf": 0.98
+      },
+      {
+        "t": 66.93,
+        "text": "LAVOR WIN",
+        "conf": 0.89
+      },
+      {
+        "t": 66.93,
+        "text": "CURIOSO",
+        "conf": 0.99
+      },
+      {
+        "t": 66.93,
+        "text": "FRIESFIAN",
+        "conf": 0.93
+      },
+      {
+        "t": 66.93,
+        "text": "AVOR WII",
+        "conf": 0.88
+      },
+      {
+        "t": 66.93,
+        "text": "SS",
+        "conf": 0.62
+      },
+      {
+        "t": 66.93,
+        "text": "NGSF",
+        "conf": 0.89
+      },
+      {
+        "t": 66.93,
+        "text": "VOR",
+        "conf": 0.92
+      },
+      {
+        "t": 66.93,
+        "text": "GS FRIE",
+        "conf": 0.95
+      }
+    ]
+  },
+  {
+    "shot_idx": 33,
+    "start": 67.07,
+    "end": 68.83,
+    "duration": 1.77,
+    "texts": [
+      {
+        "t": 67.07,
+        "text": "PROVARE"
+      },
+      {
+        "t": 67.47,
+        "text": "LORO"
+      },
+      {
+        "t": 67.87,
+        "text": "WINGS"
+      },
+      {
+        "t": 68.27,
+        "text": "PICCANTI"
+      },
+      {
+        "t": 68.67,
+        "text": "IN"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 67.07,
+        "text": "PROVARE",
+        "conf": 0.99
+      },
+      {
+        "t": 67.27,
+        "text": "PROVARE",
+        "conf": 0.99
+      },
+      {
+        "t": 67.47,
+        "text": "LORO",
+        "conf": 0.75
+      },
+      {
+        "t": 67.67,
+        "text": "LORO",
+        "conf": 0.9
+      },
+      {
+        "t": 67.87,
+        "text": "WINGS",
+        "conf": 0.97
+      },
+      {
+        "t": 68.07,
+        "text": "WINGS",
+        "conf": 0.96
+      },
+      {
+        "t": 68.27,
+        "text": "PICCANTI",
+        "conf": 0.92
+      },
+      {
+        "t": 68.47,
+        "text": "PICCANTI",
+        "conf": 0.98
+      },
+      {
+        "t": 68.67,
+        "text": "IN",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 34,
+    "start": 68.83,
+    "end": 70.87,
+    "duration": 2.03,
+    "texts": [
+      {
+        "t": 68.83,
+        "text": "OGNI"
+      },
+      {
+        "t": 69.03,
+        "text": "CASO"
+      },
+      {
+        "t": 69.43,
+        "text": "POLLO"
+      },
+      {
+        "t": 69.83,
+        "text": "DAVVERO"
+      },
+      {
+        "t": 70.03,
+        "text": "MORBIDO"
+      },
+      {
+        "t": 70.43,
+        "text": "FRITTO"
+      },
+      {
+        "t": 70.83,
+        "text": "ALLA"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 68.83,
+        "text": "OGNI",
+        "conf": 0.96
+      },
+      {
+        "t": 69.03,
+        "text": "CASO",
+        "conf": 1.0
+      },
+      {
+        "t": 69.43,
+        "text": "POLLO",
+        "conf": 0.98
+      },
+      {
+        "t": 69.83,
+        "text": "DAVVERO",
+        "conf": 0.99
+      },
+      {
+        "t": 70.03,
+        "text": "MORBIDO",
+        "conf": 0.98
+      },
+      {
+        "t": 70.43,
+        "text": "FRITTO",
+        "conf": 1.0
+      },
+      {
+        "t": 70.63,
+        "text": "FRITTO",
+        "conf": 0.99
+      },
+      {
+        "t": 70.83,
+        "text": "ALLA",
+        "conf": 0.98
+      }
+    ]
+  },
+  {
+    "shot_idx": 35,
+    "start": 70.87,
+    "end": 73.07,
+    "duration": 2.2,
+    "texts": [
+      {
+        "t": 70.87,
+        "text": "GRANDE"
+      },
+      {
+        "t": 71.07,
+        "text": "ESFL"
+      },
+      {
+        "t": 71.07,
+        "text": "FRIE"
+      },
+      {
+        "t": 71.07,
+        "text": "ESFL"
+      },
+      {
+        "t": 71.27,
+        "text": "FLAV"
+      },
+      {
+        "t": 71.27,
+        "text": "108"
+      },
+      {
+        "t": 71.27,
+        "text": "IL"
+      },
+      {
+        "t": 71.47,
+        "text": "FRIES FL"
+      },
+      {
+        "t": 71.47,
+        "text": "FLAVO"
+      },
+      {
+        "t": 71.47,
+        "text": "CHE"
+      },
+      {
+        "t": 71.67,
+        "text": "AVETE"
+      },
+      {
+        "t": 71.87,
+        "text": "TANTE"
+      },
+      {
+        "t": 72.27,
+        "text": "SCELTE"
+      },
+      {
+        "t": 72.67,
+        "text": "FLAVOR"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 70.87,
+        "text": "GRANDE",
+        "conf": 0.97
+      },
+      {
+        "t": 71.07,
+        "text": "ESFL",
+        "conf": 0.98
+      },
+      {
+        "t": 71.07,
+        "text": "FRIE",
+        "conf": 0.99
+      },
+      {
+        "t": 71.07,
+        "text": "ESFL",
+        "conf": 0.99
+      },
+      {
+        "t": 71.27,
+        "text": "FLAV",
+        "conf": 0.99
+      },
+      {
+        "t": 71.27,
+        "text": "108",
+        "conf": 0.7
+      },
+      {
+        "t": 71.27,
+        "text": "IL",
+        "conf": 0.99
+      },
+      {
+        "t": 71.47,
+        "text": "FRIES FL",
+        "conf": 0.95
+      },
+      {
+        "t": 71.47,
+        "text": "FLAVO",
+        "conf": 0.99
+      },
+      {
+        "t": 71.47,
+        "text": "CHE",
+        "conf": 0.99
+      },
+      {
+        "t": 71.67,
+        "text": "AVETE",
+        "conf": 0.98
+      },
+      {
+        "t": 71.87,
+        "text": "TANTE",
+        "conf": 0.98
+      },
+      {
+        "t": 72.07,
+        "text": "TANTE",
+        "conf": 0.98
+      },
+      {
+        "t": 72.27,
+        "text": "SCELTE",
+        "conf": 0.99
+      },
+      {
+        "t": 72.47,
+        "text": "SCELTE",
+        "conf": 0.99
+      },
+      {
+        "t": 72.67,
+        "text": "FLAVOR",
+        "conf": 0.99
+      },
+      {
+        "t": 72.87,
+        "text": "FLAVOR",
+        "conf": 0.99
+      }
+    ]
+  },
+  {
+    "shot_idx": 36,
+    "start": 73.07,
+    "end": 76.53,
+    "duration": 3.47,
+    "texts": [
+      {
+        "t": 73.07,
+        "text": "105"
+      },
+      {
+        "t": 73.07,
+        "text": "EVI"
+      },
+      {
+        "t": 73.07,
+        "text": "BRI"
+      },
+      {
+        "t": 73.67,
+        "text": "POSSIBILIT"
+      },
+      {
+        "t": 73.87,
+        "text": "CDI"
+      },
+      {
+        "t": 73.87,
+        "text": "BRI"
+      },
+      {
+        "t": 74.07,
+        "text": "PROVARE"
+      },
+      {
+        "t": 74.47,
+        "text": "GUSTI"
+      },
+      {
+        "t": 74.87,
+        "text": "DIVERSI"
+      },
+      {
+        "t": 75.07,
+        "text": "BRIN"
+      },
+      {
+        "t": 75.47,
+        "text": "INFINE"
+      },
+      {
+        "t": 75.87,
+        "text": "ANCHE"
+      },
+      {
+        "t": 76.07,
+        "text": "NON"
+      },
+      {
+        "t": 76.27,
+        "text": "RIUSCITO"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 73.07,
+        "text": "105",
+        "conf": 0.75
+      },
+      {
+        "t": 73.07,
+        "text": "EVI",
+        "conf": 0.92
+      },
+      {
+        "t": 73.07,
+        "text": "BRI",
+        "conf": 0.99
+      },
+      {
+        "t": 73.67,
+        "text": "POSSIBILIT",
+        "conf": 0.99
+      },
+      {
+        "t": 73.87,
+        "text": "CDI",
+        "conf": 0.55
+      },
+      {
+        "t": 73.87,
+        "text": "BRI",
+        "conf": 0.95
+      },
+      {
+        "t": 74.07,
+        "text": "PROVARE",
+        "conf": 0.98
+      },
+      {
+        "t": 74.47,
+        "text": "GUSTI",
+        "conf": 0.98
+      },
+      {
+        "t": 74.67,
+        "text": "GUSTI",
+        "conf": 0.98
+      },
+      {
+        "t": 74.87,
+        "text": "DIVERSI",
+        "conf": 0.99
+      },
+      {
+        "t": 75.07,
+        "text": "BRIN",
+        "conf": 1.0
+      },
+      {
+        "t": 75.27,
+        "text": "BRIN",
+        "conf": 0.98
+      },
+      {
+        "t": 75.47,
+        "text": "INFINE",
+        "conf": 0.99
+      },
+      {
+        "t": 75.67,
+        "text": "INFINE",
+        "conf": 0.99
+      },
+      {
+        "t": 75.87,
+        "text": "ANCHE",
+        "conf": 0.97
+      },
+      {
+        "t": 76.07,
+        "text": "NON",
+        "conf": 0.98
+      },
+      {
+        "t": 76.27,
+        "text": "RIUSCITO",
+        "conf": 0.98
+      },
+      {
+        "t": 76.47,
+        "text": "RIUSCITO",
+        "conf": 0.97
+      }
+    ]
+  },
+  {
+    "shot_idx": 37,
+    "start": 76.53,
+    "end": 79.57,
+    "duration": 3.03,
+    "texts": [
+      {
+        "t": 76.53,
+        "text": "CA"
+      },
+      {
+        "t": 76.73,
+        "text": "VINCERLO"
+      },
+      {
+        "t": 77.13,
+        "text": "ANDIAMO"
+      },
+      {
+        "t": 77.33,
+        "text": "CASA"
+      },
+      {
+        "t": 77.53,
+        "text": "LA"
+      },
+      {
+        "t": 77.73,
+        "text": "DOGGY"
+      },
+      {
+        "t": 78.13,
+        "text": "BAG"
+      },
+      {
+        "t": 78.33,
+        "text": "LA"
+      },
+      {
+        "t": 78.53,
+        "text": "MASCOTTE"
+      },
+      {
+        "t": 78.93,
+        "text": "RANCHY"
+      }
+    ],
+    "all_raw": [
+      {
+        "t": 76.53,
+        "text": "CA",
+        "conf": 0.71
+      },
+      {
+        "t": 76.73,
+        "text": "VINCERLO",
+        "conf": 0.97
+      },
+      {
+        "t": 77.13,
+        "text": "ANDIAMO",
+        "conf": 0.99
+      },
+      {
+        "t": 77.33,
+        "text": "CASA",
+        "conf": 0.99
+      },
+      {
+        "t": 77.53,
+        "text": "LA",
+        "conf": 0.99
+      },
+      {
+        "t": 77.73,
+        "text": "DOGGY",
+        "conf": 1.0
+      },
+      {
+        "t": 77.93,
+        "text": "DOGGY",
+        "conf": 1.0
+      },
+      {
+        "t": 78.13,
+        "text": "BAG",
+        "conf": 1.0
+      },
+      {
+        "t": 78.33,
+        "text": "LA",
+        "conf": 1.0
+      },
+      {
+        "t": 78.53,
+        "text": "MASCOTTE",
+        "conf": 0.99
+      },
+      {
+        "t": 78.73,
+        "text": "MASCOTTE",
+        "conf": 0.99
+      },
+      {
+        "t": 78.93,
+        "text": "RANCHY",
+        "conf": 0.98
+      },
+      {
+        "t": 79.13,
+        "text": "RANCHY",
+        "conf": 0.99
+      }
+    ]
+  }
+]

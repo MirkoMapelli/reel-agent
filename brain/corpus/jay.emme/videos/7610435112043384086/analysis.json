@@ -1,0 +1,3341 @@
+{
+  "video_id": "7610435112043384086",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7610435112043384086",
+    "ref_id": "ref_34_7610435112043384086",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7610435112043384086",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 46,
+  "total_dur": 82.44,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "center": 1.0,
+      "role": "food_plated",
+      "subject": "ragazzo con pizza",
+      "description": "Un ragazzo sorridente tiene in mano una pizza con condimenti colorati, con il nome del locale in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Una pizza di mare con scampia, lapegno,"
+    },
+    {
+      "idx": 1,
+      "start": 2.0,
+      "end": 3.967,
+      "dur": 1.967,
+      "center": 2.983,
+      "role": "food_detail",
+      "subject": "spaghetti con gamberi",
+      "description": "Un ragazzo con espressione sorpresa solleva degli spaghetti con una forchetta, mostrando un piatto di pasta con gamberi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "gigante e uno spaghetto affumicato,"
+    },
+    {
+      "idx": 2,
+      "start": 3.967,
+      "end": 5.8,
+      "dur": 1.833,
+      "center": 4.883,
+      "role": "venue_interior_detail",
+      "subject": "tavolo con menu",
+      "description": "Un tavolo in legno con un menu del ristorante in primo piano, con l'interno del locale sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "allastici e davvero clamoroso. Oggi ragazzi"
+    },
+    {
+      "idx": 3,
+      "start": 5.8,
+      "end": 6.967,
+      "dur": 1.167,
+      "center": 6.383,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante bar",
+      "description": "Una vista ampia dell'interno del ristorante, con tavoli apparecchiati e un bancone bar illuminato sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "vi porto con me in questa cena"
+    },
+    {
+      "idx": 4,
+      "start": 6.967,
+      "end": 8.4,
+      "dur": 1.433,
+      "center": 7.683,
+      "role": "venue_interior_detail",
+      "subject": "sedute e lampade",
+      "description": "Dettaglio delle sedute a righe blu e bianche e delle lampade pendenti con paralumi in paglia all'interno del locale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "da Nina, trattoria e pizzeria di"
+    },
+    {
+      "idx": 5,
+      "start": 8.4,
+      "end": 10.233,
+      "dur": 1.833,
+      "center": 9.317,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante caraibico",
+      "description": "L'arredamento del locale con colori chiari e dettagli in legno e corda.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "mare. Lo chicio in caraibica, molto"
+    },
+    {
+      "idx": 6,
+      "start": 10.233,
+      "end": 14.033,
+      "dur": 3.8,
+      "center": 12.133,
+      "role": "food_plated",
+      "subject": "piatti vari antipasti",
+      "description": "Una varietà di antipasti colorati e ben presentati su piatti bianchi.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ben tematizzata e molto carino. Noi abbiamo iniziato provando questi 50 pasti"
+    },
+    {
+      "idx": 7,
+      "start": 14.033,
+      "end": 15.633,
+      "dur": 1.6,
+      "center": 14.833,
+      "role": "person_eating",
+      "subject": "uomo che mostra piatto",
+      "description": "Un uomo tiene in mano un piatto con del pesce crudo condito.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tendo al più delicato con questo"
+    },
+    {
+      "idx": 8,
+      "start": 15.633,
+      "end": 17.0,
+      "dur": 1.367,
+      "center": 16.317,
+      "role": "person_eating",
+      "subject": "uomo mangia ricciola",
+      "description": "L'uomo sta per mangiare un pezzo di pesce con la forchetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "carpaccio di ricciola."
+    },
+    {
+      "idx": 9,
+      "start": 17.0,
+      "end": 18.867,
+      "dur": 1.867,
+      "center": 17.933,
+      "role": "person_eating",
+      "subject": "uomo mangia ricciola",
+      "description": "L'uomo ha il pezzo di pesce in bocca, mentre mangia.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Consiedano oliveta jascha e pecorino,"
+    },
+    {
+      "idx": 10,
+      "start": 18.867,
+      "end": 19.833,
+      "dur": 0.967,
+      "center": 19.35,
+      "role": "person_eating",
+      "subject": "ragazzo mangia piatto",
+      "description": "Un ragazzo con una forchetta in mano si prepara a mangiare da un piatto bianco con bordo azzurro.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "davvero un ottimo accostamento."
+    },
+    {
+      "idx": 11,
+      "start": 19.833,
+      "end": 21.233,
+      "dur": 1.4,
+      "center": 20.533,
+      "role": "food_detail",
+      "subject": "piatto con gamberi",
+      "description": "Il piatto contiene gamberi, pomodorini e cipolla rossa in un brodo giallo, con altri piatti sfocati in basso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ho proseguito con questi"
+    },
+    {
+      "idx": 12,
+      "start": 21.233,
+      "end": 22.4,
+      "dur": 1.167,
+      "center": 21.817,
+      "role": "person_eating",
+      "subject": "gambero sulla forchetta",
+      "description": "Un gambero è infilzato sulla forchetta, pronto per essere mangiato, con il piatto in mano al ragazzo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "gambri alla catalana, super"
+    },
+    {
+      "idx": 13,
+      "start": 22.4,
+      "end": 23.767,
+      "dur": 1.367,
+      "center": 23.083,
+      "role": "person_eating",
+      "subject": "ragazzo mangia gambero",
+      "description": "Il ragazzo sta portando il gambero alla bocca, con il piatto ancora in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "freschi, poi polpe"
+    },
+    {
+      "idx": 14,
+      "start": 23.767,
+      "end": 24.933,
+      "dur": 1.167,
+      "center": 24.35,
+      "role": "person_eating",
+      "subject": "ragazzo mostra gambero",
+      "description": "Il ragazzo tiene in mano un gambero sbucciato, mostrandolo alla telecamera con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "patate con anche pomodorini"
+    },
+    {
+      "idx": 15,
+      "start": 24.933,
+      "end": 26.4,
+      "dur": 1.467,
+      "center": 25.667,
+      "role": "food_plated",
+      "subject": "insalata polpo patate",
+      "description": "Il piatto colorato con polpo, patate e pomodorini è in primo piano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "al basilico e olive."
+    },
+    {
+      "idx": 16,
+      "start": 26.4,
+      "end": 27.633,
+      "dur": 1.233,
+      "center": 27.017,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo sta parlando mentre tiene in mano il piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ho assaggiato la loro frisella"
+    },
+    {
+      "idx": 17,
+      "start": 27.633,
+      "end": 29.233,
+      "dur": 1.6,
+      "center": 28.433,
+      "role": "food_plated",
+      "subject": "bruschetta con gambero",
+      "description": "Il ragazzo presenta un piatto con una bruschetta guarnita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con pomodorini datterini,"
+    },
+    {
+      "idx": 18,
+      "start": 29.233,
+      "end": 30.4,
+      "dur": 1.167,
+      "center": 29.817,
+      "role": "food_detail",
+      "subject": "bruschetta con gambero",
+      "description": "La bruschetta con gambero e pomodorini è mostrata in dettaglio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "caccia ricotta"
+    },
+    {
+      "idx": 19,
+      "start": 30.4,
+      "end": 31.767,
+      "dur": 1.367,
+      "center": 31.083,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta addentando la bruschetta con gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e gambri rossi"
+    },
+    {
+      "idx": 20,
+      "start": 31.767,
+      "end": 33.567,
+      "dur": 1.8,
+      "center": 32.667,
+      "role": "food_plated",
+      "subject": "piatto polenta e sugo",
+      "description": "Un piatto di polenta con sugo rosso e prezzemolo, tenuto da mani.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "marinati. E come ultimo anti -pasto, questi"
+    },
+    {
+      "idx": 21,
+      "start": 33.567,
+      "end": 36.3,
+      "dur": 2.733,
+      "center": 34.933,
+      "role": "person_eating",
+      "subject": "uomo mangia polenta",
+      "description": "Un uomo sorridente mangia da una ciotola di polenta con un cucchiaio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "polipetti alla luce hanno una con crema di patate, che è personalmente davvero"
+    },
+    {
+      "idx": 22,
+      "start": 36.3,
+      "end": 38.0,
+      "dur": 1.7,
+      "center": 37.15,
+      "role": "person_eating",
+      "subject": "uomo mangia con gusto",
+      "description": "L'uomo continua a mangiare dalla ciotola, con un'espressione di gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "adorato. Passando ai piatti principali"
+    },
+    {
+      "idx": 23,
+      "start": 38.0,
+      "end": 40.2,
+      "dur": 2.2,
+      "center": 39.1,
+      "role": "food_plated",
+      "subject": "spaghetti all'astice",
+      "description": "Un piatto di spaghetti con astice e pomodorini, guarnito con basilico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbiamo questo spaghetto leggermente affumicato"
+    },
+    {
+      "idx": 24,
+      "start": 40.2,
+      "end": 42.8,
+      "dur": 2.6,
+      "center": 41.5,
+      "role": "food_closeup",
+      "subject": "pizza bianca colorata",
+      "description": "Una pizza bianca con peperoni rossi e gialli, gamberetti e foglie di basilico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con l 'astice e questa pizza appunto con"
+    },
+    {
+      "idx": 25,
+      "start": 42.8,
+      "end": 44.567,
+      "dur": 1.767,
+      "center": 43.683,
+      "role": "food_plated",
+      "subject": "spaghetti con astice",
+      "description": "Un piatto di spaghetti con astice è tenuto in primo piano da una persona.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "scampi, ala pegno e pomodorini."
+    },
+    {
+      "idx": 26,
+      "start": 44.567,
+      "end": 47.6,
+      "dur": 3.033,
+      "center": 46.083,
+      "role": "person_eating",
+      "subject": "spaghetti sollevati forchetta",
+      "description": "Una forchetta solleva una grande quantità di spaghetti dal piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Spaghetto che era un po' più scuro, a causa della leggera affumicatura che gli"
+    },
+    {
+      "idx": 27,
+      "start": 47.6,
+      "end": 50.233,
+      "dur": 2.633,
+      "center": 48.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia spaghetti",
+      "description": "Il ragazzo sta per mangiare gli spaghetti dalla forchetta con un'espressione di piacere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "reso un po' più saporiti. Tra l 'altro ragazzi porzione davvero"
+    },
+    {
+      "idx": 28,
+      "start": 50.233,
+      "end": 52.2,
+      "dur": 1.967,
+      "center": 51.217,
+      "role": "food_detail",
+      "subject": "astice intero mani",
+      "description": "Le mani del ragazzo tengono l'astice intero, staccandolo dal piatto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbondante sia per gli spaghetti che per il sugo"
+    },
+    {
+      "idx": 29,
+      "start": 52.2,
+      "end": 54.767,
+      "dur": 2.567,
+      "center": 53.483,
+      "role": "person_eating",
+      "subject": "ragazzo mangia spaghetti",
+      "description": "Il ragazzo sta mangiando gli spaghetti con la forchetta, con il piatto in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "allastice. Mi è piaciuto parecchio. Pizza che invece ha ovviamente"
+    },
+    {
+      "idx": 30,
+      "start": 54.767,
+      "end": 56.8,
+      "dur": 2.033,
+      "center": 55.783,
+      "role": "food_plated",
+      "subject": "ragazzo pizza gialla",
+      "description": "Un ragazzo sorridente tiene in mano una pizza gialla con peperoni rossi e basilico.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "un accostamento molto particolare ed un impasto"
+    },
+    {
+      "idx": 31,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6,
+      "center": 57.6,
+      "role": "hands_gesture",
+      "subject": "mano sulla pizza",
+      "description": "La mano di un ragazzo tocca la superficie della pizza gialla con peperoni rossi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "leggero sottile e davvero ben"
+    },
+    {
+      "idx": 32,
+      "start": 58.4,
+      "end": 59.833,
+      "dur": 1.433,
+      "center": 59.117,
+      "role": "person_eating",
+      "subject": "ragazzo tiene fetta",
+      "description": "Un ragazzo tiene in mano una fetta di pizza piegata, guardando verso la telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "teso tanto da renderla gigante."
+    },
+    {
+      "idx": 33,
+      "start": 59.833,
+      "end": 62.033,
+      "dur": 2.2,
+      "center": 60.933,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo sta addentando una fetta di pizza, con del formaggio che cola.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Con alla base una crema di pomodorini gialli,"
+    },
+    {
+      "idx": 34,
+      "start": 62.033,
+      "end": 63.5,
+      "dur": 1.467,
+      "center": 62.767,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo continua a mangiare la fetta di pizza, con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fioridatta affumicato che dà una bella"
+    },
+    {
+      "idx": 35,
+      "start": 63.5,
+      "end": 64.867,
+      "dur": 1.367,
+      "center": 64.183,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta addentando un pezzo di cibo, forse una piadina o un panino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "spinta e poi l 'ottimo costamento"
+    },
+    {
+      "idx": 36,
+      "start": 64.867,
+      "end": 66.833,
+      "dur": 1.967,
+      "center": 65.85,
+      "role": "food_plated",
+      "subject": "fritto misto di pesce",
+      "description": "Un piatto abbondante di fritto misto con gamberi, calamari e verdure viene mostrato in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "di sapori molto forti tra scampi e"
+    },
+    {
+      "idx": 37,
+      "start": 66.833,
+      "end": 68.867,
+      "dur": 2.033,
+      "center": 67.85,
+      "role": "food_closeup",
+      "subject": "gambero fritto",
+      "description": "Un gambero fritto con la testa e una fetta di limone sono il fulcro dell'immagine.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ala pegno. Dopodiché non potevamo non"
+    },
+    {
+      "idx": 38,
+      "start": 68.867,
+      "end": 70.1,
+      "dur": 1.233,
+      "center": 69.483,
+      "role": "hands_gesture",
+      "subject": "anello di calamaro",
+      "description": "Il ragazzo tiene in mano un anello di calamaro fritto, mostrandolo alla telecamera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "provare il loro frittomisto."
+    },
+    {
+      "idx": 39,
+      "start": 70.1,
+      "end": 71.267,
+      "dur": 1.167,
+      "center": 70.683,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando un pezzo di fritto, con il piatto di fritto misto in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Anche se era la porzione per"
+    },
+    {
+      "idx": 40,
+      "start": 71.267,
+      "end": 72.867,
+      "dur": 1.6,
+      "center": 72.067,
+      "role": "person_eating",
+      "subject": "uomo con gambero e granchio",
+      "description": "Un uomo sorpreso mostra un gambero e un granchio fritti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "uno era davvero abbondante. Contrattro"
+    },
+    {
+      "idx": 41,
+      "start": 72.867,
+      "end": 74.833,
+      "dur": 1.967,
+      "center": 73.85,
+      "role": "person_eating",
+      "subject": "uomo che mangia anello di cipolla",
+      "description": "Un uomo mangia un anello di cipolla fritto con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ho anche un granchio a suo interno. E di infine per concludere"
+    },
+    {
+      "idx": 42,
+      "start": 74.833,
+      "end": 77.2,
+      "dur": 2.367,
+      "center": 76.017,
+      "role": "food_plated",
+      "subject": "piatto di frutta mista",
+      "description": "Un piatto bianco con una varietà di frutta fresca e candita, decorato con foglie di menta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "questa cena abbiamo della frutta ripiena al suo interno"
+    },
+    {
+      "idx": 43,
+      "start": 77.2,
+      "end": 79.167,
+      "dur": 1.967,
+      "center": 78.183,
+      "role": "person_eating",
+      "subject": "uomo che assaggia frutta",
+      "description": "Un uomo con tatuaggi sulle braccia assaggia un pezzo di frutta dal piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "del gelato o del gusto stesso del frutto."
+    },
+    {
+      "idx": 44,
+      "start": 79.167,
+      "end": 80.567,
+      "dur": 1.4,
+      "center": 79.867,
+      "role": "person_eating",
+      "subject": "uomo che gusta frutta",
+      "description": "L'uomo sorride mentre gusta la frutta, con il piatto ancora visibile in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Insomma davvero un ottimo locale"
+    },
+    {
+      "idx": 45,
+      "start": 80.567,
+      "end": 82.433,
+      "dur": 1.867,
+      "center": 81.5,
+      "role": "person_eating",
+      "subject": "persona che mangia",
+      "description": "Una persona sta mangiando con una forchetta in un ambiente interno con illuminazione calda.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "per provare la vera cucina di mare."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "ragazzo con pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano una pizza con condimenti colorati, con il nome del locale in sovrimpressione.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "spaghetti con gamberi",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con espressione sorpresa solleva degli spaghetti con una forchetta, mostrando un piatto di pasta con gamberi.",
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 3.967,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "tavolo con menu",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un tavolo in legno con un menu del ristorante in primo piano, con l'interno del locale sullo sfondo.",
+      "shot_idx": 2,
+      "start": 3.967,
+      "end": 5.8,
+      "dur": 1.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante bar",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una vista ampia dell'interno del ristorante, con tavoli apparecchiati e un bancone bar illuminato sullo sfondo.",
+      "shot_idx": 3,
+      "start": 5.8,
+      "end": 6.967,
+      "dur": 1.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "sedute e lampade",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Dettaglio delle sedute a righe blu e bianche e delle lampade pendenti con paralumi in paglia all'interno del locale.",
+      "shot_idx": 4,
+      "start": 6.967,
+      "end": 8.4,
+      "dur": 1.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante caraibico",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'arredamento del locale con colori chiari e dettagli in legno e corda.",
+      "shot_idx": 5,
+      "start": 8.4,
+      "end": 10.233,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "piatti vari antipasti",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una varietà di antipasti colorati e ben presentati su piatti bianchi.",
+      "shot_idx": 6,
+      "start": 10.233,
+      "end": 14.033,
+      "dur": 3.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mostra piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo tiene in mano un piatto con del pesce crudo condito.",
+      "shot_idx": 7,
+      "start": 14.033,
+      "end": 15.633,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ricciola",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'uomo sta per mangiare un pezzo di pesce con la forchetta.",
+      "shot_idx": 8,
+      "start": 15.633,
+      "end": 17.0,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia ricciola",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'uomo ha il pezzo di pesce in bocca, mentre mangia.",
+      "shot_idx": 9,
+      "start": 17.0,
+      "end": 18.867,
+      "dur": 1.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con una forchetta in mano si prepara a mangiare da un piatto bianco con bordo azzurro.",
+      "shot_idx": 10,
+      "start": 18.867,
+      "end": 19.833,
+      "dur": 0.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "piatto con gamberi",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto contiene gamberi, pomodorini e cipolla rossa in un brodo giallo, con altri piatti sfocati in basso.",
+      "shot_idx": 11,
+      "start": 19.833,
+      "end": 21.233,
+      "dur": 1.4
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "gambero sulla forchetta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un gambero è infilzato sulla forchetta, pronto per essere mangiato, con il piatto in mano al ragazzo.",
+      "shot_idx": 12,
+      "start": 21.233,
+      "end": 22.4,
+      "dur": 1.167
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia gambero",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta portando il gambero alla bocca, con il piatto ancora in mano.",
+      "shot_idx": 13,
+      "start": 22.4,
+      "end": 23.767,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra gambero",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un gambero sbucciato, mostrandolo alla telecamera con un'espressione sorpresa.",
+      "shot_idx": 14,
+      "start": 23.767,
+      "end": 24.933,
+      "dur": 1.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "insalata polpo patate",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto colorato con polpo, patate e pomodorini è in primo piano.",
+      "shot_idx": 15,
+      "start": 24.933,
+      "end": 26.4,
+      "dur": 1.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta parlando mentre tiene in mano il piatto.",
+      "shot_idx": 16,
+      "start": 26.4,
+      "end": 27.633,
+      "dur": 1.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "bruschetta con gambero",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo presenta un piatto con una bruschetta guarnita.",
+      "shot_idx": 17,
+      "start": 27.633,
+      "end": 29.233,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "bruschetta con gambero",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La bruschetta con gambero e pomodorini è mostrata in dettaglio.",
+      "shot_idx": 18,
+      "start": 29.233,
+      "end": 30.4,
+      "dur": 1.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando la bruschetta con gusto.",
+      "shot_idx": 19,
+      "start": 30.4,
+      "end": 31.767,
+      "dur": 1.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto polenta e sugo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di polenta con sugo rosso e prezzemolo, tenuto da mani.",
+      "shot_idx": 20,
+      "start": 31.767,
+      "end": 33.567,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia polenta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo sorridente mangia da una ciotola di polenta con un cucchiaio.",
+      "shot_idx": 21,
+      "start": 33.567,
+      "end": 36.3,
+      "dur": 2.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia con gusto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'uomo continua a mangiare dalla ciotola, con un'espressione di gusto.",
+      "shot_idx": 22,
+      "start": 36.3,
+      "end": 38.0,
+      "dur": 1.7
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "spaghetti all'astice",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di spaghetti con astice e pomodorini, guarnito con basilico.",
+      "shot_idx": 23,
+      "start": 38.0,
+      "end": 40.2,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza bianca colorata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza bianca con peperoni rossi e gialli, gamberetti e foglie di basilico.",
+      "shot_idx": 24,
+      "start": 40.2,
+      "end": 42.8,
+      "dur": 2.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "spaghetti con astice",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di spaghetti con astice è tenuto in primo piano da una persona.",
+      "shot_idx": 25,
+      "start": 42.8,
+      "end": 44.567,
+      "dur": 1.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "spaghetti sollevati forchetta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una forchetta solleva una grande quantità di spaghetti dal piatto.",
+      "shot_idx": 26,
+      "start": 44.567,
+      "end": 47.6,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia spaghetti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mangiare gli spaghetti dalla forchetta con un'espressione di piacere.",
+      "shot_idx": 27,
+      "start": 47.6,
+      "end": 50.233,
+      "dur": 2.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "astice intero mani",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Le mani del ragazzo tengono l'astice intero, staccandolo dal piatto.",
+      "shot_idx": 28,
+      "start": 50.233,
+      "end": 52.2,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia spaghetti",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando gli spaghetti con la forchetta, con il piatto in primo piano.",
+      "shot_idx": 29,
+      "start": 52.2,
+      "end": 54.767,
+      "dur": 2.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "ragazzo pizza gialla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano una pizza gialla con peperoni rossi e basilico.",
+      "shot_idx": 30,
+      "start": 54.767,
+      "end": 56.8,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano sulla pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La mano di un ragazzo tocca la superficie della pizza gialla con peperoni rossi.",
+      "shot_idx": 31,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene fetta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano una fetta di pizza piegata, guardando verso la telecamera.",
+      "shot_idx": 32,
+      "start": 58.4,
+      "end": 59.833,
+      "dur": 1.433
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo sta addentando una fetta di pizza, con del formaggio che cola.",
+      "shot_idx": 33,
+      "start": 59.833,
+      "end": 62.033,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo continua a mangiare la fetta di pizza, con un'espressione concentrata.",
+      "shot_idx": 34,
+      "start": 62.033,
+      "end": 63.5,
+      "dur": 1.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di cibo, forse una piadina o un panino.",
+      "shot_idx": 35,
+      "start": 63.5,
+      "end": 64.867,
+      "dur": 1.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "fritto misto di pesce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto abbondante di fritto misto con gamberi, calamari e verdure viene mostrato in primo piano.",
+      "shot_idx": 36,
+      "start": 64.867,
+      "end": 66.833,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "gambero fritto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un gambero fritto con la testa e una fetta di limone sono il fulcro dell'immagine.",
+      "shot_idx": 37,
+      "start": 66.833,
+      "end": 68.867,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "anello di calamaro",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un anello di calamaro fritto, mostrandolo alla telecamera.",
+      "shot_idx": 38,
+      "start": 68.867,
+      "end": 70.1,
+      "dur": 1.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di fritto, con il piatto di fritto misto in primo piano.",
+      "shot_idx": 39,
+      "start": 70.1,
+      "end": 71.267,
+      "dur": 1.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con gambero e granchio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo sorpreso mostra un gambero e un granchio fritti.",
+      "shot_idx": 40,
+      "start": 71.267,
+      "end": 72.867,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia anello di cipolla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo mangia un anello di cipolla fritto con espressione concentrata.",
+      "shot_idx": 41,
+      "start": 72.867,
+      "end": 74.833,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di frutta mista",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto bianco con una varietà di frutta fresca e candita, decorato con foglie di menta.",
+      "shot_idx": 42,
+      "start": 74.833,
+      "end": 77.2,
+      "dur": 2.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che assaggia frutta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un uomo con tatuaggi sulle braccia assaggia un pezzo di frutta dal piatto.",
+      "shot_idx": 43,
+      "start": 77.2,
+      "end": 79.167,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che gusta frutta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'uomo sorride mentre gusta la frutta, con il piatto ancora visibile in primo piano.",
+      "shot_idx": 44,
+      "start": 79.167,
+      "end": 80.567,
+      "dur": 1.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "persona che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una persona sta mangiando con una forchetta in un ambiente interno con illuminazione calda.",
+      "shot_idx": 45,
+      "start": 80.567,
+      "end": 82.433,
+      "dur": 1.867
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.32,
+      "text": "Una pizza di mare con scampia, lapegno, gigante e uno spaghetto affumicato, allastici e davvero clamoroso."
+    },
+    {
+      "start": 5.4,
+      "end": 8.62,
+      "text": "Oggi ragazzi vi porto con me in questa cena da Nina, trattoria e pizzeria di mare."
+    },
+    {
+      "start": 8.72,
+      "end": 12.18,
+      "text": "Lo chicio in caraibica, molto ben tematizzata e molto carino."
+    },
+    {
+      "start": 12.22,
+      "end": 16.7,
+      "text": "Noi abbiamo iniziato provando questi 50 pasti tendo al più delicato con questo carpaccio di ricciola."
+    },
+    {
+      "start": 16.84,
+      "end": 19.92,
+      "text": "Consiedano oliveta jascha e pecorino, davvero un ottimo accostamento."
+    },
+    {
+      "start": 20.14,
+      "end": 26.38,
+      "text": "Ho proseguito con questi gambri alla catalana, super freschi, poi polpe patate con anche pomodorini al basilico e olive."
+    },
+    {
+      "start": 26.38,
+      "end": 32.12,
+      "text": "Ho assaggiato la loro frisella con pomodorini datterini, caccia ricotta e gambri rossi marinati."
+    },
+    {
+      "start": 32.32,
+      "end": 36.66,
+      "text": "E come ultimo anti-pasto, questi polipetti alla luce hanno una con crema di patate, che è personalmente davvero adorato."
+    },
+    {
+      "start": 36.7,
+      "end": 41.5,
+      "text": "Passando ai piatti principali abbiamo questo spaghetto leggermente affumicato con l'astice"
+    },
+    {
+      "start": 41.5,
+      "end": 44.74,
+      "text": "e questa pizza appunto con scampi, ala pegno e pomodorini."
+    },
+    {
+      "start": 44.84,
+      "end": 48.62,
+      "text": "Spaghetto che era un po' più scuro, a causa della leggera affumicatura che gli reso un po' più saporiti."
+    },
+    {
+      "start": 48.8,
+      "end": 52.82,
+      "text": "Tra l'altro ragazzi porzione davvero abbondante sia per gli spaghetti che per il sugo allastice."
+    },
+    {
+      "start": 52.82,
+      "end": 53.78,
+      "text": "Mi è piaciuto parecchio."
+    },
+    {
+      "start": 53.88,
+      "end": 59.84,
+      "text": "Pizza che invece ha ovviamente un accostamento molto particolare ed un impasto leggero sottile e davvero ben teso tanto da renderla gigante."
+    },
+    {
+      "start": 59.96,
+      "end": 63.88,
+      "text": "Con alla base una crema di pomodorini gialli, fioridatta affumicato che dà una bella spinta"
+    },
+    {
+      "start": 63.88,
+      "end": 67.24,
+      "text": "e poi l'ottimo costamento di sapori molto forti tra scampi e ala pegno."
+    },
+    {
+      "start": 67.44,
+      "end": 69.96,
+      "text": "Dopodiché non potevamo non provare il loro frittomisto."
+    },
+    {
+      "start": 70.18,
+      "end": 72.32,
+      "text": "Anche se era la porzione per uno era davvero abbondante."
+    },
+    {
+      "start": 72.42,
+      "end": 74.02,
+      "text": "Contrattro ho anche un granchio a suo interno."
+    },
+    {
+      "start": 74.06,
+      "end": 79.1,
+      "text": "E di infine per concludere questa cena abbiamo della frutta ripiena al suo interno del gelato o del gusto stesso del frutto."
+    },
+    {
+      "start": 79.38,
+      "end": 82.08,
+      "text": "Insomma davvero un ottimo locale per provare la vera cucina di mare."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "word": "Una"
+    },
+    {
+      "start": 0.28,
+      "end": 0.5,
+      "word": "pizza"
+    },
+    {
+      "start": 0.5,
+      "end": 0.68,
+      "word": "di"
+    },
+    {
+      "start": 0.68,
+      "end": 0.82,
+      "word": "mare"
+    },
+    {
+      "start": 0.82,
+      "end": 1.02,
+      "word": "con"
+    },
+    {
+      "start": 1.02,
+      "end": 1.56,
+      "word": "scampia,"
+    },
+    {
+      "start": 1.6,
+      "end": 2.04,
+      "word": "lapegno,"
+    },
+    {
+      "start": 2.12,
+      "end": 2.58,
+      "word": "gigante"
+    },
+    {
+      "start": 2.58,
+      "end": 2.82,
+      "word": "e"
+    },
+    {
+      "start": 2.82,
+      "end": 2.96,
+      "word": "uno"
+    },
+    {
+      "start": 2.96,
+      "end": 3.32,
+      "word": "spaghetto"
+    },
+    {
+      "start": 3.32,
+      "end": 3.88,
+      "word": "affumicato,"
+    },
+    {
+      "start": 3.96,
+      "end": 4.44,
+      "word": "allastici"
+    },
+    {
+      "start": 4.44,
+      "end": 4.52,
+      "word": "e"
+    },
+    {
+      "start": 4.52,
+      "end": 4.78,
+      "word": "davvero"
+    },
+    {
+      "start": 4.78,
+      "end": 5.32,
+      "word": "clamoroso."
+    },
+    {
+      "start": 5.4,
+      "end": 5.54,
+      "word": "Oggi"
+    },
+    {
+      "start": 5.54,
+      "end": 5.82,
+      "word": "ragazzi"
+    },
+    {
+      "start": 5.82,
+      "end": 5.96,
+      "word": "vi"
+    },
+    {
+      "start": 5.96,
+      "end": 6.22,
+      "word": "porto"
+    },
+    {
+      "start": 6.22,
+      "end": 6.38,
+      "word": "con"
+    },
+    {
+      "start": 6.38,
+      "end": 6.46,
+      "word": "me"
+    },
+    {
+      "start": 6.46,
+      "end": 6.54,
+      "word": "in"
+    },
+    {
+      "start": 6.54,
+      "end": 6.76,
+      "word": "questa"
+    },
+    {
+      "start": 6.76,
+      "end": 7.0,
+      "word": "cena"
+    },
+    {
+      "start": 7.0,
+      "end": 7.18,
+      "word": "da"
+    },
+    {
+      "start": 7.18,
+      "end": 7.42,
+      "word": "Nina,"
+    },
+    {
+      "start": 7.58,
+      "end": 7.84,
+      "word": "trattoria"
+    },
+    {
+      "start": 7.84,
+      "end": 8.02,
+      "word": "e"
+    },
+    {
+      "start": 8.02,
+      "end": 8.3,
+      "word": "pizzeria"
+    },
+    {
+      "start": 8.3,
+      "end": 8.42,
+      "word": "di"
+    },
+    {
+      "start": 8.42,
+      "end": 8.62,
+      "word": "mare."
+    },
+    {
+      "start": 8.72,
+      "end": 8.76,
+      "word": "Lo"
+    },
+    {
+      "start": 8.76,
+      "end": 8.94,
+      "word": "chicio"
+    },
+    {
+      "start": 8.94,
+      "end": 9.08,
+      "word": "in"
+    },
+    {
+      "start": 9.08,
+      "end": 9.74,
+      "word": "caraibica,"
+    },
+    {
+      "start": 9.96,
+      "end": 10.32,
+      "word": "molto"
+    },
+    {
+      "start": 10.32,
+      "end": 10.54,
+      "word": "ben"
+    },
+    {
+      "start": 10.54,
+      "end": 11.24,
+      "word": "tematizzata"
+    },
+    {
+      "start": 11.24,
+      "end": 11.38,
+      "word": "e"
+    },
+    {
+      "start": 11.38,
+      "end": 11.76,
+      "word": "molto"
+    },
+    {
+      "start": 11.76,
+      "end": 12.18,
+      "word": "carino."
+    },
+    {
+      "start": 12.22,
+      "end": 12.32,
+      "word": "Noi"
+    },
+    {
+      "start": 12.32,
+      "end": 12.44,
+      "word": "abbiamo"
+    },
+    {
+      "start": 12.44,
+      "end": 12.72,
+      "word": "iniziato"
+    },
+    {
+      "start": 12.72,
+      "end": 13.08,
+      "word": "provando"
+    },
+    {
+      "start": 13.08,
+      "end": 13.34,
+      "word": "questi"
+    },
+    {
+      "start": 13.34,
+      "end": 13.74,
+      "word": "50"
+    },
+    {
+      "start": 13.74,
+      "end": 14.28,
+      "word": "pasti"
+    },
+    {
+      "start": 14.28,
+      "end": 14.62,
+      "word": "tendo"
+    },
+    {
+      "start": 14.62,
+      "end": 14.7,
+      "word": "al"
+    },
+    {
+      "start": 14.7,
+      "end": 14.8,
+      "word": "più"
+    },
+    {
+      "start": 14.8,
+      "end": 15.24,
+      "word": "delicato"
+    },
+    {
+      "start": 15.24,
+      "end": 15.38,
+      "word": "con"
+    },
+    {
+      "start": 15.38,
+      "end": 15.58,
+      "word": "questo"
+    },
+    {
+      "start": 15.58,
+      "end": 16.1,
+      "word": "carpaccio"
+    },
+    {
+      "start": 16.1,
+      "end": 16.22,
+      "word": "di"
+    },
+    {
+      "start": 16.22,
+      "end": 16.7,
+      "word": "ricciola."
+    },
+    {
+      "start": 16.84,
+      "end": 17.28,
+      "word": "Consiedano"
+    },
+    {
+      "start": 17.28,
+      "end": 17.64,
+      "word": "oliveta"
+    },
+    {
+      "start": 17.64,
+      "end": 18.06,
+      "word": "jascha"
+    },
+    {
+      "start": 18.06,
+      "end": 18.16,
+      "word": "e"
+    },
+    {
+      "start": 18.16,
+      "end": 18.6,
+      "word": "pecorino,"
+    },
+    {
+      "start": 18.74,
+      "end": 19.02,
+      "word": "davvero"
+    },
+    {
+      "start": 19.02,
+      "end": 19.16,
+      "word": "un"
+    },
+    {
+      "start": 19.16,
+      "end": 19.34,
+      "word": "ottimo"
+    },
+    {
+      "start": 19.34,
+      "end": 19.92,
+      "word": "accostamento."
+    },
+    {
+      "start": 20.14,
+      "end": 20.2,
+      "word": "Ho"
+    },
+    {
+      "start": 20.2,
+      "end": 20.66,
+      "word": "proseguito"
+    },
+    {
+      "start": 20.66,
+      "end": 20.84,
+      "word": "con"
+    },
+    {
+      "start": 20.84,
+      "end": 21.08,
+      "word": "questi"
+    },
+    {
+      "start": 21.08,
+      "end": 21.48,
+      "word": "gambri"
+    },
+    {
+      "start": 21.48,
+      "end": 21.6,
+      "word": "alla"
+    },
+    {
+      "start": 21.6,
+      "end": 22.18,
+      "word": "catalana,"
+    },
+    {
+      "start": 22.26,
+      "end": 22.44,
+      "word": "super"
+    },
+    {
+      "start": 22.44,
+      "end": 22.98,
+      "word": "freschi,"
+    },
+    {
+      "start": 23.08,
+      "end": 23.2,
+      "word": "poi"
+    },
+    {
+      "start": 23.2,
+      "end": 23.58,
+      "word": "polpe"
+    },
+    {
+      "start": 23.58,
+      "end": 23.98,
+      "word": "patate"
+    },
+    {
+      "start": 23.98,
+      "end": 24.2,
+      "word": "con"
+    },
+    {
+      "start": 24.2,
+      "end": 24.38,
+      "word": "anche"
+    },
+    {
+      "start": 24.38,
+      "end": 25.08,
+      "word": "pomodorini"
+    },
+    {
+      "start": 25.08,
+      "end": 25.32,
+      "word": "al"
+    },
+    {
+      "start": 25.32,
+      "end": 25.9,
+      "word": "basilico"
+    },
+    {
+      "start": 25.9,
+      "end": 26.1,
+      "word": "e"
+    },
+    {
+      "start": 26.1,
+      "end": 26.38,
+      "word": "olive."
+    },
+    {
+      "start": 26.38,
+      "end": 26.6,
+      "word": "Ho"
+    },
+    {
+      "start": 26.6,
+      "end": 27.0,
+      "word": "assaggiato"
+    },
+    {
+      "start": 27.0,
+      "end": 27.16,
+      "word": "la"
+    },
+    {
+      "start": 27.16,
+      "end": 27.3,
+      "word": "loro"
+    },
+    {
+      "start": 27.3,
+      "end": 27.96,
+      "word": "frisella"
+    },
+    {
+      "start": 27.96,
+      "end": 28.32,
+      "word": "con"
+    },
+    {
+      "start": 28.32,
+      "end": 28.92,
+      "word": "pomodorini"
+    },
+    {
+      "start": 28.92,
+      "end": 29.5,
+      "word": "datterini,"
+    },
+    {
+      "start": 29.92,
+      "end": 30.12,
+      "word": "caccia"
+    },
+    {
+      "start": 30.12,
+      "end": 30.56,
+      "word": "ricotta"
+    },
+    {
+      "start": 30.56,
+      "end": 30.84,
+      "word": "e"
+    },
+    {
+      "start": 30.84,
+      "end": 31.22,
+      "word": "gambri"
+    },
+    {
+      "start": 31.22,
+      "end": 31.62,
+      "word": "rossi"
+    },
+    {
+      "start": 31.62,
+      "end": 32.12,
+      "word": "marinati."
+    },
+    {
+      "start": 32.32,
+      "end": 32.34,
+      "word": "E"
+    },
+    {
+      "start": 32.34,
+      "end": 32.48,
+      "word": "come"
+    },
+    {
+      "start": 32.48,
+      "end": 32.7,
+      "word": "ultimo"
+    },
+    {
+      "start": 32.7,
+      "end": 32.9,
+      "word": "anti"
+    },
+    {
+      "start": 32.9,
+      "end": 33.18,
+      "word": "-pasto,"
+    },
+    {
+      "start": 33.34,
+      "end": 33.44,
+      "word": "questi"
+    },
+    {
+      "start": 33.44,
+      "end": 33.84,
+      "word": "polipetti"
+    },
+    {
+      "start": 33.84,
+      "end": 34.02,
+      "word": "alla"
+    },
+    {
+      "start": 34.02,
+      "end": 34.26,
+      "word": "luce"
+    },
+    {
+      "start": 34.26,
+      "end": 34.42,
+      "word": "hanno"
+    },
+    {
+      "start": 34.42,
+      "end": 34.5,
+      "word": "una"
+    },
+    {
+      "start": 34.5,
+      "end": 34.64,
+      "word": "con"
+    },
+    {
+      "start": 34.64,
+      "end": 34.84,
+      "word": "crema"
+    },
+    {
+      "start": 34.84,
+      "end": 34.96,
+      "word": "di"
+    },
+    {
+      "start": 34.96,
+      "end": 35.28,
+      "word": "patate,"
+    },
+    {
+      "start": 35.4,
+      "end": 35.48,
+      "word": "che"
+    },
+    {
+      "start": 35.48,
+      "end": 35.54,
+      "word": "è"
+    },
+    {
+      "start": 35.54,
+      "end": 35.94,
+      "word": "personalmente"
+    },
+    {
+      "start": 35.94,
+      "end": 36.32,
+      "word": "davvero"
+    },
+    {
+      "start": 36.32,
+      "end": 36.66,
+      "word": "adorato."
+    },
+    {
+      "start": 36.7,
+      "end": 37.06,
+      "word": "Passando"
+    },
+    {
+      "start": 37.06,
+      "end": 37.18,
+      "word": "ai"
+    },
+    {
+      "start": 37.18,
+      "end": 37.36,
+      "word": "piatti"
+    },
+    {
+      "start": 37.36,
+      "end": 37.88,
+      "word": "principali"
+    },
+    {
+      "start": 37.88,
+      "end": 38.12,
+      "word": "abbiamo"
+    },
+    {
+      "start": 38.12,
+      "end": 38.54,
+      "word": "questo"
+    },
+    {
+      "start": 38.54,
+      "end": 39.16,
+      "word": "spaghetto"
+    },
+    {
+      "start": 39.16,
+      "end": 39.8,
+      "word": "leggermente"
+    },
+    {
+      "start": 39.8,
+      "end": 40.42,
+      "word": "affumicato"
+    },
+    {
+      "start": 40.42,
+      "end": 40.64,
+      "word": "con"
+    },
+    {
+      "start": 40.64,
+      "end": 40.84,
+      "word": "l"
+    },
+    {
+      "start": 40.84,
+      "end": 41.5,
+      "word": "'astice"
+    },
+    {
+      "start": 41.5,
+      "end": 41.62,
+      "word": "e"
+    },
+    {
+      "start": 41.62,
+      "end": 41.92,
+      "word": "questa"
+    },
+    {
+      "start": 41.92,
+      "end": 42.24,
+      "word": "pizza"
+    },
+    {
+      "start": 42.24,
+      "end": 42.6,
+      "word": "appunto"
+    },
+    {
+      "start": 42.6,
+      "end": 42.86,
+      "word": "con"
+    },
+    {
+      "start": 42.86,
+      "end": 43.4,
+      "word": "scampi,"
+    },
+    {
+      "start": 43.54,
+      "end": 43.68,
+      "word": "ala"
+    },
+    {
+      "start": 43.68,
+      "end": 44.06,
+      "word": "pegno"
+    },
+    {
+      "start": 44.06,
+      "end": 44.18,
+      "word": "e"
+    },
+    {
+      "start": 44.18,
+      "end": 44.74,
+      "word": "pomodorini."
+    },
+    {
+      "start": 44.84,
+      "end": 44.98,
+      "word": "Spaghetto"
+    },
+    {
+      "start": 44.98,
+      "end": 45.18,
+      "word": "che"
+    },
+    {
+      "start": 45.18,
+      "end": 45.26,
+      "word": "era"
+    },
+    {
+      "start": 45.26,
+      "end": 45.34,
+      "word": "un"
+    },
+    {
+      "start": 45.34,
+      "end": 45.4,
+      "word": "po'"
+    },
+    {
+      "start": 45.46,
+      "end": 45.52,
+      "word": "più"
+    },
+    {
+      "start": 45.52,
+      "end": 45.86,
+      "word": "scuro,"
+    },
+    {
+      "start": 45.96,
+      "end": 45.98,
+      "word": "a"
+    },
+    {
+      "start": 45.98,
+      "end": 46.12,
+      "word": "causa"
+    },
+    {
+      "start": 46.12,
+      "end": 46.42,
+      "word": "della"
+    },
+    {
+      "start": 46.42,
+      "end": 46.82,
+      "word": "leggera"
+    },
+    {
+      "start": 46.82,
+      "end": 47.32,
+      "word": "affumicatura"
+    },
+    {
+      "start": 47.32,
+      "end": 47.46,
+      "word": "che"
+    },
+    {
+      "start": 47.46,
+      "end": 47.58,
+      "word": "gli"
+    },
+    {
+      "start": 47.58,
+      "end": 47.8,
+      "word": "reso"
+    },
+    {
+      "start": 47.8,
+      "end": 47.92,
+      "word": "un"
+    },
+    {
+      "start": 47.92,
+      "end": 47.98,
+      "word": "po'"
+    },
+    {
+      "start": 48.06,
+      "end": 48.16,
+      "word": "più"
+    },
+    {
+      "start": 48.16,
+      "end": 48.62,
+      "word": "saporiti."
+    },
+    {
+      "start": 48.8,
+      "end": 48.86,
+      "word": "Tra"
+    },
+    {
+      "start": 48.86,
+      "end": 48.92,
+      "word": "l"
+    },
+    {
+      "start": 48.92,
+      "end": 49.02,
+      "word": "'altro"
+    },
+    {
+      "start": 49.02,
+      "end": 49.4,
+      "word": "ragazzi"
+    },
+    {
+      "start": 49.4,
+      "end": 49.78,
+      "word": "porzione"
+    },
+    {
+      "start": 49.78,
+      "end": 50.16,
+      "word": "davvero"
+    },
+    {
+      "start": 50.16,
+      "end": 50.66,
+      "word": "abbondante"
+    },
+    {
+      "start": 50.66,
+      "end": 50.88,
+      "word": "sia"
+    },
+    {
+      "start": 50.88,
+      "end": 51.04,
+      "word": "per"
+    },
+    {
+      "start": 51.04,
+      "end": 51.12,
+      "word": "gli"
+    },
+    {
+      "start": 51.12,
+      "end": 51.36,
+      "word": "spaghetti"
+    },
+    {
+      "start": 51.36,
+      "end": 51.66,
+      "word": "che"
+    },
+    {
+      "start": 51.66,
+      "end": 51.84,
+      "word": "per"
+    },
+    {
+      "start": 51.84,
+      "end": 51.94,
+      "word": "il"
+    },
+    {
+      "start": 51.94,
+      "end": 52.16,
+      "word": "sugo"
+    },
+    {
+      "start": 52.16,
+      "end": 52.82,
+      "word": "allastice."
+    },
+    {
+      "start": 52.82,
+      "end": 53.0,
+      "word": "Mi"
+    },
+    {
+      "start": 53.0,
+      "end": 53.06,
+      "word": "è"
+    },
+    {
+      "start": 53.06,
+      "end": 53.28,
+      "word": "piaciuto"
+    },
+    {
+      "start": 53.28,
+      "end": 53.78,
+      "word": "parecchio."
+    },
+    {
+      "start": 53.88,
+      "end": 54.08,
+      "word": "Pizza"
+    },
+    {
+      "start": 54.08,
+      "end": 54.2,
+      "word": "che"
+    },
+    {
+      "start": 54.2,
+      "end": 54.38,
+      "word": "invece"
+    },
+    {
+      "start": 54.38,
+      "end": 54.56,
+      "word": "ha"
+    },
+    {
+      "start": 54.56,
+      "end": 54.84,
+      "word": "ovviamente"
+    },
+    {
+      "start": 54.84,
+      "end": 55.12,
+      "word": "un"
+    },
+    {
+      "start": 55.12,
+      "end": 55.46,
+      "word": "accostamento"
+    },
+    {
+      "start": 55.46,
+      "end": 55.74,
+      "word": "molto"
+    },
+    {
+      "start": 55.74,
+      "end": 56.36,
+      "word": "particolare"
+    },
+    {
+      "start": 56.36,
+      "end": 56.48,
+      "word": "ed"
+    },
+    {
+      "start": 56.48,
+      "end": 56.6,
+      "word": "un"
+    },
+    {
+      "start": 56.6,
+      "end": 56.9,
+      "word": "impasto"
+    },
+    {
+      "start": 56.9,
+      "end": 57.34,
+      "word": "leggero"
+    },
+    {
+      "start": 57.34,
+      "end": 57.76,
+      "word": "sottile"
+    },
+    {
+      "start": 57.76,
+      "end": 57.86,
+      "word": "e"
+    },
+    {
+      "start": 57.86,
+      "end": 58.08,
+      "word": "davvero"
+    },
+    {
+      "start": 58.08,
+      "end": 58.26,
+      "word": "ben"
+    },
+    {
+      "start": 58.26,
+      "end": 58.54,
+      "word": "teso"
+    },
+    {
+      "start": 58.54,
+      "end": 58.7,
+      "word": "tanto"
+    },
+    {
+      "start": 58.7,
+      "end": 58.9,
+      "word": "da"
+    },
+    {
+      "start": 58.9,
+      "end": 59.3,
+      "word": "renderla"
+    },
+    {
+      "start": 59.3,
+      "end": 59.84,
+      "word": "gigante."
+    },
+    {
+      "start": 59.96,
+      "end": 60.1,
+      "word": "Con"
+    },
+    {
+      "start": 60.1,
+      "end": 60.3,
+      "word": "alla"
+    },
+    {
+      "start": 60.3,
+      "end": 60.56,
+      "word": "base"
+    },
+    {
+      "start": 60.56,
+      "end": 60.76,
+      "word": "una"
+    },
+    {
+      "start": 60.76,
+      "end": 61.06,
+      "word": "crema"
+    },
+    {
+      "start": 61.06,
+      "end": 61.18,
+      "word": "di"
+    },
+    {
+      "start": 61.18,
+      "end": 61.58,
+      "word": "pomodorini"
+    },
+    {
+      "start": 61.58,
+      "end": 62.14,
+      "word": "gialli,"
+    },
+    {
+      "start": 62.28,
+      "end": 62.56,
+      "word": "fioridatta"
+    },
+    {
+      "start": 62.56,
+      "end": 63.0,
+      "word": "affumicato"
+    },
+    {
+      "start": 63.0,
+      "end": 63.14,
+      "word": "che"
+    },
+    {
+      "start": 63.14,
+      "end": 63.24,
+      "word": "dà"
+    },
+    {
+      "start": 63.24,
+      "end": 63.32,
+      "word": "una"
+    },
+    {
+      "start": 63.32,
+      "end": 63.5,
+      "word": "bella"
+    },
+    {
+      "start": 63.5,
+      "end": 63.88,
+      "word": "spinta"
+    },
+    {
+      "start": 63.88,
+      "end": 64.1,
+      "word": "e"
+    },
+    {
+      "start": 64.1,
+      "end": 64.22,
+      "word": "poi"
+    },
+    {
+      "start": 64.22,
+      "end": 64.34,
+      "word": "l"
+    },
+    {
+      "start": 64.34,
+      "end": 64.56,
+      "word": "'ottimo"
+    },
+    {
+      "start": 64.56,
+      "end": 64.92,
+      "word": "costamento"
+    },
+    {
+      "start": 64.92,
+      "end": 65.12,
+      "word": "di"
+    },
+    {
+      "start": 65.12,
+      "end": 65.44,
+      "word": "sapori"
+    },
+    {
+      "start": 65.44,
+      "end": 65.68,
+      "word": "molto"
+    },
+    {
+      "start": 65.68,
+      "end": 66.14,
+      "word": "forti"
+    },
+    {
+      "start": 66.14,
+      "end": 66.3,
+      "word": "tra"
+    },
+    {
+      "start": 66.3,
+      "end": 66.74,
+      "word": "scampi"
+    },
+    {
+      "start": 66.74,
+      "end": 66.82,
+      "word": "e"
+    },
+    {
+      "start": 66.82,
+      "end": 66.9,
+      "word": "ala"
+    },
+    {
+      "start": 66.9,
+      "end": 67.24,
+      "word": "pegno."
+    },
+    {
+      "start": 67.44,
+      "end": 67.84,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 67.84,
+      "end": 68.0,
+      "word": "non"
+    },
+    {
+      "start": 68.0,
+      "end": 68.56,
+      "word": "potevamo"
+    },
+    {
+      "start": 68.56,
+      "end": 68.7,
+      "word": "non"
+    },
+    {
+      "start": 68.7,
+      "end": 69.1,
+      "word": "provare"
+    },
+    {
+      "start": 69.1,
+      "end": 69.22,
+      "word": "il"
+    },
+    {
+      "start": 69.22,
+      "end": 69.3,
+      "word": "loro"
+    },
+    {
+      "start": 69.3,
+      "end": 69.96,
+      "word": "frittomisto."
+    },
+    {
+      "start": 70.18,
+      "end": 70.44,
+      "word": "Anche"
+    },
+    {
+      "start": 70.44,
+      "end": 70.58,
+      "word": "se"
+    },
+    {
+      "start": 70.58,
+      "end": 70.66,
+      "word": "era"
+    },
+    {
+      "start": 70.66,
+      "end": 70.78,
+      "word": "la"
+    },
+    {
+      "start": 70.78,
+      "end": 71.02,
+      "word": "porzione"
+    },
+    {
+      "start": 71.02,
+      "end": 71.2,
+      "word": "per"
+    },
+    {
+      "start": 71.2,
+      "end": 71.38,
+      "word": "uno"
+    },
+    {
+      "start": 71.38,
+      "end": 71.56,
+      "word": "era"
+    },
+    {
+      "start": 71.56,
+      "end": 71.88,
+      "word": "davvero"
+    },
+    {
+      "start": 71.88,
+      "end": 72.32,
+      "word": "abbondante."
+    },
+    {
+      "start": 72.42,
+      "end": 72.82,
+      "word": "Contrattro"
+    },
+    {
+      "start": 72.82,
+      "end": 72.92,
+      "word": "ho"
+    },
+    {
+      "start": 72.92,
+      "end": 73.04,
+      "word": "anche"
+    },
+    {
+      "start": 73.04,
+      "end": 73.16,
+      "word": "un"
+    },
+    {
+      "start": 73.16,
+      "end": 73.44,
+      "word": "granchio"
+    },
+    {
+      "start": 73.44,
+      "end": 73.52,
+      "word": "a"
+    },
+    {
+      "start": 73.52,
+      "end": 73.62,
+      "word": "suo"
+    },
+    {
+      "start": 73.62,
+      "end": 74.02,
+      "word": "interno."
+    },
+    {
+      "start": 74.06,
+      "end": 74.1,
+      "word": "E"
+    },
+    {
+      "start": 74.1,
+      "end": 74.18,
+      "word": "di"
+    },
+    {
+      "start": 74.18,
+      "end": 74.42,
+      "word": "infine"
+    },
+    {
+      "start": 74.42,
+      "end": 74.56,
+      "word": "per"
+    },
+    {
+      "start": 74.56,
+      "end": 74.94,
+      "word": "concludere"
+    },
+    {
+      "start": 74.94,
+      "end": 75.16,
+      "word": "questa"
+    },
+    {
+      "start": 75.16,
+      "end": 75.34,
+      "word": "cena"
+    },
+    {
+      "start": 75.34,
+      "end": 75.54,
+      "word": "abbiamo"
+    },
+    {
+      "start": 75.54,
+      "end": 75.8,
+      "word": "della"
+    },
+    {
+      "start": 75.8,
+      "end": 76.28,
+      "word": "frutta"
+    },
+    {
+      "start": 76.28,
+      "end": 76.8,
+      "word": "ripiena"
+    },
+    {
+      "start": 76.8,
+      "end": 76.9,
+      "word": "al"
+    },
+    {
+      "start": 76.9,
+      "end": 76.96,
+      "word": "suo"
+    },
+    {
+      "start": 76.96,
+      "end": 77.32,
+      "word": "interno"
+    },
+    {
+      "start": 77.32,
+      "end": 77.48,
+      "word": "del"
+    },
+    {
+      "start": 77.48,
+      "end": 77.86,
+      "word": "gelato"
+    },
+    {
+      "start": 77.86,
+      "end": 77.94,
+      "word": "o"
+    },
+    {
+      "start": 77.94,
+      "end": 78.02,
+      "word": "del"
+    },
+    {
+      "start": 78.02,
+      "end": 78.22,
+      "word": "gusto"
+    },
+    {
+      "start": 78.22,
+      "end": 78.48,
+      "word": "stesso"
+    },
+    {
+      "start": 78.48,
+      "end": 78.72,
+      "word": "del"
+    },
+    {
+      "start": 78.72,
+      "end": 79.1,
+      "word": "frutto."
+    },
+    {
+      "start": 79.38,
+      "end": 79.62,
+      "word": "Insomma"
+    },
+    {
+      "start": 79.62,
+      "end": 79.96,
+      "word": "davvero"
+    },
+    {
+      "start": 79.96,
+      "end": 80.06,
+      "word": "un"
+    },
+    {
+      "start": 80.06,
+      "end": 80.26,
+      "word": "ottimo"
+    },
+    {
+      "start": 80.26,
+      "end": 80.6,
+      "word": "locale"
+    },
+    {
+      "start": 80.6,
+      "end": 80.76,
+      "word": "per"
+    },
+    {
+      "start": 80.76,
+      "end": 81.04,
+      "word": "provare"
+    },
+    {
+      "start": 81.04,
+      "end": 81.18,
+      "word": "la"
+    },
+    {
+      "start": 81.18,
+      "end": 81.44,
+      "word": "vera"
+    },
+    {
+      "start": 81.44,
+      "end": 81.78,
+      "word": "cucina"
+    },
+    {
+      "start": 81.78,
+      "end": 81.9,
+      "word": "di"
+    },
+    {
+      "start": 81.9,
+      "end": 82.08,
+      "word": "mare."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "Una pizza di mare con scampia, lapegno,"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 3.967,
+      "dur": 1.967,
+      "transcript": "gigante e uno spaghetto affumicato,"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.967,
+      "end": 5.8,
+      "dur": 1.833,
+      "transcript": "allastici e davvero clamoroso. Oggi ragazzi"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.8,
+      "end": 6.967,
+      "dur": 1.167,
+      "transcript": "vi porto con me in questa cena"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.967,
+      "end": 8.4,
+      "dur": 1.433,
+      "transcript": "da Nina, trattoria e pizzeria di"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.4,
+      "end": 10.233,
+      "dur": 1.833,
+      "transcript": "mare. Lo chicio in caraibica, molto"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.233,
+      "end": 14.033,
+      "dur": 3.8,
+      "transcript": "ben tematizzata e molto carino. Noi abbiamo iniziato provando questi 50 pasti"
+    },
+    {
+      "shot_idx": 7,
+      "start": 14.033,
+      "end": 15.633,
+      "dur": 1.6,
+      "transcript": "tendo al più delicato con questo"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.633,
+      "end": 17.0,
+      "dur": 1.367,
+      "transcript": "carpaccio di ricciola."
+    },
+    {
+      "shot_idx": 9,
+      "start": 17.0,
+      "end": 18.867,
+      "dur": 1.867,
+      "transcript": "Consiedano oliveta jascha e pecorino,"
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.867,
+      "end": 19.833,
+      "dur": 0.967,
+      "transcript": "davvero un ottimo accostamento."
+    },
+    {
+      "shot_idx": 11,
+      "start": 19.833,
+      "end": 21.233,
+      "dur": 1.4,
+      "transcript": "Ho proseguito con questi"
+    },
+    {
+      "shot_idx": 12,
+      "start": 21.233,
+      "end": 22.4,
+      "dur": 1.167,
+      "transcript": "gambri alla catalana, super"
+    },
+    {
+      "shot_idx": 13,
+      "start": 22.4,
+      "end": 23.767,
+      "dur": 1.367,
+      "transcript": "freschi, poi polpe"
+    },
+    {
+      "shot_idx": 14,
+      "start": 23.767,
+      "end": 24.933,
+      "dur": 1.167,
+      "transcript": "patate con anche pomodorini"
+    },
+    {
+      "shot_idx": 15,
+      "start": 24.933,
+      "end": 26.4,
+      "dur": 1.467,
+      "transcript": "al basilico e olive."
+    },
+    {
+      "shot_idx": 16,
+      "start": 26.4,
+      "end": 27.633,
+      "dur": 1.233,
+      "transcript": "Ho assaggiato la loro frisella"
+    },
+    {
+      "shot_idx": 17,
+      "start": 27.633,
+      "end": 29.233,
+      "dur": 1.6,
+      "transcript": "con pomodorini datterini,"
+    },
+    {
+      "shot_idx": 18,
+      "start": 29.233,
+      "end": 30.4,
+      "dur": 1.167,
+      "transcript": "caccia ricotta"
+    },
+    {
+      "shot_idx": 19,
+      "start": 30.4,
+      "end": 31.767,
+      "dur": 1.367,
+      "transcript": "e gambri rossi"
+    },
+    {
+      "shot_idx": 20,
+      "start": 31.767,
+      "end": 33.567,
+      "dur": 1.8,
+      "transcript": "marinati. E come ultimo anti -pasto, questi"
+    },
+    {
+      "shot_idx": 21,
+      "start": 33.567,
+      "end": 36.3,
+      "dur": 2.733,
+      "transcript": "polipetti alla luce hanno una con crema di patate, che è personalmente davvero"
+    },
+    {
+      "shot_idx": 22,
+      "start": 36.3,
+      "end": 38.0,
+      "dur": 1.7,
+      "transcript": "adorato. Passando ai piatti principali"
+    },
+    {
+      "shot_idx": 23,
+      "start": 38.0,
+      "end": 40.2,
+      "dur": 2.2,
+      "transcript": "abbiamo questo spaghetto leggermente affumicato"
+    },
+    {
+      "shot_idx": 24,
+      "start": 40.2,
+      "end": 42.8,
+      "dur": 2.6,
+      "transcript": "con l 'astice e questa pizza appunto con"
+    },
+    {
+      "shot_idx": 25,
+      "start": 42.8,
+      "end": 44.567,
+      "dur": 1.767,
+      "transcript": "scampi, ala pegno e pomodorini."
+    },
+    {
+      "shot_idx": 26,
+      "start": 44.567,
+      "end": 47.6,
+      "dur": 3.033,
+      "transcript": "Spaghetto che era un po' più scuro, a causa della leggera affumicatura che gli"
+    },
+    {
+      "shot_idx": 27,
+      "start": 47.6,
+      "end": 50.233,
+      "dur": 2.633,
+      "transcript": "reso un po' più saporiti. Tra l 'altro ragazzi porzione davvero"
+    },
+    {
+      "shot_idx": 28,
+      "start": 50.233,
+      "end": 52.2,
+      "dur": 1.967,
+      "transcript": "abbondante sia per gli spaghetti che per il sugo"
+    },
+    {
+      "shot_idx": 29,
+      "start": 52.2,
+      "end": 54.767,
+      "dur": 2.567,
+      "transcript": "allastice. Mi è piaciuto parecchio. Pizza che invece ha ovviamente"
+    },
+    {
+      "shot_idx": 30,
+      "start": 54.767,
+      "end": 56.8,
+      "dur": 2.033,
+      "transcript": "un accostamento molto particolare ed un impasto"
+    },
+    {
+      "shot_idx": 31,
+      "start": 56.8,
+      "end": 58.4,
+      "dur": 1.6,
+      "transcript": "leggero sottile e davvero ben"
+    },
+    {
+      "shot_idx": 32,
+      "start": 58.4,
+      "end": 59.833,
+      "dur": 1.433,
+      "transcript": "teso tanto da renderla gigante."
+    },
+    {
+      "shot_idx": 33,
+      "start": 59.833,
+      "end": 62.033,
+      "dur": 2.2,
+      "transcript": "Con alla base una crema di pomodorini gialli,"
+    },
+    {
+      "shot_idx": 34,
+      "start": 62.033,
+      "end": 63.5,
+      "dur": 1.467,
+      "transcript": "fioridatta affumicato che dà una bella"
+    },
+    {
+      "shot_idx": 35,
+      "start": 63.5,
+      "end": 64.867,
+      "dur": 1.367,
+      "transcript": "spinta e poi l 'ottimo costamento"
+    },
+    {
+      "shot_idx": 36,
+      "start": 64.867,
+      "end": 66.833,
+      "dur": 1.967,
+      "transcript": "di sapori molto forti tra scampi e"
+    },
+    {
+      "shot_idx": 37,
+      "start": 66.833,
+      "end": 68.867,
+      "dur": 2.033,
+      "transcript": "ala pegno. Dopodiché non potevamo non"
+    },
+    {
+      "shot_idx": 38,
+      "start": 68.867,
+      "end": 70.1,
+      "dur": 1.233,
+      "transcript": "provare il loro frittomisto."
+    },
+    {
+      "shot_idx": 39,
+      "start": 70.1,
+      "end": 71.267,
+      "dur": 1.167,
+      "transcript": "Anche se era la porzione per"
+    },
+    {
+      "shot_idx": 40,
+      "start": 71.267,
+      "end": 72.867,
+      "dur": 1.6,
+      "transcript": "uno era davvero abbondante. Contrattro"
+    },
+    {
+      "shot_idx": 41,
+      "start": 72.867,
+      "end": 74.833,
+      "dur": 1.967,
+      "transcript": "ho anche un granchio a suo interno. E di infine per concludere"
+    },
+    {
+      "shot_idx": 42,
+      "start": 74.833,
+      "end": 77.2,
+      "dur": 2.367,
+      "transcript": "questa cena abbiamo della frutta ripiena al suo interno"
+    },
+    {
+      "shot_idx": 43,
+      "start": 77.2,
+      "end": 79.167,
+      "dur": 1.967,
+      "transcript": "del gelato o del gusto stesso del frutto."
+    },
+    {
+      "shot_idx": 44,
+      "start": 79.167,
+      "end": 80.567,
+      "dur": 1.4,
+      "transcript": "Insomma davvero un ottimo locale"
+    },
+    {
+      "shot_idx": 45,
+      "start": 80.567,
+      "end": 82.433,
+      "dur": 1.867,
+      "transcript": "per provare la vera cucina di mare."
+    }
+  ],
+  "full_text": "Una pizza di mare con scampia, lapegno, gigante e uno spaghetto affumicato, allastici e davvero clamoroso. Oggi ragazzi vi porto con me in questa cena da Nina, trattoria e pizzeria di mare. Lo chicio in caraibica, molto ben tematizzata e molto carino. Noi abbiamo iniziato provando questi 50 pasti tendo al più delicato con questo carpaccio di ricciola. Consiedano oliveta jascha e pecorino, davvero un ottimo accostamento. Ho proseguito con questi gambri alla catalana, super freschi, poi polpe patate con anche pomodorini al basilico e olive. Ho assaggiato la loro frisella con pomodorini datterini, caccia ricotta e gambri rossi marinati. E come ultimo anti-pasto, questi polipetti alla luce hanno una con crema di patate, che è personalmente davvero adorato. Passando ai piatti principali abbiamo questo spaghetto leggermente affumicato con l'astice e questa pizza appunto con scampi, ala pegno e pomodorini. Spaghetto che era un po' più scuro, a causa della leggera affumicatura che gli reso un po' più saporiti. Tra l'altro ragazzi porzione davvero abbondante sia per gli spaghetti che per il sugo allastice. Mi è piaciuto parecchio. Pizza che invece ha ovviamente un accostamento molto particolare ed un impasto leggero sottile e davvero ben teso tanto da renderla gigante. Con alla base una crema di pomodorini gialli, fioridatta affumicato che dà una bella spinta e poi l'ottimo costamento di sapori molto forti tra scampi e ala pegno. Dopodiché non potevamo non provare il loro frittomisto. Anche se era la porzione per uno era davvero abbondante. Contrattro ho anche un granchio a suo interno. E di infine per concludere questa cena abbiamo della frutta ripiena al suo interno del gelato o del gusto stesso del frutto. Insomma davvero un ottimo locale per provare la vera cucina di mare.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,121 @@
+{
+  "video_id": "7598494205207481622",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7598494205207481622",
+    "ref_id": "ref_37_7598494205207481622",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7598494205207481622",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 1,
+  "total_dur": 13.2,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2,
+      "center": 6.6,
+      "role": "person_talking",
+      "subject": "ragazzo che reagisce",
+      "description": "Il ragazzo con gli auricolari guarda lo schermo con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Allora questa è una cheesecake ma è yogurt e biscotti"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che reagisce",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo con gli auricolari guarda lo schermo con un'espressione concentrata.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2
+    }
+  ],
+  "segments": [
+    {
+      "start": 8.86,
+      "end": 12.42,
+      "text": "Allora questa è una cheesecake ma è yogurt e biscotti"
+    }
+  ],
+  "words": [
+    {
+      "start": 8.86,
+      "end": 9.6,
+      "word": "Allora"
+    },
+    {
+      "start": 9.6,
+      "end": 9.88,
+      "word": "questa"
+    },
+    {
+      "start": 9.88,
+      "end": 10.04,
+      "word": "è"
+    },
+    {
+      "start": 10.04,
+      "end": 10.1,
+      "word": "una"
+    },
+    {
+      "start": 10.1,
+      "end": 10.56,
+      "word": "cheesecake"
+    },
+    {
+      "start": 10.56,
+      "end": 11.02,
+      "word": "ma"
+    },
+    {
+      "start": 11.02,
+      "end": 11.12,
+      "word": "è"
+    },
+    {
+      "start": 11.12,
+      "end": 11.5,
+      "word": "yogurt"
+    },
+    {
+      "start": 11.5,
+      "end": 11.86,
+      "word": "e"
+    },
+    {
+      "start": 11.86,
+      "end": 12.42,
+      "word": "biscotti"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 13.2,
+      "dur": 13.2,
+      "transcript": "Allora questa è una cheesecake ma è yogurt e biscotti"
+    }
+  ],
+  "full_text": "Allora questa è una cheesecake ma è yogurt e biscotti",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

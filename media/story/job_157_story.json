@@ -1,0 +1,186 @@
+{
+  "title": "Wing Stop sbarca a Milano",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu con logo Milano, annuncio novita"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "pareti verdi locale, ambientazione generale"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona presenta il locale con entusiasmo"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "schermo touchscreen mostra scelta flavor"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali glassate dorate nel basket"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani afferrano ordine completo di ali fritte"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "tavolo con molteplici ordini disposti"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "dettaglio bocconcini e patate fritte"
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "packaging Wing Stop mostrato con orgoglio"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "bevanda versata da distributore Coca-Cola Freestyle"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "bicchiere Wing Stop mostrato in primo piano"
+    },
+    {
+      "idx": 12,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente sorride bevendo al tavolo"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani immergono ala nella salsa bianca"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona assaggia ala con espressione soddisfatta"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "vista locale mentre si mangia in sottofondo"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "altro boccone gustato con gesto entusiasta"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali glassate irresistibili"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "inquadratura locale che chiude il momento clou"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona conclude con valutazione comparativa curiosa"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "ultimo sguardo all'ordine, invito a tornare"
+    }
+  ],
+  "edl_job_id": 157
+}

@@ -1,0 +1,3203 @@
+{
+  "video_id": "7474969073718250774",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7474969073718250774",
+    "ref_id": "ref_100_7474969073718250774",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7474969073718250774",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 35,
+  "total_dur": 83.3,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5,
+      "center": 1.25,
+      "role": "food_plated",
+      "subject": "pizza in cartone",
+      "description": "La pizza è al centro della scena, con il testo sovrapposto che introduce il tema del video.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "cosa mangi un giorno in california nel l 'orange country?"
+    },
+    {
+      "idx": 1,
+      "start": 2.5,
+      "end": 5.967,
+      "dur": 3.467,
+      "center": 4.233,
+      "role": "other",
+      "subject": "leoni marini sul molo",
+      "description": "I leoni marini sono in primo piano, con l'acqua blu sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "oggi ragazzi vi porto come a santa cruz e a monterei e faccio vedere tutto il"
+    },
+    {
+      "idx": 2,
+      "start": 5.967,
+      "end": 7.567,
+      "dur": 1.6,
+      "center": 6.767,
+      "role": "person_eating",
+      "subject": "ragazzo con pizze",
+      "description": "Il ragazzo sorride con due scatole di pizza davanti a sé, indossando una maglia da calcio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "gioco mangiato partendo dalla colazione in"
+    },
+    {
+      "idx": 3,
+      "start": 7.567,
+      "end": 10.367,
+      "dur": 2.8,
+      "center": 8.967,
+      "role": "food_plated",
+      "subject": "colazione americana",
+      "description": "Un piatto con uova strapazzate e salsiccia, con un waffle parzialmente visibile.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "un solito motel americano guafos, lapodacero, uova,"
+    },
+    {
+      "idx": 4,
+      "start": 10.367,
+      "end": 12.367,
+      "dur": 2.0,
+      "center": 11.367,
+      "role": "food_plated",
+      "subject": "tre muffin",
+      "description": "Tre muffin di diversi gusti sono disposti su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "bacon, muffins quindi insomma le solite cose"
+    },
+    {
+      "idx": 5,
+      "start": 12.367,
+      "end": 14.333,
+      "dur": 1.967,
+      "center": 13.35,
+      "role": "venue_exterior",
+      "subject": "edificio Neptune's Kingdom",
+      "description": "L'edificio colorato con la scritta 'Neptune's Kingdom' e 'Open Daily'.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "classiche dei moteli americani tenono di zucchero"
+    },
+    {
+      "idx": 6,
+      "start": 14.333,
+      "end": 16.133,
+      "dur": 1.8,
+      "center": 15.233,
+      "role": "venue_interior_wide",
+      "subject": "interno minigolf coperto",
+      "description": "L'ampio spazio interno con un percorso di minigolf e decorazioni a tema marino.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dopo di che sono partito dal motel sono andato"
+    },
+    {
+      "idx": 7,
+      "start": 16.133,
+      "end": 18.333,
+      "dur": 2.2,
+      "center": 17.233,
+      "role": "person_talking",
+      "subject": "ragazzo che indica",
+      "description": "Il ragazzo in primo piano che indica con il dito, con l'interno del minigolf sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "proprio verso santa cruz come ho visto prima questa sorta"
+    },
+    {
+      "idx": 8,
+      "start": 18.333,
+      "end": 21.3,
+      "dur": 2.967,
+      "center": 19.817,
+      "role": "venue_exterior",
+      "subject": "spiaggia e pontile",
+      "description": "La vista della spiaggia e del pontile attraverso un arco, con un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di luna parca al chiuso poi sono andato sulla spiaggia dove non potevo non"
+    },
+    {
+      "idx": 9,
+      "start": 21.3,
+      "end": 23.2,
+      "dur": 1.9,
+      "center": 22.25,
+      "role": "food_detail",
+      "subject": "due corn dog",
+      "description": "Due corn dog dorati su un vassoio di carta, tenuti da una mano.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "prendermi il corn dog cioè ragazzi questa sì con"
+    },
+    {
+      "idx": 10,
+      "start": 23.2,
+      "end": 24.333,
+      "dur": 1.133,
+      "center": 23.767,
+      "role": "venue_exterior",
+      "subject": "spiaggia e pontile",
+      "description": "La vista ampia della spiaggia con il pontile in lontananza e la ringhiera in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "esperienza americana mangiarsi"
+    },
+    {
+      "idx": 11,
+      "start": 24.333,
+      "end": 25.7,
+      "dur": 1.367,
+      "center": 25.017,
+      "role": "venue_interior_detail",
+      "subject": "vetrina negozio Santa Cruz",
+      "description": "I loghi e le grafiche di Santa Cruz in vetrina, con un focus sul logo del 100° anniversario.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "un corn dog sulla"
+    },
+    {
+      "idx": 12,
+      "start": 25.7,
+      "end": 26.3,
+      "dur": 0.6,
+      "center": 26.0,
+      "role": "venue_interior_detail",
+      "subject": "dettaglio facciata negozio",
+      "description": "La decorazione blu e gialla della facciata del negozio e i loghi Santa Cruz riflessi.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "spiaggia di santa"
+    },
+    {
+      "idx": 13,
+      "start": 26.3,
+      "end": 28.033,
+      "dur": 1.733,
+      "center": 27.167,
+      "role": "venue_interior_wide",
+      "subject": "merce negozio Santa Cruz",
+      "description": "L'abbondanza di magliette e felpe con il logo Santa Cruz esposte sui tavoli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "cruz sono proprio quelle cose che ti sogni sin da"
+    },
+    {
+      "idx": 14,
+      "start": 28.033,
+      "end": 29.333,
+      "dur": 1.3,
+      "center": 28.683,
+      "role": "venue_interior_wide",
+      "subject": "interno negozio souvenir",
+      "description": "La vasta gamma di prodotti a tema Santa Cruz, inclusi occhiali e cappelli, in un ambiente di negozio.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "bambino poi passeggiatina per il"
+    },
+    {
+      "idx": 15,
+      "start": 29.333,
+      "end": 30.867,
+      "dur": 1.533,
+      "center": 30.1,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Il ragazzo si riprende con un cappellino rosso e una maglia da calcio, sullo sfondo un molo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "mollo fino a che non abbiamo trovato questo branco"
+    },
+    {
+      "idx": 16,
+      "start": 30.867,
+      "end": 32.833,
+      "dur": 1.967,
+      "center": 31.85,
+      "role": "other",
+      "subject": "leoni marini molo",
+      "description": "Due leoni marini interagiscono su un molo, con l'acqua blu del mare sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di leoni di mare facevano veramente molto ridere mentre"
+    },
+    {
+      "idx": 17,
+      "start": 32.833,
+      "end": 35.067,
+      "dur": 2.233,
+      "center": 33.95,
+      "role": "other",
+      "subject": "gruppo leoni marini",
+      "description": "Diversi leoni marini sono sdraiati sul molo, mentre altri due interagiscono nell'acqua.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "combattevano sui cercare di buttarsi giù dalla"
+    },
+    {
+      "idx": 18,
+      "start": 35.067,
+      "end": 37.1,
+      "dur": 2.033,
+      "center": 36.083,
+      "role": "other",
+      "subject": "leoni marini molo",
+      "description": "Un gruppo di leoni marini è sul molo, con uno che sembra urlare verso l'acqua.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "cataforma mentre tutti gli altri in realtà"
+    },
+    {
+      "idx": 19,
+      "start": 37.1,
+      "end": 38.633,
+      "dur": 1.533,
+      "center": 37.867,
+      "role": "other",
+      "subject": "leone marino tuffo",
+      "description": "Un leone marino si tuffa in acqua creando uno schizzo, mentre altri rimangono sul molo.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "dormivano tranquillamente questi animali"
+    },
+    {
+      "idx": 20,
+      "start": 38.633,
+      "end": 42.4,
+      "dur": 3.767,
+      "center": 40.517,
+      "role": "other",
+      "subject": "leoni marini molo",
+      "description": "Due leoni marini interagiscono su un molo di legno, con l'acqua del mare sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fanno veramente troppo ridere e anche se in california infratti che li trovati in tutti i"
+    },
+    {
+      "idx": 21,
+      "start": 42.4,
+      "end": 45.433,
+      "dur": 3.033,
+      "center": 43.917,
+      "role": "other",
+      "subject": "leone marino molo",
+      "description": "Un leone marino è sdraiato sul molo, con l'acqua del mare che si muove sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "molli fanno sempre l 'or effetto, vederli così da vicino e poi appunto sono"
+    },
+    {
+      "idx": 22,
+      "start": 45.433,
+      "end": 49.0,
+      "dur": 3.567,
+      "center": 47.217,
+      "role": "other",
+      "subject": "leone marino dorme",
+      "description": "Un leone marino dorme pacificamente, con la luce del sole che gli illumina il muso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "degli animali troppo troppo divertenti dopo di che siamo andati verso monterei dove"
+    },
+    {
+      "idx": 23,
+      "start": 49.0,
+      "end": 53.0,
+      "dur": 4.0,
+      "center": 51.0,
+      "role": "other",
+      "subject": "paesaggio costiero roccioso",
+      "description": "Un vasto paesaggio costiero con rocce e mare, sotto un cielo sereno al tramonto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abbiamo percorso la 17 mile drive che è una strada praticamente panoramica dove abbiamo potuto"
+    },
+    {
+      "idx": 24,
+      "start": 53.0,
+      "end": 55.467,
+      "dur": 2.467,
+      "center": 54.233,
+      "role": "other",
+      "subject": "tramonto spiaggia mare",
+      "description": "Un tramonto mozzafiato sulla spiaggia, con il sole che si riflette sull'acqua e sulla sabbia.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "vedere il tramonto e se non sono mari dove abbiamo incontrato un sacco"
+    },
+    {
+      "idx": 25,
+      "start": 55.467,
+      "end": 58.467,
+      "dur": 3.0,
+      "center": 56.967,
+      "role": "other",
+      "subject": "cervi nel bosco",
+      "description": "Due cervi si muovono in un prato erboso con alberi sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di cerviatti e visto delle bille clamorose ragazzi delle cose"
+    },
+    {
+      "idx": 26,
+      "start": 58.467,
+      "end": 62.5,
+      "dur": 4.033,
+      "center": 60.483,
+      "role": "other",
+      "subject": "albero solitario scogliera",
+      "description": "Un albero solitario cresce su una scogliera rocciosa che si affaccia sull'oceano al tramonto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "assurde è letteralmente il posto più bello che ho mai visto in tutta mia vita dove poter vivere mare,"
+    },
+    {
+      "idx": 27,
+      "start": 62.5,
+      "end": 63.167,
+      "dur": 0.667,
+      "center": 62.833,
+      "role": "food_detail",
+      "subject": "scatola pizza Domino's",
+      "description": "Una persona apre una scatola di pizza Domino's con la scritta 'RECYCLE' in evidenza.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "natura,"
+    },
+    {
+      "idx": 28,
+      "start": 63.167,
+      "end": 66.467,
+      "dur": 3.3,
+      "center": 64.817,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni",
+      "description": "Una pizza al pepperoni appena sfornata riempie l'inquadratura, mostrando la crosta dorata e il formaggio fuso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "tranquillità, non si può chiedere di meglio infine ragazzi per cena, essendo già"
+    },
+    {
+      "idx": 29,
+      "start": 66.467,
+      "end": 70.467,
+      "dur": 4.0,
+      "center": 68.467,
+      "role": "food_closeup",
+      "subject": "pizza carne mista",
+      "description": "Una pizza con vari tipi di carne, tra cui pepperoni e salsiccia, è visibile all'interno di una scatola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "abbastanza tardi abbiamo deciso di prendere delle pizza americane da domino e portarle nel motello qui"
+    },
+    {
+      "idx": 30,
+      "start": 70.467,
+      "end": 73.733,
+      "dur": 3.267,
+      "center": 72.1,
+      "role": "person_eating",
+      "subject": "ragazzo con pizze",
+      "description": "Un ragazzo sorridente tiene due scatole di pizza aperte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "infatti vedete una mizza praticamente con tutti i tipi di"
+    },
+    {
+      "idx": 31,
+      "start": 73.733,
+      "end": 76.233,
+      "dur": 2.5,
+      "center": 74.983,
+      "role": "food_closeup",
+      "subject": "pizza americana",
+      "description": "Una pizza con peperoni verdi, funghi e formaggio in una scatola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "carne una classica pepperoni americana e una con i peperoni"
+    },
+    {
+      "idx": 32,
+      "start": 76.233,
+      "end": 77.833,
+      "dur": 1.6,
+      "center": 77.033,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con un cappellino rosso mangia una fetta di pizza con espressione sorpresa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "vere con i funghi insomma ragazzi ditemi quello"
+    },
+    {
+      "idx": 33,
+      "start": 77.833,
+      "end": 80.767,
+      "dur": 2.933,
+      "center": 79.3,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo con il cappellino rosso mangia una fetta di pizza al salamino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "che volete ama la pizza di domino sin america proprio un altro sapore è"
+    },
+    {
+      "idx": 34,
+      "start": 80.767,
+      "end": 83.3,
+      "dur": 2.533,
+      "center": 82.033,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sta per mordere una fetta di pizza al salamino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "proprio quella cosa unta che ci sta sempre bene"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza in cartone",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La pizza è al centro della scena, con il testo sovrapposto che introduce il tema del video.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "leoni marini sul molo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "I leoni marini sono in primo piano, con l'acqua blu sullo sfondo.",
+      "shot_idx": 1,
+      "start": 2.5,
+      "end": 5.967,
+      "dur": 3.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sorride con due scatole di pizza davanti a sé, indossando una maglia da calcio.",
+      "shot_idx": 2,
+      "start": 5.967,
+      "end": 7.567,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "colazione americana",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un piatto con uova strapazzate e salsiccia, con un waffle parzialmente visibile.",
+      "shot_idx": 3,
+      "start": 7.567,
+      "end": 10.367,
+      "dur": 2.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "tre muffin",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Tre muffin di diversi gusti sono disposti su un piatto bianco.",
+      "shot_idx": 4,
+      "start": 10.367,
+      "end": 12.367,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio Neptune's Kingdom",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'edificio colorato con la scritta 'Neptune's Kingdom' e 'Open Daily'.",
+      "shot_idx": 5,
+      "start": 12.367,
+      "end": 14.333,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno minigolf coperto",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'ampio spazio interno con un percorso di minigolf e decorazioni a tema marino.",
+      "shot_idx": 6,
+      "start": 14.333,
+      "end": 16.133,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che indica",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo in primo piano che indica con il dito, con l'interno del minigolf sullo sfondo.",
+      "shot_idx": 7,
+      "start": 16.133,
+      "end": 18.333,
+      "dur": 2.2
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "spiaggia e pontile",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vista della spiaggia e del pontile attraverso un arco, con un cielo azzurro.",
+      "shot_idx": 8,
+      "start": 18.333,
+      "end": 21.3,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "due corn dog",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due corn dog dorati su un vassoio di carta, tenuti da una mano.",
+      "shot_idx": 9,
+      "start": 21.3,
+      "end": 23.2,
+      "dur": 1.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "spiaggia e pontile",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vista ampia della spiaggia con il pontile in lontananza e la ringhiera in primo piano.",
+      "shot_idx": 10,
+      "start": 23.2,
+      "end": 24.333,
+      "dur": 1.133
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "vetrina negozio Santa Cruz",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "I loghi e le grafiche di Santa Cruz in vetrina, con un focus sul logo del 100° anniversario.",
+      "shot_idx": 11,
+      "start": 24.333,
+      "end": 25.7,
+      "dur": 1.367
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "dettaglio facciata negozio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "La decorazione blu e gialla della facciata del negozio e i loghi Santa Cruz riflessi.",
+      "shot_idx": 12,
+      "start": 25.7,
+      "end": 26.3,
+      "dur": 0.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "merce negozio Santa Cruz",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'abbondanza di magliette e felpe con il logo Santa Cruz esposte sui tavoli.",
+      "shot_idx": 13,
+      "start": 26.3,
+      "end": 28.033,
+      "dur": 1.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno negozio souvenir",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La vasta gamma di prodotti a tema Santa Cruz, inclusi occhiali e cappelli, in un ambiente di negozio.",
+      "shot_idx": 14,
+      "start": 28.033,
+      "end": 29.333,
+      "dur": 1.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo si riprende con un cappellino rosso e una maglia da calcio, sullo sfondo un molo.",
+      "shot_idx": 15,
+      "start": 29.333,
+      "end": 30.867,
+      "dur": 1.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "leoni marini molo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due leoni marini interagiscono su un molo, con l'acqua blu del mare sullo sfondo.",
+      "shot_idx": 16,
+      "start": 30.867,
+      "end": 32.833,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "gruppo leoni marini",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Diversi leoni marini sono sdraiati sul molo, mentre altri due interagiscono nell'acqua.",
+      "shot_idx": 17,
+      "start": 32.833,
+      "end": 35.067,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "leoni marini molo",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un gruppo di leoni marini è sul molo, con uno che sembra urlare verso l'acqua.",
+      "shot_idx": 18,
+      "start": 35.067,
+      "end": 37.1,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "leone marino tuffo",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un leone marino si tuffa in acqua creando uno schizzo, mentre altri rimangono sul molo.",
+      "shot_idx": 19,
+      "start": 37.1,
+      "end": 38.633,
+      "dur": 1.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "leoni marini molo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due leoni marini interagiscono su un molo di legno, con l'acqua del mare sullo sfondo.",
+      "shot_idx": 20,
+      "start": 38.633,
+      "end": 42.4,
+      "dur": 3.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "leone marino molo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un leone marino è sdraiato sul molo, con l'acqua del mare che si muove sullo sfondo.",
+      "shot_idx": 21,
+      "start": 42.4,
+      "end": 45.433,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "leone marino dorme",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un leone marino dorme pacificamente, con la luce del sole che gli illumina il muso.",
+      "shot_idx": 22,
+      "start": 45.433,
+      "end": 49.0,
+      "dur": 3.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "paesaggio costiero roccioso",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un vasto paesaggio costiero con rocce e mare, sotto un cielo sereno al tramonto.",
+      "shot_idx": 23,
+      "start": 49.0,
+      "end": 53.0,
+      "dur": 4.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "tramonto spiaggia mare",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un tramonto mozzafiato sulla spiaggia, con il sole che si riflette sull'acqua e sulla sabbia.",
+      "shot_idx": 24,
+      "start": 53.0,
+      "end": 55.467,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "cervi nel bosco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due cervi si muovono in un prato erboso con alberi sullo sfondo.",
+      "shot_idx": 25,
+      "start": 55.467,
+      "end": 58.467,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "albero solitario scogliera",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un albero solitario cresce su una scogliera rocciosa che si affaccia sull'oceano al tramonto.",
+      "shot_idx": 26,
+      "start": 58.467,
+      "end": 62.5,
+      "dur": 4.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "scatola pizza Domino's",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una persona apre una scatola di pizza Domino's con la scritta 'RECYCLE' in evidenza.",
+      "shot_idx": 27,
+      "start": 62.5,
+      "end": 63.167,
+      "dur": 0.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una pizza al pepperoni appena sfornata riempie l'inquadratura, mostrando la crosta dorata e il formaggio fuso.",
+      "shot_idx": 28,
+      "start": 63.167,
+      "end": 66.467,
+      "dur": 3.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza carne mista",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una pizza con vari tipi di carne, tra cui pepperoni e salsiccia, è visibile all'interno di una scatola.",
+      "shot_idx": 29,
+      "start": 66.467,
+      "end": 70.467,
+      "dur": 4.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con pizze",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene due scatole di pizza aperte.",
+      "shot_idx": 30,
+      "start": 70.467,
+      "end": 73.733,
+      "dur": 3.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza americana",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza con peperoni verdi, funghi e formaggio in una scatola.",
+      "shot_idx": 31,
+      "start": 73.733,
+      "end": 76.233,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso mangia una fetta di pizza con espressione sorpresa.",
+      "shot_idx": 32,
+      "start": 76.233,
+      "end": 77.833,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso mangia una fetta di pizza al salamino.",
+      "shot_idx": 33,
+      "start": 77.833,
+      "end": 80.767,
+      "dur": 2.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mordere una fetta di pizza al salamino.",
+      "shot_idx": 34,
+      "start": 80.767,
+      "end": 83.3,
+      "dur": 2.533
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "cosa mangi un giorno in california nel l'orange country?"
+    },
+    {
+      "start": 2.54,
+      "end": 6.56,
+      "text": "oggi ragazzi vi porto come a santa cruz e a monterei e faccio vedere tutto il gioco mangiato"
+    },
+    {
+      "start": 6.56,
+      "end": 8.84,
+      "text": "partendo dalla colazione in un solito motel americano"
+    },
+    {
+      "start": 8.84,
+      "end": 11.3,
+      "text": "guafos, lapodacero, uova, bacon, muffins"
+    },
+    {
+      "start": 11.3,
+      "end": 14.32,
+      "text": "quindi insomma le solite cose classiche dei moteli americani tenono di zucchero"
+    },
+    {
+      "start": 14.32,
+      "end": 17.24,
+      "text": "dopo di che sono partito dal motel sono andato proprio verso santa cruz"
+    },
+    {
+      "start": 17.24,
+      "end": 19.36,
+      "text": "come ho visto prima questa sorta di luna parca al chiuso"
+    },
+    {
+      "start": 19.36,
+      "end": 22.26,
+      "text": "poi sono andato sulla spiaggia dove non potevo non prendermi il corn dog"
+    },
+    {
+      "start": 22.26,
+      "end": 26.48,
+      "text": "cioè ragazzi questa sì con esperienza americana mangiarsi un corn dog sulla spiaggia di santa cruz"
+    },
+    {
+      "start": 26.48,
+      "end": 28.38,
+      "text": "sono proprio quelle cose che ti sogni sin da bambino"
+    },
+    {
+      "start": 28.38,
+      "end": 31.5,
+      "text": "poi passeggiatina per il mollo fino a che non abbiamo trovato questo branco di leoni di mare"
+    },
+    {
+      "start": 31.5,
+      "end": 35.66,
+      "text": "facevano veramente molto ridere mentre combattevano sui cercare di buttarsi giù dalla cataforma"
+    },
+    {
+      "start": 35.66,
+      "end": 38.24,
+      "text": "mentre tutti gli altri in realtà dormivano tranquillamente"
+    },
+    {
+      "start": 38.24,
+      "end": 40.38,
+      "text": "questi animali fanno veramente troppo ridere"
+    },
+    {
+      "start": 40.38,
+      "end": 42.6,
+      "text": "e anche se in california infratti che li trovati in tutti i molli"
+    },
+    {
+      "start": 42.6,
+      "end": 44.78,
+      "text": "fanno sempre l'or effetto, vederli così da vicino"
+    },
+    {
+      "start": 44.78,
+      "end": 47.08,
+      "text": "e poi appunto sono degli animali troppo troppo divertenti"
+    },
+    {
+      "start": 47.08,
+      "end": 50.82,
+      "text": "dopo di che siamo andati verso monterei dove abbiamo percorso la 17 mile drive"
+    },
+    {
+      "start": 50.82,
+      "end": 52.4,
+      "text": "che è una strada praticamente panoramica"
+    },
+    {
+      "start": 52.4,
+      "end": 54.48,
+      "text": "dove abbiamo potuto vedere il tramonto e se non sono mari"
+    },
+    {
+      "start": 54.48,
+      "end": 57.66,
+      "text": "dove abbiamo incontrato un sacco di cerviatti e visto delle bille clamorose"
+    },
+    {
+      "start": 57.66,
+      "end": 58.98,
+      "text": "ragazzi delle cose assurde"
+    },
+    {
+      "start": 58.98,
+      "end": 62.32,
+      "text": "è letteralmente il posto più bello che ho mai visto in tutta mia vita dove poter vivere"
+    },
+    {
+      "start": 62.32,
+      "end": 64.78,
+      "text": "mare, natura, tranquillità, non si può chiedere di meglio"
+    },
+    {
+      "start": 64.78,
+      "end": 67.2,
+      "text": "infine ragazzi per cena, essendo già abbastanza tardi"
+    },
+    {
+      "start": 67.2,
+      "end": 70.38,
+      "text": "abbiamo deciso di prendere delle pizza americane da domino e portarle nel motello"
+    },
+    {
+      "start": 70.38,
+      "end": 73.9,
+      "text": "qui infatti vedete una mizza praticamente con tutti i tipi di carne"
+    },
+    {
+      "start": 73.9,
+      "end": 75.42,
+      "text": "una classica pepperoni americana"
+    },
+    {
+      "start": 75.42,
+      "end": 77.02,
+      "text": "e una con i peperoni vere con i funghi"
+    },
+    {
+      "start": 77.02,
+      "end": 79.18,
+      "text": "insomma ragazzi ditemi quello che volete ama la pizza di domino"
+    },
+    {
+      "start": 79.18,
+      "end": 80.64,
+      "text": "sin america proprio un altro sapore"
+    },
+    {
+      "start": 80.64,
+      "end": 82.88,
+      "text": "è proprio quella cosa unta che ci sta sempre bene"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": "cosa"
+    },
+    {
+      "start": 0.2,
+      "end": 0.5,
+      "word": "mangi"
+    },
+    {
+      "start": 0.5,
+      "end": 0.6,
+      "word": "un"
+    },
+    {
+      "start": 0.6,
+      "end": 0.76,
+      "word": "giorno"
+    },
+    {
+      "start": 0.76,
+      "end": 0.92,
+      "word": "in"
+    },
+    {
+      "start": 0.92,
+      "end": 1.4,
+      "word": "california"
+    },
+    {
+      "start": 1.4,
+      "end": 1.58,
+      "word": "nel"
+    },
+    {
+      "start": 1.58,
+      "end": 1.72,
+      "word": "l"
+    },
+    {
+      "start": 1.72,
+      "end": 1.92,
+      "word": "'orange"
+    },
+    {
+      "start": 1.92,
+      "end": 2.38,
+      "word": "country?"
+    },
+    {
+      "start": 2.54,
+      "end": 2.54,
+      "word": "oggi"
+    },
+    {
+      "start": 2.54,
+      "end": 2.78,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.78,
+      "end": 2.92,
+      "word": "vi"
+    },
+    {
+      "start": 2.92,
+      "end": 3.12,
+      "word": "porto"
+    },
+    {
+      "start": 3.12,
+      "end": 3.28,
+      "word": "come"
+    },
+    {
+      "start": 3.28,
+      "end": 3.44,
+      "word": "a"
+    },
+    {
+      "start": 3.44,
+      "end": 3.8,
+      "word": "santa"
+    },
+    {
+      "start": 3.8,
+      "end": 4.28,
+      "word": "cruz"
+    },
+    {
+      "start": 4.28,
+      "end": 4.42,
+      "word": "e"
+    },
+    {
+      "start": 4.42,
+      "end": 4.54,
+      "word": "a"
+    },
+    {
+      "start": 4.54,
+      "end": 4.92,
+      "word": "monterei"
+    },
+    {
+      "start": 4.92,
+      "end": 5.14,
+      "word": "e"
+    },
+    {
+      "start": 5.14,
+      "end": 5.42,
+      "word": "faccio"
+    },
+    {
+      "start": 5.42,
+      "end": 5.56,
+      "word": "vedere"
+    },
+    {
+      "start": 5.56,
+      "end": 5.82,
+      "word": "tutto"
+    },
+    {
+      "start": 5.82,
+      "end": 5.98,
+      "word": "il"
+    },
+    {
+      "start": 5.98,
+      "end": 6.04,
+      "word": "gioco"
+    },
+    {
+      "start": 6.04,
+      "end": 6.56,
+      "word": "mangiato"
+    },
+    {
+      "start": 6.56,
+      "end": 6.84,
+      "word": "partendo"
+    },
+    {
+      "start": 6.84,
+      "end": 7.04,
+      "word": "dalla"
+    },
+    {
+      "start": 7.04,
+      "end": 7.42,
+      "word": "colazione"
+    },
+    {
+      "start": 7.42,
+      "end": 7.58,
+      "word": "in"
+    },
+    {
+      "start": 7.58,
+      "end": 7.68,
+      "word": "un"
+    },
+    {
+      "start": 7.68,
+      "end": 7.96,
+      "word": "solito"
+    },
+    {
+      "start": 7.96,
+      "end": 8.26,
+      "word": "motel"
+    },
+    {
+      "start": 8.26,
+      "end": 8.84,
+      "word": "americano"
+    },
+    {
+      "start": 8.84,
+      "end": 9.24,
+      "word": "guafos,"
+    },
+    {
+      "start": 9.34,
+      "end": 9.9,
+      "word": "lapodacero,"
+    },
+    {
+      "start": 10.08,
+      "end": 10.32,
+      "word": "uova,"
+    },
+    {
+      "start": 10.7,
+      "end": 10.7,
+      "word": "bacon,"
+    },
+    {
+      "start": 10.92,
+      "end": 11.3,
+      "word": "muffins"
+    },
+    {
+      "start": 11.3,
+      "end": 11.4,
+      "word": "quindi"
+    },
+    {
+      "start": 11.4,
+      "end": 11.64,
+      "word": "insomma"
+    },
+    {
+      "start": 11.64,
+      "end": 11.78,
+      "word": "le"
+    },
+    {
+      "start": 11.78,
+      "end": 11.96,
+      "word": "solite"
+    },
+    {
+      "start": 11.96,
+      "end": 12.16,
+      "word": "cose"
+    },
+    {
+      "start": 12.16,
+      "end": 12.68,
+      "word": "classiche"
+    },
+    {
+      "start": 12.68,
+      "end": 12.82,
+      "word": "dei"
+    },
+    {
+      "start": 12.82,
+      "end": 13.04,
+      "word": "moteli"
+    },
+    {
+      "start": 13.04,
+      "end": 13.54,
+      "word": "americani"
+    },
+    {
+      "start": 13.54,
+      "end": 13.8,
+      "word": "tenono"
+    },
+    {
+      "start": 13.8,
+      "end": 13.98,
+      "word": "di"
+    },
+    {
+      "start": 13.98,
+      "end": 14.32,
+      "word": "zucchero"
+    },
+    {
+      "start": 14.32,
+      "end": 14.5,
+      "word": "dopo"
+    },
+    {
+      "start": 14.5,
+      "end": 14.58,
+      "word": "di"
+    },
+    {
+      "start": 14.58,
+      "end": 14.68,
+      "word": "che"
+    },
+    {
+      "start": 14.68,
+      "end": 14.82,
+      "word": "sono"
+    },
+    {
+      "start": 14.82,
+      "end": 15.18,
+      "word": "partito"
+    },
+    {
+      "start": 15.18,
+      "end": 15.36,
+      "word": "dal"
+    },
+    {
+      "start": 15.36,
+      "end": 15.6,
+      "word": "motel"
+    },
+    {
+      "start": 15.6,
+      "end": 15.82,
+      "word": "sono"
+    },
+    {
+      "start": 15.82,
+      "end": 16.08,
+      "word": "andato"
+    },
+    {
+      "start": 16.08,
+      "end": 16.28,
+      "word": "proprio"
+    },
+    {
+      "start": 16.28,
+      "end": 16.54,
+      "word": "verso"
+    },
+    {
+      "start": 16.54,
+      "end": 16.88,
+      "word": "santa"
+    },
+    {
+      "start": 16.88,
+      "end": 17.24,
+      "word": "cruz"
+    },
+    {
+      "start": 17.24,
+      "end": 17.34,
+      "word": "come"
+    },
+    {
+      "start": 17.34,
+      "end": 17.38,
+      "word": "ho"
+    },
+    {
+      "start": 17.38,
+      "end": 17.5,
+      "word": "visto"
+    },
+    {
+      "start": 17.5,
+      "end": 17.76,
+      "word": "prima"
+    },
+    {
+      "start": 17.76,
+      "end": 17.98,
+      "word": "questa"
+    },
+    {
+      "start": 17.98,
+      "end": 18.3,
+      "word": "sorta"
+    },
+    {
+      "start": 18.3,
+      "end": 18.46,
+      "word": "di"
+    },
+    {
+      "start": 18.46,
+      "end": 18.58,
+      "word": "luna"
+    },
+    {
+      "start": 18.58,
+      "end": 18.96,
+      "word": "parca"
+    },
+    {
+      "start": 18.96,
+      "end": 19.08,
+      "word": "al"
+    },
+    {
+      "start": 19.08,
+      "end": 19.36,
+      "word": "chiuso"
+    },
+    {
+      "start": 19.36,
+      "end": 19.46,
+      "word": "poi"
+    },
+    {
+      "start": 19.46,
+      "end": 19.54,
+      "word": "sono"
+    },
+    {
+      "start": 19.54,
+      "end": 19.72,
+      "word": "andato"
+    },
+    {
+      "start": 19.72,
+      "end": 19.98,
+      "word": "sulla"
+    },
+    {
+      "start": 19.98,
+      "end": 20.42,
+      "word": "spiaggia"
+    },
+    {
+      "start": 20.42,
+      "end": 20.58,
+      "word": "dove"
+    },
+    {
+      "start": 20.58,
+      "end": 20.72,
+      "word": "non"
+    },
+    {
+      "start": 20.72,
+      "end": 21.06,
+      "word": "potevo"
+    },
+    {
+      "start": 21.06,
+      "end": 21.18,
+      "word": "non"
+    },
+    {
+      "start": 21.18,
+      "end": 21.58,
+      "word": "prendermi"
+    },
+    {
+      "start": 21.58,
+      "end": 21.74,
+      "word": "il"
+    },
+    {
+      "start": 21.74,
+      "end": 21.92,
+      "word": "corn"
+    },
+    {
+      "start": 21.92,
+      "end": 22.26,
+      "word": "dog"
+    },
+    {
+      "start": 22.26,
+      "end": 22.44,
+      "word": "cioè"
+    },
+    {
+      "start": 22.44,
+      "end": 22.68,
+      "word": "ragazzi"
+    },
+    {
+      "start": 22.68,
+      "end": 22.9,
+      "word": "questa"
+    },
+    {
+      "start": 22.9,
+      "end": 23.06,
+      "word": "sì"
+    },
+    {
+      "start": 23.06,
+      "end": 23.16,
+      "word": "con"
+    },
+    {
+      "start": 23.16,
+      "end": 23.46,
+      "word": "esperienza"
+    },
+    {
+      "start": 23.46,
+      "end": 23.82,
+      "word": "americana"
+    },
+    {
+      "start": 23.82,
+      "end": 24.32,
+      "word": "mangiarsi"
+    },
+    {
+      "start": 24.32,
+      "end": 24.46,
+      "word": "un"
+    },
+    {
+      "start": 24.46,
+      "end": 24.68,
+      "word": "corn"
+    },
+    {
+      "start": 24.68,
+      "end": 24.96,
+      "word": "dog"
+    },
+    {
+      "start": 24.96,
+      "end": 25.5,
+      "word": "sulla"
+    },
+    {
+      "start": 25.5,
+      "end": 25.92,
+      "word": "spiaggia"
+    },
+    {
+      "start": 25.92,
+      "end": 26.04,
+      "word": "di"
+    },
+    {
+      "start": 26.04,
+      "end": 26.26,
+      "word": "santa"
+    },
+    {
+      "start": 26.26,
+      "end": 26.48,
+      "word": "cruz"
+    },
+    {
+      "start": 26.48,
+      "end": 26.6,
+      "word": "sono"
+    },
+    {
+      "start": 26.6,
+      "end": 26.74,
+      "word": "proprio"
+    },
+    {
+      "start": 26.74,
+      "end": 26.92,
+      "word": "quelle"
+    },
+    {
+      "start": 26.92,
+      "end": 27.12,
+      "word": "cose"
+    },
+    {
+      "start": 27.12,
+      "end": 27.26,
+      "word": "che"
+    },
+    {
+      "start": 27.26,
+      "end": 27.4,
+      "word": "ti"
+    },
+    {
+      "start": 27.4,
+      "end": 27.66,
+      "word": "sogni"
+    },
+    {
+      "start": 27.66,
+      "end": 27.84,
+      "word": "sin"
+    },
+    {
+      "start": 27.84,
+      "end": 27.98,
+      "word": "da"
+    },
+    {
+      "start": 27.98,
+      "end": 28.38,
+      "word": "bambino"
+    },
+    {
+      "start": 28.38,
+      "end": 28.54,
+      "word": "poi"
+    },
+    {
+      "start": 28.54,
+      "end": 29.1,
+      "word": "passeggiatina"
+    },
+    {
+      "start": 29.1,
+      "end": 29.24,
+      "word": "per"
+    },
+    {
+      "start": 29.24,
+      "end": 29.34,
+      "word": "il"
+    },
+    {
+      "start": 29.34,
+      "end": 29.52,
+      "word": "mollo"
+    },
+    {
+      "start": 29.52,
+      "end": 29.62,
+      "word": "fino"
+    },
+    {
+      "start": 29.62,
+      "end": 29.78,
+      "word": "a"
+    },
+    {
+      "start": 29.78,
+      "end": 29.8,
+      "word": "che"
+    },
+    {
+      "start": 29.8,
+      "end": 29.9,
+      "word": "non"
+    },
+    {
+      "start": 29.9,
+      "end": 30.0,
+      "word": "abbiamo"
+    },
+    {
+      "start": 30.0,
+      "end": 30.32,
+      "word": "trovato"
+    },
+    {
+      "start": 30.32,
+      "end": 30.54,
+      "word": "questo"
+    },
+    {
+      "start": 30.54,
+      "end": 30.86,
+      "word": "branco"
+    },
+    {
+      "start": 30.86,
+      "end": 30.96,
+      "word": "di"
+    },
+    {
+      "start": 30.96,
+      "end": 31.2,
+      "word": "leoni"
+    },
+    {
+      "start": 31.2,
+      "end": 31.38,
+      "word": "di"
+    },
+    {
+      "start": 31.38,
+      "end": 31.5,
+      "word": "mare"
+    },
+    {
+      "start": 31.5,
+      "end": 31.78,
+      "word": "facevano"
+    },
+    {
+      "start": 31.78,
+      "end": 32.06,
+      "word": "veramente"
+    },
+    {
+      "start": 32.06,
+      "end": 32.4,
+      "word": "molto"
+    },
+    {
+      "start": 32.4,
+      "end": 32.74,
+      "word": "ridere"
+    },
+    {
+      "start": 32.74,
+      "end": 32.92,
+      "word": "mentre"
+    },
+    {
+      "start": 32.92,
+      "end": 33.68,
+      "word": "combattevano"
+    },
+    {
+      "start": 33.68,
+      "end": 33.88,
+      "word": "sui"
+    },
+    {
+      "start": 33.88,
+      "end": 34.12,
+      "word": "cercare"
+    },
+    {
+      "start": 34.12,
+      "end": 34.28,
+      "word": "di"
+    },
+    {
+      "start": 34.28,
+      "end": 34.68,
+      "word": "buttarsi"
+    },
+    {
+      "start": 34.68,
+      "end": 34.9,
+      "word": "giù"
+    },
+    {
+      "start": 34.9,
+      "end": 35.02,
+      "word": "dalla"
+    },
+    {
+      "start": 35.02,
+      "end": 35.66,
+      "word": "cataforma"
+    },
+    {
+      "start": 35.66,
+      "end": 35.88,
+      "word": "mentre"
+    },
+    {
+      "start": 35.88,
+      "end": 36.14,
+      "word": "tutti"
+    },
+    {
+      "start": 36.14,
+      "end": 36.4,
+      "word": "gli"
+    },
+    {
+      "start": 36.4,
+      "end": 36.56,
+      "word": "altri"
+    },
+    {
+      "start": 36.56,
+      "end": 36.72,
+      "word": "in"
+    },
+    {
+      "start": 36.72,
+      "end": 36.92,
+      "word": "realtà"
+    },
+    {
+      "start": 36.92,
+      "end": 37.5,
+      "word": "dormivano"
+    },
+    {
+      "start": 37.5,
+      "end": 38.24,
+      "word": "tranquillamente"
+    },
+    {
+      "start": 38.24,
+      "end": 38.46,
+      "word": "questi"
+    },
+    {
+      "start": 38.46,
+      "end": 38.68,
+      "word": "animali"
+    },
+    {
+      "start": 38.68,
+      "end": 38.92,
+      "word": "fanno"
+    },
+    {
+      "start": 38.92,
+      "end": 39.46,
+      "word": "veramente"
+    },
+    {
+      "start": 39.46,
+      "end": 39.98,
+      "word": "troppo"
+    },
+    {
+      "start": 39.98,
+      "end": 40.38,
+      "word": "ridere"
+    },
+    {
+      "start": 40.38,
+      "end": 40.48,
+      "word": "e"
+    },
+    {
+      "start": 40.48,
+      "end": 40.6,
+      "word": "anche"
+    },
+    {
+      "start": 40.6,
+      "end": 40.72,
+      "word": "se"
+    },
+    {
+      "start": 40.72,
+      "end": 40.82,
+      "word": "in"
+    },
+    {
+      "start": 40.82,
+      "end": 41.26,
+      "word": "california"
+    },
+    {
+      "start": 41.26,
+      "end": 41.48,
+      "word": "infratti"
+    },
+    {
+      "start": 41.48,
+      "end": 41.6,
+      "word": "che"
+    },
+    {
+      "start": 41.6,
+      "end": 41.68,
+      "word": "li"
+    },
+    {
+      "start": 41.68,
+      "end": 41.98,
+      "word": "trovati"
+    },
+    {
+      "start": 41.98,
+      "end": 42.08,
+      "word": "in"
+    },
+    {
+      "start": 42.08,
+      "end": 42.24,
+      "word": "tutti"
+    },
+    {
+      "start": 42.24,
+      "end": 42.38,
+      "word": "i"
+    },
+    {
+      "start": 42.38,
+      "end": 42.6,
+      "word": "molli"
+    },
+    {
+      "start": 42.6,
+      "end": 42.76,
+      "word": "fanno"
+    },
+    {
+      "start": 42.76,
+      "end": 43.04,
+      "word": "sempre"
+    },
+    {
+      "start": 43.04,
+      "end": 43.22,
+      "word": "l"
+    },
+    {
+      "start": 43.22,
+      "end": 43.28,
+      "word": "'or"
+    },
+    {
+      "start": 43.28,
+      "end": 43.62,
+      "word": "effetto,"
+    },
+    {
+      "start": 43.62,
+      "end": 44.0,
+      "word": "vederli"
+    },
+    {
+      "start": 44.0,
+      "end": 44.18,
+      "word": "così"
+    },
+    {
+      "start": 44.18,
+      "end": 44.34,
+      "word": "da"
+    },
+    {
+      "start": 44.34,
+      "end": 44.78,
+      "word": "vicino"
+    },
+    {
+      "start": 44.78,
+      "end": 44.94,
+      "word": "e"
+    },
+    {
+      "start": 44.94,
+      "end": 45.04,
+      "word": "poi"
+    },
+    {
+      "start": 45.04,
+      "end": 45.2,
+      "word": "appunto"
+    },
+    {
+      "start": 45.2,
+      "end": 45.4,
+      "word": "sono"
+    },
+    {
+      "start": 45.4,
+      "end": 45.6,
+      "word": "degli"
+    },
+    {
+      "start": 45.6,
+      "end": 45.88,
+      "word": "animali"
+    },
+    {
+      "start": 45.88,
+      "end": 46.28,
+      "word": "troppo"
+    },
+    {
+      "start": 46.28,
+      "end": 46.56,
+      "word": "troppo"
+    },
+    {
+      "start": 46.56,
+      "end": 47.08,
+      "word": "divertenti"
+    },
+    {
+      "start": 47.08,
+      "end": 47.28,
+      "word": "dopo"
+    },
+    {
+      "start": 47.28,
+      "end": 47.42,
+      "word": "di"
+    },
+    {
+      "start": 47.42,
+      "end": 47.52,
+      "word": "che"
+    },
+    {
+      "start": 47.52,
+      "end": 47.7,
+      "word": "siamo"
+    },
+    {
+      "start": 47.7,
+      "end": 47.88,
+      "word": "andati"
+    },
+    {
+      "start": 47.88,
+      "end": 48.12,
+      "word": "verso"
+    },
+    {
+      "start": 48.12,
+      "end": 48.7,
+      "word": "monterei"
+    },
+    {
+      "start": 48.7,
+      "end": 49.0,
+      "word": "dove"
+    },
+    {
+      "start": 49.0,
+      "end": 49.18,
+      "word": "abbiamo"
+    },
+    {
+      "start": 49.18,
+      "end": 49.62,
+      "word": "percorso"
+    },
+    {
+      "start": 49.62,
+      "end": 49.74,
+      "word": "la"
+    },
+    {
+      "start": 49.74,
+      "end": 50.02,
+      "word": "17"
+    },
+    {
+      "start": 50.02,
+      "end": 50.42,
+      "word": "mile"
+    },
+    {
+      "start": 50.42,
+      "end": 50.82,
+      "word": "drive"
+    },
+    {
+      "start": 50.82,
+      "end": 50.92,
+      "word": "che"
+    },
+    {
+      "start": 50.92,
+      "end": 50.96,
+      "word": "è"
+    },
+    {
+      "start": 50.96,
+      "end": 51.02,
+      "word": "una"
+    },
+    {
+      "start": 51.02,
+      "end": 51.28,
+      "word": "strada"
+    },
+    {
+      "start": 51.28,
+      "end": 51.56,
+      "word": "praticamente"
+    },
+    {
+      "start": 51.56,
+      "end": 52.4,
+      "word": "panoramica"
+    },
+    {
+      "start": 52.4,
+      "end": 52.6,
+      "word": "dove"
+    },
+    {
+      "start": 52.6,
+      "end": 52.72,
+      "word": "abbiamo"
+    },
+    {
+      "start": 52.72,
+      "end": 52.96,
+      "word": "potuto"
+    },
+    {
+      "start": 52.96,
+      "end": 53.18,
+      "word": "vedere"
+    },
+    {
+      "start": 53.18,
+      "end": 53.38,
+      "word": "il"
+    },
+    {
+      "start": 53.38,
+      "end": 53.72,
+      "word": "tramonto"
+    },
+    {
+      "start": 53.72,
+      "end": 53.88,
+      "word": "e"
+    },
+    {
+      "start": 53.88,
+      "end": 53.92,
+      "word": "se"
+    },
+    {
+      "start": 53.92,
+      "end": 54.04,
+      "word": "non"
+    },
+    {
+      "start": 54.04,
+      "end": 54.14,
+      "word": "sono"
+    },
+    {
+      "start": 54.14,
+      "end": 54.48,
+      "word": "mari"
+    },
+    {
+      "start": 54.48,
+      "end": 54.58,
+      "word": "dove"
+    },
+    {
+      "start": 54.58,
+      "end": 54.72,
+      "word": "abbiamo"
+    },
+    {
+      "start": 54.72,
+      "end": 55.04,
+      "word": "incontrato"
+    },
+    {
+      "start": 55.04,
+      "end": 55.22,
+      "word": "un"
+    },
+    {
+      "start": 55.22,
+      "end": 55.46,
+      "word": "sacco"
+    },
+    {
+      "start": 55.46,
+      "end": 55.56,
+      "word": "di"
+    },
+    {
+      "start": 55.56,
+      "end": 56.02,
+      "word": "cerviatti"
+    },
+    {
+      "start": 56.02,
+      "end": 56.16,
+      "word": "e"
+    },
+    {
+      "start": 56.16,
+      "end": 56.32,
+      "word": "visto"
+    },
+    {
+      "start": 56.32,
+      "end": 56.6,
+      "word": "delle"
+    },
+    {
+      "start": 56.6,
+      "end": 56.94,
+      "word": "bille"
+    },
+    {
+      "start": 56.94,
+      "end": 57.66,
+      "word": "clamorose"
+    },
+    {
+      "start": 57.66,
+      "end": 58.1,
+      "word": "ragazzi"
+    },
+    {
+      "start": 58.1,
+      "end": 58.26,
+      "word": "delle"
+    },
+    {
+      "start": 58.26,
+      "end": 58.46,
+      "word": "cose"
+    },
+    {
+      "start": 58.46,
+      "end": 58.98,
+      "word": "assurde"
+    },
+    {
+      "start": 58.98,
+      "end": 59.08,
+      "word": "è"
+    },
+    {
+      "start": 59.08,
+      "end": 59.58,
+      "word": "letteralmente"
+    },
+    {
+      "start": 59.58,
+      "end": 59.72,
+      "word": "il"
+    },
+    {
+      "start": 59.72,
+      "end": 59.96,
+      "word": "posto"
+    },
+    {
+      "start": 59.96,
+      "end": 60.06,
+      "word": "più"
+    },
+    {
+      "start": 60.06,
+      "end": 60.34,
+      "word": "bello"
+    },
+    {
+      "start": 60.34,
+      "end": 60.48,
+      "word": "che"
+    },
+    {
+      "start": 60.48,
+      "end": 60.58,
+      "word": "ho"
+    },
+    {
+      "start": 60.58,
+      "end": 60.7,
+      "word": "mai"
+    },
+    {
+      "start": 60.7,
+      "end": 60.94,
+      "word": "visto"
+    },
+    {
+      "start": 60.94,
+      "end": 61.06,
+      "word": "in"
+    },
+    {
+      "start": 61.06,
+      "end": 61.3,
+      "word": "tutta"
+    },
+    {
+      "start": 61.3,
+      "end": 61.42,
+      "word": "mia"
+    },
+    {
+      "start": 61.42,
+      "end": 61.6,
+      "word": "vita"
+    },
+    {
+      "start": 61.6,
+      "end": 61.76,
+      "word": "dove"
+    },
+    {
+      "start": 61.76,
+      "end": 62.06,
+      "word": "poter"
+    },
+    {
+      "start": 62.06,
+      "end": 62.32,
+      "word": "vivere"
+    },
+    {
+      "start": 62.32,
+      "end": 62.56,
+      "word": "mare,"
+    },
+    {
+      "start": 62.66,
+      "end": 63.04,
+      "word": "natura,"
+    },
+    {
+      "start": 63.26,
+      "end": 63.7,
+      "word": "tranquillità,"
+    },
+    {
+      "start": 63.76,
+      "end": 63.82,
+      "word": "non"
+    },
+    {
+      "start": 63.82,
+      "end": 63.96,
+      "word": "si"
+    },
+    {
+      "start": 63.96,
+      "end": 64.08,
+      "word": "può"
+    },
+    {
+      "start": 64.08,
+      "end": 64.36,
+      "word": "chiedere"
+    },
+    {
+      "start": 64.36,
+      "end": 64.46,
+      "word": "di"
+    },
+    {
+      "start": 64.46,
+      "end": 64.78,
+      "word": "meglio"
+    },
+    {
+      "start": 64.78,
+      "end": 65.06,
+      "word": "infine"
+    },
+    {
+      "start": 65.06,
+      "end": 65.4,
+      "word": "ragazzi"
+    },
+    {
+      "start": 65.4,
+      "end": 65.6,
+      "word": "per"
+    },
+    {
+      "start": 65.6,
+      "end": 65.9,
+      "word": "cena,"
+    },
+    {
+      "start": 66.08,
+      "end": 66.3,
+      "word": "essendo"
+    },
+    {
+      "start": 66.3,
+      "end": 66.44,
+      "word": "già"
+    },
+    {
+      "start": 66.44,
+      "end": 66.8,
+      "word": "abbastanza"
+    },
+    {
+      "start": 66.8,
+      "end": 67.2,
+      "word": "tardi"
+    },
+    {
+      "start": 67.2,
+      "end": 67.32,
+      "word": "abbiamo"
+    },
+    {
+      "start": 67.32,
+      "end": 67.72,
+      "word": "deciso"
+    },
+    {
+      "start": 67.72,
+      "end": 67.8,
+      "word": "di"
+    },
+    {
+      "start": 67.8,
+      "end": 68.04,
+      "word": "prendere"
+    },
+    {
+      "start": 68.04,
+      "end": 68.24,
+      "word": "delle"
+    },
+    {
+      "start": 68.24,
+      "end": 68.46,
+      "word": "pizza"
+    },
+    {
+      "start": 68.46,
+      "end": 68.92,
+      "word": "americane"
+    },
+    {
+      "start": 68.92,
+      "end": 69.04,
+      "word": "da"
+    },
+    {
+      "start": 69.04,
+      "end": 69.4,
+      "word": "domino"
+    },
+    {
+      "start": 69.4,
+      "end": 69.5,
+      "word": "e"
+    },
+    {
+      "start": 69.5,
+      "end": 69.92,
+      "word": "portarle"
+    },
+    {
+      "start": 69.92,
+      "end": 70.08,
+      "word": "nel"
+    },
+    {
+      "start": 70.08,
+      "end": 70.38,
+      "word": "motello"
+    },
+    {
+      "start": 70.38,
+      "end": 70.48,
+      "word": "qui"
+    },
+    {
+      "start": 70.48,
+      "end": 70.66,
+      "word": "infatti"
+    },
+    {
+      "start": 70.66,
+      "end": 71.12,
+      "word": "vedete"
+    },
+    {
+      "start": 71.12,
+      "end": 71.42,
+      "word": "una"
+    },
+    {
+      "start": 71.42,
+      "end": 71.94,
+      "word": "mizza"
+    },
+    {
+      "start": 71.94,
+      "end": 72.28,
+      "word": "praticamente"
+    },
+    {
+      "start": 72.28,
+      "end": 72.72,
+      "word": "con"
+    },
+    {
+      "start": 72.72,
+      "end": 73.04,
+      "word": "tutti"
+    },
+    {
+      "start": 73.04,
+      "end": 73.24,
+      "word": "i"
+    },
+    {
+      "start": 73.24,
+      "end": 73.5,
+      "word": "tipi"
+    },
+    {
+      "start": 73.5,
+      "end": 73.58,
+      "word": "di"
+    },
+    {
+      "start": 73.58,
+      "end": 73.9,
+      "word": "carne"
+    },
+    {
+      "start": 73.9,
+      "end": 74.08,
+      "word": "una"
+    },
+    {
+      "start": 74.08,
+      "end": 74.44,
+      "word": "classica"
+    },
+    {
+      "start": 74.44,
+      "end": 74.92,
+      "word": "pepperoni"
+    },
+    {
+      "start": 74.92,
+      "end": 75.42,
+      "word": "americana"
+    },
+    {
+      "start": 75.42,
+      "end": 75.58,
+      "word": "e"
+    },
+    {
+      "start": 75.58,
+      "end": 75.7,
+      "word": "una"
+    },
+    {
+      "start": 75.7,
+      "end": 75.84,
+      "word": "con"
+    },
+    {
+      "start": 75.84,
+      "end": 75.9,
+      "word": "i"
+    },
+    {
+      "start": 75.9,
+      "end": 76.24,
+      "word": "peperoni"
+    },
+    {
+      "start": 76.24,
+      "end": 76.44,
+      "word": "vere"
+    },
+    {
+      "start": 76.44,
+      "end": 76.58,
+      "word": "con"
+    },
+    {
+      "start": 76.58,
+      "end": 76.66,
+      "word": "i"
+    },
+    {
+      "start": 76.66,
+      "end": 77.02,
+      "word": "funghi"
+    },
+    {
+      "start": 77.02,
+      "end": 77.22,
+      "word": "insomma"
+    },
+    {
+      "start": 77.22,
+      "end": 77.5,
+      "word": "ragazzi"
+    },
+    {
+      "start": 77.5,
+      "end": 77.74,
+      "word": "ditemi"
+    },
+    {
+      "start": 77.74,
+      "end": 77.88,
+      "word": "quello"
+    },
+    {
+      "start": 77.88,
+      "end": 78.02,
+      "word": "che"
+    },
+    {
+      "start": 78.02,
+      "end": 78.26,
+      "word": "volete"
+    },
+    {
+      "start": 78.26,
+      "end": 78.4,
+      "word": "ama"
+    },
+    {
+      "start": 78.4,
+      "end": 78.48,
+      "word": "la"
+    },
+    {
+      "start": 78.48,
+      "end": 78.66,
+      "word": "pizza"
+    },
+    {
+      "start": 78.66,
+      "end": 78.82,
+      "word": "di"
+    },
+    {
+      "start": 78.82,
+      "end": 79.18,
+      "word": "domino"
+    },
+    {
+      "start": 79.18,
+      "end": 79.34,
+      "word": "sin"
+    },
+    {
+      "start": 79.34,
+      "end": 79.8,
+      "word": "america"
+    },
+    {
+      "start": 79.8,
+      "end": 79.94,
+      "word": "proprio"
+    },
+    {
+      "start": 79.94,
+      "end": 80.1,
+      "word": "un"
+    },
+    {
+      "start": 80.1,
+      "end": 80.22,
+      "word": "altro"
+    },
+    {
+      "start": 80.22,
+      "end": 80.64,
+      "word": "sapore"
+    },
+    {
+      "start": 80.64,
+      "end": 80.76,
+      "word": "è"
+    },
+    {
+      "start": 80.76,
+      "end": 80.88,
+      "word": "proprio"
+    },
+    {
+      "start": 80.88,
+      "end": 81.14,
+      "word": "quella"
+    },
+    {
+      "start": 81.14,
+      "end": 81.34,
+      "word": "cosa"
+    },
+    {
+      "start": 81.34,
+      "end": 81.74,
+      "word": "unta"
+    },
+    {
+      "start": 81.74,
+      "end": 81.86,
+      "word": "che"
+    },
+    {
+      "start": 81.86,
+      "end": 82.0,
+      "word": "ci"
+    },
+    {
+      "start": 82.0,
+      "end": 82.2,
+      "word": "sta"
+    },
+    {
+      "start": 82.2,
+      "end": 82.52,
+      "word": "sempre"
+    },
+    {
+      "start": 82.52,
+      "end": 82.88,
+      "word": "bene"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "dur": 2.5,
+      "transcript": "cosa mangi un giorno in california nel l 'orange country?"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.5,
+      "end": 5.967,
+      "dur": 3.467,
+      "transcript": "oggi ragazzi vi porto come a santa cruz e a monterei e faccio vedere tutto il"
+    },
+    {
+      "shot_idx": 2,
+      "start": 5.967,
+      "end": 7.567,
+      "dur": 1.6,
+      "transcript": "gioco mangiato partendo dalla colazione in"
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.567,
+      "end": 10.367,
+      "dur": 2.8,
+      "transcript": "un solito motel americano guafos, lapodacero, uova,"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.367,
+      "end": 12.367,
+      "dur": 2.0,
+      "transcript": "bacon, muffins quindi insomma le solite cose"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.367,
+      "end": 14.333,
+      "dur": 1.967,
+      "transcript": "classiche dei moteli americani tenono di zucchero"
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.333,
+      "end": 16.133,
+      "dur": 1.8,
+      "transcript": "dopo di che sono partito dal motel sono andato"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.133,
+      "end": 18.333,
+      "dur": 2.2,
+      "transcript": "proprio verso santa cruz come ho visto prima questa sorta"
+    },
+    {
+      "shot_idx": 8,
+      "start": 18.333,
+      "end": 21.3,
+      "dur": 2.967,
+      "transcript": "di luna parca al chiuso poi sono andato sulla spiaggia dove non potevo non"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.3,
+      "end": 23.2,
+      "dur": 1.9,
+      "transcript": "prendermi il corn dog cioè ragazzi questa sì con"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.2,
+      "end": 24.333,
+      "dur": 1.133,
+      "transcript": "esperienza americana mangiarsi"
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.333,
+      "end": 25.7,
+      "dur": 1.367,
+      "transcript": "un corn dog sulla"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.7,
+      "end": 26.3,
+      "dur": 0.6,
+      "transcript": "spiaggia di santa"
+    },
+    {
+      "shot_idx": 13,
+      "start": 26.3,
+      "end": 28.033,
+      "dur": 1.733,
+      "transcript": "cruz sono proprio quelle cose che ti sogni sin da"
+    },
+    {
+      "shot_idx": 14,
+      "start": 28.033,
+      "end": 29.333,
+      "dur": 1.3,
+      "transcript": "bambino poi passeggiatina per il"
+    },
+    {
+      "shot_idx": 15,
+      "start": 29.333,
+      "end": 30.867,
+      "dur": 1.533,
+      "transcript": "mollo fino a che non abbiamo trovato questo branco"
+    },
+    {
+      "shot_idx": 16,
+      "start": 30.867,
+      "end": 32.833,
+      "dur": 1.967,
+      "transcript": "di leoni di mare facevano veramente molto ridere mentre"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.833,
+      "end": 35.067,
+      "dur": 2.233,
+      "transcript": "combattevano sui cercare di buttarsi giù dalla"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.067,
+      "end": 37.1,
+      "dur": 2.033,
+      "transcript": "cataforma mentre tutti gli altri in realtà"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.1,
+      "end": 38.633,
+      "dur": 1.533,
+      "transcript": "dormivano tranquillamente questi animali"
+    },
+    {
+      "shot_idx": 20,
+      "start": 38.633,
+      "end": 42.4,
+      "dur": 3.767,
+      "transcript": "fanno veramente troppo ridere e anche se in california infratti che li trovati in tutti i"
+    },
+    {
+      "shot_idx": 21,
+      "start": 42.4,
+      "end": 45.433,
+      "dur": 3.033,
+      "transcript": "molli fanno sempre l 'or effetto, vederli così da vicino e poi appunto sono"
+    },
+    {
+      "shot_idx": 22,
+      "start": 45.433,
+      "end": 49.0,
+      "dur": 3.567,
+      "transcript": "degli animali troppo troppo divertenti dopo di che siamo andati verso monterei dove"
+    },
+    {
+      "shot_idx": 23,
+      "start": 49.0,
+      "end": 53.0,
+      "dur": 4.0,
+      "transcript": "abbiamo percorso la 17 mile drive che è una strada praticamente panoramica dove abbiamo potuto"
+    },
+    {
+      "shot_idx": 24,
+      "start": 53.0,
+      "end": 55.467,
+      "dur": 2.467,
+      "transcript": "vedere il tramonto e se non sono mari dove abbiamo incontrato un sacco"
+    },
+    {
+      "shot_idx": 25,
+      "start": 55.467,
+      "end": 58.467,
+      "dur": 3.0,
+      "transcript": "di cerviatti e visto delle bille clamorose ragazzi delle cose"
+    },
+    {
+      "shot_idx": 26,
+      "start": 58.467,
+      "end": 62.5,
+      "dur": 4.033,
+      "transcript": "assurde è letteralmente il posto più bello che ho mai visto in tutta mia vita dove poter vivere mare,"
+    },
+    {
+      "shot_idx": 27,
+      "start": 62.5,
+      "end": 63.167,
+      "dur": 0.667,
+      "transcript": "natura,"
+    },
+    {
+      "shot_idx": 28,
+      "start": 63.167,
+      "end": 66.467,
+      "dur": 3.3,
+      "transcript": "tranquillità, non si può chiedere di meglio infine ragazzi per cena, essendo già"
+    },
+    {
+      "shot_idx": 29,
+      "start": 66.467,
+      "end": 70.467,
+      "dur": 4.0,
+      "transcript": "abbastanza tardi abbiamo deciso di prendere delle pizza americane da domino e portarle nel motello qui"
+    },
+    {
+      "shot_idx": 30,
+      "start": 70.467,
+      "end": 73.733,
+      "dur": 3.267,
+      "transcript": "infatti vedete una mizza praticamente con tutti i tipi di"
+    },
+    {
+      "shot_idx": 31,
+      "start": 73.733,
+      "end": 76.233,
+      "dur": 2.5,
+      "transcript": "carne una classica pepperoni americana e una con i peperoni"
+    },
+    {
+      "shot_idx": 32,
+      "start": 76.233,
+      "end": 77.833,
+      "dur": 1.6,
+      "transcript": "vere con i funghi insomma ragazzi ditemi quello"
+    },
+    {
+      "shot_idx": 33,
+      "start": 77.833,
+      "end": 80.767,
+      "dur": 2.933,
+      "transcript": "che volete ama la pizza di domino sin america proprio un altro sapore è"
+    },
+    {
+      "shot_idx": 34,
+      "start": 80.767,
+      "end": 83.3,
+      "dur": 2.533,
+      "transcript": "proprio quella cosa unta che ci sta sempre bene"
+    }
+  ],
+  "full_text": "cosa mangi un giorno in california nel l'orange country? oggi ragazzi vi porto come a santa cruz e a monterei e faccio vedere tutto il gioco mangiato partendo dalla colazione in un solito motel americano guafos, lapodacero, uova, bacon, muffins quindi insomma le solite cose classiche dei moteli americani tenono di zucchero dopo di che sono partito dal motel sono andato proprio verso santa cruz come ho visto prima questa sorta di luna parca al chiuso poi sono andato sulla spiaggia dove non potevo non prendermi il corn dog cioè ragazzi questa sì con esperienza americana mangiarsi un corn dog sulla spiaggia di santa cruz sono proprio quelle cose che ti sogni sin da bambino poi passeggiatina per il mollo fino a che non abbiamo trovato questo branco di leoni di mare facevano veramente molto ridere mentre combattevano sui cercare di buttarsi giù dalla cataforma mentre tutti gli altri in realtà dormivano tranquillamente questi animali fanno veramente troppo ridere e anche se in california infratti che li trovati in tutti i molli fanno sempre l'or effetto, vederli così da vicino e poi appunto sono degli animali troppo troppo divertenti dopo di che siamo andati verso monterei dove abbiamo percorso la 17 mile drive che è una strada praticamente panoramica dove abbiamo potuto vedere il tramonto e se non sono mari dove abbiamo incontrato un sacco di cerviatti e visto delle bille clamorose ragazzi delle cose assurde è letteralmente il posto più bello che ho mai visto in tutta mia vita dove poter vivere mare, natura, tranquillità, non si può chiedere di meglio infine ragazzi per cena, essendo già abbastanza tardi abbiamo deciso di prendere delle pizza americane da domino e portarle nel motello qui infatti vedete una mizza praticamente con tutti i tipi di carne una classica pepperoni americana e una con i peperoni vere con i funghi insomma ragazzi ditemi quello che volete ama la pizza di domino sin america proprio un altro sapore è proprio quella cosa unta che ci sta sempre bene",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,340 @@
+{
+  "title": "Finalmente il locale più virale di Milano",
+  "voiceover_script": "Ragazzi, oggi sono finalmente andato al locale più virale di Milano e vi assicuro che non è uno di quei posti normali. Guardate questo menu: abbiamo wings clamorose, nuggets croccanti, fries dorate e una varietà di salse folle. Comincio con le wings glassate, guardate come sono lucide, la consistenza è perfetta, esterna croccante e interna succosa. Poi questi nuggets, ragazzi davvero, la panatura è bomba, scioglievolissimi dentro. Le fries invece sono perfette, croccanti fuori e morbide dentro. E la salsa? Una bomba, cremosa e dal sapore intenso. Vi assicuro che dovete assolutamente provare tutto il menu, è clamoroso. Insomma, non potete non passare da questo posto, ogni singolo elemento è eseguito alla perfezione.",
+  "timeline": [
+    {
+      "scene_id": 4,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "clip_name": "IMG_6820.MOV",
+      "in_sec": 0.16,
+      "out_sec": 3.34,
+      "duration": 3.18,
+      "role": "food",
+      "subtitle_text": "Ragazzi, oggi sono finalmente andato al locale più virale di Milano"
+    },
+    {
+      "scene_id": 20,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 3.478,
+      "out_sec": 6.222,
+      "duration": 2.74,
+      "role": "reaction",
+      "subtitle_text": "e vi assicuro che non è uno di quei posti normali."
+    },
+    {
+      "scene_id": 6,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 0.289,
+      "out_sec": 3.211,
+      "duration": 2.92,
+      "role": "detail",
+      "subtitle_text": "Guardate questo menu: abbiamo wings clamorose, nuggets croccanti,"
+    },
+    {
+      "scene_id": 10,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 12.708,
+      "out_sec": 15.592,
+      "duration": 2.88,
+      "role": "detail",
+      "subtitle_text": "fries dorate e una varietà di salse folle."
+    },
+    {
+      "scene_id": 19,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "action",
+      "subtitle_text": "Comincio con le wings glassate,"
+    },
+    {
+      "scene_id": 7,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 3.25,
+      "out_sec": 6.45,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": "guardate come sono lucide, la consistenza è perfetta,"
+    },
+    {
+      "scene_id": 15,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": "esterna croccante e interna succosa."
+    },
+    {
+      "scene_id": 18,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "clip_name": "IMG_6822.MOV",
+      "in_sec": 9.656,
+      "out_sec": 12.444,
+      "duration": 2.79,
+      "role": "detail",
+      "subtitle_text": "Poi questi nuggets, ragazzi davvero,"
+    },
+    {
+      "scene_id": 14,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "clip_name": "IMG_6821.MOV",
+      "in_sec": 24.8,
+      "out_sec": 27.04,
+      "duration": 2.24,
+      "role": "detail",
+      "subtitle_text": "la panatura è bomba, scioglievolissimi dentro."
+    },
+    {
+      "scene_id": 44,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 6.577,
+      "out_sec": 9.323,
+      "duration": 2.75,
+      "role": "action",
+      "subtitle_text": "Le fries invece sono perfette, croccanti fuori"
+    },
+    {
+      "scene_id": 45,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 9.609,
+      "out_sec": 12.491,
+      "duration": 2.88,
+      "role": "action",
+      "subtitle_text": "e morbide dentro."
+    },
+    {
+      "scene_id": 24,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 15.707,
+      "out_sec": 18.793,
+      "duration": 3.09,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 42,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "clip_name": "IMG_6825.MOV",
+      "in_sec": 0.378,
+      "out_sec": 3.122,
+      "duration": 2.74,
+      "role": "food",
+      "subtitle_text": "E la salsa? Una bomba, cremosa"
+    },
+    {
+      "scene_id": 26,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "clip_name": "IMG_6823.MOV",
+      "in_sec": 22.016,
+      "out_sec": 24.884,
+      "duration": 2.87,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 58,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 0.156,
+      "out_sec": 3.344,
+      "duration": 3.19,
+      "role": "action",
+      "subtitle_text": "e dal sapore intenso."
+    },
+    {
+      "scene_id": 31,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 9.493,
+      "out_sec": 12.607,
+      "duration": 3.11,
+      "role": "food",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 28,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 0.309,
+      "out_sec": 3.191,
+      "duration": 2.88,
+      "role": "action",
+      "subtitle_text": "Vi assicuro che dovete assolutamente provare"
+    },
+    {
+      "scene_id": 41,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 40.3,
+      "out_sec": 43.2,
+      "duration": 2.9,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 30,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "reaction",
+      "subtitle_text": "tutto il menu, è clamoroso."
+    },
+    {
+      "scene_id": 51,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "clip_name": "IMG_6826.MOV",
+      "in_sec": 0.385,
+      "out_sec": 3.115,
+      "duration": 2.73,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 35,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 21.85,
+      "out_sec": 25.05,
+      "duration": 3.2,
+      "role": "reaction",
+      "subtitle_text": "Insomma, non potete non passare"
+    },
+    {
+      "scene_id": 53,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "clip_name": "IMG_6826.MOV",
+      "in_sec": 6.35,
+      "out_sec": 9.55,
+      "duration": 3.2,
+      "role": "action",
+      "subtitle_text": "BOMBA!!!!"
+    },
+    {
+      "scene_id": 36,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "clip_name": "IMG_6824.MOV",
+      "in_sec": 25.066,
+      "out_sec": 28.034,
+      "duration": 2.97,
+      "role": "action",
+      "subtitle_text": "da questo posto, ogni singolo elemento"
+    },
+    {
+      "scene_id": 62,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6827.MOV",
+      "clip_name": "IMG_6827.MOV",
+      "in_sec": 12.732,
+      "out_sec": 15.568,
+      "duration": 2.84,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 64,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": "è eseguito alla perfezione con una croccantezza"
+    },
+    {
+      "scene_id": 65,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 3.367,
+      "out_sec": 6.333,
+      "duration": 2.97,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 72,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 0.354,
+      "out_sec": 3.146,
+      "duration": 2.79,
+      "role": "detail",
+      "subtitle_text": "che vi farà impazzire."
+    },
+    {
+      "scene_id": 68,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6828.MOV",
+      "clip_name": "IMG_6828.MOV",
+      "in_sec": 12.753,
+      "out_sec": 15.547,
+      "duration": 2.79,
+      "role": "reaction",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 82,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6831.MOV",
+      "clip_name": "IMG_6831.MOV",
+      "in_sec": 0.0,
+      "out_sec": 3.2,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": "WINGS"
+    },
+    {
+      "scene_id": 76,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6829.MOV",
+      "clip_name": "IMG_6829.MOV",
+      "in_sec": 12.572,
+      "out_sec": 15.728,
+      "duration": 3.16,
+      "role": "action",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 102,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "food",
+      "subtitle_text": "NUGGETS"
+    },
+    {
+      "scene_id": 79,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6830.MOV",
+      "clip_name": "IMG_6830.MOV",
+      "in_sec": 0.15,
+      "out_sec": 3.35,
+      "duration": 3.2,
+      "role": "detail",
+      "subtitle_text": ""
+    },
+    {
+      "scene_id": 109,
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6835.MOV",
+      "clip_name": "IMG_6835.MOV",
+      "in_sec": 21.896,
+      "out_sec": 25.004,
+      "duration": 3.11,
+      "role": "reaction",
+      "subtitle_text": "FRIES"
+    }
+  ],
+  "total_duration": 98.52,
+  "n_clips": 33,
+  "profile_id": 13,
+  "generated_at": "2026-09-18T10:10:32"
+}

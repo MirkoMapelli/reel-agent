@@ -1,0 +1,1576 @@
+{
+  "ref_id": "ref_50_7569569941553253654",
+  "video": "/opt/reel-agent/media/style_ref/ref_50_7569569941553253654.mp4",
+  "n_segments": 18,
+  "n_words": 265,
+  "n_shots": 21,
+  "full_text": "in america stanno su un altro pianeta ragazzi, questa è una palestra a caso, un altro palestra di un hotel completamente a caso dove si allenano tutti i vecchi, guardate ragazzi che macchinari, non so se mi spiego c'è express della flex leverage ragazzi questa c'è express in italia, voi ci ne saranno tipo 5 e qua in una palestra a casissimo di un paesino della flore la casissimo le press fatta bene un bel pendulum squat ragazzi ci credete che io mi alleno in italia da anni non ho mai visto un pendulum squat, qua, boh, trovato, ax squat, un ax squat vero non che gli fa male le ginocchia, non vi spiché vi scarica tutto sui blu-takes guardate qua, cool down, hammer strength ragazzi, è proprio diverso, il bodybuilding qui in america è proprio un'altra cosa, un altro livello e poi guardate lì tutti macchinari paramount o flex leverage in italia siamo indietro e fare bodybuilding in italia è completamente un'altra cosa rispetto a farlo in un paradiso del genere in cui è demacchinare della flex come questo e voi pensate che se in quelle palestra di bodybuilding è mai andato in america che ci sono delle palestra incredibili beh in realtà io quando sono intanto qua pensavo di fare praticamente solo cardio cioè da fuori vi giuro che sembra letteralmente dove vanno fare i corsi solamente gli anziani perché davvero ci sono anche tutti quella cupologia di corsi ma se uno vuole danse seriamente beh macchinare ce li ha chissà quando in italia arriveremo a questo livello",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.78,
+      "text": "in america stanno su un altro pianeta ragazzi, questa è una palestra a caso, un altro palestra di un hotel"
+    },
+    {
+      "start": 5.78,
+      "end": 11.42,
+      "text": "completamente a caso dove si allenano tutti i vecchi, guardate ragazzi che macchinari, non so se mi spiego"
+    },
+    {
+      "start": 12.0,
+      "end": 14.8,
+      "text": "c'è express della flex leverage ragazzi"
+    },
+    {
+      "start": 14.8,
+      "end": 21.6,
+      "text": "questa c'è express in italia, voi ci ne saranno tipo 5 e qua in una palestra a casissimo di un paesino della flore la casissimo"
+    },
+    {
+      "start": 21.6,
+      "end": 27.4,
+      "text": "le press fatta bene un bel pendulum squat ragazzi ci credete che io mi alleno in italia da anni"
+    },
+    {
+      "start": 27.4,
+      "end": 32.14,
+      "text": "non ho mai visto un pendulum squat, qua, boh, trovato, ax squat, un ax squat vero"
+    },
+    {
+      "start": 32.14,
+      "end": 35.5,
+      "text": "non che gli fa male le ginocchia, non vi spiché vi scarica tutto sui blu-takes"
+    },
+    {
+      "start": 35.5,
+      "end": 38.1,
+      "text": "guardate qua, cool down, hammer strength"
+    },
+    {
+      "start": 39.16,
+      "end": 44.68,
+      "text": "ragazzi, è proprio diverso, il bodybuilding qui in america è proprio un'altra cosa, un altro livello"
+    },
+    {
+      "start": 44.68,
+      "end": 48.16,
+      "text": "e poi guardate lì tutti macchinari paramount o flex leverage"
+    },
+    {
+      "start": 48.16,
+      "end": 53.38,
+      "text": "in italia siamo indietro e fare bodybuilding in italia è completamente un'altra cosa"
+    },
+    {
+      "start": 53.38,
+      "end": 57.9,
+      "text": "rispetto a farlo in un paradiso del genere in cui è demacchinare della flex come questo"
+    },
+    {
+      "start": 58.64,
+      "end": 63.76,
+      "text": "e voi pensate che se in quelle palestra di bodybuilding è mai andato in america che ci sono delle palestra incredibili"
+    },
+    {
+      "start": 63.76,
+      "end": 67.5,
+      "text": "beh in realtà io quando sono intanto qua pensavo di fare praticamente solo cardio"
+    },
+    {
+      "start": 67.5,
+      "end": 73.4,
+      "text": "cioè da fuori vi giuro che sembra letteralmente dove vanno fare i corsi solamente gli anziani"
+    },
+    {
+      "start": 74.16,
+      "end": 77.4,
+      "text": "perché davvero ci sono anche tutti quella cupologia di corsi"
+    },
+    {
+      "start": 77.4,
+      "end": 80.14,
+      "text": "ma se uno vuole danse seriamente beh macchinare ce li ha"
+    },
+    {
+      "start": 80.14,
+      "end": 82.24,
+      "text": "chissà quando in italia arriveremo a questo livello"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "word": "in"
+    },
+    {
+      "start": 0.64,
+      "end": 1.0,
+      "word": "america"
+    },
+    {
+      "start": 1.0,
+      "end": 1.22,
+      "word": "stanno"
+    },
+    {
+      "start": 1.22,
+      "end": 1.4,
+      "word": "su"
+    },
+    {
+      "start": 1.4,
+      "end": 1.54,
+      "word": "un"
+    },
+    {
+      "start": 1.54,
+      "end": 1.72,
+      "word": "altro"
+    },
+    {
+      "start": 1.72,
+      "end": 2.2,
+      "word": "pianeta"
+    },
+    {
+      "start": 2.2,
+      "end": 2.68,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 2.78,
+      "end": 3.16,
+      "word": "questa"
+    },
+    {
+      "start": 3.16,
+      "end": 3.26,
+      "word": "è"
+    },
+    {
+      "start": 3.26,
+      "end": 3.34,
+      "word": "una"
+    },
+    {
+      "start": 3.34,
+      "end": 3.68,
+      "word": "palestra"
+    },
+    {
+      "start": 3.68,
+      "end": 3.86,
+      "word": "a"
+    },
+    {
+      "start": 3.86,
+      "end": 4.12,
+      "word": "caso,"
+    },
+    {
+      "start": 4.24,
+      "end": 4.48,
+      "word": "un"
+    },
+    {
+      "start": 4.48,
+      "end": 4.58,
+      "word": "altro"
+    },
+    {
+      "start": 4.58,
+      "end": 5.1,
+      "word": "palestra"
+    },
+    {
+      "start": 5.1,
+      "end": 5.44,
+      "word": "di"
+    },
+    {
+      "start": 5.44,
+      "end": 5.54,
+      "word": "un"
+    },
+    {
+      "start": 5.54,
+      "end": 5.78,
+      "word": "hotel"
+    },
+    {
+      "start": 5.78,
+      "end": 6.54,
+      "word": "completamente"
+    },
+    {
+      "start": 6.54,
+      "end": 6.84,
+      "word": "a"
+    },
+    {
+      "start": 6.84,
+      "end": 7.02,
+      "word": "caso"
+    },
+    {
+      "start": 7.02,
+      "end": 7.16,
+      "word": "dove"
+    },
+    {
+      "start": 7.16,
+      "end": 7.28,
+      "word": "si"
+    },
+    {
+      "start": 7.28,
+      "end": 7.52,
+      "word": "allenano"
+    },
+    {
+      "start": 7.52,
+      "end": 7.8,
+      "word": "tutti"
+    },
+    {
+      "start": 7.8,
+      "end": 7.94,
+      "word": "i"
+    },
+    {
+      "start": 7.94,
+      "end": 8.28,
+      "word": "vecchi,"
+    },
+    {
+      "start": 8.42,
+      "end": 8.88,
+      "word": "guardate"
+    },
+    {
+      "start": 8.88,
+      "end": 9.18,
+      "word": "ragazzi"
+    },
+    {
+      "start": 9.18,
+      "end": 9.32,
+      "word": "che"
+    },
+    {
+      "start": 9.32,
+      "end": 9.92,
+      "word": "macchinari,"
+    },
+    {
+      "start": 10.04,
+      "end": 10.74,
+      "word": "non"
+    },
+    {
+      "start": 10.74,
+      "end": 10.86,
+      "word": "so"
+    },
+    {
+      "start": 10.86,
+      "end": 10.94,
+      "word": "se"
+    },
+    {
+      "start": 10.94,
+      "end": 11.08,
+      "word": "mi"
+    },
+    {
+      "start": 11.08,
+      "end": 11.42,
+      "word": "spiego"
+    },
+    {
+      "start": 11.8,
+      "end": 12.04,
+      "word": "c"
+    },
+    {
+      "start": 12.04,
+      "end": 12.1,
+      "word": "'è"
+    },
+    {
+      "start": 12.1,
+      "end": 12.44,
+      "word": "express"
+    },
+    {
+      "start": 12.44,
+      "end": 13.24,
+      "word": "della"
+    },
+    {
+      "start": 13.24,
+      "end": 13.7,
+      "word": "flex"
+    },
+    {
+      "start": 13.7,
+      "end": 14.28,
+      "word": "leverage"
+    },
+    {
+      "start": 14.28,
+      "end": 14.8,
+      "word": "ragazzi"
+    },
+    {
+      "start": 14.8,
+      "end": 15.42,
+      "word": "questa"
+    },
+    {
+      "start": 15.42,
+      "end": 15.56,
+      "word": "c"
+    },
+    {
+      "start": 15.56,
+      "end": 15.58,
+      "word": "'è"
+    },
+    {
+      "start": 15.58,
+      "end": 15.78,
+      "word": "express"
+    },
+    {
+      "start": 15.78,
+      "end": 15.94,
+      "word": "in"
+    },
+    {
+      "start": 15.94,
+      "end": 16.18,
+      "word": "italia,"
+    },
+    {
+      "start": 16.32,
+      "end": 16.4,
+      "word": "voi"
+    },
+    {
+      "start": 16.4,
+      "end": 16.54,
+      "word": "ci"
+    },
+    {
+      "start": 16.54,
+      "end": 16.56,
+      "word": "ne"
+    },
+    {
+      "start": 16.56,
+      "end": 16.82,
+      "word": "saranno"
+    },
+    {
+      "start": 16.82,
+      "end": 17.04,
+      "word": "tipo"
+    },
+    {
+      "start": 17.04,
+      "end": 17.54,
+      "word": "5"
+    },
+    {
+      "start": 17.54,
+      "end": 18.28,
+      "word": "e"
+    },
+    {
+      "start": 18.28,
+      "end": 18.5,
+      "word": "qua"
+    },
+    {
+      "start": 18.5,
+      "end": 18.82,
+      "word": "in"
+    },
+    {
+      "start": 18.82,
+      "end": 18.92,
+      "word": "una"
+    },
+    {
+      "start": 18.92,
+      "end": 19.18,
+      "word": "palestra"
+    },
+    {
+      "start": 19.18,
+      "end": 19.36,
+      "word": "a"
+    },
+    {
+      "start": 19.36,
+      "end": 19.76,
+      "word": "casissimo"
+    },
+    {
+      "start": 19.76,
+      "end": 19.88,
+      "word": "di"
+    },
+    {
+      "start": 19.88,
+      "end": 20.02,
+      "word": "un"
+    },
+    {
+      "start": 20.02,
+      "end": 20.44,
+      "word": "paesino"
+    },
+    {
+      "start": 20.44,
+      "end": 20.64,
+      "word": "della"
+    },
+    {
+      "start": 20.64,
+      "end": 20.9,
+      "word": "flore"
+    },
+    {
+      "start": 20.9,
+      "end": 21.06,
+      "word": "la"
+    },
+    {
+      "start": 21.06,
+      "end": 21.6,
+      "word": "casissimo"
+    },
+    {
+      "start": 21.6,
+      "end": 22.22,
+      "word": "le"
+    },
+    {
+      "start": 22.22,
+      "end": 22.7,
+      "word": "press"
+    },
+    {
+      "start": 22.7,
+      "end": 23.38,
+      "word": "fatta"
+    },
+    {
+      "start": 23.38,
+      "end": 23.78,
+      "word": "bene"
+    },
+    {
+      "start": 23.78,
+      "end": 24.32,
+      "word": "un"
+    },
+    {
+      "start": 24.32,
+      "end": 24.44,
+      "word": "bel"
+    },
+    {
+      "start": 24.44,
+      "end": 24.86,
+      "word": "pendulum"
+    },
+    {
+      "start": 24.86,
+      "end": 25.2,
+      "word": "squat"
+    },
+    {
+      "start": 25.2,
+      "end": 25.54,
+      "word": "ragazzi"
+    },
+    {
+      "start": 25.54,
+      "end": 25.74,
+      "word": "ci"
+    },
+    {
+      "start": 25.74,
+      "end": 25.98,
+      "word": "credete"
+    },
+    {
+      "start": 25.98,
+      "end": 26.14,
+      "word": "che"
+    },
+    {
+      "start": 26.14,
+      "end": 26.24,
+      "word": "io"
+    },
+    {
+      "start": 26.24,
+      "end": 26.34,
+      "word": "mi"
+    },
+    {
+      "start": 26.34,
+      "end": 26.6,
+      "word": "alleno"
+    },
+    {
+      "start": 26.6,
+      "end": 26.68,
+      "word": "in"
+    },
+    {
+      "start": 26.68,
+      "end": 26.94,
+      "word": "italia"
+    },
+    {
+      "start": 26.94,
+      "end": 27.12,
+      "word": "da"
+    },
+    {
+      "start": 27.12,
+      "end": 27.4,
+      "word": "anni"
+    },
+    {
+      "start": 27.4,
+      "end": 27.78,
+      "word": "non"
+    },
+    {
+      "start": 27.78,
+      "end": 27.84,
+      "word": "ho"
+    },
+    {
+      "start": 27.84,
+      "end": 28.0,
+      "word": "mai"
+    },
+    {
+      "start": 28.0,
+      "end": 28.26,
+      "word": "visto"
+    },
+    {
+      "start": 28.26,
+      "end": 28.42,
+      "word": "un"
+    },
+    {
+      "start": 28.42,
+      "end": 28.62,
+      "word": "pendulum"
+    },
+    {
+      "start": 28.62,
+      "end": 28.96,
+      "word": "squat,"
+    },
+    {
+      "start": 29.34,
+      "end": 29.54,
+      "word": "qua,"
+    },
+    {
+      "start": 29.66,
+      "end": 29.84,
+      "word": "boh,"
+    },
+    {
+      "start": 29.9,
+      "end": 30.32,
+      "word": "trovato,"
+    },
+    {
+      "start": 30.6,
+      "end": 30.84,
+      "word": "ax"
+    },
+    {
+      "start": 30.84,
+      "end": 31.1,
+      "word": "squat,"
+    },
+    {
+      "start": 31.26,
+      "end": 31.36,
+      "word": "un"
+    },
+    {
+      "start": 31.36,
+      "end": 31.5,
+      "word": "ax"
+    },
+    {
+      "start": 31.5,
+      "end": 31.7,
+      "word": "squat"
+    },
+    {
+      "start": 31.7,
+      "end": 32.14,
+      "word": "vero"
+    },
+    {
+      "start": 32.14,
+      "end": 32.52,
+      "word": "non"
+    },
+    {
+      "start": 32.52,
+      "end": 32.7,
+      "word": "che"
+    },
+    {
+      "start": 32.7,
+      "end": 32.78,
+      "word": "gli"
+    },
+    {
+      "start": 32.78,
+      "end": 32.88,
+      "word": "fa"
+    },
+    {
+      "start": 32.88,
+      "end": 33.02,
+      "word": "male"
+    },
+    {
+      "start": 33.02,
+      "end": 33.14,
+      "word": "le"
+    },
+    {
+      "start": 33.14,
+      "end": 33.56,
+      "word": "ginocchia,"
+    },
+    {
+      "start": 33.6,
+      "end": 33.72,
+      "word": "non"
+    },
+    {
+      "start": 33.72,
+      "end": 33.84,
+      "word": "vi"
+    },
+    {
+      "start": 33.84,
+      "end": 34.08,
+      "word": "spiché"
+    },
+    {
+      "start": 34.08,
+      "end": 34.22,
+      "word": "vi"
+    },
+    {
+      "start": 34.22,
+      "end": 34.52,
+      "word": "scarica"
+    },
+    {
+      "start": 34.52,
+      "end": 34.74,
+      "word": "tutto"
+    },
+    {
+      "start": 34.74,
+      "end": 35.1,
+      "word": "sui"
+    },
+    {
+      "start": 35.1,
+      "end": 35.28,
+      "word": "blu"
+    },
+    {
+      "start": 35.28,
+      "end": 35.5,
+      "word": "-takes"
+    },
+    {
+      "start": 35.5,
+      "end": 36.02,
+      "word": "guardate"
+    },
+    {
+      "start": 36.02,
+      "end": 36.24,
+      "word": "qua,"
+    },
+    {
+      "start": 36.62,
+      "end": 36.76,
+      "word": "cool"
+    },
+    {
+      "start": 36.76,
+      "end": 37.02,
+      "word": "down,"
+    },
+    {
+      "start": 37.26,
+      "end": 37.7,
+      "word": "hammer"
+    },
+    {
+      "start": 37.7,
+      "end": 38.1,
+      "word": "strength"
+    },
+    {
+      "start": 39.16,
+      "end": 39.64,
+      "word": "ragazzi,"
+    },
+    {
+      "start": 39.64,
+      "end": 40.12,
+      "word": "è"
+    },
+    {
+      "start": 40.12,
+      "end": 40.22,
+      "word": "proprio"
+    },
+    {
+      "start": 40.22,
+      "end": 40.82,
+      "word": "diverso,"
+    },
+    {
+      "start": 40.86,
+      "end": 41.3,
+      "word": "il"
+    },
+    {
+      "start": 41.3,
+      "end": 41.84,
+      "word": "bodybuilding"
+    },
+    {
+      "start": 41.84,
+      "end": 42.22,
+      "word": "qui"
+    },
+    {
+      "start": 42.22,
+      "end": 42.3,
+      "word": "in"
+    },
+    {
+      "start": 42.3,
+      "end": 42.74,
+      "word": "america"
+    },
+    {
+      "start": 42.74,
+      "end": 42.96,
+      "word": "è"
+    },
+    {
+      "start": 42.96,
+      "end": 43.04,
+      "word": "proprio"
+    },
+    {
+      "start": 43.04,
+      "end": 43.22,
+      "word": "un"
+    },
+    {
+      "start": 43.22,
+      "end": 43.34,
+      "word": "'altra"
+    },
+    {
+      "start": 43.34,
+      "end": 43.68,
+      "word": "cosa,"
+    },
+    {
+      "start": 43.78,
+      "end": 43.86,
+      "word": "un"
+    },
+    {
+      "start": 43.86,
+      "end": 44.06,
+      "word": "altro"
+    },
+    {
+      "start": 44.06,
+      "end": 44.68,
+      "word": "livello"
+    },
+    {
+      "start": 44.68,
+      "end": 44.94,
+      "word": "e"
+    },
+    {
+      "start": 44.94,
+      "end": 45.04,
+      "word": "poi"
+    },
+    {
+      "start": 45.04,
+      "end": 45.32,
+      "word": "guardate"
+    },
+    {
+      "start": 45.32,
+      "end": 45.56,
+      "word": "lì"
+    },
+    {
+      "start": 45.56,
+      "end": 46.24,
+      "word": "tutti"
+    },
+    {
+      "start": 46.24,
+      "end": 46.86,
+      "word": "macchinari"
+    },
+    {
+      "start": 46.86,
+      "end": 47.46,
+      "word": "paramount"
+    },
+    {
+      "start": 47.46,
+      "end": 47.62,
+      "word": "o"
+    },
+    {
+      "start": 47.62,
+      "end": 47.76,
+      "word": "flex"
+    },
+    {
+      "start": 47.76,
+      "end": 48.16,
+      "word": "leverage"
+    },
+    {
+      "start": 48.16,
+      "end": 48.96,
+      "word": "in"
+    },
+    {
+      "start": 48.96,
+      "end": 49.14,
+      "word": "italia"
+    },
+    {
+      "start": 49.14,
+      "end": 49.36,
+      "word": "siamo"
+    },
+    {
+      "start": 49.36,
+      "end": 49.86,
+      "word": "indietro"
+    },
+    {
+      "start": 49.86,
+      "end": 50.22,
+      "word": "e"
+    },
+    {
+      "start": 50.22,
+      "end": 51.14,
+      "word": "fare"
+    },
+    {
+      "start": 51.14,
+      "end": 51.58,
+      "word": "bodybuilding"
+    },
+    {
+      "start": 51.58,
+      "end": 51.72,
+      "word": "in"
+    },
+    {
+      "start": 51.72,
+      "end": 52.08,
+      "word": "italia"
+    },
+    {
+      "start": 52.08,
+      "end": 52.36,
+      "word": "è"
+    },
+    {
+      "start": 52.36,
+      "end": 52.72,
+      "word": "completamente"
+    },
+    {
+      "start": 52.72,
+      "end": 52.94,
+      "word": "un"
+    },
+    {
+      "start": 52.94,
+      "end": 53.04,
+      "word": "'altra"
+    },
+    {
+      "start": 53.04,
+      "end": 53.38,
+      "word": "cosa"
+    },
+    {
+      "start": 53.38,
+      "end": 53.98,
+      "word": "rispetto"
+    },
+    {
+      "start": 53.98,
+      "end": 54.16,
+      "word": "a"
+    },
+    {
+      "start": 54.16,
+      "end": 54.44,
+      "word": "farlo"
+    },
+    {
+      "start": 54.44,
+      "end": 54.64,
+      "word": "in"
+    },
+    {
+      "start": 54.64,
+      "end": 54.72,
+      "word": "un"
+    },
+    {
+      "start": 54.72,
+      "end": 55.06,
+      "word": "paradiso"
+    },
+    {
+      "start": 55.06,
+      "end": 55.26,
+      "word": "del"
+    },
+    {
+      "start": 55.26,
+      "end": 55.54,
+      "word": "genere"
+    },
+    {
+      "start": 55.54,
+      "end": 56.02,
+      "word": "in"
+    },
+    {
+      "start": 56.02,
+      "end": 56.12,
+      "word": "cui"
+    },
+    {
+      "start": 56.12,
+      "end": 56.26,
+      "word": "è"
+    },
+    {
+      "start": 56.26,
+      "end": 56.72,
+      "word": "demacchinare"
+    },
+    {
+      "start": 56.72,
+      "end": 56.9,
+      "word": "della"
+    },
+    {
+      "start": 56.9,
+      "end": 57.16,
+      "word": "flex"
+    },
+    {
+      "start": 57.16,
+      "end": 57.52,
+      "word": "come"
+    },
+    {
+      "start": 57.52,
+      "end": 57.9,
+      "word": "questo"
+    },
+    {
+      "start": 58.64,
+      "end": 59.16,
+      "word": "e"
+    },
+    {
+      "start": 59.16,
+      "end": 59.26,
+      "word": "voi"
+    },
+    {
+      "start": 59.26,
+      "end": 59.54,
+      "word": "pensate"
+    },
+    {
+      "start": 59.54,
+      "end": 59.78,
+      "word": "che"
+    },
+    {
+      "start": 59.78,
+      "end": 59.92,
+      "word": "se"
+    },
+    {
+      "start": 59.92,
+      "end": 60.06,
+      "word": "in"
+    },
+    {
+      "start": 60.06,
+      "end": 60.16,
+      "word": "quelle"
+    },
+    {
+      "start": 60.16,
+      "end": 60.54,
+      "word": "palestra"
+    },
+    {
+      "start": 60.54,
+      "end": 60.7,
+      "word": "di"
+    },
+    {
+      "start": 60.7,
+      "end": 61.18,
+      "word": "bodybuilding"
+    },
+    {
+      "start": 61.18,
+      "end": 61.46,
+      "word": "è"
+    },
+    {
+      "start": 61.46,
+      "end": 61.48,
+      "word": "mai"
+    },
+    {
+      "start": 61.48,
+      "end": 61.7,
+      "word": "andato"
+    },
+    {
+      "start": 61.7,
+      "end": 61.86,
+      "word": "in"
+    },
+    {
+      "start": 61.86,
+      "end": 62.3,
+      "word": "america"
+    },
+    {
+      "start": 62.3,
+      "end": 62.4,
+      "word": "che"
+    },
+    {
+      "start": 62.4,
+      "end": 62.5,
+      "word": "ci"
+    },
+    {
+      "start": 62.5,
+      "end": 62.64,
+      "word": "sono"
+    },
+    {
+      "start": 62.64,
+      "end": 62.8,
+      "word": "delle"
+    },
+    {
+      "start": 62.8,
+      "end": 63.1,
+      "word": "palestra"
+    },
+    {
+      "start": 63.1,
+      "end": 63.76,
+      "word": "incredibili"
+    },
+    {
+      "start": 63.76,
+      "end": 64.48,
+      "word": "beh"
+    },
+    {
+      "start": 64.48,
+      "end": 64.58,
+      "word": "in"
+    },
+    {
+      "start": 64.58,
+      "end": 64.68,
+      "word": "realtà"
+    },
+    {
+      "start": 64.68,
+      "end": 64.84,
+      "word": "io"
+    },
+    {
+      "start": 64.84,
+      "end": 65.0,
+      "word": "quando"
+    },
+    {
+      "start": 65.0,
+      "end": 65.16,
+      "word": "sono"
+    },
+    {
+      "start": 65.16,
+      "end": 65.32,
+      "word": "intanto"
+    },
+    {
+      "start": 65.32,
+      "end": 65.64,
+      "word": "qua"
+    },
+    {
+      "start": 65.64,
+      "end": 66.04,
+      "word": "pensavo"
+    },
+    {
+      "start": 66.04,
+      "end": 66.16,
+      "word": "di"
+    },
+    {
+      "start": 66.16,
+      "end": 66.32,
+      "word": "fare"
+    },
+    {
+      "start": 66.32,
+      "end": 66.74,
+      "word": "praticamente"
+    },
+    {
+      "start": 66.74,
+      "end": 67.02,
+      "word": "solo"
+    },
+    {
+      "start": 67.02,
+      "end": 67.5,
+      "word": "cardio"
+    },
+    {
+      "start": 67.5,
+      "end": 67.78,
+      "word": "cioè"
+    },
+    {
+      "start": 67.78,
+      "end": 67.92,
+      "word": "da"
+    },
+    {
+      "start": 67.92,
+      "end": 68.18,
+      "word": "fuori"
+    },
+    {
+      "start": 68.18,
+      "end": 68.32,
+      "word": "vi"
+    },
+    {
+      "start": 68.32,
+      "end": 68.7,
+      "word": "giuro"
+    },
+    {
+      "start": 68.7,
+      "end": 69.22,
+      "word": "che"
+    },
+    {
+      "start": 69.22,
+      "end": 69.64,
+      "word": "sembra"
+    },
+    {
+      "start": 69.64,
+      "end": 70.7,
+      "word": "letteralmente"
+    },
+    {
+      "start": 70.7,
+      "end": 71.6,
+      "word": "dove"
+    },
+    {
+      "start": 71.6,
+      "end": 71.86,
+      "word": "vanno"
+    },
+    {
+      "start": 71.86,
+      "end": 72.08,
+      "word": "fare"
+    },
+    {
+      "start": 72.08,
+      "end": 72.22,
+      "word": "i"
+    },
+    {
+      "start": 72.22,
+      "end": 72.54,
+      "word": "corsi"
+    },
+    {
+      "start": 72.54,
+      "end": 72.74,
+      "word": "solamente"
+    },
+    {
+      "start": 72.74,
+      "end": 73.04,
+      "word": "gli"
+    },
+    {
+      "start": 73.04,
+      "end": 73.4,
+      "word": "anziani"
+    },
+    {
+      "start": 74.16,
+      "end": 74.68,
+      "word": "perché"
+    },
+    {
+      "start": 74.68,
+      "end": 75.06,
+      "word": "davvero"
+    },
+    {
+      "start": 75.06,
+      "end": 75.24,
+      "word": "ci"
+    },
+    {
+      "start": 75.24,
+      "end": 75.44,
+      "word": "sono"
+    },
+    {
+      "start": 75.44,
+      "end": 75.76,
+      "word": "anche"
+    },
+    {
+      "start": 75.76,
+      "end": 76.1,
+      "word": "tutti"
+    },
+    {
+      "start": 76.1,
+      "end": 76.4,
+      "word": "quella"
+    },
+    {
+      "start": 76.4,
+      "end": 76.72,
+      "word": "cupologia"
+    },
+    {
+      "start": 76.72,
+      "end": 76.9,
+      "word": "di"
+    },
+    {
+      "start": 76.9,
+      "end": 77.4,
+      "word": "corsi"
+    },
+    {
+      "start": 77.4,
+      "end": 77.74,
+      "word": "ma"
+    },
+    {
+      "start": 77.74,
+      "end": 77.84,
+      "word": "se"
+    },
+    {
+      "start": 77.84,
+      "end": 77.94,
+      "word": "uno"
+    },
+    {
+      "start": 77.94,
+      "end": 78.12,
+      "word": "vuole"
+    },
+    {
+      "start": 78.12,
+      "end": 78.44,
+      "word": "danse"
+    },
+    {
+      "start": 78.44,
+      "end": 78.78,
+      "word": "seriamente"
+    },
+    {
+      "start": 78.78,
+      "end": 79.2,
+      "word": "beh"
+    },
+    {
+      "start": 79.2,
+      "end": 79.7,
+      "word": "macchinare"
+    },
+    {
+      "start": 79.7,
+      "end": 79.88,
+      "word": "ce"
+    },
+    {
+      "start": 79.88,
+      "end": 79.98,
+      "word": "li"
+    },
+    {
+      "start": 79.98,
+      "end": 80.14,
+      "word": "ha"
+    },
+    {
+      "start": 80.14,
+      "end": 80.52,
+      "word": "chissà"
+    },
+    {
+      "start": 80.52,
+      "end": 80.68,
+      "word": "quando"
+    },
+    {
+      "start": 80.68,
+      "end": 80.88,
+      "word": "in"
+    },
+    {
+      "start": 80.88,
+      "end": 81.14,
+      "word": "italia"
+    },
+    {
+      "start": 81.14,
+      "end": 81.56,
+      "word": "arriveremo"
+    },
+    {
+      "start": 81.56,
+      "end": 81.68,
+      "word": "a"
+    },
+    {
+      "start": 81.68,
+      "end": 81.76,
+      "word": "questo"
+    },
+    {
+      "start": 81.76,
+      "end": 82.24,
+      "word": "livello"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 9.467,
+      "dur": 9.467,
+      "transcript": "in america stanno su un altro pianeta ragazzi, questa è una palestra a caso, un altro palestra di un hotel completamente a caso dove si allenano tutti i vecchi, guardate ragazzi che"
+    },
+    {
+      "shot_idx": 1,
+      "start": 9.467,
+      "end": 11.767,
+      "dur": 2.3,
+      "transcript": "macchinari, non so se mi spiego"
+    },
+    {
+      "shot_idx": 2,
+      "start": 11.767,
+      "end": 14.9,
+      "dur": 3.133,
+      "transcript": "c 'è express della flex leverage ragazzi"
+    },
+    {
+      "shot_idx": 3,
+      "start": 14.9,
+      "end": 16.167,
+      "dur": 1.267,
+      "transcript": "questa c 'è express in italia,"
+    },
+    {
+      "shot_idx": 4,
+      "start": 16.167,
+      "end": 20.267,
+      "dur": 4.1,
+      "transcript": "voi ci ne saranno tipo 5 e qua in una palestra a casissimo di un paesino"
+    },
+    {
+      "shot_idx": 5,
+      "start": 20.267,
+      "end": 21.333,
+      "dur": 1.067,
+      "transcript": "della flore la casissimo"
+    },
+    {
+      "shot_idx": 6,
+      "start": 21.333,
+      "end": 25.667,
+      "dur": 4.333,
+      "transcript": "le press fatta bene un bel pendulum squat ragazzi ci"
+    },
+    {
+      "shot_idx": 7,
+      "start": 25.667,
+      "end": 29.1,
+      "dur": 3.433,
+      "transcript": "credete che io mi alleno in italia da anni non ho mai visto un pendulum squat,"
+    },
+    {
+      "shot_idx": 8,
+      "start": 29.1,
+      "end": 31.967,
+      "dur": 2.867,
+      "transcript": "qua, boh, trovato, ax squat, un ax squat vero"
+    },
+    {
+      "shot_idx": 9,
+      "start": 31.967,
+      "end": 35.433,
+      "dur": 3.467,
+      "transcript": "non che gli fa male le ginocchia, non vi spiché vi scarica tutto sui blu -takes"
+    },
+    {
+      "shot_idx": 10,
+      "start": 35.433,
+      "end": 35.967,
+      "dur": 0.533,
+      "transcript": "guardate"
+    },
+    {
+      "shot_idx": 11,
+      "start": 35.967,
+      "end": 37.967,
+      "dur": 2.0,
+      "transcript": "qua, cool down, hammer strength"
+    },
+    {
+      "shot_idx": 12,
+      "start": 37.967,
+      "end": 38.567,
+      "dur": 0.6,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 13,
+      "start": 38.567,
+      "end": 44.667,
+      "dur": 6.1,
+      "transcript": "ragazzi, è proprio diverso, il bodybuilding qui in america è proprio un 'altra cosa, un altro livello"
+    },
+    {
+      "shot_idx": 14,
+      "start": 44.667,
+      "end": 48.5,
+      "dur": 3.833,
+      "transcript": "e poi guardate lì tutti macchinari paramount o flex leverage"
+    },
+    {
+      "shot_idx": 15,
+      "start": 48.5,
+      "end": 57.9,
+      "dur": 9.4,
+      "transcript": "in italia siamo indietro e fare bodybuilding in italia è completamente un 'altra cosa rispetto a farlo in un paradiso del genere in cui è demacchinare della flex come questo"
+    },
+    {
+      "shot_idx": 16,
+      "start": 57.9,
+      "end": 59.1,
+      "dur": 1.2,
+      "transcript": "e"
+    },
+    {
+      "shot_idx": 17,
+      "start": 59.1,
+      "end": 67.667,
+      "dur": 8.567,
+      "transcript": "voi pensate che se in quelle palestra di bodybuilding è mai andato in america che ci sono delle palestra incredibili beh in realtà io quando sono intanto qua pensavo di fare praticamente solo cardio cioè"
+    },
+    {
+      "shot_idx": 18,
+      "start": 67.667,
+      "end": 74.267,
+      "dur": 6.6,
+      "transcript": "da fuori vi giuro che sembra letteralmente dove vanno fare i corsi solamente gli anziani"
+    },
+    {
+      "shot_idx": 19,
+      "start": 74.267,
+      "end": 80.2,
+      "dur": 5.933,
+      "transcript": "perché davvero ci sono anche tutti quella cupologia di corsi ma se uno vuole danse seriamente beh macchinare ce li ha"
+    },
+    {
+      "shot_idx": 20,
+      "start": 80.2,
+      "end": 82.8,
+      "dur": 2.6,
+      "transcript": "chissà quando in italia arriveremo a questo livello"
+    }
+  ]
+}

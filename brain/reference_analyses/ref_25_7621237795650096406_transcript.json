@@ -1,0 +1,1761 @@
+{
+  "ref_id": "ref_25_7621237795650096406",
+  "video": "/opt/reel-agent/media/style_ref/ref_25_7621237795650096406.mp4",
+  "n_segments": 14,
+  "n_words": 285,
+  "n_shots": 36,
+  "full_text": "E se vi dicessi che tutta questa teglia meno di 1600 calorie oggi ragazzi vi porto la ricetta di questo dolce fit e proteico super light e soprattutto veramente buono una ricetta simile alla zuppa inglese mi ha molto più bilanciata e molto più light Queste che vedete sono gli ingredienti e il primo passaggio è scaldare un litro di latte con una buccia di limone per dare un po' di aroma In un altra pentola apriamo 3 uova io ne ho utilizzate 4 ma vende consiglio 3 Insieme a 50 grammi di amido di maize 30 grammi di dolcificante Iniziamo a mescare fino che non otterrete un composto unico come questo a questo punto sempre a fuoco spento aggiungiamo il latte che abbiamo Scaldato che lo possiamo accendere il fornello fuoco basso iniziamo a girare fino che non otterremo appunto una vera e propria crema Fase attenzione che non si attacchi sul fondo dopo di che si appariamo un terzo della crema A cui aggiungiamo 30 grammi di proteina al cioccolato e 10 grammi di cacao male non avete le proteine potete aggiungere solamente il cacao Mentre restanti due terzi della crema aggiungiamo delle proteine alla vaniglia anche qui non sono necessari ammarendono la ricetta più proteica una volta tenuto le due creme al cioccolato alla vaniglia iniziamo con un primo strato di pavesini strato di vaniglia secondo strato di pavesini Strato di cioccolato terzo strato di pavesini ed il quarto e ultimo strato di pavesini a questo punto lo chiudete con della pellicola in modo che L'umidità resta su interno e pavesini si ammorbidiscano quando lo mangiate ci spolverate sopra il cacomano Vi assicuro che non lo distinguerete da un dolce classico",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": "E se vi dicessi che tutta questa teglia meno di 1600 calorie oggi ragazzi vi porto la ricetta di questo dolce fit e proteico"
+    },
+    {
+      "start": 5.98,
+      "end": 11.74,
+      "text": "super light e soprattutto veramente buono una ricetta simile alla zuppa inglese mi ha molto più bilanciata e molto più light"
+    },
+    {
+      "start": 11.74,
+      "end": 17.18,
+      "text": "Queste che vedete sono gli ingredienti e il primo passaggio è scaldare un litro di latte con una buccia di limone per dare un po' di aroma"
+    },
+    {
+      "start": 17.18,
+      "end": 20.84,
+      "text": "In un altra pentola apriamo 3 uova io ne ho utilizzate 4 ma vende consiglio 3"
+    },
+    {
+      "start": 20.84,
+      "end": 24.14,
+      "text": "Insieme a 50 grammi di amido di maize 30 grammi di dolcificante"
+    },
+    {
+      "start": 24.14,
+      "end": 30.12,
+      "text": "Iniziamo a mescare fino che non otterrete un composto unico come questo a questo punto sempre a fuoco spento aggiungiamo il latte che abbiamo"
+    },
+    {
+      "start": 30.12,
+      "end": 35.42,
+      "text": "Scaldato che lo possiamo accendere il fornello fuoco basso iniziamo a girare fino che non otterremo appunto una vera e propria crema"
+    },
+    {
+      "start": 35.42,
+      "end": 38.82,
+      "text": "Fase attenzione che non si attacchi sul fondo dopo di che si appariamo un terzo della crema"
+    },
+    {
+      "start": 38.82,
+      "end": 44.54,
+      "text": "A cui aggiungiamo 30 grammi di proteina al cioccolato e 10 grammi di cacao male non avete le proteine potete aggiungere solamente il cacao"
+    },
+    {
+      "start": 44.54,
+      "end": 50.44,
+      "text": "Mentre restanti due terzi della crema aggiungiamo delle proteine alla vaniglia anche qui non sono necessari ammarendono la ricetta più proteica una"
+    },
+    {
+      "start": 50.44,
+      "end": 56.44,
+      "text": "volta tenuto le due creme al cioccolato alla vaniglia iniziamo con un primo strato di pavesini strato di vaniglia secondo strato di pavesini"
+    },
+    {
+      "start": 56.44,
+      "end": 62.9,
+      "text": "Strato di cioccolato terzo strato di pavesini ed il quarto e ultimo strato di pavesini a questo punto lo chiudete con della pellicola in modo che"
+    },
+    {
+      "start": 62.9,
+      "end": 67.7,
+      "text": "L'umidità resta su interno e pavesini si ammorbidiscano quando lo mangiate ci spolverate sopra il cacomano"
+    },
+    {
+      "start": 67.7,
+      "end": 69.88,
+      "text": "Vi assicuro che non lo distinguerete da un dolce classico"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "word": "E"
+    },
+    {
+      "start": 0.14,
+      "end": 0.28,
+      "word": "se"
+    },
+    {
+      "start": 0.28,
+      "end": 0.38,
+      "word": "vi"
+    },
+    {
+      "start": 0.38,
+      "end": 0.7,
+      "word": "dicessi"
+    },
+    {
+      "start": 0.7,
+      "end": 0.8,
+      "word": "che"
+    },
+    {
+      "start": 0.8,
+      "end": 1.06,
+      "word": "tutta"
+    },
+    {
+      "start": 1.06,
+      "end": 1.26,
+      "word": "questa"
+    },
+    {
+      "start": 1.26,
+      "end": 1.54,
+      "word": "teglia"
+    },
+    {
+      "start": 1.54,
+      "end": 1.92,
+      "word": "meno"
+    },
+    {
+      "start": 1.92,
+      "end": 2.1,
+      "word": "di"
+    },
+    {
+      "start": 2.1,
+      "end": 2.42,
+      "word": "1600"
+    },
+    {
+      "start": 2.42,
+      "end": 3.04,
+      "word": "calorie"
+    },
+    {
+      "start": 3.04,
+      "end": 3.32,
+      "word": "oggi"
+    },
+    {
+      "start": 3.32,
+      "end": 3.54,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.54,
+      "end": 3.7,
+      "word": "vi"
+    },
+    {
+      "start": 3.7,
+      "end": 3.92,
+      "word": "porto"
+    },
+    {
+      "start": 3.92,
+      "end": 4.08,
+      "word": "la"
+    },
+    {
+      "start": 4.08,
+      "end": 4.38,
+      "word": "ricetta"
+    },
+    {
+      "start": 4.38,
+      "end": 4.54,
+      "word": "di"
+    },
+    {
+      "start": 4.54,
+      "end": 4.74,
+      "word": "questo"
+    },
+    {
+      "start": 4.74,
+      "end": 5.08,
+      "word": "dolce"
+    },
+    {
+      "start": 5.08,
+      "end": 5.34,
+      "word": "fit"
+    },
+    {
+      "start": 5.34,
+      "end": 5.52,
+      "word": "e"
+    },
+    {
+      "start": 5.52,
+      "end": 5.98,
+      "word": "proteico"
+    },
+    {
+      "start": 5.98,
+      "end": 6.24,
+      "word": "super"
+    },
+    {
+      "start": 6.24,
+      "end": 6.64,
+      "word": "light"
+    },
+    {
+      "start": 6.64,
+      "end": 6.8,
+      "word": "e"
+    },
+    {
+      "start": 6.8,
+      "end": 7.02,
+      "word": "soprattutto"
+    },
+    {
+      "start": 7.02,
+      "end": 7.56,
+      "word": "veramente"
+    },
+    {
+      "start": 7.56,
+      "end": 8.2,
+      "word": "buono"
+    },
+    {
+      "start": 8.2,
+      "end": 8.34,
+      "word": "una"
+    },
+    {
+      "start": 8.34,
+      "end": 8.66,
+      "word": "ricetta"
+    },
+    {
+      "start": 8.66,
+      "end": 9.08,
+      "word": "simile"
+    },
+    {
+      "start": 9.08,
+      "end": 9.22,
+      "word": "alla"
+    },
+    {
+      "start": 9.22,
+      "end": 9.44,
+      "word": "zuppa"
+    },
+    {
+      "start": 9.44,
+      "end": 9.8,
+      "word": "inglese"
+    },
+    {
+      "start": 9.8,
+      "end": 9.92,
+      "word": "mi"
+    },
+    {
+      "start": 9.92,
+      "end": 10.0,
+      "word": "ha"
+    },
+    {
+      "start": 10.0,
+      "end": 10.3,
+      "word": "molto"
+    },
+    {
+      "start": 10.3,
+      "end": 10.44,
+      "word": "più"
+    },
+    {
+      "start": 10.44,
+      "end": 11.0,
+      "word": "bilanciata"
+    },
+    {
+      "start": 11.0,
+      "end": 11.1,
+      "word": "e"
+    },
+    {
+      "start": 11.1,
+      "end": 11.26,
+      "word": "molto"
+    },
+    {
+      "start": 11.26,
+      "end": 11.46,
+      "word": "più"
+    },
+    {
+      "start": 11.46,
+      "end": 11.74,
+      "word": "light"
+    },
+    {
+      "start": 11.74,
+      "end": 12.02,
+      "word": "Queste"
+    },
+    {
+      "start": 12.02,
+      "end": 12.14,
+      "word": "che"
+    },
+    {
+      "start": 12.14,
+      "end": 12.4,
+      "word": "vedete"
+    },
+    {
+      "start": 12.4,
+      "end": 12.6,
+      "word": "sono"
+    },
+    {
+      "start": 12.6,
+      "end": 12.74,
+      "word": "gli"
+    },
+    {
+      "start": 12.74,
+      "end": 13.3,
+      "word": "ingredienti"
+    },
+    {
+      "start": 13.3,
+      "end": 13.42,
+      "word": "e"
+    },
+    {
+      "start": 13.42,
+      "end": 13.5,
+      "word": "il"
+    },
+    {
+      "start": 13.5,
+      "end": 13.64,
+      "word": "primo"
+    },
+    {
+      "start": 13.64,
+      "end": 14.16,
+      "word": "passaggio"
+    },
+    {
+      "start": 14.16,
+      "end": 14.28,
+      "word": "è"
+    },
+    {
+      "start": 14.28,
+      "end": 14.68,
+      "word": "scaldare"
+    },
+    {
+      "start": 14.68,
+      "end": 14.84,
+      "word": "un"
+    },
+    {
+      "start": 14.84,
+      "end": 15.0,
+      "word": "litro"
+    },
+    {
+      "start": 15.0,
+      "end": 15.12,
+      "word": "di"
+    },
+    {
+      "start": 15.12,
+      "end": 15.34,
+      "word": "latte"
+    },
+    {
+      "start": 15.34,
+      "end": 15.54,
+      "word": "con"
+    },
+    {
+      "start": 15.54,
+      "end": 15.68,
+      "word": "una"
+    },
+    {
+      "start": 15.68,
+      "end": 15.94,
+      "word": "buccia"
+    },
+    {
+      "start": 15.94,
+      "end": 16.06,
+      "word": "di"
+    },
+    {
+      "start": 16.06,
+      "end": 16.3,
+      "word": "limone"
+    },
+    {
+      "start": 16.3,
+      "end": 16.48,
+      "word": "per"
+    },
+    {
+      "start": 16.48,
+      "end": 16.62,
+      "word": "dare"
+    },
+    {
+      "start": 16.62,
+      "end": 16.74,
+      "word": "un"
+    },
+    {
+      "start": 16.74,
+      "end": 16.82,
+      "word": "po'"
+    },
+    {
+      "start": 16.9,
+      "end": 16.94,
+      "word": "di"
+    },
+    {
+      "start": 16.94,
+      "end": 17.18,
+      "word": "aroma"
+    },
+    {
+      "start": 17.18,
+      "end": 17.56,
+      "word": "In"
+    },
+    {
+      "start": 17.56,
+      "end": 17.66,
+      "word": "un"
+    },
+    {
+      "start": 17.66,
+      "end": 17.84,
+      "word": "altra"
+    },
+    {
+      "start": 17.84,
+      "end": 18.12,
+      "word": "pentola"
+    },
+    {
+      "start": 18.12,
+      "end": 18.44,
+      "word": "apriamo"
+    },
+    {
+      "start": 18.44,
+      "end": 18.64,
+      "word": "3"
+    },
+    {
+      "start": 18.64,
+      "end": 18.98,
+      "word": "uova"
+    },
+    {
+      "start": 18.98,
+      "end": 19.12,
+      "word": "io"
+    },
+    {
+      "start": 19.12,
+      "end": 19.22,
+      "word": "ne"
+    },
+    {
+      "start": 19.22,
+      "end": 19.24,
+      "word": "ho"
+    },
+    {
+      "start": 19.24,
+      "end": 19.58,
+      "word": "utilizzate"
+    },
+    {
+      "start": 19.58,
+      "end": 19.84,
+      "word": "4"
+    },
+    {
+      "start": 19.84,
+      "end": 20.06,
+      "word": "ma"
+    },
+    {
+      "start": 20.06,
+      "end": 20.22,
+      "word": "vende"
+    },
+    {
+      "start": 20.22,
+      "end": 20.6,
+      "word": "consiglio"
+    },
+    {
+      "start": 20.6,
+      "end": 20.84,
+      "word": "3"
+    },
+    {
+      "start": 20.84,
+      "end": 21.06,
+      "word": "Insieme"
+    },
+    {
+      "start": 21.06,
+      "end": 21.2,
+      "word": "a"
+    },
+    {
+      "start": 21.2,
+      "end": 21.52,
+      "word": "50"
+    },
+    {
+      "start": 21.52,
+      "end": 21.92,
+      "word": "grammi"
+    },
+    {
+      "start": 21.92,
+      "end": 22.04,
+      "word": "di"
+    },
+    {
+      "start": 22.04,
+      "end": 22.24,
+      "word": "amido"
+    },
+    {
+      "start": 22.24,
+      "end": 22.38,
+      "word": "di"
+    },
+    {
+      "start": 22.38,
+      "end": 22.7,
+      "word": "maize"
+    },
+    {
+      "start": 22.7,
+      "end": 22.96,
+      "word": "30"
+    },
+    {
+      "start": 22.96,
+      "end": 23.34,
+      "word": "grammi"
+    },
+    {
+      "start": 23.34,
+      "end": 23.46,
+      "word": "di"
+    },
+    {
+      "start": 23.46,
+      "end": 24.14,
+      "word": "dolcificante"
+    },
+    {
+      "start": 24.14,
+      "end": 24.5,
+      "word": "Iniziamo"
+    },
+    {
+      "start": 24.5,
+      "end": 24.62,
+      "word": "a"
+    },
+    {
+      "start": 24.62,
+      "end": 24.86,
+      "word": "mescare"
+    },
+    {
+      "start": 24.86,
+      "end": 25.08,
+      "word": "fino"
+    },
+    {
+      "start": 25.08,
+      "end": 25.22,
+      "word": "che"
+    },
+    {
+      "start": 25.22,
+      "end": 25.36,
+      "word": "non"
+    },
+    {
+      "start": 25.36,
+      "end": 25.7,
+      "word": "otterrete"
+    },
+    {
+      "start": 25.7,
+      "end": 25.82,
+      "word": "un"
+    },
+    {
+      "start": 25.82,
+      "end": 26.28,
+      "word": "composto"
+    },
+    {
+      "start": 26.28,
+      "end": 26.48,
+      "word": "unico"
+    },
+    {
+      "start": 26.48,
+      "end": 26.74,
+      "word": "come"
+    },
+    {
+      "start": 26.74,
+      "end": 27.12,
+      "word": "questo"
+    },
+    {
+      "start": 27.12,
+      "end": 27.28,
+      "word": "a"
+    },
+    {
+      "start": 27.28,
+      "end": 27.44,
+      "word": "questo"
+    },
+    {
+      "start": 27.44,
+      "end": 27.7,
+      "word": "punto"
+    },
+    {
+      "start": 27.7,
+      "end": 28.1,
+      "word": "sempre"
+    },
+    {
+      "start": 28.1,
+      "end": 28.32,
+      "word": "a"
+    },
+    {
+      "start": 28.32,
+      "end": 28.44,
+      "word": "fuoco"
+    },
+    {
+      "start": 28.44,
+      "end": 28.84,
+      "word": "spento"
+    },
+    {
+      "start": 28.84,
+      "end": 29.34,
+      "word": "aggiungiamo"
+    },
+    {
+      "start": 29.34,
+      "end": 29.52,
+      "word": "il"
+    },
+    {
+      "start": 29.52,
+      "end": 29.76,
+      "word": "latte"
+    },
+    {
+      "start": 29.76,
+      "end": 29.96,
+      "word": "che"
+    },
+    {
+      "start": 29.96,
+      "end": 30.12,
+      "word": "abbiamo"
+    },
+    {
+      "start": 30.12,
+      "end": 30.7,
+      "word": "Scaldato"
+    },
+    {
+      "start": 30.7,
+      "end": 30.84,
+      "word": "che"
+    },
+    {
+      "start": 30.84,
+      "end": 30.92,
+      "word": "lo"
+    },
+    {
+      "start": 30.92,
+      "end": 31.12,
+      "word": "possiamo"
+    },
+    {
+      "start": 31.12,
+      "end": 31.5,
+      "word": "accendere"
+    },
+    {
+      "start": 31.5,
+      "end": 31.64,
+      "word": "il"
+    },
+    {
+      "start": 31.64,
+      "end": 31.98,
+      "word": "fornello"
+    },
+    {
+      "start": 31.98,
+      "end": 32.18,
+      "word": "fuoco"
+    },
+    {
+      "start": 32.18,
+      "end": 32.54,
+      "word": "basso"
+    },
+    {
+      "start": 32.54,
+      "end": 32.82,
+      "word": "iniziamo"
+    },
+    {
+      "start": 32.82,
+      "end": 32.94,
+      "word": "a"
+    },
+    {
+      "start": 32.94,
+      "end": 33.3,
+      "word": "girare"
+    },
+    {
+      "start": 33.3,
+      "end": 33.48,
+      "word": "fino"
+    },
+    {
+      "start": 33.48,
+      "end": 33.66,
+      "word": "che"
+    },
+    {
+      "start": 33.66,
+      "end": 33.76,
+      "word": "non"
+    },
+    {
+      "start": 33.76,
+      "end": 34.18,
+      "word": "otterremo"
+    },
+    {
+      "start": 34.18,
+      "end": 34.46,
+      "word": "appunto"
+    },
+    {
+      "start": 34.46,
+      "end": 34.64,
+      "word": "una"
+    },
+    {
+      "start": 34.64,
+      "end": 34.84,
+      "word": "vera"
+    },
+    {
+      "start": 34.84,
+      "end": 34.86,
+      "word": "e"
+    },
+    {
+      "start": 34.86,
+      "end": 35.08,
+      "word": "propria"
+    },
+    {
+      "start": 35.08,
+      "end": 35.42,
+      "word": "crema"
+    },
+    {
+      "start": 35.42,
+      "end": 35.54,
+      "word": "Fase"
+    },
+    {
+      "start": 35.54,
+      "end": 35.92,
+      "word": "attenzione"
+    },
+    {
+      "start": 35.92,
+      "end": 36.08,
+      "word": "che"
+    },
+    {
+      "start": 36.08,
+      "end": 36.16,
+      "word": "non"
+    },
+    {
+      "start": 36.16,
+      "end": 36.26,
+      "word": "si"
+    },
+    {
+      "start": 36.26,
+      "end": 36.52,
+      "word": "attacchi"
+    },
+    {
+      "start": 36.52,
+      "end": 36.7,
+      "word": "sul"
+    },
+    {
+      "start": 36.7,
+      "end": 37.02,
+      "word": "fondo"
+    },
+    {
+      "start": 37.02,
+      "end": 37.26,
+      "word": "dopo"
+    },
+    {
+      "start": 37.26,
+      "end": 37.38,
+      "word": "di"
+    },
+    {
+      "start": 37.38,
+      "end": 37.48,
+      "word": "che"
+    },
+    {
+      "start": 37.48,
+      "end": 37.58,
+      "word": "si"
+    },
+    {
+      "start": 37.58,
+      "end": 37.84,
+      "word": "appariamo"
+    },
+    {
+      "start": 37.84,
+      "end": 38.06,
+      "word": "un"
+    },
+    {
+      "start": 38.06,
+      "end": 38.3,
+      "word": "terzo"
+    },
+    {
+      "start": 38.3,
+      "end": 38.46,
+      "word": "della"
+    },
+    {
+      "start": 38.46,
+      "end": 38.82,
+      "word": "crema"
+    },
+    {
+      "start": 38.82,
+      "end": 38.94,
+      "word": "A"
+    },
+    {
+      "start": 38.94,
+      "end": 39.0,
+      "word": "cui"
+    },
+    {
+      "start": 39.0,
+      "end": 39.38,
+      "word": "aggiungiamo"
+    },
+    {
+      "start": 39.38,
+      "end": 39.66,
+      "word": "30"
+    },
+    {
+      "start": 39.66,
+      "end": 39.96,
+      "word": "grammi"
+    },
+    {
+      "start": 39.96,
+      "end": 40.08,
+      "word": "di"
+    },
+    {
+      "start": 40.08,
+      "end": 40.38,
+      "word": "proteina"
+    },
+    {
+      "start": 40.38,
+      "end": 40.52,
+      "word": "al"
+    },
+    {
+      "start": 40.52,
+      "end": 40.96,
+      "word": "cioccolato"
+    },
+    {
+      "start": 40.96,
+      "end": 41.22,
+      "word": "e"
+    },
+    {
+      "start": 41.22,
+      "end": 41.42,
+      "word": "10"
+    },
+    {
+      "start": 41.42,
+      "end": 41.74,
+      "word": "grammi"
+    },
+    {
+      "start": 41.74,
+      "end": 41.84,
+      "word": "di"
+    },
+    {
+      "start": 41.84,
+      "end": 42.04,
+      "word": "cacao"
+    },
+    {
+      "start": 42.04,
+      "end": 42.24,
+      "word": "male"
+    },
+    {
+      "start": 42.24,
+      "end": 42.4,
+      "word": "non"
+    },
+    {
+      "start": 42.4,
+      "end": 42.58,
+      "word": "avete"
+    },
+    {
+      "start": 42.58,
+      "end": 42.7,
+      "word": "le"
+    },
+    {
+      "start": 42.7,
+      "end": 43.02,
+      "word": "proteine"
+    },
+    {
+      "start": 43.02,
+      "end": 43.28,
+      "word": "potete"
+    },
+    {
+      "start": 43.28,
+      "end": 43.72,
+      "word": "aggiungere"
+    },
+    {
+      "start": 43.72,
+      "end": 43.96,
+      "word": "solamente"
+    },
+    {
+      "start": 43.96,
+      "end": 44.22,
+      "word": "il"
+    },
+    {
+      "start": 44.22,
+      "end": 44.54,
+      "word": "cacao"
+    },
+    {
+      "start": 44.54,
+      "end": 44.84,
+      "word": "Mentre"
+    },
+    {
+      "start": 44.84,
+      "end": 45.3,
+      "word": "restanti"
+    },
+    {
+      "start": 45.3,
+      "end": 45.46,
+      "word": "due"
+    },
+    {
+      "start": 45.46,
+      "end": 45.76,
+      "word": "terzi"
+    },
+    {
+      "start": 45.76,
+      "end": 45.92,
+      "word": "della"
+    },
+    {
+      "start": 45.92,
+      "end": 46.22,
+      "word": "crema"
+    },
+    {
+      "start": 46.22,
+      "end": 46.56,
+      "word": "aggiungiamo"
+    },
+    {
+      "start": 46.56,
+      "end": 46.72,
+      "word": "delle"
+    },
+    {
+      "start": 46.72,
+      "end": 47.08,
+      "word": "proteine"
+    },
+    {
+      "start": 47.08,
+      "end": 47.24,
+      "word": "alla"
+    },
+    {
+      "start": 47.24,
+      "end": 47.7,
+      "word": "vaniglia"
+    },
+    {
+      "start": 47.7,
+      "end": 47.9,
+      "word": "anche"
+    },
+    {
+      "start": 47.9,
+      "end": 48.1,
+      "word": "qui"
+    },
+    {
+      "start": 48.1,
+      "end": 48.24,
+      "word": "non"
+    },
+    {
+      "start": 48.24,
+      "end": 48.42,
+      "word": "sono"
+    },
+    {
+      "start": 48.42,
+      "end": 48.92,
+      "word": "necessari"
+    },
+    {
+      "start": 48.92,
+      "end": 49.34,
+      "word": "ammarendono"
+    },
+    {
+      "start": 49.34,
+      "end": 49.48,
+      "word": "la"
+    },
+    {
+      "start": 49.48,
+      "end": 49.74,
+      "word": "ricetta"
+    },
+    {
+      "start": 49.74,
+      "end": 49.9,
+      "word": "più"
+    },
+    {
+      "start": 49.9,
+      "end": 50.3,
+      "word": "proteica"
+    },
+    {
+      "start": 50.3,
+      "end": 50.44,
+      "word": "una"
+    },
+    {
+      "start": 50.44,
+      "end": 50.56,
+      "word": "volta"
+    },
+    {
+      "start": 50.56,
+      "end": 50.92,
+      "word": "tenuto"
+    },
+    {
+      "start": 50.92,
+      "end": 51.02,
+      "word": "le"
+    },
+    {
+      "start": 51.02,
+      "end": 51.14,
+      "word": "due"
+    },
+    {
+      "start": 51.14,
+      "end": 51.44,
+      "word": "creme"
+    },
+    {
+      "start": 51.44,
+      "end": 51.54,
+      "word": "al"
+    },
+    {
+      "start": 51.54,
+      "end": 51.92,
+      "word": "cioccolato"
+    },
+    {
+      "start": 51.92,
+      "end": 52.02,
+      "word": "alla"
+    },
+    {
+      "start": 52.02,
+      "end": 52.44,
+      "word": "vaniglia"
+    },
+    {
+      "start": 52.44,
+      "end": 52.8,
+      "word": "iniziamo"
+    },
+    {
+      "start": 52.8,
+      "end": 52.94,
+      "word": "con"
+    },
+    {
+      "start": 52.94,
+      "end": 53.06,
+      "word": "un"
+    },
+    {
+      "start": 53.06,
+      "end": 53.24,
+      "word": "primo"
+    },
+    {
+      "start": 53.24,
+      "end": 53.72,
+      "word": "strato"
+    },
+    {
+      "start": 53.72,
+      "end": 53.82,
+      "word": "di"
+    },
+    {
+      "start": 53.82,
+      "end": 54.28,
+      "word": "pavesini"
+    },
+    {
+      "start": 54.28,
+      "end": 54.58,
+      "word": "strato"
+    },
+    {
+      "start": 54.58,
+      "end": 54.68,
+      "word": "di"
+    },
+    {
+      "start": 54.68,
+      "end": 55.1,
+      "word": "vaniglia"
+    },
+    {
+      "start": 55.1,
+      "end": 55.4,
+      "word": "secondo"
+    },
+    {
+      "start": 55.4,
+      "end": 55.84,
+      "word": "strato"
+    },
+    {
+      "start": 55.84,
+      "end": 55.94,
+      "word": "di"
+    },
+    {
+      "start": 55.94,
+      "end": 56.44,
+      "word": "pavesini"
+    },
+    {
+      "start": 56.44,
+      "end": 56.98,
+      "word": "Strato"
+    },
+    {
+      "start": 56.98,
+      "end": 57.08,
+      "word": "di"
+    },
+    {
+      "start": 57.08,
+      "end": 57.66,
+      "word": "cioccolato"
+    },
+    {
+      "start": 57.66,
+      "end": 57.98,
+      "word": "terzo"
+    },
+    {
+      "start": 57.98,
+      "end": 58.28,
+      "word": "strato"
+    },
+    {
+      "start": 58.28,
+      "end": 58.36,
+      "word": "di"
+    },
+    {
+      "start": 58.36,
+      "end": 58.96,
+      "word": "pavesini"
+    },
+    {
+      "start": 58.96,
+      "end": 59.16,
+      "word": "ed"
+    },
+    {
+      "start": 59.16,
+      "end": 59.3,
+      "word": "il"
+    },
+    {
+      "start": 59.3,
+      "end": 59.46,
+      "word": "quarto"
+    },
+    {
+      "start": 59.46,
+      "end": 59.62,
+      "word": "e"
+    },
+    {
+      "start": 59.62,
+      "end": 59.86,
+      "word": "ultimo"
+    },
+    {
+      "start": 59.86,
+      "end": 60.16,
+      "word": "strato"
+    },
+    {
+      "start": 60.16,
+      "end": 60.26,
+      "word": "di"
+    },
+    {
+      "start": 60.26,
+      "end": 60.74,
+      "word": "pavesini"
+    },
+    {
+      "start": 60.74,
+      "end": 60.84,
+      "word": "a"
+    },
+    {
+      "start": 60.84,
+      "end": 61.02,
+      "word": "questo"
+    },
+    {
+      "start": 61.02,
+      "end": 61.24,
+      "word": "punto"
+    },
+    {
+      "start": 61.24,
+      "end": 61.4,
+      "word": "lo"
+    },
+    {
+      "start": 61.4,
+      "end": 61.72,
+      "word": "chiudete"
+    },
+    {
+      "start": 61.72,
+      "end": 61.9,
+      "word": "con"
+    },
+    {
+      "start": 61.9,
+      "end": 62.04,
+      "word": "della"
+    },
+    {
+      "start": 62.04,
+      "end": 62.54,
+      "word": "pellicola"
+    },
+    {
+      "start": 62.54,
+      "end": 62.62,
+      "word": "in"
+    },
+    {
+      "start": 62.62,
+      "end": 62.72,
+      "word": "modo"
+    },
+    {
+      "start": 62.72,
+      "end": 62.9,
+      "word": "che"
+    },
+    {
+      "start": 62.9,
+      "end": 62.98,
+      "word": "L"
+    },
+    {
+      "start": 62.98,
+      "end": 63.3,
+      "word": "'umidità"
+    },
+    {
+      "start": 63.3,
+      "end": 63.66,
+      "word": "resta"
+    },
+    {
+      "start": 63.66,
+      "end": 63.78,
+      "word": "su"
+    },
+    {
+      "start": 63.78,
+      "end": 64.16,
+      "word": "interno"
+    },
+    {
+      "start": 64.16,
+      "end": 64.22,
+      "word": "e"
+    },
+    {
+      "start": 64.22,
+      "end": 64.6,
+      "word": "pavesini"
+    },
+    {
+      "start": 64.6,
+      "end": 64.72,
+      "word": "si"
+    },
+    {
+      "start": 64.72,
+      "end": 65.4,
+      "word": "ammorbidiscano"
+    },
+    {
+      "start": 65.4,
+      "end": 65.6,
+      "word": "quando"
+    },
+    {
+      "start": 65.6,
+      "end": 65.78,
+      "word": "lo"
+    },
+    {
+      "start": 65.78,
+      "end": 66.2,
+      "word": "mangiate"
+    },
+    {
+      "start": 66.2,
+      "end": 66.42,
+      "word": "ci"
+    },
+    {
+      "start": 66.42,
+      "end": 66.92,
+      "word": "spolverate"
+    },
+    {
+      "start": 66.92,
+      "end": 67.18,
+      "word": "sopra"
+    },
+    {
+      "start": 67.18,
+      "end": 67.28,
+      "word": "il"
+    },
+    {
+      "start": 67.28,
+      "end": 67.7,
+      "word": "cacomano"
+    },
+    {
+      "start": 67.7,
+      "end": 67.76,
+      "word": "Vi"
+    },
+    {
+      "start": 67.76,
+      "end": 68.08,
+      "word": "assicuro"
+    },
+    {
+      "start": 68.08,
+      "end": 68.18,
+      "word": "che"
+    },
+    {
+      "start": 68.18,
+      "end": 68.3,
+      "word": "non"
+    },
+    {
+      "start": 68.3,
+      "end": 68.4,
+      "word": "lo"
+    },
+    {
+      "start": 68.4,
+      "end": 68.98,
+      "word": "distinguerete"
+    },
+    {
+      "start": 68.98,
+      "end": 69.08,
+      "word": "da"
+    },
+    {
+      "start": 69.08,
+      "end": 69.16,
+      "word": "un"
+    },
+    {
+      "start": 69.16,
+      "end": 69.4,
+      "word": "dolce"
+    },
+    {
+      "start": 69.4,
+      "end": 69.88,
+      "word": "classico"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.833,
+      "dur": 3.833,
+      "transcript": "E se vi dicessi che tutta questa teglia meno di 1600 calorie oggi ragazzi vi porto"
+    },
+    {
+      "shot_idx": 1,
+      "start": 3.833,
+      "end": 6.067,
+      "dur": 2.233,
+      "transcript": "la ricetta di questo dolce fit e proteico"
+    },
+    {
+      "shot_idx": 2,
+      "start": 6.067,
+      "end": 7.667,
+      "dur": 1.6,
+      "transcript": "super light e soprattutto veramente"
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.667,
+      "end": 9.467,
+      "dur": 1.8,
+      "transcript": "buono una ricetta simile alla zuppa"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.467,
+      "end": 11.267,
+      "dur": 1.8,
+      "transcript": "inglese mi ha molto più bilanciata e molto"
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.267,
+      "end": 14.267,
+      "dur": 3.0,
+      "transcript": "più light Queste che vedete sono gli ingredienti e il primo passaggio è"
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.267,
+      "end": 16.033,
+      "dur": 1.767,
+      "transcript": "scaldare un litro di latte con una buccia di"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.033,
+      "end": 17.567,
+      "dur": 1.533,
+      "transcript": "limone per dare un po' di aroma In"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.567,
+      "end": 19.567,
+      "dur": 2.0,
+      "transcript": "un altra pentola apriamo 3 uova io ne ho utilizzate"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.567,
+      "end": 21.367,
+      "dur": 1.8,
+      "transcript": "4 ma vende consiglio 3 Insieme a 50"
+    },
+    {
+      "shot_idx": 10,
+      "start": 21.367,
+      "end": 22.567,
+      "dur": 1.2,
+      "transcript": "grammi di amido di maize"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.567,
+      "end": 24.4,
+      "dur": 1.833,
+      "transcript": "30 grammi di dolcificante Iniziamo"
+    },
+    {
+      "shot_idx": 12,
+      "start": 24.4,
+      "end": 26.433,
+      "dur": 2.033,
+      "transcript": "a mescare fino che non otterrete un composto unico"
+    },
+    {
+      "shot_idx": 13,
+      "start": 26.433,
+      "end": 28.467,
+      "dur": 2.033,
+      "transcript": "come questo a questo punto sempre a fuoco"
+    },
+    {
+      "shot_idx": 14,
+      "start": 28.467,
+      "end": 30.467,
+      "dur": 2.0,
+      "transcript": "spento aggiungiamo il latte che abbiamo Scaldato"
+    },
+    {
+      "shot_idx": 15,
+      "start": 30.467,
+      "end": 32.467,
+      "dur": 2.0,
+      "transcript": "che lo possiamo accendere il fornello fuoco basso"
+    },
+    {
+      "shot_idx": 16,
+      "start": 32.467,
+      "end": 35.4,
+      "dur": 2.933,
+      "transcript": "iniziamo a girare fino che non otterremo appunto una vera e propria crema"
+    },
+    {
+      "shot_idx": 17,
+      "start": 35.4,
+      "end": 37.433,
+      "dur": 2.033,
+      "transcript": "Fase attenzione che non si attacchi sul fondo dopo di che"
+    },
+    {
+      "shot_idx": 18,
+      "start": 37.433,
+      "end": 38.833,
+      "dur": 1.4,
+      "transcript": "si appariamo un terzo della crema"
+    },
+    {
+      "shot_idx": 19,
+      "start": 38.833,
+      "end": 40.433,
+      "dur": 1.6,
+      "transcript": "A cui aggiungiamo 30 grammi di proteina"
+    },
+    {
+      "shot_idx": 20,
+      "start": 40.433,
+      "end": 42.267,
+      "dur": 1.833,
+      "transcript": "al cioccolato e 10 grammi di cacao male"
+    },
+    {
+      "shot_idx": 21,
+      "start": 42.267,
+      "end": 44.067,
+      "dur": 1.8,
+      "transcript": "non avete le proteine potete aggiungere solamente"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.067,
+      "end": 46.067,
+      "dur": 2.0,
+      "transcript": "il cacao Mentre restanti due terzi della"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.067,
+      "end": 48.033,
+      "dur": 1.967,
+      "transcript": "crema aggiungiamo delle proteine alla vaniglia anche qui"
+    },
+    {
+      "shot_idx": 24,
+      "start": 48.033,
+      "end": 49.8,
+      "dur": 1.767,
+      "transcript": "non sono necessari ammarendono la ricetta"
+    },
+    {
+      "shot_idx": 25,
+      "start": 49.8,
+      "end": 51.833,
+      "dur": 2.033,
+      "transcript": "più proteica una volta tenuto le due creme al cioccolato"
+    },
+    {
+      "shot_idx": 26,
+      "start": 51.833,
+      "end": 53.167,
+      "dur": 1.333,
+      "transcript": "alla vaniglia iniziamo con un primo"
+    },
+    {
+      "shot_idx": 27,
+      "start": 53.167,
+      "end": 55.167,
+      "dur": 2.0,
+      "transcript": "strato di pavesini strato di vaniglia"
+    },
+    {
+      "shot_idx": 28,
+      "start": 55.167,
+      "end": 56.933,
+      "dur": 1.767,
+      "transcript": "secondo strato di pavesini Strato"
+    },
+    {
+      "shot_idx": 29,
+      "start": 56.933,
+      "end": 58.967,
+      "dur": 2.033,
+      "transcript": "di cioccolato terzo strato di pavesini"
+    },
+    {
+      "shot_idx": 30,
+      "start": 58.967,
+      "end": 60.767,
+      "dur": 1.8,
+      "transcript": "ed il quarto e ultimo strato di pavesini"
+    },
+    {
+      "shot_idx": 31,
+      "start": 60.767,
+      "end": 62.767,
+      "dur": 2.0,
+      "transcript": "a questo punto lo chiudete con della pellicola in modo"
+    },
+    {
+      "shot_idx": 32,
+      "start": 62.767,
+      "end": 64.767,
+      "dur": 2.0,
+      "transcript": "che L 'umidità resta su interno e pavesini si"
+    },
+    {
+      "shot_idx": 33,
+      "start": 64.767,
+      "end": 67.8,
+      "dur": 3.033,
+      "transcript": "ammorbidiscano quando lo mangiate ci spolverate sopra il cacomano Vi"
+    },
+    {
+      "shot_idx": 34,
+      "start": 67.8,
+      "end": 69.133,
+      "dur": 1.333,
+      "transcript": "assicuro che non lo distinguerete da un"
+    },
+    {
+      "shot_idx": 35,
+      "start": 69.133,
+      "end": 70.167,
+      "dur": 1.033,
+      "transcript": "dolce classico"
+    }
+  ]
+}

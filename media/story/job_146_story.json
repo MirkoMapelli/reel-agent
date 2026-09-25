@@ -1,0 +1,186 @@
+{
+  "title": "Wing Stop Arriva a Milano",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "scritta MILANO totem svela apertura esclusiva"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "parete metallica schermo pubblicitario ali glassate"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.5,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "totem touchscreen mostra menu fisico chioschi"
+    },
+    {
+      "idx": 4,
+      "type": "discovery",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente arriva al tavolo con vassoio ali"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate croccanti"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto piatti ali patate pepperoni salse"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "patate fritte dorate con branding in primo piano"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio ambiente con menu ali in sottofondo"
+    },
+    {
+      "idx": 9,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "salse diverse accostate alle ali fritte"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "mano versa bevanda da dispenser Coca-Cola Freestyle"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge bicchiere branded al tavolo"
+    },
+    {
+      "idx": 12,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente beve sorso soddisfatto tra un boccone"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani intingono ala fritta in salsa bianca"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente assaggia ala con espressione entusiasta"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "morso nell'ala mostra interno succoso"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani spezzano ala croccante sopra patate"
+    },
+    {
+      "idx": 17,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente commenta con gestualità positiva mangiando"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano finale ali glassate luccicanti irresistibili"
+    },
+    {
+      "idx": 19,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vassoio completo quasi finito soddisfazione visibile"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "cliente sorride in camera invita a provare"
+    }
+  ],
+  "edl_job_id": 146
+}

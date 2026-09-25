@@ -1,0 +1,186 @@
+{
+  "title": "Wings Top arriva in Italia - Tour esclusivo",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Claw machine Wing Stop illuminata, ali bianche dentro, impatto visivo forte"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.5,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "Totem menù digitale interattivo, selezione piatti esclusivi"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "Cliente giovane sorride guardando claw machine, entusiasmo iniziale"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Ali fritte croccanti dorate, primo piano dettagliato con panatura brillante"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "Carrello con vassoi multipli ali, patatine gialle, variety shot"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Mani afferra ali croccanti da vassoio, angolo basso dinamico"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Patatine gialle croccanti su carta branded, dettaglio texture"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Mani versa salsa bianca su patatine, gesto fluido e appetitoso"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "Mano preleva bevanda da Coca-Cola Freestyle sotto logo, primo piano"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "Cliente tiene bicchiere carta con stampa locale, piatti sullo sfondo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Bevanda accanto ali e patatine, composizione flat-lay armonica"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente assaggia ali con espressione di sorpresa positiva"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Mani spezzano ala croccante, mostra la rottura perfecta interna"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Secondo assaggio più entusiasta, nodding di approvazione"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Ali con diverse salse, varietà di flavors display"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente con bicchiere bevanda sorride, soddisfazione totale"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Close-up ultra-dettagliato ali croccanti, oro brillante, money shot"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.5,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "Carrello completo ripreso da alto, composizione finale abbondante"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "Cliente parla guardando verso camera, entusiasmo prospettico prossima visita"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 2.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Claw machine Wing Stop finale, invito implicito tornare"
+    }
+  ],
+  "edl_job_id": 131
+}

@@ -1,0 +1,2177 @@
+{
+  "video_id": "7505076580360654102",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7505076580360654102",
+    "ref_id": "ref_86_7505076580360654102",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7505076580360654102",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 28,
+  "total_dur": 55.1,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833,
+      "center": 0.917,
+      "role": "person_talking",
+      "subject": "ragazzo sorridente tacos",
+      "description": "Il ragazzo sorride mentre mostra due piatti di tacos.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "I migliori tacos di Milano oggi ragazzi"
+    },
+    {
+      "idx": 1,
+      "start": 1.833,
+      "end": 3.267,
+      "dur": 1.433,
+      "center": 2.55,
+      "role": "person_talking",
+      "subject": "ragazzo nachos",
+      "description": "Il ragazzo tiene in mano un piatto di nachos con guacamole e salsa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "vi porto a provare ci waw a"
+    },
+    {
+      "idx": 2,
+      "start": 3.267,
+      "end": 4.567,
+      "dur": 1.3,
+      "center": 3.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia taco",
+      "description": "Il ragazzo sta mangiando un taco con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tacos, un ristorante messicano"
+    },
+    {
+      "idx": 3,
+      "start": 4.567,
+      "end": 6.0,
+      "dur": 1.433,
+      "center": 5.283,
+      "role": "venue_exterior",
+      "subject": "ingresso ristorante esterno",
+      "description": "L'ingresso di un ristorante con la scritta 'CHIHU' e un totem con il menu.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "contro l 'altro un sacco di"
+    },
+    {
+      "idx": 4,
+      "start": 6.0,
+      "end": 7.467,
+      "dur": 1.467,
+      "center": 6.733,
+      "role": "menu_board",
+      "subject": "totem menu ristorante",
+      "description": "Un totem con il menu del ristorante 'CHIHUAHUA TACOS' posto davanti all'ingresso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "opzioni gluten free Noi abbiamo iniziato con"
+    },
+    {
+      "idx": 5,
+      "start": 7.467,
+      "end": 9.467,
+      "dur": 2.0,
+      "center": 8.467,
+      "role": "food_closeup",
+      "subject": "nachos con salse",
+      "description": "Un piatto di nachos colorati con diverse salse e condimenti.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "i ci waw anacios ovvero appunto dei"
+    },
+    {
+      "idx": 6,
+      "start": 9.467,
+      "end": 11.5,
+      "dur": 2.033,
+      "center": 10.483,
+      "role": "person_eating",
+      "subject": "ragazzo con nachos",
+      "description": "Un ragazzo tiene in mano un piatto di nachos, con uno sfondo di un locale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "nacios artigianali conditi con formaggio"
+    },
+    {
+      "idx": 7,
+      "start": 11.5,
+      "end": 14.167,
+      "dur": 2.667,
+      "center": 12.833,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nacho",
+      "description": "Il ragazzo sta per mangiare un singolo nacho, con il piatto ancora in mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "fuso ala pegno picco de gallo guacamole, crema"
+    },
+    {
+      "idx": 8,
+      "start": 14.167,
+      "end": 15.367,
+      "dur": 1.2,
+      "center": 14.767,
+      "role": "person_eating",
+      "subject": "ragazzo guarda nacho",
+      "description": "Il ragazzo guarda il nacho che ha in mano, con un'espressione pensierosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "di fagioli neri e una panna"
+    },
+    {
+      "idx": 9,
+      "start": 15.367,
+      "end": 16.867,
+      "dur": 1.5,
+      "center": 16.117,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nacho",
+      "description": "Il ragazzo sta mangiando il nacho, con la bocca aperta e gli occhi chiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "acida un ottimo antipasto"
+    },
+    {
+      "idx": 10,
+      "start": 16.867,
+      "end": 17.4,
+      "dur": 0.533,
+      "center": 17.133,
+      "role": "person_eating",
+      "subject": "ragazzo con nachos",
+      "description": "Un ragazzo tiene in mano una ciotola di nachos con guacamole e peperoni, guardando in camera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ideale per"
+    },
+    {
+      "idx": 11,
+      "start": 17.4,
+      "end": 20.233,
+      "dur": 2.833,
+      "center": 18.817,
+      "role": "person_eating",
+      "subject": "ragazzo mangia nacho",
+      "description": "Il ragazzo sta per mangiare un nacho con salsa, con gli occhi chiusi.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "essere condiviso perché è veramente abbondante. Dopodiché siamo passati al"
+    },
+    {
+      "idx": 12,
+      "start": 20.233,
+      "end": 22.267,
+      "dur": 2.033,
+      "center": 21.25,
+      "role": "person_eating",
+      "subject": "ragazzo con tacos",
+      "description": "Il ragazzo mostra due piatti di tacos, con uno sfondo colorato e persone sfocate.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "punto forte ovvero il loro tacos inizando col"
+    },
+    {
+      "idx": 13,
+      "start": 22.267,
+      "end": 24.3,
+      "dur": 2.033,
+      "center": 23.283,
+      "role": "food_plated",
+      "subject": "tacos e nachos",
+      "description": "Una vista ravvicinata di tacos con carne e lime, e nachos sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tacos asado ovvero una tortiglia di maes,"
+    },
+    {
+      "idx": 14,
+      "start": 24.3,
+      "end": 27.1,
+      "dur": 2.8,
+      "center": 25.7,
+      "role": "food_detail",
+      "subject": "taco con carne",
+      "description": "Un primo piano di un taco con carne, cipolla, coriandolo e salsa.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "la carne di asado Una salsa cipote leggermente piccante"
+    },
+    {
+      "idx": 15,
+      "start": 27.1,
+      "end": 31.433,
+      "dur": 4.333,
+      "center": 29.267,
+      "role": "person_eating",
+      "subject": "ragazzo mangia taco",
+      "description": "Il ragazzo tiene un taco vicino alla bocca, con altri tacos sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "della cipolla del coriando davvero un ottimo tacos semplici in modo da poter sentire a pieno il"
+    },
+    {
+      "idx": 16,
+      "start": 31.433,
+      "end": 32.633,
+      "dur": 1.2,
+      "center": 32.033,
+      "role": "person_eating",
+      "subject": "ragazzo con taco",
+      "description": "Il ragazzo guarda verso la telecamera mentre tiene un taco.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "sapore della carne e abbiamo poi"
+    },
+    {
+      "idx": 17,
+      "start": 32.633,
+      "end": 35.633,
+      "dur": 3.0,
+      "center": 34.133,
+      "role": "food_closeup",
+      "subject": "tacos con lime",
+      "description": "Due tacos ben conditi con spicchi di lime su un piatto metallico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "continuato col taco spastore con invece della copa e della pancetta"
+    },
+    {
+      "idx": 18,
+      "start": 35.633,
+      "end": 37.667,
+      "dur": 2.033,
+      "center": 36.65,
+      "role": "person_eating",
+      "subject": "ragazzo mostra taco",
+      "description": "Il ragazzo mostra un taco alla telecamera, indicando con l'altra mano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "di maiale marinata guacamole panna acida"
+    },
+    {
+      "idx": 19,
+      "start": 37.667,
+      "end": 39.633,
+      "dur": 1.967,
+      "center": 38.65,
+      "role": "person_eating",
+      "subject": "ragazzo addenta taco",
+      "description": "Il ragazzo sta per mordere un taco, con altri piatti sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "salsa roia e sempre cipolle coriando"
+    },
+    {
+      "idx": 20,
+      "start": 39.633,
+      "end": 42.067,
+      "dur": 2.433,
+      "center": 40.85,
+      "role": "food_closeup",
+      "subject": "tacos con formaggio",
+      "description": "Due tacos ricoperti di formaggio grattugiato su un piatto metallico, con una ciotolina di salsa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "insomma dei sapori più decisi rispetto all 'altro ed abbiamo"
+    },
+    {
+      "idx": 21,
+      "start": 42.067,
+      "end": 44.2,
+      "dur": 2.133,
+      "center": 43.133,
+      "role": "food_closeup",
+      "subject": "tacos con formaggio",
+      "description": "I due tacos ricoperti di formaggio sono il fulcro dell'immagine, con la salsa in secondo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "concluso con una quesadilla con la carnita di maiale"
+    },
+    {
+      "idx": 22,
+      "start": 44.2,
+      "end": 46.267,
+      "dur": 2.067,
+      "center": 45.233,
+      "role": "person_eating",
+      "subject": "ragazzo con taco",
+      "description": "Un ragazzo sorridente tiene in mano un taco, pronto a mangiarlo, con un altro taco e salsa sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "formaggio fuso e una salsa segreta salsa che è stata"
+    },
+    {
+      "idx": 23,
+      "start": 46.267,
+      "end": 48.0,
+      "dur": 1.733,
+      "center": 47.133,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta addentando il taco con espressione concentrata, mostrando il suo tatuaggio sul braccio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "davvero ottima per accompagnare la carne e che altrimenti"
+    },
+    {
+      "idx": 24,
+      "start": 48.0,
+      "end": 49.267,
+      "dur": 1.267,
+      "center": 48.633,
+      "role": "person_eating",
+      "subject": "ragazzo con cucchiaio",
+      "description": "Il ragazzo tiene un cucchiaio con del condimento sopra il taco, guardando verso il basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sarebbe stato un po' troppo asciutto"
+    },
+    {
+      "idx": 25,
+      "start": 49.267,
+      "end": 51.767,
+      "dur": 2.5,
+      "center": 50.517,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando con espressione concentrata, con un piatto vuoto davanti.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "insomma in generale davvero una delle migliori proposte per il"
+    },
+    {
+      "idx": 26,
+      "start": 51.767,
+      "end": 55.0,
+      "dur": 3.233,
+      "center": 53.383,
+      "role": "food_plated",
+      "subject": "ragazzo con tacos",
+      "description": "Il ragazzo sorride mentre mostra due piatti di tacos, con un ambiente da ristorante sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "cibo messicano Milano con appunto anche tante opzioni gluten free"
+    },
+    {
+      "idx": 27,
+      "start": 55.0,
+      "end": 55.1,
+      "dur": 0.1,
+      "center": 55.05,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "Il frame è completamente nero, indicando una transizione o la fine del video.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo sorridente tacos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride mentre mostra due piatti di tacos.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un piatto di nachos con guacamole e salsa.",
+      "shot_idx": 1,
+      "start": 1.833,
+      "end": 3.267,
+      "dur": 1.433
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un taco con un'espressione divertita.",
+      "shot_idx": 2,
+      "start": 3.267,
+      "end": 4.567,
+      "dur": 1.3
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "ingresso ristorante esterno",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'ingresso di un ristorante con la scritta 'CHIHU' e un totem con il menu.",
+      "shot_idx": 3,
+      "start": 4.567,
+      "end": 6.0,
+      "dur": 1.433
+    },
+    {
+      "idx": 4,
+      "role_visivo": "menu_board",
+      "soggetto": "totem menu ristorante",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un totem con il menu del ristorante 'CHIHUAHUA TACOS' posto davanti all'ingresso.",
+      "shot_idx": 4,
+      "start": 6.0,
+      "end": 7.467,
+      "dur": 1.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "nachos con salse",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di nachos colorati con diverse salse e condimenti.",
+      "shot_idx": 5,
+      "start": 7.467,
+      "end": 9.467,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano un piatto di nachos, con uno sfondo di un locale.",
+      "shot_idx": 6,
+      "start": 9.467,
+      "end": 11.5,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un singolo nacho, con il piatto ancora in mano.",
+      "shot_idx": 7,
+      "start": 11.5,
+      "end": 14.167,
+      "dur": 2.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo guarda nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo guarda il nacho che ha in mano, con un'espressione pensierosa.",
+      "shot_idx": 8,
+      "start": 14.167,
+      "end": 15.367,
+      "dur": 1.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nacho",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando il nacho, con la bocca aperta e gli occhi chiusi.",
+      "shot_idx": 9,
+      "start": 15.367,
+      "end": 16.867,
+      "dur": 1.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano una ciotola di nachos con guacamole e peperoni, guardando in camera.",
+      "shot_idx": 10,
+      "start": 16.867,
+      "end": 17.4,
+      "dur": 0.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia nacho",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un nacho con salsa, con gli occhi chiusi.",
+      "shot_idx": 11,
+      "start": 17.4,
+      "end": 20.233,
+      "dur": 2.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con tacos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra due piatti di tacos, con uno sfondo colorato e persone sfocate.",
+      "shot_idx": 12,
+      "start": 20.233,
+      "end": 22.267,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "tacos e nachos",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una vista ravvicinata di tacos con carne e lime, e nachos sullo sfondo.",
+      "shot_idx": 13,
+      "start": 22.267,
+      "end": 24.3,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "taco con carne",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano di un taco con carne, cipolla, coriandolo e salsa.",
+      "shot_idx": 14,
+      "start": 24.3,
+      "end": 27.1,
+      "dur": 2.8
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un taco vicino alla bocca, con altri tacos sul tavolo.",
+      "shot_idx": 15,
+      "start": 27.1,
+      "end": 31.433,
+      "dur": 4.333
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo guarda verso la telecamera mentre tiene un taco.",
+      "shot_idx": 16,
+      "start": 31.433,
+      "end": 32.633,
+      "dur": 1.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "tacos con lime",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos ben conditi con spicchi di lime su un piatto metallico.",
+      "shot_idx": 17,
+      "start": 32.633,
+      "end": 35.633,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo mostra un taco alla telecamera, indicando con l'altra mano.",
+      "shot_idx": 18,
+      "start": 35.633,
+      "end": 37.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mordere un taco, con altri piatti sul tavolo.",
+      "shot_idx": 19,
+      "start": 37.667,
+      "end": 39.633,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "tacos con formaggio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos ricoperti di formaggio grattugiato su un piatto metallico, con una ciotolina di salsa.",
+      "shot_idx": 20,
+      "start": 39.633,
+      "end": 42.067,
+      "dur": 2.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "tacos con formaggio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I due tacos ricoperti di formaggio sono il fulcro dell'immagine, con la salsa in secondo piano.",
+      "shot_idx": 21,
+      "start": 42.067,
+      "end": 44.2,
+      "dur": 2.133
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con taco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente tiene in mano un taco, pronto a mangiarlo, con un altro taco e salsa sul tavolo.",
+      "shot_idx": 22,
+      "start": 44.2,
+      "end": 46.267,
+      "dur": 2.067
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando il taco con espressione concentrata, mostrando il suo tatuaggio sul braccio.",
+      "shot_idx": 23,
+      "start": 46.267,
+      "end": 48.0,
+      "dur": 1.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con cucchiaio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un cucchiaio con del condimento sopra il taco, guardando verso il basso.",
+      "shot_idx": 24,
+      "start": 48.0,
+      "end": 49.267,
+      "dur": 1.267
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando con espressione concentrata, con un piatto vuoto davanti.",
+      "shot_idx": 25,
+      "start": 49.267,
+      "end": 51.767,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "ragazzo con tacos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre mostra due piatti di tacos, con un ambiente da ristorante sullo sfondo.",
+      "shot_idx": 26,
+      "start": 51.767,
+      "end": 55.0,
+      "dur": 3.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "schermo nero",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il frame è completamente nero, indicando una transizione o la fine del video.",
+      "shot_idx": 27,
+      "start": 55.0,
+      "end": 55.1,
+      "dur": 0.1
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.72,
+      "text": "I migliori tacos di Milano oggi ragazzi vi porto a provare ci waw a tacos, un ristorante messicano contro l'altro un sacco di opzioni gluten free"
+    },
+    {
+      "start": 6.72,
+      "end": 13.3,
+      "text": "Noi abbiamo iniziato con i ci waw anacios ovvero appunto dei nacios artigianali conditi con formaggio fuso ala pegno picco de gallo"
+    },
+    {
+      "start": 13.3,
+      "end": 18.54,
+      "text": "guacamole, crema di fagioli neri e una panna acida un ottimo antipasto ideale per essere condiviso perché è veramente"
+    },
+    {
+      "start": 18.54,
+      "end": 25.18,
+      "text": "abbondante. Dopodiché siamo passati al punto forte ovvero il loro tacos inizando col tacos asado ovvero una tortiglia di maes, la carne di asado"
+    },
+    {
+      "start": 25.18,
+      "end": 29.98,
+      "text": "Una salsa cipote leggermente piccante della cipolla del coriando davvero un ottimo tacos semplici"
+    },
+    {
+      "start": 30.0,
+      "end": 35.72,
+      "text": "in modo da poter sentire a pieno il sapore della carne e abbiamo poi continuato col taco spastore con invece della copa e della pancetta di"
+    },
+    {
+      "start": 35.72,
+      "end": 41.58,
+      "text": "maiale marinata guacamole panna acida salsa roia e sempre cipolle coriando insomma dei sapori più decisi rispetto all'altro"
+    },
+    {
+      "start": 41.58,
+      "end": 47.7,
+      "text": "ed abbiamo concluso con una quesadilla con la carnita di maiale formaggio fuso e una salsa segreta salsa che è stata davvero ottima per accompagnare la carne"
+    },
+    {
+      "start": 47.7,
+      "end": 52.42,
+      "text": "e che altrimenti sarebbe stato un po' troppo asciutto insomma in generale davvero una delle migliori proposte per il cibo messicano"
+    },
+    {
+      "start": 52.42,
+      "end": 54.72,
+      "text": "Milano con appunto anche tante opzioni gluten free"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "I"
+    },
+    {
+      "start": 0.22,
+      "end": 0.58,
+      "word": "migliori"
+    },
+    {
+      "start": 0.58,
+      "end": 0.78,
+      "word": "tacos"
+    },
+    {
+      "start": 0.78,
+      "end": 1.02,
+      "word": "di"
+    },
+    {
+      "start": 1.02,
+      "end": 1.4,
+      "word": "Milano"
+    },
+    {
+      "start": 1.4,
+      "end": 1.68,
+      "word": "oggi"
+    },
+    {
+      "start": 1.68,
+      "end": 1.96,
+      "word": "ragazzi"
+    },
+    {
+      "start": 1.96,
+      "end": 2.1,
+      "word": "vi"
+    },
+    {
+      "start": 2.1,
+      "end": 2.36,
+      "word": "porto"
+    },
+    {
+      "start": 2.36,
+      "end": 2.4,
+      "word": "a"
+    },
+    {
+      "start": 2.4,
+      "end": 2.68,
+      "word": "provare"
+    },
+    {
+      "start": 2.68,
+      "end": 2.84,
+      "word": "ci"
+    },
+    {
+      "start": 2.84,
+      "end": 3.04,
+      "word": "waw"
+    },
+    {
+      "start": 3.04,
+      "end": 3.22,
+      "word": "a"
+    },
+    {
+      "start": 3.22,
+      "end": 3.5,
+      "word": "tacos,"
+    },
+    {
+      "start": 3.72,
+      "end": 3.8,
+      "word": "un"
+    },
+    {
+      "start": 3.8,
+      "end": 4.24,
+      "word": "ristorante"
+    },
+    {
+      "start": 4.24,
+      "end": 4.78,
+      "word": "messicano"
+    },
+    {
+      "start": 4.78,
+      "end": 5.08,
+      "word": "contro"
+    },
+    {
+      "start": 5.08,
+      "end": 5.22,
+      "word": "l"
+    },
+    {
+      "start": 5.22,
+      "end": 5.32,
+      "word": "'altro"
+    },
+    {
+      "start": 5.32,
+      "end": 5.5,
+      "word": "un"
+    },
+    {
+      "start": 5.5,
+      "end": 5.82,
+      "word": "sacco"
+    },
+    {
+      "start": 5.82,
+      "end": 5.9,
+      "word": "di"
+    },
+    {
+      "start": 5.9,
+      "end": 6.16,
+      "word": "opzioni"
+    },
+    {
+      "start": 6.16,
+      "end": 6.46,
+      "word": "gluten"
+    },
+    {
+      "start": 6.46,
+      "end": 6.72,
+      "word": "free"
+    },
+    {
+      "start": 6.72,
+      "end": 6.94,
+      "word": "Noi"
+    },
+    {
+      "start": 6.94,
+      "end": 7.04,
+      "word": "abbiamo"
+    },
+    {
+      "start": 7.04,
+      "end": 7.38,
+      "word": "iniziato"
+    },
+    {
+      "start": 7.38,
+      "end": 7.54,
+      "word": "con"
+    },
+    {
+      "start": 7.54,
+      "end": 7.62,
+      "word": "i"
+    },
+    {
+      "start": 7.62,
+      "end": 7.72,
+      "word": "ci"
+    },
+    {
+      "start": 7.72,
+      "end": 7.92,
+      "word": "waw"
+    },
+    {
+      "start": 7.92,
+      "end": 8.48,
+      "word": "anacios"
+    },
+    {
+      "start": 8.48,
+      "end": 8.86,
+      "word": "ovvero"
+    },
+    {
+      "start": 8.86,
+      "end": 9.08,
+      "word": "appunto"
+    },
+    {
+      "start": 9.08,
+      "end": 9.3,
+      "word": "dei"
+    },
+    {
+      "start": 9.3,
+      "end": 9.64,
+      "word": "nacios"
+    },
+    {
+      "start": 9.64,
+      "end": 10.32,
+      "word": "artigianali"
+    },
+    {
+      "start": 10.32,
+      "end": 10.8,
+      "word": "conditi"
+    },
+    {
+      "start": 10.8,
+      "end": 10.98,
+      "word": "con"
+    },
+    {
+      "start": 10.98,
+      "end": 11.32,
+      "word": "formaggio"
+    },
+    {
+      "start": 11.32,
+      "end": 11.7,
+      "word": "fuso"
+    },
+    {
+      "start": 11.7,
+      "end": 12.04,
+      "word": "ala"
+    },
+    {
+      "start": 12.04,
+      "end": 12.44,
+      "word": "pegno"
+    },
+    {
+      "start": 12.44,
+      "end": 12.76,
+      "word": "picco"
+    },
+    {
+      "start": 12.76,
+      "end": 12.88,
+      "word": "de"
+    },
+    {
+      "start": 12.88,
+      "end": 13.3,
+      "word": "gallo"
+    },
+    {
+      "start": 13.3,
+      "end": 13.9,
+      "word": "guacamole,"
+    },
+    {
+      "start": 13.96,
+      "end": 14.12,
+      "word": "crema"
+    },
+    {
+      "start": 14.12,
+      "end": 14.22,
+      "word": "di"
+    },
+    {
+      "start": 14.22,
+      "end": 14.48,
+      "word": "fagioli"
+    },
+    {
+      "start": 14.48,
+      "end": 14.82,
+      "word": "neri"
+    },
+    {
+      "start": 14.82,
+      "end": 15.04,
+      "word": "e"
+    },
+    {
+      "start": 15.04,
+      "end": 15.16,
+      "word": "una"
+    },
+    {
+      "start": 15.16,
+      "end": 15.36,
+      "word": "panna"
+    },
+    {
+      "start": 15.36,
+      "end": 15.76,
+      "word": "acida"
+    },
+    {
+      "start": 15.76,
+      "end": 15.96,
+      "word": "un"
+    },
+    {
+      "start": 15.96,
+      "end": 16.18,
+      "word": "ottimo"
+    },
+    {
+      "start": 16.18,
+      "end": 16.68,
+      "word": "antipasto"
+    },
+    {
+      "start": 16.68,
+      "end": 17.18,
+      "word": "ideale"
+    },
+    {
+      "start": 17.18,
+      "end": 17.32,
+      "word": "per"
+    },
+    {
+      "start": 17.32,
+      "end": 17.48,
+      "word": "essere"
+    },
+    {
+      "start": 17.48,
+      "end": 17.96,
+      "word": "condiviso"
+    },
+    {
+      "start": 17.96,
+      "end": 18.16,
+      "word": "perché"
+    },
+    {
+      "start": 18.16,
+      "end": 18.3,
+      "word": "è"
+    },
+    {
+      "start": 18.3,
+      "end": 18.54,
+      "word": "veramente"
+    },
+    {
+      "start": 18.54,
+      "end": 19.06,
+      "word": "abbondante."
+    },
+    {
+      "start": 19.1,
+      "end": 19.42,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 19.42,
+      "end": 19.6,
+      "word": "siamo"
+    },
+    {
+      "start": 19.6,
+      "end": 20.02,
+      "word": "passati"
+    },
+    {
+      "start": 20.02,
+      "end": 20.16,
+      "word": "al"
+    },
+    {
+      "start": 20.16,
+      "end": 20.34,
+      "word": "punto"
+    },
+    {
+      "start": 20.34,
+      "end": 20.74,
+      "word": "forte"
+    },
+    {
+      "start": 20.74,
+      "end": 21.04,
+      "word": "ovvero"
+    },
+    {
+      "start": 21.04,
+      "end": 21.14,
+      "word": "il"
+    },
+    {
+      "start": 21.14,
+      "end": 21.22,
+      "word": "loro"
+    },
+    {
+      "start": 21.22,
+      "end": 21.62,
+      "word": "tacos"
+    },
+    {
+      "start": 21.62,
+      "end": 22.1,
+      "word": "inizando"
+    },
+    {
+      "start": 22.1,
+      "end": 22.32,
+      "word": "col"
+    },
+    {
+      "start": 22.32,
+      "end": 22.56,
+      "word": "tacos"
+    },
+    {
+      "start": 22.56,
+      "end": 23.02,
+      "word": "asado"
+    },
+    {
+      "start": 23.02,
+      "end": 23.26,
+      "word": "ovvero"
+    },
+    {
+      "start": 23.26,
+      "end": 23.44,
+      "word": "una"
+    },
+    {
+      "start": 23.44,
+      "end": 23.82,
+      "word": "tortiglia"
+    },
+    {
+      "start": 23.82,
+      "end": 23.94,
+      "word": "di"
+    },
+    {
+      "start": 23.94,
+      "end": 24.26,
+      "word": "maes,"
+    },
+    {
+      "start": 24.36,
+      "end": 24.48,
+      "word": "la"
+    },
+    {
+      "start": 24.48,
+      "end": 24.7,
+      "word": "carne"
+    },
+    {
+      "start": 24.7,
+      "end": 24.84,
+      "word": "di"
+    },
+    {
+      "start": 24.84,
+      "end": 25.18,
+      "word": "asado"
+    },
+    {
+      "start": 25.18,
+      "end": 25.38,
+      "word": "Una"
+    },
+    {
+      "start": 25.38,
+      "end": 25.64,
+      "word": "salsa"
+    },
+    {
+      "start": 25.64,
+      "end": 26.14,
+      "word": "cipote"
+    },
+    {
+      "start": 26.14,
+      "end": 26.7,
+      "word": "leggermente"
+    },
+    {
+      "start": 26.7,
+      "end": 27.22,
+      "word": "piccante"
+    },
+    {
+      "start": 27.22,
+      "end": 27.48,
+      "word": "della"
+    },
+    {
+      "start": 27.48,
+      "end": 27.84,
+      "word": "cipolla"
+    },
+    {
+      "start": 27.84,
+      "end": 28.02,
+      "word": "del"
+    },
+    {
+      "start": 28.02,
+      "end": 28.42,
+      "word": "coriando"
+    },
+    {
+      "start": 28.42,
+      "end": 28.7,
+      "word": "davvero"
+    },
+    {
+      "start": 28.7,
+      "end": 28.84,
+      "word": "un"
+    },
+    {
+      "start": 28.84,
+      "end": 29.04,
+      "word": "ottimo"
+    },
+    {
+      "start": 29.04,
+      "end": 29.42,
+      "word": "tacos"
+    },
+    {
+      "start": 29.42,
+      "end": 29.98,
+      "word": "semplici"
+    },
+    {
+      "start": 30.0,
+      "end": 30.12,
+      "word": "in"
+    },
+    {
+      "start": 30.12,
+      "end": 30.2,
+      "word": "modo"
+    },
+    {
+      "start": 30.2,
+      "end": 30.38,
+      "word": "da"
+    },
+    {
+      "start": 30.38,
+      "end": 30.58,
+      "word": "poter"
+    },
+    {
+      "start": 30.58,
+      "end": 30.92,
+      "word": "sentire"
+    },
+    {
+      "start": 30.92,
+      "end": 31.04,
+      "word": "a"
+    },
+    {
+      "start": 31.04,
+      "end": 31.32,
+      "word": "pieno"
+    },
+    {
+      "start": 31.32,
+      "end": 31.4,
+      "word": "il"
+    },
+    {
+      "start": 31.4,
+      "end": 31.6,
+      "word": "sapore"
+    },
+    {
+      "start": 31.6,
+      "end": 31.76,
+      "word": "della"
+    },
+    {
+      "start": 31.76,
+      "end": 32.14,
+      "word": "carne"
+    },
+    {
+      "start": 32.14,
+      "end": 32.32,
+      "word": "e"
+    },
+    {
+      "start": 32.32,
+      "end": 32.5,
+      "word": "abbiamo"
+    },
+    {
+      "start": 32.5,
+      "end": 32.62,
+      "word": "poi"
+    },
+    {
+      "start": 32.62,
+      "end": 33.04,
+      "word": "continuato"
+    },
+    {
+      "start": 33.04,
+      "end": 33.22,
+      "word": "col"
+    },
+    {
+      "start": 33.22,
+      "end": 33.44,
+      "word": "taco"
+    },
+    {
+      "start": 33.44,
+      "end": 34.12,
+      "word": "spastore"
+    },
+    {
+      "start": 34.12,
+      "end": 34.28,
+      "word": "con"
+    },
+    {
+      "start": 34.28,
+      "end": 34.54,
+      "word": "invece"
+    },
+    {
+      "start": 34.54,
+      "end": 34.78,
+      "word": "della"
+    },
+    {
+      "start": 34.78,
+      "end": 35.12,
+      "word": "copa"
+    },
+    {
+      "start": 35.12,
+      "end": 35.14,
+      "word": "e"
+    },
+    {
+      "start": 35.14,
+      "end": 35.26,
+      "word": "della"
+    },
+    {
+      "start": 35.26,
+      "end": 35.6,
+      "word": "pancetta"
+    },
+    {
+      "start": 35.6,
+      "end": 35.72,
+      "word": "di"
+    },
+    {
+      "start": 35.72,
+      "end": 36.0,
+      "word": "maiale"
+    },
+    {
+      "start": 36.0,
+      "end": 36.52,
+      "word": "marinata"
+    },
+    {
+      "start": 36.52,
+      "end": 36.96,
+      "word": "guacamole"
+    },
+    {
+      "start": 36.96,
+      "end": 37.26,
+      "word": "panna"
+    },
+    {
+      "start": 37.26,
+      "end": 37.56,
+      "word": "acida"
+    },
+    {
+      "start": 37.56,
+      "end": 37.88,
+      "word": "salsa"
+    },
+    {
+      "start": 37.88,
+      "end": 38.36,
+      "word": "roia"
+    },
+    {
+      "start": 38.36,
+      "end": 38.54,
+      "word": "e"
+    },
+    {
+      "start": 38.54,
+      "end": 38.76,
+      "word": "sempre"
+    },
+    {
+      "start": 38.76,
+      "end": 39.16,
+      "word": "cipolle"
+    },
+    {
+      "start": 39.16,
+      "end": 39.6,
+      "word": "coriando"
+    },
+    {
+      "start": 39.6,
+      "end": 39.92,
+      "word": "insomma"
+    },
+    {
+      "start": 39.92,
+      "end": 40.08,
+      "word": "dei"
+    },
+    {
+      "start": 40.08,
+      "end": 40.36,
+      "word": "sapori"
+    },
+    {
+      "start": 40.36,
+      "end": 40.48,
+      "word": "più"
+    },
+    {
+      "start": 40.48,
+      "end": 40.92,
+      "word": "decisi"
+    },
+    {
+      "start": 40.92,
+      "end": 41.2,
+      "word": "rispetto"
+    },
+    {
+      "start": 41.2,
+      "end": 41.4,
+      "word": "all"
+    },
+    {
+      "start": 41.4,
+      "end": 41.58,
+      "word": "'altro"
+    },
+    {
+      "start": 41.58,
+      "end": 41.68,
+      "word": "ed"
+    },
+    {
+      "start": 41.68,
+      "end": 41.84,
+      "word": "abbiamo"
+    },
+    {
+      "start": 41.84,
+      "end": 42.34,
+      "word": "concluso"
+    },
+    {
+      "start": 42.34,
+      "end": 42.44,
+      "word": "con"
+    },
+    {
+      "start": 42.44,
+      "end": 42.58,
+      "word": "una"
+    },
+    {
+      "start": 42.58,
+      "end": 43.08,
+      "word": "quesadilla"
+    },
+    {
+      "start": 43.08,
+      "end": 43.24,
+      "word": "con"
+    },
+    {
+      "start": 43.24,
+      "end": 43.34,
+      "word": "la"
+    },
+    {
+      "start": 43.34,
+      "end": 43.74,
+      "word": "carnita"
+    },
+    {
+      "start": 43.74,
+      "end": 43.84,
+      "word": "di"
+    },
+    {
+      "start": 43.84,
+      "end": 44.26,
+      "word": "maiale"
+    },
+    {
+      "start": 44.26,
+      "end": 44.62,
+      "word": "formaggio"
+    },
+    {
+      "start": 44.62,
+      "end": 44.92,
+      "word": "fuso"
+    },
+    {
+      "start": 44.92,
+      "end": 44.98,
+      "word": "e"
+    },
+    {
+      "start": 44.98,
+      "end": 45.04,
+      "word": "una"
+    },
+    {
+      "start": 45.04,
+      "end": 45.2,
+      "word": "salsa"
+    },
+    {
+      "start": 45.2,
+      "end": 45.7,
+      "word": "segreta"
+    },
+    {
+      "start": 45.7,
+      "end": 45.84,
+      "word": "salsa"
+    },
+    {
+      "start": 45.84,
+      "end": 46.04,
+      "word": "che"
+    },
+    {
+      "start": 46.04,
+      "end": 46.1,
+      "word": "è"
+    },
+    {
+      "start": 46.1,
+      "end": 46.2,
+      "word": "stata"
+    },
+    {
+      "start": 46.2,
+      "end": 46.56,
+      "word": "davvero"
+    },
+    {
+      "start": 46.56,
+      "end": 46.82,
+      "word": "ottima"
+    },
+    {
+      "start": 46.82,
+      "end": 46.96,
+      "word": "per"
+    },
+    {
+      "start": 46.96,
+      "end": 47.36,
+      "word": "accompagnare"
+    },
+    {
+      "start": 47.36,
+      "end": 47.48,
+      "word": "la"
+    },
+    {
+      "start": 47.48,
+      "end": 47.7,
+      "word": "carne"
+    },
+    {
+      "start": 47.7,
+      "end": 47.78,
+      "word": "e"
+    },
+    {
+      "start": 47.78,
+      "end": 47.8,
+      "word": "che"
+    },
+    {
+      "start": 47.8,
+      "end": 48.18,
+      "word": "altrimenti"
+    },
+    {
+      "start": 48.18,
+      "end": 48.42,
+      "word": "sarebbe"
+    },
+    {
+      "start": 48.42,
+      "end": 48.56,
+      "word": "stato"
+    },
+    {
+      "start": 48.56,
+      "end": 48.68,
+      "word": "un"
+    },
+    {
+      "start": 48.68,
+      "end": 48.8,
+      "word": "po'"
+    },
+    {
+      "start": 48.88,
+      "end": 49.02,
+      "word": "troppo"
+    },
+    {
+      "start": 49.02,
+      "end": 49.3,
+      "word": "asciutto"
+    },
+    {
+      "start": 49.3,
+      "end": 49.6,
+      "word": "insomma"
+    },
+    {
+      "start": 49.6,
+      "end": 49.72,
+      "word": "in"
+    },
+    {
+      "start": 49.72,
+      "end": 50.12,
+      "word": "generale"
+    },
+    {
+      "start": 50.12,
+      "end": 50.42,
+      "word": "davvero"
+    },
+    {
+      "start": 50.42,
+      "end": 50.58,
+      "word": "una"
+    },
+    {
+      "start": 50.58,
+      "end": 50.72,
+      "word": "delle"
+    },
+    {
+      "start": 50.72,
+      "end": 51.08,
+      "word": "migliori"
+    },
+    {
+      "start": 51.08,
+      "end": 51.56,
+      "word": "proposte"
+    },
+    {
+      "start": 51.56,
+      "end": 51.7,
+      "word": "per"
+    },
+    {
+      "start": 51.7,
+      "end": 51.82,
+      "word": "il"
+    },
+    {
+      "start": 51.82,
+      "end": 51.98,
+      "word": "cibo"
+    },
+    {
+      "start": 51.98,
+      "end": 52.42,
+      "word": "messicano"
+    },
+    {
+      "start": 52.42,
+      "end": 52.88,
+      "word": "Milano"
+    },
+    {
+      "start": 52.88,
+      "end": 52.98,
+      "word": "con"
+    },
+    {
+      "start": 52.98,
+      "end": 53.3,
+      "word": "appunto"
+    },
+    {
+      "start": 53.3,
+      "end": 53.64,
+      "word": "anche"
+    },
+    {
+      "start": 53.64,
+      "end": 53.92,
+      "word": "tante"
+    },
+    {
+      "start": 53.92,
+      "end": 54.24,
+      "word": "opzioni"
+    },
+    {
+      "start": 54.24,
+      "end": 54.44,
+      "word": "gluten"
+    },
+    {
+      "start": 54.44,
+      "end": 54.72,
+      "word": "free"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.833,
+      "dur": 1.833,
+      "transcript": "I migliori tacos di Milano oggi ragazzi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.833,
+      "end": 3.267,
+      "dur": 1.433,
+      "transcript": "vi porto a provare ci waw a"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.267,
+      "end": 4.567,
+      "dur": 1.3,
+      "transcript": "tacos, un ristorante messicano"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.567,
+      "end": 6.0,
+      "dur": 1.433,
+      "transcript": "contro l 'altro un sacco di"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.0,
+      "end": 7.467,
+      "dur": 1.467,
+      "transcript": "opzioni gluten free Noi abbiamo iniziato con"
+    },
+    {
+      "shot_idx": 5,
+      "start": 7.467,
+      "end": 9.467,
+      "dur": 2.0,
+      "transcript": "i ci waw anacios ovvero appunto dei"
+    },
+    {
+      "shot_idx": 6,
+      "start": 9.467,
+      "end": 11.5,
+      "dur": 2.033,
+      "transcript": "nacios artigianali conditi con formaggio"
+    },
+    {
+      "shot_idx": 7,
+      "start": 11.5,
+      "end": 14.167,
+      "dur": 2.667,
+      "transcript": "fuso ala pegno picco de gallo guacamole, crema"
+    },
+    {
+      "shot_idx": 8,
+      "start": 14.167,
+      "end": 15.367,
+      "dur": 1.2,
+      "transcript": "di fagioli neri e una panna"
+    },
+    {
+      "shot_idx": 9,
+      "start": 15.367,
+      "end": 16.867,
+      "dur": 1.5,
+      "transcript": "acida un ottimo antipasto"
+    },
+    {
+      "shot_idx": 10,
+      "start": 16.867,
+      "end": 17.4,
+      "dur": 0.533,
+      "transcript": "ideale per"
+    },
+    {
+      "shot_idx": 11,
+      "start": 17.4,
+      "end": 20.233,
+      "dur": 2.833,
+      "transcript": "essere condiviso perché è veramente abbondante. Dopodiché siamo passati al"
+    },
+    {
+      "shot_idx": 12,
+      "start": 20.233,
+      "end": 22.267,
+      "dur": 2.033,
+      "transcript": "punto forte ovvero il loro tacos inizando col"
+    },
+    {
+      "shot_idx": 13,
+      "start": 22.267,
+      "end": 24.3,
+      "dur": 2.033,
+      "transcript": "tacos asado ovvero una tortiglia di maes,"
+    },
+    {
+      "shot_idx": 14,
+      "start": 24.3,
+      "end": 27.1,
+      "dur": 2.8,
+      "transcript": "la carne di asado Una salsa cipote leggermente piccante"
+    },
+    {
+      "shot_idx": 15,
+      "start": 27.1,
+      "end": 31.433,
+      "dur": 4.333,
+      "transcript": "della cipolla del coriando davvero un ottimo tacos semplici in modo da poter sentire a pieno il"
+    },
+    {
+      "shot_idx": 16,
+      "start": 31.433,
+      "end": 32.633,
+      "dur": 1.2,
+      "transcript": "sapore della carne e abbiamo poi"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.633,
+      "end": 35.633,
+      "dur": 3.0,
+      "transcript": "continuato col taco spastore con invece della copa e della pancetta"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.633,
+      "end": 37.667,
+      "dur": 2.033,
+      "transcript": "di maiale marinata guacamole panna acida"
+    },
+    {
+      "shot_idx": 19,
+      "start": 37.667,
+      "end": 39.633,
+      "dur": 1.967,
+      "transcript": "salsa roia e sempre cipolle coriando"
+    },
+    {
+      "shot_idx": 20,
+      "start": 39.633,
+      "end": 42.067,
+      "dur": 2.433,
+      "transcript": "insomma dei sapori più decisi rispetto all 'altro ed abbiamo"
+    },
+    {
+      "shot_idx": 21,
+      "start": 42.067,
+      "end": 44.2,
+      "dur": 2.133,
+      "transcript": "concluso con una quesadilla con la carnita di maiale"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.2,
+      "end": 46.267,
+      "dur": 2.067,
+      "transcript": "formaggio fuso e una salsa segreta salsa che è stata"
+    },
+    {
+      "shot_idx": 23,
+      "start": 46.267,
+      "end": 48.0,
+      "dur": 1.733,
+      "transcript": "davvero ottima per accompagnare la carne e che altrimenti"
+    },
+    {
+      "shot_idx": 24,
+      "start": 48.0,
+      "end": 49.267,
+      "dur": 1.267,
+      "transcript": "sarebbe stato un po' troppo asciutto"
+    },
+    {
+      "shot_idx": 25,
+      "start": 49.267,
+      "end": 51.767,
+      "dur": 2.5,
+      "transcript": "insomma in generale davvero una delle migliori proposte per il"
+    },
+    {
+      "shot_idx": 26,
+      "start": 51.767,
+      "end": 55.0,
+      "dur": 3.233,
+      "transcript": "cibo messicano Milano con appunto anche tante opzioni gluten free"
+    },
+    {
+      "shot_idx": 27,
+      "start": 55.0,
+      "end": 55.1,
+      "dur": 0.1,
+      "transcript": ""
+    }
+  ],
+  "full_text": "I migliori tacos di Milano oggi ragazzi vi porto a provare ci waw a tacos, un ristorante messicano contro l'altro un sacco di opzioni gluten free Noi abbiamo iniziato con i ci waw anacios ovvero appunto dei nacios artigianali conditi con formaggio fuso ala pegno picco de gallo guacamole, crema di fagioli neri e una panna acida un ottimo antipasto ideale per essere condiviso perché è veramente abbondante. Dopodiché siamo passati al punto forte ovvero il loro tacos inizando col tacos asado ovvero una tortiglia di maes, la carne di asado Una salsa cipote leggermente piccante della cipolla del coriando davvero un ottimo tacos semplici in modo da poter sentire a pieno il sapore della carne e abbiamo poi continuato col taco spastore con invece della copa e della pancetta di maiale marinata guacamole panna acida salsa roia e sempre cipolle coriando insomma dei sapori più decisi rispetto all'altro ed abbiamo concluso con una quesadilla con la carnita di maiale formaggio fuso e una salsa segreta salsa che è stata davvero ottima per accompagnare la carne e che altrimenti sarebbe stato un po' troppo asciutto insomma in generale davvero una delle migliori proposte per il cibo messicano Milano con appunto anche tante opzioni gluten free",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

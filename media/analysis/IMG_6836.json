@@ -1,0 +1,61 @@
+{
+  "name": "IMG_6836.MOV",
+  "path": "/opt/reel-agent/media/raw/IMG_6836.MOV",
+  "info": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration": 8.33,
+    "rotation": 270,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": 48000
+  },
+  "scenes": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.2,
+      "duration": 3.2,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6836/scene_000_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 95.0,
+      "brightness": 161.0,
+      "contrast": 54.9,
+      "blur_score": 316.1
+    },
+    {
+      "idx": 1,
+      "start": 3.2,
+      "end": 5.3,
+      "duration": 2.1,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6836/scene_001_sheet.jpg",
+      "motion_type": "pan_slow",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 99.5,
+      "brightness": 145.5,
+      "contrast": 67.4,
+      "blur_score": 532.2
+    },
+    {
+      "idx": 2,
+      "start": 5.3,
+      "end": 8.33,
+      "duration": 3.03,
+      "contact_sheet_path": "/opt/reel-agent/media/frames/raw_job_185/IMG_6836/scene_002_sheet.jpg",
+      "motion_type": "handheld_stable",
+      "motion_quality": "good",
+      "composition": "wide",
+      "stability_score": 93.3,
+      "brightness": 145.9,
+      "contrast": 65.4,
+      "blur_score": 406.5
+    }
+  ],
+  "transcript": [],
+  "audio_path": "/opt/reel-agent/media/audio/raw_job_185/IMG_6836.wav"
+}

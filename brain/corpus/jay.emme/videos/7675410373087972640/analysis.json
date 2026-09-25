@@ -1,0 +1,3386 @@
+{
+  "video_id": "7675410373087972640",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7675410373087972640",
+    "ref_id": "ref_05_7675410373087972640",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7675410373087972640",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 41,
+  "total_dur": 91.9,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.233,
+      "dur": 2.233,
+      "center": 1.117,
+      "role": "person_talking",
+      "subject": "giovane che parla in camera",
+      "description": "Il volto del creator in primo piano con scritte in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Il migliore agriturismo della costa Smeralda. Nonché"
+    },
+    {
+      "idx": 1,
+      "start": 2.233,
+      "end": 4.033,
+      "dur": 1.8,
+      "center": 3.133,
+      "role": "food_detail",
+      "subject": "porcetto sardo arrosto",
+      "description": "La pelle croccante e dorata del porcetto servito su un piatto bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il migliore porcetto mangiato in costa"
+    },
+    {
+      "idx": 2,
+      "start": 4.033,
+      "end": 5.633,
+      "dur": 1.6,
+      "center": 4.833,
+      "role": "person_eating",
+      "subject": "ragazzo che assaggia la carne",
+      "description": "Il creator che infilza e porta alla bocca un boccone di carne.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Smeralda. Oggi vi portino un agriturismo"
+    },
+    {
+      "idx": 3,
+      "start": 5.633,
+      "end": 8.633,
+      "dur": 3.0,
+      "center": 7.133,
+      "role": "venue_interior_detail",
+      "subject": "maialini allo spiedo nel camino",
+      "description": "I tradizionali maialini sardi che cuociono lentamente sul fuoco a legna.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "un po' meno conosciuto rispetto ai più famosi come Lustazzu, ma"
+    },
+    {
+      "idx": 4,
+      "start": 8.633,
+      "end": 11.667,
+      "dur": 3.033,
+      "center": 10.15,
+      "role": "venue_exterior",
+      "subject": "terrazza panoramica al tramonto",
+      "description": "L'atmosfera esterna dell'agriturismo immerso nel verde della natura sarda.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "che considero altrettanto valido. Ci troviamo l 'agriturismo Samendula,"
+    },
+    {
+      "idx": 5,
+      "start": 11.667,
+      "end": 13.667,
+      "dur": 2.0,
+      "center": 12.667,
+      "role": "drink_detail",
+      "subject": "mano che regge bicchiere",
+      "description": "La scritta 'ROTONDO' e il bicchiere di vino rosso in primo piano.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "vicino Port Rotondo. Partiamo comunque da un"
+    },
+    {
+      "idx": 6,
+      "start": 13.667,
+      "end": 15.3,
+      "dur": 1.633,
+      "center": 14.483,
+      "role": "drink_detail",
+      "subject": "bicchiere di vino rosso",
+      "description": "Il bicchiere di vino illuminato dalla lampada da tavolo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "'ottima location ovviamente all 'aperto"
+    },
+    {
+      "idx": 7,
+      "start": 15.3,
+      "end": 17.233,
+      "dur": 1.933,
+      "center": 16.267,
+      "role": "person_eating",
+      "subject": "giovane beve del vino",
+      "description": "Il creator che beve il vino guardando in camera all'aperto.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "con anche un 'ottima vista. Ne lo vamo già una bella"
+    },
+    {
+      "idx": 8,
+      "start": 17.233,
+      "end": 21.3,
+      "dur": 4.067,
+      "center": 19.267,
+      "role": "food_plated",
+      "subject": "tagliere salumi e formaggi",
+      "description": "Un ricco piatto di affettati misti e formaggi con la scritta 'CASA'.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tavolata e ci hanno servito subito il vino della casa. Tempo neanche cinque minuti sono arrivati gli"
+    },
+    {
+      "idx": 9,
+      "start": 21.3,
+      "end": 23.3,
+      "dur": 2.0,
+      "center": 22.3,
+      "role": "food_detail",
+      "subject": "cestino con pane rustico",
+      "description": "Il cestino di pane fresco e la scritta 'SALUMI'.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "antipasti con salumi e formaggi accompagnati"
+    },
+    {
+      "idx": 10,
+      "start": 23.3,
+      "end": 24.6,
+      "dur": 1.3,
+      "center": 23.95,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pane",
+      "description": "Il creator tiene un pezzo di pane in bocca con scritta didascalica.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "da pane e pane carasavo."
+    },
+    {
+      "idx": 11,
+      "start": 24.6,
+      "end": 25.867,
+      "dur": 1.267,
+      "center": 25.233,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo continua a masticare con la scritta 'TUTTO' in basso.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Ovviamente tutto molto apprezzato,"
+    },
+    {
+      "idx": 12,
+      "start": 25.867,
+      "end": 27.133,
+      "dur": 1.267,
+      "center": 26.5,
+      "role": "person_eating",
+      "subject": "ragazzo che assaggia cibo",
+      "description": "Si intravede un piccolo boccone con la scritta 'DOPODICHÉ'.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dopo di che verdure"
+    },
+    {
+      "idx": 13,
+      "start": 27.133,
+      "end": 29.3,
+      "dur": 2.167,
+      "center": 28.217,
+      "role": "food_plated",
+      "subject": "piatto con frittatine e verdure",
+      "description": "Un piatto ricco di frittatine e verdure miste con una forchetta a lato.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "fritte e delle piccole frittatine di verdure. A"
+    },
+    {
+      "idx": 14,
+      "start": 29.3,
+      "end": 30.533,
+      "dur": 1.233,
+      "center": 29.917,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia con forchetta",
+      "description": "Il creator si imbocca con la forchetta mentre c'è la scritta 'ALTRE'.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "parte altre melanzanne"
+    },
+    {
+      "idx": 15,
+      "start": 30.533,
+      "end": 32.533,
+      "dur": 2.0,
+      "center": 31.533,
+      "role": "food_detail",
+      "subject": "ciotola con melanzane cotte",
+      "description": "I pezzi di melanzana lucidi e conditi dentro la ciotola di vetro.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "condite, questa sorta di purè molto"
+    },
+    {
+      "idx": 16,
+      "start": 32.533,
+      "end": 34.333,
+      "dur": 1.8,
+      "center": 33.433,
+      "role": "food_detail",
+      "subject": "ciotola di crema densa",
+      "description": "La consistenza vellutata e chiara della crema tenuta in mano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cremoso e con un forte retrogust di"
+    },
+    {
+      "idx": 17,
+      "start": 34.333,
+      "end": 36.1,
+      "dur": 1.767,
+      "center": 35.217,
+      "role": "food_detail",
+      "subject": "cucchiaio che affonda nella crema",
+      "description": "Il movimento del cucchiaio che preleva una porzione di crema.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "burro e per concludere un assaggio di"
+    },
+    {
+      "idx": 18,
+      "start": 36.1,
+      "end": 38.1,
+      "dur": 2.0,
+      "center": 37.1,
+      "role": "food_detail",
+      "subject": "ciotola di spezzatino con carote",
+      "description": "Il sugo denso e la carne scura immersa nel brodo ricco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cinghiale per tutti. Ma questo era solo l 'antipasto."
+    },
+    {
+      "idx": 19,
+      "start": 38.1,
+      "end": 40.067,
+      "dur": 1.967,
+      "center": 39.083,
+      "role": "food_plated",
+      "subject": "piatto di fregula con ragù",
+      "description": "I grani di pasta tondi conditi con sugo rosso e spolverati di formaggio.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Passando e prima ovviamente arriviamo alla fregola"
+    },
+    {
+      "idx": 20,
+      "start": 40.067,
+      "end": 41.567,
+      "dur": 1.5,
+      "center": 40.817,
+      "role": "food_plated",
+      "subject": "piatto di fregula sarda",
+      "description": "la consistenza densa e colorata della pasta con formaggio grattugiato",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sarda, contro l 'altro un 'ottimo"
+    },
+    {
+      "idx": 21,
+      "start": 41.567,
+      "end": 42.833,
+      "dur": 1.267,
+      "center": 42.2,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia con cucchiaio",
+      "description": "l'espressione concentrata mentre porta il cibo alla bocca",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ragù e a quest 'artidravio olio"
+    },
+    {
+      "idx": 22,
+      "start": 42.833,
+      "end": 45.833,
+      "dur": 3.0,
+      "center": 44.333,
+      "role": "food_plated",
+      "subject": "ravioli ripieni al sugo",
+      "description": "i ravioli coperti di salsa rossa e pezzetti di formaggio",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovviamente fatti da loro ripieni di ricotta. Per accompagnare poi il punto"
+    },
+    {
+      "idx": 23,
+      "start": 45.833,
+      "end": 47.867,
+      "dur": 2.033,
+      "center": 46.85,
+      "role": "food_plated",
+      "subject": "insalata mista con pomodori",
+      "description": "il contrasto brillante tra il verde della lattuga e il rosso dei pomodorini",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "forte di questa cena abbiamo in realtà il punto debole,"
+    },
+    {
+      "idx": 24,
+      "start": 47.867,
+      "end": 54.367,
+      "dur": 6.5,
+      "center": 51.117,
+      "role": "food_plated",
+      "subject": "portate di carne arrosto",
+      "description": "i piatti di carne rustica serviti a tavola da mani in primo piano",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ovvero quest 'insalatina che avevi preferito fosse un bel contorno di patate al forno. Di ogni caso ragazzi ecco il porcetto sardo ed ecco"
+    },
+    {
+      "idx": 25,
+      "start": 54.367,
+      "end": 57.433,
+      "dur": 3.067,
+      "center": 55.9,
+      "role": "food_plated",
+      "subject": "piatto di maialino arrosto",
+      "description": "La croccantezza e la doratura della pelle del maialino servito nel piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "la testa di questo maialino. La parte che ci state descritta come la più"
+    },
+    {
+      "idx": 26,
+      "start": 57.433,
+      "end": 61.533,
+      "dur": 4.1,
+      "center": 59.483,
+      "role": "food_detail",
+      "subject": "maiale arrosto con forchetta",
+      "description": "La forchetta che solleva la pelle croccante rivelando la carne tenera.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "buona. La truccantezza della cotenna? Ma te lo sei già andato. C 'è la cecume. Carne che"
+    },
+    {
+      "idx": 27,
+      "start": 61.533,
+      "end": 63.5,
+      "dur": 1.967,
+      "center": 62.517,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia carne",
+      "description": "Il creator che assaggia il boccone con una scritta in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "è ovviamente molto morbida e con il solito sapore"
+    },
+    {
+      "idx": 28,
+      "start": 63.5,
+      "end": 66.033,
+      "dur": 2.533,
+      "center": 64.767,
+      "role": "food_plated",
+      "subject": "porcetto arrosto sfocato",
+      "description": "L'inquadratura mossa focalizzata sul piatto di maialino con scritta esplicativa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto intenso diciamo del porcetto sardo. La testa che"
+    },
+    {
+      "idx": 29,
+      "start": 66.033,
+      "end": 68.0,
+      "dur": 1.967,
+      "center": 67.017,
+      "role": "hands_gesture",
+      "subject": "mani che spezzano carne",
+      "description": "Il movimento delle mani che toccano e dividono la carne croccante.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "anche se faceva abbastanza impressione era"
+    },
+    {
+      "idx": 30,
+      "start": 68.0,
+      "end": 69.833,
+      "dur": 1.833,
+      "center": 68.917,
+      "role": "food_closeup",
+      "subject": "carne arrosto croccante",
+      "description": "Una mano solleva un pezzo di carne croccante e dorata sopra un piatto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto buona. Qui ragazzi guardate che pezzo di"
+    },
+    {
+      "idx": 31,
+      "start": 69.833,
+      "end": 71.967,
+      "dur": 2.133,
+      "center": 70.9,
+      "role": "person_talking",
+      "subject": "ragazzo che assaggia cibo",
+      "description": "Un giovane inquadrato in primo piano mostra il cibo con espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "cotenna clammoroso. Ed infine"
+    },
+    {
+      "idx": 32,
+      "start": 71.967,
+      "end": 73.6,
+      "dur": 1.633,
+      "center": 72.783,
+      "role": "food_plated",
+      "subject": "frittella dolce con miele",
+      "description": "Un dolce fritto coperto di miele liquido è servito su un piatto bianco con posate.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "si adassa con il miele."
+    },
+    {
+      "idx": 33,
+      "start": 73.6,
+      "end": 76.167,
+      "dur": 2.567,
+      "center": 74.883,
+      "role": "food_detail",
+      "subject": "taglio di dolce al miele",
+      "description": "Un coltello incide la superficie lucida del dolce ricoperto di miele.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": ""
+    },
+    {
+      "idx": 34,
+      "start": 76.167,
+      "end": 78.133,
+      "dur": 1.967,
+      "center": 77.15,
+      "role": "food_detail",
+      "subject": "morso di dolce con miele",
+      "description": "Il dolce viene tagliato e una porzione inzuppata di miele viene sollevata con la forchetta.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Fritta la grande anche lei con"
+    },
+    {
+      "idx": 35,
+      "start": 78.133,
+      "end": 81.633,
+      "dur": 3.5,
+      "center": 79.883,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il volto del creator in primo piano con una scritta sovrimpressa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbondante miele. Ed è così che si arriva al caffè e al mirtro. Un locale che"
+    },
+    {
+      "idx": 36,
+      "start": 81.633,
+      "end": 83.667,
+      "dur": 2.033,
+      "center": 82.65,
+      "role": "drink_detail",
+      "subject": "tazzina di caffè e amaro",
+      "description": "Un espresso con bustina di zucchero e un bicchierino di liquore.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "offre quindi un menu fisso a 55 euro"
+    },
+    {
+      "idx": 37,
+      "start": 83.667,
+      "end": 85.667,
+      "dur": 2.0,
+      "center": 84.667,
+      "role": "venue_interior_wide",
+      "subject": "tavoli all'aperto occupati",
+      "description": "Clienti seduti a cena nei tavoli illuminati nel giardino del ristorante.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con diverse portate e tutte molto"
+    },
+    {
+      "idx": 38,
+      "start": 85.667,
+      "end": 87.5,
+      "dur": 1.833,
+      "center": 86.583,
+      "role": "venue_interior_wide",
+      "subject": "tavolata di amici",
+      "description": "Il gruppo riunito a tavola illuminato da una lampada da tavolo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "valide. Il posto perfetto si sente un bel"
+    },
+    {
+      "idx": 39,
+      "start": 87.5,
+      "end": 89.933,
+      "dur": 2.433,
+      "center": 88.717,
+      "role": "venue_interior_wide",
+      "subject": "giardino di un locale",
+      "description": "La panoramica notturna del locale all'aperto con prato e tavoli.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "gruppo o anche semplicemente in coppia. Vista la location"
+    },
+    {
+      "idx": 40,
+      "start": 89.933,
+      "end": 91.9,
+      "dur": 1.967,
+      "center": 90.917,
+      "role": "venue_exterior",
+      "subject": "tavolo illuminato all'aperto",
+      "description": "Un gazebo decorato con luci calde che ospita una tavolata notturna.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "davvero clammorosa."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "giovane che parla in camera",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il volto del creator in primo piano con scritte in sovrimpressione.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.233,
+      "dur": 2.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "porcetto sardo arrosto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La pelle croccante e dorata del porcetto servito su un piatto bianco.",
+      "shot_idx": 1,
+      "start": 2.233,
+      "end": 4.033,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che assaggia la carne",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator che infilza e porta alla bocca un boccone di carne.",
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 5.633,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "maialini allo spiedo nel camino",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I tradizionali maialini sardi che cuociono lentamente sul fuoco a legna.",
+      "shot_idx": 3,
+      "start": 5.633,
+      "end": 8.633,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "terrazza panoramica al tramonto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'atmosfera esterna dell'agriturismo immerso nel verde della natura sarda.",
+      "shot_idx": 4,
+      "start": 8.633,
+      "end": 11.667,
+      "dur": 3.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "mano che regge bicchiere",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La scritta 'ROTONDO' e il bicchiere di vino rosso in primo piano.",
+      "shot_idx": 5,
+      "start": 11.667,
+      "end": 13.667,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "bicchiere di vino rosso",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il bicchiere di vino illuminato dalla lampada da tavolo.",
+      "shot_idx": 6,
+      "start": 13.667,
+      "end": 15.3,
+      "dur": 1.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "giovane beve del vino",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator che beve il vino guardando in camera all'aperto.",
+      "shot_idx": 7,
+      "start": 15.3,
+      "end": 17.233,
+      "dur": 1.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "tagliere salumi e formaggi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ricco piatto di affettati misti e formaggi con la scritta 'CASA'.",
+      "shot_idx": 8,
+      "start": 17.233,
+      "end": 21.3,
+      "dur": 4.067
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "cestino con pane rustico",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il cestino di pane fresco e la scritta 'SALUMI'.",
+      "shot_idx": 9,
+      "start": 21.3,
+      "end": 23.3,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pane",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator tiene un pezzo di pane in bocca con scritta didascalica.",
+      "shot_idx": 10,
+      "start": 23.3,
+      "end": 24.6,
+      "dur": 1.3
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo continua a masticare con la scritta 'TUTTO' in basso.",
+      "shot_idx": 11,
+      "start": 24.6,
+      "end": 25.867,
+      "dur": 1.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che assaggia cibo",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Si intravede un piccolo boccone con la scritta 'DOPODICHÉ'.",
+      "shot_idx": 12,
+      "start": 25.867,
+      "end": 27.133,
+      "dur": 1.267
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto con frittatine e verdure",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto ricco di frittatine e verdure miste con una forchetta a lato.",
+      "shot_idx": 13,
+      "start": 27.133,
+      "end": 29.3,
+      "dur": 2.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia con forchetta",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il creator si imbocca con la forchetta mentre c'è la scritta 'ALTRE'.",
+      "shot_idx": 14,
+      "start": 29.3,
+      "end": 30.533,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "ciotola con melanzane cotte",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I pezzi di melanzana lucidi e conditi dentro la ciotola di vetro.",
+      "shot_idx": 15,
+      "start": 30.533,
+      "end": 32.533,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "ciotola di crema densa",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La consistenza vellutata e chiara della crema tenuta in mano.",
+      "shot_idx": 16,
+      "start": 32.533,
+      "end": 34.333,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "cucchiaio che affonda nella crema",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il movimento del cucchiaio che preleva una porzione di crema.",
+      "shot_idx": 17,
+      "start": 34.333,
+      "end": 36.1,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "ciotola di spezzatino con carote",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il sugo denso e la carne scura immersa nel brodo ricco.",
+      "shot_idx": 18,
+      "start": 36.1,
+      "end": 38.1,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di fregula con ragù",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I grani di pasta tondi conditi con sugo rosso e spolverati di formaggio.",
+      "shot_idx": 19,
+      "start": 38.1,
+      "end": 40.067,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di fregula sarda",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "la consistenza densa e colorata della pasta con formaggio grattugiato",
+      "shot_idx": 20,
+      "start": 40.067,
+      "end": 41.567,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia con cucchiaio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "l'espressione concentrata mentre porta il cibo alla bocca",
+      "shot_idx": 21,
+      "start": 41.567,
+      "end": 42.833,
+      "dur": 1.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "ravioli ripieni al sugo",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "i ravioli coperti di salsa rossa e pezzetti di formaggio",
+      "shot_idx": 22,
+      "start": 42.833,
+      "end": 45.833,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "insalata mista con pomodori",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "il contrasto brillante tra il verde della lattuga e il rosso dei pomodorini",
+      "shot_idx": 23,
+      "start": 45.833,
+      "end": 47.867,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "portate di carne arrosto",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "i piatti di carne rustica serviti a tavola da mani in primo piano",
+      "shot_idx": 24,
+      "start": 47.867,
+      "end": 54.367,
+      "dur": 6.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di maialino arrosto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La croccantezza e la doratura della pelle del maialino servito nel piatto.",
+      "shot_idx": 25,
+      "start": 54.367,
+      "end": 57.433,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "maiale arrosto con forchetta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La forchetta che solleva la pelle croccante rivelando la carne tenera.",
+      "shot_idx": 26,
+      "start": 57.433,
+      "end": 61.533,
+      "dur": 4.1
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator che assaggia il boccone con una scritta in sovrimpressione.",
+      "shot_idx": 27,
+      "start": 61.533,
+      "end": 63.5,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "porcetto arrosto sfocato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'inquadratura mossa focalizzata sul piatto di maialino con scritta esplicativa.",
+      "shot_idx": 28,
+      "start": 63.5,
+      "end": 66.033,
+      "dur": 2.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mani che spezzano carne",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il movimento delle mani che toccano e dividono la carne croccante.",
+      "shot_idx": 29,
+      "start": 66.033,
+      "end": 68.0,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "carne arrosto croccante",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano solleva un pezzo di carne croccante e dorata sopra un piatto.",
+      "shot_idx": 30,
+      "start": 68.0,
+      "end": 69.833,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che assaggia cibo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un giovane inquadrato in primo piano mostra il cibo con espressione soddisfatta.",
+      "shot_idx": 31,
+      "start": 69.833,
+      "end": 71.967,
+      "dur": 2.133
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "frittella dolce con miele",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un dolce fritto coperto di miele liquido è servito su un piatto bianco con posate.",
+      "shot_idx": 32,
+      "start": 71.967,
+      "end": 73.6,
+      "dur": 1.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "taglio di dolce al miele",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un coltello incide la superficie lucida del dolce ricoperto di miele.",
+      "shot_idx": 33,
+      "start": 73.6,
+      "end": 76.167,
+      "dur": 2.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "morso di dolce con miele",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il dolce viene tagliato e una porzione inzuppata di miele viene sollevata con la forchetta.",
+      "shot_idx": 34,
+      "start": 76.167,
+      "end": 78.133,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il volto del creator in primo piano con una scritta sovrimpressa.",
+      "shot_idx": 35,
+      "start": 78.133,
+      "end": 81.633,
+      "dur": 3.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "drink_detail",
+      "soggetto": "tazzina di caffè e amaro",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un espresso con bustina di zucchero e un bicchierino di liquore.",
+      "shot_idx": 36,
+      "start": 81.633,
+      "end": 83.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tavoli all'aperto occupati",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Clienti seduti a cena nei tavoli illuminati nel giardino del ristorante.",
+      "shot_idx": 37,
+      "start": 83.667,
+      "end": 85.667,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "tavolata di amici",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il gruppo riunito a tavola illuminato da una lampada da tavolo.",
+      "shot_idx": 38,
+      "start": 85.667,
+      "end": 87.5,
+      "dur": 1.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "giardino di un locale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La panoramica notturna del locale all'aperto con prato e tavoli.",
+      "shot_idx": 39,
+      "start": 87.5,
+      "end": 89.933,
+      "dur": 2.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "tavolo illuminato all'aperto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un gazebo decorato con luci calde che ospita una tavolata notturna.",
+      "shot_idx": 40,
+      "start": 89.933,
+      "end": 91.9,
+      "dur": 1.967
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Il migliore agriturismo della costa Smeralda."
+    },
+    {
+      "start": 2.12,
+      "end": 4.56,
+      "text": "Nonché il migliore porcetto mangiato in costa Smeralda."
+    },
+    {
+      "start": 4.6,
+      "end": 8.34,
+      "text": "Oggi vi portino un agriturismo un po' meno conosciuto rispetto ai più famosi come Lustazzu,"
+    },
+    {
+      "start": 8.5,
+      "end": 10.2,
+      "text": "ma che considero altrettanto valido."
+    },
+    {
+      "start": 10.26,
+      "end": 12.82,
+      "text": "Ci troviamo l'agriturismo Samendula, vicino Port Rotondo."
+    },
+    {
+      "start": 12.94,
+      "end": 16.26,
+      "text": "Partiamo comunque da un'ottima location ovviamente all'aperto con anche un'ottima vista."
+    },
+    {
+      "start": 16.4,
+      "end": 19.46,
+      "text": "Ne lo vamo già una bella tavolata e ci hanno servito subito il vino della casa."
+    },
+    {
+      "start": 19.58,
+      "end": 24.58,
+      "text": "Tempo neanche cinque minuti sono arrivati gli antipasti con salumi e formaggi accompagnati da pane e pane carasavo."
+    },
+    {
+      "start": 24.86,
+      "end": 29.14,
+      "text": "Ovviamente tutto molto apprezzato, dopo di che verdure fritte e delle piccole frittatine di verdure."
+    },
+    {
+      "start": 29.14,
+      "end": 34.76,
+      "text": "A parte altre melanzanne condite, questa sorta di purè molto cremoso e con un forte retrogust di burro"
+    },
+    {
+      "start": 34.76,
+      "end": 36.68,
+      "text": "e per concludere un assaggio di cinghiale per tutti."
+    },
+    {
+      "start": 36.82,
+      "end": 38.3,
+      "text": "Ma questo era solo l'antipasto."
+    },
+    {
+      "start": 38.48,
+      "end": 40.54,
+      "text": "Passando e prima ovviamente arriviamo alla fregola sarda,"
+    },
+    {
+      "start": 40.72,
+      "end": 44.78,
+      "text": "contro l'altro un'ottimo ragù e a quest'artidravio olio ovviamente fatti da loro ripieni di ricotta."
+    },
+    {
+      "start": 44.92,
+      "end": 47.9,
+      "text": "Per accompagnare poi il punto forte di questa cena abbiamo in realtà il punto debole,"
+    },
+    {
+      "start": 47.94,
+      "end": 51.5,
+      "text": "ovvero quest'insalatina che avevi preferito fosse un bel contorno di patate al forno."
+    },
+    {
+      "start": 51.58,
+      "end": 55.84,
+      "text": "Di ogni caso ragazzi ecco il porcetto sardo ed ecco la testa di questo maialino."
+    },
+    {
+      "start": 55.9,
+      "end": 57.58,
+      "text": "La parte che ci state descritta come la più buona."
+    },
+    {
+      "start": 57.58,
+      "end": 58.72,
+      "text": "La truccantezza della cotenna?"
+    },
+    {
+      "start": 58.78,
+      "end": 59.54,
+      "text": "Ma te lo sei già andato."
+    },
+    {
+      "start": 59.8,
+      "end": 61.18,
+      "text": "C'è la cecume."
+    },
+    {
+      "start": 61.24,
+      "end": 65.52,
+      "text": "Carne che è ovviamente molto morbida e con il solito sapore molto intenso diciamo del porcetto sardo."
+    },
+    {
+      "start": 65.64,
+      "end": 68.52,
+      "text": "La testa che anche se faceva abbastanza impressione era molto buona."
+    },
+    {
+      "start": 68.58,
+      "end": 71.48,
+      "text": "Qui ragazzi guardate che pezzo di cotenna clammoroso."
+    },
+    {
+      "start": 71.64,
+      "end": 73.56,
+      "text": "Ed infine si adassa con il miele."
+    },
+    {
+      "start": 76.1,
+      "end": 78.86,
+      "text": "Fritta la grande anche lei con abbondante miele."
+    },
+    {
+      "start": 78.92,
+      "end": 81.02,
+      "text": "Ed è così che si arriva al caffè e al mirtro."
+    },
+    {
+      "start": 81.08,
+      "end": 86.12,
+      "text": "Un locale che offre quindi un menu fisso a 55 euro con diverse portate e tutte molto valide."
+    },
+    {
+      "start": 86.12,
+      "end": 89.12,
+      "text": "Il posto perfetto si sente un bel gruppo o anche semplicemente in coppia."
+    },
+    {
+      "start": 89.14,
+      "end": 91.58,
+      "text": "Vista la location davvero clammorosa."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "word": "Il"
+    },
+    {
+      "start": 0.18,
+      "end": 0.52,
+      "word": "migliore"
+    },
+    {
+      "start": 0.52,
+      "end": 1.02,
+      "word": "agriturismo"
+    },
+    {
+      "start": 1.02,
+      "end": 1.2,
+      "word": "della"
+    },
+    {
+      "start": 1.2,
+      "end": 1.56,
+      "word": "costa"
+    },
+    {
+      "start": 1.56,
+      "end": 2.06,
+      "word": "Smeralda."
+    },
+    {
+      "start": 2.12,
+      "end": 2.34,
+      "word": "Nonché"
+    },
+    {
+      "start": 2.34,
+      "end": 2.5,
+      "word": "il"
+    },
+    {
+      "start": 2.5,
+      "end": 2.76,
+      "word": "migliore"
+    },
+    {
+      "start": 2.76,
+      "end": 3.3,
+      "word": "porcetto"
+    },
+    {
+      "start": 3.3,
+      "end": 3.8,
+      "word": "mangiato"
+    },
+    {
+      "start": 3.8,
+      "end": 3.92,
+      "word": "in"
+    },
+    {
+      "start": 3.92,
+      "end": 4.12,
+      "word": "costa"
+    },
+    {
+      "start": 4.12,
+      "end": 4.56,
+      "word": "Smeralda."
+    },
+    {
+      "start": 4.6,
+      "end": 4.72,
+      "word": "Oggi"
+    },
+    {
+      "start": 4.72,
+      "end": 4.84,
+      "word": "vi"
+    },
+    {
+      "start": 4.84,
+      "end": 5.12,
+      "word": "portino"
+    },
+    {
+      "start": 5.12,
+      "end": 5.24,
+      "word": "un"
+    },
+    {
+      "start": 5.24,
+      "end": 5.66,
+      "word": "agriturismo"
+    },
+    {
+      "start": 5.66,
+      "end": 5.82,
+      "word": "un"
+    },
+    {
+      "start": 5.82,
+      "end": 5.92,
+      "word": "po'"
+    },
+    {
+      "start": 6.0,
+      "end": 6.1,
+      "word": "meno"
+    },
+    {
+      "start": 6.1,
+      "end": 6.54,
+      "word": "conosciuto"
+    },
+    {
+      "start": 6.54,
+      "end": 6.8,
+      "word": "rispetto"
+    },
+    {
+      "start": 6.8,
+      "end": 6.96,
+      "word": "ai"
+    },
+    {
+      "start": 6.96,
+      "end": 7.02,
+      "word": "più"
+    },
+    {
+      "start": 7.02,
+      "end": 7.38,
+      "word": "famosi"
+    },
+    {
+      "start": 7.38,
+      "end": 7.62,
+      "word": "come"
+    },
+    {
+      "start": 7.62,
+      "end": 8.34,
+      "word": "Lustazzu,"
+    },
+    {
+      "start": 8.5,
+      "end": 8.62,
+      "word": "ma"
+    },
+    {
+      "start": 8.62,
+      "end": 8.72,
+      "word": "che"
+    },
+    {
+      "start": 8.72,
+      "end": 9.26,
+      "word": "considero"
+    },
+    {
+      "start": 9.26,
+      "end": 9.76,
+      "word": "altrettanto"
+    },
+    {
+      "start": 9.76,
+      "end": 10.2,
+      "word": "valido."
+    },
+    {
+      "start": 10.26,
+      "end": 10.28,
+      "word": "Ci"
+    },
+    {
+      "start": 10.28,
+      "end": 10.54,
+      "word": "troviamo"
+    },
+    {
+      "start": 10.54,
+      "end": 10.68,
+      "word": "l"
+    },
+    {
+      "start": 10.68,
+      "end": 11.16,
+      "word": "'agriturismo"
+    },
+    {
+      "start": 11.16,
+      "end": 11.88,
+      "word": "Samendula,"
+    },
+    {
+      "start": 11.94,
+      "end": 12.18,
+      "word": "vicino"
+    },
+    {
+      "start": 12.18,
+      "end": 12.4,
+      "word": "Port"
+    },
+    {
+      "start": 12.4,
+      "end": 12.82,
+      "word": "Rotondo."
+    },
+    {
+      "start": 12.94,
+      "end": 13.16,
+      "word": "Partiamo"
+    },
+    {
+      "start": 13.16,
+      "end": 13.44,
+      "word": "comunque"
+    },
+    {
+      "start": 13.44,
+      "end": 13.6,
+      "word": "da"
+    },
+    {
+      "start": 13.6,
+      "end": 13.72,
+      "word": "un"
+    },
+    {
+      "start": 13.72,
+      "end": 13.98,
+      "word": "'ottima"
+    },
+    {
+      "start": 13.98,
+      "end": 14.3,
+      "word": "location"
+    },
+    {
+      "start": 14.3,
+      "end": 14.7,
+      "word": "ovviamente"
+    },
+    {
+      "start": 14.7,
+      "end": 14.92,
+      "word": "all"
+    },
+    {
+      "start": 14.92,
+      "end": 15.24,
+      "word": "'aperto"
+    },
+    {
+      "start": 15.24,
+      "end": 15.42,
+      "word": "con"
+    },
+    {
+      "start": 15.42,
+      "end": 15.56,
+      "word": "anche"
+    },
+    {
+      "start": 15.56,
+      "end": 15.68,
+      "word": "un"
+    },
+    {
+      "start": 15.68,
+      "end": 15.94,
+      "word": "'ottima"
+    },
+    {
+      "start": 15.94,
+      "end": 16.26,
+      "word": "vista."
+    },
+    {
+      "start": 16.4,
+      "end": 16.42,
+      "word": "Ne"
+    },
+    {
+      "start": 16.42,
+      "end": 16.48,
+      "word": "lo"
+    },
+    {
+      "start": 16.48,
+      "end": 16.62,
+      "word": "vamo"
+    },
+    {
+      "start": 16.62,
+      "end": 16.8,
+      "word": "già"
+    },
+    {
+      "start": 16.8,
+      "end": 16.92,
+      "word": "una"
+    },
+    {
+      "start": 16.92,
+      "end": 17.06,
+      "word": "bella"
+    },
+    {
+      "start": 17.06,
+      "end": 17.5,
+      "word": "tavolata"
+    },
+    {
+      "start": 17.5,
+      "end": 17.62,
+      "word": "e"
+    },
+    {
+      "start": 17.62,
+      "end": 17.68,
+      "word": "ci"
+    },
+    {
+      "start": 17.68,
+      "end": 17.78,
+      "word": "hanno"
+    },
+    {
+      "start": 17.78,
+      "end": 18.16,
+      "word": "servito"
+    },
+    {
+      "start": 18.16,
+      "end": 18.72,
+      "word": "subito"
+    },
+    {
+      "start": 18.72,
+      "end": 18.84,
+      "word": "il"
+    },
+    {
+      "start": 18.84,
+      "end": 18.96,
+      "word": "vino"
+    },
+    {
+      "start": 18.96,
+      "end": 19.12,
+      "word": "della"
+    },
+    {
+      "start": 19.12,
+      "end": 19.46,
+      "word": "casa."
+    },
+    {
+      "start": 19.58,
+      "end": 19.82,
+      "word": "Tempo"
+    },
+    {
+      "start": 19.82,
+      "end": 20.04,
+      "word": "neanche"
+    },
+    {
+      "start": 20.04,
+      "end": 20.34,
+      "word": "cinque"
+    },
+    {
+      "start": 20.34,
+      "end": 20.64,
+      "word": "minuti"
+    },
+    {
+      "start": 20.64,
+      "end": 20.82,
+      "word": "sono"
+    },
+    {
+      "start": 20.82,
+      "end": 21.1,
+      "word": "arrivati"
+    },
+    {
+      "start": 21.1,
+      "end": 21.26,
+      "word": "gli"
+    },
+    {
+      "start": 21.26,
+      "end": 21.74,
+      "word": "antipasti"
+    },
+    {
+      "start": 21.74,
+      "end": 21.94,
+      "word": "con"
+    },
+    {
+      "start": 21.94,
+      "end": 22.3,
+      "word": "salumi"
+    },
+    {
+      "start": 22.3,
+      "end": 22.4,
+      "word": "e"
+    },
+    {
+      "start": 22.4,
+      "end": 22.78,
+      "word": "formaggi"
+    },
+    {
+      "start": 22.78,
+      "end": 23.32,
+      "word": "accompagnati"
+    },
+    {
+      "start": 23.32,
+      "end": 23.48,
+      "word": "da"
+    },
+    {
+      "start": 23.48,
+      "end": 23.76,
+      "word": "pane"
+    },
+    {
+      "start": 23.76,
+      "end": 24.06,
+      "word": "e"
+    },
+    {
+      "start": 24.06,
+      "end": 24.26,
+      "word": "pane"
+    },
+    {
+      "start": 24.26,
+      "end": 24.58,
+      "word": "carasavo."
+    },
+    {
+      "start": 24.86,
+      "end": 24.86,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 24.86,
+      "end": 25.16,
+      "word": "tutto"
+    },
+    {
+      "start": 25.16,
+      "end": 25.4,
+      "word": "molto"
+    },
+    {
+      "start": 25.4,
+      "end": 26.0,
+      "word": "apprezzato,"
+    },
+    {
+      "start": 26.14,
+      "end": 26.28,
+      "word": "dopo"
+    },
+    {
+      "start": 26.28,
+      "end": 26.44,
+      "word": "di"
+    },
+    {
+      "start": 26.44,
+      "end": 26.56,
+      "word": "che"
+    },
+    {
+      "start": 26.56,
+      "end": 26.92,
+      "word": "verdure"
+    },
+    {
+      "start": 26.92,
+      "end": 27.4,
+      "word": "fritte"
+    },
+    {
+      "start": 27.4,
+      "end": 27.68,
+      "word": "e"
+    },
+    {
+      "start": 27.68,
+      "end": 27.82,
+      "word": "delle"
+    },
+    {
+      "start": 27.82,
+      "end": 28.08,
+      "word": "piccole"
+    },
+    {
+      "start": 28.08,
+      "end": 28.56,
+      "word": "frittatine"
+    },
+    {
+      "start": 28.56,
+      "end": 28.72,
+      "word": "di"
+    },
+    {
+      "start": 28.72,
+      "end": 29.14,
+      "word": "verdure."
+    },
+    {
+      "start": 29.14,
+      "end": 29.38,
+      "word": "A"
+    },
+    {
+      "start": 29.38,
+      "end": 29.64,
+      "word": "parte"
+    },
+    {
+      "start": 29.64,
+      "end": 30.06,
+      "word": "altre"
+    },
+    {
+      "start": 30.06,
+      "end": 30.52,
+      "word": "melanzanne"
+    },
+    {
+      "start": 30.52,
+      "end": 31.0,
+      "word": "condite,"
+    },
+    {
+      "start": 31.16,
+      "end": 31.36,
+      "word": "questa"
+    },
+    {
+      "start": 31.36,
+      "end": 31.66,
+      "word": "sorta"
+    },
+    {
+      "start": 31.66,
+      "end": 31.84,
+      "word": "di"
+    },
+    {
+      "start": 31.84,
+      "end": 32.08,
+      "word": "purè"
+    },
+    {
+      "start": 32.08,
+      "end": 32.38,
+      "word": "molto"
+    },
+    {
+      "start": 32.38,
+      "end": 32.94,
+      "word": "cremoso"
+    },
+    {
+      "start": 32.94,
+      "end": 33.0,
+      "word": "e"
+    },
+    {
+      "start": 33.0,
+      "end": 33.08,
+      "word": "con"
+    },
+    {
+      "start": 33.08,
+      "end": 33.2,
+      "word": "un"
+    },
+    {
+      "start": 33.2,
+      "end": 33.58,
+      "word": "forte"
+    },
+    {
+      "start": 33.58,
+      "end": 34.14,
+      "word": "retrogust"
+    },
+    {
+      "start": 34.14,
+      "end": 34.34,
+      "word": "di"
+    },
+    {
+      "start": 34.34,
+      "end": 34.76,
+      "word": "burro"
+    },
+    {
+      "start": 34.76,
+      "end": 34.86,
+      "word": "e"
+    },
+    {
+      "start": 34.86,
+      "end": 34.96,
+      "word": "per"
+    },
+    {
+      "start": 34.96,
+      "end": 35.44,
+      "word": "concludere"
+    },
+    {
+      "start": 35.44,
+      "end": 35.56,
+      "word": "un"
+    },
+    {
+      "start": 35.56,
+      "end": 35.82,
+      "word": "assaggio"
+    },
+    {
+      "start": 35.82,
+      "end": 35.96,
+      "word": "di"
+    },
+    {
+      "start": 35.96,
+      "end": 36.28,
+      "word": "cinghiale"
+    },
+    {
+      "start": 36.28,
+      "end": 36.48,
+      "word": "per"
+    },
+    {
+      "start": 36.48,
+      "end": 36.68,
+      "word": "tutti."
+    },
+    {
+      "start": 36.82,
+      "end": 36.88,
+      "word": "Ma"
+    },
+    {
+      "start": 36.88,
+      "end": 37.2,
+      "word": "questo"
+    },
+    {
+      "start": 37.2,
+      "end": 37.48,
+      "word": "era"
+    },
+    {
+      "start": 37.48,
+      "end": 37.72,
+      "word": "solo"
+    },
+    {
+      "start": 37.72,
+      "end": 37.84,
+      "word": "l"
+    },
+    {
+      "start": 37.84,
+      "end": 38.3,
+      "word": "'antipasto."
+    },
+    {
+      "start": 38.48,
+      "end": 38.78,
+      "word": "Passando"
+    },
+    {
+      "start": 38.78,
+      "end": 38.9,
+      "word": "e"
+    },
+    {
+      "start": 38.9,
+      "end": 39.06,
+      "word": "prima"
+    },
+    {
+      "start": 39.06,
+      "end": 39.36,
+      "word": "ovviamente"
+    },
+    {
+      "start": 39.36,
+      "end": 39.7,
+      "word": "arriviamo"
+    },
+    {
+      "start": 39.7,
+      "end": 39.86,
+      "word": "alla"
+    },
+    {
+      "start": 39.86,
+      "end": 40.12,
+      "word": "fregola"
+    },
+    {
+      "start": 40.12,
+      "end": 40.54,
+      "word": "sarda,"
+    },
+    {
+      "start": 40.72,
+      "end": 40.88,
+      "word": "contro"
+    },
+    {
+      "start": 40.88,
+      "end": 41.04,
+      "word": "l"
+    },
+    {
+      "start": 41.04,
+      "end": 41.16,
+      "word": "'altro"
+    },
+    {
+      "start": 41.16,
+      "end": 41.32,
+      "word": "un"
+    },
+    {
+      "start": 41.32,
+      "end": 41.56,
+      "word": "'ottimo"
+    },
+    {
+      "start": 41.56,
+      "end": 41.92,
+      "word": "ragù"
+    },
+    {
+      "start": 41.92,
+      "end": 42.04,
+      "word": "e"
+    },
+    {
+      "start": 42.04,
+      "end": 42.1,
+      "word": "a"
+    },
+    {
+      "start": 42.1,
+      "end": 42.22,
+      "word": "quest"
+    },
+    {
+      "start": 42.22,
+      "end": 42.72,
+      "word": "'artidravio"
+    },
+    {
+      "start": 42.72,
+      "end": 42.86,
+      "word": "olio"
+    },
+    {
+      "start": 42.86,
+      "end": 43.12,
+      "word": "ovviamente"
+    },
+    {
+      "start": 43.12,
+      "end": 43.5,
+      "word": "fatti"
+    },
+    {
+      "start": 43.5,
+      "end": 43.64,
+      "word": "da"
+    },
+    {
+      "start": 43.64,
+      "end": 43.88,
+      "word": "loro"
+    },
+    {
+      "start": 43.88,
+      "end": 44.22,
+      "word": "ripieni"
+    },
+    {
+      "start": 44.22,
+      "end": 44.38,
+      "word": "di"
+    },
+    {
+      "start": 44.38,
+      "end": 44.78,
+      "word": "ricotta."
+    },
+    {
+      "start": 44.92,
+      "end": 44.94,
+      "word": "Per"
+    },
+    {
+      "start": 44.94,
+      "end": 45.48,
+      "word": "accompagnare"
+    },
+    {
+      "start": 45.48,
+      "end": 45.64,
+      "word": "poi"
+    },
+    {
+      "start": 45.64,
+      "end": 45.74,
+      "word": "il"
+    },
+    {
+      "start": 45.74,
+      "end": 45.88,
+      "word": "punto"
+    },
+    {
+      "start": 45.88,
+      "end": 46.26,
+      "word": "forte"
+    },
+    {
+      "start": 46.26,
+      "end": 46.4,
+      "word": "di"
+    },
+    {
+      "start": 46.4,
+      "end": 46.58,
+      "word": "questa"
+    },
+    {
+      "start": 46.58,
+      "end": 46.8,
+      "word": "cena"
+    },
+    {
+      "start": 46.8,
+      "end": 46.96,
+      "word": "abbiamo"
+    },
+    {
+      "start": 46.96,
+      "end": 47.1,
+      "word": "in"
+    },
+    {
+      "start": 47.1,
+      "end": 47.18,
+      "word": "realtà"
+    },
+    {
+      "start": 47.18,
+      "end": 47.36,
+      "word": "il"
+    },
+    {
+      "start": 47.36,
+      "end": 47.52,
+      "word": "punto"
+    },
+    {
+      "start": 47.52,
+      "end": 47.9,
+      "word": "debole,"
+    },
+    {
+      "start": 47.94,
+      "end": 48.14,
+      "word": "ovvero"
+    },
+    {
+      "start": 48.14,
+      "end": 48.36,
+      "word": "quest"
+    },
+    {
+      "start": 48.36,
+      "end": 48.98,
+      "word": "'insalatina"
+    },
+    {
+      "start": 48.98,
+      "end": 49.14,
+      "word": "che"
+    },
+    {
+      "start": 49.14,
+      "end": 49.32,
+      "word": "avevi"
+    },
+    {
+      "start": 49.32,
+      "end": 49.64,
+      "word": "preferito"
+    },
+    {
+      "start": 49.64,
+      "end": 49.98,
+      "word": "fosse"
+    },
+    {
+      "start": 49.98,
+      "end": 50.26,
+      "word": "un"
+    },
+    {
+      "start": 50.26,
+      "end": 50.44,
+      "word": "bel"
+    },
+    {
+      "start": 50.44,
+      "end": 50.84,
+      "word": "contorno"
+    },
+    {
+      "start": 50.84,
+      "end": 51.0,
+      "word": "di"
+    },
+    {
+      "start": 51.0,
+      "end": 51.2,
+      "word": "patate"
+    },
+    {
+      "start": 51.2,
+      "end": 51.36,
+      "word": "al"
+    },
+    {
+      "start": 51.36,
+      "end": 51.5,
+      "word": "forno."
+    },
+    {
+      "start": 51.58,
+      "end": 51.58,
+      "word": "Di"
+    },
+    {
+      "start": 51.58,
+      "end": 51.72,
+      "word": "ogni"
+    },
+    {
+      "start": 51.72,
+      "end": 52.02,
+      "word": "caso"
+    },
+    {
+      "start": 52.02,
+      "end": 52.4,
+      "word": "ragazzi"
+    },
+    {
+      "start": 52.4,
+      "end": 52.88,
+      "word": "ecco"
+    },
+    {
+      "start": 52.88,
+      "end": 52.96,
+      "word": "il"
+    },
+    {
+      "start": 52.96,
+      "end": 53.32,
+      "word": "porcetto"
+    },
+    {
+      "start": 53.32,
+      "end": 53.82,
+      "word": "sardo"
+    },
+    {
+      "start": 53.82,
+      "end": 54.04,
+      "word": "ed"
+    },
+    {
+      "start": 54.04,
+      "end": 54.38,
+      "word": "ecco"
+    },
+    {
+      "start": 54.38,
+      "end": 54.56,
+      "word": "la"
+    },
+    {
+      "start": 54.56,
+      "end": 55.02,
+      "word": "testa"
+    },
+    {
+      "start": 55.02,
+      "end": 55.18,
+      "word": "di"
+    },
+    {
+      "start": 55.18,
+      "end": 55.4,
+      "word": "questo"
+    },
+    {
+      "start": 55.4,
+      "end": 55.84,
+      "word": "maialino."
+    },
+    {
+      "start": 55.9,
+      "end": 55.96,
+      "word": "La"
+    },
+    {
+      "start": 55.96,
+      "end": 56.16,
+      "word": "parte"
+    },
+    {
+      "start": 56.16,
+      "end": 56.3,
+      "word": "che"
+    },
+    {
+      "start": 56.3,
+      "end": 56.42,
+      "word": "ci"
+    },
+    {
+      "start": 56.42,
+      "end": 56.6,
+      "word": "state"
+    },
+    {
+      "start": 56.6,
+      "end": 57.02,
+      "word": "descritta"
+    },
+    {
+      "start": 57.02,
+      "end": 57.18,
+      "word": "come"
+    },
+    {
+      "start": 57.18,
+      "end": 57.28,
+      "word": "la"
+    },
+    {
+      "start": 57.28,
+      "end": 57.4,
+      "word": "più"
+    },
+    {
+      "start": 57.4,
+      "end": 57.58,
+      "word": "buona."
+    },
+    {
+      "start": 57.58,
+      "end": 57.72,
+      "word": "La"
+    },
+    {
+      "start": 57.72,
+      "end": 58.06,
+      "word": "truccantezza"
+    },
+    {
+      "start": 58.06,
+      "end": 58.26,
+      "word": "della"
+    },
+    {
+      "start": 58.26,
+      "end": 58.72,
+      "word": "cotenna?"
+    },
+    {
+      "start": 58.78,
+      "end": 58.88,
+      "word": "Ma"
+    },
+    {
+      "start": 58.88,
+      "end": 58.98,
+      "word": "te"
+    },
+    {
+      "start": 58.98,
+      "end": 59.06,
+      "word": "lo"
+    },
+    {
+      "start": 59.06,
+      "end": 59.18,
+      "word": "sei"
+    },
+    {
+      "start": 59.18,
+      "end": 59.32,
+      "word": "già"
+    },
+    {
+      "start": 59.32,
+      "end": 59.54,
+      "word": "andato."
+    },
+    {
+      "start": 59.8,
+      "end": 60.24,
+      "word": "C"
+    },
+    {
+      "start": 60.24,
+      "end": 60.36,
+      "word": "'è"
+    },
+    {
+      "start": 60.36,
+      "end": 60.52,
+      "word": "la"
+    },
+    {
+      "start": 60.52,
+      "end": 61.18,
+      "word": "cecume."
+    },
+    {
+      "start": 61.24,
+      "end": 61.42,
+      "word": "Carne"
+    },
+    {
+      "start": 61.42,
+      "end": 61.56,
+      "word": "che"
+    },
+    {
+      "start": 61.56,
+      "end": 61.58,
+      "word": "è"
+    },
+    {
+      "start": 61.58,
+      "end": 61.86,
+      "word": "ovviamente"
+    },
+    {
+      "start": 61.86,
+      "end": 62.14,
+      "word": "molto"
+    },
+    {
+      "start": 62.14,
+      "end": 62.58,
+      "word": "morbida"
+    },
+    {
+      "start": 62.58,
+      "end": 62.66,
+      "word": "e"
+    },
+    {
+      "start": 62.66,
+      "end": 62.76,
+      "word": "con"
+    },
+    {
+      "start": 62.76,
+      "end": 62.88,
+      "word": "il"
+    },
+    {
+      "start": 62.88,
+      "end": 63.04,
+      "word": "solito"
+    },
+    {
+      "start": 63.04,
+      "end": 63.34,
+      "word": "sapore"
+    },
+    {
+      "start": 63.34,
+      "end": 63.74,
+      "word": "molto"
+    },
+    {
+      "start": 63.74,
+      "end": 64.24,
+      "word": "intenso"
+    },
+    {
+      "start": 64.24,
+      "end": 64.54,
+      "word": "diciamo"
+    },
+    {
+      "start": 64.54,
+      "end": 64.7,
+      "word": "del"
+    },
+    {
+      "start": 64.7,
+      "end": 65.08,
+      "word": "porcetto"
+    },
+    {
+      "start": 65.08,
+      "end": 65.52,
+      "word": "sardo."
+    },
+    {
+      "start": 65.64,
+      "end": 65.64,
+      "word": "La"
+    },
+    {
+      "start": 65.64,
+      "end": 65.96,
+      "word": "testa"
+    },
+    {
+      "start": 65.96,
+      "end": 66.06,
+      "word": "che"
+    },
+    {
+      "start": 66.06,
+      "end": 66.18,
+      "word": "anche"
+    },
+    {
+      "start": 66.18,
+      "end": 66.36,
+      "word": "se"
+    },
+    {
+      "start": 66.36,
+      "end": 66.62,
+      "word": "faceva"
+    },
+    {
+      "start": 66.62,
+      "end": 66.98,
+      "word": "abbastanza"
+    },
+    {
+      "start": 66.98,
+      "end": 67.74,
+      "word": "impressione"
+    },
+    {
+      "start": 67.74,
+      "end": 67.98,
+      "word": "era"
+    },
+    {
+      "start": 67.98,
+      "end": 68.24,
+      "word": "molto"
+    },
+    {
+      "start": 68.24,
+      "end": 68.52,
+      "word": "buona."
+    },
+    {
+      "start": 68.58,
+      "end": 68.64,
+      "word": "Qui"
+    },
+    {
+      "start": 68.64,
+      "end": 68.92,
+      "word": "ragazzi"
+    },
+    {
+      "start": 68.92,
+      "end": 69.18,
+      "word": "guardate"
+    },
+    {
+      "start": 69.18,
+      "end": 69.32,
+      "word": "che"
+    },
+    {
+      "start": 69.32,
+      "end": 69.66,
+      "word": "pezzo"
+    },
+    {
+      "start": 69.66,
+      "end": 69.78,
+      "word": "di"
+    },
+    {
+      "start": 69.78,
+      "end": 70.22,
+      "word": "cotenna"
+    },
+    {
+      "start": 70.22,
+      "end": 71.48,
+      "word": "clammoroso."
+    },
+    {
+      "start": 71.64,
+      "end": 71.76,
+      "word": "Ed"
+    },
+    {
+      "start": 71.76,
+      "end": 72.12,
+      "word": "infine"
+    },
+    {
+      "start": 72.12,
+      "end": 72.36,
+      "word": "si"
+    },
+    {
+      "start": 72.36,
+      "end": 72.72,
+      "word": "adassa"
+    },
+    {
+      "start": 72.72,
+      "end": 73.0,
+      "word": "con"
+    },
+    {
+      "start": 73.0,
+      "end": 73.16,
+      "word": "il"
+    },
+    {
+      "start": 73.16,
+      "end": 73.56,
+      "word": "miele."
+    },
+    {
+      "start": 76.1,
+      "end": 76.58,
+      "word": "Fritta"
+    },
+    {
+      "start": 76.58,
+      "end": 76.82,
+      "word": "la"
+    },
+    {
+      "start": 76.82,
+      "end": 77.2,
+      "word": "grande"
+    },
+    {
+      "start": 77.2,
+      "end": 77.44,
+      "word": "anche"
+    },
+    {
+      "start": 77.44,
+      "end": 77.68,
+      "word": "lei"
+    },
+    {
+      "start": 77.68,
+      "end": 77.88,
+      "word": "con"
+    },
+    {
+      "start": 77.88,
+      "end": 78.4,
+      "word": "abbondante"
+    },
+    {
+      "start": 78.4,
+      "end": 78.86,
+      "word": "miele."
+    },
+    {
+      "start": 78.92,
+      "end": 79.0,
+      "word": "Ed"
+    },
+    {
+      "start": 79.0,
+      "end": 79.1,
+      "word": "è"
+    },
+    {
+      "start": 79.1,
+      "end": 79.22,
+      "word": "così"
+    },
+    {
+      "start": 79.22,
+      "end": 79.4,
+      "word": "che"
+    },
+    {
+      "start": 79.4,
+      "end": 79.5,
+      "word": "si"
+    },
+    {
+      "start": 79.5,
+      "end": 79.82,
+      "word": "arriva"
+    },
+    {
+      "start": 79.82,
+      "end": 80.02,
+      "word": "al"
+    },
+    {
+      "start": 80.02,
+      "end": 80.34,
+      "word": "caffè"
+    },
+    {
+      "start": 80.34,
+      "end": 80.54,
+      "word": "e"
+    },
+    {
+      "start": 80.54,
+      "end": 80.66,
+      "word": "al"
+    },
+    {
+      "start": 80.66,
+      "end": 81.02,
+      "word": "mirtro."
+    },
+    {
+      "start": 81.08,
+      "end": 81.18,
+      "word": "Un"
+    },
+    {
+      "start": 81.18,
+      "end": 81.48,
+      "word": "locale"
+    },
+    {
+      "start": 81.48,
+      "end": 81.68,
+      "word": "che"
+    },
+    {
+      "start": 81.68,
+      "end": 81.94,
+      "word": "offre"
+    },
+    {
+      "start": 81.94,
+      "end": 82.18,
+      "word": "quindi"
+    },
+    {
+      "start": 82.18,
+      "end": 82.34,
+      "word": "un"
+    },
+    {
+      "start": 82.34,
+      "end": 82.52,
+      "word": "menu"
+    },
+    {
+      "start": 82.52,
+      "end": 82.88,
+      "word": "fisso"
+    },
+    {
+      "start": 82.88,
+      "end": 82.98,
+      "word": "a"
+    },
+    {
+      "start": 82.98,
+      "end": 83.34,
+      "word": "55"
+    },
+    {
+      "start": 83.34,
+      "end": 83.84,
+      "word": "euro"
+    },
+    {
+      "start": 83.84,
+      "end": 84.06,
+      "word": "con"
+    },
+    {
+      "start": 84.06,
+      "end": 84.4,
+      "word": "diverse"
+    },
+    {
+      "start": 84.4,
+      "end": 84.9,
+      "word": "portate"
+    },
+    {
+      "start": 84.9,
+      "end": 85.02,
+      "word": "e"
+    },
+    {
+      "start": 85.02,
+      "end": 85.36,
+      "word": "tutte"
+    },
+    {
+      "start": 85.36,
+      "end": 85.66,
+      "word": "molto"
+    },
+    {
+      "start": 85.66,
+      "end": 86.12,
+      "word": "valide."
+    },
+    {
+      "start": 86.12,
+      "end": 86.22,
+      "word": "Il"
+    },
+    {
+      "start": 86.22,
+      "end": 86.46,
+      "word": "posto"
+    },
+    {
+      "start": 86.46,
+      "end": 86.96,
+      "word": "perfetto"
+    },
+    {
+      "start": 86.96,
+      "end": 87.1,
+      "word": "si"
+    },
+    {
+      "start": 87.1,
+      "end": 87.26,
+      "word": "sente"
+    },
+    {
+      "start": 87.26,
+      "end": 87.4,
+      "word": "un"
+    },
+    {
+      "start": 87.4,
+      "end": 87.48,
+      "word": "bel"
+    },
+    {
+      "start": 87.48,
+      "end": 87.88,
+      "word": "gruppo"
+    },
+    {
+      "start": 87.88,
+      "end": 87.98,
+      "word": "o"
+    },
+    {
+      "start": 87.98,
+      "end": 88.12,
+      "word": "anche"
+    },
+    {
+      "start": 88.12,
+      "end": 88.6,
+      "word": "semplicemente"
+    },
+    {
+      "start": 88.6,
+      "end": 88.74,
+      "word": "in"
+    },
+    {
+      "start": 88.74,
+      "end": 89.12,
+      "word": "coppia."
+    },
+    {
+      "start": 89.14,
+      "end": 89.34,
+      "word": "Vista"
+    },
+    {
+      "start": 89.34,
+      "end": 89.44,
+      "word": "la"
+    },
+    {
+      "start": 89.44,
+      "end": 89.72,
+      "word": "location"
+    },
+    {
+      "start": 89.72,
+      "end": 90.3,
+      "word": "davvero"
+    },
+    {
+      "start": 90.3,
+      "end": 91.58,
+      "word": "clammorosa."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.233,
+      "dur": 2.233,
+      "transcript": "Il migliore agriturismo della costa Smeralda. Nonché"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.233,
+      "end": 4.033,
+      "dur": 1.8,
+      "transcript": "il migliore porcetto mangiato in costa"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 5.633,
+      "dur": 1.6,
+      "transcript": "Smeralda. Oggi vi portino un agriturismo"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.633,
+      "end": 8.633,
+      "dur": 3.0,
+      "transcript": "un po' meno conosciuto rispetto ai più famosi come Lustazzu, ma"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.633,
+      "end": 11.667,
+      "dur": 3.033,
+      "transcript": "che considero altrettanto valido. Ci troviamo l 'agriturismo Samendula,"
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.667,
+      "end": 13.667,
+      "dur": 2.0,
+      "transcript": "vicino Port Rotondo. Partiamo comunque da un"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.667,
+      "end": 15.3,
+      "dur": 1.633,
+      "transcript": "'ottima location ovviamente all 'aperto"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.3,
+      "end": 17.233,
+      "dur": 1.933,
+      "transcript": "con anche un 'ottima vista. Ne lo vamo già una bella"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.233,
+      "end": 21.3,
+      "dur": 4.067,
+      "transcript": "tavolata e ci hanno servito subito il vino della casa. Tempo neanche cinque minuti sono arrivati gli"
+    },
+    {
+      "shot_idx": 9,
+      "start": 21.3,
+      "end": 23.3,
+      "dur": 2.0,
+      "transcript": "antipasti con salumi e formaggi accompagnati"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.3,
+      "end": 24.6,
+      "dur": 1.3,
+      "transcript": "da pane e pane carasavo."
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.6,
+      "end": 25.867,
+      "dur": 1.267,
+      "transcript": "Ovviamente tutto molto apprezzato,"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.867,
+      "end": 27.133,
+      "dur": 1.267,
+      "transcript": "dopo di che verdure"
+    },
+    {
+      "shot_idx": 13,
+      "start": 27.133,
+      "end": 29.3,
+      "dur": 2.167,
+      "transcript": "fritte e delle piccole frittatine di verdure. A"
+    },
+    {
+      "shot_idx": 14,
+      "start": 29.3,
+      "end": 30.533,
+      "dur": 1.233,
+      "transcript": "parte altre melanzanne"
+    },
+    {
+      "shot_idx": 15,
+      "start": 30.533,
+      "end": 32.533,
+      "dur": 2.0,
+      "transcript": "condite, questa sorta di purè molto"
+    },
+    {
+      "shot_idx": 16,
+      "start": 32.533,
+      "end": 34.333,
+      "dur": 1.8,
+      "transcript": "cremoso e con un forte retrogust di"
+    },
+    {
+      "shot_idx": 17,
+      "start": 34.333,
+      "end": 36.1,
+      "dur": 1.767,
+      "transcript": "burro e per concludere un assaggio di"
+    },
+    {
+      "shot_idx": 18,
+      "start": 36.1,
+      "end": 38.1,
+      "dur": 2.0,
+      "transcript": "cinghiale per tutti. Ma questo era solo l 'antipasto."
+    },
+    {
+      "shot_idx": 19,
+      "start": 38.1,
+      "end": 40.067,
+      "dur": 1.967,
+      "transcript": "Passando e prima ovviamente arriviamo alla fregola"
+    },
+    {
+      "shot_idx": 20,
+      "start": 40.067,
+      "end": 41.567,
+      "dur": 1.5,
+      "transcript": "sarda, contro l 'altro un 'ottimo"
+    },
+    {
+      "shot_idx": 21,
+      "start": 41.567,
+      "end": 42.833,
+      "dur": 1.267,
+      "transcript": "ragù e a quest 'artidravio olio"
+    },
+    {
+      "shot_idx": 22,
+      "start": 42.833,
+      "end": 45.833,
+      "dur": 3.0,
+      "transcript": "ovviamente fatti da loro ripieni di ricotta. Per accompagnare poi il punto"
+    },
+    {
+      "shot_idx": 23,
+      "start": 45.833,
+      "end": 47.867,
+      "dur": 2.033,
+      "transcript": "forte di questa cena abbiamo in realtà il punto debole,"
+    },
+    {
+      "shot_idx": 24,
+      "start": 47.867,
+      "end": 54.367,
+      "dur": 6.5,
+      "transcript": "ovvero quest 'insalatina che avevi preferito fosse un bel contorno di patate al forno. Di ogni caso ragazzi ecco il porcetto sardo ed ecco"
+    },
+    {
+      "shot_idx": 25,
+      "start": 54.367,
+      "end": 57.433,
+      "dur": 3.067,
+      "transcript": "la testa di questo maialino. La parte che ci state descritta come la più"
+    },
+    {
+      "shot_idx": 26,
+      "start": 57.433,
+      "end": 61.533,
+      "dur": 4.1,
+      "transcript": "buona. La truccantezza della cotenna? Ma te lo sei già andato. C 'è la cecume. Carne che"
+    },
+    {
+      "shot_idx": 27,
+      "start": 61.533,
+      "end": 63.5,
+      "dur": 1.967,
+      "transcript": "è ovviamente molto morbida e con il solito sapore"
+    },
+    {
+      "shot_idx": 28,
+      "start": 63.5,
+      "end": 66.033,
+      "dur": 2.533,
+      "transcript": "molto intenso diciamo del porcetto sardo. La testa che"
+    },
+    {
+      "shot_idx": 29,
+      "start": 66.033,
+      "end": 68.0,
+      "dur": 1.967,
+      "transcript": "anche se faceva abbastanza impressione era"
+    },
+    {
+      "shot_idx": 30,
+      "start": 68.0,
+      "end": 69.833,
+      "dur": 1.833,
+      "transcript": "molto buona. Qui ragazzi guardate che pezzo di"
+    },
+    {
+      "shot_idx": 31,
+      "start": 69.833,
+      "end": 71.967,
+      "dur": 2.133,
+      "transcript": "cotenna clammoroso. Ed infine"
+    },
+    {
+      "shot_idx": 32,
+      "start": 71.967,
+      "end": 73.6,
+      "dur": 1.633,
+      "transcript": "si adassa con il miele."
+    },
+    {
+      "shot_idx": 33,
+      "start": 73.6,
+      "end": 76.167,
+      "dur": 2.567,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 34,
+      "start": 76.167,
+      "end": 78.133,
+      "dur": 1.967,
+      "transcript": "Fritta la grande anche lei con"
+    },
+    {
+      "shot_idx": 35,
+      "start": 78.133,
+      "end": 81.633,
+      "dur": 3.5,
+      "transcript": "abbondante miele. Ed è così che si arriva al caffè e al mirtro. Un locale che"
+    },
+    {
+      "shot_idx": 36,
+      "start": 81.633,
+      "end": 83.667,
+      "dur": 2.033,
+      "transcript": "offre quindi un menu fisso a 55 euro"
+    },
+    {
+      "shot_idx": 37,
+      "start": 83.667,
+      "end": 85.667,
+      "dur": 2.0,
+      "transcript": "con diverse portate e tutte molto"
+    },
+    {
+      "shot_idx": 38,
+      "start": 85.667,
+      "end": 87.5,
+      "dur": 1.833,
+      "transcript": "valide. Il posto perfetto si sente un bel"
+    },
+    {
+      "shot_idx": 39,
+      "start": 87.5,
+      "end": 89.933,
+      "dur": 2.433,
+      "transcript": "gruppo o anche semplicemente in coppia. Vista la location"
+    },
+    {
+      "shot_idx": 40,
+      "start": 89.933,
+      "end": 91.9,
+      "dur": 1.967,
+      "transcript": "davvero clammorosa."
+    }
+  ],
+  "full_text": "Il migliore agriturismo della costa Smeralda. Nonché il migliore porcetto mangiato in costa Smeralda. Oggi vi portino un agriturismo un po' meno conosciuto rispetto ai più famosi come Lustazzu, ma che considero altrettanto valido. Ci troviamo l'agriturismo Samendula, vicino Port Rotondo. Partiamo comunque da un'ottima location ovviamente all'aperto con anche un'ottima vista. Ne lo vamo già una bella tavolata e ci hanno servito subito il vino della casa. Tempo neanche cinque minuti sono arrivati gli antipasti con salumi e formaggi accompagnati da pane e pane carasavo. Ovviamente tutto molto apprezzato, dopo di che verdure fritte e delle piccole frittatine di verdure. A parte altre melanzanne condite, questa sorta di purè molto cremoso e con un forte retrogust di burro e per concludere un assaggio di cinghiale per tutti. Ma questo era solo l'antipasto. Passando e prima ovviamente arriviamo alla fregola sarda, contro l'altro un'ottimo ragù e a quest'artidravio olio ovviamente fatti da loro ripieni di ricotta. Per accompagnare poi il punto forte di questa cena abbiamo in realtà il punto debole, ovvero quest'insalatina che avevi preferito fosse un bel contorno di patate al forno. Di ogni caso ragazzi ecco il porcetto sardo ed ecco la testa di questo maialino. La parte che ci state descritta come la più buona. La truccantezza della cotenna? Ma te lo sei già andato. C'è la cecume. Carne che è ovviamente molto morbida e con il solito sapore molto intenso diciamo del porcetto sardo. La testa che anche se faceva abbastanza impressione era molto buona. Qui ragazzi guardate che pezzo di cotenna clammoroso. Ed infine si adassa con il miele. Fritta la grande anche lei con abbondante miele. Ed è così che si arriva al caffè e al mirtro. Un locale che offre quindi un menu fisso a 55 euro con diverse portate e tutte molto valide. Il posto perfetto si sente un bel gruppo o anche semplicemente in coppia. Vista la location davvero clammorosa.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

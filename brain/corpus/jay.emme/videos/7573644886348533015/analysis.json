@@ -1,0 +1,436 @@
+{
+  "video_id": "7573644886348533015",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7573644886348533015",
+    "ref_id": "ref_46_7573644886348533015",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7573644886348533015",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 6,
+  "total_dur": 36.8,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 4.633,
+      "dur": 4.633,
+      "center": 2.317,
+      "role": "food_detail",
+      "subject": "fetta torta colorata",
+      "description": "La torta colorata e il testo 'POV: VUOI FARE IL FOOD BLOGGER' con emoji.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Sipangian Hey, how do you do?"
+    },
+    {
+      "idx": 1,
+      "start": 4.633,
+      "end": 6.933,
+      "dur": 2.3,
+      "center": 5.783,
+      "role": "person_eating",
+      "subject": "ragazzo mangia torta",
+      "description": "Il ragazzo che sta per mangiare un pezzo di torta con la bocca aperta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": ""
+    },
+    {
+      "idx": 2,
+      "start": 6.933,
+      "end": 20.433,
+      "dur": 13.5,
+      "center": 13.683,
+      "role": "person_eating",
+      "subject": "ragazzo sorridente torta",
+      "description": "Il ragazzo sorride mentre tiene la torta e un pezzo sul cucchiaio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Ga laugh�� tempi Is there one? is there one? gammie Andre Hey"
+    },
+    {
+      "idx": 3,
+      "start": 20.433,
+      "end": 21.167,
+      "dur": 0.733,
+      "center": 20.8,
+      "role": "other",
+      "subject": "gambe sfocate rosse",
+      "description": "L'immagine è sfocata e mostra principalmente le gambe di una persona in rosso.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": ""
+    },
+    {
+      "idx": 4,
+      "start": 21.167,
+      "end": 34.233,
+      "dur": 13.067,
+      "center": 27.7,
+      "role": "person_eating",
+      "subject": "ragazzo ride torta",
+      "description": "Il ragazzo ride di gusto mentre tiene la torta e un pezzo sul cucchiaio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ulia Gaspbra Sì, sì, sì, sì, sì."
+    },
+    {
+      "idx": 5,
+      "start": 34.233,
+      "end": 36.8,
+      "dur": 2.567,
+      "center": 35.517,
+      "role": "person_eating",
+      "subject": "ragazzo mangia torta",
+      "description": "Il ragazzo sta mangiando una fetta di torta colorata con un cucchiaino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta torta colorata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La torta colorata e il testo 'POV: VUOI FARE IL FOOD BLOGGER' con emoji.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 4.633,
+      "dur": 4.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia torta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo che sta per mangiare un pezzo di torta con la bocca aperta.",
+      "shot_idx": 1,
+      "start": 4.633,
+      "end": 6.933,
+      "dur": 2.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorridente torta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sorride mentre tiene la torta e un pezzo sul cucchiaio.",
+      "shot_idx": 2,
+      "start": 6.933,
+      "end": 20.433,
+      "dur": 13.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "gambe sfocate rosse",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'immagine è sfocata e mostra principalmente le gambe di una persona in rosso.",
+      "shot_idx": 3,
+      "start": 20.433,
+      "end": 21.167,
+      "dur": 0.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo ride torta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo ride di gusto mentre tiene la torta e un pezzo sul cucchiaio.",
+      "shot_idx": 4,
+      "start": 21.167,
+      "end": 34.233,
+      "dur": 13.067
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia torta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando una fetta di torta colorata con un cucchiaino.",
+      "shot_idx": 5,
+      "start": 34.233,
+      "end": 36.8,
+      "dur": 2.567
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Sipangian"
+    },
+    {
+      "start": 2.1,
+      "end": 2.88,
+      "text": "Hey, how do you do?"
+    },
+    {
+      "start": 8.54,
+      "end": 10.74,
+      "text": "Ga laugh"
+    },
+    {
+      "start": 10.74,
+      "end": 11.4,
+      "text": "�� tempi"
+    },
+    {
+      "start": 11.4,
+      "end": 13.3,
+      "text": "Is there one?"
+    },
+    {
+      "start": 13.3,
+      "end": 15.24,
+      "text": "is there one?"
+    },
+    {
+      "start": 15.24,
+      "end": 25.16,
+      "text": "gammie"
+    },
+    {
+      "start": 28.54,
+      "end": 29.64,
+      "text": "Andre"
+    },
+    {
+      "start": 23.62,
+      "end": 25.08,
+      "text": "Hey ulia"
+    },
+    {
+      "start": 28.1,
+      "end": 29.8,
+      "text": "Gaspbra"
+    },
+    {
+      "start": 32.44,
+      "end": 33.74,
+      "text": "Sì, sì, sì, sì, sì."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "word": "Sipangian"
+    },
+    {
+      "start": 2.1,
+      "end": 2.1,
+      "word": "Hey,"
+    },
+    {
+      "start": 2.22,
+      "end": 2.44,
+      "word": "how"
+    },
+    {
+      "start": 2.44,
+      "end": 2.52,
+      "word": "do"
+    },
+    {
+      "start": 2.52,
+      "end": 2.72,
+      "word": "you"
+    },
+    {
+      "start": 2.72,
+      "end": 2.88,
+      "word": "do?"
+    },
+    {
+      "start": 8.54,
+      "end": 9.64,
+      "word": "Ga"
+    },
+    {
+      "start": 9.64,
+      "end": 10.74,
+      "word": "laugh��"
+    },
+    {
+      "start": 10.74,
+      "end": 11.4,
+      "word": "tempi"
+    },
+    {
+      "start": 11.4,
+      "end": 11.4,
+      "word": "Is"
+    },
+    {
+      "start": 11.4,
+      "end": 11.48,
+      "word": "there"
+    },
+    {
+      "start": 11.48,
+      "end": 12.0,
+      "word": "one?"
+    },
+    {
+      "start": 12.74,
+      "end": 13.3,
+      "word": "is"
+    },
+    {
+      "start": 13.3,
+      "end": 13.42,
+      "word": "there"
+    },
+    {
+      "start": 13.42,
+      "end": 13.76,
+      "word": "one?"
+    },
+    {
+      "start": 14.7,
+      "end": 15.24,
+      "word": "gammie"
+    },
+    {
+      "start": 15.24,
+      "end": 16.74,
+      "word": "Andre"
+    },
+    {
+      "start": 16.74,
+      "end": 23.66,
+      "word": "Hey"
+    },
+    {
+      "start": 23.66,
+      "end": 25.16,
+      "word": "ulia"
+    },
+    {
+      "start": 28.54,
+      "end": 29.64,
+      "word": "Gaspbra"
+    },
+    {
+      "start": 32.44,
+      "end": 32.84,
+      "word": "Sì,"
+    },
+    {
+      "start": 32.94,
+      "end": 33.14,
+      "word": "sì,"
+    },
+    {
+      "start": 33.14,
+      "end": 33.26,
+      "word": "sì,"
+    },
+    {
+      "start": 33.26,
+      "end": 33.74,
+      "word": "sì,"
+    },
+    {
+      "start": 33.74,
+      "end": 33.74,
+      "word": "sì."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 4.633,
+      "dur": 4.633,
+      "transcript": "Sipangian Hey, how do you do?"
+    },
+    {
+      "shot_idx": 1,
+      "start": 4.633,
+      "end": 6.933,
+      "dur": 2.3,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 2,
+      "start": 6.933,
+      "end": 20.433,
+      "dur": 13.5,
+      "transcript": "Ga laugh�� tempi Is there one? is there one? gammie Andre Hey"
+    },
+    {
+      "shot_idx": 3,
+      "start": 20.433,
+      "end": 21.167,
+      "dur": 0.733,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 4,
+      "start": 21.167,
+      "end": 34.233,
+      "dur": 13.067,
+      "transcript": "ulia Gaspbra Sì, sì, sì, sì, sì."
+    },
+    {
+      "shot_idx": 5,
+      "start": 34.233,
+      "end": 36.8,
+      "dur": 2.567,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Sipangian Hey, how do you do? Ga laugh �� tempi Is there one? is there one? gammie Andre Hey ulia Gaspbra Sì, sì, sì, sì, sì.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,571 @@
+{
+  "engine": "brain_edit_from_master",
+  "n_clips": 28,
+  "profile_id": "16",
+  "timeline": [
+    {
+      "beat_moment": "Apertura tipica, introduce il locale, usa parola firma.",
+      "beat_type": "venue_interior_detail",
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "description": "Schermi con menu e opzioni",
+      "duration": 1.89,
+      "end": 1.89,
+      "in_sec": 0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6813_s1_sub0/f0.jpg"
+      ],
+      "out_sec": 1.89,
+      "requested_duration": 1.89,
+      "role": "venue_interior_detail",
+      "scene_id": 0,
+      "start": 0,
+      "subject": "Schermi con menu e opzioni",
+      "subtitle_text": "Oggi ragazzi vi porto in un posto super!"
+    },
+    {
+      "beat_moment": "Descrive l'ambiente, usa parole firma.",
+      "beat_type": "venue_interior_detail",
+      "clip_name": "IMG_6813.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6813.MOV",
+      "description": "Schermi con menu e opzioni",
+      "duration": 1.88,
+      "end": 3.768,
+      "in_sec": 1.89,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6813_s1_sub0/f0.jpg"
+      ],
+      "out_sec": 3.768,
+      "requested_duration": 1.88,
+      "role": "venue_interior_detail",
+      "scene_id": 1,
+      "start": 1.89,
+      "subject": "Schermi con menu e opzioni",
+      "subtitle_text": "Il locale è veramente accogliente, devo dire."
+    },
+    {
+      "beat_moment": "Mostra varietà, usa bigramma e parola firma.",
+      "beat_type": "venue_interior_detail",
+      "clip_name": "IMG_6815.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6815.MOV",
+      "description": "Schermo con pubblicità cibo",
+      "duration": 2.97,
+      "end": 2.967,
+      "in_sec": 0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6815_s0_sub0/f0.jpg"
+      ],
+      "out_sec": 2.967,
+      "requested_duration": 2.97,
+      "role": "venue_interior_detail",
+      "scene_id": 2,
+      "start": 0,
+      "subject": "Schermo con pubblicità cibo",
+      "subtitle_text": "Un sacco di opzioni tra cui scegliere, ovviamente."
+    },
+    {
+      "beat_moment": "Mostra l'ambiente, usa parola firma.",
+      "beat_type": "venue_interior_wide",
+      "clip_name": "IMG_6816.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6816.MOV",
+      "description": "Interno locale con logo",
+      "duration": 3.2,
+      "end": 3.2,
+      "in_sec": 0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6816_s0_sub0/f0.jpg"
+      ],
+      "out_sec": 3.2,
+      "requested_duration": 3.2,
+      "role": "venue_interior_wide",
+      "scene_id": 3,
+      "start": 0,
+      "subject": "Interno locale con logo",
+      "subtitle_text": "L'atmosfera è molto cool, infatti."
+    },
+    {
+      "beat_moment": "Dettaglio del locale, usa parole firma.",
+      "beat_type": "venue_interior_wide",
+      "clip_name": "IMG_6816.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6816.MOV",
+      "description": "Logo Wingstop sul muro",
+      "duration": 2.4,
+      "end": 5.6,
+      "in_sec": 3.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6816_s0_sub0/f0.jpg"
+      ],
+      "out_sec": 5.6,
+      "requested_duration": 2.4,
+      "role": "venue_interior_wide",
+      "scene_id": 4,
+      "start": 3.2,
+      "subject": "Logo Wingstop sul muro",
+      "subtitle_text": "Il logo è super riconoscibile, appunto."
+    },
+    {
+      "beat_moment": "Mostra l'abbondanza, usa bigramma e parola firma.",
+      "beat_type": "food_plated",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "description": "Tavolo pieno di vassoi di cibo",
+      "duration": 1.6,
+      "end": 1.6,
+      "in_sec": 0,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6820_s1_sub0/f0.jpg"
+      ],
+      "out_sec": 1.6,
+      "requested_duration": 1.6,
+      "role": "food_plated",
+      "scene_id": 5,
+      "start": 0,
+      "subject": "Tavolo pieno di vassoi di cibo",
+      "subtitle_text": "Guardate ragazzi, un sacco di roba!"
+    },
+    {
+      "beat_moment": "Enfatizza la quantità, usa parole firma.",
+      "beat_type": "food_plated",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "description": "Vassoi con patatine e pollo",
+      "duration": 2.8,
+      "end": 4.4,
+      "in_sec": 1.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6820_s1_sub0/f0.jpg"
+      ],
+      "out_sec": 4.4,
+      "requested_duration": 2.8,
+      "role": "food_plated",
+      "scene_id": 6,
+      "start": 1.6,
+      "subject": "Vassoi con patatine e pollo",
+      "subtitle_text": "Praticamente una festa, devo dire."
+    },
+    {
+      "beat_moment": "Focus sul cibo, usa parola firma.",
+      "beat_type": "food_plated",
+      "clip_name": "IMG_6820.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6820.MOV",
+      "description": "Dettaglio patatine e pollo",
+      "duration": 3.4,
+      "end": 7.8,
+      "in_sec": 4.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6820_s1_sub0/f0.jpg"
+      ],
+      "out_sec": 7.8,
+      "requested_duration": 3.4,
+      "role": "food_plated",
+      "scene_id": 7,
+      "start": 4.4,
+      "subject": "Dettaglio patatine e pollo",
+      "subtitle_text": "Le patatine sono veramente invitanti."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa pattern sintattico e bigramma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "description": "Patatine fritte con pepe",
+      "duration": 3.2,
+      "end": 5.6,
+      "in_sec": 2.4,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6821_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 5.6,
+      "requested_duration": 3.2,
+      "role": "food_detail",
+      "scene_id": 8,
+      "start": 2.4,
+      "subject": "Patatine fritte con pepe",
+      "subtitle_text": "Un po' di pepe, che tra l'altro ci sta benissimo."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa parole firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "description": "Ali di pollo glassate",
+      "duration": 2.1,
+      "end": 7.7,
+      "in_sec": 5.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6821_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 7.7,
+      "requested_duration": 2.1,
+      "role": "food_detail",
+      "scene_id": 9,
+      "start": 5.6,
+      "subject": "Ali di pollo glassate",
+      "subtitle_text": "Queste ali sono molto lucide, ovviamente."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa parole firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "description": "Ali di pollo glassate",
+      "duration": 2.8,
+      "end": 14.3,
+      "in_sec": 11.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6821_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 14.3,
+      "requested_duration": 2.8,
+      "role": "food_detail",
+      "scene_id": 10,
+      "start": 11.5,
+      "subject": "Ali di pollo glassate",
+      "subtitle_text": "La glassa è super invitante, ragazzi."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa bigramma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "description": "Nuggets di pollo impanati",
+      "duration": 1.7,
+      "end": 16,
+      "in_sec": 14.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6821_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 16,
+      "requested_duration": 1.7,
+      "role": "food_detail",
+      "scene_id": 11,
+      "start": 14.3,
+      "subject": "Nuggets di pollo impanati",
+      "subtitle_text": "I nuggets sono perfetti, devo dire."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa parola firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6821.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6821.MOV",
+      "description": "Tenders di pollo croccanti",
+      "duration": 1.8,
+      "end": 25,
+      "in_sec": 23.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6821_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 25,
+      "requested_duration": 1.8,
+      "role": "food_detail",
+      "scene_id": 12,
+      "start": 23.2,
+      "subject": "Tenders di pollo croccanti",
+      "subtitle_text": "Questi tenders sono croccanti, appunto."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa parole firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "description": "Ali di pollo con glassa",
+      "duration": 2.8,
+      "end": 4.4,
+      "in_sec": 1.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6822_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 4.4,
+      "requested_duration": 2.8,
+      "role": "food_detail",
+      "scene_id": 13,
+      "start": 1.6,
+      "subject": "Ali di pollo con glassa",
+      "subtitle_text": "Guardate la glassa, è davvero appiccicosa."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa bigramma e parola firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "description": "Nuggets di pollo impanati",
+      "duration": 2.3,
+      "end": 8.4,
+      "in_sec": 6.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6822_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 8.4,
+      "requested_duration": 2.3,
+      "role": "food_detail",
+      "scene_id": 14,
+      "start": 6.1,
+      "subject": "Nuggets di pollo impanati",
+      "subtitle_text": "Un sacco di nuggets, appunto."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa parola firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6822.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6822.MOV",
+      "description": "Tenders di pollo impanati",
+      "duration": 3.03,
+      "end": 13.33,
+      "in_sec": 10.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6822_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 13.33,
+      "requested_duration": 3.03,
+      "role": "food_detail",
+      "scene_id": 15,
+      "start": 10.3,
+      "subject": "Tenders di pollo impanati",
+      "subtitle_text": "I tenders sono dorati, infatti."
+    },
+    {
+      "beat_moment": "Il creator mostra il cibo, usa parola firma.",
+      "beat_type": "person_talking",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "description": "Il creator sorride con il cibo",
+      "duration": 1.9,
+      "end": 4.2,
+      "in_sec": 2.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6823_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 4.2,
+      "requested_duration": 1.9,
+      "role": "person_talking",
+      "scene_id": 16,
+      "start": 2.3,
+      "subject": "Il creator sorride con il cibo",
+      "subtitle_text": "Il creator è proprio felice, comunque."
+    },
+    {
+      "beat_moment": "Il creator mostra il cibo, usa bigramma e parola firma.",
+      "beat_type": "person_talking",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "description": "Il creator mostra il cibo",
+      "duration": 2,
+      "end": 15.7,
+      "in_sec": 13.7,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6823_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 15.7,
+      "requested_duration": 2,
+      "role": "person_talking",
+      "scene_id": 17,
+      "start": 13.7,
+      "subject": "Il creator mostra il cibo",
+      "subtitle_text": "Un sacco di cibo, devo dire."
+    },
+    {
+      "beat_moment": "Il creator interagisce, usa parole firma.",
+      "beat_type": "person_talking",
+      "clip_name": "IMG_6823.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6823.MOV",
+      "description": "Il creator fa un pollice in su",
+      "duration": 2.1,
+      "end": 24.9,
+      "in_sec": 22.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6823_s4_sub0/f0.jpg"
+      ],
+      "out_sec": 24.9,
+      "requested_duration": 2.1,
+      "role": "person_talking",
+      "scene_id": 18,
+      "start": 22.8,
+      "subject": "Il creator fa un pollice in su",
+      "subtitle_text": "Un'esperienza proprio, tra l'altro."
+    },
+    {
+      "beat_moment": "Inizia l'assaggio, usa parola firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "description": "Il creator prende un nugget",
+      "duration": 3.2,
+      "end": 9.1,
+      "in_sec": 5.9,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6824_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 9.1,
+      "requested_duration": 3.2,
+      "role": "person_eating",
+      "scene_id": 19,
+      "start": 5.9,
+      "subject": "Il creator prende un nugget",
+      "subtitle_text": "Ora si assaggia, infatti."
+    },
+    {
+      "beat_moment": "Dettaglio dell'azione, usa parole firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "description": "Il creator intinge il nugget nella salsa",
+      "duration": 2.3,
+      "end": 21.8,
+      "in_sec": 19.5,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6824_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 21.8,
+      "requested_duration": 2.3,
+      "role": "person_eating",
+      "scene_id": 20,
+      "start": 19.5,
+      "subject": "Il creator intinge il nugget nella salsa",
+      "subtitle_text": "Con un po' di salsa, è molto."
+    },
+    {
+      "beat_moment": "Reazione all'assaggio, usa parola firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "description": "Il creator addenta il nugget",
+      "duration": 1.9,
+      "end": 23.7,
+      "in_sec": 21.8,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6824_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 23.7,
+      "requested_duration": 1.9,
+      "role": "person_eating",
+      "scene_id": 21,
+      "start": 21.8,
+      "subject": "Il creator addenta il nugget",
+      "subtitle_text": "Il sapore è incredibilmente buono, ragazzi."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa bigramma e parola firma.",
+      "beat_type": "food_detail",
+      "clip_name": "IMG_6824.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6824.MOV",
+      "description": "Patatine con salsa al formaggio",
+      "duration": 1.5,
+      "end": 36.7,
+      "in_sec": 35.2,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6824_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 36.7,
+      "requested_duration": 1.5,
+      "role": "food_detail",
+      "scene_id": 22,
+      "start": 35.2,
+      "subject": "Patatine con salsa al formaggio",
+      "subtitle_text": "Guardate qua queste patatine al formaggio, che tra l'altro..."
+    },
+    {
+      "beat_moment": "Assaggio, usa parole firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "description": "Il creator mangia patatine con forchetta",
+      "duration": 1.9,
+      "end": 4.2,
+      "in_sec": 2.3,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6825_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 4.2,
+      "requested_duration": 1.9,
+      "role": "person_eating",
+      "scene_id": 23,
+      "start": 2.3,
+      "subject": "Il creator mangia patatine con forchetta",
+      "subtitle_text": "Le patatine sono davvero croccanti, devo dire."
+    },
+    {
+      "beat_moment": "Dettaglio cibo, usa bigramma e parola firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "description": "Il creator mostra patatine",
+      "duration": 2,
+      "end": 15.7,
+      "in_sec": 13.7,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6825_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 15.7,
+      "requested_duration": 2,
+      "role": "person_eating",
+      "scene_id": 24,
+      "start": 13.7,
+      "subject": "Il creator mostra patatine",
+      "subtitle_text": "Un sacco di formaggio, esatto."
+    },
+    {
+      "beat_moment": "Assaggio, usa parola firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6825.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6825.MOV",
+      "description": "Il creator mangia patatine",
+      "duration": 2.2,
+      "end": 27.1,
+      "in_sec": 24.9,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6825_s11_sub0/f0.jpg"
+      ],
+      "out_sec": 27.1,
+      "requested_duration": 2.2,
+      "role": "person_eating",
+      "scene_id": 25,
+      "start": 24.9,
+      "subject": "Il creator mangia patatine",
+      "subtitle_text": "Il formaggio è super cremoso."
+    },
+    {
+      "beat_moment": "Continua l'assaggio, usa pattern sintattico.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "description": "Il creator prende patatine",
+      "duration": 2.2,
+      "end": 4.3,
+      "in_sec": 2.1,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6826_s5_sub0/f0.jpg"
+      ],
+      "out_sec": 4.3,
+      "requested_duration": 2.2,
+      "role": "person_eating",
+      "scene_id": 26,
+      "start": 2.1,
+      "subject": "Il creator prende patatine",
+      "subtitle_text": "Dopo di che, un'altra patatina."
+    },
+    {
+      "beat_moment": "Chiusura tipica, usa parola firma.",
+      "beat_type": "person_eating",
+      "clip_name": "IMG_6826.MOV",
+      "clip_path": "/opt/reel-agent/media/raw/IMG_6826.MOV",
+      "description": "Il creator mangia patatine",
+      "duration": 1.8,
+      "end": 19.4,
+      "in_sec": 17.6,
+      "keyframes": [
+        "/opt/reel-agent/media/frames/curate_job_187/IMG_6826_s5_sub0/f0.jpg"
+      ],
+      "out_sec": 19.4,
+      "requested_duration": 1.8,
+      "role": "person_eating",
+      "scene_id": 27,
+      "start": 17.6,
+      "subject": "Il creator mangia patatine",
+      "subtitle_text": "Insomma ragazzi, un'esperienza da provare!"
+    }
+  ],
+  "title": "ApproccioB — Ho bilanciato l'uso delle paro",
+  "total_duration": 64.87,
+  "venue_name": "Wing Stop Milano",
+  "voiceover_script": "Oggi ragazzi vi porto in un posto super! Il locale è veramente accogliente, devo dire. Un sacco di opzioni tra cui scegliere, ovviamente. L'atmosfera è molto cool, infatti. Il logo è super riconoscibile, appunto. Guardate ragazzi, un sacco di roba! Praticamente una festa, devo dire. Le patatine sono veramente invitanti. Un po' di pepe, che tra l'altro ci sta benissimo. Queste ali sono molto lucide, ovviamente. La glassa è super invitante, ragazzi. I nuggets sono perfetti, devo dire. Questi tenders sono croccanti, appunto. Guardate la glassa, è davvero appiccicosa. Un sacco di nuggets, appunto. I tenders sono dorati, infatti. Il creator è proprio felice, comunque. Un sacco di cibo, devo dire. Un'esperienza proprio, tra l'altro. Ora si assaggia, infatti. Con un po' di salsa, è molto. Il sapore è incredibilmente buono, ragazzi. Guardate qua queste patatine al formaggio, che tra l'altro... Le patatine sono davvero croccanti, devo dire. Un sacco di formaggio, esatto. Il formaggio è super cremoso. Dopo di che, un'altra patatina. Insomma ragazzi, un'esperienza da provare!"
+}

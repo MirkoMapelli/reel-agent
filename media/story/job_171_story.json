@@ -1,0 +1,188 @@
+{
+  "title": "Wing Stop Milano",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.5,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "logo Wing Stop Milano parete verde iniziale"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem ordini touchscreen menù locale"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking",
+        "venue_interior_detail"
+      ],
+      "moment": "persona presenta locale mostrando ambiente"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali fritte dorate appena servite"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vista dall'alto tavolo vassoi completi"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio ambiente mentre arriva ordine"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani afferrano vassoio ali e patatine"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "patata fritta inzuppata in salsa bianca"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente mostra bicchiere carta logo Wing Stop"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio arredo locale accanto tavolo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 3.0,
+      "scene_need": [
+        "drink_cheers"
+      ],
+      "moment": "cliente beve dal bicchiere con entusiasmo"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "persona addenta ala fritta con gusto"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani raccolgono ala fritta dal piatto"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menù ripreso durante conversazione"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "espressione soddisfatta mentre mangia polpette"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "gesto di raccolta patatine dal vassoio"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano estremo ali croccanti dorate"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "inquadratura finale ambiente locale pieno"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "persona consiglia direttamente in camera"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 3.5,
+      "scene_need": [
+        "person_talking",
+        "food_closeup"
+      ],
+      "moment": "chiusura con raccomandazione finale sorridente"
+    }
+  ],
+  "edl_job_id": 171
+}

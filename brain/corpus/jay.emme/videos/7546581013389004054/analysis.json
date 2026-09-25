@@ -1,0 +1,4637 @@
+{
+  "video_id": "7546581013389004054",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7546581013389004054",
+    "ref_id": "ref_68_7546581013389004054",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7546581013389004054",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 48,
+  "total_dur": 128.2,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.6,
+      "dur": 2.6,
+      "center": 1.3,
+      "role": "food_plated",
+      "subject": "piatto Raising Cane's",
+      "description": "Il creator tiene in mano un bicchiere di Raising Cane's e un piatto con pollo fritto e patatine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Giornodu del mio viaggio in flore della scoperta della vera"
+    },
+    {
+      "idx": 1,
+      "start": 2.6,
+      "end": 4.4,
+      "dur": 1.8,
+      "center": 3.5,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo sta mangiando un pezzo di pollo fritto e tiene in mano una salsa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "cucina americana oggi siamo sempre in quelli maie"
+    },
+    {
+      "idx": 2,
+      "start": 4.4,
+      "end": 5.3,
+      "dur": 0.9,
+      "center": 4.85,
+      "role": "food_detail",
+      "subject": "waffle salato",
+      "description": "Un waffle salato tagliato a metà con ripieno di formaggio e una salsa a lato, su carta con logo Charly's.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "mi beach dove ho"
+    },
+    {
+      "idx": 3,
+      "start": 5.3,
+      "end": 6.333,
+      "dur": 1.033,
+      "center": 5.817,
+      "role": "food_detail",
+      "subject": "dettaglio waffle",
+      "description": "Primo piano su una metà del waffle salato, mostrando il ripieno e la consistenza.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "cominciato con un 'ottima"
+    },
+    {
+      "idx": 4,
+      "start": 6.333,
+      "end": 7.433,
+      "dur": 1.1,
+      "center": 6.883,
+      "role": "food_detail",
+      "subject": "waffle salato intero",
+      "description": "Il waffle salato tagliato a metà con la salsa, inquadrato più ampiamente rispetto al frame precedente.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Collazione con questo waffle"
+    },
+    {
+      "idx": 5,
+      "start": 7.433,
+      "end": 11.967,
+      "dur": 4.533,
+      "center": 9.7,
+      "role": "person_eating",
+      "subject": "ragazzo mangia waffle",
+      "description": "Il ragazzo con il cappellino rosso sta addentando un waffle con formaggio fuso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "salato ripieno di uova e formaggio accompagnato da questa salsina Stile resin canes"
+    },
+    {
+      "idx": 6,
+      "start": 11.967,
+      "end": 14.433,
+      "dur": 2.467,
+      "center": 13.2,
+      "role": "person_eating",
+      "subject": "ragazzo mangia waffle",
+      "description": "Il ragazzo guarda in camera mentre mangia il waffle, con il formaggio che fuoriesce.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "tutto molto buono ma molto piccolo e"
+    },
+    {
+      "idx": 7,
+      "start": 14.433,
+      "end": 16.433,
+      "dur": 2.0,
+      "center": 15.433,
+      "role": "drink_detail",
+      "subject": "mano tiene bicchiere",
+      "description": "Una mano tiene un bicchiere di caffè da asporto con il logo 7-Eleven.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "molto costoso mi sono quindi poi rifatto con"
+    },
+    {
+      "idx": 8,
+      "start": 16.433,
+      "end": 19.4,
+      "dur": 2.967,
+      "center": 17.917,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ciambella",
+      "description": "Il ragazzo con il cappellino rosso sta mangiando una ciambella glassata con codette colorate.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "un caffettino Una donna s del 7 -eleven per poi partire a fare il"
+    },
+    {
+      "idx": 9,
+      "start": 19.4,
+      "end": 23.4,
+      "dur": 4.0,
+      "center": 21.4,
+      "role": "venue_exterior",
+      "subject": "edificio bianco palme",
+      "description": "Un grande edificio bianco con palme e un cielo azzurro con nuvole.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "solito giro in boost da turisti per visitare maie mi beach maie tu che è iniziato ovviamente da ocean"
+    },
+    {
+      "idx": 10,
+      "start": 23.4,
+      "end": 26.0,
+      "dur": 2.6,
+      "center": 24.7,
+      "role": "venue_exterior",
+      "subject": "hotel Colony Miami",
+      "description": "L'iconico hotel Colony di Miami Beach con una Cadillac d'epoca parcheggiata davanti.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "drive dove avevo visto la villa di Gianni Versace si"
+    },
+    {
+      "idx": 11,
+      "start": 26.0,
+      "end": 29.533,
+      "dur": 3.533,
+      "center": 27.767,
+      "role": "venue_exterior",
+      "subject": "edificio con murales",
+      "description": "Un edificio moderno con un murale astratto e colorato sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "quelle proprio il punto dove è stato ucciso E l 'hotel dove hanno girato scarface dopo di che siamo"
+    },
+    {
+      "idx": 12,
+      "start": 29.533,
+      "end": 31.533,
+      "dur": 2.0,
+      "center": 30.533,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Un ragazzo con un cappellino rosso e nero che guarda direttamente in camera.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "arrivati appunto a maie mi e sono andati a visitare"
+    },
+    {
+      "idx": 13,
+      "start": 31.533,
+      "end": 34.533,
+      "dur": 3.0,
+      "center": 33.033,
+      "role": "venue_exterior",
+      "subject": "murale donna farfalle",
+      "description": "Un grande murale di una donna con farfalle e strisce bianche e nere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "il quartiere di we would che è uno Di quartiere più famosi della città proprio per questi"
+    },
+    {
+      "idx": 14,
+      "start": 34.533,
+      "end": 37.1,
+      "dur": 2.567,
+      "center": 35.817,
+      "role": "venue_exterior",
+      "subject": "murale donna pesce",
+      "description": "Un murale dettagliato di una donna con elementi acquatici come pesci e serpenti.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "murales essendo proprio il quartiere dell 'arte devo dire che"
+    },
+    {
+      "idx": 15,
+      "start": 37.1,
+      "end": 40.867,
+      "dur": 3.767,
+      "center": 38.983,
+      "role": "venue_exterior",
+      "subject": "murales Wynwood Mural Fest",
+      "description": "Il murales colorato con la scritta 'Wynwood Mural Fest' cattura l'attenzione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "nonostante non ci Sia chi sa che cosa in questo quartiere i murale sono sempre tutti"
+    },
+    {
+      "idx": 16,
+      "start": 40.867,
+      "end": 42.633,
+      "dur": 1.767,
+      "center": 41.75,
+      "role": "venue_exterior",
+      "subject": "murales donna e mani",
+      "description": "Il murales con il volto di una donna e le mani che formano 'Liberty' e 'Peace' è il punto focale.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "molto molto carini poi ci siamo quindi spostati"
+    },
+    {
+      "idx": 17,
+      "start": 42.633,
+      "end": 45.667,
+      "dur": 3.033,
+      "center": 44.15,
+      "role": "venue_interior_detail",
+      "subject": "scaffali sigari cubani",
+      "description": "Gli scaffali pieni di scatole di sigari cubani in un ambiente caldo e illuminato.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "a litro la vana che Il quartiere cubano di maie mi dove per le"
+    },
+    {
+      "idx": 18,
+      "start": 45.667,
+      "end": 48.633,
+      "dur": 2.967,
+      "center": 47.15,
+      "role": "other",
+      "subject": "mano che tiene sigaro",
+      "description": "La mano che tiene un sigaro in primo piano, con altri sigari sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "strade girano galline libere ovviamente si parla solo spagnolo e"
+    },
+    {
+      "idx": 19,
+      "start": 48.633,
+      "end": 52.667,
+      "dur": 4.033,
+      "center": 50.65,
+      "role": "other",
+      "subject": "artigiano che fa sigari",
+      "description": "Le mani dell'artigiano che lavorano il tabacco per creare un sigaro su un tagliere di legno.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "noi siamo quindi andati a visitare Un negozio che vende sigari cubani poi ferma a c 'è uno di cui bar"
+    },
+    {
+      "idx": 20,
+      "start": 52.667,
+      "end": 56.133,
+      "dur": 3.467,
+      "center": 54.4,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Il ragazzo beve da un bicchiere con una cannuccia, con luci colorate sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_mista",
+      "transcript": "a provare il vero muoito cubano perché sì Moito è di cuba chiaramente"
+    },
+    {
+      "idx": 21,
+      "start": 56.133,
+      "end": 58.6,
+      "dur": 2.467,
+      "center": 57.367,
+      "role": "venue_exterior",
+      "subject": "villa lussuosa e yacht",
+      "description": "Una grande villa moderna con uno yacht ormeggiato davanti, sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "a me non è piaciuto ma non mi aspettavo il contrario poi siamo invece salito"
+    },
+    {
+      "idx": 22,
+      "start": 58.6,
+      "end": 60.6,
+      "dur": 2.0,
+      "center": 59.6,
+      "role": "venue_exterior",
+      "subject": "villa classica e palme",
+      "description": "Una villa in stile classico con colonne e un lungo viale di palme, affacciata sull'acqua.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "su una piccola Crocera che ci ha fatto fare il tour"
+    },
+    {
+      "idx": 23,
+      "start": 60.6,
+      "end": 62.633,
+      "dur": 2.033,
+      "center": 61.617,
+      "role": "venue_exterior",
+      "subject": "villa moderna e pontile",
+      "description": "Una villa moderna con ampie vetrate e un pontile con pali in legno, circondata da palme.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "delle ville di maie dove abbiamo visto la villa"
+    },
+    {
+      "idx": 24,
+      "start": 62.633,
+      "end": 64.667,
+      "dur": 2.033,
+      "center": 63.65,
+      "role": "venue_exterior",
+      "subject": "villa moderna e palme",
+      "description": "Un'altra villa moderna con un design pulito e molte palme che la circondano, con l'acqua in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di jackie chan di bandera Sonsia kilonilla"
+    },
+    {
+      "idx": 25,
+      "start": 64.667,
+      "end": 67.467,
+      "dur": 2.8,
+      "center": 66.067,
+      "role": "other",
+      "subject": "gru portuali porto",
+      "description": "Le grandi gru portuali bianche e blu spiccano contro il cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di riana di gesti in viber di me wedder di altre migliaia"
+    },
+    {
+      "idx": 26,
+      "start": 67.467,
+      "end": 69.967,
+      "dur": 2.5,
+      "center": 68.717,
+      "role": "other",
+      "subject": "skyline città acqua",
+      "description": "Lo skyline di una città moderna si staglia oltre la superficie dell'acqua increspata.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di celebrità famosissime proprio vedere anche dove"
+    },
+    {
+      "idx": 27,
+      "start": 69.967,
+      "end": 73.433,
+      "dur": 3.467,
+      "center": 71.7,
+      "role": "other",
+      "subject": "ruota panoramica città",
+      "description": "Una grande ruota panoramica domina la scena con edifici e gru sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "hanno Girato era un entretto finita la crociera sulle ville delle celebrità di maie mi"
+    },
+    {
+      "idx": 28,
+      "start": 73.433,
+      "end": 77.9,
+      "dur": 4.467,
+      "center": 75.667,
+      "role": "food_plated",
+      "subject": "nachos salsa rossa",
+      "description": "Un piatto di nachos croccanti con una ciotolina di salsa rossa.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "siamo poi andati a franzare con degli ottimi Crispy chicken tacos accompagnati le classici nachos che però mi hanno"
+    },
+    {
+      "idx": 29,
+      "start": 77.9,
+      "end": 80.067,
+      "dur": 2.167,
+      "center": 78.983,
+      "role": "food_closeup",
+      "subject": "tacos pollo formaggio",
+      "description": "Due tacos ripieni di pollo fritto, formaggio e salsa bianca.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "veramente stupito soprattutto il polo fritto che non mi"
+    },
+    {
+      "idx": 30,
+      "start": 80.067,
+      "end": 82.567,
+      "dur": 2.5,
+      "center": 81.317,
+      "role": "food_detail",
+      "subject": "taco con formaggio",
+      "description": "Il creator tiene un taco farcito con formaggio fuso e carne, con uno sguardo sorpreso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "aspettavo Forse così croccante allo stesso tempo così leggera"
+    },
+    {
+      "idx": 31,
+      "start": 82.567,
+      "end": 84.767,
+      "dur": 2.2,
+      "center": 83.667,
+      "role": "person_eating",
+      "subject": "uomo che mangia",
+      "description": "Il creator sta addentando il taco, con un vassoio di nachos e salsa in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "la frittura alla fine ragazzi tacos ci stanno sempre"
+    },
+    {
+      "idx": 32,
+      "start": 84.767,
+      "end": 86.8,
+      "dur": 2.033,
+      "center": 85.783,
+      "role": "person_eating",
+      "subject": "uomo che mangia",
+      "description": "Il creator continua a mangiare il taco, con la scritta 'MIAMI' sovrapposta all'immagine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "soprattutto in quelli maie mi In quella cucina"
+    },
+    {
+      "idx": 33,
+      "start": 86.8,
+      "end": 89.267,
+      "dur": 2.467,
+      "center": 88.033,
+      "role": "person_eating",
+      "subject": "uomo con nachos",
+      "description": "Il creator intinge un nacho nella salsa, con la scritta 'POMERIGGIO' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "messicana banche lei molto come regioni ci siamo invece rilassati"
+    },
+    {
+      "idx": 34,
+      "start": 89.267,
+      "end": 91.3,
+      "dur": 2.033,
+      "center": 90.283,
+      "role": "other",
+      "subject": "uomo in spiaggia",
+      "description": "Il creator sorride alla telecamera in un ambiente esterno, probabilmente una spiaggia, con la scritta 'DI' sovrapposta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in spiagge in quelli maie mi viccio per poi"
+    },
+    {
+      "idx": 35,
+      "start": 91.3,
+      "end": 94.033,
+      "dur": 2.733,
+      "center": 92.667,
+      "role": "person_talking",
+      "subject": "ragazzo che si riprende",
+      "description": "Un ragazzo si riprende con un'espressione divertita, con un cestino verde sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "dociarci Cambiarci uscire a cena per tornare a mangiare in"
+    },
+    {
+      "idx": 36,
+      "start": 94.033,
+      "end": 99.5,
+      "dur": 5.467,
+      "center": 96.767,
+      "role": "food_plated",
+      "subject": "piatto di pollo fritto",
+      "description": "Un piatto di pollo fritto, patatine e pane tostato su carta con logo Raising Cane's.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "un postecino abbastanza famoso fast food che seva in america non può in un provare Non tanto per il cibo in sé"
+    },
+    {
+      "idx": 37,
+      "start": 99.5,
+      "end": 102.467,
+      "dur": 2.967,
+      "center": 100.983,
+      "role": "person_eating",
+      "subject": "ragazzo con cibo e bibita",
+      "description": "Il ragazzo tiene in mano un piatto di pollo fritto e una bibita con il logo Raising Cane's.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ma per quello che ormai rappresenta essendo diventato famoso in tutto il mondo"
+    },
+    {
+      "idx": 38,
+      "start": 102.467,
+      "end": 104.767,
+      "dur": 2.3,
+      "center": 103.617,
+      "role": "person_eating",
+      "subject": "ragazzo che beve",
+      "description": "Il ragazzo beve da una cannuccia con un'espressione sorpresa, tenendo il piatto di cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "per il suo pollo fritto Soprattutto per la sua salsa iconica"
+    },
+    {
+      "idx": 39,
+      "start": 104.767,
+      "end": 106.4,
+      "dur": 1.633,
+      "center": 105.583,
+      "role": "food_detail",
+      "subject": "aletta di pollo fritta",
+      "description": "Il ragazzo tiene in primo piano un'aletta di pollo fritta, con il suo viso sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "sto chiaramente parlando di raising case"
+    },
+    {
+      "idx": 40,
+      "start": 106.4,
+      "end": 107.767,
+      "dur": 1.367,
+      "center": 107.083,
+      "role": "food_detail",
+      "subject": "ala fritta glassata",
+      "description": "Una mano tiene un'ala di pollo fritta croccante sopra una piccola ciotola di salsa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ho preso a loro classi come nuci"
+    },
+    {
+      "idx": 41,
+      "start": 107.767,
+      "end": 109.267,
+      "dur": 1.5,
+      "center": 108.517,
+      "role": "food_detail",
+      "subject": "pollo fritto intinto",
+      "description": "Una mano intinge un pezzo di pollo fritto in una salsa, con patatine fritte e pane tostato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "contenders pane al"
+    },
+    {
+      "idx": 42,
+      "start": 109.267,
+      "end": 109.933,
+      "dur": 0.667,
+      "center": 109.6,
+      "role": "food_detail",
+      "subject": "pollo fritto con salsa",
+      "description": "Un pezzo di pollo fritto gocciolante di salsa è tenuto sopra una ciotola di salsa, con un pasto completo sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "burro Salsina"
+    },
+    {
+      "idx": 43,
+      "start": 109.933,
+      "end": 112.967,
+      "dur": 3.033,
+      "center": 111.45,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pollo",
+      "description": "Un ragazzo morde un pezzo di pollo fritto, con il suo pasto di pollo, patatine e salsa davanti a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "e patatine il pollo di raising case ovviamente iconico ma"
+    },
+    {
+      "idx": 44,
+      "start": 112.967,
+      "end": 114.967,
+      "dur": 2.0,
+      "center": 113.967,
+      "role": "food_detail",
+      "subject": "pollo fritto intinto",
+      "description": "Una mano intinge un pezzo di pollo fritto in una salsa, con patatine fritte e pane tostato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto molto buono se mi chiedete se si vede la differenza"
+    },
+    {
+      "idx": 45,
+      "start": 114.967,
+      "end": 119.767,
+      "dur": 4.8,
+      "center": 117.367,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo fritto",
+      "description": "Il ragazzo sta addentando un pezzo di pollo fritto intinto nella salsa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "tra questo pollo fritto Quello degli altri fast food beh sì ragazzi la differenza netta ovviamente non è il pollo fritto più"
+    },
+    {
+      "idx": 46,
+      "start": 119.767,
+      "end": 125.5,
+      "dur": 5.733,
+      "center": 122.633,
+      "role": "person_eating",
+      "subject": "ragazzo tiene sandwich pollo",
+      "description": "Il ragazzo tiene in mano un sandwich di pollo fritto e guarda in camera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "buono come già fino a america perché rimane comunque una Catena e per questo che non vuole giudicare tanto il pollo ma quanto più l 'esperienza"
+    },
+    {
+      "idx": 47,
+      "start": 125.5,
+      "end": 128.2,
+      "dur": 2.7,
+      "center": 126.85,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatina fritta",
+      "description": "Il ragazzo sta mangiando una patatina fritta, con il pollo e le patatine ben visibili nel cestino.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "che decisamente clavo"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto Raising Cane's",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator tiene in mano un bicchiere di Raising Cane's e un piatto con pollo fritto e patatine.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.6,
+      "dur": 2.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di pollo fritto e tiene in mano una salsa.",
+      "shot_idx": 1,
+      "start": 2.6,
+      "end": 4.4,
+      "dur": 1.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "waffle salato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un waffle salato tagliato a metà con ripieno di formaggio e una salsa a lato, su carta con logo Charly's.",
+      "shot_idx": 2,
+      "start": 4.4,
+      "end": 5.3,
+      "dur": 0.9
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "dettaglio waffle",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Primo piano su una metà del waffle salato, mostrando il ripieno e la consistenza.",
+      "shot_idx": 3,
+      "start": 5.3,
+      "end": 6.333,
+      "dur": 1.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "waffle salato intero",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il waffle salato tagliato a metà con la salsa, inquadrato più ampiamente rispetto al frame precedente.",
+      "shot_idx": 4,
+      "start": 6.333,
+      "end": 7.433,
+      "dur": 1.1
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia waffle",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso sta addentando un waffle con formaggio fuso.",
+      "shot_idx": 5,
+      "start": 7.433,
+      "end": 11.967,
+      "dur": 4.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia waffle",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo guarda in camera mentre mangia il waffle, con il formaggio che fuoriesce.",
+      "shot_idx": 6,
+      "start": 11.967,
+      "end": 14.433,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "drink_detail",
+      "soggetto": "mano tiene bicchiere",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una mano tiene un bicchiere di caffè da asporto con il logo 7-Eleven.",
+      "shot_idx": 7,
+      "start": 14.433,
+      "end": 16.433,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ciambella",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso sta mangiando una ciambella glassata con codette colorate.",
+      "shot_idx": 8,
+      "start": 16.433,
+      "end": 19.4,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio bianco palme",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande edificio bianco con palme e un cielo azzurro con nuvole.",
+      "shot_idx": 9,
+      "start": 19.4,
+      "end": 23.4,
+      "dur": 4.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "hotel Colony Miami",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'iconico hotel Colony di Miami Beach con una Cadillac d'epoca parcheggiata davanti.",
+      "shot_idx": 10,
+      "start": 23.4,
+      "end": 26.0,
+      "dur": 2.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio con murales",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un edificio moderno con un murale astratto e colorato sotto un cielo azzurro.",
+      "shot_idx": 11,
+      "start": 26.0,
+      "end": 29.533,
+      "dur": 3.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e nero che guarda direttamente in camera.",
+      "shot_idx": 12,
+      "start": 29.533,
+      "end": 31.533,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "murale donna farfalle",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un grande murale di una donna con farfalle e strisce bianche e nere.",
+      "shot_idx": 13,
+      "start": 31.533,
+      "end": 34.533,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "murale donna pesce",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un murale dettagliato di una donna con elementi acquatici come pesci e serpenti.",
+      "shot_idx": 14,
+      "start": 34.533,
+      "end": 37.1,
+      "dur": 2.567
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "murales Wynwood Mural Fest",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il murales colorato con la scritta 'Wynwood Mural Fest' cattura l'attenzione.",
+      "shot_idx": 15,
+      "start": 37.1,
+      "end": 40.867,
+      "dur": 3.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "murales donna e mani",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il murales con il volto di una donna e le mani che formano 'Liberty' e 'Peace' è il punto focale.",
+      "shot_idx": 16,
+      "start": 40.867,
+      "end": 42.633,
+      "dur": 1.767
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "scaffali sigari cubani",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Gli scaffali pieni di scatole di sigari cubani in un ambiente caldo e illuminato.",
+      "shot_idx": 17,
+      "start": 42.633,
+      "end": 45.667,
+      "dur": 3.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "mano che tiene sigaro",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La mano che tiene un sigaro in primo piano, con altri sigari sullo sfondo.",
+      "shot_idx": 18,
+      "start": 45.667,
+      "end": 48.633,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "artigiano che fa sigari",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Le mani dell'artigiano che lavorano il tabacco per creare un sigaro su un tagliere di legno.",
+      "shot_idx": 19,
+      "start": 48.633,
+      "end": 52.667,
+      "dur": 4.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_mista",
+      "cosa_si_nota": "Il ragazzo beve da un bicchiere con una cannuccia, con luci colorate sullo sfondo.",
+      "shot_idx": 20,
+      "start": 52.667,
+      "end": 56.133,
+      "dur": 3.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "villa lussuosa e yacht",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una grande villa moderna con uno yacht ormeggiato davanti, sotto un cielo azzurro.",
+      "shot_idx": 21,
+      "start": 56.133,
+      "end": 58.6,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "villa classica e palme",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una villa in stile classico con colonne e un lungo viale di palme, affacciata sull'acqua.",
+      "shot_idx": 22,
+      "start": 58.6,
+      "end": 60.6,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "villa moderna e pontile",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una villa moderna con ampie vetrate e un pontile con pali in legno, circondata da palme.",
+      "shot_idx": 23,
+      "start": 60.6,
+      "end": 62.633,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "villa moderna e palme",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'altra villa moderna con un design pulito e molte palme che la circondano, con l'acqua in primo piano.",
+      "shot_idx": 24,
+      "start": 62.633,
+      "end": 64.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "gru portuali porto",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le grandi gru portuali bianche e blu spiccano contro il cielo azzurro.",
+      "shot_idx": 25,
+      "start": 64.667,
+      "end": 67.467,
+      "dur": 2.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "skyline città acqua",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Lo skyline di una città moderna si staglia oltre la superficie dell'acqua increspata.",
+      "shot_idx": 26,
+      "start": 67.467,
+      "end": 69.967,
+      "dur": 2.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ruota panoramica città",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una grande ruota panoramica domina la scena con edifici e gru sullo sfondo.",
+      "shot_idx": 27,
+      "start": 69.967,
+      "end": 73.433,
+      "dur": 3.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "nachos salsa rossa",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di nachos croccanti con una ciotolina di salsa rossa.",
+      "shot_idx": 28,
+      "start": 73.433,
+      "end": 77.9,
+      "dur": 4.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "tacos pollo formaggio",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Due tacos ripieni di pollo fritto, formaggio e salsa bianca.",
+      "shot_idx": 29,
+      "start": 77.9,
+      "end": 80.067,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "taco con formaggio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator tiene un taco farcito con formaggio fuso e carne, con uno sguardo sorpreso.",
+      "shot_idx": 30,
+      "start": 80.067,
+      "end": 82.567,
+      "dur": 2.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator sta addentando il taco, con un vassoio di nachos e salsa in primo piano.",
+      "shot_idx": 31,
+      "start": 82.567,
+      "end": 84.767,
+      "dur": 2.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator continua a mangiare il taco, con la scritta 'MIAMI' sovrapposta all'immagine.",
+      "shot_idx": 32,
+      "start": 84.767,
+      "end": 86.8,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con nachos",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator intinge un nacho nella salsa, con la scritta 'POMERIGGIO' in primo piano.",
+      "shot_idx": 33,
+      "start": 86.8,
+      "end": 89.267,
+      "dur": 2.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "uomo in spiaggia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il creator sorride alla telecamera in un ambiente esterno, probabilmente una spiaggia, con la scritta 'DI' sovrapposta.",
+      "shot_idx": 34,
+      "start": 89.267,
+      "end": 91.3,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che si riprende",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo si riprende con un'espressione divertita, con un cestino verde sullo sfondo.",
+      "shot_idx": 35,
+      "start": 91.3,
+      "end": 94.033,
+      "dur": 2.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto di pollo fritto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto di pollo fritto, patatine e pane tostato su carta con logo Raising Cane's.",
+      "shot_idx": 36,
+      "start": 94.033,
+      "end": 99.5,
+      "dur": 5.467
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo con cibo e bibita",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un piatto di pollo fritto e una bibita con il logo Raising Cane's.",
+      "shot_idx": 37,
+      "start": 99.5,
+      "end": 102.467,
+      "dur": 2.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che beve",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo beve da una cannuccia con un'espressione sorpresa, tenendo il piatto di cibo.",
+      "shot_idx": 38,
+      "start": 102.467,
+      "end": 104.767,
+      "dur": 2.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "aletta di pollo fritta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in primo piano un'aletta di pollo fritta, con il suo viso sfocato sullo sfondo.",
+      "shot_idx": 39,
+      "start": 104.767,
+      "end": 106.4,
+      "dur": 1.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "ala fritta glassata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano tiene un'ala di pollo fritta croccante sopra una piccola ciotola di salsa.",
+      "shot_idx": 40,
+      "start": 106.4,
+      "end": 107.767,
+      "dur": 1.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto intinto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano intinge un pezzo di pollo fritto in una salsa, con patatine fritte e pane tostato sullo sfondo.",
+      "shot_idx": 41,
+      "start": 107.767,
+      "end": 109.267,
+      "dur": 1.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto con salsa",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di pollo fritto gocciolante di salsa è tenuto sopra una ciotola di salsa, con un pasto completo sullo sfondo.",
+      "shot_idx": 42,
+      "start": 109.267,
+      "end": 109.933,
+      "dur": 0.667
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo morde un pezzo di pollo fritto, con il suo pasto di pollo, patatine e salsa davanti a lui.",
+      "shot_idx": 43,
+      "start": 109.933,
+      "end": 112.967,
+      "dur": 3.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto intinto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano intinge un pezzo di pollo fritto in una salsa, con patatine fritte e pane tostato sullo sfondo.",
+      "shot_idx": 44,
+      "start": 112.967,
+      "end": 114.967,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di pollo fritto intinto nella salsa.",
+      "shot_idx": 45,
+      "start": 114.967,
+      "end": 119.767,
+      "dur": 4.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene sandwich pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene in mano un sandwich di pollo fritto e guarda in camera.",
+      "shot_idx": 46,
+      "start": 119.767,
+      "end": 125.5,
+      "dur": 5.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatina fritta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando una patatina fritta, con il pollo e le patatine ben visibili nel cestino.",
+      "shot_idx": 47,
+      "start": 125.5,
+      "end": 128.2,
+      "dur": 2.7
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "Giornodu del mio viaggio in flore della scoperta della vera cucina americana oggi siamo sempre in quelli maie mi beach dove ho cominciato con un'ottima"
+    },
+    {
+      "start": 6.12,
+      "end": 10.5,
+      "text": "Collazione con questo waffle salato ripieno di uova e formaggio accompagnato da questa salsina"
+    },
+    {
+      "start": 10.5,
+      "end": 17.04,
+      "text": "Stile resin canes tutto molto buono ma molto piccolo e molto costoso mi sono quindi poi rifatto con un caffettino"
+    },
+    {
+      "start": 17.04,
+      "end": 22.22,
+      "text": "Una donna s del 7-eleven per poi partire a fare il solito giro in boost da turisti per visitare maie mi beach maie"
+    },
+    {
+      "start": 22.22,
+      "end": 27.4,
+      "text": "tu che è iniziato ovviamente da ocean drive dove avevo visto la villa di Gianni Versace si quelle proprio il punto dove è stato ucciso"
+    },
+    {
+      "start": 27.4,
+      "end": 32.82,
+      "text": "E l'hotel dove hanno girato scarface dopo di che siamo arrivati appunto a maie mi e sono andati a visitare il quartiere di we would che è uno"
+    },
+    {
+      "start": 32.82,
+      "end": 37.84,
+      "text": "Di quartiere più famosi della città proprio per questi murales essendo proprio il quartiere dell'arte devo dire che nonostante non ci"
+    },
+    {
+      "start": 37.84,
+      "end": 43.52,
+      "text": "Sia chi sa che cosa in questo quartiere i murale sono sempre tutti molto molto carini poi ci siamo quindi spostati a litro la vana che"
+    },
+    {
+      "start": 43.52,
+      "end": 49.72,
+      "text": "Il quartiere cubano di maie mi dove per le strade girano galline libere ovviamente si parla solo spagnolo e noi siamo quindi andati a visitare"
+    },
+    {
+      "start": 49.72,
+      "end": 54.74,
+      "text": "Un negozio che vende sigari cubani poi ferma a c'è uno di cui bar a provare il vero muoito cubano perché sì"
+    },
+    {
+      "start": 54.74,
+      "end": 59.26,
+      "text": "Moito è di cuba chiaramente a me non è piaciuto ma non mi aspettavo il contrario poi siamo invece salito su una piccola"
+    },
+    {
+      "start": 59.26,
+      "end": 63.9,
+      "text": "Crocera che ci ha fatto fare il tour delle ville di maie dove abbiamo visto la villa di jackie chan di bandera"
+    },
+    {
+      "start": 63.9,
+      "end": 70.2,
+      "text": "Sonsia kilonilla di riana di gesti in viber di me wedder di altre migliaia di celebrità famosissime proprio vedere anche dove hanno"
+    },
+    {
+      "start": 70.2,
+      "end": 75.04,
+      "text": "Girato era un entretto finita la crociera sulle ville delle celebrità di maie mi siamo poi andati a franzare con degli ottimi"
+    },
+    {
+      "start": 75.04,
+      "end": 80.34,
+      "text": "Crispy chicken tacos accompagnati le classici nachos che però mi hanno veramente stupito soprattutto il polo fritto che non mi aspettavo"
+    },
+    {
+      "start": 80.34,
+      "end": 85.98,
+      "text": "Forse così croccante allo stesso tempo così leggera la frittura alla fine ragazzi tacos ci stanno sempre soprattutto in quelli maie mi"
+    },
+    {
+      "start": 85.98,
+      "end": 91.74,
+      "text": "In quella cucina messicana banche lei molto come regioni ci siamo invece rilassati in spiagge in quelli maie mi viccio per poi dociarci"
+    },
+    {
+      "start": 91.74,
+      "end": 98.14,
+      "text": "Cambiarci uscire a cena per tornare a mangiare in un postecino abbastanza famoso fast food che seva in america non può in un provare"
+    },
+    {
+      "start": 98.14,
+      "end": 103.16,
+      "text": "Non tanto per il cibo in sé ma per quello che ormai rappresenta essendo diventato famoso in tutto il mondo per il suo pollo fritto"
+    },
+    {
+      "start": 103.16,
+      "end": 109.5,
+      "text": "Soprattutto per la sua salsa iconica sto chiaramente parlando di raising case ho preso a loro classi come nuci contenders pane al burro"
+    },
+    {
+      "start": 109.5,
+      "end": 116.0,
+      "text": "Salsina e patatine il pollo di raising case ovviamente iconico ma molto molto buono se mi chiedete se si vede la differenza tra questo pollo fritto"
+    },
+    {
+      "start": 116.0,
+      "end": 121.92,
+      "text": "Quello degli altri fast food beh sì ragazzi la differenza netta ovviamente non è il pollo fritto più buono come già fino a america perché rimane comunque una"
+    },
+    {
+      "start": 121.92,
+      "end": 126.86,
+      "text": "Catena e per questo che non vuole giudicare tanto il pollo ma quanto più l'esperienza che decisamente clavo"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "word": "Giornodu"
+    },
+    {
+      "start": 0.54,
+      "end": 0.68,
+      "word": "del"
+    },
+    {
+      "start": 0.68,
+      "end": 0.8,
+      "word": "mio"
+    },
+    {
+      "start": 0.8,
+      "end": 1.0,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.0,
+      "end": 1.14,
+      "word": "in"
+    },
+    {
+      "start": 1.14,
+      "end": 1.38,
+      "word": "flore"
+    },
+    {
+      "start": 1.38,
+      "end": 1.54,
+      "word": "della"
+    },
+    {
+      "start": 1.54,
+      "end": 1.96,
+      "word": "scoperta"
+    },
+    {
+      "start": 1.96,
+      "end": 2.18,
+      "word": "della"
+    },
+    {
+      "start": 2.18,
+      "end": 2.46,
+      "word": "vera"
+    },
+    {
+      "start": 2.46,
+      "end": 2.8,
+      "word": "cucina"
+    },
+    {
+      "start": 2.8,
+      "end": 3.32,
+      "word": "americana"
+    },
+    {
+      "start": 3.32,
+      "end": 3.52,
+      "word": "oggi"
+    },
+    {
+      "start": 3.52,
+      "end": 3.66,
+      "word": "siamo"
+    },
+    {
+      "start": 3.66,
+      "end": 3.9,
+      "word": "sempre"
+    },
+    {
+      "start": 3.9,
+      "end": 4.02,
+      "word": "in"
+    },
+    {
+      "start": 4.02,
+      "end": 4.2,
+      "word": "quelli"
+    },
+    {
+      "start": 4.2,
+      "end": 4.48,
+      "word": "maie"
+    },
+    {
+      "start": 4.48,
+      "end": 4.6,
+      "word": "mi"
+    },
+    {
+      "start": 4.6,
+      "end": 4.88,
+      "word": "beach"
+    },
+    {
+      "start": 4.88,
+      "end": 5.2,
+      "word": "dove"
+    },
+    {
+      "start": 5.2,
+      "end": 5.3,
+      "word": "ho"
+    },
+    {
+      "start": 5.3,
+      "end": 5.66,
+      "word": "cominciato"
+    },
+    {
+      "start": 5.66,
+      "end": 5.82,
+      "word": "con"
+    },
+    {
+      "start": 5.82,
+      "end": 5.92,
+      "word": "un"
+    },
+    {
+      "start": 5.92,
+      "end": 6.12,
+      "word": "'ottima"
+    },
+    {
+      "start": 6.12,
+      "end": 6.62,
+      "word": "Collazione"
+    },
+    {
+      "start": 6.62,
+      "end": 6.96,
+      "word": "con"
+    },
+    {
+      "start": 6.96,
+      "end": 7.24,
+      "word": "questo"
+    },
+    {
+      "start": 7.24,
+      "end": 7.54,
+      "word": "waffle"
+    },
+    {
+      "start": 7.54,
+      "end": 8.06,
+      "word": "salato"
+    },
+    {
+      "start": 8.06,
+      "end": 8.36,
+      "word": "ripieno"
+    },
+    {
+      "start": 8.36,
+      "end": 8.5,
+      "word": "di"
+    },
+    {
+      "start": 8.5,
+      "end": 8.7,
+      "word": "uova"
+    },
+    {
+      "start": 8.7,
+      "end": 8.84,
+      "word": "e"
+    },
+    {
+      "start": 8.84,
+      "end": 9.3,
+      "word": "formaggio"
+    },
+    {
+      "start": 9.3,
+      "end": 9.74,
+      "word": "accompagnato"
+    },
+    {
+      "start": 9.74,
+      "end": 9.9,
+      "word": "da"
+    },
+    {
+      "start": 9.9,
+      "end": 10.1,
+      "word": "questa"
+    },
+    {
+      "start": 10.1,
+      "end": 10.5,
+      "word": "salsina"
+    },
+    {
+      "start": 10.5,
+      "end": 11.14,
+      "word": "Stile"
+    },
+    {
+      "start": 11.14,
+      "end": 11.5,
+      "word": "resin"
+    },
+    {
+      "start": 11.5,
+      "end": 12.12,
+      "word": "canes"
+    },
+    {
+      "start": 12.12,
+      "end": 12.32,
+      "word": "tutto"
+    },
+    {
+      "start": 12.32,
+      "end": 12.58,
+      "word": "molto"
+    },
+    {
+      "start": 12.58,
+      "end": 12.96,
+      "word": "buono"
+    },
+    {
+      "start": 12.96,
+      "end": 13.22,
+      "word": "ma"
+    },
+    {
+      "start": 13.22,
+      "end": 13.58,
+      "word": "molto"
+    },
+    {
+      "start": 13.58,
+      "end": 14.12,
+      "word": "piccolo"
+    },
+    {
+      "start": 14.12,
+      "end": 14.32,
+      "word": "e"
+    },
+    {
+      "start": 14.32,
+      "end": 14.6,
+      "word": "molto"
+    },
+    {
+      "start": 14.6,
+      "end": 15.22,
+      "word": "costoso"
+    },
+    {
+      "start": 15.22,
+      "end": 15.4,
+      "word": "mi"
+    },
+    {
+      "start": 15.4,
+      "end": 15.56,
+      "word": "sono"
+    },
+    {
+      "start": 15.56,
+      "end": 15.78,
+      "word": "quindi"
+    },
+    {
+      "start": 15.78,
+      "end": 15.96,
+      "word": "poi"
+    },
+    {
+      "start": 15.96,
+      "end": 16.24,
+      "word": "rifatto"
+    },
+    {
+      "start": 16.24,
+      "end": 16.44,
+      "word": "con"
+    },
+    {
+      "start": 16.44,
+      "end": 16.5,
+      "word": "un"
+    },
+    {
+      "start": 16.5,
+      "end": 17.04,
+      "word": "caffettino"
+    },
+    {
+      "start": 17.04,
+      "end": 17.24,
+      "word": "Una"
+    },
+    {
+      "start": 17.24,
+      "end": 17.54,
+      "word": "donna"
+    },
+    {
+      "start": 17.54,
+      "end": 17.62,
+      "word": "s"
+    },
+    {
+      "start": 17.62,
+      "end": 17.76,
+      "word": "del"
+    },
+    {
+      "start": 17.76,
+      "end": 17.92,
+      "word": "7"
+    },
+    {
+      "start": 17.92,
+      "end": 18.34,
+      "word": "-eleven"
+    },
+    {
+      "start": 18.34,
+      "end": 18.46,
+      "word": "per"
+    },
+    {
+      "start": 18.46,
+      "end": 18.6,
+      "word": "poi"
+    },
+    {
+      "start": 18.6,
+      "end": 18.92,
+      "word": "partire"
+    },
+    {
+      "start": 18.92,
+      "end": 19.02,
+      "word": "a"
+    },
+    {
+      "start": 19.02,
+      "end": 19.14,
+      "word": "fare"
+    },
+    {
+      "start": 19.14,
+      "end": 19.28,
+      "word": "il"
+    },
+    {
+      "start": 19.28,
+      "end": 19.54,
+      "word": "solito"
+    },
+    {
+      "start": 19.54,
+      "end": 19.86,
+      "word": "giro"
+    },
+    {
+      "start": 19.86,
+      "end": 19.98,
+      "word": "in"
+    },
+    {
+      "start": 19.98,
+      "end": 20.18,
+      "word": "boost"
+    },
+    {
+      "start": 20.18,
+      "end": 20.4,
+      "word": "da"
+    },
+    {
+      "start": 20.4,
+      "end": 20.8,
+      "word": "turisti"
+    },
+    {
+      "start": 20.8,
+      "end": 20.96,
+      "word": "per"
+    },
+    {
+      "start": 20.96,
+      "end": 21.36,
+      "word": "visitare"
+    },
+    {
+      "start": 21.36,
+      "end": 21.6,
+      "word": "maie"
+    },
+    {
+      "start": 21.6,
+      "end": 21.7,
+      "word": "mi"
+    },
+    {
+      "start": 21.7,
+      "end": 21.9,
+      "word": "beach"
+    },
+    {
+      "start": 21.9,
+      "end": 22.22,
+      "word": "maie"
+    },
+    {
+      "start": 22.22,
+      "end": 22.34,
+      "word": "tu"
+    },
+    {
+      "start": 22.34,
+      "end": 22.46,
+      "word": "che"
+    },
+    {
+      "start": 22.46,
+      "end": 22.56,
+      "word": "è"
+    },
+    {
+      "start": 22.56,
+      "end": 22.8,
+      "word": "iniziato"
+    },
+    {
+      "start": 22.8,
+      "end": 23.04,
+      "word": "ovviamente"
+    },
+    {
+      "start": 23.04,
+      "end": 23.28,
+      "word": "da"
+    },
+    {
+      "start": 23.28,
+      "end": 23.5,
+      "word": "ocean"
+    },
+    {
+      "start": 23.5,
+      "end": 23.8,
+      "word": "drive"
+    },
+    {
+      "start": 23.8,
+      "end": 24.0,
+      "word": "dove"
+    },
+    {
+      "start": 24.0,
+      "end": 24.18,
+      "word": "avevo"
+    },
+    {
+      "start": 24.18,
+      "end": 24.44,
+      "word": "visto"
+    },
+    {
+      "start": 24.44,
+      "end": 24.64,
+      "word": "la"
+    },
+    {
+      "start": 24.64,
+      "end": 24.84,
+      "word": "villa"
+    },
+    {
+      "start": 24.84,
+      "end": 25.06,
+      "word": "di"
+    },
+    {
+      "start": 25.06,
+      "end": 25.36,
+      "word": "Gianni"
+    },
+    {
+      "start": 25.36,
+      "end": 25.84,
+      "word": "Versace"
+    },
+    {
+      "start": 25.84,
+      "end": 26.0,
+      "word": "si"
+    },
+    {
+      "start": 26.0,
+      "end": 26.14,
+      "word": "quelle"
+    },
+    {
+      "start": 26.14,
+      "end": 26.32,
+      "word": "proprio"
+    },
+    {
+      "start": 26.32,
+      "end": 26.48,
+      "word": "il"
+    },
+    {
+      "start": 26.48,
+      "end": 26.62,
+      "word": "punto"
+    },
+    {
+      "start": 26.62,
+      "end": 26.82,
+      "word": "dove"
+    },
+    {
+      "start": 26.82,
+      "end": 26.94,
+      "word": "è"
+    },
+    {
+      "start": 26.94,
+      "end": 27.02,
+      "word": "stato"
+    },
+    {
+      "start": 27.02,
+      "end": 27.4,
+      "word": "ucciso"
+    },
+    {
+      "start": 27.4,
+      "end": 27.52,
+      "word": "E"
+    },
+    {
+      "start": 27.52,
+      "end": 27.62,
+      "word": "l"
+    },
+    {
+      "start": 27.62,
+      "end": 27.74,
+      "word": "'hotel"
+    },
+    {
+      "start": 27.74,
+      "end": 27.9,
+      "word": "dove"
+    },
+    {
+      "start": 27.9,
+      "end": 28.04,
+      "word": "hanno"
+    },
+    {
+      "start": 28.04,
+      "end": 28.34,
+      "word": "girato"
+    },
+    {
+      "start": 28.34,
+      "end": 28.96,
+      "word": "scarface"
+    },
+    {
+      "start": 28.96,
+      "end": 29.22,
+      "word": "dopo"
+    },
+    {
+      "start": 29.22,
+      "end": 29.36,
+      "word": "di"
+    },
+    {
+      "start": 29.36,
+      "end": 29.44,
+      "word": "che"
+    },
+    {
+      "start": 29.44,
+      "end": 29.6,
+      "word": "siamo"
+    },
+    {
+      "start": 29.6,
+      "end": 29.84,
+      "word": "arrivati"
+    },
+    {
+      "start": 29.84,
+      "end": 30.12,
+      "word": "appunto"
+    },
+    {
+      "start": 30.12,
+      "end": 30.28,
+      "word": "a"
+    },
+    {
+      "start": 30.28,
+      "end": 30.6,
+      "word": "maie"
+    },
+    {
+      "start": 30.6,
+      "end": 30.8,
+      "word": "mi"
+    },
+    {
+      "start": 30.8,
+      "end": 30.92,
+      "word": "e"
+    },
+    {
+      "start": 30.92,
+      "end": 31.04,
+      "word": "sono"
+    },
+    {
+      "start": 31.04,
+      "end": 31.22,
+      "word": "andati"
+    },
+    {
+      "start": 31.22,
+      "end": 31.3,
+      "word": "a"
+    },
+    {
+      "start": 31.3,
+      "end": 31.6,
+      "word": "visitare"
+    },
+    {
+      "start": 31.6,
+      "end": 31.74,
+      "word": "il"
+    },
+    {
+      "start": 31.74,
+      "end": 31.98,
+      "word": "quartiere"
+    },
+    {
+      "start": 31.98,
+      "end": 32.12,
+      "word": "di"
+    },
+    {
+      "start": 32.12,
+      "end": 32.32,
+      "word": "we"
+    },
+    {
+      "start": 32.32,
+      "end": 32.58,
+      "word": "would"
+    },
+    {
+      "start": 32.58,
+      "end": 32.68,
+      "word": "che"
+    },
+    {
+      "start": 32.68,
+      "end": 32.74,
+      "word": "è"
+    },
+    {
+      "start": 32.74,
+      "end": 32.82,
+      "word": "uno"
+    },
+    {
+      "start": 32.82,
+      "end": 32.92,
+      "word": "Di"
+    },
+    {
+      "start": 32.92,
+      "end": 33.2,
+      "word": "quartiere"
+    },
+    {
+      "start": 33.2,
+      "end": 33.36,
+      "word": "più"
+    },
+    {
+      "start": 33.36,
+      "end": 33.62,
+      "word": "famosi"
+    },
+    {
+      "start": 33.62,
+      "end": 33.76,
+      "word": "della"
+    },
+    {
+      "start": 33.76,
+      "end": 34.06,
+      "word": "città"
+    },
+    {
+      "start": 34.06,
+      "end": 34.24,
+      "word": "proprio"
+    },
+    {
+      "start": 34.24,
+      "end": 34.4,
+      "word": "per"
+    },
+    {
+      "start": 34.4,
+      "end": 34.62,
+      "word": "questi"
+    },
+    {
+      "start": 34.62,
+      "end": 35.14,
+      "word": "murales"
+    },
+    {
+      "start": 35.14,
+      "end": 35.52,
+      "word": "essendo"
+    },
+    {
+      "start": 35.52,
+      "end": 35.7,
+      "word": "proprio"
+    },
+    {
+      "start": 35.7,
+      "end": 35.84,
+      "word": "il"
+    },
+    {
+      "start": 35.84,
+      "end": 36.14,
+      "word": "quartiere"
+    },
+    {
+      "start": 36.14,
+      "end": 36.32,
+      "word": "dell"
+    },
+    {
+      "start": 36.32,
+      "end": 36.62,
+      "word": "'arte"
+    },
+    {
+      "start": 36.62,
+      "end": 36.86,
+      "word": "devo"
+    },
+    {
+      "start": 36.86,
+      "end": 37.02,
+      "word": "dire"
+    },
+    {
+      "start": 37.02,
+      "end": 37.16,
+      "word": "che"
+    },
+    {
+      "start": 37.16,
+      "end": 37.56,
+      "word": "nonostante"
+    },
+    {
+      "start": 37.56,
+      "end": 37.72,
+      "word": "non"
+    },
+    {
+      "start": 37.72,
+      "end": 37.84,
+      "word": "ci"
+    },
+    {
+      "start": 37.84,
+      "end": 38.02,
+      "word": "Sia"
+    },
+    {
+      "start": 38.02,
+      "end": 38.16,
+      "word": "chi"
+    },
+    {
+      "start": 38.16,
+      "end": 38.28,
+      "word": "sa"
+    },
+    {
+      "start": 38.28,
+      "end": 38.4,
+      "word": "che"
+    },
+    {
+      "start": 38.4,
+      "end": 38.68,
+      "word": "cosa"
+    },
+    {
+      "start": 38.68,
+      "end": 38.9,
+      "word": "in"
+    },
+    {
+      "start": 38.9,
+      "end": 39.12,
+      "word": "questo"
+    },
+    {
+      "start": 39.12,
+      "end": 39.56,
+      "word": "quartiere"
+    },
+    {
+      "start": 39.56,
+      "end": 39.72,
+      "word": "i"
+    },
+    {
+      "start": 39.72,
+      "end": 39.98,
+      "word": "murale"
+    },
+    {
+      "start": 39.98,
+      "end": 40.24,
+      "word": "sono"
+    },
+    {
+      "start": 40.24,
+      "end": 40.48,
+      "word": "sempre"
+    },
+    {
+      "start": 40.48,
+      "end": 40.82,
+      "word": "tutti"
+    },
+    {
+      "start": 40.82,
+      "end": 41.1,
+      "word": "molto"
+    },
+    {
+      "start": 41.1,
+      "end": 41.32,
+      "word": "molto"
+    },
+    {
+      "start": 41.32,
+      "end": 41.66,
+      "word": "carini"
+    },
+    {
+      "start": 41.66,
+      "end": 41.8,
+      "word": "poi"
+    },
+    {
+      "start": 41.8,
+      "end": 41.92,
+      "word": "ci"
+    },
+    {
+      "start": 41.92,
+      "end": 42.04,
+      "word": "siamo"
+    },
+    {
+      "start": 42.04,
+      "end": 42.22,
+      "word": "quindi"
+    },
+    {
+      "start": 42.22,
+      "end": 42.62,
+      "word": "spostati"
+    },
+    {
+      "start": 42.62,
+      "end": 42.74,
+      "word": "a"
+    },
+    {
+      "start": 42.74,
+      "end": 42.94,
+      "word": "litro"
+    },
+    {
+      "start": 42.94,
+      "end": 43.08,
+      "word": "la"
+    },
+    {
+      "start": 43.08,
+      "end": 43.38,
+      "word": "vana"
+    },
+    {
+      "start": 43.38,
+      "end": 43.52,
+      "word": "che"
+    },
+    {
+      "start": 43.52,
+      "end": 43.58,
+      "word": "Il"
+    },
+    {
+      "start": 43.58,
+      "end": 43.84,
+      "word": "quartiere"
+    },
+    {
+      "start": 43.84,
+      "end": 44.32,
+      "word": "cubano"
+    },
+    {
+      "start": 44.32,
+      "end": 44.54,
+      "word": "di"
+    },
+    {
+      "start": 44.54,
+      "end": 44.84,
+      "word": "maie"
+    },
+    {
+      "start": 44.84,
+      "end": 44.98,
+      "word": "mi"
+    },
+    {
+      "start": 44.98,
+      "end": 45.16,
+      "word": "dove"
+    },
+    {
+      "start": 45.16,
+      "end": 45.48,
+      "word": "per"
+    },
+    {
+      "start": 45.48,
+      "end": 45.58,
+      "word": "le"
+    },
+    {
+      "start": 45.58,
+      "end": 45.84,
+      "word": "strade"
+    },
+    {
+      "start": 45.84,
+      "end": 46.16,
+      "word": "girano"
+    },
+    {
+      "start": 46.16,
+      "end": 46.58,
+      "word": "galline"
+    },
+    {
+      "start": 46.58,
+      "end": 46.98,
+      "word": "libere"
+    },
+    {
+      "start": 46.98,
+      "end": 47.42,
+      "word": "ovviamente"
+    },
+    {
+      "start": 47.42,
+      "end": 47.62,
+      "word": "si"
+    },
+    {
+      "start": 47.62,
+      "end": 47.84,
+      "word": "parla"
+    },
+    {
+      "start": 47.84,
+      "end": 48.02,
+      "word": "solo"
+    },
+    {
+      "start": 48.02,
+      "end": 48.48,
+      "word": "spagnolo"
+    },
+    {
+      "start": 48.48,
+      "end": 48.62,
+      "word": "e"
+    },
+    {
+      "start": 48.62,
+      "end": 48.66,
+      "word": "noi"
+    },
+    {
+      "start": 48.66,
+      "end": 48.78,
+      "word": "siamo"
+    },
+    {
+      "start": 48.78,
+      "end": 49.0,
+      "word": "quindi"
+    },
+    {
+      "start": 49.0,
+      "end": 49.24,
+      "word": "andati"
+    },
+    {
+      "start": 49.24,
+      "end": 49.32,
+      "word": "a"
+    },
+    {
+      "start": 49.32,
+      "end": 49.72,
+      "word": "visitare"
+    },
+    {
+      "start": 49.72,
+      "end": 49.96,
+      "word": "Un"
+    },
+    {
+      "start": 49.96,
+      "end": 50.32,
+      "word": "negozio"
+    },
+    {
+      "start": 50.32,
+      "end": 50.44,
+      "word": "che"
+    },
+    {
+      "start": 50.44,
+      "end": 50.64,
+      "word": "vende"
+    },
+    {
+      "start": 50.64,
+      "end": 50.98,
+      "word": "sigari"
+    },
+    {
+      "start": 50.98,
+      "end": 51.36,
+      "word": "cubani"
+    },
+    {
+      "start": 51.36,
+      "end": 51.56,
+      "word": "poi"
+    },
+    {
+      "start": 51.56,
+      "end": 51.82,
+      "word": "ferma"
+    },
+    {
+      "start": 51.82,
+      "end": 51.98,
+      "word": "a"
+    },
+    {
+      "start": 51.98,
+      "end": 51.98,
+      "word": "c"
+    },
+    {
+      "start": 51.98,
+      "end": 52.02,
+      "word": "'è"
+    },
+    {
+      "start": 52.02,
+      "end": 52.18,
+      "word": "uno"
+    },
+    {
+      "start": 52.18,
+      "end": 52.32,
+      "word": "di"
+    },
+    {
+      "start": 52.32,
+      "end": 52.44,
+      "word": "cui"
+    },
+    {
+      "start": 52.44,
+      "end": 52.66,
+      "word": "bar"
+    },
+    {
+      "start": 52.66,
+      "end": 52.78,
+      "word": "a"
+    },
+    {
+      "start": 52.78,
+      "end": 53.08,
+      "word": "provare"
+    },
+    {
+      "start": 53.08,
+      "end": 53.24,
+      "word": "il"
+    },
+    {
+      "start": 53.24,
+      "end": 53.52,
+      "word": "vero"
+    },
+    {
+      "start": 53.52,
+      "end": 53.88,
+      "word": "muoito"
+    },
+    {
+      "start": 53.88,
+      "end": 54.32,
+      "word": "cubano"
+    },
+    {
+      "start": 54.32,
+      "end": 54.52,
+      "word": "perché"
+    },
+    {
+      "start": 54.52,
+      "end": 54.74,
+      "word": "sì"
+    },
+    {
+      "start": 54.74,
+      "end": 55.2,
+      "word": "Moito"
+    },
+    {
+      "start": 55.2,
+      "end": 55.42,
+      "word": "è"
+    },
+    {
+      "start": 55.42,
+      "end": 55.54,
+      "word": "di"
+    },
+    {
+      "start": 55.54,
+      "end": 55.76,
+      "word": "cuba"
+    },
+    {
+      "start": 55.76,
+      "end": 56.06,
+      "word": "chiaramente"
+    },
+    {
+      "start": 56.06,
+      "end": 56.28,
+      "word": "a"
+    },
+    {
+      "start": 56.28,
+      "end": 56.32,
+      "word": "me"
+    },
+    {
+      "start": 56.32,
+      "end": 56.44,
+      "word": "non"
+    },
+    {
+      "start": 56.44,
+      "end": 56.52,
+      "word": "è"
+    },
+    {
+      "start": 56.52,
+      "end": 56.84,
+      "word": "piaciuto"
+    },
+    {
+      "start": 56.84,
+      "end": 56.98,
+      "word": "ma"
+    },
+    {
+      "start": 56.98,
+      "end": 57.08,
+      "word": "non"
+    },
+    {
+      "start": 57.08,
+      "end": 57.16,
+      "word": "mi"
+    },
+    {
+      "start": 57.16,
+      "end": 57.52,
+      "word": "aspettavo"
+    },
+    {
+      "start": 57.52,
+      "end": 57.6,
+      "word": "il"
+    },
+    {
+      "start": 57.6,
+      "end": 57.84,
+      "word": "contrario"
+    },
+    {
+      "start": 57.84,
+      "end": 58.12,
+      "word": "poi"
+    },
+    {
+      "start": 58.12,
+      "end": 58.24,
+      "word": "siamo"
+    },
+    {
+      "start": 58.24,
+      "end": 58.44,
+      "word": "invece"
+    },
+    {
+      "start": 58.44,
+      "end": 58.76,
+      "word": "salito"
+    },
+    {
+      "start": 58.76,
+      "end": 58.88,
+      "word": "su"
+    },
+    {
+      "start": 58.88,
+      "end": 59.0,
+      "word": "una"
+    },
+    {
+      "start": 59.0,
+      "end": 59.26,
+      "word": "piccola"
+    },
+    {
+      "start": 59.26,
+      "end": 59.6,
+      "word": "Crocera"
+    },
+    {
+      "start": 59.6,
+      "end": 59.74,
+      "word": "che"
+    },
+    {
+      "start": 59.74,
+      "end": 59.84,
+      "word": "ci"
+    },
+    {
+      "start": 59.84,
+      "end": 59.88,
+      "word": "ha"
+    },
+    {
+      "start": 59.88,
+      "end": 60.06,
+      "word": "fatto"
+    },
+    {
+      "start": 60.06,
+      "end": 60.26,
+      "word": "fare"
+    },
+    {
+      "start": 60.26,
+      "end": 60.48,
+      "word": "il"
+    },
+    {
+      "start": 60.48,
+      "end": 60.7,
+      "word": "tour"
+    },
+    {
+      "start": 60.7,
+      "end": 60.98,
+      "word": "delle"
+    },
+    {
+      "start": 60.98,
+      "end": 61.28,
+      "word": "ville"
+    },
+    {
+      "start": 61.28,
+      "end": 61.44,
+      "word": "di"
+    },
+    {
+      "start": 61.44,
+      "end": 61.7,
+      "word": "maie"
+    },
+    {
+      "start": 61.7,
+      "end": 61.9,
+      "word": "dove"
+    },
+    {
+      "start": 61.9,
+      "end": 62.16,
+      "word": "abbiamo"
+    },
+    {
+      "start": 62.16,
+      "end": 62.4,
+      "word": "visto"
+    },
+    {
+      "start": 62.4,
+      "end": 62.56,
+      "word": "la"
+    },
+    {
+      "start": 62.56,
+      "end": 62.68,
+      "word": "villa"
+    },
+    {
+      "start": 62.68,
+      "end": 62.84,
+      "word": "di"
+    },
+    {
+      "start": 62.84,
+      "end": 63.08,
+      "word": "jackie"
+    },
+    {
+      "start": 63.08,
+      "end": 63.32,
+      "word": "chan"
+    },
+    {
+      "start": 63.32,
+      "end": 63.46,
+      "word": "di"
+    },
+    {
+      "start": 63.46,
+      "end": 63.9,
+      "word": "bandera"
+    },
+    {
+      "start": 63.9,
+      "end": 64.26,
+      "word": "Sonsia"
+    },
+    {
+      "start": 64.26,
+      "end": 64.78,
+      "word": "kilonilla"
+    },
+    {
+      "start": 64.78,
+      "end": 64.96,
+      "word": "di"
+    },
+    {
+      "start": 64.96,
+      "end": 65.4,
+      "word": "riana"
+    },
+    {
+      "start": 65.4,
+      "end": 65.6,
+      "word": "di"
+    },
+    {
+      "start": 65.6,
+      "end": 65.86,
+      "word": "gesti"
+    },
+    {
+      "start": 65.86,
+      "end": 65.88,
+      "word": "in"
+    },
+    {
+      "start": 65.88,
+      "end": 66.18,
+      "word": "viber"
+    },
+    {
+      "start": 66.18,
+      "end": 66.3,
+      "word": "di"
+    },
+    {
+      "start": 66.3,
+      "end": 66.38,
+      "word": "me"
+    },
+    {
+      "start": 66.38,
+      "end": 66.8,
+      "word": "wedder"
+    },
+    {
+      "start": 66.8,
+      "end": 66.96,
+      "word": "di"
+    },
+    {
+      "start": 66.96,
+      "end": 67.14,
+      "word": "altre"
+    },
+    {
+      "start": 67.14,
+      "end": 67.62,
+      "word": "migliaia"
+    },
+    {
+      "start": 67.62,
+      "end": 67.76,
+      "word": "di"
+    },
+    {
+      "start": 67.76,
+      "end": 68.28,
+      "word": "celebrità"
+    },
+    {
+      "start": 68.28,
+      "end": 69.16,
+      "word": "famosissime"
+    },
+    {
+      "start": 69.16,
+      "end": 69.36,
+      "word": "proprio"
+    },
+    {
+      "start": 69.36,
+      "end": 69.62,
+      "word": "vedere"
+    },
+    {
+      "start": 69.62,
+      "end": 69.86,
+      "word": "anche"
+    },
+    {
+      "start": 69.86,
+      "end": 70.04,
+      "word": "dove"
+    },
+    {
+      "start": 70.04,
+      "end": 70.2,
+      "word": "hanno"
+    },
+    {
+      "start": 70.2,
+      "end": 70.52,
+      "word": "Girato"
+    },
+    {
+      "start": 70.52,
+      "end": 70.62,
+      "word": "era"
+    },
+    {
+      "start": 70.62,
+      "end": 70.74,
+      "word": "un"
+    },
+    {
+      "start": 70.74,
+      "end": 71.06,
+      "word": "entretto"
+    },
+    {
+      "start": 71.06,
+      "end": 71.28,
+      "word": "finita"
+    },
+    {
+      "start": 71.28,
+      "end": 71.42,
+      "word": "la"
+    },
+    {
+      "start": 71.42,
+      "end": 71.74,
+      "word": "crociera"
+    },
+    {
+      "start": 71.74,
+      "end": 71.98,
+      "word": "sulle"
+    },
+    {
+      "start": 71.98,
+      "end": 72.16,
+      "word": "ville"
+    },
+    {
+      "start": 72.16,
+      "end": 72.38,
+      "word": "delle"
+    },
+    {
+      "start": 72.38,
+      "end": 72.9,
+      "word": "celebrità"
+    },
+    {
+      "start": 72.9,
+      "end": 73.0,
+      "word": "di"
+    },
+    {
+      "start": 73.0,
+      "end": 73.3,
+      "word": "maie"
+    },
+    {
+      "start": 73.3,
+      "end": 73.42,
+      "word": "mi"
+    },
+    {
+      "start": 73.42,
+      "end": 73.56,
+      "word": "siamo"
+    },
+    {
+      "start": 73.56,
+      "end": 73.74,
+      "word": "poi"
+    },
+    {
+      "start": 73.74,
+      "end": 73.92,
+      "word": "andati"
+    },
+    {
+      "start": 73.92,
+      "end": 74.0,
+      "word": "a"
+    },
+    {
+      "start": 74.0,
+      "end": 74.44,
+      "word": "franzare"
+    },
+    {
+      "start": 74.44,
+      "end": 74.64,
+      "word": "con"
+    },
+    {
+      "start": 74.64,
+      "end": 74.78,
+      "word": "degli"
+    },
+    {
+      "start": 74.78,
+      "end": 75.04,
+      "word": "ottimi"
+    },
+    {
+      "start": 75.04,
+      "end": 75.44,
+      "word": "Crispy"
+    },
+    {
+      "start": 75.44,
+      "end": 75.64,
+      "word": "chicken"
+    },
+    {
+      "start": 75.64,
+      "end": 76.06,
+      "word": "tacos"
+    },
+    {
+      "start": 76.06,
+      "end": 76.62,
+      "word": "accompagnati"
+    },
+    {
+      "start": 76.62,
+      "end": 76.76,
+      "word": "le"
+    },
+    {
+      "start": 76.76,
+      "end": 77.18,
+      "word": "classici"
+    },
+    {
+      "start": 77.18,
+      "end": 77.46,
+      "word": "nachos"
+    },
+    {
+      "start": 77.46,
+      "end": 77.6,
+      "word": "che"
+    },
+    {
+      "start": 77.6,
+      "end": 77.74,
+      "word": "però"
+    },
+    {
+      "start": 77.74,
+      "end": 77.84,
+      "word": "mi"
+    },
+    {
+      "start": 77.84,
+      "end": 77.94,
+      "word": "hanno"
+    },
+    {
+      "start": 77.94,
+      "end": 78.36,
+      "word": "veramente"
+    },
+    {
+      "start": 78.36,
+      "end": 78.92,
+      "word": "stupito"
+    },
+    {
+      "start": 78.92,
+      "end": 79.16,
+      "word": "soprattutto"
+    },
+    {
+      "start": 79.16,
+      "end": 79.4,
+      "word": "il"
+    },
+    {
+      "start": 79.4,
+      "end": 79.5,
+      "word": "polo"
+    },
+    {
+      "start": 79.5,
+      "end": 79.72,
+      "word": "fritto"
+    },
+    {
+      "start": 79.72,
+      "end": 79.84,
+      "word": "che"
+    },
+    {
+      "start": 79.84,
+      "end": 79.92,
+      "word": "non"
+    },
+    {
+      "start": 79.92,
+      "end": 80.0,
+      "word": "mi"
+    },
+    {
+      "start": 80.0,
+      "end": 80.34,
+      "word": "aspettavo"
+    },
+    {
+      "start": 80.34,
+      "end": 80.56,
+      "word": "Forse"
+    },
+    {
+      "start": 80.56,
+      "end": 80.8,
+      "word": "così"
+    },
+    {
+      "start": 80.8,
+      "end": 81.26,
+      "word": "croccante"
+    },
+    {
+      "start": 81.26,
+      "end": 81.44,
+      "word": "allo"
+    },
+    {
+      "start": 81.44,
+      "end": 81.54,
+      "word": "stesso"
+    },
+    {
+      "start": 81.54,
+      "end": 81.8,
+      "word": "tempo"
+    },
+    {
+      "start": 81.8,
+      "end": 82.06,
+      "word": "così"
+    },
+    {
+      "start": 82.06,
+      "end": 82.54,
+      "word": "leggera"
+    },
+    {
+      "start": 82.54,
+      "end": 82.64,
+      "word": "la"
+    },
+    {
+      "start": 82.64,
+      "end": 83.02,
+      "word": "frittura"
+    },
+    {
+      "start": 83.02,
+      "end": 83.18,
+      "word": "alla"
+    },
+    {
+      "start": 83.18,
+      "end": 83.36,
+      "word": "fine"
+    },
+    {
+      "start": 83.36,
+      "end": 83.7,
+      "word": "ragazzi"
+    },
+    {
+      "start": 83.7,
+      "end": 84.0,
+      "word": "tacos"
+    },
+    {
+      "start": 84.0,
+      "end": 84.24,
+      "word": "ci"
+    },
+    {
+      "start": 84.24,
+      "end": 84.5,
+      "word": "stanno"
+    },
+    {
+      "start": 84.5,
+      "end": 84.78,
+      "word": "sempre"
+    },
+    {
+      "start": 84.78,
+      "end": 85.08,
+      "word": "soprattutto"
+    },
+    {
+      "start": 85.08,
+      "end": 85.4,
+      "word": "in"
+    },
+    {
+      "start": 85.4,
+      "end": 85.58,
+      "word": "quelli"
+    },
+    {
+      "start": 85.58,
+      "end": 85.86,
+      "word": "maie"
+    },
+    {
+      "start": 85.86,
+      "end": 85.98,
+      "word": "mi"
+    },
+    {
+      "start": 85.98,
+      "end": 86.1,
+      "word": "In"
+    },
+    {
+      "start": 86.1,
+      "end": 86.24,
+      "word": "quella"
+    },
+    {
+      "start": 86.24,
+      "end": 86.58,
+      "word": "cucina"
+    },
+    {
+      "start": 86.58,
+      "end": 87.06,
+      "word": "messicana"
+    },
+    {
+      "start": 87.06,
+      "end": 87.48,
+      "word": "banche"
+    },
+    {
+      "start": 87.48,
+      "end": 87.62,
+      "word": "lei"
+    },
+    {
+      "start": 87.62,
+      "end": 87.88,
+      "word": "molto"
+    },
+    {
+      "start": 87.88,
+      "end": 88.06,
+      "word": "come"
+    },
+    {
+      "start": 88.06,
+      "end": 88.36,
+      "word": "regioni"
+    },
+    {
+      "start": 88.36,
+      "end": 88.5,
+      "word": "ci"
+    },
+    {
+      "start": 88.5,
+      "end": 88.64,
+      "word": "siamo"
+    },
+    {
+      "start": 88.64,
+      "end": 88.82,
+      "word": "invece"
+    },
+    {
+      "start": 88.82,
+      "end": 89.4,
+      "word": "rilassati"
+    },
+    {
+      "start": 89.4,
+      "end": 89.52,
+      "word": "in"
+    },
+    {
+      "start": 89.52,
+      "end": 89.98,
+      "word": "spiagge"
+    },
+    {
+      "start": 89.98,
+      "end": 90.08,
+      "word": "in"
+    },
+    {
+      "start": 90.08,
+      "end": 90.28,
+      "word": "quelli"
+    },
+    {
+      "start": 90.28,
+      "end": 90.56,
+      "word": "maie"
+    },
+    {
+      "start": 90.56,
+      "end": 90.64,
+      "word": "mi"
+    },
+    {
+      "start": 90.64,
+      "end": 91.04,
+      "word": "viccio"
+    },
+    {
+      "start": 91.04,
+      "end": 91.1,
+      "word": "per"
+    },
+    {
+      "start": 91.1,
+      "end": 91.22,
+      "word": "poi"
+    },
+    {
+      "start": 91.22,
+      "end": 91.74,
+      "word": "dociarci"
+    },
+    {
+      "start": 91.74,
+      "end": 92.3,
+      "word": "Cambiarci"
+    },
+    {
+      "start": 92.3,
+      "end": 92.72,
+      "word": "uscire"
+    },
+    {
+      "start": 92.72,
+      "end": 92.82,
+      "word": "a"
+    },
+    {
+      "start": 92.82,
+      "end": 93.12,
+      "word": "cena"
+    },
+    {
+      "start": 93.12,
+      "end": 93.38,
+      "word": "per"
+    },
+    {
+      "start": 93.38,
+      "end": 93.64,
+      "word": "tornare"
+    },
+    {
+      "start": 93.64,
+      "end": 93.72,
+      "word": "a"
+    },
+    {
+      "start": 93.72,
+      "end": 93.96,
+      "word": "mangiare"
+    },
+    {
+      "start": 93.96,
+      "end": 94.1,
+      "word": "in"
+    },
+    {
+      "start": 94.1,
+      "end": 94.18,
+      "word": "un"
+    },
+    {
+      "start": 94.18,
+      "end": 94.64,
+      "word": "postecino"
+    },
+    {
+      "start": 94.64,
+      "end": 95.2,
+      "word": "abbastanza"
+    },
+    {
+      "start": 95.2,
+      "end": 95.54,
+      "word": "famoso"
+    },
+    {
+      "start": 95.54,
+      "end": 95.9,
+      "word": "fast"
+    },
+    {
+      "start": 95.9,
+      "end": 96.12,
+      "word": "food"
+    },
+    {
+      "start": 96.12,
+      "end": 96.26,
+      "word": "che"
+    },
+    {
+      "start": 96.26,
+      "end": 96.5,
+      "word": "seva"
+    },
+    {
+      "start": 96.5,
+      "end": 96.6,
+      "word": "in"
+    },
+    {
+      "start": 96.6,
+      "end": 96.98,
+      "word": "america"
+    },
+    {
+      "start": 96.98,
+      "end": 97.14,
+      "word": "non"
+    },
+    {
+      "start": 97.14,
+      "end": 97.44,
+      "word": "può"
+    },
+    {
+      "start": 97.44,
+      "end": 97.64,
+      "word": "in"
+    },
+    {
+      "start": 97.64,
+      "end": 97.68,
+      "word": "un"
+    },
+    {
+      "start": 97.68,
+      "end": 98.14,
+      "word": "provare"
+    },
+    {
+      "start": 98.14,
+      "end": 98.38,
+      "word": "Non"
+    },
+    {
+      "start": 98.38,
+      "end": 98.64,
+      "word": "tanto"
+    },
+    {
+      "start": 98.64,
+      "end": 98.86,
+      "word": "per"
+    },
+    {
+      "start": 98.86,
+      "end": 98.98,
+      "word": "il"
+    },
+    {
+      "start": 98.98,
+      "end": 99.16,
+      "word": "cibo"
+    },
+    {
+      "start": 99.16,
+      "end": 99.28,
+      "word": "in"
+    },
+    {
+      "start": 99.28,
+      "end": 99.44,
+      "word": "sé"
+    },
+    {
+      "start": 99.44,
+      "end": 99.6,
+      "word": "ma"
+    },
+    {
+      "start": 99.6,
+      "end": 99.74,
+      "word": "per"
+    },
+    {
+      "start": 99.74,
+      "end": 99.9,
+      "word": "quello"
+    },
+    {
+      "start": 99.9,
+      "end": 100.06,
+      "word": "che"
+    },
+    {
+      "start": 100.06,
+      "end": 100.24,
+      "word": "ormai"
+    },
+    {
+      "start": 100.24,
+      "end": 100.82,
+      "word": "rappresenta"
+    },
+    {
+      "start": 100.82,
+      "end": 101.16,
+      "word": "essendo"
+    },
+    {
+      "start": 101.16,
+      "end": 101.52,
+      "word": "diventato"
+    },
+    {
+      "start": 101.52,
+      "end": 101.72,
+      "word": "famoso"
+    },
+    {
+      "start": 101.72,
+      "end": 101.96,
+      "word": "in"
+    },
+    {
+      "start": 101.96,
+      "end": 102.08,
+      "word": "tutto"
+    },
+    {
+      "start": 102.08,
+      "end": 102.24,
+      "word": "il"
+    },
+    {
+      "start": 102.24,
+      "end": 102.4,
+      "word": "mondo"
+    },
+    {
+      "start": 102.4,
+      "end": 102.56,
+      "word": "per"
+    },
+    {
+      "start": 102.56,
+      "end": 102.68,
+      "word": "il"
+    },
+    {
+      "start": 102.68,
+      "end": 102.76,
+      "word": "suo"
+    },
+    {
+      "start": 102.76,
+      "end": 102.94,
+      "word": "pollo"
+    },
+    {
+      "start": 102.94,
+      "end": 103.16,
+      "word": "fritto"
+    },
+    {
+      "start": 103.16,
+      "end": 103.6,
+      "word": "Soprattutto"
+    },
+    {
+      "start": 103.6,
+      "end": 103.8,
+      "word": "per"
+    },
+    {
+      "start": 103.8,
+      "end": 103.92,
+      "word": "la"
+    },
+    {
+      "start": 103.92,
+      "end": 104.04,
+      "word": "sua"
+    },
+    {
+      "start": 104.04,
+      "end": 104.3,
+      "word": "salsa"
+    },
+    {
+      "start": 104.3,
+      "end": 104.88,
+      "word": "iconica"
+    },
+    {
+      "start": 104.88,
+      "end": 105.06,
+      "word": "sto"
+    },
+    {
+      "start": 105.06,
+      "end": 105.38,
+      "word": "chiaramente"
+    },
+    {
+      "start": 105.38,
+      "end": 105.74,
+      "word": "parlando"
+    },
+    {
+      "start": 105.74,
+      "end": 105.92,
+      "word": "di"
+    },
+    {
+      "start": 105.92,
+      "end": 106.12,
+      "word": "raising"
+    },
+    {
+      "start": 106.12,
+      "end": 106.46,
+      "word": "case"
+    },
+    {
+      "start": 106.46,
+      "end": 106.66,
+      "word": "ho"
+    },
+    {
+      "start": 106.66,
+      "end": 106.86,
+      "word": "preso"
+    },
+    {
+      "start": 106.86,
+      "end": 106.94,
+      "word": "a"
+    },
+    {
+      "start": 106.94,
+      "end": 107.04,
+      "word": "loro"
+    },
+    {
+      "start": 107.04,
+      "end": 107.44,
+      "word": "classi"
+    },
+    {
+      "start": 107.44,
+      "end": 107.58,
+      "word": "come"
+    },
+    {
+      "start": 107.58,
+      "end": 107.9,
+      "word": "nuci"
+    },
+    {
+      "start": 107.9,
+      "end": 108.52,
+      "word": "contenders"
+    },
+    {
+      "start": 108.52,
+      "end": 108.94,
+      "word": "pane"
+    },
+    {
+      "start": 108.94,
+      "end": 109.14,
+      "word": "al"
+    },
+    {
+      "start": 109.14,
+      "end": 109.5,
+      "word": "burro"
+    },
+    {
+      "start": 109.5,
+      "end": 110.18,
+      "word": "Salsina"
+    },
+    {
+      "start": 110.18,
+      "end": 110.38,
+      "word": "e"
+    },
+    {
+      "start": 110.38,
+      "end": 110.84,
+      "word": "patatine"
+    },
+    {
+      "start": 110.84,
+      "end": 111.08,
+      "word": "il"
+    },
+    {
+      "start": 111.08,
+      "end": 111.26,
+      "word": "pollo"
+    },
+    {
+      "start": 111.26,
+      "end": 111.36,
+      "word": "di"
+    },
+    {
+      "start": 111.36,
+      "end": 111.58,
+      "word": "raising"
+    },
+    {
+      "start": 111.58,
+      "end": 111.9,
+      "word": "case"
+    },
+    {
+      "start": 111.9,
+      "end": 112.24,
+      "word": "ovviamente"
+    },
+    {
+      "start": 112.24,
+      "end": 112.84,
+      "word": "iconico"
+    },
+    {
+      "start": 112.84,
+      "end": 112.98,
+      "word": "ma"
+    },
+    {
+      "start": 112.98,
+      "end": 113.3,
+      "word": "molto"
+    },
+    {
+      "start": 113.3,
+      "end": 113.5,
+      "word": "molto"
+    },
+    {
+      "start": 113.5,
+      "end": 113.78,
+      "word": "buono"
+    },
+    {
+      "start": 113.78,
+      "end": 113.88,
+      "word": "se"
+    },
+    {
+      "start": 113.88,
+      "end": 113.98,
+      "word": "mi"
+    },
+    {
+      "start": 113.98,
+      "end": 114.26,
+      "word": "chiedete"
+    },
+    {
+      "start": 114.26,
+      "end": 114.36,
+      "word": "se"
+    },
+    {
+      "start": 114.36,
+      "end": 114.48,
+      "word": "si"
+    },
+    {
+      "start": 114.48,
+      "end": 114.66,
+      "word": "vede"
+    },
+    {
+      "start": 114.66,
+      "end": 114.78,
+      "word": "la"
+    },
+    {
+      "start": 114.78,
+      "end": 115.14,
+      "word": "differenza"
+    },
+    {
+      "start": 115.14,
+      "end": 115.28,
+      "word": "tra"
+    },
+    {
+      "start": 115.28,
+      "end": 115.5,
+      "word": "questo"
+    },
+    {
+      "start": 115.5,
+      "end": 115.74,
+      "word": "pollo"
+    },
+    {
+      "start": 115.74,
+      "end": 116.0,
+      "word": "fritto"
+    },
+    {
+      "start": 116.0,
+      "end": 116.2,
+      "word": "Quello"
+    },
+    {
+      "start": 116.2,
+      "end": 116.34,
+      "word": "degli"
+    },
+    {
+      "start": 116.34,
+      "end": 116.5,
+      "word": "altri"
+    },
+    {
+      "start": 116.5,
+      "end": 116.7,
+      "word": "fast"
+    },
+    {
+      "start": 116.7,
+      "end": 116.92,
+      "word": "food"
+    },
+    {
+      "start": 116.92,
+      "end": 117.1,
+      "word": "beh"
+    },
+    {
+      "start": 117.1,
+      "end": 117.3,
+      "word": "sì"
+    },
+    {
+      "start": 117.3,
+      "end": 117.68,
+      "word": "ragazzi"
+    },
+    {
+      "start": 117.68,
+      "end": 117.84,
+      "word": "la"
+    },
+    {
+      "start": 117.84,
+      "end": 118.26,
+      "word": "differenza"
+    },
+    {
+      "start": 118.26,
+      "end": 118.66,
+      "word": "netta"
+    },
+    {
+      "start": 118.66,
+      "end": 118.94,
+      "word": "ovviamente"
+    },
+    {
+      "start": 118.94,
+      "end": 119.12,
+      "word": "non"
+    },
+    {
+      "start": 119.12,
+      "end": 119.2,
+      "word": "è"
+    },
+    {
+      "start": 119.2,
+      "end": 119.22,
+      "word": "il"
+    },
+    {
+      "start": 119.22,
+      "end": 119.42,
+      "word": "pollo"
+    },
+    {
+      "start": 119.42,
+      "end": 119.66,
+      "word": "fritto"
+    },
+    {
+      "start": 119.66,
+      "end": 119.8,
+      "word": "più"
+    },
+    {
+      "start": 119.8,
+      "end": 120.06,
+      "word": "buono"
+    },
+    {
+      "start": 120.06,
+      "end": 120.24,
+      "word": "come"
+    },
+    {
+      "start": 120.24,
+      "end": 120.44,
+      "word": "già"
+    },
+    {
+      "start": 120.44,
+      "end": 120.54,
+      "word": "fino"
+    },
+    {
+      "start": 120.54,
+      "end": 120.68,
+      "word": "a"
+    },
+    {
+      "start": 120.68,
+      "end": 121.04,
+      "word": "america"
+    },
+    {
+      "start": 121.04,
+      "end": 121.2,
+      "word": "perché"
+    },
+    {
+      "start": 121.2,
+      "end": 121.5,
+      "word": "rimane"
+    },
+    {
+      "start": 121.5,
+      "end": 121.68,
+      "word": "comunque"
+    },
+    {
+      "start": 121.68,
+      "end": 121.92,
+      "word": "una"
+    },
+    {
+      "start": 121.92,
+      "end": 122.32,
+      "word": "Catena"
+    },
+    {
+      "start": 122.32,
+      "end": 122.48,
+      "word": "e"
+    },
+    {
+      "start": 122.48,
+      "end": 122.58,
+      "word": "per"
+    },
+    {
+      "start": 122.58,
+      "end": 122.84,
+      "word": "questo"
+    },
+    {
+      "start": 122.84,
+      "end": 122.98,
+      "word": "che"
+    },
+    {
+      "start": 122.98,
+      "end": 123.08,
+      "word": "non"
+    },
+    {
+      "start": 123.08,
+      "end": 123.26,
+      "word": "vuole"
+    },
+    {
+      "start": 123.26,
+      "end": 123.74,
+      "word": "giudicare"
+    },
+    {
+      "start": 123.74,
+      "end": 123.96,
+      "word": "tanto"
+    },
+    {
+      "start": 123.96,
+      "end": 124.2,
+      "word": "il"
+    },
+    {
+      "start": 124.2,
+      "end": 124.48,
+      "word": "pollo"
+    },
+    {
+      "start": 124.48,
+      "end": 124.6,
+      "word": "ma"
+    },
+    {
+      "start": 124.6,
+      "end": 124.9,
+      "word": "quanto"
+    },
+    {
+      "start": 124.9,
+      "end": 125.08,
+      "word": "più"
+    },
+    {
+      "start": 125.08,
+      "end": 125.18,
+      "word": "l"
+    },
+    {
+      "start": 125.18,
+      "end": 125.66,
+      "word": "'esperienza"
+    },
+    {
+      "start": 125.66,
+      "end": 125.78,
+      "word": "che"
+    },
+    {
+      "start": 125.78,
+      "end": 126.26,
+      "word": "decisamente"
+    },
+    {
+      "start": 126.26,
+      "end": 126.86,
+      "word": "clavo"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.6,
+      "dur": 2.6,
+      "transcript": "Giornodu del mio viaggio in flore della scoperta della vera"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.6,
+      "end": 4.4,
+      "dur": 1.8,
+      "transcript": "cucina americana oggi siamo sempre in quelli maie"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.4,
+      "end": 5.3,
+      "dur": 0.9,
+      "transcript": "mi beach dove ho"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.3,
+      "end": 6.333,
+      "dur": 1.033,
+      "transcript": "cominciato con un 'ottima"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.333,
+      "end": 7.433,
+      "dur": 1.1,
+      "transcript": "Collazione con questo waffle"
+    },
+    {
+      "shot_idx": 5,
+      "start": 7.433,
+      "end": 11.967,
+      "dur": 4.533,
+      "transcript": "salato ripieno di uova e formaggio accompagnato da questa salsina Stile resin canes"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.967,
+      "end": 14.433,
+      "dur": 2.467,
+      "transcript": "tutto molto buono ma molto piccolo e"
+    },
+    {
+      "shot_idx": 7,
+      "start": 14.433,
+      "end": 16.433,
+      "dur": 2.0,
+      "transcript": "molto costoso mi sono quindi poi rifatto con"
+    },
+    {
+      "shot_idx": 8,
+      "start": 16.433,
+      "end": 19.4,
+      "dur": 2.967,
+      "transcript": "un caffettino Una donna s del 7 -eleven per poi partire a fare il"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.4,
+      "end": 23.4,
+      "dur": 4.0,
+      "transcript": "solito giro in boost da turisti per visitare maie mi beach maie tu che è iniziato ovviamente da ocean"
+    },
+    {
+      "shot_idx": 10,
+      "start": 23.4,
+      "end": 26.0,
+      "dur": 2.6,
+      "transcript": "drive dove avevo visto la villa di Gianni Versace si"
+    },
+    {
+      "shot_idx": 11,
+      "start": 26.0,
+      "end": 29.533,
+      "dur": 3.533,
+      "transcript": "quelle proprio il punto dove è stato ucciso E l 'hotel dove hanno girato scarface dopo di che siamo"
+    },
+    {
+      "shot_idx": 12,
+      "start": 29.533,
+      "end": 31.533,
+      "dur": 2.0,
+      "transcript": "arrivati appunto a maie mi e sono andati a visitare"
+    },
+    {
+      "shot_idx": 13,
+      "start": 31.533,
+      "end": 34.533,
+      "dur": 3.0,
+      "transcript": "il quartiere di we would che è uno Di quartiere più famosi della città proprio per questi"
+    },
+    {
+      "shot_idx": 14,
+      "start": 34.533,
+      "end": 37.1,
+      "dur": 2.567,
+      "transcript": "murales essendo proprio il quartiere dell 'arte devo dire che"
+    },
+    {
+      "shot_idx": 15,
+      "start": 37.1,
+      "end": 40.867,
+      "dur": 3.767,
+      "transcript": "nonostante non ci Sia chi sa che cosa in questo quartiere i murale sono sempre tutti"
+    },
+    {
+      "shot_idx": 16,
+      "start": 40.867,
+      "end": 42.633,
+      "dur": 1.767,
+      "transcript": "molto molto carini poi ci siamo quindi spostati"
+    },
+    {
+      "shot_idx": 17,
+      "start": 42.633,
+      "end": 45.667,
+      "dur": 3.033,
+      "transcript": "a litro la vana che Il quartiere cubano di maie mi dove per le"
+    },
+    {
+      "shot_idx": 18,
+      "start": 45.667,
+      "end": 48.633,
+      "dur": 2.967,
+      "transcript": "strade girano galline libere ovviamente si parla solo spagnolo e"
+    },
+    {
+      "shot_idx": 19,
+      "start": 48.633,
+      "end": 52.667,
+      "dur": 4.033,
+      "transcript": "noi siamo quindi andati a visitare Un negozio che vende sigari cubani poi ferma a c 'è uno di cui bar"
+    },
+    {
+      "shot_idx": 20,
+      "start": 52.667,
+      "end": 56.133,
+      "dur": 3.467,
+      "transcript": "a provare il vero muoito cubano perché sì Moito è di cuba chiaramente"
+    },
+    {
+      "shot_idx": 21,
+      "start": 56.133,
+      "end": 58.6,
+      "dur": 2.467,
+      "transcript": "a me non è piaciuto ma non mi aspettavo il contrario poi siamo invece salito"
+    },
+    {
+      "shot_idx": 22,
+      "start": 58.6,
+      "end": 60.6,
+      "dur": 2.0,
+      "transcript": "su una piccola Crocera che ci ha fatto fare il tour"
+    },
+    {
+      "shot_idx": 23,
+      "start": 60.6,
+      "end": 62.633,
+      "dur": 2.033,
+      "transcript": "delle ville di maie dove abbiamo visto la villa"
+    },
+    {
+      "shot_idx": 24,
+      "start": 62.633,
+      "end": 64.667,
+      "dur": 2.033,
+      "transcript": "di jackie chan di bandera Sonsia kilonilla"
+    },
+    {
+      "shot_idx": 25,
+      "start": 64.667,
+      "end": 67.467,
+      "dur": 2.8,
+      "transcript": "di riana di gesti in viber di me wedder di altre migliaia"
+    },
+    {
+      "shot_idx": 26,
+      "start": 67.467,
+      "end": 69.967,
+      "dur": 2.5,
+      "transcript": "di celebrità famosissime proprio vedere anche dove"
+    },
+    {
+      "shot_idx": 27,
+      "start": 69.967,
+      "end": 73.433,
+      "dur": 3.467,
+      "transcript": "hanno Girato era un entretto finita la crociera sulle ville delle celebrità di maie mi"
+    },
+    {
+      "shot_idx": 28,
+      "start": 73.433,
+      "end": 77.9,
+      "dur": 4.467,
+      "transcript": "siamo poi andati a franzare con degli ottimi Crispy chicken tacos accompagnati le classici nachos che però mi hanno"
+    },
+    {
+      "shot_idx": 29,
+      "start": 77.9,
+      "end": 80.067,
+      "dur": 2.167,
+      "transcript": "veramente stupito soprattutto il polo fritto che non mi"
+    },
+    {
+      "shot_idx": 30,
+      "start": 80.067,
+      "end": 82.567,
+      "dur": 2.5,
+      "transcript": "aspettavo Forse così croccante allo stesso tempo così leggera"
+    },
+    {
+      "shot_idx": 31,
+      "start": 82.567,
+      "end": 84.767,
+      "dur": 2.2,
+      "transcript": "la frittura alla fine ragazzi tacos ci stanno sempre"
+    },
+    {
+      "shot_idx": 32,
+      "start": 84.767,
+      "end": 86.8,
+      "dur": 2.033,
+      "transcript": "soprattutto in quelli maie mi In quella cucina"
+    },
+    {
+      "shot_idx": 33,
+      "start": 86.8,
+      "end": 89.267,
+      "dur": 2.467,
+      "transcript": "messicana banche lei molto come regioni ci siamo invece rilassati"
+    },
+    {
+      "shot_idx": 34,
+      "start": 89.267,
+      "end": 91.3,
+      "dur": 2.033,
+      "transcript": "in spiagge in quelli maie mi viccio per poi"
+    },
+    {
+      "shot_idx": 35,
+      "start": 91.3,
+      "end": 94.033,
+      "dur": 2.733,
+      "transcript": "dociarci Cambiarci uscire a cena per tornare a mangiare in"
+    },
+    {
+      "shot_idx": 36,
+      "start": 94.033,
+      "end": 99.5,
+      "dur": 5.467,
+      "transcript": "un postecino abbastanza famoso fast food che seva in america non può in un provare Non tanto per il cibo in sé"
+    },
+    {
+      "shot_idx": 37,
+      "start": 99.5,
+      "end": 102.467,
+      "dur": 2.967,
+      "transcript": "ma per quello che ormai rappresenta essendo diventato famoso in tutto il mondo"
+    },
+    {
+      "shot_idx": 38,
+      "start": 102.467,
+      "end": 104.767,
+      "dur": 2.3,
+      "transcript": "per il suo pollo fritto Soprattutto per la sua salsa iconica"
+    },
+    {
+      "shot_idx": 39,
+      "start": 104.767,
+      "end": 106.4,
+      "dur": 1.633,
+      "transcript": "sto chiaramente parlando di raising case"
+    },
+    {
+      "shot_idx": 40,
+      "start": 106.4,
+      "end": 107.767,
+      "dur": 1.367,
+      "transcript": "ho preso a loro classi come nuci"
+    },
+    {
+      "shot_idx": 41,
+      "start": 107.767,
+      "end": 109.267,
+      "dur": 1.5,
+      "transcript": "contenders pane al"
+    },
+    {
+      "shot_idx": 42,
+      "start": 109.267,
+      "end": 109.933,
+      "dur": 0.667,
+      "transcript": "burro Salsina"
+    },
+    {
+      "shot_idx": 43,
+      "start": 109.933,
+      "end": 112.967,
+      "dur": 3.033,
+      "transcript": "e patatine il pollo di raising case ovviamente iconico ma"
+    },
+    {
+      "shot_idx": 44,
+      "start": 112.967,
+      "end": 114.967,
+      "dur": 2.0,
+      "transcript": "molto molto buono se mi chiedete se si vede la differenza"
+    },
+    {
+      "shot_idx": 45,
+      "start": 114.967,
+      "end": 119.767,
+      "dur": 4.8,
+      "transcript": "tra questo pollo fritto Quello degli altri fast food beh sì ragazzi la differenza netta ovviamente non è il pollo fritto più"
+    },
+    {
+      "shot_idx": 46,
+      "start": 119.767,
+      "end": 125.5,
+      "dur": 5.733,
+      "transcript": "buono come già fino a america perché rimane comunque una Catena e per questo che non vuole giudicare tanto il pollo ma quanto più l 'esperienza"
+    },
+    {
+      "shot_idx": 47,
+      "start": 125.5,
+      "end": 128.2,
+      "dur": 2.7,
+      "transcript": "che decisamente clavo"
+    }
+  ],
+  "full_text": "Giornodu del mio viaggio in flore della scoperta della vera cucina americana oggi siamo sempre in quelli maie mi beach dove ho cominciato con un'ottima Collazione con questo waffle salato ripieno di uova e formaggio accompagnato da questa salsina Stile resin canes tutto molto buono ma molto piccolo e molto costoso mi sono quindi poi rifatto con un caffettino Una donna s del 7-eleven per poi partire a fare il solito giro in boost da turisti per visitare maie mi beach maie tu che è iniziato ovviamente da ocean drive dove avevo visto la villa di Gianni Versace si quelle proprio il punto dove è stato ucciso E l'hotel dove hanno girato scarface dopo di che siamo arrivati appunto a maie mi e sono andati a visitare il quartiere di we would che è uno Di quartiere più famosi della città proprio per questi murales essendo proprio il quartiere dell'arte devo dire che nonostante non ci Sia chi sa che cosa in questo quartiere i murale sono sempre tutti molto molto carini poi ci siamo quindi spostati a litro la vana che Il quartiere cubano di maie mi dove per le strade girano galline libere ovviamente si parla solo spagnolo e noi siamo quindi andati a visitare Un negozio che vende sigari cubani poi ferma a c'è uno di cui bar a provare il vero muoito cubano perché sì Moito è di cuba chiaramente a me non è piaciuto ma non mi aspettavo il contrario poi siamo invece salito su una piccola Crocera che ci ha fatto fare il tour delle ville di maie dove abbiamo visto la villa di jackie chan di bandera Sonsia kilonilla di riana di gesti in viber di me wedder di altre migliaia di celebrità famosissime proprio vedere anche dove hanno Girato era un entretto finita la crociera sulle ville delle celebrità di maie mi siamo poi andati a franzare con degli ottimi Crispy chicken tacos accompagnati le classici nachos che però mi hanno veramente stupito soprattutto il polo fritto che non mi aspettavo Forse così croccante allo stesso tempo così leggera la frittura alla fine ragazzi tacos ci stanno sempre soprattutto in quelli maie mi In quella cucina messicana banche lei molto come regioni ci siamo invece rilassati in spiagge in quelli maie mi viccio per poi dociarci Cambiarci uscire a cena per tornare a mangiare in un postecino abbastanza famoso fast food che seva in america non può in un provare Non tanto per il cibo in sé ma per quello che ormai rappresenta essendo diventato famoso in tutto il mondo per il suo pollo fritto Soprattutto per la sua salsa iconica sto chiaramente parlando di raising case ho preso a loro classi come nuci contenders pane al burro Salsina e patatine il pollo di raising case ovviamente iconico ma molto molto buono se mi chiedete se si vede la differenza tra questo pollo fritto Quello degli altri fast food beh sì ragazzi la differenza netta ovviamente non è il pollo fritto più buono come già fino a america perché rimane comunque una Catena e per questo che non vuole giudicare tanto il pollo ma quanto più l'esperienza che decisamente clavo",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

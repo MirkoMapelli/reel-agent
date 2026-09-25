@@ -1,0 +1,186 @@
+{
+  "title": "Wings Top arriva in Italia - primo assaggio esclusivo",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Cliente osserva claw machine Wing Stop con ali bianche dentro, street art sullo sfondo"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.5,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "Totem menù digitale interattivo illuminato, schermate con proposte piatti"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "Carrello con multipli vassoi ali fritte, panature varie, patatine, birra vista dall'alto"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Primo piano ali fritte croccanti dorate con patatine gialle su carta branded"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Mani persona maglietta nera tiene vassoi con ali e patatine, angolo basso dinamico"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Dettaglio panatura croccante dorata, texture perfetta ali fritte"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Mani versano salsa bianca su patatine fritte gialle in contenitore carta"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente assaggia con entusiasmo, morso deciso delle ali croccanti"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "drink_pour"
+      ],
+      "moment": "Mano preleva bevanda dalla macchina freestyle sotto logo Coca-Cola"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.5,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "Cliente tiene bevanda bicchiere carta con stampa locale, piatti sullo sfondo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Beve mentre mangia ali, pausa contemplativa di soddisfazione"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Espressione facciale di approvazione durante il morso successivo"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "Gesto delle mani di apprezzamento, pollice verso l'alto implicito"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.5,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Cliente continua a gustare, immerso nella qualità del piatto"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 3.0,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Primo piano ali ancora intatte, steam visibile, invitante e succosa"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "Ultimo morso drammatico, soddisfazione totale sul volto"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 3.5,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "Closeup estremo ali fritte perfette, patatine croccanti, salsa contrasto"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 3.0,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "Panoramica location con claw machine Wing Stop, atmosfera street art immersiva"
+    },
+    {
+      "idx": 19,
+      "type": "cta",
+      "duration": 3.0,
+      "scene_need": [
+        "person_talking"
+      ],
+      "moment": "Cliente giovane di profilo sorride, parla guardando claw machine, street art retro"
+    },
+    {
+      "idx": 20,
+      "type": "cta",
+      "duration": 2.5,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "Totem menù finale inquadra schermate con prossime novità da provare"
+    }
+  ],
+  "edl_job_id": 134
+}

@@ -1,0 +1,2949 @@
+{
+  "ref_id": "ref_58_7556640532114574614",
+  "video": "/opt/reel-agent/media/style_ref/ref_58_7556640532114574614.mp4",
+  "n_segments": 41,
+  "n_words": 476,
+  "n_shots": 50,
+  "full_text": "Giorno 10 del mio viaggio in flore dalla scoperta della vera cucina americana ed oggi finalmente proveremo la vera pizza ma partiamo con ordine dalla colazione la mattina fatta a St Augustine con un paio di sandwich con uova strapazzate e il classico bagel con fila delfia marmellata diretto per il castello di St Augustine che vi ricordo essere la città più antica di tutti gli Stati Uniti e dove vi assicuro che faceva molto caldo abbiamo quindi ripreso la macchina e siamo partiti nel nostro viaggio verso Orlando ci siamo ovviamente fermati a pranzare dove ho preso questo sandwich con il Mai Mai Fritto che è un pesce molto famoso in questa zona della flore da accompagnato con una salsa al blue cheese tipo gorgonzola con un side di riso con fagioli sapevole forse un po' troppo delicato se accompagnato ad una salsa così forte e poi per concludere il pranzo classica a Key Line Pie che qui in flore da ovviamente non può mancare poi siamo ripartiti per il nostro viaggio e si siamo fermati da Buckies una sorta di catena di stazione e servizio super famoso ovviamente in Texas ma che sono presenti anche in flore da famoso per le loro migliaia di pompe di benzina ma anche per il loro BBQ che però avendo già pranzato non abbiamo potuto provare e essendo vicino alla cittadina di Daytona ci siamo quindi fermati semplicemente a dare un'occhiata da fuori al Daytona International Speedway quindi il famoso circuito motoristico molto carino anche semplicemente visto da fuori poi prime del giorno alla fragole panna che era quella in collaborazione con Chiesa e siamo arrivati al nostro hotel per la notte hotel a Orlando che era davvero clamoroso contro l'altro una piscina su interno davvero gigantesca noi ne abbiamo quindi approfittato per rilassarci un po' in piscina per poi fare anche una bella sauna dopo esserci un po' rigenerati ci siamo cambiati e siamo usciti a cena cena che abbiamo fatto da Giordano una catena di ristoranti di Chicago famosa ormai in tutta l'America proprio per la loro Chicago Style Pizza noi abbiamo prima preso un paio di antipassini con un fritto misto di pesce e quest'altro mix di fritti con mozzarella in carrozza, pollo e anche delle bruschette che per loro sono fatte all'italiana ma tra lasciando ciò arriviamo alla loro deep dish pizza ovvero la Chicago Style Pizza che davvero una delle mie preferite parliamo più cattro di una trotta salata essendo l'impasto molto croccante e biscottoso ed avendo al suo interno un chilo di mozzarella filante salsiccia, peperoni e cipolle il tutto poi ricoperto con uno strato di pomodoro ragazzi vi assicuro che anche se è diversa dalla solita pizza italiana questo piatto di Chicago è una cosa clamo rosa che mi supisce ogni volta che la provo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Giorno 10 del mio viaggio in flore dalla scoperta della vera cucina americana"
+    },
+    {
+      "start": 3.54,
+      "end": 5.48,
+      "text": "ed oggi finalmente proveremo la vera pizza"
+    },
+    {
+      "start": 5.48,
+      "end": 9.16,
+      "text": "ma partiamo con ordine dalla colazione la mattina fatta a St Augustine"
+    },
+    {
+      "start": 9.16,
+      "end": 13.38,
+      "text": "con un paio di sandwich con uova strapazzate e il classico bagel con fila delfia marmellata"
+    },
+    {
+      "start": 13.38,
+      "end": 18.08,
+      "text": "diretto per il castello di St Augustine che vi ricordo essere la città più antica di tutti gli Stati Uniti"
+    },
+    {
+      "start": 18.08,
+      "end": 19.82,
+      "text": "e dove vi assicuro che faceva molto caldo"
+    },
+    {
+      "start": 19.82,
+      "end": 23.06,
+      "text": "abbiamo quindi ripreso la macchina e siamo partiti nel nostro viaggio verso Orlando"
+    },
+    {
+      "start": 23.06,
+      "end": 24.86,
+      "text": "ci siamo ovviamente fermati a pranzare"
+    },
+    {
+      "start": 24.86,
+      "end": 27.06,
+      "text": "dove ho preso questo sandwich con il Mai Mai Fritto"
+    },
+    {
+      "start": 27.06,
+      "end": 30.68,
+      "text": "che è un pesce molto famoso in questa zona della flore da accompagnato con una salsa al blue cheese"
+    },
+    {
+      "start": 30.68,
+      "end": 33.38,
+      "text": "tipo gorgonzola con un side di riso con fagioli"
+    },
+    {
+      "start": 33.38,
+      "end": 36.6,
+      "text": "sapevole forse un po' troppo delicato se accompagnato ad una salsa così forte"
+    },
+    {
+      "start": 36.6,
+      "end": 40.98,
+      "text": "e poi per concludere il pranzo classica a Key Line Pie che qui in flore da ovviamente non può mancare"
+    },
+    {
+      "start": 40.98,
+      "end": 44.92,
+      "text": "poi siamo ripartiti per il nostro viaggio e si siamo fermati da Buckies"
+    },
+    {
+      "start": 44.92,
+      "end": 48.78,
+      "text": "una sorta di catena di stazione e servizio super famoso ovviamente in Texas"
+    },
+    {
+      "start": 48.78,
+      "end": 50.56,
+      "text": "ma che sono presenti anche in flore da"
+    },
+    {
+      "start": 50.56,
+      "end": 54.08,
+      "text": "famoso per le loro migliaia di pompe di benzina ma anche per il loro BBQ"
+    },
+    {
+      "start": 54.08,
+      "end": 56.66,
+      "text": "che però avendo già pranzato non abbiamo potuto provare"
+    },
+    {
+      "start": 56.66,
+      "end": 58.62,
+      "text": "e essendo vicino alla cittadina di Daytona"
+    },
+    {
+      "start": 58.62,
+      "end": 62.8,
+      "text": "ci siamo quindi fermati semplicemente a dare un'occhiata da fuori al Daytona International Speedway"
+    },
+    {
+      "start": 62.8,
+      "end": 66.8,
+      "text": "quindi il famoso circuito motoristico molto carino anche semplicemente visto da fuori"
+    },
+    {
+      "start": 66.8,
+      "end": 70.6,
+      "text": "poi prime del giorno alla fragole panna che era quella in collaborazione con Chiesa"
+    },
+    {
+      "start": 70.6,
+      "end": 72.52,
+      "text": "e siamo arrivati al nostro hotel per la notte"
+    },
+    {
+      "start": 72.52,
+      "end": 75.0,
+      "text": "hotel a Orlando che era davvero clamoroso"
+    },
+    {
+      "start": 75.0,
+      "end": 77.74,
+      "text": "contro l'altro una piscina su interno davvero gigantesca"
+    },
+    {
+      "start": 77.74,
+      "end": 80.62,
+      "text": "noi ne abbiamo quindi approfittato per rilassarci un po' in piscina"
+    },
+    {
+      "start": 80.62,
+      "end": 82.08,
+      "text": "per poi fare anche una bella sauna"
+    },
+    {
+      "start": 82.08,
+      "end": 85.44,
+      "text": "dopo esserci un po' rigenerati ci siamo cambiati e siamo usciti a cena"
+    },
+    {
+      "start": 85.44,
+      "end": 87.0,
+      "text": "cena che abbiamo fatto da Giordano"
+    },
+    {
+      "start": 87.0,
+      "end": 92.1,
+      "text": "una catena di ristoranti di Chicago famosa ormai in tutta l'America proprio per la loro Chicago Style Pizza"
+    },
+    {
+      "start": 92.1,
+      "end": 95.4,
+      "text": "noi abbiamo prima preso un paio di antipassini con un fritto misto di pesce"
+    },
+    {
+      "start": 95.4,
+      "end": 101.04,
+      "text": "e quest'altro mix di fritti con mozzarella in carrozza, pollo e anche delle bruschette che per loro sono fatte all'italiana"
+    },
+    {
+      "start": 101.04,
+      "end": 103.34,
+      "text": "ma tra lasciando ciò arriviamo alla loro deep dish pizza"
+    },
+    {
+      "start": 103.34,
+      "end": 106.44,
+      "text": "ovvero la Chicago Style Pizza che davvero una delle mie preferite"
+    },
+    {
+      "start": 106.44,
+      "end": 110.3,
+      "text": "parliamo più cattro di una trotta salata essendo l'impasto molto croccante e biscottoso"
+    },
+    {
+      "start": 110.3,
+      "end": 112.66,
+      "text": "ed avendo al suo interno un chilo di mozzarella filante"
+    },
+    {
+      "start": 112.66,
+      "end": 114.36,
+      "text": "salsiccia, peperoni e cipolle"
+    },
+    {
+      "start": 114.36,
+      "end": 116.66,
+      "text": "il tutto poi ricoperto con uno strato di pomodoro"
+    },
+    {
+      "start": 116.66,
+      "end": 120.06,
+      "text": "ragazzi vi assicuro che anche se è diversa dalla solita pizza italiana"
+    },
+    {
+      "start": 120.06,
+      "end": 123.0,
+      "text": "questo piatto di Chicago è una cosa clamo rosa"
+    },
+    {
+      "start": 123.0,
+      "end": 124.62,
+      "text": "che mi supisce ogni volta che la provo"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.34,
+      "word": "Giorno"
+    },
+    {
+      "start": 0.34,
+      "end": 0.58,
+      "word": "10"
+    },
+    {
+      "start": 0.58,
+      "end": 0.8,
+      "word": "del"
+    },
+    {
+      "start": 0.8,
+      "end": 0.9,
+      "word": "mio"
+    },
+    {
+      "start": 0.9,
+      "end": 1.16,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.16,
+      "end": 1.3,
+      "word": "in"
+    },
+    {
+      "start": 1.3,
+      "end": 1.56,
+      "word": "flore"
+    },
+    {
+      "start": 1.56,
+      "end": 1.74,
+      "word": "dalla"
+    },
+    {
+      "start": 1.74,
+      "end": 2.14,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.14,
+      "end": 2.36,
+      "word": "della"
+    },
+    {
+      "start": 2.36,
+      "end": 2.68,
+      "word": "vera"
+    },
+    {
+      "start": 2.68,
+      "end": 3.06,
+      "word": "cucina"
+    },
+    {
+      "start": 3.06,
+      "end": 3.54,
+      "word": "americana"
+    },
+    {
+      "start": 3.54,
+      "end": 3.66,
+      "word": "ed"
+    },
+    {
+      "start": 3.66,
+      "end": 3.8,
+      "word": "oggi"
+    },
+    {
+      "start": 3.8,
+      "end": 4.12,
+      "word": "finalmente"
+    },
+    {
+      "start": 4.12,
+      "end": 4.66,
+      "word": "proveremo"
+    },
+    {
+      "start": 4.66,
+      "end": 4.78,
+      "word": "la"
+    },
+    {
+      "start": 4.78,
+      "end": 5.12,
+      "word": "vera"
+    },
+    {
+      "start": 5.12,
+      "end": 5.48,
+      "word": "pizza"
+    },
+    {
+      "start": 5.48,
+      "end": 5.82,
+      "word": "ma"
+    },
+    {
+      "start": 5.82,
+      "end": 6.2,
+      "word": "partiamo"
+    },
+    {
+      "start": 6.2,
+      "end": 6.4,
+      "word": "con"
+    },
+    {
+      "start": 6.4,
+      "end": 6.72,
+      "word": "ordine"
+    },
+    {
+      "start": 6.72,
+      "end": 6.94,
+      "word": "dalla"
+    },
+    {
+      "start": 6.94,
+      "end": 7.42,
+      "word": "colazione"
+    },
+    {
+      "start": 7.42,
+      "end": 7.6,
+      "word": "la"
+    },
+    {
+      "start": 7.6,
+      "end": 7.96,
+      "word": "mattina"
+    },
+    {
+      "start": 7.96,
+      "end": 8.34,
+      "word": "fatta"
+    },
+    {
+      "start": 8.34,
+      "end": 8.46,
+      "word": "a"
+    },
+    {
+      "start": 8.46,
+      "end": 8.54,
+      "word": "St"
+    },
+    {
+      "start": 8.54,
+      "end": 9.16,
+      "word": "Augustine"
+    },
+    {
+      "start": 9.16,
+      "end": 9.34,
+      "word": "con"
+    },
+    {
+      "start": 9.34,
+      "end": 9.48,
+      "word": "un"
+    },
+    {
+      "start": 9.48,
+      "end": 9.64,
+      "word": "paio"
+    },
+    {
+      "start": 9.64,
+      "end": 9.76,
+      "word": "di"
+    },
+    {
+      "start": 9.76,
+      "end": 10.0,
+      "word": "sandwich"
+    },
+    {
+      "start": 10.0,
+      "end": 10.24,
+      "word": "con"
+    },
+    {
+      "start": 10.24,
+      "end": 10.44,
+      "word": "uova"
+    },
+    {
+      "start": 10.44,
+      "end": 11.04,
+      "word": "strapazzate"
+    },
+    {
+      "start": 11.04,
+      "end": 11.3,
+      "word": "e"
+    },
+    {
+      "start": 11.3,
+      "end": 11.42,
+      "word": "il"
+    },
+    {
+      "start": 11.42,
+      "end": 11.74,
+      "word": "classico"
+    },
+    {
+      "start": 11.74,
+      "end": 12.12,
+      "word": "bagel"
+    },
+    {
+      "start": 12.12,
+      "end": 12.32,
+      "word": "con"
+    },
+    {
+      "start": 12.32,
+      "end": 12.56,
+      "word": "fila"
+    },
+    {
+      "start": 12.56,
+      "end": 12.8,
+      "word": "delfia"
+    },
+    {
+      "start": 12.8,
+      "end": 13.38,
+      "word": "marmellata"
+    },
+    {
+      "start": 13.38,
+      "end": 14.06,
+      "word": "diretto"
+    },
+    {
+      "start": 14.06,
+      "end": 14.2,
+      "word": "per"
+    },
+    {
+      "start": 14.2,
+      "end": 14.3,
+      "word": "il"
+    },
+    {
+      "start": 14.3,
+      "end": 14.58,
+      "word": "castello"
+    },
+    {
+      "start": 14.58,
+      "end": 14.72,
+      "word": "di"
+    },
+    {
+      "start": 14.72,
+      "end": 14.84,
+      "word": "St"
+    },
+    {
+      "start": 14.84,
+      "end": 15.4,
+      "word": "Augustine"
+    },
+    {
+      "start": 15.4,
+      "end": 15.54,
+      "word": "che"
+    },
+    {
+      "start": 15.54,
+      "end": 15.66,
+      "word": "vi"
+    },
+    {
+      "start": 15.66,
+      "end": 15.86,
+      "word": "ricordo"
+    },
+    {
+      "start": 15.86,
+      "end": 16.08,
+      "word": "essere"
+    },
+    {
+      "start": 16.08,
+      "end": 16.28,
+      "word": "la"
+    },
+    {
+      "start": 16.28,
+      "end": 16.56,
+      "word": "città"
+    },
+    {
+      "start": 16.56,
+      "end": 16.68,
+      "word": "più"
+    },
+    {
+      "start": 16.68,
+      "end": 17.06,
+      "word": "antica"
+    },
+    {
+      "start": 17.06,
+      "end": 17.24,
+      "word": "di"
+    },
+    {
+      "start": 17.24,
+      "end": 17.38,
+      "word": "tutti"
+    },
+    {
+      "start": 17.38,
+      "end": 17.52,
+      "word": "gli"
+    },
+    {
+      "start": 17.52,
+      "end": 17.76,
+      "word": "Stati"
+    },
+    {
+      "start": 17.76,
+      "end": 18.08,
+      "word": "Uniti"
+    },
+    {
+      "start": 18.08,
+      "end": 18.24,
+      "word": "e"
+    },
+    {
+      "start": 18.24,
+      "end": 18.36,
+      "word": "dove"
+    },
+    {
+      "start": 18.36,
+      "end": 18.5,
+      "word": "vi"
+    },
+    {
+      "start": 18.5,
+      "end": 18.82,
+      "word": "assicuro"
+    },
+    {
+      "start": 18.82,
+      "end": 18.92,
+      "word": "che"
+    },
+    {
+      "start": 18.92,
+      "end": 19.14,
+      "word": "faceva"
+    },
+    {
+      "start": 19.14,
+      "end": 19.36,
+      "word": "molto"
+    },
+    {
+      "start": 19.36,
+      "end": 19.82,
+      "word": "caldo"
+    },
+    {
+      "start": 19.82,
+      "end": 20.02,
+      "word": "abbiamo"
+    },
+    {
+      "start": 20.02,
+      "end": 20.28,
+      "word": "quindi"
+    },
+    {
+      "start": 20.28,
+      "end": 20.58,
+      "word": "ripreso"
+    },
+    {
+      "start": 20.58,
+      "end": 20.72,
+      "word": "la"
+    },
+    {
+      "start": 20.72,
+      "end": 20.96,
+      "word": "macchina"
+    },
+    {
+      "start": 20.96,
+      "end": 21.08,
+      "word": "e"
+    },
+    {
+      "start": 21.08,
+      "end": 21.14,
+      "word": "siamo"
+    },
+    {
+      "start": 21.14,
+      "end": 21.46,
+      "word": "partiti"
+    },
+    {
+      "start": 21.46,
+      "end": 21.64,
+      "word": "nel"
+    },
+    {
+      "start": 21.64,
+      "end": 21.88,
+      "word": "nostro"
+    },
+    {
+      "start": 21.88,
+      "end": 22.26,
+      "word": "viaggio"
+    },
+    {
+      "start": 22.26,
+      "end": 22.48,
+      "word": "verso"
+    },
+    {
+      "start": 22.48,
+      "end": 23.06,
+      "word": "Orlando"
+    },
+    {
+      "start": 23.06,
+      "end": 23.32,
+      "word": "ci"
+    },
+    {
+      "start": 23.32,
+      "end": 23.54,
+      "word": "siamo"
+    },
+    {
+      "start": 23.54,
+      "end": 23.86,
+      "word": "ovviamente"
+    },
+    {
+      "start": 23.86,
+      "end": 24.26,
+      "word": "fermati"
+    },
+    {
+      "start": 24.26,
+      "end": 24.36,
+      "word": "a"
+    },
+    {
+      "start": 24.36,
+      "end": 24.86,
+      "word": "pranzare"
+    },
+    {
+      "start": 24.86,
+      "end": 25.1,
+      "word": "dove"
+    },
+    {
+      "start": 25.1,
+      "end": 25.18,
+      "word": "ho"
+    },
+    {
+      "start": 25.18,
+      "end": 25.4,
+      "word": "preso"
+    },
+    {
+      "start": 25.4,
+      "end": 25.62,
+      "word": "questo"
+    },
+    {
+      "start": 25.62,
+      "end": 26.0,
+      "word": "sandwich"
+    },
+    {
+      "start": 26.0,
+      "end": 26.2,
+      "word": "con"
+    },
+    {
+      "start": 26.2,
+      "end": 26.3,
+      "word": "il"
+    },
+    {
+      "start": 26.3,
+      "end": 26.42,
+      "word": "Mai"
+    },
+    {
+      "start": 26.42,
+      "end": 26.68,
+      "word": "Mai"
+    },
+    {
+      "start": 26.68,
+      "end": 27.06,
+      "word": "Fritto"
+    },
+    {
+      "start": 27.06,
+      "end": 27.2,
+      "word": "che"
+    },
+    {
+      "start": 27.2,
+      "end": 27.28,
+      "word": "è"
+    },
+    {
+      "start": 27.28,
+      "end": 27.28,
+      "word": "un"
+    },
+    {
+      "start": 27.28,
+      "end": 27.5,
+      "word": "pesce"
+    },
+    {
+      "start": 27.5,
+      "end": 27.7,
+      "word": "molto"
+    },
+    {
+      "start": 27.7,
+      "end": 28.02,
+      "word": "famoso"
+    },
+    {
+      "start": 28.02,
+      "end": 28.28,
+      "word": "in"
+    },
+    {
+      "start": 28.28,
+      "end": 28.42,
+      "word": "questa"
+    },
+    {
+      "start": 28.42,
+      "end": 28.62,
+      "word": "zona"
+    },
+    {
+      "start": 28.62,
+      "end": 28.84,
+      "word": "della"
+    },
+    {
+      "start": 28.84,
+      "end": 29.08,
+      "word": "flore"
+    },
+    {
+      "start": 29.08,
+      "end": 29.18,
+      "word": "da"
+    },
+    {
+      "start": 29.18,
+      "end": 29.58,
+      "word": "accompagnato"
+    },
+    {
+      "start": 29.58,
+      "end": 29.74,
+      "word": "con"
+    },
+    {
+      "start": 29.74,
+      "end": 29.88,
+      "word": "una"
+    },
+    {
+      "start": 29.88,
+      "end": 30.02,
+      "word": "salsa"
+    },
+    {
+      "start": 30.02,
+      "end": 30.22,
+      "word": "al"
+    },
+    {
+      "start": 30.22,
+      "end": 30.36,
+      "word": "blue"
+    },
+    {
+      "start": 30.36,
+      "end": 30.68,
+      "word": "cheese"
+    },
+    {
+      "start": 30.68,
+      "end": 31.1,
+      "word": "tipo"
+    },
+    {
+      "start": 31.1,
+      "end": 31.7,
+      "word": "gorgonzola"
+    },
+    {
+      "start": 31.7,
+      "end": 31.9,
+      "word": "con"
+    },
+    {
+      "start": 31.9,
+      "end": 32.04,
+      "word": "un"
+    },
+    {
+      "start": 32.04,
+      "end": 32.28,
+      "word": "side"
+    },
+    {
+      "start": 32.28,
+      "end": 32.52,
+      "word": "di"
+    },
+    {
+      "start": 32.52,
+      "end": 32.8,
+      "word": "riso"
+    },
+    {
+      "start": 32.8,
+      "end": 32.92,
+      "word": "con"
+    },
+    {
+      "start": 32.92,
+      "end": 33.38,
+      "word": "fagioli"
+    },
+    {
+      "start": 33.38,
+      "end": 33.66,
+      "word": "sapevole"
+    },
+    {
+      "start": 33.66,
+      "end": 33.88,
+      "word": "forse"
+    },
+    {
+      "start": 33.88,
+      "end": 34.0,
+      "word": "un"
+    },
+    {
+      "start": 34.0,
+      "end": 34.08,
+      "word": "po'"
+    },
+    {
+      "start": 34.22,
+      "end": 34.38,
+      "word": "troppo"
+    },
+    {
+      "start": 34.38,
+      "end": 34.86,
+      "word": "delicato"
+    },
+    {
+      "start": 34.86,
+      "end": 35.0,
+      "word": "se"
+    },
+    {
+      "start": 35.0,
+      "end": 35.48,
+      "word": "accompagnato"
+    },
+    {
+      "start": 35.48,
+      "end": 35.64,
+      "word": "ad"
+    },
+    {
+      "start": 35.64,
+      "end": 35.76,
+      "word": "una"
+    },
+    {
+      "start": 35.76,
+      "end": 36.0,
+      "word": "salsa"
+    },
+    {
+      "start": 36.0,
+      "end": 36.24,
+      "word": "così"
+    },
+    {
+      "start": 36.24,
+      "end": 36.6,
+      "word": "forte"
+    },
+    {
+      "start": 36.6,
+      "end": 36.8,
+      "word": "e"
+    },
+    {
+      "start": 36.8,
+      "end": 36.94,
+      "word": "poi"
+    },
+    {
+      "start": 36.94,
+      "end": 37.08,
+      "word": "per"
+    },
+    {
+      "start": 37.08,
+      "end": 37.52,
+      "word": "concludere"
+    },
+    {
+      "start": 37.52,
+      "end": 37.64,
+      "word": "il"
+    },
+    {
+      "start": 37.64,
+      "end": 38.04,
+      "word": "pranzo"
+    },
+    {
+      "start": 38.04,
+      "end": 38.5,
+      "word": "classica"
+    },
+    {
+      "start": 38.5,
+      "end": 38.66,
+      "word": "a"
+    },
+    {
+      "start": 38.66,
+      "end": 38.68,
+      "word": "Key"
+    },
+    {
+      "start": 38.68,
+      "end": 38.82,
+      "word": "Line"
+    },
+    {
+      "start": 38.82,
+      "end": 39.16,
+      "word": "Pie"
+    },
+    {
+      "start": 39.16,
+      "end": 39.3,
+      "word": "che"
+    },
+    {
+      "start": 39.3,
+      "end": 39.44,
+      "word": "qui"
+    },
+    {
+      "start": 39.44,
+      "end": 39.54,
+      "word": "in"
+    },
+    {
+      "start": 39.54,
+      "end": 39.74,
+      "word": "flore"
+    },
+    {
+      "start": 39.74,
+      "end": 39.86,
+      "word": "da"
+    },
+    {
+      "start": 39.86,
+      "end": 40.1,
+      "word": "ovviamente"
+    },
+    {
+      "start": 40.1,
+      "end": 40.36,
+      "word": "non"
+    },
+    {
+      "start": 40.36,
+      "end": 40.56,
+      "word": "può"
+    },
+    {
+      "start": 40.56,
+      "end": 40.98,
+      "word": "mancare"
+    },
+    {
+      "start": 40.98,
+      "end": 41.3,
+      "word": "poi"
+    },
+    {
+      "start": 41.3,
+      "end": 41.54,
+      "word": "siamo"
+    },
+    {
+      "start": 41.54,
+      "end": 41.98,
+      "word": "ripartiti"
+    },
+    {
+      "start": 41.98,
+      "end": 42.18,
+      "word": "per"
+    },
+    {
+      "start": 42.18,
+      "end": 42.28,
+      "word": "il"
+    },
+    {
+      "start": 42.28,
+      "end": 42.46,
+      "word": "nostro"
+    },
+    {
+      "start": 42.46,
+      "end": 42.88,
+      "word": "viaggio"
+    },
+    {
+      "start": 42.88,
+      "end": 43.1,
+      "word": "e"
+    },
+    {
+      "start": 43.1,
+      "end": 43.12,
+      "word": "si"
+    },
+    {
+      "start": 43.12,
+      "end": 43.32,
+      "word": "siamo"
+    },
+    {
+      "start": 43.32,
+      "end": 43.9,
+      "word": "fermati"
+    },
+    {
+      "start": 43.9,
+      "end": 44.14,
+      "word": "da"
+    },
+    {
+      "start": 44.14,
+      "end": 44.92,
+      "word": "Buckies"
+    },
+    {
+      "start": 44.92,
+      "end": 45.22,
+      "word": "una"
+    },
+    {
+      "start": 45.22,
+      "end": 45.4,
+      "word": "sorta"
+    },
+    {
+      "start": 45.4,
+      "end": 45.62,
+      "word": "di"
+    },
+    {
+      "start": 45.62,
+      "end": 45.88,
+      "word": "catena"
+    },
+    {
+      "start": 45.88,
+      "end": 46.06,
+      "word": "di"
+    },
+    {
+      "start": 46.06,
+      "end": 46.46,
+      "word": "stazione"
+    },
+    {
+      "start": 46.46,
+      "end": 46.58,
+      "word": "e"
+    },
+    {
+      "start": 46.58,
+      "end": 47.16,
+      "word": "servizio"
+    },
+    {
+      "start": 47.16,
+      "end": 47.5,
+      "word": "super"
+    },
+    {
+      "start": 47.5,
+      "end": 47.78,
+      "word": "famoso"
+    },
+    {
+      "start": 47.78,
+      "end": 48.14,
+      "word": "ovviamente"
+    },
+    {
+      "start": 48.14,
+      "end": 48.78,
+      "word": "in"
+    },
+    {
+      "start": 48.78,
+      "end": 48.78,
+      "word": "Texas"
+    },
+    {
+      "start": 48.78,
+      "end": 49.04,
+      "word": "ma"
+    },
+    {
+      "start": 49.04,
+      "end": 49.16,
+      "word": "che"
+    },
+    {
+      "start": 49.16,
+      "end": 49.34,
+      "word": "sono"
+    },
+    {
+      "start": 49.34,
+      "end": 49.78,
+      "word": "presenti"
+    },
+    {
+      "start": 49.78,
+      "end": 49.94,
+      "word": "anche"
+    },
+    {
+      "start": 49.94,
+      "end": 50.14,
+      "word": "in"
+    },
+    {
+      "start": 50.14,
+      "end": 50.38,
+      "word": "flore"
+    },
+    {
+      "start": 50.38,
+      "end": 50.56,
+      "word": "da"
+    },
+    {
+      "start": 50.56,
+      "end": 50.8,
+      "word": "famoso"
+    },
+    {
+      "start": 50.8,
+      "end": 51.08,
+      "word": "per"
+    },
+    {
+      "start": 51.08,
+      "end": 51.22,
+      "word": "le"
+    },
+    {
+      "start": 51.22,
+      "end": 51.44,
+      "word": "loro"
+    },
+    {
+      "start": 51.44,
+      "end": 52.08,
+      "word": "migliaia"
+    },
+    {
+      "start": 52.08,
+      "end": 52.24,
+      "word": "di"
+    },
+    {
+      "start": 52.24,
+      "end": 52.48,
+      "word": "pompe"
+    },
+    {
+      "start": 52.48,
+      "end": 52.58,
+      "word": "di"
+    },
+    {
+      "start": 52.58,
+      "end": 53.0,
+      "word": "benzina"
+    },
+    {
+      "start": 53.0,
+      "end": 53.14,
+      "word": "ma"
+    },
+    {
+      "start": 53.14,
+      "end": 53.32,
+      "word": "anche"
+    },
+    {
+      "start": 53.32,
+      "end": 53.48,
+      "word": "per"
+    },
+    {
+      "start": 53.48,
+      "end": 53.58,
+      "word": "il"
+    },
+    {
+      "start": 53.58,
+      "end": 53.7,
+      "word": "loro"
+    },
+    {
+      "start": 53.7,
+      "end": 54.08,
+      "word": "BBQ"
+    },
+    {
+      "start": 54.08,
+      "end": 54.4,
+      "word": "che"
+    },
+    {
+      "start": 54.4,
+      "end": 54.58,
+      "word": "però"
+    },
+    {
+      "start": 54.58,
+      "end": 54.8,
+      "word": "avendo"
+    },
+    {
+      "start": 54.8,
+      "end": 55.0,
+      "word": "già"
+    },
+    {
+      "start": 55.0,
+      "end": 55.44,
+      "word": "pranzato"
+    },
+    {
+      "start": 55.44,
+      "end": 55.66,
+      "word": "non"
+    },
+    {
+      "start": 55.66,
+      "end": 55.84,
+      "word": "abbiamo"
+    },
+    {
+      "start": 55.84,
+      "end": 56.18,
+      "word": "potuto"
+    },
+    {
+      "start": 56.18,
+      "end": 56.66,
+      "word": "provare"
+    },
+    {
+      "start": 56.66,
+      "end": 56.82,
+      "word": "e"
+    },
+    {
+      "start": 56.82,
+      "end": 57.06,
+      "word": "essendo"
+    },
+    {
+      "start": 57.06,
+      "end": 57.38,
+      "word": "vicino"
+    },
+    {
+      "start": 57.38,
+      "end": 57.5,
+      "word": "alla"
+    },
+    {
+      "start": 57.5,
+      "end": 57.92,
+      "word": "cittadina"
+    },
+    {
+      "start": 57.92,
+      "end": 58.1,
+      "word": "di"
+    },
+    {
+      "start": 58.1,
+      "end": 58.62,
+      "word": "Daytona"
+    },
+    {
+      "start": 58.62,
+      "end": 58.7,
+      "word": "ci"
+    },
+    {
+      "start": 58.7,
+      "end": 58.86,
+      "word": "siamo"
+    },
+    {
+      "start": 58.86,
+      "end": 59.08,
+      "word": "quindi"
+    },
+    {
+      "start": 59.08,
+      "end": 59.52,
+      "word": "fermati"
+    },
+    {
+      "start": 59.52,
+      "end": 59.92,
+      "word": "semplicemente"
+    },
+    {
+      "start": 59.92,
+      "end": 60.08,
+      "word": "a"
+    },
+    {
+      "start": 60.08,
+      "end": 60.16,
+      "word": "dare"
+    },
+    {
+      "start": 60.16,
+      "end": 60.28,
+      "word": "un"
+    },
+    {
+      "start": 60.28,
+      "end": 60.48,
+      "word": "'occhiata"
+    },
+    {
+      "start": 60.48,
+      "end": 60.64,
+      "word": "da"
+    },
+    {
+      "start": 60.64,
+      "end": 60.98,
+      "word": "fuori"
+    },
+    {
+      "start": 60.98,
+      "end": 61.1,
+      "word": "al"
+    },
+    {
+      "start": 61.1,
+      "end": 61.56,
+      "word": "Daytona"
+    },
+    {
+      "start": 61.56,
+      "end": 62.04,
+      "word": "International"
+    },
+    {
+      "start": 62.04,
+      "end": 62.8,
+      "word": "Speedway"
+    },
+    {
+      "start": 62.8,
+      "end": 63.16,
+      "word": "quindi"
+    },
+    {
+      "start": 63.16,
+      "end": 63.34,
+      "word": "il"
+    },
+    {
+      "start": 63.34,
+      "end": 63.54,
+      "word": "famoso"
+    },
+    {
+      "start": 63.54,
+      "end": 64.18,
+      "word": "circuito"
+    },
+    {
+      "start": 64.18,
+      "end": 64.86,
+      "word": "motoristico"
+    },
+    {
+      "start": 64.86,
+      "end": 65.08,
+      "word": "molto"
+    },
+    {
+      "start": 65.08,
+      "end": 65.42,
+      "word": "carino"
+    },
+    {
+      "start": 65.42,
+      "end": 65.56,
+      "word": "anche"
+    },
+    {
+      "start": 65.56,
+      "end": 66.04,
+      "word": "semplicemente"
+    },
+    {
+      "start": 66.04,
+      "end": 66.28,
+      "word": "visto"
+    },
+    {
+      "start": 66.28,
+      "end": 66.46,
+      "word": "da"
+    },
+    {
+      "start": 66.46,
+      "end": 66.8,
+      "word": "fuori"
+    },
+    {
+      "start": 66.8,
+      "end": 66.92,
+      "word": "poi"
+    },
+    {
+      "start": 66.92,
+      "end": 67.26,
+      "word": "prime"
+    },
+    {
+      "start": 67.26,
+      "end": 67.44,
+      "word": "del"
+    },
+    {
+      "start": 67.44,
+      "end": 67.74,
+      "word": "giorno"
+    },
+    {
+      "start": 67.74,
+      "end": 68.1,
+      "word": "alla"
+    },
+    {
+      "start": 68.1,
+      "end": 68.58,
+      "word": "fragole"
+    },
+    {
+      "start": 68.58,
+      "end": 69.0,
+      "word": "panna"
+    },
+    {
+      "start": 69.0,
+      "end": 69.22,
+      "word": "che"
+    },
+    {
+      "start": 69.22,
+      "end": 69.3,
+      "word": "era"
+    },
+    {
+      "start": 69.3,
+      "end": 69.46,
+      "word": "quella"
+    },
+    {
+      "start": 69.46,
+      "end": 69.6,
+      "word": "in"
+    },
+    {
+      "start": 69.6,
+      "end": 70.02,
+      "word": "collaborazione"
+    },
+    {
+      "start": 70.02,
+      "end": 70.24,
+      "word": "con"
+    },
+    {
+      "start": 70.24,
+      "end": 70.6,
+      "word": "Chiesa"
+    },
+    {
+      "start": 70.6,
+      "end": 70.72,
+      "word": "e"
+    },
+    {
+      "start": 70.72,
+      "end": 70.92,
+      "word": "siamo"
+    },
+    {
+      "start": 70.92,
+      "end": 71.24,
+      "word": "arrivati"
+    },
+    {
+      "start": 71.24,
+      "end": 71.36,
+      "word": "al"
+    },
+    {
+      "start": 71.36,
+      "end": 71.58,
+      "word": "nostro"
+    },
+    {
+      "start": 71.58,
+      "end": 71.86,
+      "word": "hotel"
+    },
+    {
+      "start": 71.86,
+      "end": 72.04,
+      "word": "per"
+    },
+    {
+      "start": 72.04,
+      "end": 72.18,
+      "word": "la"
+    },
+    {
+      "start": 72.18,
+      "end": 72.52,
+      "word": "notte"
+    },
+    {
+      "start": 72.52,
+      "end": 72.8,
+      "word": "hotel"
+    },
+    {
+      "start": 72.8,
+      "end": 73.02,
+      "word": "a"
+    },
+    {
+      "start": 73.02,
+      "end": 73.46,
+      "word": "Orlando"
+    },
+    {
+      "start": 73.46,
+      "end": 73.74,
+      "word": "che"
+    },
+    {
+      "start": 73.74,
+      "end": 73.84,
+      "word": "era"
+    },
+    {
+      "start": 73.84,
+      "end": 74.26,
+      "word": "davvero"
+    },
+    {
+      "start": 74.26,
+      "end": 75.0,
+      "word": "clamoroso"
+    },
+    {
+      "start": 75.0,
+      "end": 75.2,
+      "word": "contro"
+    },
+    {
+      "start": 75.2,
+      "end": 75.34,
+      "word": "l"
+    },
+    {
+      "start": 75.34,
+      "end": 75.44,
+      "word": "'altro"
+    },
+    {
+      "start": 75.44,
+      "end": 75.64,
+      "word": "una"
+    },
+    {
+      "start": 75.64,
+      "end": 76.02,
+      "word": "piscina"
+    },
+    {
+      "start": 76.02,
+      "end": 76.2,
+      "word": "su"
+    },
+    {
+      "start": 76.2,
+      "end": 76.62,
+      "word": "interno"
+    },
+    {
+      "start": 76.62,
+      "end": 76.94,
+      "word": "davvero"
+    },
+    {
+      "start": 76.94,
+      "end": 77.74,
+      "word": "gigantesca"
+    },
+    {
+      "start": 77.74,
+      "end": 77.92,
+      "word": "noi"
+    },
+    {
+      "start": 77.92,
+      "end": 77.98,
+      "word": "ne"
+    },
+    {
+      "start": 77.98,
+      "end": 78.2,
+      "word": "abbiamo"
+    },
+    {
+      "start": 78.2,
+      "end": 78.4,
+      "word": "quindi"
+    },
+    {
+      "start": 78.4,
+      "end": 79.06,
+      "word": "approfittato"
+    },
+    {
+      "start": 79.06,
+      "end": 79.3,
+      "word": "per"
+    },
+    {
+      "start": 79.3,
+      "end": 79.82,
+      "word": "rilassarci"
+    },
+    {
+      "start": 79.82,
+      "end": 79.92,
+      "word": "un"
+    },
+    {
+      "start": 79.92,
+      "end": 80.02,
+      "word": "po'"
+    },
+    {
+      "start": 80.1,
+      "end": 80.12,
+      "word": "in"
+    },
+    {
+      "start": 80.12,
+      "end": 80.62,
+      "word": "piscina"
+    },
+    {
+      "start": 80.62,
+      "end": 80.8,
+      "word": "per"
+    },
+    {
+      "start": 80.8,
+      "end": 80.96,
+      "word": "poi"
+    },
+    {
+      "start": 80.96,
+      "end": 81.16,
+      "word": "fare"
+    },
+    {
+      "start": 81.16,
+      "end": 81.38,
+      "word": "anche"
+    },
+    {
+      "start": 81.38,
+      "end": 81.54,
+      "word": "una"
+    },
+    {
+      "start": 81.54,
+      "end": 81.76,
+      "word": "bella"
+    },
+    {
+      "start": 81.76,
+      "end": 82.08,
+      "word": "sauna"
+    },
+    {
+      "start": 82.08,
+      "end": 82.46,
+      "word": "dopo"
+    },
+    {
+      "start": 82.46,
+      "end": 82.86,
+      "word": "esserci"
+    },
+    {
+      "start": 82.86,
+      "end": 82.96,
+      "word": "un"
+    },
+    {
+      "start": 82.96,
+      "end": 83.04,
+      "word": "po'"
+    },
+    {
+      "start": 83.12,
+      "end": 83.66,
+      "word": "rigenerati"
+    },
+    {
+      "start": 83.66,
+      "end": 83.84,
+      "word": "ci"
+    },
+    {
+      "start": 83.84,
+      "end": 84.0,
+      "word": "siamo"
+    },
+    {
+      "start": 84.0,
+      "end": 84.64,
+      "word": "cambiati"
+    },
+    {
+      "start": 84.64,
+      "end": 84.76,
+      "word": "e"
+    },
+    {
+      "start": 84.76,
+      "end": 84.86,
+      "word": "siamo"
+    },
+    {
+      "start": 84.86,
+      "end": 85.1,
+      "word": "usciti"
+    },
+    {
+      "start": 85.1,
+      "end": 85.22,
+      "word": "a"
+    },
+    {
+      "start": 85.22,
+      "end": 85.44,
+      "word": "cena"
+    },
+    {
+      "start": 85.44,
+      "end": 85.68,
+      "word": "cena"
+    },
+    {
+      "start": 85.68,
+      "end": 85.8,
+      "word": "che"
+    },
+    {
+      "start": 85.8,
+      "end": 85.98,
+      "word": "abbiamo"
+    },
+    {
+      "start": 85.98,
+      "end": 86.24,
+      "word": "fatto"
+    },
+    {
+      "start": 86.24,
+      "end": 86.44,
+      "word": "da"
+    },
+    {
+      "start": 86.44,
+      "end": 87.0,
+      "word": "Giordano"
+    },
+    {
+      "start": 87.0,
+      "end": 87.32,
+      "word": "una"
+    },
+    {
+      "start": 87.32,
+      "end": 87.64,
+      "word": "catena"
+    },
+    {
+      "start": 87.64,
+      "end": 87.78,
+      "word": "di"
+    },
+    {
+      "start": 87.78,
+      "end": 88.22,
+      "word": "ristoranti"
+    },
+    {
+      "start": 88.22,
+      "end": 88.38,
+      "word": "di"
+    },
+    {
+      "start": 88.38,
+      "end": 88.68,
+      "word": "Chicago"
+    },
+    {
+      "start": 88.68,
+      "end": 89.24,
+      "word": "famosa"
+    },
+    {
+      "start": 89.24,
+      "end": 89.5,
+      "word": "ormai"
+    },
+    {
+      "start": 89.5,
+      "end": 89.6,
+      "word": "in"
+    },
+    {
+      "start": 89.6,
+      "end": 89.8,
+      "word": "tutta"
+    },
+    {
+      "start": 89.8,
+      "end": 89.88,
+      "word": "l"
+    },
+    {
+      "start": 89.88,
+      "end": 90.24,
+      "word": "'America"
+    },
+    {
+      "start": 90.24,
+      "end": 90.42,
+      "word": "proprio"
+    },
+    {
+      "start": 90.42,
+      "end": 90.62,
+      "word": "per"
+    },
+    {
+      "start": 90.62,
+      "end": 90.74,
+      "word": "la"
+    },
+    {
+      "start": 90.74,
+      "end": 90.86,
+      "word": "loro"
+    },
+    {
+      "start": 90.86,
+      "end": 91.26,
+      "word": "Chicago"
+    },
+    {
+      "start": 91.26,
+      "end": 91.66,
+      "word": "Style"
+    },
+    {
+      "start": 91.66,
+      "end": 92.1,
+      "word": "Pizza"
+    },
+    {
+      "start": 92.1,
+      "end": 92.32,
+      "word": "noi"
+    },
+    {
+      "start": 92.32,
+      "end": 92.5,
+      "word": "abbiamo"
+    },
+    {
+      "start": 92.5,
+      "end": 92.68,
+      "word": "prima"
+    },
+    {
+      "start": 92.68,
+      "end": 93.02,
+      "word": "preso"
+    },
+    {
+      "start": 93.02,
+      "end": 93.14,
+      "word": "un"
+    },
+    {
+      "start": 93.14,
+      "end": 93.3,
+      "word": "paio"
+    },
+    {
+      "start": 93.3,
+      "end": 93.4,
+      "word": "di"
+    },
+    {
+      "start": 93.4,
+      "end": 93.98,
+      "word": "antipassini"
+    },
+    {
+      "start": 93.98,
+      "end": 94.2,
+      "word": "con"
+    },
+    {
+      "start": 94.2,
+      "end": 94.34,
+      "word": "un"
+    },
+    {
+      "start": 94.34,
+      "end": 94.56,
+      "word": "fritto"
+    },
+    {
+      "start": 94.56,
+      "end": 94.92,
+      "word": "misto"
+    },
+    {
+      "start": 94.92,
+      "end": 95.04,
+      "word": "di"
+    },
+    {
+      "start": 95.04,
+      "end": 95.4,
+      "word": "pesce"
+    },
+    {
+      "start": 95.4,
+      "end": 95.5,
+      "word": "e"
+    },
+    {
+      "start": 95.5,
+      "end": 95.66,
+      "word": "quest"
+    },
+    {
+      "start": 95.66,
+      "end": 95.86,
+      "word": "'altro"
+    },
+    {
+      "start": 95.86,
+      "end": 96.16,
+      "word": "mix"
+    },
+    {
+      "start": 96.16,
+      "end": 96.42,
+      "word": "di"
+    },
+    {
+      "start": 96.42,
+      "end": 96.68,
+      "word": "fritti"
+    },
+    {
+      "start": 96.68,
+      "end": 96.86,
+      "word": "con"
+    },
+    {
+      "start": 96.86,
+      "end": 97.12,
+      "word": "mozzarella"
+    },
+    {
+      "start": 97.12,
+      "end": 97.38,
+      "word": "in"
+    },
+    {
+      "start": 97.38,
+      "end": 97.84,
+      "word": "carrozza,"
+    },
+    {
+      "start": 97.96,
+      "end": 98.34,
+      "word": "pollo"
+    },
+    {
+      "start": 98.34,
+      "end": 98.46,
+      "word": "e"
+    },
+    {
+      "start": 98.46,
+      "end": 98.6,
+      "word": "anche"
+    },
+    {
+      "start": 98.6,
+      "end": 98.78,
+      "word": "delle"
+    },
+    {
+      "start": 98.78,
+      "end": 99.2,
+      "word": "bruschette"
+    },
+    {
+      "start": 99.2,
+      "end": 99.34,
+      "word": "che"
+    },
+    {
+      "start": 99.34,
+      "end": 99.52,
+      "word": "per"
+    },
+    {
+      "start": 99.52,
+      "end": 99.7,
+      "word": "loro"
+    },
+    {
+      "start": 99.7,
+      "end": 99.94,
+      "word": "sono"
+    },
+    {
+      "start": 99.94,
+      "end": 100.24,
+      "word": "fatte"
+    },
+    {
+      "start": 100.24,
+      "end": 100.38,
+      "word": "all"
+    },
+    {
+      "start": 100.38,
+      "end": 101.04,
+      "word": "'italiana"
+    },
+    {
+      "start": 101.04,
+      "end": 101.26,
+      "word": "ma"
+    },
+    {
+      "start": 101.26,
+      "end": 101.38,
+      "word": "tra"
+    },
+    {
+      "start": 101.38,
+      "end": 101.66,
+      "word": "lasciando"
+    },
+    {
+      "start": 101.66,
+      "end": 101.9,
+      "word": "ciò"
+    },
+    {
+      "start": 101.9,
+      "end": 102.12,
+      "word": "arriviamo"
+    },
+    {
+      "start": 102.12,
+      "end": 102.28,
+      "word": "alla"
+    },
+    {
+      "start": 102.28,
+      "end": 102.42,
+      "word": "loro"
+    },
+    {
+      "start": 102.42,
+      "end": 102.7,
+      "word": "deep"
+    },
+    {
+      "start": 102.7,
+      "end": 102.92,
+      "word": "dish"
+    },
+    {
+      "start": 102.92,
+      "end": 103.34,
+      "word": "pizza"
+    },
+    {
+      "start": 103.34,
+      "end": 103.82,
+      "word": "ovvero"
+    },
+    {
+      "start": 103.82,
+      "end": 103.96,
+      "word": "la"
+    },
+    {
+      "start": 103.96,
+      "end": 104.24,
+      "word": "Chicago"
+    },
+    {
+      "start": 104.24,
+      "end": 104.48,
+      "word": "Style"
+    },
+    {
+      "start": 104.48,
+      "end": 104.84,
+      "word": "Pizza"
+    },
+    {
+      "start": 104.84,
+      "end": 105.0,
+      "word": "che"
+    },
+    {
+      "start": 105.0,
+      "end": 105.42,
+      "word": "davvero"
+    },
+    {
+      "start": 105.42,
+      "end": 105.64,
+      "word": "una"
+    },
+    {
+      "start": 105.64,
+      "end": 105.76,
+      "word": "delle"
+    },
+    {
+      "start": 105.76,
+      "end": 105.92,
+      "word": "mie"
+    },
+    {
+      "start": 105.92,
+      "end": 106.44,
+      "word": "preferite"
+    },
+    {
+      "start": 106.44,
+      "end": 106.66,
+      "word": "parliamo"
+    },
+    {
+      "start": 106.66,
+      "end": 106.88,
+      "word": "più"
+    },
+    {
+      "start": 106.88,
+      "end": 107.06,
+      "word": "cattro"
+    },
+    {
+      "start": 107.06,
+      "end": 107.18,
+      "word": "di"
+    },
+    {
+      "start": 107.18,
+      "end": 107.3,
+      "word": "una"
+    },
+    {
+      "start": 107.3,
+      "end": 107.52,
+      "word": "trotta"
+    },
+    {
+      "start": 107.52,
+      "end": 107.88,
+      "word": "salata"
+    },
+    {
+      "start": 107.88,
+      "end": 108.2,
+      "word": "essendo"
+    },
+    {
+      "start": 108.2,
+      "end": 108.3,
+      "word": "l"
+    },
+    {
+      "start": 108.3,
+      "end": 108.64,
+      "word": "'impasto"
+    },
+    {
+      "start": 108.64,
+      "end": 109.08,
+      "word": "molto"
+    },
+    {
+      "start": 109.08,
+      "end": 109.62,
+      "word": "croccante"
+    },
+    {
+      "start": 109.62,
+      "end": 109.76,
+      "word": "e"
+    },
+    {
+      "start": 109.76,
+      "end": 110.3,
+      "word": "biscottoso"
+    },
+    {
+      "start": 110.3,
+      "end": 110.5,
+      "word": "ed"
+    },
+    {
+      "start": 110.5,
+      "end": 110.7,
+      "word": "avendo"
+    },
+    {
+      "start": 110.7,
+      "end": 110.84,
+      "word": "al"
+    },
+    {
+      "start": 110.84,
+      "end": 110.92,
+      "word": "suo"
+    },
+    {
+      "start": 110.92,
+      "end": 111.28,
+      "word": "interno"
+    },
+    {
+      "start": 111.28,
+      "end": 111.44,
+      "word": "un"
+    },
+    {
+      "start": 111.44,
+      "end": 111.62,
+      "word": "chilo"
+    },
+    {
+      "start": 111.62,
+      "end": 111.76,
+      "word": "di"
+    },
+    {
+      "start": 111.76,
+      "end": 112.04,
+      "word": "mozzarella"
+    },
+    {
+      "start": 112.04,
+      "end": 112.66,
+      "word": "filante"
+    },
+    {
+      "start": 112.66,
+      "end": 113.36,
+      "word": "salsiccia,"
+    },
+    {
+      "start": 113.48,
+      "end": 113.8,
+      "word": "peperoni"
+    },
+    {
+      "start": 113.8,
+      "end": 113.96,
+      "word": "e"
+    },
+    {
+      "start": 113.96,
+      "end": 114.36,
+      "word": "cipolle"
+    },
+    {
+      "start": 114.36,
+      "end": 114.52,
+      "word": "il"
+    },
+    {
+      "start": 114.52,
+      "end": 114.72,
+      "word": "tutto"
+    },
+    {
+      "start": 114.72,
+      "end": 114.92,
+      "word": "poi"
+    },
+    {
+      "start": 114.92,
+      "end": 115.4,
+      "word": "ricoperto"
+    },
+    {
+      "start": 115.4,
+      "end": 115.56,
+      "word": "con"
+    },
+    {
+      "start": 115.56,
+      "end": 115.7,
+      "word": "uno"
+    },
+    {
+      "start": 115.7,
+      "end": 116.02,
+      "word": "strato"
+    },
+    {
+      "start": 116.02,
+      "end": 116.12,
+      "word": "di"
+    },
+    {
+      "start": 116.12,
+      "end": 116.66,
+      "word": "pomodoro"
+    },
+    {
+      "start": 116.66,
+      "end": 117.02,
+      "word": "ragazzi"
+    },
+    {
+      "start": 117.02,
+      "end": 117.14,
+      "word": "vi"
+    },
+    {
+      "start": 117.14,
+      "end": 117.52,
+      "word": "assicuro"
+    },
+    {
+      "start": 117.52,
+      "end": 117.68,
+      "word": "che"
+    },
+    {
+      "start": 117.68,
+      "end": 118.06,
+      "word": "anche"
+    },
+    {
+      "start": 118.06,
+      "end": 118.36,
+      "word": "se"
+    },
+    {
+      "start": 118.36,
+      "end": 118.44,
+      "word": "è"
+    },
+    {
+      "start": 118.44,
+      "end": 118.8,
+      "word": "diversa"
+    },
+    {
+      "start": 118.8,
+      "end": 118.94,
+      "word": "dalla"
+    },
+    {
+      "start": 118.94,
+      "end": 119.26,
+      "word": "solita"
+    },
+    {
+      "start": 119.26,
+      "end": 119.48,
+      "word": "pizza"
+    },
+    {
+      "start": 119.48,
+      "end": 120.06,
+      "word": "italiana"
+    },
+    {
+      "start": 120.06,
+      "end": 120.28,
+      "word": "questo"
+    },
+    {
+      "start": 120.28,
+      "end": 120.62,
+      "word": "piatto"
+    },
+    {
+      "start": 120.62,
+      "end": 120.72,
+      "word": "di"
+    },
+    {
+      "start": 120.72,
+      "end": 121.08,
+      "word": "Chicago"
+    },
+    {
+      "start": 121.08,
+      "end": 121.26,
+      "word": "è"
+    },
+    {
+      "start": 121.26,
+      "end": 121.36,
+      "word": "una"
+    },
+    {
+      "start": 121.36,
+      "end": 121.48,
+      "word": "cosa"
+    },
+    {
+      "start": 121.48,
+      "end": 122.24,
+      "word": "clamo"
+    },
+    {
+      "start": 122.24,
+      "end": 123.0,
+      "word": "rosa"
+    },
+    {
+      "start": 123.0,
+      "end": 123.18,
+      "word": "che"
+    },
+    {
+      "start": 123.18,
+      "end": 123.28,
+      "word": "mi"
+    },
+    {
+      "start": 123.28,
+      "end": 123.7,
+      "word": "supisce"
+    },
+    {
+      "start": 123.7,
+      "end": 123.8,
+      "word": "ogni"
+    },
+    {
+      "start": 123.8,
+      "end": 123.98,
+      "word": "volta"
+    },
+    {
+      "start": 123.98,
+      "end": 124.14,
+      "word": "che"
+    },
+    {
+      "start": 124.14,
+      "end": 124.22,
+      "word": "la"
+    },
+    {
+      "start": 124.22,
+      "end": 124.62,
+      "word": "provo"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.233,
+      "dur": 3.233,
+      "transcript": "Giorno 10 del mio viaggio in flore dalla scoperta della vera cucina"
+    },
+    {
+      "shot_idx": 1,
+      "start": 3.233,
+      "end": 5.267,
+      "dur": 2.033,
+      "transcript": "americana ed oggi finalmente proveremo la vera"
+    },
+    {
+      "shot_idx": 2,
+      "start": 5.267,
+      "end": 8.867,
+      "dur": 3.6,
+      "transcript": "pizza ma partiamo con ordine dalla colazione la mattina fatta a St Augustine"
+    },
+    {
+      "shot_idx": 3,
+      "start": 8.867,
+      "end": 10.9,
+      "dur": 2.033,
+      "transcript": "con un paio di sandwich con uova strapazzate"
+    },
+    {
+      "shot_idx": 4,
+      "start": 10.9,
+      "end": 12.933,
+      "dur": 2.033,
+      "transcript": "e il classico bagel con fila delfia"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.933,
+      "end": 14.367,
+      "dur": 1.433,
+      "transcript": "marmellata diretto per il"
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.367,
+      "end": 16.133,
+      "dur": 1.767,
+      "transcript": "castello di St Augustine che vi ricordo essere"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.133,
+      "end": 18.667,
+      "dur": 2.533,
+      "transcript": "la città più antica di tutti gli Stati Uniti e dove vi assicuro"
+    },
+    {
+      "shot_idx": 8,
+      "start": 18.667,
+      "end": 22.3,
+      "dur": 3.633,
+      "transcript": "che faceva molto caldo abbiamo quindi ripreso la macchina e siamo partiti nel nostro viaggio"
+    },
+    {
+      "shot_idx": 9,
+      "start": 22.3,
+      "end": 24.333,
+      "dur": 2.033,
+      "transcript": "verso Orlando ci siamo ovviamente fermati a"
+    },
+    {
+      "shot_idx": 10,
+      "start": 24.333,
+      "end": 26.267,
+      "dur": 1.933,
+      "transcript": "pranzare dove ho preso questo sandwich con il"
+    },
+    {
+      "shot_idx": 11,
+      "start": 26.267,
+      "end": 27.767,
+      "dur": 1.5,
+      "transcript": "Mai Mai Fritto che è un pesce molto"
+    },
+    {
+      "shot_idx": 12,
+      "start": 27.767,
+      "end": 29.8,
+      "dur": 2.033,
+      "transcript": "famoso in questa zona della flore da accompagnato con"
+    },
+    {
+      "shot_idx": 13,
+      "start": 29.8,
+      "end": 31.633,
+      "dur": 1.833,
+      "transcript": "una salsa al blue cheese tipo gorgonzola"
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.633,
+      "end": 34.633,
+      "dur": 3.0,
+      "transcript": "con un side di riso con fagioli sapevole forse un po' troppo delicato"
+    },
+    {
+      "shot_idx": 15,
+      "start": 34.633,
+      "end": 36.9,
+      "dur": 2.267,
+      "transcript": "se accompagnato ad una salsa così forte e poi"
+    },
+    {
+      "shot_idx": 16,
+      "start": 36.9,
+      "end": 39.667,
+      "dur": 2.767,
+      "transcript": "per concludere il pranzo classica a Key Line Pie che qui in flore"
+    },
+    {
+      "shot_idx": 17,
+      "start": 39.667,
+      "end": 41.367,
+      "dur": 1.7,
+      "transcript": "da ovviamente non può mancare poi"
+    },
+    {
+      "shot_idx": 18,
+      "start": 41.367,
+      "end": 42.867,
+      "dur": 1.5,
+      "transcript": "siamo ripartiti per il nostro viaggio"
+    },
+    {
+      "shot_idx": 19,
+      "start": 42.867,
+      "end": 44.667,
+      "dur": 1.8,
+      "transcript": "e si siamo fermati da Buckies"
+    },
+    {
+      "shot_idx": 20,
+      "start": 44.667,
+      "end": 47.067,
+      "dur": 2.4,
+      "transcript": "una sorta di catena di stazione e servizio"
+    },
+    {
+      "shot_idx": 21,
+      "start": 47.067,
+      "end": 47.933,
+      "dur": 0.867,
+      "transcript": "super famoso"
+    },
+    {
+      "shot_idx": 22,
+      "start": 47.933,
+      "end": 53.267,
+      "dur": 5.333,
+      "transcript": "ovviamente in Texas ma che sono presenti anche in flore da famoso per le loro migliaia di pompe di benzina ma anche"
+    },
+    {
+      "shot_idx": 23,
+      "start": 53.267,
+      "end": 55.033,
+      "dur": 1.767,
+      "transcript": "per il loro BBQ che però avendo già"
+    },
+    {
+      "shot_idx": 24,
+      "start": 55.033,
+      "end": 58.033,
+      "dur": 3.0,
+      "transcript": "pranzato non abbiamo potuto provare e essendo vicino alla cittadina di"
+    },
+    {
+      "shot_idx": 25,
+      "start": 58.033,
+      "end": 58.533,
+      "dur": 0.5,
+      "transcript": "Daytona"
+    },
+    {
+      "shot_idx": 26,
+      "start": 58.533,
+      "end": 60.033,
+      "dur": 1.5,
+      "transcript": "ci siamo quindi fermati semplicemente a"
+    },
+    {
+      "shot_idx": 27,
+      "start": 60.033,
+      "end": 64.067,
+      "dur": 4.033,
+      "transcript": "dare un 'occhiata da fuori al Daytona International Speedway quindi il famoso circuito"
+    },
+    {
+      "shot_idx": 28,
+      "start": 64.067,
+      "end": 68.0,
+      "dur": 3.933,
+      "transcript": "motoristico molto carino anche semplicemente visto da fuori poi prime del giorno alla"
+    },
+    {
+      "shot_idx": 29,
+      "start": 68.0,
+      "end": 74.467,
+      "dur": 6.467,
+      "transcript": "fragole panna che era quella in collaborazione con Chiesa e siamo arrivati al nostro hotel per la notte hotel a Orlando che era davvero"
+    },
+    {
+      "shot_idx": 30,
+      "start": 74.467,
+      "end": 78.5,
+      "dur": 4.033,
+      "transcript": "clamoroso contro l 'altro una piscina su interno davvero gigantesca noi ne abbiamo quindi"
+    },
+    {
+      "shot_idx": 31,
+      "start": 78.5,
+      "end": 80.5,
+      "dur": 2.0,
+      "transcript": "approfittato per rilassarci un po' in piscina"
+    },
+    {
+      "shot_idx": 32,
+      "start": 80.5,
+      "end": 82.7,
+      "dur": 2.2,
+      "transcript": "per poi fare anche una bella sauna dopo esserci"
+    },
+    {
+      "shot_idx": 33,
+      "start": 82.7,
+      "end": 85.533,
+      "dur": 2.833,
+      "transcript": "un po' rigenerati ci siamo cambiati e siamo usciti a cena"
+    },
+    {
+      "shot_idx": 34,
+      "start": 85.533,
+      "end": 88.333,
+      "dur": 2.8,
+      "transcript": "cena che abbiamo fatto da Giordano una catena di ristoranti di"
+    },
+    {
+      "shot_idx": 35,
+      "start": 88.333,
+      "end": 90.267,
+      "dur": 1.933,
+      "transcript": "Chicago famosa ormai in tutta l 'America"
+    },
+    {
+      "shot_idx": 36,
+      "start": 90.267,
+      "end": 91.8,
+      "dur": 1.533,
+      "transcript": "proprio per la loro Chicago Style"
+    },
+    {
+      "shot_idx": 37,
+      "start": 91.8,
+      "end": 95.3,
+      "dur": 3.5,
+      "transcript": "Pizza noi abbiamo prima preso un paio di antipassini con un fritto misto di pesce"
+    },
+    {
+      "shot_idx": 38,
+      "start": 95.3,
+      "end": 97.3,
+      "dur": 2.0,
+      "transcript": "e quest 'altro mix di fritti con mozzarella in"
+    },
+    {
+      "shot_idx": 39,
+      "start": 97.3,
+      "end": 100.867,
+      "dur": 3.567,
+      "transcript": "carrozza, pollo e anche delle bruschette che per loro sono fatte all 'italiana"
+    },
+    {
+      "shot_idx": 40,
+      "start": 100.867,
+      "end": 103.667,
+      "dur": 2.8,
+      "transcript": "ma tra lasciando ciò arriviamo alla loro deep dish pizza ovvero"
+    },
+    {
+      "shot_idx": 41,
+      "start": 103.667,
+      "end": 105.867,
+      "dur": 2.2,
+      "transcript": "la Chicago Style Pizza che davvero una delle mie"
+    },
+    {
+      "shot_idx": 42,
+      "start": 105.867,
+      "end": 108.3,
+      "dur": 2.433,
+      "transcript": "preferite parliamo più cattro di una trotta salata essendo l"
+    },
+    {
+      "shot_idx": 43,
+      "start": 108.3,
+      "end": 111.867,
+      "dur": 3.567,
+      "transcript": "'impasto molto croccante e biscottoso ed avendo al suo interno un chilo di"
+    },
+    {
+      "shot_idx": 44,
+      "start": 111.867,
+      "end": 115.367,
+      "dur": 3.5,
+      "transcript": "mozzarella filante salsiccia, peperoni e cipolle il tutto poi ricoperto"
+    },
+    {
+      "shot_idx": 45,
+      "start": 115.367,
+      "end": 116.7,
+      "dur": 1.333,
+      "transcript": "con uno strato di pomodoro"
+    },
+    {
+      "shot_idx": 46,
+      "start": 116.7,
+      "end": 118.367,
+      "dur": 1.667,
+      "transcript": "ragazzi vi assicuro che anche se"
+    },
+    {
+      "shot_idx": 47,
+      "start": 118.367,
+      "end": 121.733,
+      "dur": 3.367,
+      "transcript": "è diversa dalla solita pizza italiana questo piatto di Chicago è una cosa"
+    },
+    {
+      "shot_idx": 48,
+      "start": 121.733,
+      "end": 124.733,
+      "dur": 3.0,
+      "transcript": "clamo rosa che mi supisce ogni volta che la provo"
+    },
+    {
+      "shot_idx": 49,
+      "start": 124.733,
+      "end": 124.833,
+      "dur": 0.1,
+      "transcript": ""
+    }
+  ]
+}

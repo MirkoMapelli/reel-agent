@@ -1,0 +1,1411 @@
+{
+  "video_id": "7560688935622495510",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7560688935622495510",
+    "ref_id": "ref_57_7560688935622495510",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7560688935622495510",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 21,
+  "total_dur": 32.08,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 0.733,
+      "dur": 0.733,
+      "center": 0.367,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla con espressione vivace, mentre sullo sfondo scorrono immagini di prodotti Temu.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Temu vi"
+    },
+    {
+      "idx": 1,
+      "start": 0.733,
+      "end": 2.583,
+      "dur": 1.85,
+      "center": 1.658,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo gesticola con le mani mentre parla, con la scritta 'Sì' sovrapposta al video.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "regale i prodotti, se ragazzi avete capito"
+    },
+    {
+      "idx": 2,
+      "start": 2.583,
+      "end": 3.05,
+      "dur": 0.467,
+      "center": 2.817,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo continua a parlare e gesticolare, con prodotti diversi di Temu che scorrono dietro di lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "bene con"
+    },
+    {
+      "idx": 3,
+      "start": 3.05,
+      "end": 3.417,
+      "dur": 0.367,
+      "center": 3.233,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo è in primo piano mentre sullo sfondo si vede una pagina di prodotto Temu con diverse varianti di una tazza.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 4,
+      "start": 3.417,
+      "end": 5.817,
+      "dur": 2.4,
+      "center": 4.617,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo ha un'espressione sorpresa mentre un pop-up 'Ottima scelta!' e l'immagine di un prodotto appaiono sullo schermo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Temu potete avere dei prodotti a 0 euro."
+    },
+    {
+      "idx": 5,
+      "start": 5.817,
+      "end": 6.183,
+      "dur": 0.367,
+      "center": 6.0,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla mentre sullo sfondo si vede un'interfaccia di ricerca di un'app.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": ""
+    },
+    {
+      "idx": 6,
+      "start": 6.183,
+      "end": 10.333,
+      "dur": 4.15,
+      "center": 8.258,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo indica con le mani mentre sullo sfondo appare la scritta 'dyd4696 NELLA'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Vi bastará digitare questo codice nella barra di ricerca e avrete un"
+    },
+    {
+      "idx": 7,
+      "start": 10.333,
+      "end": 12.383,
+      "dur": 2.05,
+      "center": 11.358,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo gesticola con le mani mentre sullo sfondo si legge 'TUTTO PER 0€'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "sacco di cose tra le quali potete scegliere i vostri"
+    },
+    {
+      "idx": 8,
+      "start": 12.383,
+      "end": 13.517,
+      "dur": 1.133,
+      "center": 12.95,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo mostra le mani aperte mentre sullo sfondo appare un'immagine di un pacco regalo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "prodotti a un"
+    },
+    {
+      "idx": 9,
+      "start": 13.517,
+      "end": 15.733,
+      "dur": 2.217,
+      "center": 14.625,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo tiene in mano un piccolo oggetto bianco mentre sullo sfondo si vedono opzioni di regali a 0€.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "prezzo di 0 euro. Qui potete vedere alcune"
+    },
+    {
+      "idx": 10,
+      "start": 15.733,
+      "end": 17.467,
+      "dur": 1.733,
+      "center": 16.6,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla mentre dietro si vede una schermata di prodotti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "delle cose che avete a disposizione, io"
+    },
+    {
+      "idx": 11,
+      "start": 17.467,
+      "end": 17.833,
+      "dur": 0.367,
+      "center": 17.65,
+      "role": "person_talking",
+      "subject": "ragazzo con cover telefono",
+      "description": "Il ragazzo mostra una cover per telefono con la scritta 'CAMBIATO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "avendo cambiato"
+    },
+    {
+      "idx": 12,
+      "start": 17.833,
+      "end": 18.367,
+      "dur": 0.533,
+      "center": 18.1,
+      "role": "person_talking",
+      "subject": "ragazzo con cover telefono",
+      "description": "Il ragazzo continua a mostrare la cover con la scritta 'TELEFONO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "il telefono"
+    },
+    {
+      "idx": 13,
+      "start": 18.367,
+      "end": 19.117,
+      "dur": 0.75,
+      "center": 18.742,
+      "role": "person_talking",
+      "subject": "ragazzo con due cover",
+      "description": "Il ragazzo mostra due cover per telefono con la scritta 'PAIO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "ho preso un paio di"
+    },
+    {
+      "idx": 14,
+      "start": 19.117,
+      "end": 19.483,
+      "dur": 0.367,
+      "center": 19.3,
+      "role": "person_talking",
+      "subject": "ragazzo con due cover",
+      "description": "Il ragazzo mostra le due cover con la scritta 'COVER' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "cover"
+    },
+    {
+      "idx": 15,
+      "start": 19.483,
+      "end": 21.067,
+      "dur": 1.583,
+      "center": 20.275,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla guardando in camera con un'espressione neutra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e, descendo un fan della Marvel,"
+    },
+    {
+      "idx": 16,
+      "start": 21.067,
+      "end": 23.233,
+      "dur": 2.167,
+      "center": 22.15,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla con un'espressione più vivace rispetto al frame precedente.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "mi sono portato a casa questi mega poster."
+    },
+    {
+      "idx": 17,
+      "start": 23.233,
+      "end": 24.717,
+      "dur": 1.483,
+      "center": 23.975,
+      "role": "other",
+      "subject": "poster Spiderman",
+      "description": "Un poster di Spiderman viene mostrato, tenuto da mani umane.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "The Amazing Spider -Man,"
+    },
+    {
+      "idx": 18,
+      "start": 24.717,
+      "end": 26.317,
+      "dur": 1.6,
+      "center": 25.517,
+      "role": "other",
+      "subject": "poster Deadpool Wolverine",
+      "description": "Un poster con Deadpool e Wolverine viene mostrato, tenuto da mani umane.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Deadpool e Wolverine"
+    },
+    {
+      "idx": 19,
+      "start": 26.317,
+      "end": 27.717,
+      "dur": 1.4,
+      "center": 27.017,
+      "role": "other",
+      "subject": "poster Spiderman",
+      "description": "Un poster di Spiderman in due versioni viene mostrato, tenuto da mani umane.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e Spider -Man 3."
+    },
+    {
+      "idx": 20,
+      "start": 27.717,
+      "end": 32.083,
+      "dur": 4.367,
+      "center": 29.9,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo parla gesticolando, con una scritta 'AFFRETTATEVI' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Tutto appunto per 0 euro, quindi mi raccomando affrettate di che è una promozione che finirà."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla con espressione vivace, mentre sullo sfondo scorrono immagini di prodotti Temu.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 0.733,
+      "dur": 0.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo gesticola con le mani mentre parla, con la scritta 'Sì' sovrapposta al video.",
+      "shot_idx": 1,
+      "start": 0.733,
+      "end": 2.583,
+      "dur": 1.85
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo continua a parlare e gesticolare, con prodotti diversi di Temu che scorrono dietro di lui.",
+      "shot_idx": 2,
+      "start": 2.583,
+      "end": 3.05,
+      "dur": 0.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo è in primo piano mentre sullo sfondo si vede una pagina di prodotto Temu con diverse varianti di una tazza.",
+      "shot_idx": 3,
+      "start": 3.05,
+      "end": 3.417,
+      "dur": 0.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha un'espressione sorpresa mentre un pop-up 'Ottima scelta!' e l'immagine di un prodotto appaiono sullo schermo.",
+      "shot_idx": 4,
+      "start": 3.417,
+      "end": 5.817,
+      "dur": 2.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla mentre sullo sfondo si vede un'interfaccia di ricerca di un'app.",
+      "shot_idx": 5,
+      "start": 5.817,
+      "end": 6.183,
+      "dur": 0.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo indica con le mani mentre sullo sfondo appare la scritta 'dyd4696 NELLA'.",
+      "shot_idx": 6,
+      "start": 6.183,
+      "end": 10.333,
+      "dur": 4.15
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo gesticola con le mani mentre sullo sfondo si legge 'TUTTO PER 0€'.",
+      "shot_idx": 7,
+      "start": 10.333,
+      "end": 12.383,
+      "dur": 2.05
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo mostra le mani aperte mentre sullo sfondo appare un'immagine di un pacco regalo.",
+      "shot_idx": 8,
+      "start": 12.383,
+      "end": 13.517,
+      "dur": 1.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un piccolo oggetto bianco mentre sullo sfondo si vedono opzioni di regali a 0€.",
+      "shot_idx": 9,
+      "start": 13.517,
+      "end": 15.733,
+      "dur": 2.217
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo parla mentre dietro si vede una schermata di prodotti.",
+      "shot_idx": 10,
+      "start": 15.733,
+      "end": 17.467,
+      "dur": 1.733
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cover telefono",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo mostra una cover per telefono con la scritta 'CAMBIATO' in sovrimpressione.",
+      "shot_idx": 11,
+      "start": 17.467,
+      "end": 17.833,
+      "dur": 0.367
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cover telefono",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo continua a mostrare la cover con la scritta 'TELEFONO' in sovrimpressione.",
+      "shot_idx": 12,
+      "start": 17.833,
+      "end": 18.367,
+      "dur": 0.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con due cover",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo mostra due cover per telefono con la scritta 'PAIO' in sovrimpressione.",
+      "shot_idx": 13,
+      "start": 18.367,
+      "end": 19.117,
+      "dur": 0.75
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con due cover",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il ragazzo mostra le due cover con la scritta 'COVER' in sovrimpressione.",
+      "shot_idx": 14,
+      "start": 19.117,
+      "end": 19.483,
+      "dur": 0.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla guardando in camera con un'espressione neutra.",
+      "shot_idx": 15,
+      "start": 19.483,
+      "end": 21.067,
+      "dur": 1.583
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla con un'espressione più vivace rispetto al frame precedente.",
+      "shot_idx": 16,
+      "start": 21.067,
+      "end": 23.233,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "poster Spiderman",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un poster di Spiderman viene mostrato, tenuto da mani umane.",
+      "shot_idx": 17,
+      "start": 23.233,
+      "end": 24.717,
+      "dur": 1.483
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "poster Deadpool Wolverine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un poster con Deadpool e Wolverine viene mostrato, tenuto da mani umane.",
+      "shot_idx": 18,
+      "start": 24.717,
+      "end": 26.317,
+      "dur": 1.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "poster Spiderman",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un poster di Spiderman in due versioni viene mostrato, tenuto da mani umane.",
+      "shot_idx": 19,
+      "start": 26.317,
+      "end": 27.717,
+      "dur": 1.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo parla gesticolando, con una scritta 'AFFRETTATEVI' in sovrimpressione.",
+      "shot_idx": 20,
+      "start": 27.717,
+      "end": 32.083,
+      "dur": 4.367
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": "Temu vi regale i prodotti, se ragazzi avete capito bene con Temu potete avere dei prodotti a 0 euro."
+    },
+    {
+      "start": 6.4,
+      "end": 11.64,
+      "text": "Vi bastará digitare questo codice nella barra di ricerca e avrete un sacco di cose tra le quali potete"
+    },
+    {
+      "start": 11.64,
+      "end": 16.52,
+      "text": "scegliere i vostri prodotti a un prezzo di 0 euro. Qui potete vedere alcune delle cose che avete"
+    },
+    {
+      "start": 16.52,
+      "end": 19.8,
+      "text": "a disposizione, io avendo cambiato il telefono ho preso un paio di cover e,"
+    },
+    {
+      "start": 19.86,
+      "end": 22.96,
+      "text": "descendo un fan della Marvel, mi sono portato a casa questi mega poster."
+    },
+    {
+      "start": 23.66,
+      "end": 29.16,
+      "text": "The Amazing Spider-Man, Deadpool e Wolverine e Spider-Man 3. Tutto appunto per 0 euro,"
+    },
+    {
+      "start": 29.16,
+      "end": 31.94,
+      "text": "quindi mi raccomando affrettate di che è una promozione che finirà."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "word": "Temu"
+    },
+    {
+      "start": 0.54,
+      "end": 0.68,
+      "word": "vi"
+    },
+    {
+      "start": 0.68,
+      "end": 0.96,
+      "word": "regale"
+    },
+    {
+      "start": 0.96,
+      "end": 1.08,
+      "word": "i"
+    },
+    {
+      "start": 1.08,
+      "end": 1.48,
+      "word": "prodotti,"
+    },
+    {
+      "start": 1.66,
+      "end": 1.74,
+      "word": "se"
+    },
+    {
+      "start": 1.74,
+      "end": 2.02,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.02,
+      "end": 2.18,
+      "word": "avete"
+    },
+    {
+      "start": 2.18,
+      "end": 2.5,
+      "word": "capito"
+    },
+    {
+      "start": 2.5,
+      "end": 2.78,
+      "word": "bene"
+    },
+    {
+      "start": 2.78,
+      "end": 3.26,
+      "word": "con"
+    },
+    {
+      "start": 3.26,
+      "end": 3.68,
+      "word": "Temu"
+    },
+    {
+      "start": 3.68,
+      "end": 3.96,
+      "word": "potete"
+    },
+    {
+      "start": 3.96,
+      "end": 4.22,
+      "word": "avere"
+    },
+    {
+      "start": 4.22,
+      "end": 4.44,
+      "word": "dei"
+    },
+    {
+      "start": 4.44,
+      "end": 4.98,
+      "word": "prodotti"
+    },
+    {
+      "start": 4.98,
+      "end": 5.26,
+      "word": "a"
+    },
+    {
+      "start": 5.26,
+      "end": 5.6,
+      "word": "0"
+    },
+    {
+      "start": 5.6,
+      "end": 5.98,
+      "word": "euro."
+    },
+    {
+      "start": 6.4,
+      "end": 6.52,
+      "word": "Vi"
+    },
+    {
+      "start": 6.52,
+      "end": 6.88,
+      "word": "bastará"
+    },
+    {
+      "start": 6.88,
+      "end": 7.36,
+      "word": "digitare"
+    },
+    {
+      "start": 7.36,
+      "end": 7.78,
+      "word": "questo"
+    },
+    {
+      "start": 7.78,
+      "end": 8.28,
+      "word": "codice"
+    },
+    {
+      "start": 8.28,
+      "end": 8.52,
+      "word": "nella"
+    },
+    {
+      "start": 8.52,
+      "end": 8.82,
+      "word": "barra"
+    },
+    {
+      "start": 8.82,
+      "end": 8.9,
+      "word": "di"
+    },
+    {
+      "start": 8.9,
+      "end": 9.36,
+      "word": "ricerca"
+    },
+    {
+      "start": 9.36,
+      "end": 9.8,
+      "word": "e"
+    },
+    {
+      "start": 9.8,
+      "end": 10.04,
+      "word": "avrete"
+    },
+    {
+      "start": 10.04,
+      "end": 10.22,
+      "word": "un"
+    },
+    {
+      "start": 10.22,
+      "end": 10.48,
+      "word": "sacco"
+    },
+    {
+      "start": 10.48,
+      "end": 10.58,
+      "word": "di"
+    },
+    {
+      "start": 10.58,
+      "end": 10.8,
+      "word": "cose"
+    },
+    {
+      "start": 10.8,
+      "end": 10.98,
+      "word": "tra"
+    },
+    {
+      "start": 10.98,
+      "end": 11.1,
+      "word": "le"
+    },
+    {
+      "start": 11.1,
+      "end": 11.34,
+      "word": "quali"
+    },
+    {
+      "start": 11.34,
+      "end": 11.64,
+      "word": "potete"
+    },
+    {
+      "start": 11.64,
+      "end": 12.08,
+      "word": "scegliere"
+    },
+    {
+      "start": 12.08,
+      "end": 12.16,
+      "word": "i"
+    },
+    {
+      "start": 12.16,
+      "end": 12.4,
+      "word": "vostri"
+    },
+    {
+      "start": 12.4,
+      "end": 12.96,
+      "word": "prodotti"
+    },
+    {
+      "start": 12.96,
+      "end": 13.28,
+      "word": "a"
+    },
+    {
+      "start": 13.28,
+      "end": 13.38,
+      "word": "un"
+    },
+    {
+      "start": 13.38,
+      "end": 13.72,
+      "word": "prezzo"
+    },
+    {
+      "start": 13.72,
+      "end": 13.88,
+      "word": "di"
+    },
+    {
+      "start": 13.88,
+      "end": 14.18,
+      "word": "0"
+    },
+    {
+      "start": 14.18,
+      "end": 14.58,
+      "word": "euro."
+    },
+    {
+      "start": 14.84,
+      "end": 14.98,
+      "word": "Qui"
+    },
+    {
+      "start": 14.98,
+      "end": 15.2,
+      "word": "potete"
+    },
+    {
+      "start": 15.2,
+      "end": 15.42,
+      "word": "vedere"
+    },
+    {
+      "start": 15.42,
+      "end": 15.82,
+      "word": "alcune"
+    },
+    {
+      "start": 15.82,
+      "end": 15.96,
+      "word": "delle"
+    },
+    {
+      "start": 15.96,
+      "end": 16.22,
+      "word": "cose"
+    },
+    {
+      "start": 16.22,
+      "end": 16.38,
+      "word": "che"
+    },
+    {
+      "start": 16.38,
+      "end": 16.52,
+      "word": "avete"
+    },
+    {
+      "start": 16.52,
+      "end": 16.64,
+      "word": "a"
+    },
+    {
+      "start": 16.64,
+      "end": 17.26,
+      "word": "disposizione,"
+    },
+    {
+      "start": 17.4,
+      "end": 17.48,
+      "word": "io"
+    },
+    {
+      "start": 17.48,
+      "end": 17.66,
+      "word": "avendo"
+    },
+    {
+      "start": 17.66,
+      "end": 18.0,
+      "word": "cambiato"
+    },
+    {
+      "start": 18.0,
+      "end": 18.16,
+      "word": "il"
+    },
+    {
+      "start": 18.16,
+      "end": 18.4,
+      "word": "telefono"
+    },
+    {
+      "start": 18.4,
+      "end": 18.54,
+      "word": "ho"
+    },
+    {
+      "start": 18.54,
+      "end": 18.7,
+      "word": "preso"
+    },
+    {
+      "start": 18.7,
+      "end": 18.86,
+      "word": "un"
+    },
+    {
+      "start": 18.86,
+      "end": 19.02,
+      "word": "paio"
+    },
+    {
+      "start": 19.02,
+      "end": 19.14,
+      "word": "di"
+    },
+    {
+      "start": 19.14,
+      "end": 19.4,
+      "word": "cover"
+    },
+    {
+      "start": 19.4,
+      "end": 19.8,
+      "word": "e,"
+    },
+    {
+      "start": 19.86,
+      "end": 20.16,
+      "word": "descendo"
+    },
+    {
+      "start": 20.16,
+      "end": 20.28,
+      "word": "un"
+    },
+    {
+      "start": 20.28,
+      "end": 20.42,
+      "word": "fan"
+    },
+    {
+      "start": 20.42,
+      "end": 20.6,
+      "word": "della"
+    },
+    {
+      "start": 20.6,
+      "end": 20.92,
+      "word": "Marvel,"
+    },
+    {
+      "start": 21.22,
+      "end": 21.34,
+      "word": "mi"
+    },
+    {
+      "start": 21.34,
+      "end": 21.46,
+      "word": "sono"
+    },
+    {
+      "start": 21.46,
+      "end": 21.7,
+      "word": "portato"
+    },
+    {
+      "start": 21.7,
+      "end": 21.82,
+      "word": "a"
+    },
+    {
+      "start": 21.82,
+      "end": 22.0,
+      "word": "casa"
+    },
+    {
+      "start": 22.0,
+      "end": 22.3,
+      "word": "questi"
+    },
+    {
+      "start": 22.3,
+      "end": 22.56,
+      "word": "mega"
+    },
+    {
+      "start": 22.56,
+      "end": 22.96,
+      "word": "poster."
+    },
+    {
+      "start": 23.66,
+      "end": 23.74,
+      "word": "The"
+    },
+    {
+      "start": 23.74,
+      "end": 24.0,
+      "word": "Amazing"
+    },
+    {
+      "start": 24.0,
+      "end": 24.38,
+      "word": "Spider"
+    },
+    {
+      "start": 24.38,
+      "end": 24.74,
+      "word": "-Man,"
+    },
+    {
+      "start": 25.02,
+      "end": 25.36,
+      "word": "Deadpool"
+    },
+    {
+      "start": 25.36,
+      "end": 25.54,
+      "word": "e"
+    },
+    {
+      "start": 25.54,
+      "end": 26.12,
+      "word": "Wolverine"
+    },
+    {
+      "start": 26.12,
+      "end": 26.74,
+      "word": "e"
+    },
+    {
+      "start": 26.74,
+      "end": 27.02,
+      "word": "Spider"
+    },
+    {
+      "start": 27.02,
+      "end": 27.22,
+      "word": "-Man"
+    },
+    {
+      "start": 27.22,
+      "end": 27.44,
+      "word": "3."
+    },
+    {
+      "start": 27.88,
+      "end": 28.16,
+      "word": "Tutto"
+    },
+    {
+      "start": 28.16,
+      "end": 28.44,
+      "word": "appunto"
+    },
+    {
+      "start": 28.44,
+      "end": 28.64,
+      "word": "per"
+    },
+    {
+      "start": 28.64,
+      "end": 28.86,
+      "word": "0"
+    },
+    {
+      "start": 28.86,
+      "end": 29.16,
+      "word": "euro,"
+    },
+    {
+      "start": 29.16,
+      "end": 29.42,
+      "word": "quindi"
+    },
+    {
+      "start": 29.42,
+      "end": 29.52,
+      "word": "mi"
+    },
+    {
+      "start": 29.52,
+      "end": 29.94,
+      "word": "raccomando"
+    },
+    {
+      "start": 29.94,
+      "end": 30.42,
+      "word": "affrettate"
+    },
+    {
+      "start": 30.42,
+      "end": 30.54,
+      "word": "di"
+    },
+    {
+      "start": 30.54,
+      "end": 30.64,
+      "word": "che"
+    },
+    {
+      "start": 30.64,
+      "end": 30.7,
+      "word": "è"
+    },
+    {
+      "start": 30.7,
+      "end": 30.74,
+      "word": "una"
+    },
+    {
+      "start": 30.74,
+      "end": 31.3,
+      "word": "promozione"
+    },
+    {
+      "start": 31.3,
+      "end": 31.52,
+      "word": "che"
+    },
+    {
+      "start": 31.52,
+      "end": 31.94,
+      "word": "finirà."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 0.733,
+      "dur": 0.733,
+      "transcript": "Temu vi"
+    },
+    {
+      "shot_idx": 1,
+      "start": 0.733,
+      "end": 2.583,
+      "dur": 1.85,
+      "transcript": "regale i prodotti, se ragazzi avete capito"
+    },
+    {
+      "shot_idx": 2,
+      "start": 2.583,
+      "end": 3.05,
+      "dur": 0.467,
+      "transcript": "bene con"
+    },
+    {
+      "shot_idx": 3,
+      "start": 3.05,
+      "end": 3.417,
+      "dur": 0.367,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 4,
+      "start": 3.417,
+      "end": 5.817,
+      "dur": 2.4,
+      "transcript": "Temu potete avere dei prodotti a 0 euro."
+    },
+    {
+      "shot_idx": 5,
+      "start": 5.817,
+      "end": 6.183,
+      "dur": 0.367,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 6,
+      "start": 6.183,
+      "end": 10.333,
+      "dur": 4.15,
+      "transcript": "Vi bastará digitare questo codice nella barra di ricerca e avrete un"
+    },
+    {
+      "shot_idx": 7,
+      "start": 10.333,
+      "end": 12.383,
+      "dur": 2.05,
+      "transcript": "sacco di cose tra le quali potete scegliere i vostri"
+    },
+    {
+      "shot_idx": 8,
+      "start": 12.383,
+      "end": 13.517,
+      "dur": 1.133,
+      "transcript": "prodotti a un"
+    },
+    {
+      "shot_idx": 9,
+      "start": 13.517,
+      "end": 15.733,
+      "dur": 2.217,
+      "transcript": "prezzo di 0 euro. Qui potete vedere alcune"
+    },
+    {
+      "shot_idx": 10,
+      "start": 15.733,
+      "end": 17.467,
+      "dur": 1.733,
+      "transcript": "delle cose che avete a disposizione, io"
+    },
+    {
+      "shot_idx": 11,
+      "start": 17.467,
+      "end": 17.833,
+      "dur": 0.367,
+      "transcript": "avendo cambiato"
+    },
+    {
+      "shot_idx": 12,
+      "start": 17.833,
+      "end": 18.367,
+      "dur": 0.533,
+      "transcript": "il telefono"
+    },
+    {
+      "shot_idx": 13,
+      "start": 18.367,
+      "end": 19.117,
+      "dur": 0.75,
+      "transcript": "ho preso un paio di"
+    },
+    {
+      "shot_idx": 14,
+      "start": 19.117,
+      "end": 19.483,
+      "dur": 0.367,
+      "transcript": "cover"
+    },
+    {
+      "shot_idx": 15,
+      "start": 19.483,
+      "end": 21.067,
+      "dur": 1.583,
+      "transcript": "e, descendo un fan della Marvel,"
+    },
+    {
+      "shot_idx": 16,
+      "start": 21.067,
+      "end": 23.233,
+      "dur": 2.167,
+      "transcript": "mi sono portato a casa questi mega poster."
+    },
+    {
+      "shot_idx": 17,
+      "start": 23.233,
+      "end": 24.717,
+      "dur": 1.483,
+      "transcript": "The Amazing Spider -Man,"
+    },
+    {
+      "shot_idx": 18,
+      "start": 24.717,
+      "end": 26.317,
+      "dur": 1.6,
+      "transcript": "Deadpool e Wolverine"
+    },
+    {
+      "shot_idx": 19,
+      "start": 26.317,
+      "end": 27.717,
+      "dur": 1.4,
+      "transcript": "e Spider -Man 3."
+    },
+    {
+      "shot_idx": 20,
+      "start": 27.717,
+      "end": 32.083,
+      "dur": 4.367,
+      "transcript": "Tutto appunto per 0 euro, quindi mi raccomando affrettate di che è una promozione che finirà."
+    }
+  ],
+  "full_text": "Temu vi regale i prodotti, se ragazzi avete capito bene con Temu potete avere dei prodotti a 0 euro. Vi bastará digitare questo codice nella barra di ricerca e avrete un sacco di cose tra le quali potete scegliere i vostri prodotti a un prezzo di 0 euro. Qui potete vedere alcune delle cose che avete a disposizione, io avendo cambiato il telefono ho preso un paio di cover e, descendo un fan della Marvel, mi sono portato a casa questi mega poster. The Amazing Spider-Man, Deadpool e Wolverine e Spider-Man 3. Tutto appunto per 0 euro, quindi mi raccomando affrettate di che è una promozione che finirà.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

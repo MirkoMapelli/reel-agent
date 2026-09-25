@@ -1,0 +1,2007 @@
+{
+  "video_id": "7582554563538865430",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7582554563538865430",
+    "ref_id": "ref_43_7582554563538865430",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7582554563538865430",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 18,
+  "total_dur": 63.87,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067,
+      "center": 1.533,
+      "role": "food_plated",
+      "subject": "pizza fritta gluten-free",
+      "description": "Una pizza fritta con pomodoro e basilico su un piatto arancione, tenuta da una persona.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Pizza fritta, gluten fria, Milano? Oggi ragazzi proviamo un 'altra pizzeria"
+    },
+    {
+      "idx": 1,
+      "start": 3.067,
+      "end": 6.067,
+      "dur": 3.0,
+      "center": 4.567,
+      "role": "food_plated",
+      "subject": "pizza fritta rotonda",
+      "description": "Una pizza fritta rotonda con pomodoro e due mozzarelle su un piatto giallo, tenuta da una persona.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "che ha opzioni senza glutine e vedremo se sarà finalmente lei la"
+    },
+    {
+      "idx": 2,
+      "start": 6.067,
+      "end": 8.067,
+      "dur": 2.0,
+      "center": 7.067,
+      "role": "food_detail",
+      "subject": "crocchetta tagliata",
+      "description": "Una crocchetta fritta tagliata a metà con una forchetta e un coltello.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "migliore Ci troviamo dalla pizzeria a positano e"
+    },
+    {
+      "idx": 3,
+      "start": 8.067,
+      "end": 9.633,
+      "dur": 1.567,
+      "center": 8.85,
+      "role": "food_detail",
+      "subject": "crocchetta aperta",
+      "description": "Una crocchetta fritta aperta che mostra l'interno cremoso e verde.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "avendo anche diverse antipassi senza"
+    },
+    {
+      "idx": 4,
+      "start": 9.633,
+      "end": 12.4,
+      "dur": 2.767,
+      "center": 11.017,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Un ragazzo che mangia un pezzo di cibo con una pizza fritta in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "glutine noi abbiamo iniziato da questo crocchè di patate Molto"
+    },
+    {
+      "idx": 5,
+      "start": 12.4,
+      "end": 16.0,
+      "dur": 3.6,
+      "center": 14.2,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza fritta",
+      "description": "Il ragazzo sta mangiando con le mani un pezzo di pizza fritta, con un'altra pizza fritta sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "sfizioso con un ottimo impanatura e dopo di che avendo visto che sul menu c 'era anche l"
+    },
+    {
+      "idx": 6,
+      "start": 16.0,
+      "end": 22.667,
+      "dur": 6.667,
+      "center": 19.333,
+      "role": "food_closeup",
+      "subject": "pizza fritta basilico",
+      "description": "Una pizza fritta con salsa rossa, formaggio grattugiato e una foglia di basilico al centro.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "'opzione della pizza fritta abbiamo assolutamente voluto provarla, bella carica sia di pomodoro sopra che di ripieno dentro Con ricotta mozzarella"
+    },
+    {
+      "idx": 7,
+      "start": 22.667,
+      "end": 27.767,
+      "dur": 5.1,
+      "center": 25.217,
+      "role": "food_detail",
+      "subject": "mozzarella filante pizza",
+      "description": "La mozzarella filante viene tirata da un pezzo di pizza fritta tagliata a metà.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e salame, trittura ovviamente perfetta con tra l 'altro anche la mozzarella che filava alla grande Ed è"
+    },
+    {
+      "idx": 8,
+      "start": 27.767,
+      "end": 29.567,
+      "dur": 1.8,
+      "center": 28.667,
+      "role": "food_detail",
+      "subject": "pezzo pizza filante",
+      "description": "Un pezzo di pizza fritta con mozzarella filante è tenuto in aria con una forchetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "un impasto molto buono è anche"
+    },
+    {
+      "idx": 9,
+      "start": 29.567,
+      "end": 32.4,
+      "dur": 2.833,
+      "center": 30.983,
+      "role": "person_eating",
+      "subject": "ragazzo mangia mozzarella filante",
+      "description": "Il ragazzo sta mangiando un pezzo di pizza fritta, con la mozzarella che si allunga fino alla sua bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "vero che questa era la mia prima pizza fritta senza glutine ma mi ha stupito"
+    },
+    {
+      "idx": 10,
+      "start": 32.4,
+      "end": 35.433,
+      "dur": 3.033,
+      "center": 33.917,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia",
+      "description": "Il ragazzo con la forchetta in bocca e un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "tantissimo perché l 'impasto essendo anche fritto si sentiva ancora"
+    },
+    {
+      "idx": 11,
+      "start": 35.433,
+      "end": 41.667,
+      "dur": 6.233,
+      "center": 38.55,
+      "role": "food_closeup",
+      "subject": "pizza con mozzarella e basilico",
+      "description": "La pizza con due mozzarelle intere e una foglia di basilico al centro.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "meno la differenza dopo di che però abbiamo voluto provare la pizza normale senza glutine ma col corricione ripiene ed è per questo che è un filo più"
+    },
+    {
+      "idx": 12,
+      "start": 41.667,
+      "end": 47.467,
+      "dur": 5.8,
+      "center": 44.567,
+      "role": "food_detail",
+      "subject": "bordo croccante della pizza",
+      "description": "Il dettaglio del bordo della pizza ben cotto e dorato.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "piccolo ma guardate che bella anche qua sull 'impasto Niente niente da dire salato al giusto per niente gommoso"
+    },
+    {
+      "idx": 13,
+      "start": 47.467,
+      "end": 50.467,
+      "dur": 3.0,
+      "center": 48.967,
+      "role": "food_closeup",
+      "subject": "pizza con mozzarella a pezzi",
+      "description": "La pizza con pezzi di mozzarella sparsi e foglie di basilico.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e cotto la perfezione Quindi davvero uno di migliori impasti senza"
+    },
+    {
+      "idx": 14,
+      "start": 50.467,
+      "end": 54.867,
+      "dur": 4.4,
+      "center": 52.667,
+      "role": "person_eating",
+      "subject": "ragazzo che addenta pizza",
+      "description": "Il ragazzo che mangia un pezzo di pizza con un'espressione divertita.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "glutine che abbiamo mai provato o poi voluto anche provare la sua controparte normale per capire un po"
+    },
+    {
+      "idx": 15,
+      "start": 54.867,
+      "end": 57.433,
+      "dur": 2.567,
+      "center": 56.15,
+      "role": "food_detail",
+      "subject": "pizza ripiena mani",
+      "description": "Le mani che aprono un pezzo di pizza per mostrare il ripieno cremoso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "la differenza e devo dire che sì ovviamente molto buona anche"
+    },
+    {
+      "idx": 16,
+      "start": 57.433,
+      "end": 60.733,
+      "dur": 3.3,
+      "center": 59.083,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo che addenta un pezzo di pizza con un'espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "quella normale ma quelle senza glutine non ha niente da invidiare Pizzeria"
+    },
+    {
+      "idx": 17,
+      "start": 60.733,
+      "end": 63.867,
+      "dur": 3.133,
+      "center": 62.3,
+      "role": "food_detail",
+      "subject": "pizza ripiena mozzarella",
+      "description": "Una mano che solleva il bordo di una pizza con grandi mozzarelle e ripieno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "positano me l 'avete considerate in tanti e io l 'ho capito il perché"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza fritta gluten-free",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza fritta con pomodoro e basilico su un piatto arancione, tenuta da una persona.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "pizza fritta rotonda",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza fritta rotonda con pomodoro e due mozzarelle su un piatto giallo, tenuta da una persona.",
+      "shot_idx": 1,
+      "start": 3.067,
+      "end": 6.067,
+      "dur": 3.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "crocchetta tagliata",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una crocchetta fritta tagliata a metà con una forchetta e un coltello.",
+      "shot_idx": 2,
+      "start": 6.067,
+      "end": 8.067,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "crocchetta aperta",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una crocchetta fritta aperta che mostra l'interno cremoso e verde.",
+      "shot_idx": 3,
+      "start": 8.067,
+      "end": 9.633,
+      "dur": 1.567
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo che mangia un pezzo di cibo con una pizza fritta in primo piano.",
+      "shot_idx": 4,
+      "start": 9.633,
+      "end": 12.4,
+      "dur": 2.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza fritta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando con le mani un pezzo di pizza fritta, con un'altra pizza fritta sul tavolo.",
+      "shot_idx": 5,
+      "start": 12.4,
+      "end": 16.0,
+      "dur": 3.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza fritta basilico",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza fritta con salsa rossa, formaggio grattugiato e una foglia di basilico al centro.",
+      "shot_idx": 6,
+      "start": 16.0,
+      "end": 22.667,
+      "dur": 6.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "mozzarella filante pizza",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La mozzarella filante viene tirata da un pezzo di pizza fritta tagliata a metà.",
+      "shot_idx": 7,
+      "start": 22.667,
+      "end": 27.767,
+      "dur": 5.1
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pezzo pizza filante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un pezzo di pizza fritta con mozzarella filante è tenuto in aria con una forchetta.",
+      "shot_idx": 8,
+      "start": 27.767,
+      "end": 29.567,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia mozzarella filante",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di pizza fritta, con la mozzarella che si allunga fino alla sua bocca.",
+      "shot_idx": 9,
+      "start": 29.567,
+      "end": 32.4,
+      "dur": 2.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo con la forchetta in bocca e un'espressione concentrata.",
+      "shot_idx": 10,
+      "start": 32.4,
+      "end": 35.433,
+      "dur": 3.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con mozzarella e basilico",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La pizza con due mozzarelle intere e una foglia di basilico al centro.",
+      "shot_idx": 11,
+      "start": 35.433,
+      "end": 41.667,
+      "dur": 6.233
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "bordo croccante della pizza",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il dettaglio del bordo della pizza ben cotto e dorato.",
+      "shot_idx": 12,
+      "start": 41.667,
+      "end": 47.467,
+      "dur": 5.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza con mozzarella a pezzi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La pizza con pezzi di mozzarella sparsi e foglie di basilico.",
+      "shot_idx": 13,
+      "start": 47.467,
+      "end": 50.467,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che addenta pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo che mangia un pezzo di pizza con un'espressione divertita.",
+      "shot_idx": 14,
+      "start": 50.467,
+      "end": 54.867,
+      "dur": 4.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza ripiena mani",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Le mani che aprono un pezzo di pizza per mostrare il ripieno cremoso.",
+      "shot_idx": 15,
+      "start": 54.867,
+      "end": 57.433,
+      "dur": 2.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo che addenta un pezzo di pizza con un'espressione concentrata.",
+      "shot_idx": 16,
+      "start": 57.433,
+      "end": 60.733,
+      "dur": 3.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pizza ripiena mozzarella",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano che solleva il bordo di una pizza con grandi mozzarelle e ripieno.",
+      "shot_idx": 17,
+      "start": 60.733,
+      "end": 63.867,
+      "dur": 3.133
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.26,
+      "text": "Pizza fritta, gluten fria, Milano? Oggi ragazzi proviamo un'altra pizzeria che ha opzioni senza glutine e vedremo se sarà finalmente lei la migliore"
+    },
+    {
+      "start": 6.26,
+      "end": 12.06,
+      "text": "Ci troviamo dalla pizzeria a positano e avendo anche diverse antipassi senza glutine noi abbiamo iniziato da questo crocchè di patate"
+    },
+    {
+      "start": 12.06,
+      "end": 17.42,
+      "text": "Molto sfizioso con un ottimo impanatura e dopo di che avendo visto che sul menu c'era anche l'opzione della pizza fritta"
+    },
+    {
+      "start": 17.42,
+      "end": 21.94,
+      "text": "abbiamo assolutamente voluto provarla, bella carica sia di pomodoro sopra che di ripieno dentro"
+    },
+    {
+      "start": 21.94,
+      "end": 27.5,
+      "text": "Con ricotta mozzarella e salame, trittura ovviamente perfetta con tra l'altro anche la mozzarella che filava alla grande"
+    },
+    {
+      "start": 27.5,
+      "end": 32.42,
+      "text": "Ed è un impasto molto buono è anche vero che questa era la mia prima pizza fritta senza glutine ma mi ha stupito"
+    },
+    {
+      "start": 32.42,
+      "end": 38.44,
+      "text": "tantissimo perché l'impasto essendo anche fritto si sentiva ancora meno la differenza dopo di che però abbiamo voluto provare la pizza normale"
+    },
+    {
+      "start": 38.44,
+      "end": 44.18,
+      "text": "senza glutine ma col corricione ripiene ed è per questo che è un filo più piccolo ma guardate che bella anche qua sull'impasto"
+    },
+    {
+      "start": 44.18,
+      "end": 48.46,
+      "text": "Niente niente da dire salato al giusto per niente gommoso e cotto la perfezione"
+    },
+    {
+      "start": 48.46,
+      "end": 53.8,
+      "text": "Quindi davvero uno di migliori impasti senza glutine che abbiamo mai provato o poi voluto anche provare la sua controparte"
+    },
+    {
+      "start": 53.8,
+      "end": 60.48,
+      "text": "normale per capire un po la differenza e devo dire che sì ovviamente molto buona anche quella normale ma quelle senza glutine non ha niente da invidiare"
+    },
+    {
+      "start": 60.48,
+      "end": 63.56,
+      "text": "Pizzeria positano me l'avete considerate in tanti e io l'ho capito il perché"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "word": "Pizza"
+    },
+    {
+      "start": 0.36,
+      "end": 0.64,
+      "word": "fritta,"
+    },
+    {
+      "start": 0.72,
+      "end": 0.88,
+      "word": "gluten"
+    },
+    {
+      "start": 0.88,
+      "end": 1.22,
+      "word": "fria,"
+    },
+    {
+      "start": 1.32,
+      "end": 1.64,
+      "word": "Milano?"
+    },
+    {
+      "start": 1.8,
+      "end": 1.9,
+      "word": "Oggi"
+    },
+    {
+      "start": 1.9,
+      "end": 2.14,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.14,
+      "end": 2.4,
+      "word": "proviamo"
+    },
+    {
+      "start": 2.4,
+      "end": 2.56,
+      "word": "un"
+    },
+    {
+      "start": 2.56,
+      "end": 2.68,
+      "word": "'altra"
+    },
+    {
+      "start": 2.68,
+      "end": 3.08,
+      "word": "pizzeria"
+    },
+    {
+      "start": 3.08,
+      "end": 3.22,
+      "word": "che"
+    },
+    {
+      "start": 3.22,
+      "end": 3.3,
+      "word": "ha"
+    },
+    {
+      "start": 3.3,
+      "end": 3.56,
+      "word": "opzioni"
+    },
+    {
+      "start": 3.56,
+      "end": 3.82,
+      "word": "senza"
+    },
+    {
+      "start": 3.82,
+      "end": 4.26,
+      "word": "glutine"
+    },
+    {
+      "start": 4.26,
+      "end": 4.34,
+      "word": "e"
+    },
+    {
+      "start": 4.34,
+      "end": 4.58,
+      "word": "vedremo"
+    },
+    {
+      "start": 4.58,
+      "end": 4.76,
+      "word": "se"
+    },
+    {
+      "start": 4.76,
+      "end": 4.98,
+      "word": "sarà"
+    },
+    {
+      "start": 4.98,
+      "end": 5.34,
+      "word": "finalmente"
+    },
+    {
+      "start": 5.34,
+      "end": 5.78,
+      "word": "lei"
+    },
+    {
+      "start": 5.78,
+      "end": 5.9,
+      "word": "la"
+    },
+    {
+      "start": 5.9,
+      "end": 6.26,
+      "word": "migliore"
+    },
+    {
+      "start": 6.26,
+      "end": 6.36,
+      "word": "Ci"
+    },
+    {
+      "start": 6.36,
+      "end": 6.64,
+      "word": "troviamo"
+    },
+    {
+      "start": 6.64,
+      "end": 6.8,
+      "word": "dalla"
+    },
+    {
+      "start": 6.8,
+      "end": 7.38,
+      "word": "pizzeria"
+    },
+    {
+      "start": 7.38,
+      "end": 7.5,
+      "word": "a"
+    },
+    {
+      "start": 7.5,
+      "end": 7.96,
+      "word": "positano"
+    },
+    {
+      "start": 7.96,
+      "end": 8.06,
+      "word": "e"
+    },
+    {
+      "start": 8.06,
+      "end": 8.28,
+      "word": "avendo"
+    },
+    {
+      "start": 8.28,
+      "end": 8.52,
+      "word": "anche"
+    },
+    {
+      "start": 8.52,
+      "end": 8.76,
+      "word": "diverse"
+    },
+    {
+      "start": 8.76,
+      "end": 9.38,
+      "word": "antipassi"
+    },
+    {
+      "start": 9.38,
+      "end": 9.58,
+      "word": "senza"
+    },
+    {
+      "start": 9.58,
+      "end": 10.06,
+      "word": "glutine"
+    },
+    {
+      "start": 10.06,
+      "end": 10.2,
+      "word": "noi"
+    },
+    {
+      "start": 10.2,
+      "end": 10.34,
+      "word": "abbiamo"
+    },
+    {
+      "start": 10.34,
+      "end": 10.68,
+      "word": "iniziato"
+    },
+    {
+      "start": 10.68,
+      "end": 10.86,
+      "word": "da"
+    },
+    {
+      "start": 10.86,
+      "end": 11.14,
+      "word": "questo"
+    },
+    {
+      "start": 11.14,
+      "end": 11.56,
+      "word": "crocchè"
+    },
+    {
+      "start": 11.56,
+      "end": 11.68,
+      "word": "di"
+    },
+    {
+      "start": 11.68,
+      "end": 12.06,
+      "word": "patate"
+    },
+    {
+      "start": 12.06,
+      "end": 12.36,
+      "word": "Molto"
+    },
+    {
+      "start": 12.36,
+      "end": 12.82,
+      "word": "sfizioso"
+    },
+    {
+      "start": 12.82,
+      "end": 13.06,
+      "word": "con"
+    },
+    {
+      "start": 13.06,
+      "end": 13.16,
+      "word": "un"
+    },
+    {
+      "start": 13.16,
+      "end": 13.38,
+      "word": "ottimo"
+    },
+    {
+      "start": 13.38,
+      "end": 13.88,
+      "word": "impanatura"
+    },
+    {
+      "start": 13.88,
+      "end": 14.1,
+      "word": "e"
+    },
+    {
+      "start": 14.1,
+      "end": 14.28,
+      "word": "dopo"
+    },
+    {
+      "start": 14.28,
+      "end": 14.44,
+      "word": "di"
+    },
+    {
+      "start": 14.44,
+      "end": 14.54,
+      "word": "che"
+    },
+    {
+      "start": 14.54,
+      "end": 14.78,
+      "word": "avendo"
+    },
+    {
+      "start": 14.78,
+      "end": 14.98,
+      "word": "visto"
+    },
+    {
+      "start": 14.98,
+      "end": 15.14,
+      "word": "che"
+    },
+    {
+      "start": 15.14,
+      "end": 15.28,
+      "word": "sul"
+    },
+    {
+      "start": 15.28,
+      "end": 15.46,
+      "word": "menu"
+    },
+    {
+      "start": 15.46,
+      "end": 15.68,
+      "word": "c"
+    },
+    {
+      "start": 15.68,
+      "end": 15.72,
+      "word": "'era"
+    },
+    {
+      "start": 15.72,
+      "end": 15.88,
+      "word": "anche"
+    },
+    {
+      "start": 15.88,
+      "end": 16.02,
+      "word": "l"
+    },
+    {
+      "start": 16.02,
+      "end": 16.4,
+      "word": "'opzione"
+    },
+    {
+      "start": 16.4,
+      "end": 16.64,
+      "word": "della"
+    },
+    {
+      "start": 16.64,
+      "end": 16.92,
+      "word": "pizza"
+    },
+    {
+      "start": 16.92,
+      "end": 17.42,
+      "word": "fritta"
+    },
+    {
+      "start": 17.42,
+      "end": 17.64,
+      "word": "abbiamo"
+    },
+    {
+      "start": 17.64,
+      "end": 18.34,
+      "word": "assolutamente"
+    },
+    {
+      "start": 18.34,
+      "end": 18.66,
+      "word": "voluto"
+    },
+    {
+      "start": 18.66,
+      "end": 19.18,
+      "word": "provarla,"
+    },
+    {
+      "start": 19.3,
+      "end": 19.48,
+      "word": "bella"
+    },
+    {
+      "start": 19.48,
+      "end": 19.86,
+      "word": "carica"
+    },
+    {
+      "start": 19.86,
+      "end": 20.06,
+      "word": "sia"
+    },
+    {
+      "start": 20.06,
+      "end": 20.18,
+      "word": "di"
+    },
+    {
+      "start": 20.18,
+      "end": 20.52,
+      "word": "pomodoro"
+    },
+    {
+      "start": 20.52,
+      "end": 20.96,
+      "word": "sopra"
+    },
+    {
+      "start": 20.96,
+      "end": 21.12,
+      "word": "che"
+    },
+    {
+      "start": 21.12,
+      "end": 21.24,
+      "word": "di"
+    },
+    {
+      "start": 21.24,
+      "end": 21.6,
+      "word": "ripieno"
+    },
+    {
+      "start": 21.6,
+      "end": 21.94,
+      "word": "dentro"
+    },
+    {
+      "start": 21.94,
+      "end": 22.18,
+      "word": "Con"
+    },
+    {
+      "start": 22.18,
+      "end": 22.5,
+      "word": "ricotta"
+    },
+    {
+      "start": 22.5,
+      "end": 22.82,
+      "word": "mozzarella"
+    },
+    {
+      "start": 22.82,
+      "end": 23.24,
+      "word": "e"
+    },
+    {
+      "start": 23.24,
+      "end": 23.54,
+      "word": "salame,"
+    },
+    {
+      "start": 23.62,
+      "end": 23.82,
+      "word": "trittura"
+    },
+    {
+      "start": 23.82,
+      "end": 24.38,
+      "word": "ovviamente"
+    },
+    {
+      "start": 24.38,
+      "end": 25.06,
+      "word": "perfetta"
+    },
+    {
+      "start": 25.06,
+      "end": 25.28,
+      "word": "con"
+    },
+    {
+      "start": 25.28,
+      "end": 25.5,
+      "word": "tra"
+    },
+    {
+      "start": 25.5,
+      "end": 25.64,
+      "word": "l"
+    },
+    {
+      "start": 25.64,
+      "end": 25.7,
+      "word": "'altro"
+    },
+    {
+      "start": 25.7,
+      "end": 25.9,
+      "word": "anche"
+    },
+    {
+      "start": 25.9,
+      "end": 26.04,
+      "word": "la"
+    },
+    {
+      "start": 26.04,
+      "end": 26.32,
+      "word": "mozzarella"
+    },
+    {
+      "start": 26.32,
+      "end": 26.68,
+      "word": "che"
+    },
+    {
+      "start": 26.68,
+      "end": 27.0,
+      "word": "filava"
+    },
+    {
+      "start": 27.0,
+      "end": 27.16,
+      "word": "alla"
+    },
+    {
+      "start": 27.16,
+      "end": 27.5,
+      "word": "grande"
+    },
+    {
+      "start": 27.5,
+      "end": 27.74,
+      "word": "Ed"
+    },
+    {
+      "start": 27.74,
+      "end": 27.74,
+      "word": "è"
+    },
+    {
+      "start": 27.74,
+      "end": 27.86,
+      "word": "un"
+    },
+    {
+      "start": 27.86,
+      "end": 28.22,
+      "word": "impasto"
+    },
+    {
+      "start": 28.22,
+      "end": 28.72,
+      "word": "molto"
+    },
+    {
+      "start": 28.72,
+      "end": 29.2,
+      "word": "buono"
+    },
+    {
+      "start": 29.2,
+      "end": 29.36,
+      "word": "è"
+    },
+    {
+      "start": 29.36,
+      "end": 29.5,
+      "word": "anche"
+    },
+    {
+      "start": 29.5,
+      "end": 29.72,
+      "word": "vero"
+    },
+    {
+      "start": 29.72,
+      "end": 29.82,
+      "word": "che"
+    },
+    {
+      "start": 29.82,
+      "end": 30.0,
+      "word": "questa"
+    },
+    {
+      "start": 30.0,
+      "end": 30.16,
+      "word": "era"
+    },
+    {
+      "start": 30.16,
+      "end": 30.26,
+      "word": "la"
+    },
+    {
+      "start": 30.26,
+      "end": 30.36,
+      "word": "mia"
+    },
+    {
+      "start": 30.36,
+      "end": 30.56,
+      "word": "prima"
+    },
+    {
+      "start": 30.56,
+      "end": 30.84,
+      "word": "pizza"
+    },
+    {
+      "start": 30.84,
+      "end": 31.16,
+      "word": "fritta"
+    },
+    {
+      "start": 31.16,
+      "end": 31.38,
+      "word": "senza"
+    },
+    {
+      "start": 31.38,
+      "end": 31.86,
+      "word": "glutine"
+    },
+    {
+      "start": 31.86,
+      "end": 32.0,
+      "word": "ma"
+    },
+    {
+      "start": 32.0,
+      "end": 32.12,
+      "word": "mi"
+    },
+    {
+      "start": 32.12,
+      "end": 32.16,
+      "word": "ha"
+    },
+    {
+      "start": 32.16,
+      "end": 32.42,
+      "word": "stupito"
+    },
+    {
+      "start": 32.42,
+      "end": 33.22,
+      "word": "tantissimo"
+    },
+    {
+      "start": 33.22,
+      "end": 33.48,
+      "word": "perché"
+    },
+    {
+      "start": 33.48,
+      "end": 33.62,
+      "word": "l"
+    },
+    {
+      "start": 33.62,
+      "end": 34.0,
+      "word": "'impasto"
+    },
+    {
+      "start": 34.0,
+      "end": 34.34,
+      "word": "essendo"
+    },
+    {
+      "start": 34.34,
+      "end": 34.5,
+      "word": "anche"
+    },
+    {
+      "start": 34.5,
+      "end": 34.76,
+      "word": "fritto"
+    },
+    {
+      "start": 34.76,
+      "end": 34.9,
+      "word": "si"
+    },
+    {
+      "start": 34.9,
+      "end": 35.18,
+      "word": "sentiva"
+    },
+    {
+      "start": 35.18,
+      "end": 35.44,
+      "word": "ancora"
+    },
+    {
+      "start": 35.44,
+      "end": 35.64,
+      "word": "meno"
+    },
+    {
+      "start": 35.64,
+      "end": 35.82,
+      "word": "la"
+    },
+    {
+      "start": 35.82,
+      "end": 36.28,
+      "word": "differenza"
+    },
+    {
+      "start": 36.28,
+      "end": 36.46,
+      "word": "dopo"
+    },
+    {
+      "start": 36.46,
+      "end": 36.58,
+      "word": "di"
+    },
+    {
+      "start": 36.58,
+      "end": 36.64,
+      "word": "che"
+    },
+    {
+      "start": 36.64,
+      "end": 36.84,
+      "word": "però"
+    },
+    {
+      "start": 36.84,
+      "end": 36.98,
+      "word": "abbiamo"
+    },
+    {
+      "start": 36.98,
+      "end": 37.28,
+      "word": "voluto"
+    },
+    {
+      "start": 37.28,
+      "end": 37.6,
+      "word": "provare"
+    },
+    {
+      "start": 37.6,
+      "end": 37.72,
+      "word": "la"
+    },
+    {
+      "start": 37.72,
+      "end": 37.94,
+      "word": "pizza"
+    },
+    {
+      "start": 37.94,
+      "end": 38.44,
+      "word": "normale"
+    },
+    {
+      "start": 38.44,
+      "end": 38.7,
+      "word": "senza"
+    },
+    {
+      "start": 38.7,
+      "end": 39.16,
+      "word": "glutine"
+    },
+    {
+      "start": 39.16,
+      "end": 39.42,
+      "word": "ma"
+    },
+    {
+      "start": 39.42,
+      "end": 39.58,
+      "word": "col"
+    },
+    {
+      "start": 39.58,
+      "end": 39.96,
+      "word": "corricione"
+    },
+    {
+      "start": 39.96,
+      "end": 40.44,
+      "word": "ripiene"
+    },
+    {
+      "start": 40.44,
+      "end": 40.6,
+      "word": "ed"
+    },
+    {
+      "start": 40.6,
+      "end": 40.68,
+      "word": "è"
+    },
+    {
+      "start": 40.68,
+      "end": 40.8,
+      "word": "per"
+    },
+    {
+      "start": 40.8,
+      "end": 41.08,
+      "word": "questo"
+    },
+    {
+      "start": 41.08,
+      "end": 41.22,
+      "word": "che"
+    },
+    {
+      "start": 41.22,
+      "end": 41.3,
+      "word": "è"
+    },
+    {
+      "start": 41.3,
+      "end": 41.36,
+      "word": "un"
+    },
+    {
+      "start": 41.36,
+      "end": 41.56,
+      "word": "filo"
+    },
+    {
+      "start": 41.56,
+      "end": 41.68,
+      "word": "più"
+    },
+    {
+      "start": 41.68,
+      "end": 42.04,
+      "word": "piccolo"
+    },
+    {
+      "start": 42.04,
+      "end": 42.18,
+      "word": "ma"
+    },
+    {
+      "start": 42.18,
+      "end": 42.5,
+      "word": "guardate"
+    },
+    {
+      "start": 42.5,
+      "end": 42.6,
+      "word": "che"
+    },
+    {
+      "start": 42.6,
+      "end": 42.98,
+      "word": "bella"
+    },
+    {
+      "start": 42.98,
+      "end": 43.3,
+      "word": "anche"
+    },
+    {
+      "start": 43.3,
+      "end": 43.54,
+      "word": "qua"
+    },
+    {
+      "start": 43.54,
+      "end": 43.8,
+      "word": "sull"
+    },
+    {
+      "start": 43.8,
+      "end": 44.18,
+      "word": "'impasto"
+    },
+    {
+      "start": 44.18,
+      "end": 44.66,
+      "word": "Niente"
+    },
+    {
+      "start": 44.66,
+      "end": 45.02,
+      "word": "niente"
+    },
+    {
+      "start": 45.02,
+      "end": 45.2,
+      "word": "da"
+    },
+    {
+      "start": 45.2,
+      "end": 45.46,
+      "word": "dire"
+    },
+    {
+      "start": 45.46,
+      "end": 45.8,
+      "word": "salato"
+    },
+    {
+      "start": 45.8,
+      "end": 45.92,
+      "word": "al"
+    },
+    {
+      "start": 45.92,
+      "end": 46.28,
+      "word": "giusto"
+    },
+    {
+      "start": 46.28,
+      "end": 46.54,
+      "word": "per"
+    },
+    {
+      "start": 46.54,
+      "end": 46.8,
+      "word": "niente"
+    },
+    {
+      "start": 46.8,
+      "end": 47.34,
+      "word": "gommoso"
+    },
+    {
+      "start": 47.34,
+      "end": 47.62,
+      "word": "e"
+    },
+    {
+      "start": 47.62,
+      "end": 47.82,
+      "word": "cotto"
+    },
+    {
+      "start": 47.82,
+      "end": 47.96,
+      "word": "la"
+    },
+    {
+      "start": 47.96,
+      "end": 48.46,
+      "word": "perfezione"
+    },
+    {
+      "start": 48.46,
+      "end": 48.72,
+      "word": "Quindi"
+    },
+    {
+      "start": 48.72,
+      "end": 49.24,
+      "word": "davvero"
+    },
+    {
+      "start": 49.24,
+      "end": 49.44,
+      "word": "uno"
+    },
+    {
+      "start": 49.44,
+      "end": 49.54,
+      "word": "di"
+    },
+    {
+      "start": 49.54,
+      "end": 49.84,
+      "word": "migliori"
+    },
+    {
+      "start": 49.84,
+      "end": 50.26,
+      "word": "impasti"
+    },
+    {
+      "start": 50.26,
+      "end": 50.54,
+      "word": "senza"
+    },
+    {
+      "start": 50.54,
+      "end": 50.98,
+      "word": "glutine"
+    },
+    {
+      "start": 50.98,
+      "end": 51.12,
+      "word": "che"
+    },
+    {
+      "start": 51.12,
+      "end": 51.32,
+      "word": "abbiamo"
+    },
+    {
+      "start": 51.32,
+      "end": 51.54,
+      "word": "mai"
+    },
+    {
+      "start": 51.54,
+      "end": 51.92,
+      "word": "provato"
+    },
+    {
+      "start": 51.92,
+      "end": 52.06,
+      "word": "o"
+    },
+    {
+      "start": 52.06,
+      "end": 52.18,
+      "word": "poi"
+    },
+    {
+      "start": 52.18,
+      "end": 52.42,
+      "word": "voluto"
+    },
+    {
+      "start": 52.42,
+      "end": 52.6,
+      "word": "anche"
+    },
+    {
+      "start": 52.6,
+      "end": 52.94,
+      "word": "provare"
+    },
+    {
+      "start": 52.94,
+      "end": 53.08,
+      "word": "la"
+    },
+    {
+      "start": 53.08,
+      "end": 53.2,
+      "word": "sua"
+    },
+    {
+      "start": 53.2,
+      "end": 53.8,
+      "word": "controparte"
+    },
+    {
+      "start": 53.8,
+      "end": 54.3,
+      "word": "normale"
+    },
+    {
+      "start": 54.3,
+      "end": 54.44,
+      "word": "per"
+    },
+    {
+      "start": 54.44,
+      "end": 54.72,
+      "word": "capire"
+    },
+    {
+      "start": 54.72,
+      "end": 54.8,
+      "word": "un"
+    },
+    {
+      "start": 54.8,
+      "end": 54.86,
+      "word": "po"
+    },
+    {
+      "start": 54.86,
+      "end": 54.94,
+      "word": "la"
+    },
+    {
+      "start": 54.94,
+      "end": 55.52,
+      "word": "differenza"
+    },
+    {
+      "start": 55.52,
+      "end": 55.62,
+      "word": "e"
+    },
+    {
+      "start": 55.62,
+      "end": 55.76,
+      "word": "devo"
+    },
+    {
+      "start": 55.76,
+      "end": 55.94,
+      "word": "dire"
+    },
+    {
+      "start": 55.94,
+      "end": 56.12,
+      "word": "che"
+    },
+    {
+      "start": 56.12,
+      "end": 56.28,
+      "word": "sì"
+    },
+    {
+      "start": 56.28,
+      "end": 56.62,
+      "word": "ovviamente"
+    },
+    {
+      "start": 56.62,
+      "end": 56.92,
+      "word": "molto"
+    },
+    {
+      "start": 56.92,
+      "end": 57.3,
+      "word": "buona"
+    },
+    {
+      "start": 57.3,
+      "end": 57.44,
+      "word": "anche"
+    },
+    {
+      "start": 57.44,
+      "end": 57.6,
+      "word": "quella"
+    },
+    {
+      "start": 57.6,
+      "end": 58.06,
+      "word": "normale"
+    },
+    {
+      "start": 58.06,
+      "end": 58.26,
+      "word": "ma"
+    },
+    {
+      "start": 58.26,
+      "end": 58.42,
+      "word": "quelle"
+    },
+    {
+      "start": 58.42,
+      "end": 58.58,
+      "word": "senza"
+    },
+    {
+      "start": 58.58,
+      "end": 59.08,
+      "word": "glutine"
+    },
+    {
+      "start": 59.08,
+      "end": 59.3,
+      "word": "non"
+    },
+    {
+      "start": 59.3,
+      "end": 59.42,
+      "word": "ha"
+    },
+    {
+      "start": 59.42,
+      "end": 59.82,
+      "word": "niente"
+    },
+    {
+      "start": 59.82,
+      "end": 60.02,
+      "word": "da"
+    },
+    {
+      "start": 60.02,
+      "end": 60.48,
+      "word": "invidiare"
+    },
+    {
+      "start": 60.48,
+      "end": 60.84,
+      "word": "Pizzeria"
+    },
+    {
+      "start": 60.84,
+      "end": 61.28,
+      "word": "positano"
+    },
+    {
+      "start": 61.28,
+      "end": 61.44,
+      "word": "me"
+    },
+    {
+      "start": 61.44,
+      "end": 61.5,
+      "word": "l"
+    },
+    {
+      "start": 61.5,
+      "end": 61.68,
+      "word": "'avete"
+    },
+    {
+      "start": 61.68,
+      "end": 62.12,
+      "word": "considerate"
+    },
+    {
+      "start": 62.12,
+      "end": 62.2,
+      "word": "in"
+    },
+    {
+      "start": 62.2,
+      "end": 62.6,
+      "word": "tanti"
+    },
+    {
+      "start": 62.6,
+      "end": 62.78,
+      "word": "e"
+    },
+    {
+      "start": 62.78,
+      "end": 62.9,
+      "word": "io"
+    },
+    {
+      "start": 62.9,
+      "end": 62.92,
+      "word": "l"
+    },
+    {
+      "start": 62.92,
+      "end": 62.96,
+      "word": "'ho"
+    },
+    {
+      "start": 62.96,
+      "end": 63.26,
+      "word": "capito"
+    },
+    {
+      "start": 63.26,
+      "end": 63.32,
+      "word": "il"
+    },
+    {
+      "start": 63.32,
+      "end": 63.56,
+      "word": "perché"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 3.067,
+      "dur": 3.067,
+      "transcript": "Pizza fritta, gluten fria, Milano? Oggi ragazzi proviamo un 'altra pizzeria"
+    },
+    {
+      "shot_idx": 1,
+      "start": 3.067,
+      "end": 6.067,
+      "dur": 3.0,
+      "transcript": "che ha opzioni senza glutine e vedremo se sarà finalmente lei la"
+    },
+    {
+      "shot_idx": 2,
+      "start": 6.067,
+      "end": 8.067,
+      "dur": 2.0,
+      "transcript": "migliore Ci troviamo dalla pizzeria a positano e"
+    },
+    {
+      "shot_idx": 3,
+      "start": 8.067,
+      "end": 9.633,
+      "dur": 1.567,
+      "transcript": "avendo anche diverse antipassi senza"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.633,
+      "end": 12.4,
+      "dur": 2.767,
+      "transcript": "glutine noi abbiamo iniziato da questo crocchè di patate Molto"
+    },
+    {
+      "shot_idx": 5,
+      "start": 12.4,
+      "end": 16.0,
+      "dur": 3.6,
+      "transcript": "sfizioso con un ottimo impanatura e dopo di che avendo visto che sul menu c 'era anche l"
+    },
+    {
+      "shot_idx": 6,
+      "start": 16.0,
+      "end": 22.667,
+      "dur": 6.667,
+      "transcript": "'opzione della pizza fritta abbiamo assolutamente voluto provarla, bella carica sia di pomodoro sopra che di ripieno dentro Con ricotta mozzarella"
+    },
+    {
+      "shot_idx": 7,
+      "start": 22.667,
+      "end": 27.767,
+      "dur": 5.1,
+      "transcript": "e salame, trittura ovviamente perfetta con tra l 'altro anche la mozzarella che filava alla grande Ed è"
+    },
+    {
+      "shot_idx": 8,
+      "start": 27.767,
+      "end": 29.567,
+      "dur": 1.8,
+      "transcript": "un impasto molto buono è anche"
+    },
+    {
+      "shot_idx": 9,
+      "start": 29.567,
+      "end": 32.4,
+      "dur": 2.833,
+      "transcript": "vero che questa era la mia prima pizza fritta senza glutine ma mi ha stupito"
+    },
+    {
+      "shot_idx": 10,
+      "start": 32.4,
+      "end": 35.433,
+      "dur": 3.033,
+      "transcript": "tantissimo perché l 'impasto essendo anche fritto si sentiva ancora"
+    },
+    {
+      "shot_idx": 11,
+      "start": 35.433,
+      "end": 41.667,
+      "dur": 6.233,
+      "transcript": "meno la differenza dopo di che però abbiamo voluto provare la pizza normale senza glutine ma col corricione ripiene ed è per questo che è un filo più"
+    },
+    {
+      "shot_idx": 12,
+      "start": 41.667,
+      "end": 47.467,
+      "dur": 5.8,
+      "transcript": "piccolo ma guardate che bella anche qua sull 'impasto Niente niente da dire salato al giusto per niente gommoso"
+    },
+    {
+      "shot_idx": 13,
+      "start": 47.467,
+      "end": 50.467,
+      "dur": 3.0,
+      "transcript": "e cotto la perfezione Quindi davvero uno di migliori impasti senza"
+    },
+    {
+      "shot_idx": 14,
+      "start": 50.467,
+      "end": 54.867,
+      "dur": 4.4,
+      "transcript": "glutine che abbiamo mai provato o poi voluto anche provare la sua controparte normale per capire un po"
+    },
+    {
+      "shot_idx": 15,
+      "start": 54.867,
+      "end": 57.433,
+      "dur": 2.567,
+      "transcript": "la differenza e devo dire che sì ovviamente molto buona anche"
+    },
+    {
+      "shot_idx": 16,
+      "start": 57.433,
+      "end": 60.733,
+      "dur": 3.3,
+      "transcript": "quella normale ma quelle senza glutine non ha niente da invidiare Pizzeria"
+    },
+    {
+      "shot_idx": 17,
+      "start": 60.733,
+      "end": 63.867,
+      "dur": 3.133,
+      "transcript": "positano me l 'avete considerate in tanti e io l 'ho capito il perché"
+    }
+  ],
+  "full_text": "Pizza fritta, gluten fria, Milano? Oggi ragazzi proviamo un'altra pizzeria che ha opzioni senza glutine e vedremo se sarà finalmente lei la migliore Ci troviamo dalla pizzeria a positano e avendo anche diverse antipassi senza glutine noi abbiamo iniziato da questo crocchè di patate Molto sfizioso con un ottimo impanatura e dopo di che avendo visto che sul menu c'era anche l'opzione della pizza fritta abbiamo assolutamente voluto provarla, bella carica sia di pomodoro sopra che di ripieno dentro Con ricotta mozzarella e salame, trittura ovviamente perfetta con tra l'altro anche la mozzarella che filava alla grande Ed è un impasto molto buono è anche vero che questa era la mia prima pizza fritta senza glutine ma mi ha stupito tantissimo perché l'impasto essendo anche fritto si sentiva ancora meno la differenza dopo di che però abbiamo voluto provare la pizza normale senza glutine ma col corricione ripiene ed è per questo che è un filo più piccolo ma guardate che bella anche qua sull'impasto Niente niente da dire salato al giusto per niente gommoso e cotto la perfezione Quindi davvero uno di migliori impasti senza glutine che abbiamo mai provato o poi voluto anche provare la sua controparte normale per capire un po la differenza e devo dire che sì ovviamente molto buona anche quella normale ma quelle senza glutine non ha niente da invidiare Pizzeria positano me l'avete considerate in tanti e io l'ho capito il perché",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

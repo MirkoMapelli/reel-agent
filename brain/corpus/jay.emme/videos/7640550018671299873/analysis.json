@@ -1,0 +1,2463 @@
+{
+  "video_id": "7640550018671299873",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7640550018671299873",
+    "ref_id": "ref_19_7640550018671299873",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7640550018671299873",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 30,
+  "total_dur": 101.47,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.433,
+      "dur": 1.433,
+      "center": 0.717,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo gesticola mentre parla, con un testo sovrapposto che indica 'IL MIO SCORPIONE È SCAPPATO'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Ho perso il mio scorpione,"
+    },
+    {
+      "idx": 1,
+      "start": 1.433,
+      "end": 4.233,
+      "dur": 2.8,
+      "center": 2.833,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il ragazzo ha la mano alzata come per fermare o indicare qualcosa, con lo stesso testo sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "mi sono appena svegliato e il mio scorpione è scappato."
+    },
+    {
+      "idx": 2,
+      "start": 4.233,
+      "end": 7.167,
+      "dur": 2.933,
+      "center": 5.7,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Il video è in bianco e nero, il ragazzo guarda verso la telecamera con l'espressione seria e la parola 'SCORPIONE' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Qui ho dormito tutta notte con uno scorpione in giro per la camera."
+    },
+    {
+      "idx": 3,
+      "start": 7.167,
+      "end": 8.367,
+      "dur": 1.2,
+      "center": 7.767,
+      "role": "person_talking",
+      "subject": "ragazzo pensieroso",
+      "description": "Il ragazzo si tocca la fronte con un'espressione preoccupata, con la parola 'CAVOLO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Dove cavolo sarà?"
+    },
+    {
+      "idx": 4,
+      "start": 8.367,
+      "end": 11.767,
+      "dur": 3.4,
+      "center": 10.067,
+      "role": "other",
+      "subject": "teca vuota",
+      "description": "Una teca trasparente con terriccio e rami, apparentemente vuota, con la parola 'LASCIATO' in sovrimpressione.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "In pratica per l 'umidità avevo lasciato la teca aperta."
+    },
+    {
+      "idx": 5,
+      "start": 11.767,
+      "end": 14.467,
+      "dur": 2.7,
+      "center": 13.117,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una maglietta bianca e un taglio di capelli moderno guarda verso destra, con la parola 'DORMIRE' sovrapposta all'immagine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ve sbaglio, sono andato a dormire con la teca in questo modo."
+    },
+    {
+      "idx": 6,
+      "start": 14.467,
+      "end": 15.0,
+      "dur": 0.533,
+      "center": 14.733,
+      "role": "other",
+      "subject": "letto sfatto",
+      "description": "Un letto sfatto con coperte rosse e gialle, con alcuni oggetti sopra, in una stanza con poster alle pareti.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ho smontato"
+    },
+    {
+      "idx": 7,
+      "start": 15.0,
+      "end": 15.833,
+      "dur": 0.833,
+      "center": 15.417,
+      "role": "venue_interior_wide",
+      "subject": "stanza disordinata",
+      "description": "Una stanza con un letto sfatto, una scrivania con una sedia e un tappeto blu con un logo sul pavimento, con la parola 'TUTTA' sovrapposta.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "tutta"
+    },
+    {
+      "idx": 8,
+      "start": 15.833,
+      "end": 16.8,
+      "dur": 0.967,
+      "center": 16.317,
+      "role": "other",
+      "subject": "scaffale disordinato",
+      "description": "Un'immagine sfocata di uno scaffale pieno di oggetti vari, con una mano in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "camera, non"
+    },
+    {
+      "idx": 9,
+      "start": 16.8,
+      "end": 18.067,
+      "dur": 1.267,
+      "center": 17.433,
+      "role": "person_talking",
+      "subject": "ragazzo che gesticola",
+      "description": "Un ragazzo con una maglietta bianca gesticola con la mano destra, con la parola 'TROVATO' sovrapposta all'immagine.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "l 'ho trovato."
+    },
+    {
+      "idx": 10,
+      "start": 18.067,
+      "end": 20.767,
+      "dur": 2.7,
+      "center": 19.417,
+      "role": "other",
+      "subject": "scaffale e comodino",
+      "description": "Un ambiente interno disordinato con mobili in legno chiaro.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Manca solo lui, non c 'è ultima speranza, perché"
+    },
+    {
+      "idx": 11,
+      "start": 20.767,
+      "end": 24.433,
+      "dur": 3.667,
+      "center": 22.6,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una maglietta bianca che indica qualcosa fuori campo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "altrimenti vuol dire che non è in giro per camera mia, ma in giro per casa."
+    },
+    {
+      "idx": 12,
+      "start": 24.433,
+      "end": 26.4,
+      "dur": 1.967,
+      "center": 25.417,
+      "role": "other",
+      "subject": "sotto il comodino",
+      "description": "La parte inferiore di un mobile in legno chiaro con rotelle.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "È"
+    },
+    {
+      "idx": 13,
+      "start": 26.4,
+      "end": 31.2,
+      "dur": 4.8,
+      "center": 28.8,
+      "role": "other",
+      "subject": "scorpione finto",
+      "description": "Un oggetto nero a forma di scorpione attaccato sotto un mobile.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "incredibile ma vero ma sono riuscito a trovarti, mannaggia a te scotti, guarda dove stai."
+    },
+    {
+      "idx": 14,
+      "start": 31.2,
+      "end": 33.233,
+      "dur": 2.033,
+      "center": 32.217,
+      "role": "other",
+      "subject": "scorpione sul pavimento",
+      "description": "Uno scorpione nero, probabilmente un giocattolo, sul pavimento di legno.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Ma pensa a te. Ovviamente è scappato"
+    },
+    {
+      "idx": 15,
+      "start": 33.233,
+      "end": 36.867,
+      "dur": 3.633,
+      "center": 35.05,
+      "role": "other",
+      "subject": "ragazzo appoggiato muro",
+      "description": "Un ragazzo con una lattina in mano è appoggiato con la testa al muro, con la scritta 'SCOTTY' in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "ed è corso sotto all 'armadio. No scotti, dove stai andando?"
+    },
+    {
+      "idx": 16,
+      "start": 36.867,
+      "end": 41.567,
+      "dur": 4.7,
+      "center": 39.217,
+      "role": "other",
+      "subject": "spazio stretto muro",
+      "description": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con un'ombra scura in fondo.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Ciao ragazzi. Per"
+    },
+    {
+      "idx": 17,
+      "start": 41.567,
+      "end": 43.367,
+      "dur": 1.8,
+      "center": 42.467,
+      "role": "other",
+      "subject": "pavimento e muro",
+      "description": "Una prospettiva dall'alto mostra un pavimento in parquet e un muro, con la scritta 'RIUSCITO' in primo piano.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "fortuna sono riuscito a spostarlo."
+    },
+    {
+      "idx": 18,
+      "start": 43.367,
+      "end": 50.1,
+      "dur": 6.733,
+      "center": 46.733,
+      "role": "other",
+      "subject": "spazio stretto muro",
+      "description": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con un oggetto scuro in fondo e la scritta 'DAI'.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Muoviti, vieni. Dai, vieni qua. Scotti."
+    },
+    {
+      "idx": 19,
+      "start": 50.1,
+      "end": 53.1,
+      "dur": 3.0,
+      "center": 51.6,
+      "role": "other",
+      "subject": "spazio stretto muro",
+      "description": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con la scritta 'EH' in primo piano.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Sei tornato eh? Bastardo."
+    },
+    {
+      "idx": 20,
+      "start": 53.1,
+      "end": 55.367,
+      "dur": 2.267,
+      "center": 54.233,
+      "role": "other",
+      "subject": "scorpione nero pavimento",
+      "description": "Uno scorpione nero è visibile sul pavimento in parquet, vicino al battiscopa.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Vieni, vieni, vieni. Ti"
+    },
+    {
+      "idx": 21,
+      "start": 55.367,
+      "end": 61.7,
+      "dur": 6.333,
+      "center": 58.533,
+      "role": "other",
+      "subject": "scorpione nero pavimento",
+      "description": "Lo scorpione nero è ancora sul pavimento in parquet, leggermente più vicino al centro dell'inquadratura.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "lascio la pazzo, bravo. Vieni. Vieni, vieni fuori. Devi stare andando bene."
+    },
+    {
+      "idx": 22,
+      "start": 61.7,
+      "end": 65.933,
+      "dur": 4.233,
+      "center": 63.817,
+      "role": "other",
+      "subject": "scorpione nero pavimento",
+      "description": "Un primo piano dello scorpione nero sul pavimento in parquet, con le sue chele ben visibili.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "Scotti, fai bravo e ora devi entrare qua dentro."
+    },
+    {
+      "idx": 23,
+      "start": 65.933,
+      "end": 79.667,
+      "dur": 13.733,
+      "center": 72.8,
+      "role": "hands_gesture",
+      "subject": "mano raccoglie terra",
+      "description": "Una mano con un tatuaggio sul braccio sta usando una paletta per raccogliere della terra dal pavimento.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "No, non è qui. Non merda. No. Scotti, qua devi venire. No, quel mi trafono. No, hai dentro scotti. Scotti, scotti qua. No."
+    },
+    {
+      "idx": 24,
+      "start": 79.667,
+      "end": 84.3,
+      "dur": 4.633,
+      "center": 81.983,
+      "role": "person_talking",
+      "subject": "ragazzo raccoglie terra",
+      "description": "Un ragazzo è chinato sul pavimento, intento a raccogliere della terra con una paletta e un contenitore.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    },
+    {
+      "idx": 25,
+      "start": 84.3,
+      "end": 90.667,
+      "dur": 6.367,
+      "center": 87.483,
+      "role": "other",
+      "subject": "scorpione in contenitore",
+      "description": "Uno scorpione nero è visibile attraverso il coperchio trasparente di un contenitore di plastica.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Ok, ho fatto un meccasino. Scotti è andato. Managgia a te, managgia."
+    },
+    {
+      "idx": 26,
+      "start": 90.667,
+      "end": 94.233,
+      "dur": 3.567,
+      "center": 92.45,
+      "role": "other",
+      "subject": "scorpione nero substrato",
+      "description": "Uno scorpione nero è ripreso da vicino su un substrato terroso all'interno di un contenitore trasparente.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Ho recuperato il mio scorpione dopo aver dormito tutta la notte con lui in giro."
+    },
+    {
+      "idx": 27,
+      "start": 94.233,
+      "end": 95.733,
+      "dur": 1.5,
+      "center": 94.983,
+      "role": "other",
+      "subject": "contenitore scorpione pavimento",
+      "description": "Un contenitore trasparente con uno scorpione è posizionato sul pavimento di legno, con un tappeto nero e blu visibile in basso.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Torniamo a casa."
+    },
+    {
+      "idx": 28,
+      "start": 95.733,
+      "end": 97.1,
+      "dur": 1.367,
+      "center": 96.417,
+      "role": "person_talking",
+      "subject": "ragazzo travasa scorpione",
+      "description": "Un ragazzo con un tatuaggio di ragno sul braccio sta travasando qualcosa in un contenitore per animali.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": ""
+    },
+    {
+      "idx": 29,
+      "start": 97.1,
+      "end": 101.467,
+      "dur": 4.367,
+      "center": 99.283,
+      "role": "other",
+      "subject": "scorpione nero terrario",
+      "description": "Uno scorpione nero è visibile in un terrario con substrato terroso e piante verdi, con una roccia cava in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Managgia a te, managgia."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo gesticola mentre parla, con un testo sovrapposto che indica 'IL MIO SCORPIONE È SCAPPATO'.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.433,
+      "dur": 1.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo ha la mano alzata come per fermare o indicare qualcosa, con lo stesso testo sovrapposto.",
+      "shot_idx": 1,
+      "start": 1.433,
+      "end": 4.233,
+      "dur": 2.8
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il video è in bianco e nero, il ragazzo guarda verso la telecamera con l'espressione seria e la parola 'SCORPIONE' in sovrimpressione.",
+      "shot_idx": 2,
+      "start": 4.233,
+      "end": 7.167,
+      "dur": 2.933
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo pensieroso",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo si tocca la fronte con un'espressione preoccupata, con la parola 'CAVOLO' in sovrimpressione.",
+      "shot_idx": 3,
+      "start": 7.167,
+      "end": 8.367,
+      "dur": 1.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "teca vuota",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una teca trasparente con terriccio e rami, apparentemente vuota, con la parola 'LASCIATO' in sovrimpressione.",
+      "shot_idx": 4,
+      "start": 8.367,
+      "end": 11.767,
+      "dur": 3.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca e un taglio di capelli moderno guarda verso destra, con la parola 'DORMIRE' sovrapposta all'immagine.",
+      "shot_idx": 5,
+      "start": 11.767,
+      "end": 14.467,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "letto sfatto",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un letto sfatto con coperte rosse e gialle, con alcuni oggetti sopra, in una stanza con poster alle pareti.",
+      "shot_idx": 6,
+      "start": 14.467,
+      "end": 15.0,
+      "dur": 0.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "stanza disordinata",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una stanza con un letto sfatto, una scrivania con una sedia e un tappeto blu con un logo sul pavimento, con la parola 'TUTTA' sovrapposta.",
+      "shot_idx": 7,
+      "start": 15.0,
+      "end": 15.833,
+      "dur": 0.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "scaffale disordinato",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'immagine sfocata di uno scaffale pieno di oggetti vari, con una mano in primo piano.",
+      "shot_idx": 8,
+      "start": 15.833,
+      "end": 16.8,
+      "dur": 0.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che gesticola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca gesticola con la mano destra, con la parola 'TROVATO' sovrapposta all'immagine.",
+      "shot_idx": 9,
+      "start": 16.8,
+      "end": 18.067,
+      "dur": 1.267
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "scaffale e comodino",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ambiente interno disordinato con mobili in legno chiaro.",
+      "shot_idx": 10,
+      "start": 18.067,
+      "end": 20.767,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che parla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con una maglietta bianca che indica qualcosa fuori campo.",
+      "shot_idx": 11,
+      "start": 20.767,
+      "end": 24.433,
+      "dur": 3.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "sotto il comodino",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La parte inferiore di un mobile in legno chiaro con rotelle.",
+      "shot_idx": 12,
+      "start": 24.433,
+      "end": 26.4,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "scorpione finto",
+      "composizione": "close_up",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un oggetto nero a forma di scorpione attaccato sotto un mobile.",
+      "shot_idx": 13,
+      "start": 26.4,
+      "end": 31.2,
+      "dur": 4.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "scorpione sul pavimento",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno scorpione nero, probabilmente un giocattolo, sul pavimento di legno.",
+      "shot_idx": 14,
+      "start": 31.2,
+      "end": 33.233,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo appoggiato muro",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo con una lattina in mano è appoggiato con la testa al muro, con la scritta 'SCOTTY' in primo piano.",
+      "shot_idx": 15,
+      "start": 33.233,
+      "end": 36.867,
+      "dur": 3.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "spazio stretto muro",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con un'ombra scura in fondo.",
+      "shot_idx": 16,
+      "start": 36.867,
+      "end": 41.567,
+      "dur": 4.7
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "pavimento e muro",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una prospettiva dall'alto mostra un pavimento in parquet e un muro, con la scritta 'RIUSCITO' in primo piano.",
+      "shot_idx": 17,
+      "start": 41.567,
+      "end": 43.367,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "spazio stretto muro",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con un oggetto scuro in fondo e la scritta 'DAI'.",
+      "shot_idx": 18,
+      "start": 43.367,
+      "end": 50.1,
+      "dur": 6.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "spazio stretto muro",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Si vede uno spazio stretto tra un mobile di legno e un muro bianco, con la scritta 'EH' in primo piano.",
+      "shot_idx": 19,
+      "start": 50.1,
+      "end": 53.1,
+      "dur": 3.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "scorpione nero pavimento",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Uno scorpione nero è visibile sul pavimento in parquet, vicino al battiscopa.",
+      "shot_idx": 20,
+      "start": 53.1,
+      "end": 55.367,
+      "dur": 2.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "scorpione nero pavimento",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Lo scorpione nero è ancora sul pavimento in parquet, leggermente più vicino al centro dell'inquadratura.",
+      "shot_idx": 21,
+      "start": 55.367,
+      "end": 61.7,
+      "dur": 6.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "scorpione nero pavimento",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un primo piano dello scorpione nero sul pavimento in parquet, con le sue chele ben visibili.",
+      "shot_idx": 22,
+      "start": 61.7,
+      "end": 65.933,
+      "dur": 4.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano raccoglie terra",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano con un tatuaggio sul braccio sta usando una paletta per raccogliere della terra dal pavimento.",
+      "shot_idx": 23,
+      "start": 65.933,
+      "end": 79.667,
+      "dur": 13.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo raccoglie terra",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo è chinato sul pavimento, intento a raccogliere della terra con una paletta e un contenitore.",
+      "shot_idx": 24,
+      "start": 79.667,
+      "end": 84.3,
+      "dur": 4.633
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "scorpione in contenitore",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Uno scorpione nero è visibile attraverso il coperchio trasparente di un contenitore di plastica.",
+      "shot_idx": 25,
+      "start": 84.3,
+      "end": 90.667,
+      "dur": 6.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "scorpione nero substrato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Uno scorpione nero è ripreso da vicino su un substrato terroso all'interno di un contenitore trasparente.",
+      "shot_idx": 26,
+      "start": 90.667,
+      "end": 94.233,
+      "dur": 3.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "contenitore scorpione pavimento",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un contenitore trasparente con uno scorpione è posizionato sul pavimento di legno, con un tappeto nero e blu visibile in basso.",
+      "shot_idx": 27,
+      "start": 94.233,
+      "end": 95.733,
+      "dur": 1.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo travasa scorpione",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo con un tatuaggio di ragno sul braccio sta travasando qualcosa in un contenitore per animali.",
+      "shot_idx": 28,
+      "start": 95.733,
+      "end": 97.1,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "scorpione nero terrario",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Uno scorpione nero è visibile in un terrario con substrato terroso e piante verdi, con una roccia cava in primo piano.",
+      "shot_idx": 29,
+      "start": 97.1,
+      "end": 101.467,
+      "dur": 4.367
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Ho perso il mio scorpione, mi sono appena svegliato e il mio scorpione è scappato."
+    },
+    {
+      "start": 4.2,
+      "end": 6.92,
+      "text": "Qui ho dormito tutta notte con uno scorpione in giro per la camera."
+    },
+    {
+      "start": 7.14,
+      "end": 8.04,
+      "text": "Dove cavolo sarà?"
+    },
+    {
+      "start": 8.32,
+      "end": 11.62,
+      "text": "In pratica per l'umidità avevo lasciato la teca aperta."
+    },
+    {
+      "start": 11.86,
+      "end": 14.28,
+      "text": "Ve sbaglio, sono andato a dormire con la teca in questo modo."
+    },
+    {
+      "start": 14.56,
+      "end": 17.66,
+      "text": "Ho smontato tutta camera, non l'ho trovato."
+    },
+    {
+      "start": 18.16,
+      "end": 20.36,
+      "text": "Manca solo lui, non c'è ultima speranza,"
+    },
+    {
+      "start": 20.64,
+      "end": 24.24,
+      "text": "perché altrimenti vuol dire che non è in giro per camera mia, ma in giro per casa."
+    },
+    {
+      "start": 25.9,
+      "end": 30.76,
+      "text": "È incredibile ma vero ma sono riuscito a trovarti, mannaggia a te scotti, guarda dove stai."
+    },
+    {
+      "start": 31.24,
+      "end": 31.98,
+      "text": "Ma pensa a te."
+    },
+    {
+      "start": 32.32,
+      "end": 34.48,
+      "text": "Ovviamente è scappato ed è corso sotto all'armadio."
+    },
+    {
+      "start": 34.58,
+      "end": 36.6,
+      "text": "No scotti, dove stai andando?"
+    },
+    {
+      "start": 36.96,
+      "end": 37.66,
+      "text": "Ciao ragazzi."
+    },
+    {
+      "start": 41.08,
+      "end": 43.18,
+      "text": "Per fortuna sono riuscito a spostarlo."
+    },
+    {
+      "start": 43.46,
+      "end": 44.72,
+      "text": "Muoviti, vieni."
+    },
+    {
+      "start": 46.04,
+      "end": 47.36,
+      "text": "Dai, vieni qua."
+    },
+    {
+      "start": 48.1,
+      "end": 48.72,
+      "text": "Scotti."
+    },
+    {
+      "start": 50.24,
+      "end": 51.64,
+      "text": "Sei tornato eh?"
+    },
+    {
+      "start": 52.32,
+      "end": 52.94,
+      "text": "Bastardo."
+    },
+    {
+      "start": 52.94,
+      "end": 54.74,
+      "text": "Vieni, vieni, vieni."
+    },
+    {
+      "start": 55.22,
+      "end": 56.96,
+      "text": "Ti lascio la pazzo, bravo."
+    },
+    {
+      "start": 57.54,
+      "end": 57.68,
+      "text": "Vieni."
+    },
+    {
+      "start": 58.84,
+      "end": 60.48,
+      "text": "Vieni, vieni fuori."
+    },
+    {
+      "start": 60.68,
+      "end": 61.44,
+      "text": "Devi stare andando bene."
+    },
+    {
+      "start": 62.06,
+      "end": 65.58,
+      "text": "Scotti, fai bravo e ora devi entrare qua dentro."
+    },
+    {
+      "start": 67.08,
+      "end": 68.6,
+      "text": "No, non è qui."
+    },
+    {
+      "start": 69.2,
+      "end": 69.74,
+      "text": "Non merda."
+    },
+    {
+      "start": 70.28,
+      "end": 70.32,
+      "text": "No."
+    },
+    {
+      "start": 71.52,
+      "end": 73.1,
+      "text": "Scotti, qua devi venire."
+    },
+    {
+      "start": 73.82,
+      "end": 75.06,
+      "text": "No, quel mi trafono."
+    },
+    {
+      "start": 75.34,
+      "end": 76.46,
+      "text": "No, hai dentro scotti."
+    },
+    {
+      "start": 76.72,
+      "end": 78.48,
+      "text": "Scotti, scotti qua."
+    },
+    {
+      "start": 78.48,
+      "end": 78.74,
+      "text": "No."
+    },
+    {
+      "start": 84.26,
+      "end": 85.9,
+      "text": "Ok, ho fatto un meccasino."
+    },
+    {
+      "start": 86.54,
+      "end": 87.94,
+      "text": "Scotti è andato."
+    },
+    {
+      "start": 89.08,
+      "end": 90.4,
+      "text": "Managgia a te, managgia."
+    },
+    {
+      "start": 90.72,
+      "end": 94.08,
+      "text": "Ho recuperato il mio scorpione dopo aver dormito tutta la notte con lui in giro."
+    },
+    {
+      "start": 94.28,
+      "end": 95.04,
+      "text": "Torniamo a casa."
+    },
+    {
+      "start": 99.16,
+      "end": 100.48,
+      "text": "Managgia a te, managgia."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": "Ho"
+    },
+    {
+      "start": 0.2,
+      "end": 0.54,
+      "word": "perso"
+    },
+    {
+      "start": 0.54,
+      "end": 0.64,
+      "word": "il"
+    },
+    {
+      "start": 0.64,
+      "end": 0.7,
+      "word": "mio"
+    },
+    {
+      "start": 0.7,
+      "end": 1.18,
+      "word": "scorpione,"
+    },
+    {
+      "start": 1.5,
+      "end": 1.58,
+      "word": "mi"
+    },
+    {
+      "start": 1.58,
+      "end": 1.76,
+      "word": "sono"
+    },
+    {
+      "start": 1.76,
+      "end": 1.94,
+      "word": "appena"
+    },
+    {
+      "start": 1.94,
+      "end": 2.48,
+      "word": "svegliato"
+    },
+    {
+      "start": 2.48,
+      "end": 2.64,
+      "word": "e"
+    },
+    {
+      "start": 2.64,
+      "end": 2.72,
+      "word": "il"
+    },
+    {
+      "start": 2.72,
+      "end": 2.8,
+      "word": "mio"
+    },
+    {
+      "start": 2.8,
+      "end": 3.32,
+      "word": "scorpione"
+    },
+    {
+      "start": 3.32,
+      "end": 3.58,
+      "word": "è"
+    },
+    {
+      "start": 3.58,
+      "end": 4.04,
+      "word": "scappato."
+    },
+    {
+      "start": 4.2,
+      "end": 4.32,
+      "word": "Qui"
+    },
+    {
+      "start": 4.32,
+      "end": 4.44,
+      "word": "ho"
+    },
+    {
+      "start": 4.44,
+      "end": 4.66,
+      "word": "dormito"
+    },
+    {
+      "start": 4.66,
+      "end": 5.02,
+      "word": "tutta"
+    },
+    {
+      "start": 5.02,
+      "end": 5.3,
+      "word": "notte"
+    },
+    {
+      "start": 5.3,
+      "end": 5.42,
+      "word": "con"
+    },
+    {
+      "start": 5.42,
+      "end": 5.56,
+      "word": "uno"
+    },
+    {
+      "start": 5.56,
+      "end": 5.98,
+      "word": "scorpione"
+    },
+    {
+      "start": 5.98,
+      "end": 6.16,
+      "word": "in"
+    },
+    {
+      "start": 6.16,
+      "end": 6.32,
+      "word": "giro"
+    },
+    {
+      "start": 6.32,
+      "end": 6.48,
+      "word": "per"
+    },
+    {
+      "start": 6.48,
+      "end": 6.62,
+      "word": "la"
+    },
+    {
+      "start": 6.62,
+      "end": 6.92,
+      "word": "camera."
+    },
+    {
+      "start": 7.14,
+      "end": 7.38,
+      "word": "Dove"
+    },
+    {
+      "start": 7.38,
+      "end": 7.76,
+      "word": "cavolo"
+    },
+    {
+      "start": 7.76,
+      "end": 8.04,
+      "word": "sarà?"
+    },
+    {
+      "start": 8.32,
+      "end": 8.44,
+      "word": "In"
+    },
+    {
+      "start": 8.44,
+      "end": 8.82,
+      "word": "pratica"
+    },
+    {
+      "start": 8.82,
+      "end": 9.26,
+      "word": "per"
+    },
+    {
+      "start": 9.26,
+      "end": 9.4,
+      "word": "l"
+    },
+    {
+      "start": 9.4,
+      "end": 9.74,
+      "word": "'umidità"
+    },
+    {
+      "start": 9.74,
+      "end": 9.94,
+      "word": "avevo"
+    },
+    {
+      "start": 9.94,
+      "end": 10.32,
+      "word": "lasciato"
+    },
+    {
+      "start": 10.32,
+      "end": 10.58,
+      "word": "la"
+    },
+    {
+      "start": 10.58,
+      "end": 10.82,
+      "word": "teca"
+    },
+    {
+      "start": 10.82,
+      "end": 11.62,
+      "word": "aperta."
+    },
+    {
+      "start": 11.86,
+      "end": 11.92,
+      "word": "Ve"
+    },
+    {
+      "start": 11.92,
+      "end": 12.3,
+      "word": "sbaglio,"
+    },
+    {
+      "start": 12.36,
+      "end": 12.52,
+      "word": "sono"
+    },
+    {
+      "start": 12.52,
+      "end": 12.76,
+      "word": "andato"
+    },
+    {
+      "start": 12.76,
+      "end": 12.88,
+      "word": "a"
+    },
+    {
+      "start": 12.88,
+      "end": 13.22,
+      "word": "dormire"
+    },
+    {
+      "start": 13.22,
+      "end": 13.44,
+      "word": "con"
+    },
+    {
+      "start": 13.44,
+      "end": 13.54,
+      "word": "la"
+    },
+    {
+      "start": 13.54,
+      "end": 13.7,
+      "word": "teca"
+    },
+    {
+      "start": 13.7,
+      "end": 13.82,
+      "word": "in"
+    },
+    {
+      "start": 13.82,
+      "end": 14.02,
+      "word": "questo"
+    },
+    {
+      "start": 14.02,
+      "end": 14.28,
+      "word": "modo."
+    },
+    {
+      "start": 14.56,
+      "end": 14.68,
+      "word": "Ho"
+    },
+    {
+      "start": 14.68,
+      "end": 15.18,
+      "word": "smontato"
+    },
+    {
+      "start": 15.18,
+      "end": 15.6,
+      "word": "tutta"
+    },
+    {
+      "start": 15.6,
+      "end": 16.08,
+      "word": "camera,"
+    },
+    {
+      "start": 16.48,
+      "end": 16.92,
+      "word": "non"
+    },
+    {
+      "start": 16.92,
+      "end": 17.12,
+      "word": "l"
+    },
+    {
+      "start": 17.12,
+      "end": 17.16,
+      "word": "'ho"
+    },
+    {
+      "start": 17.16,
+      "end": 17.66,
+      "word": "trovato."
+    },
+    {
+      "start": 18.16,
+      "end": 18.46,
+      "word": "Manca"
+    },
+    {
+      "start": 18.46,
+      "end": 18.68,
+      "word": "solo"
+    },
+    {
+      "start": 18.68,
+      "end": 19.0,
+      "word": "lui,"
+    },
+    {
+      "start": 19.26,
+      "end": 19.44,
+      "word": "non"
+    },
+    {
+      "start": 19.44,
+      "end": 19.52,
+      "word": "c"
+    },
+    {
+      "start": 19.52,
+      "end": 19.54,
+      "word": "'è"
+    },
+    {
+      "start": 19.54,
+      "end": 19.78,
+      "word": "ultima"
+    },
+    {
+      "start": 19.78,
+      "end": 20.36,
+      "word": "speranza,"
+    },
+    {
+      "start": 20.64,
+      "end": 20.84,
+      "word": "perché"
+    },
+    {
+      "start": 20.84,
+      "end": 21.34,
+      "word": "altrimenti"
+    },
+    {
+      "start": 21.34,
+      "end": 21.5,
+      "word": "vuol"
+    },
+    {
+      "start": 21.5,
+      "end": 21.66,
+      "word": "dire"
+    },
+    {
+      "start": 21.66,
+      "end": 21.86,
+      "word": "che"
+    },
+    {
+      "start": 21.86,
+      "end": 22.08,
+      "word": "non"
+    },
+    {
+      "start": 22.08,
+      "end": 22.2,
+      "word": "è"
+    },
+    {
+      "start": 22.2,
+      "end": 22.28,
+      "word": "in"
+    },
+    {
+      "start": 22.28,
+      "end": 22.44,
+      "word": "giro"
+    },
+    {
+      "start": 22.44,
+      "end": 22.58,
+      "word": "per"
+    },
+    {
+      "start": 22.58,
+      "end": 22.8,
+      "word": "camera"
+    },
+    {
+      "start": 22.8,
+      "end": 23.02,
+      "word": "mia,"
+    },
+    {
+      "start": 23.18,
+      "end": 23.42,
+      "word": "ma"
+    },
+    {
+      "start": 23.42,
+      "end": 23.58,
+      "word": "in"
+    },
+    {
+      "start": 23.58,
+      "end": 23.74,
+      "word": "giro"
+    },
+    {
+      "start": 23.74,
+      "end": 23.92,
+      "word": "per"
+    },
+    {
+      "start": 23.92,
+      "end": 24.24,
+      "word": "casa."
+    },
+    {
+      "start": 25.9,
+      "end": 26.52,
+      "word": "È"
+    },
+    {
+      "start": 26.52,
+      "end": 27.1,
+      "word": "incredibile"
+    },
+    {
+      "start": 27.1,
+      "end": 27.26,
+      "word": "ma"
+    },
+    {
+      "start": 27.26,
+      "end": 27.48,
+      "word": "vero"
+    },
+    {
+      "start": 27.48,
+      "end": 27.6,
+      "word": "ma"
+    },
+    {
+      "start": 27.6,
+      "end": 27.78,
+      "word": "sono"
+    },
+    {
+      "start": 27.78,
+      "end": 28.14,
+      "word": "riuscito"
+    },
+    {
+      "start": 28.14,
+      "end": 28.26,
+      "word": "a"
+    },
+    {
+      "start": 28.26,
+      "end": 28.74,
+      "word": "trovarti,"
+    },
+    {
+      "start": 28.8,
+      "end": 29.2,
+      "word": "mannaggia"
+    },
+    {
+      "start": 29.2,
+      "end": 29.32,
+      "word": "a"
+    },
+    {
+      "start": 29.32,
+      "end": 29.36,
+      "word": "te"
+    },
+    {
+      "start": 29.36,
+      "end": 29.74,
+      "word": "scotti,"
+    },
+    {
+      "start": 29.92,
+      "end": 30.16,
+      "word": "guarda"
+    },
+    {
+      "start": 30.16,
+      "end": 30.34,
+      "word": "dove"
+    },
+    {
+      "start": 30.34,
+      "end": 30.76,
+      "word": "stai."
+    },
+    {
+      "start": 31.24,
+      "end": 31.38,
+      "word": "Ma"
+    },
+    {
+      "start": 31.38,
+      "end": 31.68,
+      "word": "pensa"
+    },
+    {
+      "start": 31.68,
+      "end": 31.88,
+      "word": "a"
+    },
+    {
+      "start": 31.88,
+      "end": 31.98,
+      "word": "te."
+    },
+    {
+      "start": 32.32,
+      "end": 32.64,
+      "word": "Ovviamente"
+    },
+    {
+      "start": 32.64,
+      "end": 32.86,
+      "word": "è"
+    },
+    {
+      "start": 32.86,
+      "end": 33.18,
+      "word": "scappato"
+    },
+    {
+      "start": 33.18,
+      "end": 33.3,
+      "word": "ed"
+    },
+    {
+      "start": 33.3,
+      "end": 33.4,
+      "word": "è"
+    },
+    {
+      "start": 33.4,
+      "end": 33.64,
+      "word": "corso"
+    },
+    {
+      "start": 33.64,
+      "end": 33.84,
+      "word": "sotto"
+    },
+    {
+      "start": 33.84,
+      "end": 34.02,
+      "word": "all"
+    },
+    {
+      "start": 34.02,
+      "end": 34.48,
+      "word": "'armadio."
+    },
+    {
+      "start": 34.58,
+      "end": 34.76,
+      "word": "No"
+    },
+    {
+      "start": 34.76,
+      "end": 35.42,
+      "word": "scotti,"
+    },
+    {
+      "start": 35.58,
+      "end": 35.84,
+      "word": "dove"
+    },
+    {
+      "start": 35.84,
+      "end": 36.1,
+      "word": "stai"
+    },
+    {
+      "start": 36.1,
+      "end": 36.6,
+      "word": "andando?"
+    },
+    {
+      "start": 36.96,
+      "end": 37.2,
+      "word": "Ciao"
+    },
+    {
+      "start": 37.2,
+      "end": 37.66,
+      "word": "ragazzi."
+    },
+    {
+      "start": 41.08,
+      "end": 41.7,
+      "word": "Per"
+    },
+    {
+      "start": 41.7,
+      "end": 42.08,
+      "word": "fortuna"
+    },
+    {
+      "start": 42.08,
+      "end": 42.32,
+      "word": "sono"
+    },
+    {
+      "start": 42.32,
+      "end": 42.48,
+      "word": "riuscito"
+    },
+    {
+      "start": 42.48,
+      "end": 42.62,
+      "word": "a"
+    },
+    {
+      "start": 42.62,
+      "end": 43.18,
+      "word": "spostarlo."
+    },
+    {
+      "start": 43.46,
+      "end": 43.88,
+      "word": "Muoviti,"
+    },
+    {
+      "start": 44.38,
+      "end": 44.72,
+      "word": "vieni."
+    },
+    {
+      "start": 46.04,
+      "end": 46.5,
+      "word": "Dai,"
+    },
+    {
+      "start": 46.86,
+      "end": 47.16,
+      "word": "vieni"
+    },
+    {
+      "start": 47.16,
+      "end": 47.36,
+      "word": "qua."
+    },
+    {
+      "start": 48.1,
+      "end": 48.72,
+      "word": "Scotti."
+    },
+    {
+      "start": 50.24,
+      "end": 50.86,
+      "word": "Sei"
+    },
+    {
+      "start": 50.86,
+      "end": 51.4,
+      "word": "tornato"
+    },
+    {
+      "start": 51.4,
+      "end": 51.64,
+      "word": "eh?"
+    },
+    {
+      "start": 52.32,
+      "end": 52.94,
+      "word": "Bastardo."
+    },
+    {
+      "start": 52.94,
+      "end": 53.74,
+      "word": "Vieni,"
+    },
+    {
+      "start": 53.86,
+      "end": 54.06,
+      "word": "vieni,"
+    },
+    {
+      "start": 54.14,
+      "end": 54.74,
+      "word": "vieni."
+    },
+    {
+      "start": 55.22,
+      "end": 55.48,
+      "word": "Ti"
+    },
+    {
+      "start": 55.48,
+      "end": 55.74,
+      "word": "lascio"
+    },
+    {
+      "start": 55.74,
+      "end": 55.86,
+      "word": "la"
+    },
+    {
+      "start": 55.86,
+      "end": 56.28,
+      "word": "pazzo,"
+    },
+    {
+      "start": 56.48,
+      "end": 56.96,
+      "word": "bravo."
+    },
+    {
+      "start": 57.54,
+      "end": 57.68,
+      "word": "Vieni."
+    },
+    {
+      "start": 58.84,
+      "end": 59.4,
+      "word": "Vieni,"
+    },
+    {
+      "start": 59.6,
+      "end": 59.94,
+      "word": "vieni"
+    },
+    {
+      "start": 59.94,
+      "end": 60.48,
+      "word": "fuori."
+    },
+    {
+      "start": 60.68,
+      "end": 60.84,
+      "word": "Devi"
+    },
+    {
+      "start": 60.84,
+      "end": 61.02,
+      "word": "stare"
+    },
+    {
+      "start": 61.02,
+      "end": 61.18,
+      "word": "andando"
+    },
+    {
+      "start": 61.18,
+      "end": 61.44,
+      "word": "bene."
+    },
+    {
+      "start": 62.06,
+      "end": 62.38,
+      "word": "Scotti,"
+    },
+    {
+      "start": 62.76,
+      "end": 62.94,
+      "word": "fai"
+    },
+    {
+      "start": 62.94,
+      "end": 63.4,
+      "word": "bravo"
+    },
+    {
+      "start": 63.4,
+      "end": 63.78,
+      "word": "e"
+    },
+    {
+      "start": 63.78,
+      "end": 63.96,
+      "word": "ora"
+    },
+    {
+      "start": 63.96,
+      "end": 64.8,
+      "word": "devi"
+    },
+    {
+      "start": 64.8,
+      "end": 65.08,
+      "word": "entrare"
+    },
+    {
+      "start": 65.08,
+      "end": 65.24,
+      "word": "qua"
+    },
+    {
+      "start": 65.24,
+      "end": 65.58,
+      "word": "dentro."
+    },
+    {
+      "start": 67.08,
+      "end": 67.64,
+      "word": "No,"
+    },
+    {
+      "start": 68.24,
+      "end": 68.5,
+      "word": "non"
+    },
+    {
+      "start": 68.5,
+      "end": 68.6,
+      "word": "è"
+    },
+    {
+      "start": 68.6,
+      "end": 68.6,
+      "word": "qui."
+    },
+    {
+      "start": 69.2,
+      "end": 69.42,
+      "word": "Non"
+    },
+    {
+      "start": 69.42,
+      "end": 69.74,
+      "word": "merda."
+    },
+    {
+      "start": 70.28,
+      "end": 70.32,
+      "word": "No."
+    },
+    {
+      "start": 71.52,
+      "end": 72.0,
+      "word": "Scotti,"
+    },
+    {
+      "start": 72.58,
+      "end": 72.64,
+      "word": "qua"
+    },
+    {
+      "start": 72.64,
+      "end": 72.82,
+      "word": "devi"
+    },
+    {
+      "start": 72.82,
+      "end": 73.1,
+      "word": "venire."
+    },
+    {
+      "start": 73.82,
+      "end": 74.06,
+      "word": "No,"
+    },
+    {
+      "start": 74.5,
+      "end": 74.6,
+      "word": "quel"
+    },
+    {
+      "start": 74.6,
+      "end": 74.76,
+      "word": "mi"
+    },
+    {
+      "start": 74.76,
+      "end": 75.06,
+      "word": "trafono."
+    },
+    {
+      "start": 75.34,
+      "end": 75.62,
+      "word": "No,"
+    },
+    {
+      "start": 75.72,
+      "end": 75.88,
+      "word": "hai"
+    },
+    {
+      "start": 75.88,
+      "end": 76.08,
+      "word": "dentro"
+    },
+    {
+      "start": 76.08,
+      "end": 76.46,
+      "word": "scotti."
+    },
+    {
+      "start": 76.72,
+      "end": 77.06,
+      "word": "Scotti,"
+    },
+    {
+      "start": 77.36,
+      "end": 78.2,
+      "word": "scotti"
+    },
+    {
+      "start": 78.2,
+      "end": 78.48,
+      "word": "qua."
+    },
+    {
+      "start": 78.48,
+      "end": 78.74,
+      "word": "No."
+    },
+    {
+      "start": 84.26,
+      "end": 84.78,
+      "word": "Ok,"
+    },
+    {
+      "start": 85.02,
+      "end": 85.12,
+      "word": "ho"
+    },
+    {
+      "start": 85.12,
+      "end": 85.32,
+      "word": "fatto"
+    },
+    {
+      "start": 85.32,
+      "end": 85.44,
+      "word": "un"
+    },
+    {
+      "start": 85.44,
+      "end": 85.9,
+      "word": "meccasino."
+    },
+    {
+      "start": 86.54,
+      "end": 87.06,
+      "word": "Scotti"
+    },
+    {
+      "start": 87.06,
+      "end": 87.48,
+      "word": "è"
+    },
+    {
+      "start": 87.48,
+      "end": 87.94,
+      "word": "andato."
+    },
+    {
+      "start": 89.08,
+      "end": 89.6,
+      "word": "Managgia"
+    },
+    {
+      "start": 89.6,
+      "end": 89.72,
+      "word": "a"
+    },
+    {
+      "start": 89.72,
+      "end": 89.78,
+      "word": "te,"
+    },
+    {
+      "start": 89.88,
+      "end": 90.4,
+      "word": "managgia."
+    },
+    {
+      "start": 90.72,
+      "end": 90.86,
+      "word": "Ho"
+    },
+    {
+      "start": 90.86,
+      "end": 91.28,
+      "word": "recuperato"
+    },
+    {
+      "start": 91.28,
+      "end": 91.38,
+      "word": "il"
+    },
+    {
+      "start": 91.38,
+      "end": 91.44,
+      "word": "mio"
+    },
+    {
+      "start": 91.44,
+      "end": 91.92,
+      "word": "scorpione"
+    },
+    {
+      "start": 91.92,
+      "end": 92.18,
+      "word": "dopo"
+    },
+    {
+      "start": 92.18,
+      "end": 92.38,
+      "word": "aver"
+    },
+    {
+      "start": 92.38,
+      "end": 92.74,
+      "word": "dormito"
+    },
+    {
+      "start": 92.74,
+      "end": 93.04,
+      "word": "tutta"
+    },
+    {
+      "start": 93.04,
+      "end": 93.14,
+      "word": "la"
+    },
+    {
+      "start": 93.14,
+      "end": 93.4,
+      "word": "notte"
+    },
+    {
+      "start": 93.4,
+      "end": 93.58,
+      "word": "con"
+    },
+    {
+      "start": 93.58,
+      "end": 93.74,
+      "word": "lui"
+    },
+    {
+      "start": 93.74,
+      "end": 93.86,
+      "word": "in"
+    },
+    {
+      "start": 93.86,
+      "end": 94.08,
+      "word": "giro."
+    },
+    {
+      "start": 94.28,
+      "end": 94.62,
+      "word": "Torniamo"
+    },
+    {
+      "start": 94.62,
+      "end": 94.74,
+      "word": "a"
+    },
+    {
+      "start": 94.74,
+      "end": 95.04,
+      "word": "casa."
+    },
+    {
+      "start": 99.16,
+      "end": 99.68,
+      "word": "Managgia"
+    },
+    {
+      "start": 99.68,
+      "end": 99.86,
+      "word": "a"
+    },
+    {
+      "start": 99.86,
+      "end": 99.88,
+      "word": "te,"
+    },
+    {
+      "start": 99.98,
+      "end": 100.48,
+      "word": "managgia."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.433,
+      "dur": 1.433,
+      "transcript": "Ho perso il mio scorpione,"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.433,
+      "end": 4.233,
+      "dur": 2.8,
+      "transcript": "mi sono appena svegliato e il mio scorpione è scappato."
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.233,
+      "end": 7.167,
+      "dur": 2.933,
+      "transcript": "Qui ho dormito tutta notte con uno scorpione in giro per la camera."
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.167,
+      "end": 8.367,
+      "dur": 1.2,
+      "transcript": "Dove cavolo sarà?"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.367,
+      "end": 11.767,
+      "dur": 3.4,
+      "transcript": "In pratica per l 'umidità avevo lasciato la teca aperta."
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.767,
+      "end": 14.467,
+      "dur": 2.7,
+      "transcript": "Ve sbaglio, sono andato a dormire con la teca in questo modo."
+    },
+    {
+      "shot_idx": 6,
+      "start": 14.467,
+      "end": 15.0,
+      "dur": 0.533,
+      "transcript": "Ho smontato"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.0,
+      "end": 15.833,
+      "dur": 0.833,
+      "transcript": "tutta"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.833,
+      "end": 16.8,
+      "dur": 0.967,
+      "transcript": "camera, non"
+    },
+    {
+      "shot_idx": 9,
+      "start": 16.8,
+      "end": 18.067,
+      "dur": 1.267,
+      "transcript": "l 'ho trovato."
+    },
+    {
+      "shot_idx": 10,
+      "start": 18.067,
+      "end": 20.767,
+      "dur": 2.7,
+      "transcript": "Manca solo lui, non c 'è ultima speranza, perché"
+    },
+    {
+      "shot_idx": 11,
+      "start": 20.767,
+      "end": 24.433,
+      "dur": 3.667,
+      "transcript": "altrimenti vuol dire che non è in giro per camera mia, ma in giro per casa."
+    },
+    {
+      "shot_idx": 12,
+      "start": 24.433,
+      "end": 26.4,
+      "dur": 1.967,
+      "transcript": "È"
+    },
+    {
+      "shot_idx": 13,
+      "start": 26.4,
+      "end": 31.2,
+      "dur": 4.8,
+      "transcript": "incredibile ma vero ma sono riuscito a trovarti, mannaggia a te scotti, guarda dove stai."
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.2,
+      "end": 33.233,
+      "dur": 2.033,
+      "transcript": "Ma pensa a te. Ovviamente è scappato"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.233,
+      "end": 36.867,
+      "dur": 3.633,
+      "transcript": "ed è corso sotto all 'armadio. No scotti, dove stai andando?"
+    },
+    {
+      "shot_idx": 16,
+      "start": 36.867,
+      "end": 41.567,
+      "dur": 4.7,
+      "transcript": "Ciao ragazzi. Per"
+    },
+    {
+      "shot_idx": 17,
+      "start": 41.567,
+      "end": 43.367,
+      "dur": 1.8,
+      "transcript": "fortuna sono riuscito a spostarlo."
+    },
+    {
+      "shot_idx": 18,
+      "start": 43.367,
+      "end": 50.1,
+      "dur": 6.733,
+      "transcript": "Muoviti, vieni. Dai, vieni qua. Scotti."
+    },
+    {
+      "shot_idx": 19,
+      "start": 50.1,
+      "end": 53.1,
+      "dur": 3.0,
+      "transcript": "Sei tornato eh? Bastardo."
+    },
+    {
+      "shot_idx": 20,
+      "start": 53.1,
+      "end": 55.367,
+      "dur": 2.267,
+      "transcript": "Vieni, vieni, vieni. Ti"
+    },
+    {
+      "shot_idx": 21,
+      "start": 55.367,
+      "end": 61.7,
+      "dur": 6.333,
+      "transcript": "lascio la pazzo, bravo. Vieni. Vieni, vieni fuori. Devi stare andando bene."
+    },
+    {
+      "shot_idx": 22,
+      "start": 61.7,
+      "end": 65.933,
+      "dur": 4.233,
+      "transcript": "Scotti, fai bravo e ora devi entrare qua dentro."
+    },
+    {
+      "shot_idx": 23,
+      "start": 65.933,
+      "end": 79.667,
+      "dur": 13.733,
+      "transcript": "No, non è qui. Non merda. No. Scotti, qua devi venire. No, quel mi trafono. No, hai dentro scotti. Scotti, scotti qua. No."
+    },
+    {
+      "shot_idx": 24,
+      "start": 79.667,
+      "end": 84.3,
+      "dur": 4.633,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 25,
+      "start": 84.3,
+      "end": 90.667,
+      "dur": 6.367,
+      "transcript": "Ok, ho fatto un meccasino. Scotti è andato. Managgia a te, managgia."
+    },
+    {
+      "shot_idx": 26,
+      "start": 90.667,
+      "end": 94.233,
+      "dur": 3.567,
+      "transcript": "Ho recuperato il mio scorpione dopo aver dormito tutta la notte con lui in giro."
+    },
+    {
+      "shot_idx": 27,
+      "start": 94.233,
+      "end": 95.733,
+      "dur": 1.5,
+      "transcript": "Torniamo a casa."
+    },
+    {
+      "shot_idx": 28,
+      "start": 95.733,
+      "end": 97.1,
+      "dur": 1.367,
+      "transcript": ""
+    },
+    {
+      "shot_idx": 29,
+      "start": 97.1,
+      "end": 101.467,
+      "dur": 4.367,
+      "transcript": "Managgia a te, managgia."
+    }
+  ],
+  "full_text": "Ho perso il mio scorpione, mi sono appena svegliato e il mio scorpione è scappato. Qui ho dormito tutta notte con uno scorpione in giro per la camera. Dove cavolo sarà? In pratica per l'umidità avevo lasciato la teca aperta. Ve sbaglio, sono andato a dormire con la teca in questo modo. Ho smontato tutta camera, non l'ho trovato. Manca solo lui, non c'è ultima speranza, perché altrimenti vuol dire che non è in giro per camera mia, ma in giro per casa. È incredibile ma vero ma sono riuscito a trovarti, mannaggia a te scotti, guarda dove stai. Ma pensa a te. Ovviamente è scappato ed è corso sotto all'armadio. No scotti, dove stai andando? Ciao ragazzi. Per fortuna sono riuscito a spostarlo. Muoviti, vieni. Dai, vieni qua. Scotti. Sei tornato eh? Bastardo. Vieni, vieni, vieni. Ti lascio la pazzo, bravo. Vieni. Vieni, vieni fuori. Devi stare andando bene. Scotti, fai bravo e ora devi entrare qua dentro. No, non è qui. Non merda. No. Scotti, qua devi venire. No, quel mi trafono. No, hai dentro scotti. Scotti, scotti qua. No. Ok, ho fatto un meccasino. Scotti è andato. Managgia a te, managgia. Ho recuperato il mio scorpione dopo aver dormito tutta la notte con lui in giro. Torniamo a casa. Managgia a te, managgia.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": "0.2",
+  "generated_at": "2026-09-20T19:14:48",
+  "primary_creator": "jay.emme",
+  "corpus": {
+    "creators": {
+      "chefmaxmariola": 2,
+      "jay.emme": 95
+    },
+    "n_videos_total": 97,
+    "n_shots_total": 3567
+  },
+  "rhythmic_memory": {
+    "dur_stats": {
+      "count": 3444,
+      "mean": 2.39,
+      "median": 2.0,
+      "p10": 1.23,
+      "p90": 4.0,
+      "min": 0.07,
+      "max": 14.83
+    },
+    "dur_opening_mean": 2.17,
+    "dur_closing_mean": 2.82,
+    "roles_dist": {
+      "person_eating": 1053,
+      "food_detail": 561,
+      "other": 482,
+      "food_plated": 302,
+      "person_talking": 285,
+      "venue_exterior": 182,
+      "food_closeup": 162,
+      "venue_interior_wide": 151,
+      "venue_interior_detail": 110,
+      "drink_detail": 74,
+      "hands_gesture": 63,
+      "menu_board": 18,
+      "claw_game": 1
+    },
+    "compositions_dist": {
+      "medium": 1748,
+      "close_up": 1170,
+      "wide": 477,
+      "detail": 48,
+      "pov": 1
+    },
+    "angles_dist": {
+      "orizzontale": 2447,
+      "dall_alto": 815,
+      "dal_basso": 98,
+      "pov": 84
+    },
+    "lightings_dist": {
+      "artificiale_caldo": 1135,
+      "naturale": 865,
+      "mista": 783,
+      "artificiale_freddo": 633,
+      "artificiale_mista": 26,
+      "artificial_caldo": 2
+    },
+    "human_ratio": 0.717,
+    "food_ratio": 0.319,
+    "venue_ratio": 0.129,
+    "logo_ratio": 0.343
+  },
+  "visual_memory": {
+    "visual_signature": "Montaggio veloce e ritmico centrato sul cibo BBQ/americano con forte presenza umana: il creator mostra, addenta e reagisce al cibo in sequenze rapide da 2 secondi, alternando primi piani di carne affumicata a espressioni facciali entusiaste.",
+    "opening_rules": [
+      "Apre con il piatto completo o il cibo in mano (food_plated/food_closeup) per 1.5-2.5s",
+      "Alterna aperture con il creator che mangia direttamente (person_eating) per stabilire immediatezza",
+      "Usa occasionalmente contesto ambientale (venue/other) per introdurre la location prima del cibo",
+      "Primi piani ravvicinati del cibo (food_detail) come hook visivo nei primi 2 secondi",
+      "Raramente apre con il creator che parla: privilegia azione immediata sul cibo"
+    ],
+    "closing_rules": [
+      "Chiude quasi sempre con person_eating (2-5s): il momento del morso finale o reazione",
+      "Shot di chiusura più lunghi della media (2.8s vs 2.4s apertura): lascia respirare l'emozione",
+      "Usa 'other' brevissimo (0.1-0.3s) come stacco finale nero o transizione",
+      "Sequenze finali a tre: person_eating → person_eating → person_eating per enfasi emotiva",
+      "Occasionalmente chiude con food_detail lungo (4-7s) per lasciare desiderio visivo",
+      "Venue_exterior come chiusura per contestualizzare il viaggio dopo l'esperienza"
+    ],
+    "food_vocabulary": [
+      "Carne affumicata BBQ con anello rosa visibile: dettaglio tecnico ravvicinato",
+      "Brisket, costine e salsicce texane: focus su texture croccante esterna",
+      "Pizza napoletana con mozzarella filante: momento dello stretch del formaggio",
+      "Pollo fritto croccante: primi piani estremi della panatura dorata",
+      "Smashburger con uovo: stratificazione verticale degli ingredienti",
+      "Sciroppo/salsa versati in movimento: azione dinamica sui waffle o pancakes",
+      "Cibo tenuto in mano a mezz'aria: presentazione attiva vs piatto statico",
+      "Tacos, nachos e sandwich cubani: varietà americana street food"
+    ],
+    "human_vocabulary": [
+      "Espressioni esagerate di sorpresa/gioia mentre tiene il cibo",
+      "Morso ravvicinato con focus su bocca e reazione immediata",
+      "Mani che tengono/strappano carne: gesto tattile e primordiale",
+      "Sorriso diretto in camera con cibo in primo piano",
+      "Gesti enfatici: alzare il cibo, indicare, toccarsi il cappellino",
+      "Creator sempre riconoscibile: cappellino, magliette casual, presenza costante",
+      "Postura informale e autentica: seduto, in piedi casual, mai troppo posato",
+      "Intingere, versare, manipolare il cibo: azioni performative"
+    ],
+    "venue_vocabulary": [
+      "Interni di ristoranti BBQ texani: mattoni, legno, atmosfera rustica",
+      "Esterni iconici: torrette Miami Beach, skyline urbani, natura Yosemite",
+      "Dettagli ambientali brevi: murales, insegne, cucine a vista",
+      "Location come contesto narrativo del viaggio, non solo sfondo",
+      "Venue_interior_wide per stabilire atmosfera affollata/autentica",
+      "Alternanza indoor/outdoor per varietà visiva nel montaggio"
+    ],
+    "signature_moves": [
+      "Ritmo 2-secondi-per-shot: montaggio serrato che mantiene attenzione altissima",
+      "Sequenza food_closeup → person_eating → reaction: struttura narrativa ricorrente",
+      "Carne tenuta in alto con due forchette/mani: gesto iconico di presentazione",
+      "Luce calda artificiale dominante (33%): estetica accogliente da ristorante",
+      "Mix umano 72%: presenza umana costante, mai solo food porn",
+      "Alternanza angoli orizzontali (71%) e dall'alto (24%): varietà senza eccessi",
+      "Composizioni medium (51%) e close-up (34%): bilanciamento contesto/dettaglio",
+      "Chiusure lunghe su person_eating: firma emotiva del brand"
+    ],
+    "unique_vs_others": [
+      "Presenza umana dominante (72%) vs altri creator più food-centrati: personalità riconoscibile",
+      "Montaggio ultra-veloce (2.39s media) ma non caotico: ogni shot ha funzione narrativa precisa",
+      "Focus BBQ/carne affumicata texana come nicchia visiva specifica vs food generico",
+      "Bilanciamento perfetto show-don't-tell: pochi momenti person_talking (8%), più azione",
+      "Chiusure emotive lunghe che creano desiderio vs cut secchi di altri creator",
+      "Estetica viaggio/avventura integrata: venue come parte della storia, non riempitivo",
+      "Gesti performativi con il cibo (strappare, alzare, intingere) vs presentazione statica",
+      "Luce calda costante che crea comfort visivo vs illuminazione variabile/fredda"
+    ]
+  },
+  "narrative_memory": {
+    "narrative_signature": "Food journey narrato in prima persona con struttura cronologica rigida e descrizioni dettagliate di ogni elemento del pasto, dal contesto alla degustazione.",
+    "opening_rules": [
+      "Domanda retorica o dichiarazione d'intento ('cosa mangi un giorno in...', 'oggi ragazzi proviamo...')",
+      "Geolocalizzazione immediata del contenuto (città, regione, locale specifico)",
+      "Anticipazione del tipo di esperienza culinaria ('il miglior...', 'degustazione di...')",
+      "Uso costante di 'ragazzi' come appellativo diretto al pubblico"
+    ],
+    "body_structure": [
+      "Sequenza cronologica lineare: colazione → pranzo → cena o arrivo → antipasto → piatto principale → dessert",
+      "Descrizione ingrediente per ingrediente con virgole seriali ('con prosciutto, piselli, formaggio...')",
+      "Inserimento di momenti di transizione geografica ('dopo di che', 'poi', 'dopodiché')",
+      "Valutazioni immediate post-assaggio ('devo dire', 'davvero', 'clamoroso')",
+      "Contestualizzazione culturale o storica del cibo/luogo",
+      "Alternanza tra narrazione dell'esperienza e descrizione tecnica del piatto"
+    ],
+    "closing_rules": [
+      "Spesso troncato a metà frase (limitazione tecnica TikTok)",
+      "Valutazione finale implicita nell'ultima descrizione",
+      "Raramente chiusura formale, il video finisce durante la narrazione del pasto"
+    ],
+    "transitions_between_beats": [
+      "Marcatori temporali espliciti ('dopo di che', 'poi', 'dopodiché', 'per poi')",
+      "Connettori spaziali ('siamo arrivati', 'ci siamo fermati', 'passando a')",
+      "Progressione del menu come struttura narrativa ('iniziamo con', 'passando al punto forte')",
+      "Uso di 'ovviamente' per elementi prevedibili o rituali del pasto"
+    ],
+    "content_types": [
+      "Food vlog di viaggio (California, Texas, Milano)",
+      "Recensioni di ristoranti specifici con focus su specialità",
+      "Esperienze culinarie tematiche (barbecue texano, hot pot, tacos)",
+      "Degustazioni con menu completo documentato",
+      "Delivery/take-away reviews",
+      "Esperienze premium (lounge sportive)"
+    ],
+    "unique_vs_others": [
+      "Struttura da travel vlog esteso compressa in formato TikTok: narra giornate intere invece di singoli momenti",
+      "Ossessione per la completezza: elenca OGNI ingrediente, OGNI tappa, OGNI piatto ordinato",
+      "Narrazione iperdettagliata che crea senso di sovrabbondanza informativa (vs. sintesi tipica di TikTok)",
+      "Uso di superlativi geografici ('il miglior... di Milano/Texas/America') come hook ricorrente",
+      "Integrazione di contesto culturale/storico (Alamo, Alex Honnold, tradizioni texane) dentro il food content",
+      "Voce narrante continua senza pause, stile documentario compresso",
+      "Progressione numerata dei giorni di viaggio ('giorno uno', 'giorno due') come serializzazione narrativa"
+    ]
+  },
+  "lexical_memory": {
+    "language_signature": "Linguaggio colloquiale e spontaneo con marcatori discorsivi ricorrenti, tipico di narrazioni food vlogging con enfasi su esperienze culinarie americane e milanesi.",
+    "signature_words": [
+      "ragazzi",
+      "ovviamente",
+      "comunque",
+      "veramente",
+      "appunto",
+      "devo dire",
+      "tra l'altro",
+      "clamoroso",
+      "un po",
+      "dopodiché",
+      "infine",
+      "praticamente",
+      "abbastanza",
+      "insomma",
+      "essendo"
+    ],
+    "banned_words": [
+      "tuttavia",
+      "pertanto",
+      "qualora",
+      "laddove",
+      "egregio",
+      "cordialmente",
+      "dunque",
+      "altresì",
+      "nondimeno",
+      "giacché"
+    ],
+    "opening_phrases": [
+      "Oggi ragazzi vi porto [a provare/da]",
+      "Giorno [numero] del mio viaggio in [luogo]",
+      "Il miglior [cibo] di [luogo]",
+      "La vera [cucina/specialità] finalmente [azione]",
+      "Proviamo [cibo/esperienza] [aggettivo]"
+    ],
+    "closing_phrases": [
+      "Insomma ragazzi [valutazione/invito]",
+      "Una roba clamorosa",
+      "[Aggettivo] clamoroso/clamorosa",
+      "Quindi ragazzi [consiglio/conclusione]",
+      "Ed infine [elemento conclusivo]"
+    ],
+    "sentence_patterns": [
+      "devo dire che [valutazione]",
+      "che tra l'altro [informazione aggiuntiva]",
+      "con un po di [elemento]",
+      "dopo di che [azione successiva]",
+      "abbiamo iniziato con [elemento]",
+      "vi assicuro che [affermazione]",
+      "un sacco di [quantità]"
+    ],
+    "tone": "Entusiasta, informale e coinvolgente, con approccio narrativo da content creator food che condivide esperienze culinarie in modo diretto e amichevole."
+  },
+  "signature_unique": {
+    "visual": [
+      "Presenza umana dominante (72%) vs altri creator più food-centrati: personalità riconoscibile",
+      "Montaggio ultra-veloce (2.39s media) ma non caotico: ogni shot ha funzione narrativa precisa",
+      "Focus BBQ/carne affumicata texana come nicchia visiva specifica vs food generico",
+      "Bilanciamento perfetto show-don't-tell: pochi momenti person_talking (8%), più azione",
+      "Chiusure emotive lunghe che creano desiderio vs cut secchi di altri creator",
+      "Estetica viaggio/avventura integrata: venue come parte della storia, non riempitivo",
+      "Gesti performativi con il cibo (strappare, alzare, intingere) vs presentazione statica",
+      "Luce calda costante che crea comfort visivo vs illuminazione variabile/fredda"
+    ],
+    "narrative": [
+      "Struttura da travel vlog esteso compressa in formato TikTok: narra giornate intere invece di singoli momenti",
+      "Ossessione per la completezza: elenca OGNI ingrediente, OGNI tappa, OGNI piatto ordinato",
+      "Narrazione iperdettagliata che crea senso di sovrabbondanza informativa (vs. sintesi tipica di TikTok)",
+      "Uso di superlativi geografici ('il miglior... di Milano/Texas/America') come hook ricorrente",
+      "Integrazione di contesto culturale/storico (Alamo, Alex Honnold, tradizioni texane) dentro il food content",
+      "Voce narrante continua senza pause, stile documentario compresso",
+      "Progressione numerata dei giorni di viaggio ('giorno uno', 'giorno due') come serializzazione narrativa"
+    ]
+  }
+}

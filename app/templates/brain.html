@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Creator Brain</title>
+<style>
+  body { font-family: -apple-system, sans-serif; background:#0f1117; color:#e7e9ef; margin:0; padding:20px; }
+  .wrap { max-width: 1100px; margin:0 auto; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color:#8a92a6; margin-bottom: 24px; }
+  .card { background:#181c26; border:1px solid #262b38; border-radius:10px; padding:18px; margin-bottom:16px; }
+  .card h2 { font-size: 15px; margin: 0 0 12px; color:#b6bdcc; font-weight:600; }
+  .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+  input[type=text], input[type=number] { background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:8px 12px; font-size:14px; }
+  input[type=text] { width: 220px; }
+  input[type=number] { width: 80px; }
+  button { background:#2d6cdf; color:#fff; border:0; border-radius:6px; padding:9px 16px; font-size:14px; cursor:pointer; font-weight:500; }
+  button:hover { background:#3b7aed; }
+  button.alt { background:#7c3aed; }
+  button.alt:hover { background:#8b4ef7; }
+  button.warn { background:#c44; }
+  button:disabled { opacity:.5; cursor:not-allowed; }
+  .badge { display:inline-block; padding:2px 8px; border-radius:99px; background:#2a3448; font-size:12px; color:#b6bdcc; }
+  .badge.active { background:#2e7d32; color:#d4f5d4; }
+  .badge.primary { background:#7c3aed; color:#fff; }
+  .vrow { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px solid #232838; }
+  .vrow:last-child { border:0; }
+  .creator { display:flex; justify-content:space-between; padding:6px 0; }
+  #log { background:#0b0d13; font-family: monospace; font-size:12px; padding:12px; border-radius:8px; max-height:300px; overflow-y:auto; white-space: pre-wrap; margin-top:12px; }
+  .status { color:#8a92a6; font-size:13px; margin-top:8px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🧠 Creator Brain</h1>
+  <div class="sub">Corpus, versioni, confronto creator</div>
+
+  <!-- 🛑 PANIC STOP -->
+  <div class="card" style="border-color:#7a2020; background:#1e1315">
+    <h2 style="color:#ff8a8a">🛑 EMERGENZA</h2>
+    <div class="row">
+      <button id="btn-panic" style="background:#c44; padding:12px 24px; font-size:15px; font-weight:600">
+        🛑 FERMA TUTTO E PULISCI
+      </button>
+      <span style="font-size:12px; color:#c9a0a0">
+        Uccide processi brain/yt-dlp · marca job zombie · pulisce file temporanei
+      </span>
+    </div>
+    <div class="status" id="panic-status" style="margin-top:8px"></div>
+  </div>
+
+  <!-- Stato -->
+  <div class="card">
+    <h2>Stato</h2>
+    <div id="state-loading" class="status">caricamento…</div>
+    <div id="state-body" style="display:none">
+      <div class="row" style="margin-bottom:12px">
+        <span>Versione attiva: <b id="active-version">—</b></span>
+        <span id="active-schema" class="badge">—</span>
+      </div>
+      <div id="creators-list"></div>
+    </div>
+  </div>
+
+  <!-- Aggiungi video al corpus primario -->
+  <div class="card">
+    <h2>🔵 Aggiungi nuovi video di @jay.emme (rinforza il brain)</h2>
+    <div class="row">
+      <input type="number" id="primary-limit" value="20" min="1" max="200" title="max video">
+      <input type="date" id="primary-date-from" title="da data pubblicazione">
+      <input type="date" id="primary-date-to" title="a data pubblicazione">
+      <button id="btn-add-primary">Aggiungi al corpus</button>
+    </div>
+    <div class="status" style="margin-top:6px; color:#8a92a6; font-size:12px">
+      Lascia le date vuote per gli ultimi N. Oppure specifica intervallo pubblicazione (inclusivo).
+    </div>
+    <div class="status" id="primary-status">Scarica + analizza nuovi video del creator primario. Il brain si arricchisce e il prossimo "Rigenera" produce una versione più forte.</div>
+  </div>
+
+  <!-- Aggiungi + Confronta -->
+  <div class="card">
+    <h2>➕ Aggiungi creator e confronta con @jay.emme</h2>
+    <div class="row">
+      <input type="text" id="handle" placeholder="@username" value="">
+      <input type="number" id="limit" value="15" min="1" max="100" title="max video">
+      <input type="date" id="compare-date-from" title="da data">
+      <input type="date" id="compare-date-to" title="a data">
+      <button class="alt" id="btn-add-compare">Aggiungi + Confronta</button>
+    </div>
+    <div class="status" style="margin-top:6px; color:#8a92a6; font-size:12px">
+      Le date filtrano i video per data di pubblicazione (inclusivo). Vuote = ultimi N.
+    </div>
+    <label style="display:flex; align-items:center; gap:6px; margin-top:8px; font-size:12px; color:#b6bdcc">
+      <input type="checkbox" id="compare-auto-delete" checked>
+      🗑️ Cancella i video di questo creator dopo il confronto (risparmia spazio, mantieni le analisi)
+    </label>
+    <div class="status" id="add-status"></div>
+  </div>
+
+  <!-- Impostazioni -->
+  <div class="card">
+    <h2>⚙️ Note per il Brain</h2>
+    <div style="font-size:12px; color:#8a92a6; margin-bottom:10px">
+      Regole in linguaggio naturale. Hanno priorità massima: il brain le interpreta e
+      applica attivamente ad ogni generazione (scene + voiceover).
+    </div>
+    <div id="notes-list" style="margin-bottom:10px"></div>
+    <div class="row">
+      <input type="text" id="new-note" placeholder="Es: non usare la parola 'intingere'"
+             style="flex:1; background:#0f1117; color:#e7e9ef; border:1px solid #2c3345; border-radius:6px; padding:8px 12px; font-size:13px">
+      <button id="btn-add-note">+ Aggiungi nota</button>
+      <button id="btn-save-settings" style="background:#2e7d32">💾 Salva</button>
+    </div>
+    <div class="status" id="settings-status"></div>
+  </div>
+
+  <!-- Catalogo -->
+  <div class="card">
+    <h2>📚 Catalogo video in cache</h2>
+    <div id="catalog-list" class="status">—</div>
+    <div class="status" style="margin-top:8px; color:#8a92a6; font-size:12px">
+      Il catalogo memorizza i metadati di tutti i video (id, titolo, data).
+      Primo scan: ~2 min. Successivi: ~10 sec (solo nuovi).
+    </div>
+  </div>
+
+  <!-- Azioni -->
+  <div class="card">
+    <h2>Azioni</h2>
+    <div class="row">
+      <button id="btn-build">🔨 Rigenera Brain</button>
+      <button id="btn-refresh" style="background:#444">↻ Aggiorna stato</button>
+    </div>
+    <div class="status" id="build-status"></div>
+  </div>
+
+  <!-- Versioni -->
+  <div class="card">
+    <h2>Versioni (retention 3 visibili + archivio)</h2>
+    <div id="versions-list" class="status">—</div>
+    <div id="archive-list"></div>
+    <div id="archive-info" class="status"></div>
+  </div>
+
+</div>
+<script src="/static/brain.js"></script>
+</body>
+</html>

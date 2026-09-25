@@ -1,0 +1,1613 @@
+{
+  "ref_id": "ref_21_7633468209567436054",
+  "video": "/opt/reel-agent/media/style_ref/ref_21_7633468209567436054.mp4",
+  "n_segments": 21,
+  "n_words": 268,
+  "n_shots": 22,
+  "full_text": "un fast food di pizza napoletana e pizza americana aperto tra l'altro da sorbillo vedete che è un posto che dovevo assolutamente provare parlando di pop, people of pizza punto nuovo locale di gino sorbillo aperto in centro a milano che in modalità fast food propone pizza napoletana e americana dal totem potete appunto ordinare il vostro menu con la pizza, un fritto napoletano e una bibita io ho allora assaggiato la loro pizza napoletana con l'anduia e quella americana con i peperoni partendo proprio da quest'ultima devo dire che era cotta molto bene ero ovviamente come potete vedere molto unta e con tantissima mozzarella e credo che la differenza tra la versione napoletana americana sia proprio questo ovvero quanto unta la pizza, quanto mozzarella ci metto ovviamente poi l'ingredienti sopra un pasto comunque ottimo magari non gli evitato soffice come quello delle grandi pizzerene napoletane ma neanche basso in sipido ecco passando invece a quella con l'anduia devo dire che qua c'era sicuramente più pomodoro e per quanto ci fosse l'anduia con un sapore molto forte l'impasto sentiva comunque di più dell'altro se non ci meno mozzarella meno olio essendo appunto in generale meno unta e condita entrambe le pizza mi sono piaciute molto cosa che però non posso dire dei fritti infatti ho provato se i loro arancini che le loro frittacchine devo dire che entrambi non erano niente di che lo in caso se considero il prezzo del menu la qualità della pizza e la location è allora sì che è un posto davvero clamo pro",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "un fast food di pizza napoletana e pizza americana aperto tra l'altro da sorbillo"
+    },
+    {
+      "start": 4.06,
+      "end": 6.16,
+      "text": "vedete che è un posto che dovevo assolutamente provare"
+    },
+    {
+      "start": 6.16,
+      "end": 7.88,
+      "text": "parlando di pop, people of pizza"
+    },
+    {
+      "start": 7.88,
+      "end": 11.16,
+      "text": "punto nuovo locale di gino sorbillo aperto in centro a milano"
+    },
+    {
+      "start": 11.16,
+      "end": 14.1,
+      "text": "che in modalità fast food propone pizza napoletana e americana"
+    },
+    {
+      "start": 14.1,
+      "end": 18.88,
+      "text": "dal totem potete appunto ordinare il vostro menu con la pizza, un fritto napoletano e una bibita"
+    },
+    {
+      "start": 18.88,
+      "end": 23.28,
+      "text": "io ho allora assaggiato la loro pizza napoletana con l'anduia e quella americana con i peperoni"
+    },
+    {
+      "start": 23.28,
+      "end": 25.84,
+      "text": "partendo proprio da quest'ultima devo dire che era cotta molto bene"
+    },
+    {
+      "start": 25.84,
+      "end": 29.3,
+      "text": "ero ovviamente come potete vedere molto unta e con tantissima mozzarella"
+    },
+    {
+      "start": 29.3,
+      "end": 32.72,
+      "text": "e credo che la differenza tra la versione napoletana americana sia proprio questo"
+    },
+    {
+      "start": 32.72,
+      "end": 36.6,
+      "text": "ovvero quanto unta la pizza, quanto mozzarella ci metto ovviamente poi l'ingredienti sopra"
+    },
+    {
+      "start": 36.6,
+      "end": 40.88,
+      "text": "un pasto comunque ottimo magari non gli evitato soffice come quello delle grandi pizzerene napoletane"
+    },
+    {
+      "start": 40.88,
+      "end": 44.58,
+      "text": "ma neanche basso in sipido ecco passando invece a quella con l'anduia devo dire che qua c'era"
+    },
+    {
+      "start": 44.58,
+      "end": 47.76,
+      "text": "sicuramente più pomodoro e per quanto ci fosse l'anduia con un sapore molto forte"
+    },
+    {
+      "start": 47.76,
+      "end": 51.38,
+      "text": "l'impasto sentiva comunque di più dell'altro se non ci meno mozzarella meno olio"
+    },
+    {
+      "start": 51.38,
+      "end": 53.42,
+      "text": "essendo appunto in generale meno unta e condita"
+    },
+    {
+      "start": 53.42,
+      "end": 57.36,
+      "text": "entrambe le pizza mi sono piaciute molto cosa che però non posso dire dei fritti"
+    },
+    {
+      "start": 57.36,
+      "end": 60.68,
+      "text": "infatti ho provato se i loro arancini che le loro frittacchine devo dire che entrambi"
+    },
+    {
+      "start": 60.68,
+      "end": 63.74,
+      "text": "non erano niente di che lo in caso se considero il prezzo del menu la qualità"
+    },
+    {
+      "start": 63.74,
+      "end": 66.96,
+      "text": "della pizza e la location è allora sì che è un posto davvero clamo"
+    },
+    {
+      "start": 66.96,
+      "end": 67.44,
+      "text": "pro"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": "un"
+    },
+    {
+      "start": 0.2,
+      "end": 0.36,
+      "word": "fast"
+    },
+    {
+      "start": 0.36,
+      "end": 0.6,
+      "word": "food"
+    },
+    {
+      "start": 0.6,
+      "end": 0.82,
+      "word": "di"
+    },
+    {
+      "start": 0.82,
+      "end": 1.04,
+      "word": "pizza"
+    },
+    {
+      "start": 1.04,
+      "end": 1.54,
+      "word": "napoletana"
+    },
+    {
+      "start": 1.54,
+      "end": 1.72,
+      "word": "e"
+    },
+    {
+      "start": 1.72,
+      "end": 1.94,
+      "word": "pizza"
+    },
+    {
+      "start": 1.94,
+      "end": 2.44,
+      "word": "americana"
+    },
+    {
+      "start": 2.44,
+      "end": 2.9,
+      "word": "aperto"
+    },
+    {
+      "start": 2.9,
+      "end": 3.06,
+      "word": "tra"
+    },
+    {
+      "start": 3.06,
+      "end": 3.2,
+      "word": "l"
+    },
+    {
+      "start": 3.2,
+      "end": 3.38,
+      "word": "'altro"
+    },
+    {
+      "start": 3.38,
+      "end": 3.6,
+      "word": "da"
+    },
+    {
+      "start": 3.6,
+      "end": 4.06,
+      "word": "sorbillo"
+    },
+    {
+      "start": 4.06,
+      "end": 4.32,
+      "word": "vedete"
+    },
+    {
+      "start": 4.32,
+      "end": 4.48,
+      "word": "che"
+    },
+    {
+      "start": 4.48,
+      "end": 4.56,
+      "word": "è"
+    },
+    {
+      "start": 4.56,
+      "end": 4.6,
+      "word": "un"
+    },
+    {
+      "start": 4.6,
+      "end": 4.86,
+      "word": "posto"
+    },
+    {
+      "start": 4.86,
+      "end": 4.92,
+      "word": "che"
+    },
+    {
+      "start": 4.92,
+      "end": 5.22,
+      "word": "dovevo"
+    },
+    {
+      "start": 5.22,
+      "end": 5.7,
+      "word": "assolutamente"
+    },
+    {
+      "start": 5.7,
+      "end": 6.16,
+      "word": "provare"
+    },
+    {
+      "start": 6.16,
+      "end": 6.52,
+      "word": "parlando"
+    },
+    {
+      "start": 6.52,
+      "end": 6.72,
+      "word": "di"
+    },
+    {
+      "start": 6.72,
+      "end": 6.92,
+      "word": "pop,"
+    },
+    {
+      "start": 7.32,
+      "end": 7.32,
+      "word": "people"
+    },
+    {
+      "start": 7.32,
+      "end": 7.5,
+      "word": "of"
+    },
+    {
+      "start": 7.5,
+      "end": 7.88,
+      "word": "pizza"
+    },
+    {
+      "start": 7.88,
+      "end": 8.24,
+      "word": "punto"
+    },
+    {
+      "start": 8.24,
+      "end": 8.58,
+      "word": "nuovo"
+    },
+    {
+      "start": 8.58,
+      "end": 9.02,
+      "word": "locale"
+    },
+    {
+      "start": 9.02,
+      "end": 9.24,
+      "word": "di"
+    },
+    {
+      "start": 9.24,
+      "end": 9.46,
+      "word": "gino"
+    },
+    {
+      "start": 9.46,
+      "end": 9.92,
+      "word": "sorbillo"
+    },
+    {
+      "start": 9.92,
+      "end": 10.36,
+      "word": "aperto"
+    },
+    {
+      "start": 10.36,
+      "end": 10.48,
+      "word": "in"
+    },
+    {
+      "start": 10.48,
+      "end": 10.7,
+      "word": "centro"
+    },
+    {
+      "start": 10.7,
+      "end": 10.88,
+      "word": "a"
+    },
+    {
+      "start": 10.88,
+      "end": 11.16,
+      "word": "milano"
+    },
+    {
+      "start": 11.16,
+      "end": 11.3,
+      "word": "che"
+    },
+    {
+      "start": 11.3,
+      "end": 11.4,
+      "word": "in"
+    },
+    {
+      "start": 11.4,
+      "end": 11.74,
+      "word": "modalità"
+    },
+    {
+      "start": 11.74,
+      "end": 11.98,
+      "word": "fast"
+    },
+    {
+      "start": 11.98,
+      "end": 12.14,
+      "word": "food"
+    },
+    {
+      "start": 12.14,
+      "end": 12.52,
+      "word": "propone"
+    },
+    {
+      "start": 12.52,
+      "end": 12.84,
+      "word": "pizza"
+    },
+    {
+      "start": 12.84,
+      "end": 13.44,
+      "word": "napoletana"
+    },
+    {
+      "start": 13.44,
+      "end": 13.68,
+      "word": "e"
+    },
+    {
+      "start": 13.68,
+      "end": 14.1,
+      "word": "americana"
+    },
+    {
+      "start": 14.1,
+      "end": 14.26,
+      "word": "dal"
+    },
+    {
+      "start": 14.26,
+      "end": 14.58,
+      "word": "totem"
+    },
+    {
+      "start": 14.58,
+      "end": 14.86,
+      "word": "potete"
+    },
+    {
+      "start": 14.86,
+      "end": 15.14,
+      "word": "appunto"
+    },
+    {
+      "start": 15.14,
+      "end": 15.72,
+      "word": "ordinare"
+    },
+    {
+      "start": 15.72,
+      "end": 15.88,
+      "word": "il"
+    },
+    {
+      "start": 15.88,
+      "end": 16.18,
+      "word": "vostro"
+    },
+    {
+      "start": 16.18,
+      "end": 16.42,
+      "word": "menu"
+    },
+    {
+      "start": 16.42,
+      "end": 16.64,
+      "word": "con"
+    },
+    {
+      "start": 16.64,
+      "end": 16.8,
+      "word": "la"
+    },
+    {
+      "start": 16.8,
+      "end": 17.06,
+      "word": "pizza,"
+    },
+    {
+      "start": 17.32,
+      "end": 17.4,
+      "word": "un"
+    },
+    {
+      "start": 17.4,
+      "end": 17.6,
+      "word": "fritto"
+    },
+    {
+      "start": 17.6,
+      "end": 18.22,
+      "word": "napoletano"
+    },
+    {
+      "start": 18.22,
+      "end": 18.42,
+      "word": "e"
+    },
+    {
+      "start": 18.42,
+      "end": 18.54,
+      "word": "una"
+    },
+    {
+      "start": 18.54,
+      "end": 18.88,
+      "word": "bibita"
+    },
+    {
+      "start": 18.88,
+      "end": 19.04,
+      "word": "io"
+    },
+    {
+      "start": 19.04,
+      "end": 19.14,
+      "word": "ho"
+    },
+    {
+      "start": 19.14,
+      "end": 19.22,
+      "word": "allora"
+    },
+    {
+      "start": 19.22,
+      "end": 19.62,
+      "word": "assaggiato"
+    },
+    {
+      "start": 19.62,
+      "end": 19.8,
+      "word": "la"
+    },
+    {
+      "start": 19.8,
+      "end": 19.98,
+      "word": "loro"
+    },
+    {
+      "start": 19.98,
+      "end": 20.34,
+      "word": "pizza"
+    },
+    {
+      "start": 20.34,
+      "end": 20.82,
+      "word": "napoletana"
+    },
+    {
+      "start": 20.82,
+      "end": 21.06,
+      "word": "con"
+    },
+    {
+      "start": 21.06,
+      "end": 21.22,
+      "word": "l"
+    },
+    {
+      "start": 21.22,
+      "end": 21.68,
+      "word": "'anduia"
+    },
+    {
+      "start": 21.68,
+      "end": 21.82,
+      "word": "e"
+    },
+    {
+      "start": 21.82,
+      "end": 22.04,
+      "word": "quella"
+    },
+    {
+      "start": 22.04,
+      "end": 22.52,
+      "word": "americana"
+    },
+    {
+      "start": 22.52,
+      "end": 22.76,
+      "word": "con"
+    },
+    {
+      "start": 22.76,
+      "end": 22.84,
+      "word": "i"
+    },
+    {
+      "start": 22.84,
+      "end": 23.28,
+      "word": "peperoni"
+    },
+    {
+      "start": 23.28,
+      "end": 23.56,
+      "word": "partendo"
+    },
+    {
+      "start": 23.56,
+      "end": 23.74,
+      "word": "proprio"
+    },
+    {
+      "start": 23.74,
+      "end": 23.9,
+      "word": "da"
+    },
+    {
+      "start": 23.9,
+      "end": 24.04,
+      "word": "quest"
+    },
+    {
+      "start": 24.04,
+      "end": 24.4,
+      "word": "'ultima"
+    },
+    {
+      "start": 24.4,
+      "end": 24.52,
+      "word": "devo"
+    },
+    {
+      "start": 24.52,
+      "end": 24.76,
+      "word": "dire"
+    },
+    {
+      "start": 24.76,
+      "end": 24.92,
+      "word": "che"
+    },
+    {
+      "start": 24.92,
+      "end": 25.02,
+      "word": "era"
+    },
+    {
+      "start": 25.02,
+      "end": 25.26,
+      "word": "cotta"
+    },
+    {
+      "start": 25.26,
+      "end": 25.52,
+      "word": "molto"
+    },
+    {
+      "start": 25.52,
+      "end": 25.84,
+      "word": "bene"
+    },
+    {
+      "start": 25.84,
+      "end": 26.04,
+      "word": "ero"
+    },
+    {
+      "start": 26.04,
+      "end": 26.3,
+      "word": "ovviamente"
+    },
+    {
+      "start": 26.3,
+      "end": 26.56,
+      "word": "come"
+    },
+    {
+      "start": 26.56,
+      "end": 26.82,
+      "word": "potete"
+    },
+    {
+      "start": 26.82,
+      "end": 27.06,
+      "word": "vedere"
+    },
+    {
+      "start": 27.06,
+      "end": 27.52,
+      "word": "molto"
+    },
+    {
+      "start": 27.52,
+      "end": 28.18,
+      "word": "unta"
+    },
+    {
+      "start": 28.18,
+      "end": 28.32,
+      "word": "e"
+    },
+    {
+      "start": 28.32,
+      "end": 28.48,
+      "word": "con"
+    },
+    {
+      "start": 28.48,
+      "end": 28.94,
+      "word": "tantissima"
+    },
+    {
+      "start": 28.94,
+      "end": 29.3,
+      "word": "mozzarella"
+    },
+    {
+      "start": 29.3,
+      "end": 29.7,
+      "word": "e"
+    },
+    {
+      "start": 29.7,
+      "end": 29.9,
+      "word": "credo"
+    },
+    {
+      "start": 29.9,
+      "end": 30.0,
+      "word": "che"
+    },
+    {
+      "start": 30.0,
+      "end": 30.08,
+      "word": "la"
+    },
+    {
+      "start": 30.08,
+      "end": 30.44,
+      "word": "differenza"
+    },
+    {
+      "start": 30.44,
+      "end": 30.6,
+      "word": "tra"
+    },
+    {
+      "start": 30.6,
+      "end": 30.72,
+      "word": "la"
+    },
+    {
+      "start": 30.72,
+      "end": 31.0,
+      "word": "versione"
+    },
+    {
+      "start": 31.0,
+      "end": 31.38,
+      "word": "napoletana"
+    },
+    {
+      "start": 31.38,
+      "end": 31.84,
+      "word": "americana"
+    },
+    {
+      "start": 31.84,
+      "end": 32.12,
+      "word": "sia"
+    },
+    {
+      "start": 32.12,
+      "end": 32.32,
+      "word": "proprio"
+    },
+    {
+      "start": 32.32,
+      "end": 32.72,
+      "word": "questo"
+    },
+    {
+      "start": 32.72,
+      "end": 32.96,
+      "word": "ovvero"
+    },
+    {
+      "start": 32.96,
+      "end": 33.24,
+      "word": "quanto"
+    },
+    {
+      "start": 33.24,
+      "end": 33.56,
+      "word": "unta"
+    },
+    {
+      "start": 33.56,
+      "end": 33.68,
+      "word": "la"
+    },
+    {
+      "start": 33.68,
+      "end": 33.86,
+      "word": "pizza,"
+    },
+    {
+      "start": 34.06,
+      "end": 34.22,
+      "word": "quanto"
+    },
+    {
+      "start": 34.22,
+      "end": 34.62,
+      "word": "mozzarella"
+    },
+    {
+      "start": 34.62,
+      "end": 34.8,
+      "word": "ci"
+    },
+    {
+      "start": 34.8,
+      "end": 35.1,
+      "word": "metto"
+    },
+    {
+      "start": 35.1,
+      "end": 35.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 35.4,
+      "end": 35.7,
+      "word": "poi"
+    },
+    {
+      "start": 35.7,
+      "end": 35.82,
+      "word": "l"
+    },
+    {
+      "start": 35.82,
+      "end": 36.22,
+      "word": "'ingredienti"
+    },
+    {
+      "start": 36.22,
+      "end": 36.6,
+      "word": "sopra"
+    },
+    {
+      "start": 36.6,
+      "end": 36.74,
+      "word": "un"
+    },
+    {
+      "start": 36.74,
+      "end": 36.94,
+      "word": "pasto"
+    },
+    {
+      "start": 36.94,
+      "end": 37.18,
+      "word": "comunque"
+    },
+    {
+      "start": 37.18,
+      "end": 37.7,
+      "word": "ottimo"
+    },
+    {
+      "start": 37.7,
+      "end": 38.06,
+      "word": "magari"
+    },
+    {
+      "start": 38.06,
+      "end": 38.24,
+      "word": "non"
+    },
+    {
+      "start": 38.24,
+      "end": 38.36,
+      "word": "gli"
+    },
+    {
+      "start": 38.36,
+      "end": 38.7,
+      "word": "evitato"
+    },
+    {
+      "start": 38.7,
+      "end": 39.12,
+      "word": "soffice"
+    },
+    {
+      "start": 39.12,
+      "end": 39.26,
+      "word": "come"
+    },
+    {
+      "start": 39.26,
+      "end": 39.44,
+      "word": "quello"
+    },
+    {
+      "start": 39.44,
+      "end": 39.62,
+      "word": "delle"
+    },
+    {
+      "start": 39.62,
+      "end": 39.84,
+      "word": "grandi"
+    },
+    {
+      "start": 39.84,
+      "end": 40.32,
+      "word": "pizzerene"
+    },
+    {
+      "start": 40.32,
+      "end": 40.88,
+      "word": "napoletane"
+    },
+    {
+      "start": 40.88,
+      "end": 41.06,
+      "word": "ma"
+    },
+    {
+      "start": 41.06,
+      "end": 41.4,
+      "word": "neanche"
+    },
+    {
+      "start": 41.4,
+      "end": 41.74,
+      "word": "basso"
+    },
+    {
+      "start": 41.74,
+      "end": 41.88,
+      "word": "in"
+    },
+    {
+      "start": 41.88,
+      "end": 42.26,
+      "word": "sipido"
+    },
+    {
+      "start": 42.26,
+      "end": 42.64,
+      "word": "ecco"
+    },
+    {
+      "start": 42.64,
+      "end": 42.92,
+      "word": "passando"
+    },
+    {
+      "start": 42.92,
+      "end": 43.12,
+      "word": "invece"
+    },
+    {
+      "start": 43.12,
+      "end": 43.24,
+      "word": "a"
+    },
+    {
+      "start": 43.24,
+      "end": 43.34,
+      "word": "quella"
+    },
+    {
+      "start": 43.34,
+      "end": 43.46,
+      "word": "con"
+    },
+    {
+      "start": 43.46,
+      "end": 43.58,
+      "word": "l"
+    },
+    {
+      "start": 43.58,
+      "end": 43.84,
+      "word": "'anduia"
+    },
+    {
+      "start": 43.84,
+      "end": 43.98,
+      "word": "devo"
+    },
+    {
+      "start": 43.98,
+      "end": 44.16,
+      "word": "dire"
+    },
+    {
+      "start": 44.16,
+      "end": 44.28,
+      "word": "che"
+    },
+    {
+      "start": 44.28,
+      "end": 44.42,
+      "word": "qua"
+    },
+    {
+      "start": 44.42,
+      "end": 44.52,
+      "word": "c"
+    },
+    {
+      "start": 44.52,
+      "end": 44.58,
+      "word": "'era"
+    },
+    {
+      "start": 44.58,
+      "end": 44.96,
+      "word": "sicuramente"
+    },
+    {
+      "start": 44.96,
+      "end": 45.14,
+      "word": "più"
+    },
+    {
+      "start": 45.14,
+      "end": 45.6,
+      "word": "pomodoro"
+    },
+    {
+      "start": 45.6,
+      "end": 45.74,
+      "word": "e"
+    },
+    {
+      "start": 45.74,
+      "end": 45.84,
+      "word": "per"
+    },
+    {
+      "start": 45.84,
+      "end": 46.02,
+      "word": "quanto"
+    },
+    {
+      "start": 46.02,
+      "end": 46.18,
+      "word": "ci"
+    },
+    {
+      "start": 46.18,
+      "end": 46.32,
+      "word": "fosse"
+    },
+    {
+      "start": 46.32,
+      "end": 46.52,
+      "word": "l"
+    },
+    {
+      "start": 46.52,
+      "end": 46.8,
+      "word": "'anduia"
+    },
+    {
+      "start": 46.8,
+      "end": 46.94,
+      "word": "con"
+    },
+    {
+      "start": 46.94,
+      "end": 47.0,
+      "word": "un"
+    },
+    {
+      "start": 47.0,
+      "end": 47.22,
+      "word": "sapore"
+    },
+    {
+      "start": 47.22,
+      "end": 47.44,
+      "word": "molto"
+    },
+    {
+      "start": 47.44,
+      "end": 47.76,
+      "word": "forte"
+    },
+    {
+      "start": 47.76,
+      "end": 47.98,
+      "word": "l"
+    },
+    {
+      "start": 47.98,
+      "end": 48.24,
+      "word": "'impasto"
+    },
+    {
+      "start": 48.24,
+      "end": 48.66,
+      "word": "sentiva"
+    },
+    {
+      "start": 48.66,
+      "end": 48.94,
+      "word": "comunque"
+    },
+    {
+      "start": 48.94,
+      "end": 49.14,
+      "word": "di"
+    },
+    {
+      "start": 49.14,
+      "end": 49.28,
+      "word": "più"
+    },
+    {
+      "start": 49.28,
+      "end": 49.4,
+      "word": "dell"
+    },
+    {
+      "start": 49.4,
+      "end": 49.68,
+      "word": "'altro"
+    },
+    {
+      "start": 49.68,
+      "end": 49.88,
+      "word": "se"
+    },
+    {
+      "start": 49.88,
+      "end": 49.98,
+      "word": "non"
+    },
+    {
+      "start": 49.98,
+      "end": 50.1,
+      "word": "ci"
+    },
+    {
+      "start": 50.1,
+      "end": 50.28,
+      "word": "meno"
+    },
+    {
+      "start": 50.28,
+      "end": 50.64,
+      "word": "mozzarella"
+    },
+    {
+      "start": 50.64,
+      "end": 51.0,
+      "word": "meno"
+    },
+    {
+      "start": 51.0,
+      "end": 51.38,
+      "word": "olio"
+    },
+    {
+      "start": 51.38,
+      "end": 51.66,
+      "word": "essendo"
+    },
+    {
+      "start": 51.66,
+      "end": 51.88,
+      "word": "appunto"
+    },
+    {
+      "start": 51.88,
+      "end": 52.0,
+      "word": "in"
+    },
+    {
+      "start": 52.0,
+      "end": 52.38,
+      "word": "generale"
+    },
+    {
+      "start": 52.38,
+      "end": 52.6,
+      "word": "meno"
+    },
+    {
+      "start": 52.6,
+      "end": 52.96,
+      "word": "unta"
+    },
+    {
+      "start": 52.96,
+      "end": 53.02,
+      "word": "e"
+    },
+    {
+      "start": 53.02,
+      "end": 53.42,
+      "word": "condita"
+    },
+    {
+      "start": 53.42,
+      "end": 54.02,
+      "word": "entrambe"
+    },
+    {
+      "start": 54.02,
+      "end": 54.14,
+      "word": "le"
+    },
+    {
+      "start": 54.14,
+      "end": 54.32,
+      "word": "pizza"
+    },
+    {
+      "start": 54.32,
+      "end": 54.46,
+      "word": "mi"
+    },
+    {
+      "start": 54.46,
+      "end": 54.56,
+      "word": "sono"
+    },
+    {
+      "start": 54.56,
+      "end": 54.88,
+      "word": "piaciute"
+    },
+    {
+      "start": 54.88,
+      "end": 55.08,
+      "word": "molto"
+    },
+    {
+      "start": 55.08,
+      "end": 55.5,
+      "word": "cosa"
+    },
+    {
+      "start": 55.5,
+      "end": 55.68,
+      "word": "che"
+    },
+    {
+      "start": 55.68,
+      "end": 55.86,
+      "word": "però"
+    },
+    {
+      "start": 55.86,
+      "end": 56.0,
+      "word": "non"
+    },
+    {
+      "start": 56.0,
+      "end": 56.24,
+      "word": "posso"
+    },
+    {
+      "start": 56.24,
+      "end": 56.58,
+      "word": "dire"
+    },
+    {
+      "start": 56.58,
+      "end": 56.92,
+      "word": "dei"
+    },
+    {
+      "start": 56.92,
+      "end": 57.36,
+      "word": "fritti"
+    },
+    {
+      "start": 57.36,
+      "end": 57.64,
+      "word": "infatti"
+    },
+    {
+      "start": 57.64,
+      "end": 57.72,
+      "word": "ho"
+    },
+    {
+      "start": 57.72,
+      "end": 58.0,
+      "word": "provato"
+    },
+    {
+      "start": 58.0,
+      "end": 58.16,
+      "word": "se"
+    },
+    {
+      "start": 58.16,
+      "end": 58.22,
+      "word": "i"
+    },
+    {
+      "start": 58.22,
+      "end": 58.34,
+      "word": "loro"
+    },
+    {
+      "start": 58.34,
+      "end": 58.88,
+      "word": "arancini"
+    },
+    {
+      "start": 58.88,
+      "end": 59.0,
+      "word": "che"
+    },
+    {
+      "start": 59.0,
+      "end": 59.1,
+      "word": "le"
+    },
+    {
+      "start": 59.1,
+      "end": 59.24,
+      "word": "loro"
+    },
+    {
+      "start": 59.24,
+      "end": 59.8,
+      "word": "frittacchine"
+    },
+    {
+      "start": 59.8,
+      "end": 59.92,
+      "word": "devo"
+    },
+    {
+      "start": 59.92,
+      "end": 60.12,
+      "word": "dire"
+    },
+    {
+      "start": 60.12,
+      "end": 60.26,
+      "word": "che"
+    },
+    {
+      "start": 60.26,
+      "end": 60.68,
+      "word": "entrambi"
+    },
+    {
+      "start": 60.68,
+      "end": 60.74,
+      "word": "non"
+    },
+    {
+      "start": 60.74,
+      "end": 61.02,
+      "word": "erano"
+    },
+    {
+      "start": 61.02,
+      "end": 61.38,
+      "word": "niente"
+    },
+    {
+      "start": 61.38,
+      "end": 61.48,
+      "word": "di"
+    },
+    {
+      "start": 61.48,
+      "end": 61.64,
+      "word": "che"
+    },
+    {
+      "start": 61.64,
+      "end": 61.8,
+      "word": "lo"
+    },
+    {
+      "start": 61.8,
+      "end": 61.86,
+      "word": "in"
+    },
+    {
+      "start": 61.86,
+      "end": 62.06,
+      "word": "caso"
+    },
+    {
+      "start": 62.06,
+      "end": 62.24,
+      "word": "se"
+    },
+    {
+      "start": 62.24,
+      "end": 62.66,
+      "word": "considero"
+    },
+    {
+      "start": 62.66,
+      "end": 62.7,
+      "word": "il"
+    },
+    {
+      "start": 62.7,
+      "end": 62.92,
+      "word": "prezzo"
+    },
+    {
+      "start": 62.92,
+      "end": 63.08,
+      "word": "del"
+    },
+    {
+      "start": 63.08,
+      "end": 63.32,
+      "word": "menu"
+    },
+    {
+      "start": 63.32,
+      "end": 63.46,
+      "word": "la"
+    },
+    {
+      "start": 63.46,
+      "end": 63.74,
+      "word": "qualità"
+    },
+    {
+      "start": 63.74,
+      "end": 63.88,
+      "word": "della"
+    },
+    {
+      "start": 63.88,
+      "end": 64.18,
+      "word": "pizza"
+    },
+    {
+      "start": 64.18,
+      "end": 64.5,
+      "word": "e"
+    },
+    {
+      "start": 64.5,
+      "end": 64.58,
+      "word": "la"
+    },
+    {
+      "start": 64.58,
+      "end": 64.94,
+      "word": "location"
+    },
+    {
+      "start": 64.94,
+      "end": 65.16,
+      "word": "è"
+    },
+    {
+      "start": 65.16,
+      "end": 65.42,
+      "word": "allora"
+    },
+    {
+      "start": 65.42,
+      "end": 65.62,
+      "word": "sì"
+    },
+    {
+      "start": 65.62,
+      "end": 65.7,
+      "word": "che"
+    },
+    {
+      "start": 65.7,
+      "end": 65.8,
+      "word": "è"
+    },
+    {
+      "start": 65.8,
+      "end": 65.82,
+      "word": "un"
+    },
+    {
+      "start": 65.82,
+      "end": 66.16,
+      "word": "posto"
+    },
+    {
+      "start": 66.16,
+      "end": 66.38,
+      "word": "davvero"
+    },
+    {
+      "start": 66.38,
+      "end": 66.96,
+      "word": "clamo"
+    },
+    {
+      "start": 66.96,
+      "end": 67.44,
+      "word": "pro"
+    }
+  ],
+  "aligned_shots": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.067,
+      "dur": 2.067,
+      "transcript": "un fast food di pizza napoletana e pizza"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.067,
+      "end": 5.067,
+      "dur": 3.0,
+      "transcript": "americana aperto tra l 'altro da sorbillo vedete che è un posto che"
+    },
+    {
+      "shot_idx": 2,
+      "start": 5.067,
+      "end": 7.233,
+      "dur": 2.167,
+      "transcript": "dovevo assolutamente provare parlando di pop,"
+    },
+    {
+      "shot_idx": 3,
+      "start": 7.233,
+      "end": 8.467,
+      "dur": 1.233,
+      "transcript": "people of pizza punto nuovo"
+    },
+    {
+      "shot_idx": 4,
+      "start": 8.467,
+      "end": 9.433,
+      "dur": 0.967,
+      "transcript": "locale di gino"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.433,
+      "end": 13.0,
+      "dur": 3.567,
+      "transcript": "sorbillo aperto in centro a milano che in modalità fast food propone pizza"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.0,
+      "end": 15.0,
+      "dur": 2.0,
+      "transcript": "napoletana e americana dal totem potete"
+    },
+    {
+      "shot_idx": 7,
+      "start": 15.0,
+      "end": 17.2,
+      "dur": 2.2,
+      "transcript": "appunto ordinare il vostro menu con la pizza,"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.2,
+      "end": 19.0,
+      "dur": 1.8,
+      "transcript": "un fritto napoletano e una bibita io"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.0,
+      "end": 21.133,
+      "dur": 2.133,
+      "transcript": "ho allora assaggiato la loro pizza napoletana con"
+    },
+    {
+      "shot_idx": 10,
+      "start": 21.133,
+      "end": 22.333,
+      "dur": 1.2,
+      "transcript": "l 'anduia e quella americana"
+    },
+    {
+      "shot_idx": 11,
+      "start": 22.333,
+      "end": 26.033,
+      "dur": 3.7,
+      "transcript": "con i peperoni partendo proprio da quest 'ultima devo dire che era cotta molto bene ero"
+    },
+    {
+      "shot_idx": 12,
+      "start": 26.033,
+      "end": 27.433,
+      "dur": 1.4,
+      "transcript": "ovviamente come potete vedere molto"
+    },
+    {
+      "shot_idx": 13,
+      "start": 27.433,
+      "end": 29.633,
+      "dur": 2.2,
+      "transcript": "unta e con tantissima mozzarella e"
+    },
+    {
+      "shot_idx": 14,
+      "start": 29.633,
+      "end": 33.667,
+      "dur": 4.033,
+      "transcript": "credo che la differenza tra la versione napoletana americana sia proprio questo ovvero quanto unta la"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.667,
+      "end": 42.1,
+      "dur": 8.433,
+      "transcript": "pizza, quanto mozzarella ci metto ovviamente poi l 'ingredienti sopra un pasto comunque ottimo magari non gli evitato soffice come quello delle grandi pizzerene napoletane ma neanche basso in sipido"
+    },
+    {
+      "shot_idx": 16,
+      "start": 42.1,
+      "end": 45.9,
+      "dur": 3.8,
+      "transcript": "ecco passando invece a quella con l 'anduia devo dire che qua c 'era sicuramente più pomodoro e per"
+    },
+    {
+      "shot_idx": 17,
+      "start": 45.9,
+      "end": 49.9,
+      "dur": 4.0,
+      "transcript": "quanto ci fosse l 'anduia con un sapore molto forte l 'impasto sentiva comunque di più dell 'altro se"
+    },
+    {
+      "shot_idx": 18,
+      "start": 49.9,
+      "end": 55.867,
+      "dur": 5.967,
+      "transcript": "non ci meno mozzarella meno olio essendo appunto in generale meno unta e condita entrambe le pizza mi sono piaciute molto cosa che però"
+    },
+    {
+      "shot_idx": 19,
+      "start": 55.867,
+      "end": 65.767,
+      "dur": 9.9,
+      "transcript": "non posso dire dei fritti infatti ho provato se i loro arancini che le loro frittacchine devo dire che entrambi non erano niente di che lo in caso se considero il prezzo del menu la qualità della pizza e la location è allora sì che è"
+    },
+    {
+      "shot_idx": 20,
+      "start": 65.767,
+      "end": 67.733,
+      "dur": 1.967,
+      "transcript": "un posto davvero clamo pro"
+    },
+    {
+      "shot_idx": 21,
+      "start": 67.733,
+      "end": 68.0,
+      "dur": 0.267,
+      "transcript": ""
+    }
+  ]
+}

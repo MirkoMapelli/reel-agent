@@ -1,0 +1,3287 @@
+{
+  "video_id": "7324309344642813217",
+  "creator": "jay.emme",
+  "meta": {
+    "id": "7324309344642813217",
+    "title": "🥩ALL YOU CAN EAT CARNE BRASILIANA🇧🇷 (e non solo) A MILANO! @Churrasca...",
+    "url": "https://www.tiktok.com/@jay.emme/video/7324309344642813217",
+    "creator": "jay.emme",
+    "duration": 90,
+    "downloaded_at": "2026-09-20T22:20:24"
+  },
+  "n_shots": 38,
+  "total_dur": 90.57,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 3.6,
+      "dur": 1.567,
+      "center": 2.817,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 3.6,
+      "end": 4.833,
+      "dur": 1.233,
+      "center": 4.217,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_002.jpg"
+    },
+    {
+      "idx": 3,
+      "start": 4.833,
+      "end": 7.833,
+      "dur": 3.0,
+      "center": 6.333,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_003.jpg"
+    },
+    {
+      "idx": 4,
+      "start": 7.833,
+      "end": 10.3,
+      "dur": 2.467,
+      "center": 9.067,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_004.jpg"
+    },
+    {
+      "idx": 5,
+      "start": 10.3,
+      "end": 16.667,
+      "dur": 6.367,
+      "center": 13.483,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_005.jpg"
+    },
+    {
+      "idx": 6,
+      "start": 16.667,
+      "end": 20.167,
+      "dur": 3.5,
+      "center": 18.417,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_006.jpg"
+    },
+    {
+      "idx": 7,
+      "start": 20.167,
+      "end": 22.7,
+      "dur": 2.533,
+      "center": 21.433,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_007.jpg"
+    },
+    {
+      "idx": 8,
+      "start": 22.7,
+      "end": 23.867,
+      "dur": 1.167,
+      "center": 23.283,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_008.jpg"
+    },
+    {
+      "idx": 9,
+      "start": 23.867,
+      "end": 26.367,
+      "dur": 2.5,
+      "center": 25.117,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_009.jpg"
+    },
+    {
+      "idx": 10,
+      "start": 26.367,
+      "end": 28.3,
+      "dur": 1.933,
+      "center": 27.333,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_010.jpg"
+    },
+    {
+      "idx": 11,
+      "start": 28.3,
+      "end": 30.767,
+      "dur": 2.467,
+      "center": 29.533,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_011.jpg"
+    },
+    {
+      "idx": 12,
+      "start": 30.767,
+      "end": 32.8,
+      "dur": 2.033,
+      "center": 31.783,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_012.jpg"
+    },
+    {
+      "idx": 13,
+      "start": 32.8,
+      "end": 34.767,
+      "dur": 1.967,
+      "center": 33.783,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_013.jpg"
+    },
+    {
+      "idx": 14,
+      "start": 34.767,
+      "end": 36.0,
+      "dur": 1.233,
+      "center": 35.383,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_014.jpg"
+    },
+    {
+      "idx": 15,
+      "start": 36.0,
+      "end": 39.0,
+      "dur": 3.0,
+      "center": 37.5,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_015.jpg"
+    },
+    {
+      "idx": 16,
+      "start": 39.0,
+      "end": 42.033,
+      "dur": 3.033,
+      "center": 40.517,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_016.jpg"
+    },
+    {
+      "idx": 17,
+      "start": 42.033,
+      "end": 44.5,
+      "dur": 2.467,
+      "center": 43.267,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_017.jpg"
+    },
+    {
+      "idx": 18,
+      "start": 44.5,
+      "end": 46.0,
+      "dur": 1.5,
+      "center": 45.25,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_018.jpg"
+    },
+    {
+      "idx": 19,
+      "start": 46.0,
+      "end": 47.233,
+      "dur": 1.233,
+      "center": 46.617,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_019.jpg"
+    },
+    {
+      "idx": 20,
+      "start": 47.233,
+      "end": 48.467,
+      "dur": 1.233,
+      "center": 47.85,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_020.jpg"
+    },
+    {
+      "idx": 21,
+      "start": 48.467,
+      "end": 53.8,
+      "dur": 5.333,
+      "center": 51.133,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_021.jpg"
+    },
+    {
+      "idx": 22,
+      "start": 53.8,
+      "end": 54.867,
+      "dur": 1.067,
+      "center": 54.333,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_022.jpg"
+    },
+    {
+      "idx": 23,
+      "start": 54.867,
+      "end": 58.4,
+      "dur": 3.533,
+      "center": 56.633,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_023.jpg"
+    },
+    {
+      "idx": 24,
+      "start": 58.4,
+      "end": 59.667,
+      "dur": 1.267,
+      "center": 59.033,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_024.jpg"
+    },
+    {
+      "idx": 25,
+      "start": 59.667,
+      "end": 61.867,
+      "dur": 2.2,
+      "center": 60.767,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_025.jpg"
+    },
+    {
+      "idx": 26,
+      "start": 61.867,
+      "end": 63.4,
+      "dur": 1.533,
+      "center": 62.633,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_026.jpg"
+    },
+    {
+      "idx": 27,
+      "start": 63.4,
+      "end": 64.9,
+      "dur": 1.5,
+      "center": 64.15,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_027.jpg"
+    },
+    {
+      "idx": 28,
+      "start": 64.9,
+      "end": 66.7,
+      "dur": 1.8,
+      "center": 65.8,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_028.jpg"
+    },
+    {
+      "idx": 29,
+      "start": 66.7,
+      "end": 68.467,
+      "dur": 1.767,
+      "center": 67.583,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_029.jpg"
+    },
+    {
+      "idx": 30,
+      "start": 68.467,
+      "end": 73.433,
+      "dur": 4.967,
+      "center": 70.95,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_030.jpg"
+    },
+    {
+      "idx": 31,
+      "start": 73.433,
+      "end": 76.467,
+      "dur": 3.033,
+      "center": 74.95,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_031.jpg"
+    },
+    {
+      "idx": 32,
+      "start": 76.467,
+      "end": 80.467,
+      "dur": 4.0,
+      "center": 78.467,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_032.jpg"
+    },
+    {
+      "idx": 33,
+      "start": 80.467,
+      "end": 82.467,
+      "dur": 2.0,
+      "center": 81.467,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_033.jpg"
+    },
+    {
+      "idx": 34,
+      "start": 82.467,
+      "end": 83.967,
+      "dur": 1.5,
+      "center": 83.217,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_034.jpg"
+    },
+    {
+      "idx": 35,
+      "start": 83.967,
+      "end": 86.5,
+      "dur": 2.533,
+      "center": 85.233,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_035.jpg"
+    },
+    {
+      "idx": 36,
+      "start": 86.5,
+      "end": 90.5,
+      "dur": 4.0,
+      "center": 88.5,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_036.jpg"
+    },
+    {
+      "idx": 37,
+      "start": 90.5,
+      "end": 90.567,
+      "dur": 0.067,
+      "center": 90.533,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7324309344642813217/frames/shot_037.jpg"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role": "food_closeup",
+      "subject": "carne brasiliana spiedino",
+      "description": "Una mano taglia un pezzo di carne da uno spiedino verticale, mostrando l'interno rosato della carne.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role": "person_eating",
+      "subject": "ragazzo con piatti",
+      "description": "Un ragazzo con una maglietta nera con un fulmine giallo tiene in mano due piatti pieni di cibo, guardando verso il basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 3.6,
+      "dur": 1.567
+    },
+    {
+      "idx": 2,
+      "role": "drink_detail",
+      "subject": "ragazzo beve cocktail",
+      "description": "Un ragazzo beve da un bicchiere di cocktail con una cannuccia nera, mentre un piatto con del cibo è visibile in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 2,
+      "start": 3.6,
+      "end": 4.833,
+      "dur": 1.233
+    },
+    {
+      "idx": 3,
+      "role": "other",
+      "subject": "ballerina in locale",
+      "description": "Una ballerina con un costume giallo e piume si esibisce in un locale, con tavoli e persone sedute sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "sedia",
+        "murale"
+      ],
+      "shot_idx": 3,
+      "start": 4.833,
+      "end": 7.833,
+      "dur": 3.0
+    },
+    {
+      "idx": 4,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante",
+      "description": "Una vista ampia dell'interno di un ristorante con tavoli apparecchiati e persone sedute, illuminato da luci artificiali.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "sedia",
+        "murale",
+        "tenda"
+      ],
+      "shot_idx": 4,
+      "start": 7.833,
+      "end": 10.3,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "buffet di antipasti",
+      "description": "Una varietà di piatti di antipasti sono disposti su un tavolo, inclusi verdure grigliate, insalate e bocconcini di mozzarella.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 5,
+      "start": 10.3,
+      "end": 16.667,
+      "dur": 6.367
+    },
+    {
+      "idx": 1,
+      "role": "venue_interior_detail",
+      "subject": "piatto vuoto e pentole",
+      "description": "Un piatto bianco vuoto è posizionato su un vassoio scuro, con due pentole nere sullo sfondo. La parete dietro ha un murale con motivi floreali.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 6,
+      "start": 16.667,
+      "end": 20.167,
+      "dur": 3.5
+    },
+    {
+      "idx": 2,
+      "role": "food_plated",
+      "subject": "piatto di antipasti misti",
+      "description": "Un piatto bianco contiene una selezione di antipasti, tra cui insalata russa, bocconcini di mozzarella, involtini di patate e carne.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 7,
+      "start": 20.167,
+      "end": 22.7,
+      "dur": 2.533
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "uomo che mangia",
+      "description": "Un uomo con una maglietta nera con fulmini gialli sta mangiando da un piatto con un cucchiaio. Sullo sfondo si intravede un murale.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 8,
+      "start": 22.7,
+      "end": 23.867,
+      "dur": 1.167
+    },
+    {
+      "idx": 4,
+      "role": "food_detail",
+      "subject": "stuzzichini brasiliani",
+      "description": "Due piatti bianchi contengono stuzzichini tipici brasiliani, tra cui pão de queijo e altri fritti, disposti su tovaglioli neri.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 9,
+      "start": 23.867,
+      "end": 26.367,
+      "dur": 2.5
+    },
+    {
+      "idx": 0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia fritto",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli tiene in mano un pezzo di cibo fritto, mentre sul piatto davanti a lui ci sono altri cibi e un coltello.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 10,
+      "start": 26.367,
+      "end": 28.3,
+      "dur": 1.933
+    },
+    {
+      "idx": 1,
+      "role": "person_eating",
+      "subject": "ragazzo mangia fritto",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli tiene in mano un pezzo di cibo fritto, mentre sul piatto davanti a lui ci sono avanzi di cibo e una ciotolina con un cucchiaino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 11,
+      "start": 28.3,
+      "end": 30.767,
+      "dur": 2.467
+    },
+    {
+      "idx": 2,
+      "role": "person_eating",
+      "subject": "ragazzo mangia antipasto",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli sta mangiando un pezzo di cibo dal piatto, che contiene avanzi di cibo. Sullo sfondo si vede un murale con motivi vegetali.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo",
+        "murale"
+      ],
+      "shot_idx": 12,
+      "start": 30.767,
+      "end": 32.8,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "ragazzo mangia fritto",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli tiene in mano un pezzo di cibo fritto e lo sta per mangiare. Il piatto davanti a lui è quasi vuoto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo",
+        "murale"
+      ],
+      "shot_idx": 13,
+      "start": 32.8,
+      "end": 34.767,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia fritto",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli sta mangiando un pezzo di cibo fritto. Sul piatto davanti a lui ci sono vari tipi di carne e patate.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "venue_elements": [
+        "tavolo",
+        "murale"
+      ],
+      "shot_idx": 14,
+      "start": 34.767,
+      "end": 36.0,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role": "food_detail",
+      "subject": "carne sullo spiedo",
+      "description": "Una persona sta tagliando della carne da uno spiedo che si trova su un supporto metallico. Si vedono le mani della persona e parte del tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 15,
+      "start": 36.0,
+      "end": 39.0,
+      "dur": 3.0
+    },
+    {
+      "idx": 1,
+      "role": "detail",
+      "subject": "sottobicchiere rosso",
+      "description": "Una mano sta girando un sottobicchiere rotondo rosso con la scritta 'Brassa' e 'Não Obrigado' (No Grazie) in giallo. Sullo sfondo si intravede un altro sottobicchiere verde con la scritta 'Sim Obrigado' (Sì Grazie).",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 16,
+      "start": 39.0,
+      "end": 42.033,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "carne tagliata",
+      "description": "Una persona sta tagliando un pezzo di carne da uno spiedo con un coltello e delle pinze. La carne è ben cotta e succosa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 17,
+      "start": 42.033,
+      "end": 44.5,
+      "dur": 2.467
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "ragazzo mangia salsiccia",
+      "description": "Un ragazzo sta mangiando un pezzo di salsiccia da una forchetta, con la salsiccia in primo piano e il suo viso leggermente sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 18,
+      "start": 44.5,
+      "end": 46.0,
+      "dur": 1.5
+    },
+    {
+      "idx": 4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo",
+      "description": "Un ragazzo sta mangiando un pezzo di pollo da una forchetta, con la bocca aperta e il cibo vicino al viso. Indossa una maglietta nera con un disegno giallo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 19,
+      "start": 46.0,
+      "end": 47.233,
+      "dur": 1.233
+    },
+    {
+      "idx": 0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli sta mangiando un pezzo di carne con una forchetta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 20,
+      "start": 47.233,
+      "end": 48.467,
+      "dur": 1.233
+    },
+    {
+      "idx": 1,
+      "role": "food_detail",
+      "subject": "carne allo spiedo",
+      "description": "Un pezzo di carne allo spiedo viene tagliato con un coltello, mostrando l'interno rosa della carne.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 21,
+      "start": 48.467,
+      "end": 53.8,
+      "dur": 5.333
+    },
+    {
+      "idx": 2,
+      "role": "person_eating",
+      "subject": "ragazzo mangia cibo",
+      "description": "Il ragazzo con la maglietta nera e fulmini gialli sta mangiando un boccone di cibo dal suo piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 22,
+      "start": 53.8,
+      "end": 54.867,
+      "dur": 1.067
+    },
+    {
+      "idx": 3,
+      "role": "food_detail",
+      "subject": "carne allo spiedo tagliata",
+      "description": "Un pezzo di carne allo spiedo viene tagliato con un coltello e pinze, mostrando l'interno succoso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 23,
+      "start": 54.867,
+      "end": 58.4,
+      "dur": 3.533
+    },
+    {
+      "idx": 4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia con gusto",
+      "description": "Il ragazzo sta mangiando con la bocca aperta, mostrando entusiasmo per il cibo nel suo piatto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 24,
+      "start": 58.4,
+      "end": 59.667,
+      "dur": 1.267
+    },
+    {
+      "idx": 0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Un ragazzo con una maglietta nera con fulmini gialli sta mangiando un pezzo di carne dal suo piatto. Sul tavolo c'è anche un bicchiere con una bevanda e una fetta di lime.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 25,
+      "start": 59.667,
+      "end": 61.867,
+      "dur": 2.2
+    },
+    {
+      "idx": 1,
+      "role": "person_eating",
+      "subject": "ragazzo sorride mangiando",
+      "description": "Un ragazzo sorride mentre tiene una forchetta con un pezzo di carne. Il suo piatto è pieno di carne e contorni. Sullo sfondo si intravede un'altra persona.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 26,
+      "start": 61.867,
+      "end": 63.4,
+      "dur": 1.533
+    },
+    {
+      "idx": 2,
+      "role": "food_detail",
+      "subject": "pezzo di carne",
+      "description": "Un pezzo di carne cotta, con una parte più rosata all'interno e una crosticina esterna, viene tenuto tra due dita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [],
+      "shot_idx": 27,
+      "start": 63.4,
+      "end": 64.9,
+      "dur": 1.5
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "ragazzo beve drink",
+      "description": "Un ragazzo sta bevendo da un bicchiere con una cannuccia. Il suo piatto è quasi vuoto, con solo alcuni resti di cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo"
+      ],
+      "shot_idx": 28,
+      "start": 64.9,
+      "end": 66.7,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role": "other",
+      "subject": "ballerini in costume",
+      "description": "Due ballerini in costumi vivaci, uno con un copricapo di piume gialle, stanno ballando in un locale. Si vedono tavoli e persone sedute sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro",
+        "tavolo",
+        "soffitto"
+      ],
+      "shot_idx": 29,
+      "start": 66.7,
+      "end": 68.467,
+      "dur": 1.767
+    },
+    {
+      "idx": 0,
+      "role": "venue_interior_wide",
+      "subject": "ballerini in costume",
+      "description": "Due ballerini in costume, uno con un copricapo di piume e frutta, ballano in un ristorante con tavoli e clienti sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo",
+        "muro"
+      ],
+      "shot_idx": 30,
+      "start": 68.467,
+      "end": 73.433,
+      "dur": 4.967
+    },
+    {
+      "idx": 1,
+      "role": "venue_interior_wide",
+      "subject": "ballerini in costume",
+      "description": "Una ballerina in costume blu e argento balla in primo piano, mentre un altro ballerino con una camicia blu scintillante balla sullo sfondo in un ristorante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo",
+        "muro"
+      ],
+      "shot_idx": 31,
+      "start": 73.433,
+      "end": 76.467,
+      "dur": 3.033
+    },
+    {
+      "idx": 2,
+      "role": "food_plated",
+      "subject": "dolcetti fritti e salsa",
+      "description": "Un piatto bianco con dolcetti fritti ricoperti di zucchero e cannella è accanto a una ciotola di salsa scura su un tavolo di legno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo"
+      ],
+      "shot_idx": 32,
+      "start": 76.467,
+      "end": 80.467,
+      "dur": 4.0
+    },
+    {
+      "idx": 3,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Un ragazzo con una maglietta nera con un fulmine giallo mangia un dessert al cucchiaio, con un flan sul tavolo davanti a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo",
+        "murale"
+      ],
+      "shot_idx": 33,
+      "start": 80.467,
+      "end": 82.467,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role": "person_eating",
+      "subject": "ragazzo mangia dessert",
+      "description": "Un ragazzo con una maglietta nera con un fulmine giallo sorride mentre mangia un dessert al cucchiaio, con un flan sul tavolo davanti a lui.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo",
+        "murale"
+      ],
+      "shot_idx": 34,
+      "start": 82.467,
+      "end": 83.967,
+      "dur": 1.5
+    },
+    {
+      "idx": 0,
+      "role": "drink_detail",
+      "subject": "ragazzo beve shot",
+      "description": "Un ragazzo sta bevendo uno shot da un bicchierino di vetro. Indossa una felpa nera con un logo rosso e una giacca grigia.",
+      "composition": "close_up",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "muro"
+      ],
+      "shot_idx": 35,
+      "start": 83.967,
+      "end": 86.5,
+      "dur": 2.533
+    },
+    {
+      "idx": 1,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante brasiliano",
+      "description": "L'interno di un ristorante con tavoli e sedie. Si vedono alcune persone sedute e un bancone con cibo. C'è una scritta 'BRASILIANA' in viola al centro dell'immagine.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "venue_elements": [
+        "tavolo",
+        "sedia",
+        "muro",
+        "bancone"
+      ],
+      "shot_idx": 36,
+      "start": 86.5,
+      "end": 90.5,
+      "dur": 4.0
+    },
+    {
+      "idx": 2,
+      "role": "other",
+      "subject": "schermo nero",
+      "description": "L'immagine è completamente nera, non si vede alcun contenuto.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "venue_elements": [],
+      "shot_idx": 37,
+      "start": 90.5,
+      "end": 90.567,
+      "dur": 0.067
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "e se vi cessi che a milano c'è un posto in cui potete mangiare tutta la carne brasiliana che volete senza dover inunciare alla qualità"
+    },
+    {
+      "start": 4.82,
+      "end": 8.28,
+      "text": "ho raccogliere la scria brasa infatti con un prezzo fisso avete a disposizione un ricchissimo buffet"
+    },
+    {
+      "start": 8.28,
+      "end": 10.64,
+      "text": "degli antipassini che potete farvi portare a vostra scelta"
+    },
+    {
+      "start": 10.64,
+      "end": 15.24,
+      "text": "e poi abbiamo il giro di carni che potete prendere quante volte volete spaziando tra 12 tipi diversi di carne"
+    },
+    {
+      "start": 15.24,
+      "end": 19.0,
+      "text": "questo che vedete infatti il loro buffet sia caldo che freddo veramente super ricco"
+    },
+    {
+      "start": 19.0,
+      "end": 22.2,
+      "text": "in cui l'unico problema è riuscire a trattenersi e lasciare spazio anche per la carne"
+    },
+    {
+      "start": 22.2,
+      "end": 26.1,
+      "text": "vi porteranno subito anche i loro antipassini misti tipici brasiliani"
+    },
+    {
+      "start": 26.1,
+      "end": 29.3,
+      "text": "sono appunto un misto di fritti veramente veramente sfiziosi"
+    },
+    {
+      "start": 29.3,
+      "end": 31.06,
+      "text": "serviti con una salsina piccante o una marmellata"
+    },
+    {
+      "start": 31.06,
+      "end": 33.12,
+      "text": "antipassini che io ovviamente ho riordinato"
+    },
+    {
+      "start": 33.12,
+      "end": 36.72,
+      "text": "e oltre a tutto ciò ovviamente arriviamo al punto forte di questo locale ovvero il loro giro di carne"
+    },
+    {
+      "start": 36.72,
+      "end": 42.78,
+      "text": "che continuerà per tutta la serata e voi nel caso in cui foste sazie potete semplicemente girare questo cartoncino sulla parte rossa"
+    },
+    {
+      "start": 42.78,
+      "end": 44.8,
+      "text": "ma vi consiglio di tenerlo sempre sulla parte vera"
+    },
+    {
+      "start": 44.8,
+      "end": 48.32,
+      "text": "oltre alle salsice e alla carne di pollo avete anche a disposizione questa piccagna"
+    },
+    {
+      "start": 48.32,
+      "end": 52.66,
+      "text": "che è veramente una cosa incredibile con quello strato di grasso che veramente si scioglie in bocca"
+    },
+    {
+      "start": 52.66,
+      "end": 55.4,
+      "text": "carne che appunto è sempre di altissima qualità e sempre ben cotta"
+    },
+    {
+      "start": 55.4,
+      "end": 58.48,
+      "text": "cosa che non è sempre così scontata soprattutto offrendo tutta questa carne"
+    },
+    {
+      "start": 58.48,
+      "end": 61.82,
+      "text": "menzione di dono è per questo filetto che era veramente clamo roso"
+    },
+    {
+      "start": 61.82,
+      "end": 66.98,
+      "text": "per accompagnare tutta questa carne e tutto questo cibo potete anche usufruire della loro vastissima scelta di drink brasiliani"
+    },
+    {
+      "start": 66.98,
+      "end": 71.32,
+      "text": "e di sabbo di sera da animare la serata ci saranno anche due ballerino brasiliani che balleranno più o meno ogni mezz'ora"
+    },
+    {
+      "start": 71.32,
+      "end": 73.48,
+      "text": "e che renderanno l'atmosfera ancora più fantastica"
+    },
+    {
+      "start": 73.48,
+      "end": 77.18,
+      "text": "e se ancora con tutto ciò non fosse soddisfatti ovviamente ci sono anche tutti i loro dolci"
+    },
+    {
+      "start": 77.18,
+      "end": 80.02,
+      "text": "tre quelle ho provato questa sorta di cream caramel e i loro churros"
+    },
+    {
+      "start": 80.02,
+      "end": 83.5,
+      "text": "che ovviamente ci stanno benissimo per concludere nonostante fossi già abbastanza provato"
+    },
+    {
+      "start": 83.5,
+      "end": 85.14,
+      "text": "ed infine digestivo brasiliano"
+    },
+    {
+      "start": 85.14,
+      "end": 89.04,
+      "text": "insomma veramente un ottimo posto per fare una serata con gli amici mangiando tutta la carne brasiliana che volete"
+    },
+    {
+      "start": 89.04,
+      "end": 90.32,
+      "text": "senza dover inunciare alla qualità"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "word": "e"
+    },
+    {
+      "start": 0.12,
+      "end": 0.18,
+      "word": "se"
+    },
+    {
+      "start": 0.18,
+      "end": 0.28,
+      "word": "vi"
+    },
+    {
+      "start": 0.28,
+      "end": 0.5,
+      "word": "cessi"
+    },
+    {
+      "start": 0.5,
+      "end": 0.64,
+      "word": "che"
+    },
+    {
+      "start": 0.64,
+      "end": 0.68,
+      "word": "a"
+    },
+    {
+      "start": 0.68,
+      "end": 0.86,
+      "word": "milano"
+    },
+    {
+      "start": 0.86,
+      "end": 1.04,
+      "word": "c"
+    },
+    {
+      "start": 1.04,
+      "end": 1.04,
+      "word": "'è"
+    },
+    {
+      "start": 1.04,
+      "end": 1.1,
+      "word": "un"
+    },
+    {
+      "start": 1.1,
+      "end": 1.36,
+      "word": "posto"
+    },
+    {
+      "start": 1.36,
+      "end": 1.42,
+      "word": "in"
+    },
+    {
+      "start": 1.42,
+      "end": 1.44,
+      "word": "cui"
+    },
+    {
+      "start": 1.44,
+      "end": 1.7,
+      "word": "potete"
+    },
+    {
+      "start": 1.7,
+      "end": 2.06,
+      "word": "mangiare"
+    },
+    {
+      "start": 2.06,
+      "end": 2.38,
+      "word": "tutta"
+    },
+    {
+      "start": 2.38,
+      "end": 2.48,
+      "word": "la"
+    },
+    {
+      "start": 2.48,
+      "end": 2.68,
+      "word": "carne"
+    },
+    {
+      "start": 2.68,
+      "end": 3.14,
+      "word": "brasiliana"
+    },
+    {
+      "start": 3.14,
+      "end": 3.28,
+      "word": "che"
+    },
+    {
+      "start": 3.28,
+      "end": 3.5,
+      "word": "volete"
+    },
+    {
+      "start": 3.5,
+      "end": 3.72,
+      "word": "senza"
+    },
+    {
+      "start": 3.72,
+      "end": 4.06,
+      "word": "dover"
+    },
+    {
+      "start": 4.06,
+      "end": 4.42,
+      "word": "inunciare"
+    },
+    {
+      "start": 4.42,
+      "end": 4.54,
+      "word": "alla"
+    },
+    {
+      "start": 4.54,
+      "end": 4.82,
+      "word": "qualità"
+    },
+    {
+      "start": 4.82,
+      "end": 4.94,
+      "word": "ho"
+    },
+    {
+      "start": 4.94,
+      "end": 5.12,
+      "word": "raccogliere"
+    },
+    {
+      "start": 5.12,
+      "end": 5.2,
+      "word": "la"
+    },
+    {
+      "start": 5.2,
+      "end": 5.4,
+      "word": "scria"
+    },
+    {
+      "start": 5.4,
+      "end": 5.7,
+      "word": "brasa"
+    },
+    {
+      "start": 5.7,
+      "end": 6.0,
+      "word": "infatti"
+    },
+    {
+      "start": 6.0,
+      "end": 6.18,
+      "word": "con"
+    },
+    {
+      "start": 6.18,
+      "end": 6.28,
+      "word": "un"
+    },
+    {
+      "start": 6.28,
+      "end": 6.46,
+      "word": "prezzo"
+    },
+    {
+      "start": 6.46,
+      "end": 6.74,
+      "word": "fisso"
+    },
+    {
+      "start": 6.74,
+      "end": 6.9,
+      "word": "avete"
+    },
+    {
+      "start": 6.9,
+      "end": 7.04,
+      "word": "a"
+    },
+    {
+      "start": 7.04,
+      "end": 7.38,
+      "word": "disposizione"
+    },
+    {
+      "start": 7.38,
+      "end": 7.54,
+      "word": "un"
+    },
+    {
+      "start": 7.54,
+      "end": 7.94,
+      "word": "ricchissimo"
+    },
+    {
+      "start": 7.94,
+      "end": 8.28,
+      "word": "buffet"
+    },
+    {
+      "start": 8.28,
+      "end": 8.44,
+      "word": "degli"
+    },
+    {
+      "start": 8.44,
+      "end": 8.9,
+      "word": "antipassini"
+    },
+    {
+      "start": 8.9,
+      "end": 9.02,
+      "word": "che"
+    },
+    {
+      "start": 9.02,
+      "end": 9.26,
+      "word": "potete"
+    },
+    {
+      "start": 9.26,
+      "end": 9.5,
+      "word": "farvi"
+    },
+    {
+      "start": 9.5,
+      "end": 9.84,
+      "word": "portare"
+    },
+    {
+      "start": 9.84,
+      "end": 9.96,
+      "word": "a"
+    },
+    {
+      "start": 9.96,
+      "end": 10.18,
+      "word": "vostra"
+    },
+    {
+      "start": 10.18,
+      "end": 10.64,
+      "word": "scelta"
+    },
+    {
+      "start": 10.64,
+      "end": 10.8,
+      "word": "e"
+    },
+    {
+      "start": 10.8,
+      "end": 10.9,
+      "word": "poi"
+    },
+    {
+      "start": 10.9,
+      "end": 11.06,
+      "word": "abbiamo"
+    },
+    {
+      "start": 11.06,
+      "end": 11.22,
+      "word": "il"
+    },
+    {
+      "start": 11.22,
+      "end": 11.36,
+      "word": "giro"
+    },
+    {
+      "start": 11.36,
+      "end": 11.48,
+      "word": "di"
+    },
+    {
+      "start": 11.48,
+      "end": 11.82,
+      "word": "carni"
+    },
+    {
+      "start": 11.82,
+      "end": 11.94,
+      "word": "che"
+    },
+    {
+      "start": 11.94,
+      "end": 12.18,
+      "word": "potete"
+    },
+    {
+      "start": 12.18,
+      "end": 12.5,
+      "word": "prendere"
+    },
+    {
+      "start": 12.5,
+      "end": 12.76,
+      "word": "quante"
+    },
+    {
+      "start": 12.76,
+      "end": 12.9,
+      "word": "volte"
+    },
+    {
+      "start": 12.9,
+      "end": 13.3,
+      "word": "volete"
+    },
+    {
+      "start": 13.3,
+      "end": 13.78,
+      "word": "spaziando"
+    },
+    {
+      "start": 13.78,
+      "end": 13.96,
+      "word": "tra"
+    },
+    {
+      "start": 13.96,
+      "end": 14.26,
+      "word": "12"
+    },
+    {
+      "start": 14.26,
+      "end": 14.56,
+      "word": "tipi"
+    },
+    {
+      "start": 14.56,
+      "end": 14.96,
+      "word": "diversi"
+    },
+    {
+      "start": 14.96,
+      "end": 15.04,
+      "word": "di"
+    },
+    {
+      "start": 15.04,
+      "end": 15.24,
+      "word": "carne"
+    },
+    {
+      "start": 15.24,
+      "end": 15.42,
+      "word": "questo"
+    },
+    {
+      "start": 15.42,
+      "end": 15.54,
+      "word": "che"
+    },
+    {
+      "start": 15.54,
+      "end": 15.8,
+      "word": "vedete"
+    },
+    {
+      "start": 15.8,
+      "end": 16.08,
+      "word": "infatti"
+    },
+    {
+      "start": 16.08,
+      "end": 16.22,
+      "word": "il"
+    },
+    {
+      "start": 16.22,
+      "end": 16.28,
+      "word": "loro"
+    },
+    {
+      "start": 16.28,
+      "end": 16.56,
+      "word": "buffet"
+    },
+    {
+      "start": 16.56,
+      "end": 16.8,
+      "word": "sia"
+    },
+    {
+      "start": 16.8,
+      "end": 17.24,
+      "word": "caldo"
+    },
+    {
+      "start": 17.24,
+      "end": 17.38,
+      "word": "che"
+    },
+    {
+      "start": 17.38,
+      "end": 17.86,
+      "word": "freddo"
+    },
+    {
+      "start": 17.86,
+      "end": 18.16,
+      "word": "veramente"
+    },
+    {
+      "start": 18.16,
+      "end": 18.56,
+      "word": "super"
+    },
+    {
+      "start": 18.56,
+      "end": 19.0,
+      "word": "ricco"
+    },
+    {
+      "start": 19.0,
+      "end": 19.12,
+      "word": "in"
+    },
+    {
+      "start": 19.12,
+      "end": 19.2,
+      "word": "cui"
+    },
+    {
+      "start": 19.2,
+      "end": 19.32,
+      "word": "l"
+    },
+    {
+      "start": 19.32,
+      "end": 19.48,
+      "word": "'unico"
+    },
+    {
+      "start": 19.48,
+      "end": 19.78,
+      "word": "problema"
+    },
+    {
+      "start": 19.78,
+      "end": 19.94,
+      "word": "è"
+    },
+    {
+      "start": 19.94,
+      "end": 20.12,
+      "word": "riuscire"
+    },
+    {
+      "start": 20.12,
+      "end": 20.22,
+      "word": "a"
+    },
+    {
+      "start": 20.22,
+      "end": 20.8,
+      "word": "trattenersi"
+    },
+    {
+      "start": 20.8,
+      "end": 20.9,
+      "word": "e"
+    },
+    {
+      "start": 20.9,
+      "end": 21.14,
+      "word": "lasciare"
+    },
+    {
+      "start": 21.14,
+      "end": 21.44,
+      "word": "spazio"
+    },
+    {
+      "start": 21.44,
+      "end": 21.58,
+      "word": "anche"
+    },
+    {
+      "start": 21.58,
+      "end": 21.74,
+      "word": "per"
+    },
+    {
+      "start": 21.74,
+      "end": 21.88,
+      "word": "la"
+    },
+    {
+      "start": 21.88,
+      "end": 22.2,
+      "word": "carne"
+    },
+    {
+      "start": 22.2,
+      "end": 22.34,
+      "word": "vi"
+    },
+    {
+      "start": 22.34,
+      "end": 22.8,
+      "word": "porteranno"
+    },
+    {
+      "start": 22.8,
+      "end": 23.26,
+      "word": "subito"
+    },
+    {
+      "start": 23.26,
+      "end": 23.48,
+      "word": "anche"
+    },
+    {
+      "start": 23.48,
+      "end": 23.68,
+      "word": "i"
+    },
+    {
+      "start": 23.68,
+      "end": 23.76,
+      "word": "loro"
+    },
+    {
+      "start": 23.76,
+      "end": 24.3,
+      "word": "antipassini"
+    },
+    {
+      "start": 24.3,
+      "end": 24.96,
+      "word": "misti"
+    },
+    {
+      "start": 24.96,
+      "end": 25.54,
+      "word": "tipici"
+    },
+    {
+      "start": 25.54,
+      "end": 26.1,
+      "word": "brasiliani"
+    },
+    {
+      "start": 26.1,
+      "end": 26.34,
+      "word": "sono"
+    },
+    {
+      "start": 26.34,
+      "end": 26.62,
+      "word": "appunto"
+    },
+    {
+      "start": 26.62,
+      "end": 26.82,
+      "word": "un"
+    },
+    {
+      "start": 26.82,
+      "end": 27.12,
+      "word": "misto"
+    },
+    {
+      "start": 27.12,
+      "end": 27.32,
+      "word": "di"
+    },
+    {
+      "start": 27.32,
+      "end": 27.86,
+      "word": "fritti"
+    },
+    {
+      "start": 27.86,
+      "end": 28.2,
+      "word": "veramente"
+    },
+    {
+      "start": 28.2,
+      "end": 28.52,
+      "word": "veramente"
+    },
+    {
+      "start": 28.52,
+      "end": 29.3,
+      "word": "sfiziosi"
+    },
+    {
+      "start": 29.3,
+      "end": 29.58,
+      "word": "serviti"
+    },
+    {
+      "start": 29.58,
+      "end": 29.72,
+      "word": "con"
+    },
+    {
+      "start": 29.72,
+      "end": 29.84,
+      "word": "una"
+    },
+    {
+      "start": 29.84,
+      "end": 30.1,
+      "word": "salsina"
+    },
+    {
+      "start": 30.1,
+      "end": 30.48,
+      "word": "piccante"
+    },
+    {
+      "start": 30.48,
+      "end": 30.58,
+      "word": "o"
+    },
+    {
+      "start": 30.58,
+      "end": 30.66,
+      "word": "una"
+    },
+    {
+      "start": 30.66,
+      "end": 31.06,
+      "word": "marmellata"
+    },
+    {
+      "start": 31.06,
+      "end": 31.58,
+      "word": "antipassini"
+    },
+    {
+      "start": 31.58,
+      "end": 31.74,
+      "word": "che"
+    },
+    {
+      "start": 31.74,
+      "end": 31.92,
+      "word": "io"
+    },
+    {
+      "start": 31.92,
+      "end": 32.34,
+      "word": "ovviamente"
+    },
+    {
+      "start": 32.34,
+      "end": 32.6,
+      "word": "ho"
+    },
+    {
+      "start": 32.6,
+      "end": 33.12,
+      "word": "riordinato"
+    },
+    {
+      "start": 33.12,
+      "end": 33.26,
+      "word": "e"
+    },
+    {
+      "start": 33.26,
+      "end": 33.42,
+      "word": "oltre"
+    },
+    {
+      "start": 33.42,
+      "end": 33.6,
+      "word": "a"
+    },
+    {
+      "start": 33.6,
+      "end": 33.6,
+      "word": "tutto"
+    },
+    {
+      "start": 33.6,
+      "end": 33.86,
+      "word": "ciò"
+    },
+    {
+      "start": 33.86,
+      "end": 34.06,
+      "word": "ovviamente"
+    },
+    {
+      "start": 34.06,
+      "end": 34.34,
+      "word": "arriviamo"
+    },
+    {
+      "start": 34.34,
+      "end": 34.46,
+      "word": "al"
+    },
+    {
+      "start": 34.46,
+      "end": 34.56,
+      "word": "punto"
+    },
+    {
+      "start": 34.56,
+      "end": 34.9,
+      "word": "forte"
+    },
+    {
+      "start": 34.9,
+      "end": 35.06,
+      "word": "di"
+    },
+    {
+      "start": 35.06,
+      "end": 35.26,
+      "word": "questo"
+    },
+    {
+      "start": 35.26,
+      "end": 35.58,
+      "word": "locale"
+    },
+    {
+      "start": 35.58,
+      "end": 35.92,
+      "word": "ovvero"
+    },
+    {
+      "start": 35.92,
+      "end": 36.04,
+      "word": "il"
+    },
+    {
+      "start": 36.04,
+      "end": 36.12,
+      "word": "loro"
+    },
+    {
+      "start": 36.12,
+      "end": 36.46,
+      "word": "giro"
+    },
+    {
+      "start": 36.46,
+      "end": 36.58,
+      "word": "di"
+    },
+    {
+      "start": 36.58,
+      "end": 36.72,
+      "word": "carne"
+    },
+    {
+      "start": 36.72,
+      "end": 36.78,
+      "word": "che"
+    },
+    {
+      "start": 36.78,
+      "end": 37.18,
+      "word": "continuerà"
+    },
+    {
+      "start": 37.18,
+      "end": 37.34,
+      "word": "per"
+    },
+    {
+      "start": 37.34,
+      "end": 37.52,
+      "word": "tutta"
+    },
+    {
+      "start": 37.52,
+      "end": 37.64,
+      "word": "la"
+    },
+    {
+      "start": 37.64,
+      "end": 38.02,
+      "word": "serata"
+    },
+    {
+      "start": 38.02,
+      "end": 38.3,
+      "word": "e"
+    },
+    {
+      "start": 38.3,
+      "end": 38.46,
+      "word": "voi"
+    },
+    {
+      "start": 38.46,
+      "end": 38.62,
+      "word": "nel"
+    },
+    {
+      "start": 38.62,
+      "end": 38.8,
+      "word": "caso"
+    },
+    {
+      "start": 38.8,
+      "end": 38.98,
+      "word": "in"
+    },
+    {
+      "start": 38.98,
+      "end": 39.1,
+      "word": "cui"
+    },
+    {
+      "start": 39.1,
+      "end": 39.46,
+      "word": "foste"
+    },
+    {
+      "start": 39.46,
+      "end": 39.88,
+      "word": "sazie"
+    },
+    {
+      "start": 39.88,
+      "end": 40.08,
+      "word": "potete"
+    },
+    {
+      "start": 40.08,
+      "end": 40.52,
+      "word": "semplicemente"
+    },
+    {
+      "start": 40.52,
+      "end": 40.96,
+      "word": "girare"
+    },
+    {
+      "start": 40.96,
+      "end": 41.34,
+      "word": "questo"
+    },
+    {
+      "start": 41.34,
+      "end": 41.9,
+      "word": "cartoncino"
+    },
+    {
+      "start": 41.9,
+      "end": 42.22,
+      "word": "sulla"
+    },
+    {
+      "start": 42.22,
+      "end": 42.46,
+      "word": "parte"
+    },
+    {
+      "start": 42.46,
+      "end": 42.78,
+      "word": "rossa"
+    },
+    {
+      "start": 42.78,
+      "end": 42.86,
+      "word": "ma"
+    },
+    {
+      "start": 42.86,
+      "end": 42.96,
+      "word": "vi"
+    },
+    {
+      "start": 42.96,
+      "end": 43.32,
+      "word": "consiglio"
+    },
+    {
+      "start": 43.32,
+      "end": 43.52,
+      "word": "di"
+    },
+    {
+      "start": 43.52,
+      "end": 43.84,
+      "word": "tenerlo"
+    },
+    {
+      "start": 43.84,
+      "end": 44.14,
+      "word": "sempre"
+    },
+    {
+      "start": 44.14,
+      "end": 44.32,
+      "word": "sulla"
+    },
+    {
+      "start": 44.32,
+      "end": 44.56,
+      "word": "parte"
+    },
+    {
+      "start": 44.56,
+      "end": 44.8,
+      "word": "vera"
+    },
+    {
+      "start": 44.8,
+      "end": 45.04,
+      "word": "oltre"
+    },
+    {
+      "start": 45.04,
+      "end": 45.16,
+      "word": "alle"
+    },
+    {
+      "start": 45.16,
+      "end": 45.68,
+      "word": "salsice"
+    },
+    {
+      "start": 45.68,
+      "end": 46.0,
+      "word": "e"
+    },
+    {
+      "start": 46.0,
+      "end": 46.16,
+      "word": "alla"
+    },
+    {
+      "start": 46.16,
+      "end": 46.36,
+      "word": "carne"
+    },
+    {
+      "start": 46.36,
+      "end": 46.54,
+      "word": "di"
+    },
+    {
+      "start": 46.54,
+      "end": 46.78,
+      "word": "pollo"
+    },
+    {
+      "start": 46.78,
+      "end": 46.96,
+      "word": "avete"
+    },
+    {
+      "start": 46.96,
+      "end": 47.12,
+      "word": "anche"
+    },
+    {
+      "start": 47.12,
+      "end": 47.24,
+      "word": "a"
+    },
+    {
+      "start": 47.24,
+      "end": 47.58,
+      "word": "disposizione"
+    },
+    {
+      "start": 47.58,
+      "end": 47.84,
+      "word": "questa"
+    },
+    {
+      "start": 47.84,
+      "end": 48.32,
+      "word": "piccagna"
+    },
+    {
+      "start": 48.32,
+      "end": 48.46,
+      "word": "che"
+    },
+    {
+      "start": 48.46,
+      "end": 48.52,
+      "word": "è"
+    },
+    {
+      "start": 48.52,
+      "end": 48.74,
+      "word": "veramente"
+    },
+    {
+      "start": 48.74,
+      "end": 48.96,
+      "word": "una"
+    },
+    {
+      "start": 48.96,
+      "end": 49.18,
+      "word": "cosa"
+    },
+    {
+      "start": 49.18,
+      "end": 49.82,
+      "word": "incredibile"
+    },
+    {
+      "start": 49.82,
+      "end": 49.98,
+      "word": "con"
+    },
+    {
+      "start": 49.98,
+      "end": 50.16,
+      "word": "quello"
+    },
+    {
+      "start": 50.16,
+      "end": 50.4,
+      "word": "strato"
+    },
+    {
+      "start": 50.4,
+      "end": 50.56,
+      "word": "di"
+    },
+    {
+      "start": 50.56,
+      "end": 51.3,
+      "word": "grasso"
+    },
+    {
+      "start": 51.3,
+      "end": 51.44,
+      "word": "che"
+    },
+    {
+      "start": 51.44,
+      "end": 51.68,
+      "word": "veramente"
+    },
+    {
+      "start": 51.68,
+      "end": 51.94,
+      "word": "si"
+    },
+    {
+      "start": 51.94,
+      "end": 52.22,
+      "word": "scioglie"
+    },
+    {
+      "start": 52.22,
+      "end": 52.36,
+      "word": "in"
+    },
+    {
+      "start": 52.36,
+      "end": 52.66,
+      "word": "bocca"
+    },
+    {
+      "start": 52.66,
+      "end": 52.92,
+      "word": "carne"
+    },
+    {
+      "start": 52.92,
+      "end": 53.08,
+      "word": "che"
+    },
+    {
+      "start": 53.08,
+      "end": 53.3,
+      "word": "appunto"
+    },
+    {
+      "start": 53.3,
+      "end": 53.46,
+      "word": "è"
+    },
+    {
+      "start": 53.46,
+      "end": 53.64,
+      "word": "sempre"
+    },
+    {
+      "start": 53.64,
+      "end": 53.76,
+      "word": "di"
+    },
+    {
+      "start": 53.76,
+      "end": 54.16,
+      "word": "altissima"
+    },
+    {
+      "start": 54.16,
+      "end": 54.48,
+      "word": "qualità"
+    },
+    {
+      "start": 54.48,
+      "end": 54.64,
+      "word": "e"
+    },
+    {
+      "start": 54.64,
+      "end": 54.86,
+      "word": "sempre"
+    },
+    {
+      "start": 54.86,
+      "end": 55.06,
+      "word": "ben"
+    },
+    {
+      "start": 55.06,
+      "end": 55.4,
+      "word": "cotta"
+    },
+    {
+      "start": 55.4,
+      "end": 55.58,
+      "word": "cosa"
+    },
+    {
+      "start": 55.58,
+      "end": 55.72,
+      "word": "che"
+    },
+    {
+      "start": 55.72,
+      "end": 55.82,
+      "word": "non"
+    },
+    {
+      "start": 55.82,
+      "end": 55.92,
+      "word": "è"
+    },
+    {
+      "start": 55.92,
+      "end": 56.14,
+      "word": "sempre"
+    },
+    {
+      "start": 56.14,
+      "end": 56.3,
+      "word": "così"
+    },
+    {
+      "start": 56.3,
+      "end": 56.78,
+      "word": "scontata"
+    },
+    {
+      "start": 56.78,
+      "end": 57.08,
+      "word": "soprattutto"
+    },
+    {
+      "start": 57.08,
+      "end": 57.42,
+      "word": "offrendo"
+    },
+    {
+      "start": 57.42,
+      "end": 57.88,
+      "word": "tutta"
+    },
+    {
+      "start": 57.88,
+      "end": 58.08,
+      "word": "questa"
+    },
+    {
+      "start": 58.08,
+      "end": 58.48,
+      "word": "carne"
+    },
+    {
+      "start": 58.48,
+      "end": 58.86,
+      "word": "menzione"
+    },
+    {
+      "start": 58.86,
+      "end": 59.0,
+      "word": "di"
+    },
+    {
+      "start": 59.0,
+      "end": 59.2,
+      "word": "dono"
+    },
+    {
+      "start": 59.2,
+      "end": 59.26,
+      "word": "è"
+    },
+    {
+      "start": 59.26,
+      "end": 59.36,
+      "word": "per"
+    },
+    {
+      "start": 59.36,
+      "end": 59.56,
+      "word": "questo"
+    },
+    {
+      "start": 59.56,
+      "end": 59.82,
+      "word": "filetto"
+    },
+    {
+      "start": 59.82,
+      "end": 59.94,
+      "word": "che"
+    },
+    {
+      "start": 59.94,
+      "end": 60.02,
+      "word": "era"
+    },
+    {
+      "start": 60.02,
+      "end": 60.26,
+      "word": "veramente"
+    },
+    {
+      "start": 60.26,
+      "end": 60.86,
+      "word": "clamo"
+    },
+    {
+      "start": 60.86,
+      "end": 61.82,
+      "word": "roso"
+    },
+    {
+      "start": 61.82,
+      "end": 62.14,
+      "word": "per"
+    },
+    {
+      "start": 62.14,
+      "end": 62.58,
+      "word": "accompagnare"
+    },
+    {
+      "start": 62.58,
+      "end": 62.82,
+      "word": "tutta"
+    },
+    {
+      "start": 62.82,
+      "end": 63.06,
+      "word": "questa"
+    },
+    {
+      "start": 63.06,
+      "end": 63.28,
+      "word": "carne"
+    },
+    {
+      "start": 63.28,
+      "end": 63.36,
+      "word": "e"
+    },
+    {
+      "start": 63.36,
+      "end": 63.4,
+      "word": "tutto"
+    },
+    {
+      "start": 63.4,
+      "end": 63.66,
+      "word": "questo"
+    },
+    {
+      "start": 63.66,
+      "end": 63.92,
+      "word": "cibo"
+    },
+    {
+      "start": 63.92,
+      "end": 64.2,
+      "word": "potete"
+    },
+    {
+      "start": 64.2,
+      "end": 64.42,
+      "word": "anche"
+    },
+    {
+      "start": 64.42,
+      "end": 64.86,
+      "word": "usufruire"
+    },
+    {
+      "start": 64.86,
+      "end": 65.08,
+      "word": "della"
+    },
+    {
+      "start": 65.08,
+      "end": 65.26,
+      "word": "loro"
+    },
+    {
+      "start": 65.26,
+      "end": 65.76,
+      "word": "vastissima"
+    },
+    {
+      "start": 65.76,
+      "end": 66.06,
+      "word": "scelta"
+    },
+    {
+      "start": 66.06,
+      "end": 66.2,
+      "word": "di"
+    },
+    {
+      "start": 66.2,
+      "end": 66.4,
+      "word": "drink"
+    },
+    {
+      "start": 66.4,
+      "end": 66.98,
+      "word": "brasiliani"
+    },
+    {
+      "start": 66.98,
+      "end": 67.1,
+      "word": "e"
+    },
+    {
+      "start": 67.1,
+      "end": 67.18,
+      "word": "di"
+    },
+    {
+      "start": 67.18,
+      "end": 67.42,
+      "word": "sabbo"
+    },
+    {
+      "start": 67.42,
+      "end": 67.48,
+      "word": "di"
+    },
+    {
+      "start": 67.48,
+      "end": 67.62,
+      "word": "sera"
+    },
+    {
+      "start": 67.62,
+      "end": 67.74,
+      "word": "da"
+    },
+    {
+      "start": 67.74,
+      "end": 67.94,
+      "word": "animare"
+    },
+    {
+      "start": 67.94,
+      "end": 68.1,
+      "word": "la"
+    },
+    {
+      "start": 68.1,
+      "end": 68.34,
+      "word": "serata"
+    },
+    {
+      "start": 68.34,
+      "end": 68.5,
+      "word": "ci"
+    },
+    {
+      "start": 68.5,
+      "end": 68.74,
+      "word": "saranno"
+    },
+    {
+      "start": 68.74,
+      "end": 68.94,
+      "word": "anche"
+    },
+    {
+      "start": 68.94,
+      "end": 69.08,
+      "word": "due"
+    },
+    {
+      "start": 69.08,
+      "end": 69.46,
+      "word": "ballerino"
+    },
+    {
+      "start": 69.46,
+      "end": 69.94,
+      "word": "brasiliani"
+    },
+    {
+      "start": 69.94,
+      "end": 70.1,
+      "word": "che"
+    },
+    {
+      "start": 70.1,
+      "end": 70.5,
+      "word": "balleranno"
+    },
+    {
+      "start": 70.5,
+      "end": 70.62,
+      "word": "più"
+    },
+    {
+      "start": 70.62,
+      "end": 70.78,
+      "word": "o"
+    },
+    {
+      "start": 70.78,
+      "end": 70.78,
+      "word": "meno"
+    },
+    {
+      "start": 70.78,
+      "end": 70.94,
+      "word": "ogni"
+    },
+    {
+      "start": 70.94,
+      "end": 71.16,
+      "word": "mezz"
+    },
+    {
+      "start": 71.16,
+      "end": 71.32,
+      "word": "'ora"
+    },
+    {
+      "start": 71.32,
+      "end": 71.4,
+      "word": "e"
+    },
+    {
+      "start": 71.4,
+      "end": 71.44,
+      "word": "che"
+    },
+    {
+      "start": 71.44,
+      "end": 71.78,
+      "word": "renderanno"
+    },
+    {
+      "start": 71.78,
+      "end": 71.9,
+      "word": "l"
+    },
+    {
+      "start": 71.9,
+      "end": 72.24,
+      "word": "'atmosfera"
+    },
+    {
+      "start": 72.24,
+      "end": 72.58,
+      "word": "ancora"
+    },
+    {
+      "start": 72.58,
+      "end": 72.76,
+      "word": "più"
+    },
+    {
+      "start": 72.76,
+      "end": 73.48,
+      "word": "fantastica"
+    },
+    {
+      "start": 73.48,
+      "end": 73.82,
+      "word": "e"
+    },
+    {
+      "start": 73.82,
+      "end": 73.86,
+      "word": "se"
+    },
+    {
+      "start": 73.86,
+      "end": 74.1,
+      "word": "ancora"
+    },
+    {
+      "start": 74.1,
+      "end": 74.3,
+      "word": "con"
+    },
+    {
+      "start": 74.3,
+      "end": 74.42,
+      "word": "tutto"
+    },
+    {
+      "start": 74.42,
+      "end": 74.66,
+      "word": "ciò"
+    },
+    {
+      "start": 74.66,
+      "end": 74.76,
+      "word": "non"
+    },
+    {
+      "start": 74.76,
+      "end": 74.98,
+      "word": "fosse"
+    },
+    {
+      "start": 74.98,
+      "end": 75.54,
+      "word": "soddisfatti"
+    },
+    {
+      "start": 75.54,
+      "end": 75.84,
+      "word": "ovviamente"
+    },
+    {
+      "start": 75.84,
+      "end": 76.04,
+      "word": "ci"
+    },
+    {
+      "start": 76.04,
+      "end": 76.18,
+      "word": "sono"
+    },
+    {
+      "start": 76.18,
+      "end": 76.34,
+      "word": "anche"
+    },
+    {
+      "start": 76.34,
+      "end": 76.5,
+      "word": "tutti"
+    },
+    {
+      "start": 76.5,
+      "end": 76.64,
+      "word": "i"
+    },
+    {
+      "start": 76.64,
+      "end": 76.74,
+      "word": "loro"
+    },
+    {
+      "start": 76.74,
+      "end": 77.18,
+      "word": "dolci"
+    },
+    {
+      "start": 77.18,
+      "end": 77.44,
+      "word": "tre"
+    },
+    {
+      "start": 77.44,
+      "end": 77.6,
+      "word": "quelle"
+    },
+    {
+      "start": 77.6,
+      "end": 77.74,
+      "word": "ho"
+    },
+    {
+      "start": 77.74,
+      "end": 77.94,
+      "word": "provato"
+    },
+    {
+      "start": 77.94,
+      "end": 78.18,
+      "word": "questa"
+    },
+    {
+      "start": 78.18,
+      "end": 78.38,
+      "word": "sorta"
+    },
+    {
+      "start": 78.38,
+      "end": 78.56,
+      "word": "di"
+    },
+    {
+      "start": 78.56,
+      "end": 78.7,
+      "word": "cream"
+    },
+    {
+      "start": 78.7,
+      "end": 79.04,
+      "word": "caramel"
+    },
+    {
+      "start": 79.04,
+      "end": 79.3,
+      "word": "e"
+    },
+    {
+      "start": 79.3,
+      "end": 79.38,
+      "word": "i"
+    },
+    {
+      "start": 79.38,
+      "end": 79.48,
+      "word": "loro"
+    },
+    {
+      "start": 79.48,
+      "end": 80.02,
+      "word": "churros"
+    },
+    {
+      "start": 80.02,
+      "end": 80.2,
+      "word": "che"
+    },
+    {
+      "start": 80.2,
+      "end": 80.4,
+      "word": "ovviamente"
+    },
+    {
+      "start": 80.4,
+      "end": 80.6,
+      "word": "ci"
+    },
+    {
+      "start": 80.6,
+      "end": 80.78,
+      "word": "stanno"
+    },
+    {
+      "start": 80.78,
+      "end": 81.16,
+      "word": "benissimo"
+    },
+    {
+      "start": 81.16,
+      "end": 81.34,
+      "word": "per"
+    },
+    {
+      "start": 81.34,
+      "end": 81.82,
+      "word": "concludere"
+    },
+    {
+      "start": 81.82,
+      "end": 82.26,
+      "word": "nonostante"
+    },
+    {
+      "start": 82.26,
+      "end": 82.52,
+      "word": "fossi"
+    },
+    {
+      "start": 82.52,
+      "end": 82.66,
+      "word": "già"
+    },
+    {
+      "start": 82.66,
+      "end": 83.0,
+      "word": "abbastanza"
+    },
+    {
+      "start": 83.0,
+      "end": 83.5,
+      "word": "provato"
+    },
+    {
+      "start": 83.5,
+      "end": 83.7,
+      "word": "ed"
+    },
+    {
+      "start": 83.7,
+      "end": 84.06,
+      "word": "infine"
+    },
+    {
+      "start": 84.06,
+      "end": 84.58,
+      "word": "digestivo"
+    },
+    {
+      "start": 84.58,
+      "end": 85.14,
+      "word": "brasiliano"
+    },
+    {
+      "start": 85.14,
+      "end": 85.38,
+      "word": "insomma"
+    },
+    {
+      "start": 85.38,
+      "end": 85.6,
+      "word": "veramente"
+    },
+    {
+      "start": 85.6,
+      "end": 85.84,
+      "word": "un"
+    },
+    {
+      "start": 85.84,
+      "end": 86.06,
+      "word": "ottimo"
+    },
+    {
+      "start": 86.06,
+      "end": 86.36,
+      "word": "posto"
+    },
+    {
+      "start": 86.36,
+      "end": 86.44,
+      "word": "per"
+    },
+    {
+      "start": 86.44,
+      "end": 86.56,
+      "word": "fare"
+    },
+    {
+      "start": 86.56,
+      "end": 86.7,
+      "word": "una"
+    },
+    {
+      "start": 86.7,
+      "end": 86.94,
+      "word": "serata"
+    },
+    {
+      "start": 86.94,
+      "end": 87.08,
+      "word": "con"
+    },
+    {
+      "start": 87.08,
+      "end": 87.16,
+      "word": "gli"
+    },
+    {
+      "start": 87.16,
+      "end": 87.4,
+      "word": "amici"
+    },
+    {
+      "start": 87.4,
+      "end": 87.76,
+      "word": "mangiando"
+    },
+    {
+      "start": 87.76,
+      "end": 88.04,
+      "word": "tutta"
+    },
+    {
+      "start": 88.04,
+      "end": 88.06,
+      "word": "la"
+    },
+    {
+      "start": 88.06,
+      "end": 88.24,
+      "word": "carne"
+    },
+    {
+      "start": 88.24,
+      "end": 88.68,
+      "word": "brasiliana"
+    },
+    {
+      "start": 88.68,
+      "end": 88.8,
+      "word": "che"
+    },
+    {
+      "start": 88.8,
+      "end": 89.04,
+      "word": "volete"
+    },
+    {
+      "start": 89.04,
+      "end": 89.3,
+      "word": "senza"
+    },
+    {
+      "start": 89.3,
+      "end": 89.64,
+      "word": "dover"
+    },
+    {
+      "start": 89.64,
+      "end": 89.96,
+      "word": "inunciare"
+    },
+    {
+      "start": 89.96,
+      "end": 90.02,
+      "word": "alla"
+    },
+    {
+      "start": 90.02,
+      "end": 90.32,
+      "word": "qualità"
+    }
+  ],
+  "aligned": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "e se vi cessi che a milano c 'è un posto in cui potete mangiare"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 3.6,
+      "dur": 1.567,
+      "transcript": "tutta la carne brasiliana che volete"
+    },
+    {
+      "idx": 2,
+      "start": 3.6,
+      "end": 4.833,
+      "dur": 1.233,
+      "transcript": "senza dover inunciare alla qualità"
+    },
+    {
+      "idx": 3,
+      "start": 4.833,
+      "end": 7.833,
+      "dur": 3.0,
+      "transcript": "ho raccogliere la scria brasa infatti con un prezzo fisso avete a disposizione un ricchissimo"
+    },
+    {
+      "idx": 4,
+      "start": 7.833,
+      "end": 10.3,
+      "dur": 2.467,
+      "transcript": "buffet degli antipassini che potete farvi portare a vostra"
+    },
+    {
+      "idx": 5,
+      "start": 10.3,
+      "end": 16.667,
+      "dur": 6.367,
+      "transcript": "scelta e poi abbiamo il giro di carni che potete prendere quante volte volete spaziando tra 12 tipi diversi di carne questo che vedete infatti il loro buffet"
+    },
+    {
+      "idx": 6,
+      "start": 16.667,
+      "end": 20.167,
+      "dur": 3.5,
+      "transcript": "sia caldo che freddo veramente super ricco in cui l 'unico problema è riuscire"
+    },
+    {
+      "idx": 7,
+      "start": 20.167,
+      "end": 22.7,
+      "dur": 2.533,
+      "transcript": "a trattenersi e lasciare spazio anche per la carne vi porteranno"
+    },
+    {
+      "idx": 8,
+      "start": 22.7,
+      "end": 23.867,
+      "dur": 1.167,
+      "transcript": "subito anche i loro"
+    },
+    {
+      "idx": 9,
+      "start": 23.867,
+      "end": 26.367,
+      "dur": 2.5,
+      "transcript": "antipassini misti tipici brasiliani sono"
+    },
+    {
+      "idx": 10,
+      "start": 26.367,
+      "end": 28.3,
+      "dur": 1.933,
+      "transcript": "appunto un misto di fritti veramente"
+    },
+    {
+      "idx": 11,
+      "start": 28.3,
+      "end": 30.767,
+      "dur": 2.467,
+      "transcript": "veramente sfiziosi serviti con una salsina piccante o una"
+    },
+    {
+      "idx": 12,
+      "start": 30.767,
+      "end": 32.8,
+      "dur": 2.033,
+      "transcript": "marmellata antipassini che io ovviamente ho"
+    },
+    {
+      "idx": 13,
+      "start": 32.8,
+      "end": 34.767,
+      "dur": 1.967,
+      "transcript": "riordinato e oltre a tutto ciò ovviamente arriviamo al punto forte"
+    },
+    {
+      "idx": 14,
+      "start": 34.767,
+      "end": 36.0,
+      "dur": 1.233,
+      "transcript": "di questo locale ovvero il"
+    },
+    {
+      "idx": 15,
+      "start": 36.0,
+      "end": 39.0,
+      "dur": 3.0,
+      "transcript": "loro giro di carne che continuerà per tutta la serata e voi nel caso in"
+    },
+    {
+      "idx": 16,
+      "start": 39.0,
+      "end": 42.033,
+      "dur": 3.033,
+      "transcript": "cui foste sazie potete semplicemente girare questo cartoncino"
+    },
+    {
+      "idx": 17,
+      "start": 42.033,
+      "end": 44.5,
+      "dur": 2.467,
+      "transcript": "sulla parte rossa ma vi consiglio di tenerlo sempre sulla parte"
+    },
+    {
+      "idx": 18,
+      "start": 44.5,
+      "end": 46.0,
+      "dur": 1.5,
+      "transcript": "vera oltre alle salsice e"
+    },
+    {
+      "idx": 19,
+      "start": 46.0,
+      "end": 47.233,
+      "dur": 1.233,
+      "transcript": "alla carne di pollo avete anche a"
+    },
+    {
+      "idx": 20,
+      "start": 47.233,
+      "end": 48.467,
+      "dur": 1.233,
+      "transcript": "disposizione questa piccagna che"
+    },
+    {
+      "idx": 21,
+      "start": 48.467,
+      "end": 53.8,
+      "dur": 5.333,
+      "transcript": "è veramente una cosa incredibile con quello strato di grasso che veramente si scioglie in bocca carne che appunto è sempre di"
+    },
+    {
+      "idx": 22,
+      "start": 53.8,
+      "end": 54.867,
+      "dur": 1.067,
+      "transcript": "altissima qualità e sempre"
+    },
+    {
+      "idx": 23,
+      "start": 54.867,
+      "end": 58.4,
+      "dur": 3.533,
+      "transcript": "ben cotta cosa che non è sempre così scontata soprattutto offrendo tutta questa carne"
+    },
+    {
+      "idx": 24,
+      "start": 58.4,
+      "end": 59.667,
+      "dur": 1.267,
+      "transcript": "menzione di dono è per questo"
+    },
+    {
+      "idx": 25,
+      "start": 59.667,
+      "end": 61.867,
+      "dur": 2.2,
+      "transcript": "filetto che era veramente clamo roso"
+    },
+    {
+      "idx": 26,
+      "start": 61.867,
+      "end": 63.4,
+      "dur": 1.533,
+      "transcript": "per accompagnare tutta questa carne e tutto"
+    },
+    {
+      "idx": 27,
+      "start": 63.4,
+      "end": 64.9,
+      "dur": 1.5,
+      "transcript": "questo cibo potete anche usufruire"
+    },
+    {
+      "idx": 28,
+      "start": 64.9,
+      "end": 66.7,
+      "dur": 1.8,
+      "transcript": "della loro vastissima scelta di drink brasiliani"
+    },
+    {
+      "idx": 29,
+      "start": 66.7,
+      "end": 68.467,
+      "dur": 1.767,
+      "transcript": "e di sabbo di sera da animare la serata ci"
+    },
+    {
+      "idx": 30,
+      "start": 68.467,
+      "end": 73.433,
+      "dur": 4.967,
+      "transcript": "saranno anche due ballerino brasiliani che balleranno più o meno ogni mezz 'ora e che renderanno l 'atmosfera ancora più fantastica"
+    },
+    {
+      "idx": 31,
+      "start": 73.433,
+      "end": 76.467,
+      "dur": 3.033,
+      "transcript": "e se ancora con tutto ciò non fosse soddisfatti ovviamente ci sono anche tutti"
+    },
+    {
+      "idx": 32,
+      "start": 76.467,
+      "end": 80.467,
+      "dur": 4.0,
+      "transcript": "i loro dolci tre quelle ho provato questa sorta di cream caramel e i loro churros che ovviamente"
+    },
+    {
+      "idx": 33,
+      "start": 80.467,
+      "end": 82.467,
+      "dur": 2.0,
+      "transcript": "ci stanno benissimo per concludere nonostante fossi"
+    },
+    {
+      "idx": 34,
+      "start": 82.467,
+      "end": 83.967,
+      "dur": 1.5,
+      "transcript": "già abbastanza provato ed infine"
+    },
+    {
+      "idx": 35,
+      "start": 83.967,
+      "end": 86.5,
+      "dur": 2.533,
+      "transcript": "digestivo brasiliano insomma veramente un ottimo posto per"
+    },
+    {
+      "idx": 36,
+      "start": 86.5,
+      "end": 90.5,
+      "dur": 4.0,
+      "transcript": "fare una serata con gli amici mangiando tutta la carne brasiliana che volete senza dover inunciare alla qualità"
+    },
+    {
+      "idx": 37,
+      "start": 90.5,
+      "end": 90.567,
+      "dur": 0.067,
+      "transcript": ""
+    }
+  ],
+  "full_text": "e se vi cessi che a milano c'è un posto in cui potete mangiare tutta la carne brasiliana che volete senza dover inunciare alla qualità ho raccogliere la scria brasa infatti con un prezzo fisso avete a disposizione un ricchissimo buffet degli antipassini che potete farvi portare a vostra scelta e poi abbiamo il giro di carni che potete prendere quante volte volete spaziando tra 12 tipi diversi di carne questo che vedete infatti il loro buffet sia caldo che freddo veramente super ricco in cui l'unico problema è riuscire a trattenersi e lasciare spazio anche per la carne vi porteranno subito anche i loro antipassini misti tipici brasiliani sono appunto un misto di fritti veramente veramente sfiziosi serviti con una salsina piccante o una marmellata antipassini che io ovviamente ho riordinato e oltre a tutto ciò ovviamente arriviamo al punto forte di questo locale ovvero il loro giro di carne che continuerà per tutta la serata e voi nel caso in cui foste sazie potete semplicemente girare questo cartoncino sulla parte rossa ma vi consiglio di tenerlo sempre sulla parte vera oltre alle salsice e alla carne di pollo avete anche a disposizione questa piccagna che è veramente una cosa incredibile con quello strato di grasso che veramente si scioglie in bocca carne che appunto è sempre di altissima qualità e sempre ben cotta cosa che non è sempre così scontata soprattutto offrendo tutta questa carne menzione di dono è per questo filetto che era veramente clamo roso per accompagnare tutta questa carne e tutto questo cibo potete anche usufruire della loro vastissima scelta di drink brasiliani e di sabbo di sera da animare la serata ci saranno anche due ballerino brasiliani che balleranno più o meno ogni mezz'ora e che renderanno l'atmosfera ancora più fantastica e se ancora con tutto ciò non fosse soddisfatti ovviamente ci sono anche tutti i loro dolci tre quelle ho provato questa sorta di cream caramel e i loro churros che ovviamente ci stanno benissimo per concludere nonostante fossi già abbastanza provato ed infine digestivo brasiliano insomma veramente un ottimo posto per fare una serata con gli amici mangiando tutta la carne brasiliana che volete senza dover inunciare alla qualità",
+  "analyzed_at": "2026-09-20T22:36:39"
+}

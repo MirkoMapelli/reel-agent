@@ -1,0 +1,2111 @@
+[
+  {
+    "shot_idx": 1,
+    "finished_start": 0.0,
+    "finished_end": 1.8,
+    "finished_duration": 1.8,
+    "finished_mid": 0.9,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 14.0,
+      "distance_min": 102,
+      "distance_full": 126,
+      "distance_center": 102,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 14.0,
+        "distance_min": 102,
+        "distance_full": 126,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 4.5,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 136,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.5,
+        "distance_min": 106,
+        "distance_full": 110,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 10.0,
+        "distance_min": 106,
+        "distance_full": 110,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00019.mp4",
+        "timestamp": 3.0,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 106,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 2,
+    "finished_start": 1.8,
+    "finished_end": 3.83,
+    "finished_duration": 2.03,
+    "finished_mid": 2.82,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 18.5,
+      "distance_min": 92,
+      "distance_full": 98,
+      "distance_center": 92,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.5,
+        "distance_min": 92,
+        "distance_full": 98,
+        "distance_center": 92,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.0,
+        "distance_min": 92,
+        "distance_full": 98,
+        "distance_center": 92,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 13.0,
+        "distance_min": 94,
+        "distance_full": 94,
+        "distance_center": 110,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.0,
+        "distance_min": 94,
+        "distance_full": 94,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.5,
+        "distance_min": 98,
+        "distance_full": 98,
+        "distance_center": 114,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 3,
+    "finished_start": 3.83,
+    "finished_end": 5.8,
+    "finished_duration": 1.97,
+    "finished_mid": 4.82,
+    "match": {
+      "source": "source_00007.mp4",
+      "source_timestamp": 22.5,
+      "distance_min": 60,
+      "distance_full": 60,
+      "distance_center": 80,
+      "confidence": 0.25
+    },
+    "top5": [
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 22.5,
+        "distance_min": 60,
+        "distance_full": 60,
+        "distance_center": 80,
+        "confidence": 0.25
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 24.0,
+        "distance_min": 68,
+        "distance_full": 68,
+        "distance_center": 108,
+        "confidence": 0.15
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 22.0,
+        "distance_min": 72,
+        "distance_full": 72,
+        "distance_center": 98,
+        "confidence": 0.1
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 23.0,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 94,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 23.5,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 90,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 4,
+    "finished_start": 5.8,
+    "finished_end": 7.63,
+    "finished_duration": 1.83,
+    "finished_mid": 6.72,
+    "match": {
+      "source": "source_00001.mp4",
+      "source_timestamp": 2.0,
+      "distance_min": 58,
+      "distance_full": 58,
+      "distance_center": 94,
+      "confidence": 0.275
+    },
+    "top5": [
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 2.0,
+        "distance_min": 58,
+        "distance_full": 58,
+        "distance_center": 94,
+        "confidence": 0.275
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 1.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 120,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 25.5,
+        "distance_min": 102,
+        "distance_full": 114,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 2.0,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 128,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 3.0,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 132,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 5,
+    "finished_start": 7.63,
+    "finished_end": 9.6,
+    "finished_duration": 1.97,
+    "finished_mid": 8.62,
+    "match": {
+      "source": "source_00003.mp4",
+      "source_timestamp": 3.0,
+      "distance_min": 106,
+      "distance_full": 120,
+      "distance_center": 106,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00003.mp4",
+        "timestamp": 3.0,
+        "distance_min": 106,
+        "distance_full": 120,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 6.5,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 128,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 9.5,
+        "distance_min": 106,
+        "distance_full": 116,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 18.5,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00001.mp4",
+        "timestamp": 3.5,
+        "distance_min": 108,
+        "distance_full": 108,
+        "distance_center": 118,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 6,
+    "finished_start": 9.6,
+    "finished_end": 11.37,
+    "finished_duration": 1.77,
+    "finished_mid": 10.48,
+    "match": {
+      "source": "source_00003.mp4",
+      "source_timestamp": 1.0,
+      "distance_min": 64,
+      "distance_full": 64,
+      "distance_center": 80,
+      "confidence": 0.2
+    },
+    "top5": [
+      {
+        "source": "source_00003.mp4",
+        "timestamp": 1.0,
+        "distance_min": 64,
+        "distance_full": 64,
+        "distance_center": 80,
+        "confidence": 0.2
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 9.0,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 134,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 0.0,
+        "distance_min": 102,
+        "distance_full": 122,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 9.0,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 122,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 2.0,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 124,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 7,
+    "finished_start": 11.37,
+    "finished_end": 13.37,
+    "finished_duration": 2.0,
+    "finished_mid": 12.37,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 29.5,
+      "distance_min": 102,
+      "distance_full": 134,
+      "distance_center": 102,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 29.5,
+        "distance_min": 102,
+        "distance_full": 134,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 2.5,
+        "distance_min": 106,
+        "distance_full": 124,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 3.0,
+        "distance_min": 108,
+        "distance_full": 130,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 33.5,
+        "distance_min": 108,
+        "distance_full": 118,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 4.0,
+        "distance_min": 108,
+        "distance_full": 108,
+        "distance_center": 122,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 8,
+    "finished_start": 13.37,
+    "finished_end": 17.33,
+    "finished_duration": 3.97,
+    "finished_mid": 15.35,
+    "match": {
+      "source": "source_00004.mp4",
+      "source_timestamp": 5.0,
+      "distance_min": 90,
+      "distance_full": 90,
+      "distance_center": 118,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 5.0,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00002.mp4",
+        "timestamp": 0.5,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 122,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 17.0,
+        "distance_min": 104,
+        "distance_full": 122,
+        "distance_center": 104,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 13.0,
+        "distance_min": 106,
+        "distance_full": 132,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 25.5,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 112,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 9,
+    "finished_start": 17.33,
+    "finished_end": 19.37,
+    "finished_duration": 2.03,
+    "finished_mid": 18.35,
+    "match": {
+      "source": "source_00007.mp4",
+      "source_timestamp": 16.5,
+      "distance_min": 26,
+      "distance_full": 26,
+      "distance_center": 40,
+      "confidence": 0.675
+    },
+    "top5": [
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 16.5,
+        "distance_min": 26,
+        "distance_full": 26,
+        "distance_center": 40,
+        "confidence": 0.675
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 17.0,
+        "distance_min": 42,
+        "distance_full": 42,
+        "distance_center": 66,
+        "confidence": 0.475
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 16.0,
+        "distance_min": 44,
+        "distance_full": 44,
+        "distance_center": 56,
+        "confidence": 0.45
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 15.5,
+        "distance_min": 60,
+        "distance_full": 60,
+        "distance_center": 62,
+        "confidence": 0.25
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 12.5,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 118,
+        "confidence": 0.075
+      }
+    ]
+  },
+  {
+    "shot_idx": 10,
+    "finished_start": 19.37,
+    "finished_end": 21.83,
+    "finished_duration": 2.47,
+    "finished_mid": 20.6,
+    "match": {
+      "source": "source_00005.mp4",
+      "source_timestamp": 4.0,
+      "distance_min": 58,
+      "distance_full": 58,
+      "distance_center": 76,
+      "confidence": 0.275
+    },
+    "top5": [
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 4.0,
+        "distance_min": 58,
+        "distance_full": 58,
+        "distance_center": 76,
+        "confidence": 0.275
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 4.5,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 82,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 0.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 130,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 3.5,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 128,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 11.0,
+        "distance_min": 106,
+        "distance_full": 112,
+        "distance_center": 106,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 11,
+    "finished_start": 21.83,
+    "finished_end": 23.63,
+    "finished_duration": 1.8,
+    "finished_mid": 22.73,
+    "match": {
+      "source": "source_00023.mp4",
+      "source_timestamp": 6.5,
+      "distance_min": 36,
+      "distance_full": 36,
+      "distance_center": 44,
+      "confidence": 0.55
+    },
+    "top5": [
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 6.5,
+        "distance_min": 36,
+        "distance_full": 36,
+        "distance_center": 44,
+        "confidence": 0.55
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 6.0,
+        "distance_min": 50,
+        "distance_full": 50,
+        "distance_center": 56,
+        "confidence": 0.375
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 5.0,
+        "distance_min": 68,
+        "distance_full": 68,
+        "distance_center": 100,
+        "confidence": 0.15
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 5.5,
+        "distance_min": 70,
+        "distance_full": 70,
+        "distance_center": 88,
+        "confidence": 0.125
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 4.0,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 96,
+        "confidence": 0.025
+      }
+    ]
+  },
+  {
+    "shot_idx": 12,
+    "finished_start": 23.63,
+    "finished_end": 25.4,
+    "finished_duration": 1.77,
+    "finished_mid": 24.52,
+    "match": {
+      "source": "source_00020.mp4",
+      "source_timestamp": 4.0,
+      "distance_min": 100,
+      "distance_full": 100,
+      "distance_center": 116,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 4.0,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 116,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 4.5,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 114,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 1.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 122,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 9.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 124,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00020.mp4",
+        "timestamp": 5.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 114,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 13,
+    "finished_start": 25.4,
+    "finished_end": 28.4,
+    "finished_duration": 3.0,
+    "finished_mid": 26.9,
+    "match": {
+      "source": "source_00006.mp4",
+      "source_timestamp": 6.5,
+      "distance_min": 74,
+      "distance_full": 74,
+      "distance_center": 124,
+      "confidence": 0.075
+    },
+    "top5": [
+      {
+        "source": "source_00006.mp4",
+        "timestamp": 6.5,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 124,
+        "confidence": 0.075
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 4.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 138,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.5,
+        "distance_min": 102,
+        "distance_full": 122,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 3.5,
+        "distance_min": 104,
+        "distance_full": 130,
+        "distance_center": 104,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 0.5,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 132,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 14,
+    "finished_start": 28.4,
+    "finished_end": 30.87,
+    "finished_duration": 2.47,
+    "finished_mid": 29.63,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 9.0,
+      "distance_min": 48,
+      "distance_full": 48,
+      "distance_center": 48,
+      "confidence": 0.4
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 9.0,
+        "distance_min": 48,
+        "distance_full": 48,
+        "distance_center": 48,
+        "confidence": 0.4
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 10.5,
+        "distance_min": 48,
+        "distance_full": 48,
+        "distance_center": 52,
+        "confidence": 0.4
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 8.5,
+        "distance_min": 52,
+        "distance_full": 52,
+        "distance_center": 62,
+        "confidence": 0.35
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 9.5,
+        "distance_min": 54,
+        "distance_full": 58,
+        "distance_center": 54,
+        "confidence": 0.325
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 10.0,
+        "distance_min": 54,
+        "distance_full": 54,
+        "distance_center": 56,
+        "confidence": 0.325
+      }
+    ]
+  },
+  {
+    "shot_idx": 15,
+    "finished_start": 30.87,
+    "finished_end": 33.37,
+    "finished_duration": 2.5,
+    "finished_mid": 32.12,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 17.0,
+      "distance_min": 88,
+      "distance_full": 88,
+      "distance_center": 108,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.0,
+        "distance_min": 88,
+        "distance_full": 88,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.0,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 112,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 19.5,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 17.5,
+        "distance_min": 92,
+        "distance_full": 92,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 18.0,
+        "distance_min": 92,
+        "distance_full": 92,
+        "distance_center": 112,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 16,
+    "finished_start": 33.37,
+    "finished_end": 35.33,
+    "finished_duration": 1.97,
+    "finished_mid": 34.35,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 26.0,
+      "distance_min": 18,
+      "distance_full": 18,
+      "distance_center": 36,
+      "confidence": 0.775
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 26.0,
+        "distance_min": 18,
+        "distance_full": 18,
+        "distance_center": 36,
+        "confidence": 0.775
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 26.5,
+        "distance_min": 22,
+        "distance_full": 22,
+        "distance_center": 38,
+        "confidence": 0.725
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.0,
+        "distance_min": 36,
+        "distance_full": 36,
+        "distance_center": 70,
+        "confidence": 0.55
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 25.5,
+        "distance_min": 44,
+        "distance_full": 44,
+        "distance_center": 64,
+        "confidence": 0.45
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.5,
+        "distance_min": 50,
+        "distance_full": 50,
+        "distance_center": 90,
+        "confidence": 0.375
+      }
+    ]
+  },
+  {
+    "shot_idx": 17,
+    "finished_start": 35.33,
+    "finished_end": 37.33,
+    "finished_duration": 2.0,
+    "finished_mid": 36.33,
+    "match": {
+      "source": "source_00009.mp4",
+      "source_timestamp": 2.0,
+      "distance_min": 20,
+      "distance_full": 20,
+      "distance_center": 38,
+      "confidence": 0.75
+    },
+    "top5": [
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 2.0,
+        "distance_min": 20,
+        "distance_full": 20,
+        "distance_center": 38,
+        "confidence": 0.75
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 2.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 98,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 4.0,
+        "distance_min": 88,
+        "distance_full": 88,
+        "distance_center": 112,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 3.0,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 3.5,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 104,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 18,
+    "finished_start": 37.33,
+    "finished_end": 38.87,
+    "finished_duration": 1.53,
+    "finished_mid": 38.1,
+    "match": {
+      "source": "source_00009.mp4",
+      "source_timestamp": 26.5,
+      "distance_min": 84,
+      "distance_full": 84,
+      "distance_center": 88,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 26.5,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 88,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 0.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 2.0,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 27.0,
+        "distance_min": 88,
+        "distance_full": 92,
+        "distance_center": 88,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 2.5,
+        "distance_min": 88,
+        "distance_full": 88,
+        "distance_center": 124,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 19,
+    "finished_start": 38.87,
+    "finished_end": 40.07,
+    "finished_duration": 1.2,
+    "finished_mid": 39.47,
+    "match": {
+      "source": "source_00011.mp4",
+      "source_timestamp": 4.5,
+      "distance_min": 38,
+      "distance_full": 38,
+      "distance_center": 42,
+      "confidence": 0.525
+    },
+    "top5": [
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 4.5,
+        "distance_min": 38,
+        "distance_full": 38,
+        "distance_center": 42,
+        "confidence": 0.525
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 4.0,
+        "distance_min": 52,
+        "distance_full": 52,
+        "distance_center": 70,
+        "confidence": 0.35
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 3.0,
+        "distance_min": 76,
+        "distance_full": 82,
+        "distance_center": 76,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 3.5,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 80,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 5.5,
+        "distance_min": 88,
+        "distance_full": 88,
+        "distance_center": 122,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 20,
+    "finished_start": 40.07,
+    "finished_end": 41.37,
+    "finished_duration": 1.3,
+    "finished_mid": 40.72,
+    "match": {
+      "source": "source_00010.mp4",
+      "source_timestamp": 9.0,
+      "distance_min": 70,
+      "distance_full": 70,
+      "distance_center": 102,
+      "confidence": 0.125
+    },
+    "top5": [
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.0,
+        "distance_min": 70,
+        "distance_full": 70,
+        "distance_center": 102,
+        "confidence": 0.125
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.5,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 36.5,
+        "distance_min": 92,
+        "distance_full": 92,
+        "distance_center": 116,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 37.5,
+        "distance_min": 92,
+        "distance_full": 92,
+        "distance_center": 116,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 8.5,
+        "distance_min": 94,
+        "distance_full": 94,
+        "distance_center": 132,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 21,
+    "finished_start": 41.37,
+    "finished_end": 42.77,
+    "finished_duration": 1.4,
+    "finished_mid": 42.07,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 0.5,
+      "distance_min": 62,
+      "distance_full": 62,
+      "distance_center": 62,
+      "confidence": 0.225
+    },
+    "top5": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 0.5,
+        "distance_min": 62,
+        "distance_full": 62,
+        "distance_center": 62,
+        "confidence": 0.225
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 2.0,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 134,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00023.mp4",
+        "timestamp": 1.0,
+        "distance_min": 104,
+        "distance_full": 108,
+        "distance_center": 104,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 0.0,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 1.0,
+        "distance_min": 106,
+        "distance_full": 106,
+        "distance_center": 124,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 22,
+    "finished_start": 42.77,
+    "finished_end": 44.77,
+    "finished_duration": 2.0,
+    "finished_mid": 43.77,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 5.5,
+      "distance_min": 78,
+      "distance_full": 78,
+      "distance_center": 96,
+      "confidence": 0.025
+    },
+    "top5": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 5.5,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 96,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 8.5,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 108,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 9.5,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 128,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 7.5,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 110,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 12.0,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 122,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 23,
+    "finished_start": 44.77,
+    "finished_end": 47.6,
+    "finished_duration": 2.83,
+    "finished_mid": 46.18,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 19.0,
+      "distance_min": 74,
+      "distance_full": 74,
+      "distance_center": 96,
+      "confidence": 0.075
+    },
+    "top5": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 19.0,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 96,
+        "confidence": 0.075
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 17.5,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 104,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 18.0,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 106,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 14.0,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 110,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 26.0,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 96,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 24,
+    "finished_start": 47.6,
+    "finished_end": 49.37,
+    "finished_duration": 1.77,
+    "finished_mid": 48.48,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 4.5,
+      "distance_min": 92,
+      "distance_full": 92,
+      "distance_center": 110,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 4.5,
+        "distance_min": 92,
+        "distance_full": 92,
+        "distance_center": 110,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 1.0,
+        "distance_min": 96,
+        "distance_full": 96,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 2.0,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 112,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 2.5,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 104,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 3.5,
+        "distance_min": 100,
+        "distance_full": 108,
+        "distance_center": 100,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 25,
+    "finished_start": 49.37,
+    "finished_end": 51.4,
+    "finished_duration": 2.03,
+    "finished_mid": 50.38,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 27.5,
+      "distance_min": 76,
+      "distance_full": 76,
+      "distance_center": 116,
+      "confidence": 0.05
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.5,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 116,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 27.0,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 130,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 24.0,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 126,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 41.0,
+        "distance_min": 82,
+        "distance_full": 82,
+        "distance_center": 92,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 13.5,
+        "distance_min": 82,
+        "distance_full": 82,
+        "distance_center": 122,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 26,
+    "finished_start": 51.4,
+    "finished_end": 53.5,
+    "finished_duration": 2.1,
+    "finished_mid": 52.45,
+    "match": {
+      "source": "source_00015.mp4",
+      "source_timestamp": 2.0,
+      "distance_min": 58,
+      "distance_full": 58,
+      "distance_center": 80,
+      "confidence": 0.275
+    },
+    "top5": [
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 2.0,
+        "distance_min": 58,
+        "distance_full": 58,
+        "distance_center": 80,
+        "confidence": 0.275
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 2.5,
+        "distance_min": 94,
+        "distance_full": 94,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00015.mp4",
+        "timestamp": 3.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 126,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 2.0,
+        "distance_min": 108,
+        "distance_full": 118,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00010.mp4",
+        "timestamp": 9.0,
+        "distance_min": 108,
+        "distance_full": 126,
+        "distance_center": 108,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 27,
+    "finished_start": 53.5,
+    "finished_end": 55.83,
+    "finished_duration": 2.33,
+    "finished_mid": 54.67,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 10.0,
+      "distance_min": 86,
+      "distance_full": 118,
+      "distance_center": 86,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 10.0,
+        "distance_min": 86,
+        "distance_full": 118,
+        "distance_center": 86,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 9.5,
+        "distance_min": 92,
+        "distance_full": 122,
+        "distance_center": 92,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 14.5,
+        "distance_min": 94,
+        "distance_full": 122,
+        "distance_center": 94,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 15.0,
+        "distance_min": 94,
+        "distance_full": 122,
+        "distance_center": 94,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00009.mp4",
+        "timestamp": 20.5,
+        "distance_min": 96,
+        "distance_full": 114,
+        "distance_center": 96,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 28,
+    "finished_start": 55.83,
+    "finished_end": 57.03,
+    "finished_duration": 1.2,
+    "finished_mid": 56.43,
+    "match": {
+      "source": "source_00017.mp4",
+      "source_timestamp": 1.5,
+      "distance_min": 18,
+      "distance_full": 18,
+      "distance_center": 18,
+      "confidence": 0.775
+    },
+    "top5": [
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 1.5,
+        "distance_min": 18,
+        "distance_full": 18,
+        "distance_center": 18,
+        "confidence": 0.775
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 1.0,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 108,
+        "confidence": 0.075
+      },
+      {
+        "source": "source_00019.mp4",
+        "timestamp": 9.5,
+        "distance_min": 94,
+        "distance_full": 94,
+        "distance_center": 108,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00005.mp4",
+        "timestamp": 21.5,
+        "distance_min": 98,
+        "distance_full": 98,
+        "distance_center": 130,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00017.mp4",
+        "timestamp": 0.5,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 120,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 29,
+    "finished_start": 57.03,
+    "finished_end": 59.03,
+    "finished_duration": 2.0,
+    "finished_mid": 58.03,
+    "match": {
+      "source": "source_00012.mp4",
+      "source_timestamp": 6.5,
+      "distance_min": 74,
+      "distance_full": 74,
+      "distance_center": 90,
+      "confidence": 0.075
+    },
+    "top5": [
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 6.5,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 90,
+        "confidence": 0.075
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 18.5,
+        "distance_min": 74,
+        "distance_full": 74,
+        "distance_center": 104,
+        "confidence": 0.075
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 17.0,
+        "distance_min": 76,
+        "distance_full": 76,
+        "distance_center": 118,
+        "confidence": 0.05
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 16.0,
+        "distance_min": 78,
+        "distance_full": 78,
+        "distance_center": 100,
+        "confidence": 0.025
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 15.0,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 102,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 30,
+    "finished_start": 59.03,
+    "finished_end": 61.93,
+    "finished_duration": 2.9,
+    "finished_mid": 60.48,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 13.0,
+      "distance_min": 84,
+      "distance_full": 84,
+      "distance_center": 110,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 13.0,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 110,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 16.0,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 124,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 14.5,
+        "distance_min": 88,
+        "distance_full": 88,
+        "distance_center": 100,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 13.5,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 114,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 15.0,
+        "distance_min": 90,
+        "distance_full": 90,
+        "distance_center": 114,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 31,
+    "finished_start": 61.93,
+    "finished_end": 63.73,
+    "finished_duration": 1.8,
+    "finished_mid": 62.83,
+    "match": {
+      "source": "source_00018.mp4",
+      "source_timestamp": 4.0,
+      "distance_min": 68,
+      "distance_full": 68,
+      "distance_center": 72,
+      "confidence": 0.15
+    },
+    "top5": [
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 4.0,
+        "distance_min": 68,
+        "distance_full": 68,
+        "distance_center": 72,
+        "confidence": 0.15
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 2.0,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 86,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 2.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 90,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 3.0,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 98,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 3.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 92,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 32,
+    "finished_start": 63.73,
+    "finished_end": 67.07,
+    "finished_duration": 3.33,
+    "finished_mid": 65.4,
+    "match": {
+      "source": "source_00013.mp4",
+      "source_timestamp": 14.0,
+      "distance_min": 82,
+      "distance_full": 82,
+      "distance_center": 118,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 14.0,
+        "distance_min": 82,
+        "distance_full": 82,
+        "distance_center": 118,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 19.0,
+        "distance_min": 84,
+        "distance_full": 84,
+        "distance_center": 110,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00013.mp4",
+        "timestamp": 13.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 98,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 9.5,
+        "distance_min": 86,
+        "distance_full": 86,
+        "distance_center": 100,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00018.mp4",
+        "timestamp": 13.0,
+        "distance_min": 86,
+        "distance_full": 102,
+        "distance_center": 86,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 33,
+    "finished_start": 67.07,
+    "finished_end": 68.83,
+    "finished_duration": 1.77,
+    "finished_mid": 67.95,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 2.0,
+      "distance_min": 24,
+      "distance_full": 24,
+      "distance_center": 34,
+      "confidence": 0.7
+    },
+    "top5": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 2.0,
+        "distance_min": 24,
+        "distance_full": 24,
+        "distance_center": 34,
+        "confidence": 0.7
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 2.5,
+        "distance_min": 36,
+        "distance_full": 36,
+        "distance_center": 64,
+        "confidence": 0.55
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 3.0,
+        "distance_min": 64,
+        "distance_full": 64,
+        "distance_center": 72,
+        "confidence": 0.2
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 8.5,
+        "distance_min": 82,
+        "distance_full": 82,
+        "distance_center": 104,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 4.5,
+        "distance_min": 88,
+        "distance_full": 96,
+        "distance_center": 88,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 34,
+    "finished_start": 68.83,
+    "finished_end": 70.87,
+    "finished_duration": 2.03,
+    "finished_mid": 69.85,
+    "match": {
+      "source": "source_00021.mp4",
+      "source_timestamp": 7.5,
+      "distance_min": 66,
+      "distance_full": 66,
+      "distance_center": 112,
+      "confidence": 0.175
+    },
+    "top5": [
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 7.5,
+        "distance_min": 66,
+        "distance_full": 66,
+        "distance_center": 112,
+        "confidence": 0.175
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 8.5,
+        "distance_min": 66,
+        "distance_full": 74,
+        "distance_center": 66,
+        "confidence": 0.175
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 9.0,
+        "distance_min": 70,
+        "distance_full": 70,
+        "distance_center": 78,
+        "confidence": 0.125
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 6.5,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 106,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00021.mp4",
+        "timestamp": 7.0,
+        "distance_min": 80,
+        "distance_full": 80,
+        "distance_center": 96,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 35,
+    "finished_start": 70.87,
+    "finished_end": 73.07,
+    "finished_duration": 2.2,
+    "finished_mid": 71.97,
+    "match": {
+      "source": "source_00008.mp4",
+      "source_timestamp": 12.0,
+      "distance_min": 100,
+      "distance_full": 100,
+      "distance_center": 128,
+      "confidence": 0.0
+    },
+    "top5": [
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 12.0,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 128,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00012.mp4",
+        "timestamp": 20.5,
+        "distance_min": 100,
+        "distance_full": 100,
+        "distance_center": 124,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 16.0,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 116,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00008.mp4",
+        "timestamp": 43.0,
+        "distance_min": 102,
+        "distance_full": 126,
+        "distance_center": 102,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00011.mp4",
+        "timestamp": 3.5,
+        "distance_min": 104,
+        "distance_full": 134,
+        "distance_center": 104,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "shot_idx": 36,
+    "finished_start": 73.07,
+    "finished_end": 76.53,
+    "finished_duration": 3.47,
+    "finished_mid": 74.8,
+    "match": {
+      "source": "source_00025.mp4",
+      "source_timestamp": 9.5,
+      "distance_min": 18,
+      "distance_full": 18,
+      "distance_center": 28,
+      "confidence": 0.775
+    },
+    "top5": [
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 9.5,
+        "distance_min": 18,
+        "distance_full": 18,
+        "distance_center": 28,
+        "confidence": 0.775
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 9.0,
+        "distance_min": 20,
+        "distance_full": 20,
+        "distance_center": 28,
+        "confidence": 0.75
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 7.5,
+        "distance_min": 24,
+        "distance_full": 24,
+        "distance_center": 36,
+        "confidence": 0.7
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 10.0,
+        "distance_min": 24,
+        "distance_full": 24,
+        "distance_center": 32,
+        "confidence": 0.7
+      },
+      {
+        "source": "source_00025.mp4",
+        "timestamp": 8.5,
+        "distance_min": 26,
+        "distance_full": 26,
+        "distance_center": 36,
+        "confidence": 0.675
+      }
+    ]
+  },
+  {
+    "shot_idx": 37,
+    "finished_start": 76.53,
+    "finished_end": 79.57,
+    "finished_duration": 3.03,
+    "finished_mid": 78.05,
+    "match": {
+      "source": "source_00026.mp4",
+      "source_timestamp": 2.5,
+      "distance_min": 26,
+      "distance_full": 26,
+      "distance_center": 34,
+      "confidence": 0.675
+    },
+    "top5": [
+      {
+        "source": "source_00026.mp4",
+        "timestamp": 2.5,
+        "distance_min": 26,
+        "distance_full": 26,
+        "distance_center": 34,
+        "confidence": 0.675
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 0.0,
+        "distance_min": 98,
+        "distance_full": 98,
+        "distance_center": 126,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 19.0,
+        "distance_min": 100,
+        "distance_full": 102,
+        "distance_center": 100,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00007.mp4",
+        "timestamp": 18.5,
+        "distance_min": 102,
+        "distance_full": 102,
+        "distance_center": 112,
+        "confidence": 0.0
+      },
+      {
+        "source": "source_00004.mp4",
+        "timestamp": 0.5,
+        "distance_min": 104,
+        "distance_full": 104,
+        "distance_center": 118,
+        "confidence": 0.0
+      }
+    ]
+  }
+]

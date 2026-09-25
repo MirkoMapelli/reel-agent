@@ -1,0 +1,3444 @@
+{
+  "video_id": "7525759265538067734",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7525759265538067734",
+    "ref_id": "ref_80_7525759265538067734",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7525759265538067734",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 37,
+  "total_dur": 90.2,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.5,
+      "dur": 1.5,
+      "center": 0.75,
+      "role": "food_closeup",
+      "subject": "pollo fritto croccante",
+      "description": "Un pezzo grande di pollo fritto croccante è tenuto in primo piano dalle mani del creator.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Giornocinco del mio viaggio in Texas"
+    },
+    {
+      "idx": 1,
+      "start": 1.5,
+      "end": 3.333,
+      "dur": 1.833,
+      "center": 2.417,
+      "role": "person_eating",
+      "subject": "creator mangia pollo",
+      "description": "Il creator sta mangiando un pezzo di pollo fritto, con un piatto di cibo in basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "oggi ci dedichiamo al Fried Chicken"
+    },
+    {
+      "idx": 2,
+      "start": 3.333,
+      "end": 5.4,
+      "dur": 2.067,
+      "center": 4.367,
+      "role": "person_eating",
+      "subject": "creator sorridente mangia",
+      "description": "Il creator sorride alla telecamera mentre un piatto di pollo fritto è in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "Quindi piccola pausa dal Balbreak Texano, valbon"
+    },
+    {
+      "idx": 3,
+      "start": 5.4,
+      "end": 7.8,
+      "dur": 2.4,
+      "center": 6.6,
+      "role": "other",
+      "subject": "creator in palestra",
+      "description": "Il creator si fa un selfie nello specchio di una palestra, mostrando i manubri in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "cibo non manca mai E proprio per questo abbiamo iniziato la"
+    },
+    {
+      "idx": 4,
+      "start": 7.8,
+      "end": 9.567,
+      "dur": 1.767,
+      "center": 8.683,
+      "role": "other",
+      "subject": "creator in ascensore",
+      "description": "Il creator si fa un selfie in un ascensore con luci blu, indossando un cappellino e una tracolla gialla.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "giornata con un allamento nella palestra dell"
+    },
+    {
+      "idx": 5,
+      "start": 9.567,
+      "end": 12.367,
+      "dur": 2.8,
+      "center": 10.967,
+      "role": "other",
+      "subject": "agenti polizia folla",
+      "description": "Un gruppo di agenti di polizia in uniforme si trova in mezzo a una folla di persone, alcune delle quali tengono cartelli.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "'hotella Poi siamo usciti, abbiamo beccato subito una bella protesta contro"
+    },
+    {
+      "idx": 6,
+      "start": 12.367,
+      "end": 13.433,
+      "dur": 1.067,
+      "center": 12.9,
+      "role": "other",
+      "subject": "folla manifestanti edificio",
+      "description": "Una folla di persone con cartelli manifesta davanti a un grande edificio storico.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Trump Tra l 'altro alla"
+    },
+    {
+      "idx": 7,
+      "start": 13.433,
+      "end": 15.8,
+      "dur": 2.367,
+      "center": 14.617,
+      "role": "venue_exterior",
+      "subject": "edificio storico folla",
+      "description": "Un imponente edificio storico con una cupola e una bandiera americana è ripreso dal basso, con una folla di persone davanti.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Capitol Hill Ma noi siamo qui negli States per un altro"
+    },
+    {
+      "idx": 8,
+      "start": 15.8,
+      "end": 18.933,
+      "dur": 3.133,
+      "center": 17.367,
+      "role": "food_plated",
+      "subject": "pollo fritto contorni",
+      "description": "Un piatto con pollo fritto, coleslaw e mac and cheese è posizionato su un tavolo a scacchi, con un bicchiere con logo sullo sfondo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "motivo E infatti ragazzi per pranzo sono andato da Gus Fried Chicken"
+    },
+    {
+      "idx": 9,
+      "start": 18.933,
+      "end": 22.333,
+      "dur": 3.4,
+      "center": 20.633,
+      "role": "food_detail",
+      "subject": "coleslaw mac cheese",
+      "description": "Un primo piano ravvicinato di coleslaw e mac and cheese su un piatto, con spezie visibili sul mac and cheese.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Che probabilmente è il miglior polofrito di tutta Austin Nonostante comunque sia un posto che"
+    },
+    {
+      "idx": 10,
+      "start": 22.333,
+      "end": 24.733,
+      "dur": 2.4,
+      "center": 23.533,
+      "role": "food_closeup",
+      "subject": "pollo fritto croccante",
+      "description": "Un pezzo di pollo fritto molto grande e croccante è tenuto in primo piano dalle mani di una persona.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "ha più sedio Chiaramente ho preso il piatto più completo che"
+    },
+    {
+      "idx": 11,
+      "start": 24.733,
+      "end": 27.033,
+      "dur": 2.3,
+      "center": 25.883,
+      "role": "person_eating",
+      "subject": "uomo mangia pollo",
+      "description": "Un uomo sta addentando un pezzo di pollo fritto con espressione concentrata, seduto a un tavolo a scacchi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "avevano Con tutti e quattro i pezzi di polofritto qui in di"
+    },
+    {
+      "idx": 12,
+      "start": 27.033,
+      "end": 29.633,
+      "dur": 2.6,
+      "center": 28.333,
+      "role": "person_eating",
+      "subject": "uomo mostra pollo",
+      "description": "L'uomo mostra un pezzo di pollo fritto aperto, rivelando l'interno bianco e succoso, con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "petto sovraccoscia, coscia e ala Ed un doppio"
+    },
+    {
+      "idx": 13,
+      "start": 29.633,
+      "end": 31.667,
+      "dur": 2.033,
+      "center": 30.65,
+      "role": "food_detail",
+      "subject": "pollo fritto interno",
+      "description": "Un primo piano ravvicinato dell'interno del pollo fritto, con carne bianca e un tocco di salsa rossa.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "contorno di Coslo e Mac n Cheese E ragazzi"
+    },
+    {
+      "idx": 14,
+      "start": 31.667,
+      "end": 33.7,
+      "dur": 2.033,
+      "center": 32.683,
+      "role": "food_closeup",
+      "subject": "coscia pollo fritto",
+      "description": "Una coscia di pollo fritto croccante è tenuta in primo piano, con l'uomo sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "che livello di polofritto Chiaramente la"
+    },
+    {
+      "idx": 15,
+      "start": 33.7,
+      "end": 35.967,
+      "dur": 2.267,
+      "center": 34.833,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo fritto",
+      "description": "Il ragazzo sta addentando un pezzo di pollo fritto con l'espressione concentrata.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "panatura era super croccante L 'interno era molto"
+    },
+    {
+      "idx": 16,
+      "start": 35.967,
+      "end": 37.933,
+      "dur": 1.967,
+      "center": 36.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia coleslaw",
+      "description": "Il ragazzo sta portando alla bocca una forchettata di coleslaw, con il piatto di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "morbido C 'era tanta carne, coserà non"
+    },
+    {
+      "idx": 17,
+      "start": 37.933,
+      "end": 40.5,
+      "dur": 2.567,
+      "center": 39.217,
+      "role": "food_detail",
+      "subject": "mac and cheese",
+      "description": "Un primo piano del mac and cheese con una forchetta che lo solleva, mostrando la consistenza cremosa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "sottovalutare Non era neanche troppo unto Per quanto riguardi"
+    },
+    {
+      "idx": 18,
+      "start": 40.5,
+      "end": 43.0,
+      "dur": 2.5,
+      "center": 41.75,
+      "role": "person_eating",
+      "subject": "ragazzo mangia mac and cheese",
+      "description": "Il ragazzo sta mangiando il mac and cheese con la forchetta, con il petto di pollo fritto in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "sai, abbiamo la Coslo che non era niente di che Mentre il Mac"
+    },
+    {
+      "idx": 19,
+      "start": 43.0,
+      "end": 46.367,
+      "dur": 3.367,
+      "center": 44.683,
+      "role": "person_talking",
+      "subject": "ragazzo beve bibita",
+      "description": "Il ragazzo con un cappellino rosso e una bibita in mano si riprende per strada, con un'espressione ammiccante.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "n Cheese, buono buono C 'era la giusta cremosità e non era neanche troppo"
+    },
+    {
+      "idx": 20,
+      "start": 46.367,
+      "end": 48.933,
+      "dur": 2.567,
+      "center": 47.65,
+      "role": "other",
+      "subject": "persone attraversano strada",
+      "description": "Una ragazza dai capelli rossi cammina in primo piano mentre parla al telefono.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "scotta come pasta Quindi tanta roba Dopodiché sono andato a fare un"
+    },
+    {
+      "idx": 21,
+      "start": 48.933,
+      "end": 50.567,
+      "dur": 1.633,
+      "center": 49.75,
+      "role": "other",
+      "subject": "mappa campus universitario",
+      "description": "Una mappa dettagliata del campus universitario è visibile su un cartello.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "giro all 'università del Texas di"
+    },
+    {
+      "idx": 22,
+      "start": 50.567,
+      "end": 53.967,
+      "dur": 3.4,
+      "center": 52.267,
+      "role": "other",
+      "subject": "cartello informativo esterno",
+      "description": "Il cartello informativo del campus è inquadrato con alberi e vegetazione sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Austin Quanto ero troppo curioso di vedere una vera e propria università americana Fatti ho"
+    },
+    {
+      "idx": 23,
+      "start": 53.967,
+      "end": 57.9,
+      "dur": 3.933,
+      "center": 55.933,
+      "role": "venue_interior_detail",
+      "subject": "corridoio interno edificio",
+      "description": "Un corridoio interno con pavimento a scacchi e una scala in legno sulla destra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "fatto anche un giro in un paio di edifici E ho incontrato una quantità di ragazzi incredibili"
+    },
+    {
+      "idx": 24,
+      "start": 57.9,
+      "end": 58.6,
+      "dur": 0.7,
+      "center": 58.25,
+      "role": "venue_interior_detail",
+      "subject": "ingresso edificio interno",
+      "description": "L'ingresso di un edificio con porte aperte e un pavimento a scacchi in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Infatti si vede proprio"
+    },
+    {
+      "idx": 25,
+      "start": 58.6,
+      "end": 61.067,
+      "dur": 2.467,
+      "center": 59.833,
+      "role": "venue_exterior",
+      "subject": "fontana e torre",
+      "description": "La fontana in primo piano con la torre sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "che era tutto il quartiere dedicato all 'università"
+    },
+    {
+      "idx": 26,
+      "start": 61.067,
+      "end": 64.8,
+      "dur": 3.733,
+      "center": 62.933,
+      "role": "venue_interior_wide",
+      "subject": "negozio di abbigliamento",
+      "description": "Il logo Nike arancione appeso al soffitto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "E ovviamente ho fatto anche shopping con il merger dei Longhorns Il nome della"
+    },
+    {
+      "idx": 27,
+      "start": 64.8,
+      "end": 67.033,
+      "dur": 2.233,
+      "center": 65.917,
+      "role": "person_talking",
+      "subject": "uomo con busta",
+      "description": "L'uomo che tiene una busta di carta con un logo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "squadra di football, di baseball, di basket di questa"
+    },
+    {
+      "idx": 28,
+      "start": 67.033,
+      "end": 68.967,
+      "dur": 1.933,
+      "center": 68.0,
+      "role": "hands_gesture",
+      "subject": "mano che apre sacchetto",
+      "description": "La mano che apre un sacchetto di carta rosa.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "università Poi continuando il mio gire del top erosti Ho fatto"
+    },
+    {
+      "idx": 29,
+      "start": 68.967,
+      "end": 70.4,
+      "dur": 1.433,
+      "center": 69.683,
+      "role": "food_detail",
+      "subject": "due ciambelle nel sacchetto",
+      "description": "Le due ciambelle all'interno del sacchetto rosa con un logo.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "ovviamente merenda con un paio"
+    },
+    {
+      "idx": 30,
+      "start": 70.4,
+      "end": 71.867,
+      "dur": 1.467,
+      "center": 71.133,
+      "role": "food_closeup",
+      "subject": "ciambella ricoperta burro arachidi",
+      "description": "Una ciambella scura con glassa al burro d'arachidi e briciole di biscotto è in primo piano, con la scritta 'UNO' sovrapposta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "di donuts Uno decisamente esagerato"
+    },
+    {
+      "idx": 31,
+      "start": 71.867,
+      "end": 73.433,
+      "dur": 1.567,
+      "center": 72.65,
+      "role": "food_plated",
+      "subject": "ciambella glassata caramello",
+      "description": "Una ciambella glassata al caramello è posizionata su un tovagliolo bianco, con la scritta 'PICCOLO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "e un po' più piccolo Questo con"
+    },
+    {
+      "idx": 32,
+      "start": 73.433,
+      "end": 76.233,
+      "dur": 2.8,
+      "center": 74.833,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ciambella",
+      "description": "Un ragazzo con un cappellino rosso e nero sta addentando una ciambella ricoperta, con la scritta 'BUTTER' sovrapposta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "oreo e peanut butter sopra Veramente enorme però"
+    },
+    {
+      "idx": 33,
+      "start": 76.233,
+      "end": 78.2,
+      "dur": 1.967,
+      "center": 77.217,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ciambella",
+      "description": "Il ragazzo con il cappellino rosso e nero sta mangiando con espressione divertita, con la scritta 'MOLTO' in sovrimpressione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "devo dire che non era molto soffice l 'impasto"
+    },
+    {
+      "idx": 34,
+      "start": 78.2,
+      "end": 80.933,
+      "dur": 2.733,
+      "center": 79.567,
+      "role": "person_eating",
+      "subject": "ragazzo mangia ciambella",
+      "description": "Il ragazzo sta addentando una ciambella glassata, con la scritta 'CARAMELLO' sovrapposta e un muro di mattoni sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "E questo altro ricoperto di caramello salato Ma appunto devo dire"
+    },
+    {
+      "idx": 35,
+      "start": 80.933,
+      "end": 86.467,
+      "dur": 5.533,
+      "center": 83.7,
+      "role": "food_plated",
+      "subject": "hot dog patatine fritte",
+      "description": "Il piatto con hot dog e patatine fritte è ben illuminato e invitante.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "una mezza dell 'usione Mi sono poi consolato a cena in questo pub tedesco in cui ho preso questo panino con il salsiccio"
+    },
+    {
+      "idx": 36,
+      "start": 86.467,
+      "end": 90.2,
+      "dur": 3.733,
+      "center": 88.333,
+      "role": "other",
+      "subject": "procione strada notturna",
+      "description": "Un procione attraversa una strada buia di notte.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "E ho poi concluso del giornato incontrando questi procioni che girano per osti"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pollo fritto croccante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo grande di pollo fritto croccante è tenuto in primo piano dalle mani del creator.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.5,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "creator mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator sta mangiando un pezzo di pollo fritto, con un piatto di cibo in basso.",
+      "shot_idx": 1,
+      "start": 1.5,
+      "end": 3.333,
+      "dur": 1.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "creator sorridente mangia",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator sorride alla telecamera mentre un piatto di pollo fritto è in primo piano.",
+      "shot_idx": 2,
+      "start": 3.333,
+      "end": 5.4,
+      "dur": 2.067
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "creator in palestra",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator si fa un selfie nello specchio di una palestra, mostrando i manubri in primo piano.",
+      "shot_idx": 3,
+      "start": 5.4,
+      "end": 7.8,
+      "dur": 2.4
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "creator in ascensore",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il creator si fa un selfie in un ascensore con luci blu, indossando un cappellino e una tracolla gialla.",
+      "shot_idx": 4,
+      "start": 7.8,
+      "end": 9.567,
+      "dur": 1.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "agenti polizia folla",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un gruppo di agenti di polizia in uniforme si trova in mezzo a una folla di persone, alcune delle quali tengono cartelli.",
+      "shot_idx": 5,
+      "start": 9.567,
+      "end": 12.367,
+      "dur": 2.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "folla manifestanti edificio",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una folla di persone con cartelli manifesta davanti a un grande edificio storico.",
+      "shot_idx": 6,
+      "start": 12.367,
+      "end": 13.433,
+      "dur": 1.067
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "edificio storico folla",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un imponente edificio storico con una cupola e una bandiera americana è ripreso dal basso, con una folla di persone davanti.",
+      "shot_idx": 7,
+      "start": 13.433,
+      "end": 15.8,
+      "dur": 2.367
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "pollo fritto contorni",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto con pollo fritto, coleslaw e mac and cheese è posizionato su un tavolo a scacchi, con un bicchiere con logo sullo sfondo.",
+      "shot_idx": 8,
+      "start": 15.8,
+      "end": 18.933,
+      "dur": 3.133
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "coleslaw mac cheese",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano ravvicinato di coleslaw e mac and cheese su un piatto, con spezie visibili sul mac and cheese.",
+      "shot_idx": 9,
+      "start": 18.933,
+      "end": 22.333,
+      "dur": 3.4
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pollo fritto croccante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un pezzo di pollo fritto molto grande e croccante è tenuto in primo piano dalle mani di una persona.",
+      "shot_idx": 10,
+      "start": 22.333,
+      "end": 24.733,
+      "dur": 2.4
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo sta addentando un pezzo di pollo fritto con espressione concentrata, seduto a un tavolo a scacchi.",
+      "shot_idx": 11,
+      "start": 24.733,
+      "end": 27.033,
+      "dur": 2.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mostra pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo mostra un pezzo di pollo fritto aperto, rivelando l'interno bianco e succoso, con un'espressione sorpresa.",
+      "shot_idx": 12,
+      "start": 27.033,
+      "end": 29.633,
+      "dur": 2.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto interno",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un primo piano ravvicinato dell'interno del pollo fritto, con carne bianca e un tocco di salsa rossa.",
+      "shot_idx": 13,
+      "start": 29.633,
+      "end": 31.667,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "coscia pollo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una coscia di pollo fritto croccante è tenuta in primo piano, con l'uomo sfocato sullo sfondo.",
+      "shot_idx": 14,
+      "start": 31.667,
+      "end": 33.7,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di pollo fritto con l'espressione concentrata.",
+      "shot_idx": 15,
+      "start": 33.7,
+      "end": 35.967,
+      "dur": 2.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia coleslaw",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta portando alla bocca una forchettata di coleslaw, con il piatto di cibo in primo piano.",
+      "shot_idx": 16,
+      "start": 35.967,
+      "end": 37.933,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "mac and cheese",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Un primo piano del mac and cheese con una forchetta che lo solleva, mostrando la consistenza cremosa.",
+      "shot_idx": 17,
+      "start": 37.933,
+      "end": 40.5,
+      "dur": 2.567
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia mac and cheese",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando il mac and cheese con la forchetta, con il petto di pollo fritto in primo piano.",
+      "shot_idx": 18,
+      "start": 40.5,
+      "end": 43.0,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo beve bibita",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con un cappellino rosso e una bibita in mano si riprende per strada, con un'espressione ammiccante.",
+      "shot_idx": 19,
+      "start": 43.0,
+      "end": 46.367,
+      "dur": 3.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "persone attraversano strada",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una ragazza dai capelli rossi cammina in primo piano mentre parla al telefono.",
+      "shot_idx": 20,
+      "start": 46.367,
+      "end": 48.933,
+      "dur": 2.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "mappa campus universitario",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Una mappa dettagliata del campus universitario è visibile su un cartello.",
+      "shot_idx": 21,
+      "start": 48.933,
+      "end": 50.567,
+      "dur": 1.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "cartello informativo esterno",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il cartello informativo del campus è inquadrato con alberi e vegetazione sullo sfondo.",
+      "shot_idx": 22,
+      "start": 50.567,
+      "end": 53.967,
+      "dur": 3.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "corridoio interno edificio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un corridoio interno con pavimento a scacchi e una scala in legno sulla destra.",
+      "shot_idx": 23,
+      "start": 53.967,
+      "end": 57.9,
+      "dur": 3.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "ingresso edificio interno",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'ingresso di un edificio con porte aperte e un pavimento a scacchi in primo piano.",
+      "shot_idx": 24,
+      "start": 57.9,
+      "end": 58.6,
+      "dur": 0.7
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "fontana e torre",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La fontana in primo piano con la torre sullo sfondo.",
+      "shot_idx": 25,
+      "start": 58.6,
+      "end": 61.067,
+      "dur": 2.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "negozio di abbigliamento",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il logo Nike arancione appeso al soffitto.",
+      "shot_idx": 26,
+      "start": 61.067,
+      "end": 64.8,
+      "dur": 3.733
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo con busta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'uomo che tiene una busta di carta con un logo.",
+      "shot_idx": 27,
+      "start": 64.8,
+      "end": 67.033,
+      "dur": 2.233
+    },
+    {
+      "idx": 3,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano che apre sacchetto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La mano che apre un sacchetto di carta rosa.",
+      "shot_idx": 28,
+      "start": 67.033,
+      "end": 68.967,
+      "dur": 1.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "due ciambelle nel sacchetto",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Le due ciambelle all'interno del sacchetto rosa con un logo.",
+      "shot_idx": 29,
+      "start": 68.967,
+      "end": 70.4,
+      "dur": 1.433
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "ciambella ricoperta burro arachidi",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una ciambella scura con glassa al burro d'arachidi e briciole di biscotto è in primo piano, con la scritta 'UNO' sovrapposta.",
+      "shot_idx": 30,
+      "start": 70.4,
+      "end": 71.867,
+      "dur": 1.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_plated",
+      "soggetto": "ciambella glassata caramello",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una ciambella glassata al caramello è posizionata su un tovagliolo bianco, con la scritta 'PICCOLO' in sovrimpressione.",
+      "shot_idx": 31,
+      "start": 71.867,
+      "end": 73.433,
+      "dur": 1.567
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ciambella",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con un cappellino rosso e nero sta addentando una ciambella ricoperta, con la scritta 'BUTTER' sovrapposta.",
+      "shot_idx": 32,
+      "start": 73.433,
+      "end": 76.233,
+      "dur": 2.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ciambella",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo con il cappellino rosso e nero sta mangiando con espressione divertita, con la scritta 'MOLTO' in sovrimpressione.",
+      "shot_idx": 33,
+      "start": 76.233,
+      "end": 78.2,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia ciambella",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando una ciambella glassata, con la scritta 'CARAMELLO' sovrapposta e un muro di mattoni sullo sfondo.",
+      "shot_idx": 34,
+      "start": 78.2,
+      "end": 80.933,
+      "dur": 2.733
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "hot dog patatine fritte",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il piatto con hot dog e patatine fritte è ben illuminato e invitante.",
+      "shot_idx": 35,
+      "start": 80.933,
+      "end": 86.467,
+      "dur": 5.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "procione strada notturna",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un procione attraversa una strada buia di notte.",
+      "shot_idx": 36,
+      "start": 86.467,
+      "end": 90.2,
+      "dur": 3.733
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Giornocinco del mio viaggio in Texas oggi ci dedichiamo al Fried Chicken"
+    },
+    {
+      "start": 3.36,
+      "end": 6.52,
+      "text": "Quindi piccola pausa dal Balbreak Texano, valbon cibo non manca mai"
+    },
+    {
+      "start": 6.52,
+      "end": 9.96,
+      "text": "E proprio per questo abbiamo iniziato la giornata con un allamento nella palestra dell'hotella"
+    },
+    {
+      "start": 9.96,
+      "end": 12.98,
+      "text": "Poi siamo usciti, abbiamo beccato subito una bella protesta contro Trump"
+    },
+    {
+      "start": 12.98,
+      "end": 14.14,
+      "text": "Tra l'altro alla Capitol Hill"
+    },
+    {
+      "start": 14.14,
+      "end": 16.26,
+      "text": "Ma noi siamo qui negli States per un altro motivo"
+    },
+    {
+      "start": 16.26,
+      "end": 18.88,
+      "text": "E infatti ragazzi per pranzo sono andato da Gus Fried Chicken"
+    },
+    {
+      "start": 18.88,
+      "end": 20.98,
+      "text": "Che probabilmente è il miglior polofrito di tutta Austin"
+    },
+    {
+      "start": 20.98,
+      "end": 22.86,
+      "text": "Nonostante comunque sia un posto che ha più sedio"
+    },
+    {
+      "start": 22.86,
+      "end": 25.04,
+      "text": "Chiaramente ho preso il piatto più completo che avevano"
+    },
+    {
+      "start": 25.04,
+      "end": 29.04,
+      "text": "Con tutti e quattro i pezzi di polofritto qui in di petto sovraccoscia, coscia e ala"
+    },
+    {
+      "start": 29.04,
+      "end": 31.04,
+      "text": "Ed un doppio contorno di Coslo e Mac n Cheese"
+    },
+    {
+      "start": 31.04,
+      "end": 33.18,
+      "text": "E ragazzi che livello di polofritto"
+    },
+    {
+      "start": 33.18,
+      "end": 35.06,
+      "text": "Chiaramente la panatura era super croccante"
+    },
+    {
+      "start": 35.06,
+      "end": 36.44,
+      "text": "L'interno era molto morbido"
+    },
+    {
+      "start": 36.44,
+      "end": 38.6,
+      "text": "C'era tanta carne, coserà non sottovalutare"
+    },
+    {
+      "start": 38.6,
+      "end": 39.76,
+      "text": "Non era neanche troppo unto"
+    },
+    {
+      "start": 39.76,
+      "end": 42.38,
+      "text": "Per quanto riguardi sai, abbiamo la Coslo che non era niente di che"
+    },
+    {
+      "start": 42.38,
+      "end": 44.14,
+      "text": "Mentre il Mac n Cheese, buono buono"
+    },
+    {
+      "start": 44.14,
+      "end": 47.2,
+      "text": "C'era la giusta cremosità e non era neanche troppo scotta come pasta"
+    },
+    {
+      "start": 47.2,
+      "end": 47.94,
+      "text": "Quindi tanta roba"
+    },
+    {
+      "start": 47.94,
+      "end": 50.8,
+      "text": "Dopodiché sono andato a fare un giro all'università del Texas di Austin"
+    },
+    {
+      "start": 50.8,
+      "end": 53.64,
+      "text": "Quanto ero troppo curioso di vedere una vera e propria università americana"
+    },
+    {
+      "start": 53.64,
+      "end": 55.66,
+      "text": "Fatti ho fatto anche un giro in un paio di edifici"
+    },
+    {
+      "start": 55.66,
+      "end": 57.96,
+      "text": "E ho incontrato una quantità di ragazzi incredibili"
+    },
+    {
+      "start": 57.96,
+      "end": 61.0,
+      "text": "Infatti si vede proprio che era tutto il quartiere dedicato all'università"
+    },
+    {
+      "start": 61.0,
+      "end": 64.16,
+      "text": "E ovviamente ho fatto anche shopping con il merger dei Longhorns"
+    },
+    {
+      "start": 64.16,
+      "end": 67.34,
+      "text": "Il nome della squadra di football, di baseball, di basket di questa università"
+    },
+    {
+      "start": 67.34,
+      "end": 68.78,
+      "text": "Poi continuando il mio gire del top erosti"
+    },
+    {
+      "start": 68.78,
+      "end": 70.76,
+      "text": "Ho fatto ovviamente merenda con un paio di donuts"
+    },
+    {
+      "start": 70.76,
+      "end": 72.82,
+      "text": "Uno decisamente esagerato e un po' più piccolo"
+    },
+    {
+      "start": 72.82,
+      "end": 75.14,
+      "text": "Questo con oreo e peanut butter sopra"
+    },
+    {
+      "start": 75.14,
+      "end": 78.2,
+      "text": "Veramente enorme però devo dire che non era molto soffice l'impasto"
+    },
+    {
+      "start": 78.2,
+      "end": 80.14,
+      "text": "E questo altro ricoperto di caramello salato"
+    },
+    {
+      "start": 80.14,
+      "end": 81.9,
+      "text": "Ma appunto devo dire una mezza dell'usione"
+    },
+    {
+      "start": 81.9,
+      "end": 86.58,
+      "text": "Mi sono poi consolato a cena in questo pub tedesco in cui ho preso questo panino con il salsiccio"
+    },
+    {
+      "start": 86.58,
+      "end": 89.62,
+      "text": "E ho poi concluso del giornato incontrando questi procioni che girano per osti"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "word": "Giornocinco"
+    },
+    {
+      "start": 0.64,
+      "end": 0.76,
+      "word": "del"
+    },
+    {
+      "start": 0.76,
+      "end": 0.88,
+      "word": "mio"
+    },
+    {
+      "start": 0.88,
+      "end": 1.08,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.08,
+      "end": 1.24,
+      "word": "in"
+    },
+    {
+      "start": 1.24,
+      "end": 1.46,
+      "word": "Texas"
+    },
+    {
+      "start": 1.46,
+      "end": 1.88,
+      "word": "oggi"
+    },
+    {
+      "start": 1.88,
+      "end": 2.06,
+      "word": "ci"
+    },
+    {
+      "start": 2.06,
+      "end": 2.56,
+      "word": "dedichiamo"
+    },
+    {
+      "start": 2.56,
+      "end": 2.74,
+      "word": "al"
+    },
+    {
+      "start": 2.74,
+      "end": 2.96,
+      "word": "Fried"
+    },
+    {
+      "start": 2.96,
+      "end": 3.36,
+      "word": "Chicken"
+    },
+    {
+      "start": 3.36,
+      "end": 3.52,
+      "word": "Quindi"
+    },
+    {
+      "start": 3.52,
+      "end": 3.86,
+      "word": "piccola"
+    },
+    {
+      "start": 3.86,
+      "end": 4.18,
+      "word": "pausa"
+    },
+    {
+      "start": 4.18,
+      "end": 4.36,
+      "word": "dal"
+    },
+    {
+      "start": 4.36,
+      "end": 4.66,
+      "word": "Balbreak"
+    },
+    {
+      "start": 4.66,
+      "end": 5.18,
+      "word": "Texano,"
+    },
+    {
+      "start": 5.2,
+      "end": 5.5,
+      "word": "valbon"
+    },
+    {
+      "start": 5.5,
+      "end": 5.8,
+      "word": "cibo"
+    },
+    {
+      "start": 5.8,
+      "end": 6.0,
+      "word": "non"
+    },
+    {
+      "start": 6.0,
+      "end": 6.28,
+      "word": "manca"
+    },
+    {
+      "start": 6.28,
+      "end": 6.52,
+      "word": "mai"
+    },
+    {
+      "start": 6.52,
+      "end": 6.64,
+      "word": "E"
+    },
+    {
+      "start": 6.64,
+      "end": 6.82,
+      "word": "proprio"
+    },
+    {
+      "start": 6.82,
+      "end": 7.02,
+      "word": "per"
+    },
+    {
+      "start": 7.02,
+      "end": 7.24,
+      "word": "questo"
+    },
+    {
+      "start": 7.24,
+      "end": 7.42,
+      "word": "abbiamo"
+    },
+    {
+      "start": 7.42,
+      "end": 7.68,
+      "word": "iniziato"
+    },
+    {
+      "start": 7.68,
+      "end": 7.82,
+      "word": "la"
+    },
+    {
+      "start": 7.82,
+      "end": 8.14,
+      "word": "giornata"
+    },
+    {
+      "start": 8.14,
+      "end": 8.3,
+      "word": "con"
+    },
+    {
+      "start": 8.3,
+      "end": 8.42,
+      "word": "un"
+    },
+    {
+      "start": 8.42,
+      "end": 8.76,
+      "word": "allamento"
+    },
+    {
+      "start": 8.76,
+      "end": 9.1,
+      "word": "nella"
+    },
+    {
+      "start": 9.1,
+      "end": 9.42,
+      "word": "palestra"
+    },
+    {
+      "start": 9.42,
+      "end": 9.6,
+      "word": "dell"
+    },
+    {
+      "start": 9.6,
+      "end": 9.96,
+      "word": "'hotella"
+    },
+    {
+      "start": 9.96,
+      "end": 10.06,
+      "word": "Poi"
+    },
+    {
+      "start": 10.06,
+      "end": 10.24,
+      "word": "siamo"
+    },
+    {
+      "start": 10.24,
+      "end": 10.5,
+      "word": "usciti,"
+    },
+    {
+      "start": 10.62,
+      "end": 10.7,
+      "word": "abbiamo"
+    },
+    {
+      "start": 10.7,
+      "end": 11.02,
+      "word": "beccato"
+    },
+    {
+      "start": 11.02,
+      "end": 11.44,
+      "word": "subito"
+    },
+    {
+      "start": 11.44,
+      "end": 11.6,
+      "word": "una"
+    },
+    {
+      "start": 11.6,
+      "end": 11.88,
+      "word": "bella"
+    },
+    {
+      "start": 11.88,
+      "end": 12.24,
+      "word": "protesta"
+    },
+    {
+      "start": 12.24,
+      "end": 12.46,
+      "word": "contro"
+    },
+    {
+      "start": 12.46,
+      "end": 12.98,
+      "word": "Trump"
+    },
+    {
+      "start": 12.98,
+      "end": 13.16,
+      "word": "Tra"
+    },
+    {
+      "start": 13.16,
+      "end": 13.22,
+      "word": "l"
+    },
+    {
+      "start": 13.22,
+      "end": 13.34,
+      "word": "'altro"
+    },
+    {
+      "start": 13.34,
+      "end": 13.52,
+      "word": "alla"
+    },
+    {
+      "start": 13.52,
+      "end": 13.8,
+      "word": "Capitol"
+    },
+    {
+      "start": 13.8,
+      "end": 14.14,
+      "word": "Hill"
+    },
+    {
+      "start": 14.14,
+      "end": 14.36,
+      "word": "Ma"
+    },
+    {
+      "start": 14.36,
+      "end": 14.54,
+      "word": "noi"
+    },
+    {
+      "start": 14.54,
+      "end": 14.7,
+      "word": "siamo"
+    },
+    {
+      "start": 14.7,
+      "end": 14.94,
+      "word": "qui"
+    },
+    {
+      "start": 14.94,
+      "end": 15.14,
+      "word": "negli"
+    },
+    {
+      "start": 15.14,
+      "end": 15.38,
+      "word": "States"
+    },
+    {
+      "start": 15.38,
+      "end": 15.6,
+      "word": "per"
+    },
+    {
+      "start": 15.6,
+      "end": 15.72,
+      "word": "un"
+    },
+    {
+      "start": 15.72,
+      "end": 15.86,
+      "word": "altro"
+    },
+    {
+      "start": 15.86,
+      "end": 16.26,
+      "word": "motivo"
+    },
+    {
+      "start": 16.26,
+      "end": 16.4,
+      "word": "E"
+    },
+    {
+      "start": 16.4,
+      "end": 16.64,
+      "word": "infatti"
+    },
+    {
+      "start": 16.64,
+      "end": 16.92,
+      "word": "ragazzi"
+    },
+    {
+      "start": 16.92,
+      "end": 17.12,
+      "word": "per"
+    },
+    {
+      "start": 17.12,
+      "end": 17.44,
+      "word": "pranzo"
+    },
+    {
+      "start": 17.44,
+      "end": 17.6,
+      "word": "sono"
+    },
+    {
+      "start": 17.6,
+      "end": 17.8,
+      "word": "andato"
+    },
+    {
+      "start": 17.8,
+      "end": 17.96,
+      "word": "da"
+    },
+    {
+      "start": 17.96,
+      "end": 18.22,
+      "word": "Gus"
+    },
+    {
+      "start": 18.22,
+      "end": 18.5,
+      "word": "Fried"
+    },
+    {
+      "start": 18.5,
+      "end": 18.88,
+      "word": "Chicken"
+    },
+    {
+      "start": 18.88,
+      "end": 19.0,
+      "word": "Che"
+    },
+    {
+      "start": 19.0,
+      "end": 19.4,
+      "word": "probabilmente"
+    },
+    {
+      "start": 19.4,
+      "end": 19.5,
+      "word": "è"
+    },
+    {
+      "start": 19.5,
+      "end": 19.56,
+      "word": "il"
+    },
+    {
+      "start": 19.56,
+      "end": 19.78,
+      "word": "miglior"
+    },
+    {
+      "start": 19.78,
+      "end": 20.16,
+      "word": "polofrito"
+    },
+    {
+      "start": 20.16,
+      "end": 20.38,
+      "word": "di"
+    },
+    {
+      "start": 20.38,
+      "end": 20.64,
+      "word": "tutta"
+    },
+    {
+      "start": 20.64,
+      "end": 20.98,
+      "word": "Austin"
+    },
+    {
+      "start": 20.98,
+      "end": 21.4,
+      "word": "Nonostante"
+    },
+    {
+      "start": 21.4,
+      "end": 21.62,
+      "word": "comunque"
+    },
+    {
+      "start": 21.62,
+      "end": 21.84,
+      "word": "sia"
+    },
+    {
+      "start": 21.84,
+      "end": 21.96,
+      "word": "un"
+    },
+    {
+      "start": 21.96,
+      "end": 22.28,
+      "word": "posto"
+    },
+    {
+      "start": 22.28,
+      "end": 22.36,
+      "word": "che"
+    },
+    {
+      "start": 22.36,
+      "end": 22.44,
+      "word": "ha"
+    },
+    {
+      "start": 22.44,
+      "end": 22.54,
+      "word": "più"
+    },
+    {
+      "start": 22.54,
+      "end": 22.86,
+      "word": "sedio"
+    },
+    {
+      "start": 22.86,
+      "end": 23.34,
+      "word": "Chiaramente"
+    },
+    {
+      "start": 23.34,
+      "end": 23.54,
+      "word": "ho"
+    },
+    {
+      "start": 23.54,
+      "end": 23.74,
+      "word": "preso"
+    },
+    {
+      "start": 23.74,
+      "end": 23.82,
+      "word": "il"
+    },
+    {
+      "start": 23.82,
+      "end": 24.04,
+      "word": "piatto"
+    },
+    {
+      "start": 24.04,
+      "end": 24.24,
+      "word": "più"
+    },
+    {
+      "start": 24.24,
+      "end": 24.54,
+      "word": "completo"
+    },
+    {
+      "start": 24.54,
+      "end": 24.68,
+      "word": "che"
+    },
+    {
+      "start": 24.68,
+      "end": 25.04,
+      "word": "avevano"
+    },
+    {
+      "start": 25.04,
+      "end": 25.26,
+      "word": "Con"
+    },
+    {
+      "start": 25.26,
+      "end": 25.42,
+      "word": "tutti"
+    },
+    {
+      "start": 25.42,
+      "end": 25.56,
+      "word": "e"
+    },
+    {
+      "start": 25.56,
+      "end": 25.78,
+      "word": "quattro"
+    },
+    {
+      "start": 25.78,
+      "end": 25.88,
+      "word": "i"
+    },
+    {
+      "start": 25.88,
+      "end": 26.1,
+      "word": "pezzi"
+    },
+    {
+      "start": 26.1,
+      "end": 26.2,
+      "word": "di"
+    },
+    {
+      "start": 26.2,
+      "end": 26.72,
+      "word": "polofritto"
+    },
+    {
+      "start": 26.72,
+      "end": 26.88,
+      "word": "qui"
+    },
+    {
+      "start": 26.88,
+      "end": 26.98,
+      "word": "in"
+    },
+    {
+      "start": 26.98,
+      "end": 27.08,
+      "word": "di"
+    },
+    {
+      "start": 27.08,
+      "end": 27.48,
+      "word": "petto"
+    },
+    {
+      "start": 27.48,
+      "end": 28.18,
+      "word": "sovraccoscia,"
+    },
+    {
+      "start": 28.24,
+      "end": 28.62,
+      "word": "coscia"
+    },
+    {
+      "start": 28.62,
+      "end": 28.74,
+      "word": "e"
+    },
+    {
+      "start": 28.74,
+      "end": 29.04,
+      "word": "ala"
+    },
+    {
+      "start": 29.04,
+      "end": 29.18,
+      "word": "Ed"
+    },
+    {
+      "start": 29.18,
+      "end": 29.22,
+      "word": "un"
+    },
+    {
+      "start": 29.22,
+      "end": 29.46,
+      "word": "doppio"
+    },
+    {
+      "start": 29.46,
+      "end": 29.88,
+      "word": "contorno"
+    },
+    {
+      "start": 29.88,
+      "end": 30.06,
+      "word": "di"
+    },
+    {
+      "start": 30.06,
+      "end": 30.46,
+      "word": "Coslo"
+    },
+    {
+      "start": 30.46,
+      "end": 30.6,
+      "word": "e"
+    },
+    {
+      "start": 30.6,
+      "end": 30.7,
+      "word": "Mac"
+    },
+    {
+      "start": 30.7,
+      "end": 30.86,
+      "word": "n"
+    },
+    {
+      "start": 30.86,
+      "end": 31.04,
+      "word": "Cheese"
+    },
+    {
+      "start": 31.04,
+      "end": 31.22,
+      "word": "E"
+    },
+    {
+      "start": 31.22,
+      "end": 31.66,
+      "word": "ragazzi"
+    },
+    {
+      "start": 31.66,
+      "end": 31.9,
+      "word": "che"
+    },
+    {
+      "start": 31.9,
+      "end": 32.36,
+      "word": "livello"
+    },
+    {
+      "start": 32.36,
+      "end": 32.52,
+      "word": "di"
+    },
+    {
+      "start": 32.52,
+      "end": 33.18,
+      "word": "polofritto"
+    },
+    {
+      "start": 33.18,
+      "end": 33.46,
+      "word": "Chiaramente"
+    },
+    {
+      "start": 33.46,
+      "end": 33.74,
+      "word": "la"
+    },
+    {
+      "start": 33.74,
+      "end": 34.02,
+      "word": "panatura"
+    },
+    {
+      "start": 34.02,
+      "end": 34.24,
+      "word": "era"
+    },
+    {
+      "start": 34.24,
+      "end": 34.48,
+      "word": "super"
+    },
+    {
+      "start": 34.48,
+      "end": 35.06,
+      "word": "croccante"
+    },
+    {
+      "start": 35.06,
+      "end": 35.28,
+      "word": "L"
+    },
+    {
+      "start": 35.28,
+      "end": 35.6,
+      "word": "'interno"
+    },
+    {
+      "start": 35.6,
+      "end": 35.72,
+      "word": "era"
+    },
+    {
+      "start": 35.72,
+      "end": 35.94,
+      "word": "molto"
+    },
+    {
+      "start": 35.94,
+      "end": 36.44,
+      "word": "morbido"
+    },
+    {
+      "start": 36.44,
+      "end": 36.56,
+      "word": "C"
+    },
+    {
+      "start": 36.56,
+      "end": 36.6,
+      "word": "'era"
+    },
+    {
+      "start": 36.6,
+      "end": 36.94,
+      "word": "tanta"
+    },
+    {
+      "start": 36.94,
+      "end": 37.34,
+      "word": "carne,"
+    },
+    {
+      "start": 37.4,
+      "end": 37.7,
+      "word": "coserà"
+    },
+    {
+      "start": 37.7,
+      "end": 37.82,
+      "word": "non"
+    },
+    {
+      "start": 37.82,
+      "end": 38.6,
+      "word": "sottovalutare"
+    },
+    {
+      "start": 38.6,
+      "end": 38.76,
+      "word": "Non"
+    },
+    {
+      "start": 38.76,
+      "end": 38.9,
+      "word": "era"
+    },
+    {
+      "start": 38.9,
+      "end": 39.2,
+      "word": "neanche"
+    },
+    {
+      "start": 39.2,
+      "end": 39.5,
+      "word": "troppo"
+    },
+    {
+      "start": 39.5,
+      "end": 39.76,
+      "word": "unto"
+    },
+    {
+      "start": 39.76,
+      "end": 39.9,
+      "word": "Per"
+    },
+    {
+      "start": 39.9,
+      "end": 40.04,
+      "word": "quanto"
+    },
+    {
+      "start": 40.04,
+      "end": 40.46,
+      "word": "riguardi"
+    },
+    {
+      "start": 40.46,
+      "end": 40.68,
+      "word": "sai,"
+    },
+    {
+      "start": 40.76,
+      "end": 40.9,
+      "word": "abbiamo"
+    },
+    {
+      "start": 40.9,
+      "end": 41.14,
+      "word": "la"
+    },
+    {
+      "start": 41.14,
+      "end": 41.54,
+      "word": "Coslo"
+    },
+    {
+      "start": 41.54,
+      "end": 41.64,
+      "word": "che"
+    },
+    {
+      "start": 41.64,
+      "end": 41.72,
+      "word": "non"
+    },
+    {
+      "start": 41.72,
+      "end": 41.88,
+      "word": "era"
+    },
+    {
+      "start": 41.88,
+      "end": 42.08,
+      "word": "niente"
+    },
+    {
+      "start": 42.08,
+      "end": 42.2,
+      "word": "di"
+    },
+    {
+      "start": 42.2,
+      "end": 42.38,
+      "word": "che"
+    },
+    {
+      "start": 42.38,
+      "end": 42.76,
+      "word": "Mentre"
+    },
+    {
+      "start": 42.76,
+      "end": 42.88,
+      "word": "il"
+    },
+    {
+      "start": 42.88,
+      "end": 42.96,
+      "word": "Mac"
+    },
+    {
+      "start": 42.96,
+      "end": 43.18,
+      "word": "n"
+    },
+    {
+      "start": 43.18,
+      "end": 43.36,
+      "word": "Cheese,"
+    },
+    {
+      "start": 43.48,
+      "end": 43.72,
+      "word": "buono"
+    },
+    {
+      "start": 43.72,
+      "end": 44.14,
+      "word": "buono"
+    },
+    {
+      "start": 44.14,
+      "end": 44.32,
+      "word": "C"
+    },
+    {
+      "start": 44.32,
+      "end": 44.38,
+      "word": "'era"
+    },
+    {
+      "start": 44.38,
+      "end": 44.58,
+      "word": "la"
+    },
+    {
+      "start": 44.58,
+      "end": 44.78,
+      "word": "giusta"
+    },
+    {
+      "start": 44.78,
+      "end": 45.32,
+      "word": "cremosità"
+    },
+    {
+      "start": 45.32,
+      "end": 45.46,
+      "word": "e"
+    },
+    {
+      "start": 45.46,
+      "end": 45.56,
+      "word": "non"
+    },
+    {
+      "start": 45.56,
+      "end": 45.74,
+      "word": "era"
+    },
+    {
+      "start": 45.74,
+      "end": 46.0,
+      "word": "neanche"
+    },
+    {
+      "start": 46.0,
+      "end": 46.26,
+      "word": "troppo"
+    },
+    {
+      "start": 46.26,
+      "end": 46.66,
+      "word": "scotta"
+    },
+    {
+      "start": 46.66,
+      "end": 46.88,
+      "word": "come"
+    },
+    {
+      "start": 46.88,
+      "end": 47.2,
+      "word": "pasta"
+    },
+    {
+      "start": 47.2,
+      "end": 47.48,
+      "word": "Quindi"
+    },
+    {
+      "start": 47.48,
+      "end": 47.72,
+      "word": "tanta"
+    },
+    {
+      "start": 47.72,
+      "end": 47.94,
+      "word": "roba"
+    },
+    {
+      "start": 47.94,
+      "end": 48.32,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 48.32,
+      "end": 48.48,
+      "word": "sono"
+    },
+    {
+      "start": 48.48,
+      "end": 48.62,
+      "word": "andato"
+    },
+    {
+      "start": 48.62,
+      "end": 48.72,
+      "word": "a"
+    },
+    {
+      "start": 48.72,
+      "end": 48.84,
+      "word": "fare"
+    },
+    {
+      "start": 48.84,
+      "end": 49.0,
+      "word": "un"
+    },
+    {
+      "start": 49.0,
+      "end": 49.24,
+      "word": "giro"
+    },
+    {
+      "start": 49.24,
+      "end": 49.36,
+      "word": "all"
+    },
+    {
+      "start": 49.36,
+      "end": 49.84,
+      "word": "'università"
+    },
+    {
+      "start": 49.84,
+      "end": 50.04,
+      "word": "del"
+    },
+    {
+      "start": 50.04,
+      "end": 50.32,
+      "word": "Texas"
+    },
+    {
+      "start": 50.32,
+      "end": 50.58,
+      "word": "di"
+    },
+    {
+      "start": 50.58,
+      "end": 50.8,
+      "word": "Austin"
+    },
+    {
+      "start": 50.8,
+      "end": 51.06,
+      "word": "Quanto"
+    },
+    {
+      "start": 51.06,
+      "end": 51.24,
+      "word": "ero"
+    },
+    {
+      "start": 51.24,
+      "end": 51.54,
+      "word": "troppo"
+    },
+    {
+      "start": 51.54,
+      "end": 51.82,
+      "word": "curioso"
+    },
+    {
+      "start": 51.82,
+      "end": 51.96,
+      "word": "di"
+    },
+    {
+      "start": 51.96,
+      "end": 52.1,
+      "word": "vedere"
+    },
+    {
+      "start": 52.1,
+      "end": 52.28,
+      "word": "una"
+    },
+    {
+      "start": 52.28,
+      "end": 52.5,
+      "word": "vera"
+    },
+    {
+      "start": 52.5,
+      "end": 52.5,
+      "word": "e"
+    },
+    {
+      "start": 52.5,
+      "end": 52.74,
+      "word": "propria"
+    },
+    {
+      "start": 52.74,
+      "end": 53.18,
+      "word": "università"
+    },
+    {
+      "start": 53.18,
+      "end": 53.64,
+      "word": "americana"
+    },
+    {
+      "start": 53.64,
+      "end": 53.84,
+      "word": "Fatti"
+    },
+    {
+      "start": 53.84,
+      "end": 53.9,
+      "word": "ho"
+    },
+    {
+      "start": 53.9,
+      "end": 54.04,
+      "word": "fatto"
+    },
+    {
+      "start": 54.04,
+      "end": 54.28,
+      "word": "anche"
+    },
+    {
+      "start": 54.28,
+      "end": 54.44,
+      "word": "un"
+    },
+    {
+      "start": 54.44,
+      "end": 54.66,
+      "word": "giro"
+    },
+    {
+      "start": 54.66,
+      "end": 54.74,
+      "word": "in"
+    },
+    {
+      "start": 54.74,
+      "end": 54.86,
+      "word": "un"
+    },
+    {
+      "start": 54.86,
+      "end": 55.04,
+      "word": "paio"
+    },
+    {
+      "start": 55.04,
+      "end": 55.18,
+      "word": "di"
+    },
+    {
+      "start": 55.18,
+      "end": 55.66,
+      "word": "edifici"
+    },
+    {
+      "start": 55.66,
+      "end": 55.78,
+      "word": "E"
+    },
+    {
+      "start": 55.78,
+      "end": 55.86,
+      "word": "ho"
+    },
+    {
+      "start": 55.86,
+      "end": 56.2,
+      "word": "incontrato"
+    },
+    {
+      "start": 56.2,
+      "end": 56.42,
+      "word": "una"
+    },
+    {
+      "start": 56.42,
+      "end": 56.84,
+      "word": "quantità"
+    },
+    {
+      "start": 56.84,
+      "end": 57.02,
+      "word": "di"
+    },
+    {
+      "start": 57.02,
+      "end": 57.32,
+      "word": "ragazzi"
+    },
+    {
+      "start": 57.32,
+      "end": 57.96,
+      "word": "incredibili"
+    },
+    {
+      "start": 57.96,
+      "end": 58.16,
+      "word": "Infatti"
+    },
+    {
+      "start": 58.16,
+      "end": 58.3,
+      "word": "si"
+    },
+    {
+      "start": 58.3,
+      "end": 58.4,
+      "word": "vede"
+    },
+    {
+      "start": 58.4,
+      "end": 58.7,
+      "word": "proprio"
+    },
+    {
+      "start": 58.7,
+      "end": 58.98,
+      "word": "che"
+    },
+    {
+      "start": 58.98,
+      "end": 59.16,
+      "word": "era"
+    },
+    {
+      "start": 59.16,
+      "end": 59.4,
+      "word": "tutto"
+    },
+    {
+      "start": 59.4,
+      "end": 59.56,
+      "word": "il"
+    },
+    {
+      "start": 59.56,
+      "end": 59.86,
+      "word": "quartiere"
+    },
+    {
+      "start": 59.86,
+      "end": 60.34,
+      "word": "dedicato"
+    },
+    {
+      "start": 60.34,
+      "end": 60.5,
+      "word": "all"
+    },
+    {
+      "start": 60.5,
+      "end": 61.0,
+      "word": "'università"
+    },
+    {
+      "start": 61.0,
+      "end": 61.14,
+      "word": "E"
+    },
+    {
+      "start": 61.14,
+      "end": 61.48,
+      "word": "ovviamente"
+    },
+    {
+      "start": 61.48,
+      "end": 61.74,
+      "word": "ho"
+    },
+    {
+      "start": 61.74,
+      "end": 61.86,
+      "word": "fatto"
+    },
+    {
+      "start": 61.86,
+      "end": 62.1,
+      "word": "anche"
+    },
+    {
+      "start": 62.1,
+      "end": 62.52,
+      "word": "shopping"
+    },
+    {
+      "start": 62.52,
+      "end": 62.92,
+      "word": "con"
+    },
+    {
+      "start": 62.92,
+      "end": 63.1,
+      "word": "il"
+    },
+    {
+      "start": 63.1,
+      "end": 63.4,
+      "word": "merger"
+    },
+    {
+      "start": 63.4,
+      "end": 63.62,
+      "word": "dei"
+    },
+    {
+      "start": 63.62,
+      "end": 64.16,
+      "word": "Longhorns"
+    },
+    {
+      "start": 64.16,
+      "end": 64.34,
+      "word": "Il"
+    },
+    {
+      "start": 64.34,
+      "end": 64.46,
+      "word": "nome"
+    },
+    {
+      "start": 64.46,
+      "end": 64.66,
+      "word": "della"
+    },
+    {
+      "start": 64.66,
+      "end": 64.94,
+      "word": "squadra"
+    },
+    {
+      "start": 64.94,
+      "end": 65.08,
+      "word": "di"
+    },
+    {
+      "start": 65.08,
+      "end": 65.3,
+      "word": "football,"
+    },
+    {
+      "start": 65.3,
+      "end": 65.54,
+      "word": "di"
+    },
+    {
+      "start": 65.54,
+      "end": 65.8,
+      "word": "baseball,"
+    },
+    {
+      "start": 65.88,
+      "end": 66.02,
+      "word": "di"
+    },
+    {
+      "start": 66.02,
+      "end": 66.3,
+      "word": "basket"
+    },
+    {
+      "start": 66.3,
+      "end": 66.62,
+      "word": "di"
+    },
+    {
+      "start": 66.62,
+      "end": 66.8,
+      "word": "questa"
+    },
+    {
+      "start": 66.8,
+      "end": 67.34,
+      "word": "università"
+    },
+    {
+      "start": 67.34,
+      "end": 67.52,
+      "word": "Poi"
+    },
+    {
+      "start": 67.52,
+      "end": 67.9,
+      "word": "continuando"
+    },
+    {
+      "start": 67.9,
+      "end": 68.12,
+      "word": "il"
+    },
+    {
+      "start": 68.12,
+      "end": 68.12,
+      "word": "mio"
+    },
+    {
+      "start": 68.12,
+      "end": 68.22,
+      "word": "gire"
+    },
+    {
+      "start": 68.22,
+      "end": 68.42,
+      "word": "del"
+    },
+    {
+      "start": 68.42,
+      "end": 68.42,
+      "word": "top"
+    },
+    {
+      "start": 68.42,
+      "end": 68.78,
+      "word": "erosti"
+    },
+    {
+      "start": 68.78,
+      "end": 68.86,
+      "word": "Ho"
+    },
+    {
+      "start": 68.86,
+      "end": 69.06,
+      "word": "fatto"
+    },
+    {
+      "start": 69.06,
+      "end": 69.36,
+      "word": "ovviamente"
+    },
+    {
+      "start": 69.36,
+      "end": 69.88,
+      "word": "merenda"
+    },
+    {
+      "start": 69.88,
+      "end": 70.08,
+      "word": "con"
+    },
+    {
+      "start": 70.08,
+      "end": 70.2,
+      "word": "un"
+    },
+    {
+      "start": 70.2,
+      "end": 70.34,
+      "word": "paio"
+    },
+    {
+      "start": 70.34,
+      "end": 70.46,
+      "word": "di"
+    },
+    {
+      "start": 70.46,
+      "end": 70.76,
+      "word": "donuts"
+    },
+    {
+      "start": 70.76,
+      "end": 71.08,
+      "word": "Uno"
+    },
+    {
+      "start": 71.08,
+      "end": 71.54,
+      "word": "decisamente"
+    },
+    {
+      "start": 71.54,
+      "end": 72.04,
+      "word": "esagerato"
+    },
+    {
+      "start": 72.04,
+      "end": 72.12,
+      "word": "e"
+    },
+    {
+      "start": 72.12,
+      "end": 72.22,
+      "word": "un"
+    },
+    {
+      "start": 72.22,
+      "end": 72.36,
+      "word": "po'"
+    },
+    {
+      "start": 72.4,
+      "end": 72.46,
+      "word": "più"
+    },
+    {
+      "start": 72.46,
+      "end": 72.82,
+      "word": "piccolo"
+    },
+    {
+      "start": 72.82,
+      "end": 73.0,
+      "word": "Questo"
+    },
+    {
+      "start": 73.0,
+      "end": 73.24,
+      "word": "con"
+    },
+    {
+      "start": 73.24,
+      "end": 73.86,
+      "word": "oreo"
+    },
+    {
+      "start": 73.86,
+      "end": 74.04,
+      "word": "e"
+    },
+    {
+      "start": 74.04,
+      "end": 74.3,
+      "word": "peanut"
+    },
+    {
+      "start": 74.3,
+      "end": 74.62,
+      "word": "butter"
+    },
+    {
+      "start": 74.62,
+      "end": 75.14,
+      "word": "sopra"
+    },
+    {
+      "start": 75.14,
+      "end": 75.56,
+      "word": "Veramente"
+    },
+    {
+      "start": 75.56,
+      "end": 76.04,
+      "word": "enorme"
+    },
+    {
+      "start": 76.04,
+      "end": 76.36,
+      "word": "però"
+    },
+    {
+      "start": 76.36,
+      "end": 76.52,
+      "word": "devo"
+    },
+    {
+      "start": 76.52,
+      "end": 76.72,
+      "word": "dire"
+    },
+    {
+      "start": 76.72,
+      "end": 76.84,
+      "word": "che"
+    },
+    {
+      "start": 76.84,
+      "end": 76.94,
+      "word": "non"
+    },
+    {
+      "start": 76.94,
+      "end": 77.08,
+      "word": "era"
+    },
+    {
+      "start": 77.08,
+      "end": 77.26,
+      "word": "molto"
+    },
+    {
+      "start": 77.26,
+      "end": 77.68,
+      "word": "soffice"
+    },
+    {
+      "start": 77.68,
+      "end": 77.82,
+      "word": "l"
+    },
+    {
+      "start": 77.82,
+      "end": 78.2,
+      "word": "'impasto"
+    },
+    {
+      "start": 78.2,
+      "end": 78.4,
+      "word": "E"
+    },
+    {
+      "start": 78.4,
+      "end": 78.56,
+      "word": "questo"
+    },
+    {
+      "start": 78.56,
+      "end": 78.78,
+      "word": "altro"
+    },
+    {
+      "start": 78.78,
+      "end": 79.18,
+      "word": "ricoperto"
+    },
+    {
+      "start": 79.18,
+      "end": 79.4,
+      "word": "di"
+    },
+    {
+      "start": 79.4,
+      "end": 79.7,
+      "word": "caramello"
+    },
+    {
+      "start": 79.7,
+      "end": 80.14,
+      "word": "salato"
+    },
+    {
+      "start": 80.14,
+      "end": 80.4,
+      "word": "Ma"
+    },
+    {
+      "start": 80.4,
+      "end": 80.6,
+      "word": "appunto"
+    },
+    {
+      "start": 80.6,
+      "end": 80.8,
+      "word": "devo"
+    },
+    {
+      "start": 80.8,
+      "end": 80.98,
+      "word": "dire"
+    },
+    {
+      "start": 80.98,
+      "end": 81.16,
+      "word": "una"
+    },
+    {
+      "start": 81.16,
+      "end": 81.38,
+      "word": "mezza"
+    },
+    {
+      "start": 81.38,
+      "end": 81.54,
+      "word": "dell"
+    },
+    {
+      "start": 81.54,
+      "end": 81.9,
+      "word": "'usione"
+    },
+    {
+      "start": 81.9,
+      "end": 82.02,
+      "word": "Mi"
+    },
+    {
+      "start": 82.02,
+      "end": 82.14,
+      "word": "sono"
+    },
+    {
+      "start": 82.14,
+      "end": 82.3,
+      "word": "poi"
+    },
+    {
+      "start": 82.3,
+      "end": 82.68,
+      "word": "consolato"
+    },
+    {
+      "start": 82.68,
+      "end": 82.78,
+      "word": "a"
+    },
+    {
+      "start": 82.78,
+      "end": 83.0,
+      "word": "cena"
+    },
+    {
+      "start": 83.0,
+      "end": 83.12,
+      "word": "in"
+    },
+    {
+      "start": 83.12,
+      "end": 83.3,
+      "word": "questo"
+    },
+    {
+      "start": 83.3,
+      "end": 83.56,
+      "word": "pub"
+    },
+    {
+      "start": 83.56,
+      "end": 84.08,
+      "word": "tedesco"
+    },
+    {
+      "start": 84.08,
+      "end": 84.2,
+      "word": "in"
+    },
+    {
+      "start": 84.2,
+      "end": 84.28,
+      "word": "cui"
+    },
+    {
+      "start": 84.28,
+      "end": 84.4,
+      "word": "ho"
+    },
+    {
+      "start": 84.4,
+      "end": 84.66,
+      "word": "preso"
+    },
+    {
+      "start": 84.66,
+      "end": 84.96,
+      "word": "questo"
+    },
+    {
+      "start": 84.96,
+      "end": 85.38,
+      "word": "panino"
+    },
+    {
+      "start": 85.38,
+      "end": 85.56,
+      "word": "con"
+    },
+    {
+      "start": 85.56,
+      "end": 85.78,
+      "word": "il"
+    },
+    {
+      "start": 85.78,
+      "end": 86.58,
+      "word": "salsiccio"
+    },
+    {
+      "start": 86.58,
+      "end": 86.76,
+      "word": "E"
+    },
+    {
+      "start": 86.76,
+      "end": 86.82,
+      "word": "ho"
+    },
+    {
+      "start": 86.82,
+      "end": 86.84,
+      "word": "poi"
+    },
+    {
+      "start": 86.84,
+      "end": 87.2,
+      "word": "concluso"
+    },
+    {
+      "start": 87.2,
+      "end": 87.28,
+      "word": "del"
+    },
+    {
+      "start": 87.28,
+      "end": 87.6,
+      "word": "giornato"
+    },
+    {
+      "start": 87.6,
+      "end": 87.98,
+      "word": "incontrando"
+    },
+    {
+      "start": 87.98,
+      "end": 88.24,
+      "word": "questi"
+    },
+    {
+      "start": 88.24,
+      "end": 88.74,
+      "word": "procioni"
+    },
+    {
+      "start": 88.74,
+      "end": 88.8,
+      "word": "che"
+    },
+    {
+      "start": 88.8,
+      "end": 89.12,
+      "word": "girano"
+    },
+    {
+      "start": 89.12,
+      "end": 89.28,
+      "word": "per"
+    },
+    {
+      "start": 89.28,
+      "end": 89.62,
+      "word": "osti"
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.5,
+      "dur": 1.5,
+      "transcript": "Giornocinco del mio viaggio in Texas"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.5,
+      "end": 3.333,
+      "dur": 1.833,
+      "transcript": "oggi ci dedichiamo al Fried Chicken"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.333,
+      "end": 5.4,
+      "dur": 2.067,
+      "transcript": "Quindi piccola pausa dal Balbreak Texano, valbon"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.4,
+      "end": 7.8,
+      "dur": 2.4,
+      "transcript": "cibo non manca mai E proprio per questo abbiamo iniziato la"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.8,
+      "end": 9.567,
+      "dur": 1.767,
+      "transcript": "giornata con un allamento nella palestra dell"
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.567,
+      "end": 12.367,
+      "dur": 2.8,
+      "transcript": "'hotella Poi siamo usciti, abbiamo beccato subito una bella protesta contro"
+    },
+    {
+      "shot_idx": 6,
+      "start": 12.367,
+      "end": 13.433,
+      "dur": 1.067,
+      "transcript": "Trump Tra l 'altro alla"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.433,
+      "end": 15.8,
+      "dur": 2.367,
+      "transcript": "Capitol Hill Ma noi siamo qui negli States per un altro"
+    },
+    {
+      "shot_idx": 8,
+      "start": 15.8,
+      "end": 18.933,
+      "dur": 3.133,
+      "transcript": "motivo E infatti ragazzi per pranzo sono andato da Gus Fried Chicken"
+    },
+    {
+      "shot_idx": 9,
+      "start": 18.933,
+      "end": 22.333,
+      "dur": 3.4,
+      "transcript": "Che probabilmente è il miglior polofrito di tutta Austin Nonostante comunque sia un posto che"
+    },
+    {
+      "shot_idx": 10,
+      "start": 22.333,
+      "end": 24.733,
+      "dur": 2.4,
+      "transcript": "ha più sedio Chiaramente ho preso il piatto più completo che"
+    },
+    {
+      "shot_idx": 11,
+      "start": 24.733,
+      "end": 27.033,
+      "dur": 2.3,
+      "transcript": "avevano Con tutti e quattro i pezzi di polofritto qui in di"
+    },
+    {
+      "shot_idx": 12,
+      "start": 27.033,
+      "end": 29.633,
+      "dur": 2.6,
+      "transcript": "petto sovraccoscia, coscia e ala Ed un doppio"
+    },
+    {
+      "shot_idx": 13,
+      "start": 29.633,
+      "end": 31.667,
+      "dur": 2.033,
+      "transcript": "contorno di Coslo e Mac n Cheese E ragazzi"
+    },
+    {
+      "shot_idx": 14,
+      "start": 31.667,
+      "end": 33.7,
+      "dur": 2.033,
+      "transcript": "che livello di polofritto Chiaramente la"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.7,
+      "end": 35.967,
+      "dur": 2.267,
+      "transcript": "panatura era super croccante L 'interno era molto"
+    },
+    {
+      "shot_idx": 16,
+      "start": 35.967,
+      "end": 37.933,
+      "dur": 1.967,
+      "transcript": "morbido C 'era tanta carne, coserà non"
+    },
+    {
+      "shot_idx": 17,
+      "start": 37.933,
+      "end": 40.5,
+      "dur": 2.567,
+      "transcript": "sottovalutare Non era neanche troppo unto Per quanto riguardi"
+    },
+    {
+      "shot_idx": 18,
+      "start": 40.5,
+      "end": 43.0,
+      "dur": 2.5,
+      "transcript": "sai, abbiamo la Coslo che non era niente di che Mentre il Mac"
+    },
+    {
+      "shot_idx": 19,
+      "start": 43.0,
+      "end": 46.367,
+      "dur": 3.367,
+      "transcript": "n Cheese, buono buono C 'era la giusta cremosità e non era neanche troppo"
+    },
+    {
+      "shot_idx": 20,
+      "start": 46.367,
+      "end": 48.933,
+      "dur": 2.567,
+      "transcript": "scotta come pasta Quindi tanta roba Dopodiché sono andato a fare un"
+    },
+    {
+      "shot_idx": 21,
+      "start": 48.933,
+      "end": 50.567,
+      "dur": 1.633,
+      "transcript": "giro all 'università del Texas di"
+    },
+    {
+      "shot_idx": 22,
+      "start": 50.567,
+      "end": 53.967,
+      "dur": 3.4,
+      "transcript": "Austin Quanto ero troppo curioso di vedere una vera e propria università americana Fatti ho"
+    },
+    {
+      "shot_idx": 23,
+      "start": 53.967,
+      "end": 57.9,
+      "dur": 3.933,
+      "transcript": "fatto anche un giro in un paio di edifici E ho incontrato una quantità di ragazzi incredibili"
+    },
+    {
+      "shot_idx": 24,
+      "start": 57.9,
+      "end": 58.6,
+      "dur": 0.7,
+      "transcript": "Infatti si vede proprio"
+    },
+    {
+      "shot_idx": 25,
+      "start": 58.6,
+      "end": 61.067,
+      "dur": 2.467,
+      "transcript": "che era tutto il quartiere dedicato all 'università"
+    },
+    {
+      "shot_idx": 26,
+      "start": 61.067,
+      "end": 64.8,
+      "dur": 3.733,
+      "transcript": "E ovviamente ho fatto anche shopping con il merger dei Longhorns Il nome della"
+    },
+    {
+      "shot_idx": 27,
+      "start": 64.8,
+      "end": 67.033,
+      "dur": 2.233,
+      "transcript": "squadra di football, di baseball, di basket di questa"
+    },
+    {
+      "shot_idx": 28,
+      "start": 67.033,
+      "end": 68.967,
+      "dur": 1.933,
+      "transcript": "università Poi continuando il mio gire del top erosti Ho fatto"
+    },
+    {
+      "shot_idx": 29,
+      "start": 68.967,
+      "end": 70.4,
+      "dur": 1.433,
+      "transcript": "ovviamente merenda con un paio"
+    },
+    {
+      "shot_idx": 30,
+      "start": 70.4,
+      "end": 71.867,
+      "dur": 1.467,
+      "transcript": "di donuts Uno decisamente esagerato"
+    },
+    {
+      "shot_idx": 31,
+      "start": 71.867,
+      "end": 73.433,
+      "dur": 1.567,
+      "transcript": "e un po' più piccolo Questo con"
+    },
+    {
+      "shot_idx": 32,
+      "start": 73.433,
+      "end": 76.233,
+      "dur": 2.8,
+      "transcript": "oreo e peanut butter sopra Veramente enorme però"
+    },
+    {
+      "shot_idx": 33,
+      "start": 76.233,
+      "end": 78.2,
+      "dur": 1.967,
+      "transcript": "devo dire che non era molto soffice l 'impasto"
+    },
+    {
+      "shot_idx": 34,
+      "start": 78.2,
+      "end": 80.933,
+      "dur": 2.733,
+      "transcript": "E questo altro ricoperto di caramello salato Ma appunto devo dire"
+    },
+    {
+      "shot_idx": 35,
+      "start": 80.933,
+      "end": 86.467,
+      "dur": 5.533,
+      "transcript": "una mezza dell 'usione Mi sono poi consolato a cena in questo pub tedesco in cui ho preso questo panino con il salsiccio"
+    },
+    {
+      "shot_idx": 36,
+      "start": 86.467,
+      "end": 90.2,
+      "dur": 3.733,
+      "transcript": "E ho poi concluso del giornato incontrando questi procioni che girano per osti"
+    }
+  ],
+  "full_text": "Giornocinco del mio viaggio in Texas oggi ci dedichiamo al Fried Chicken Quindi piccola pausa dal Balbreak Texano, valbon cibo non manca mai E proprio per questo abbiamo iniziato la giornata con un allamento nella palestra dell'hotella Poi siamo usciti, abbiamo beccato subito una bella protesta contro Trump Tra l'altro alla Capitol Hill Ma noi siamo qui negli States per un altro motivo E infatti ragazzi per pranzo sono andato da Gus Fried Chicken Che probabilmente è il miglior polofrito di tutta Austin Nonostante comunque sia un posto che ha più sedio Chiaramente ho preso il piatto più completo che avevano Con tutti e quattro i pezzi di polofritto qui in di petto sovraccoscia, coscia e ala Ed un doppio contorno di Coslo e Mac n Cheese E ragazzi che livello di polofritto Chiaramente la panatura era super croccante L'interno era molto morbido C'era tanta carne, coserà non sottovalutare Non era neanche troppo unto Per quanto riguardi sai, abbiamo la Coslo che non era niente di che Mentre il Mac n Cheese, buono buono C'era la giusta cremosità e non era neanche troppo scotta come pasta Quindi tanta roba Dopodiché sono andato a fare un giro all'università del Texas di Austin Quanto ero troppo curioso di vedere una vera e propria università americana Fatti ho fatto anche un giro in un paio di edifici E ho incontrato una quantità di ragazzi incredibili Infatti si vede proprio che era tutto il quartiere dedicato all'università E ovviamente ho fatto anche shopping con il merger dei Longhorns Il nome della squadra di football, di baseball, di basket di questa università Poi continuando il mio gire del top erosti Ho fatto ovviamente merenda con un paio di donuts Uno decisamente esagerato e un po' più piccolo Questo con oreo e peanut butter sopra Veramente enorme però devo dire che non era molto soffice l'impasto E questo altro ricoperto di caramello salato Ma appunto devo dire una mezza dell'usione Mi sono poi consolato a cena in questo pub tedesco in cui ho preso questo panino con il salsiccio E ho poi concluso del giornato incontrando questi procioni che girano per osti",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

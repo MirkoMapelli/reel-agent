@@ -1,0 +1,688 @@
+{
+  "video_id": "7321817652131810592",
+  "creator": "jay.emme",
+  "meta": {
+    "id": "7321817652131810592",
+    "title": "VOGLIO MIGLIORARE LA MIA VITA #newlife #lifechange #lifemotivation #g...",
+    "url": "https://www.tiktok.com/@jay.emme/video/7321817652131810592",
+    "creator": "jay.emme",
+    "duration": 26,
+    "downloaded_at": "2026-09-20T22:20:32"
+  },
+  "n_shots": 3,
+  "total_dur": 26.27,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 16.333,
+      "dur": 16.333,
+      "center": 8.167,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7321817652131810592/frames/shot_000.jpg"
+    },
+    {
+      "idx": 1,
+      "start": 16.333,
+      "end": 19.9,
+      "dur": 3.567,
+      "center": 18.117,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7321817652131810592/frames/shot_001.jpg"
+    },
+    {
+      "idx": 2,
+      "start": 19.9,
+      "end": 26.267,
+      "dur": 6.367,
+      "center": 23.083,
+      "frame": "/opt/reel-agent/brain/corpus/jay.emme/videos/7321817652131810592/frames/shot_002.jpg"
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una felpa bianca con cappuccio parla guardando in camera. Sullo sfondo si intravede un poster.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "poster"
+      ],
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 16.333,
+      "dur": 16.333
+    },
+    {
+      "idx": 1,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una felpa bianca con cappuccio parla guardando in camera e gesticola con la mano sinistra. Sullo sfondo si intravede un poster.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "poster"
+      ],
+      "shot_idx": 1,
+      "start": 16.333,
+      "end": 19.9,
+      "dur": 3.567
+    },
+    {
+      "idx": 2,
+      "role": "person_talking",
+      "subject": "ragazzo che parla",
+      "description": "Un ragazzo con una felpa bianca con cappuccio parla guardando in camera. Sullo sfondo si intravede un poster.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "venue_elements": [
+        "muro",
+        "poster"
+      ],
+      "shot_idx": 2,
+      "start": 19.9,
+      "end": 26.267,
+      "dur": 6.367
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Ciao ragazzi sono Jay e voglio migliorare la mia vita."
+    },
+    {
+      "start": 2.44,
+      "end": 6.16,
+      "text": "Sì perché per me siamo nel 2024, questo 2023 non mi ha fatto soddisfatto."
+    },
+    {
+      "start": 6.26,
+      "end": 10.42,
+      "text": "Ho un sacco di obiettivi che purtroppo non ho raggiunto e non voglio che ci accadà di nuovo quest'anno."
+    },
+    {
+      "start": 10.52,
+      "end": 16.24,
+      "text": "Quindi vi porterò con me nel miglioramento di ogni singola spettola della mia vita che sia diet, allenamento, lettura, studio, qualsiasi cosa."
+    },
+    {
+      "start": 16.48,
+      "end": 19.8,
+      "text": "A partire per esempio dall'esame che ho domani, il mio primo esame ma fa niente."
+    },
+    {
+      "start": 20.02,
+      "end": 26.04,
+      "text": "Quindi se non siete soddisfatti della vostra vita, se avete voglia di cambiare avete bisogno di fuori motivazione iniziate a seguirmi e motiviamoci insieme."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "word": "Ciao"
+    },
+    {
+      "start": 0.28,
+      "end": 0.52,
+      "word": "ragazzi"
+    },
+    {
+      "start": 0.52,
+      "end": 0.72,
+      "word": "sono"
+    },
+    {
+      "start": 0.72,
+      "end": 0.96,
+      "word": "Jay"
+    },
+    {
+      "start": 0.96,
+      "end": 1.08,
+      "word": "e"
+    },
+    {
+      "start": 1.08,
+      "end": 1.24,
+      "word": "voglio"
+    },
+    {
+      "start": 1.24,
+      "end": 1.68,
+      "word": "migliorare"
+    },
+    {
+      "start": 1.68,
+      "end": 1.82,
+      "word": "la"
+    },
+    {
+      "start": 1.82,
+      "end": 1.92,
+      "word": "mia"
+    },
+    {
+      "start": 1.92,
+      "end": 2.18,
+      "word": "vita."
+    },
+    {
+      "start": 2.44,
+      "end": 2.56,
+      "word": "Sì"
+    },
+    {
+      "start": 2.56,
+      "end": 2.72,
+      "word": "perché"
+    },
+    {
+      "start": 2.72,
+      "end": 2.82,
+      "word": "per"
+    },
+    {
+      "start": 2.82,
+      "end": 2.9,
+      "word": "me"
+    },
+    {
+      "start": 2.9,
+      "end": 3.04,
+      "word": "siamo"
+    },
+    {
+      "start": 3.04,
+      "end": 3.16,
+      "word": "nel"
+    },
+    {
+      "start": 3.16,
+      "end": 3.6,
+      "word": "2024,"
+    },
+    {
+      "start": 4.04,
+      "end": 4.28,
+      "word": "questo"
+    },
+    {
+      "start": 4.28,
+      "end": 4.78,
+      "word": "2023"
+    },
+    {
+      "start": 4.78,
+      "end": 5.08,
+      "word": "non"
+    },
+    {
+      "start": 5.08,
+      "end": 5.2,
+      "word": "mi"
+    },
+    {
+      "start": 5.2,
+      "end": 5.24,
+      "word": "ha"
+    },
+    {
+      "start": 5.24,
+      "end": 5.44,
+      "word": "fatto"
+    },
+    {
+      "start": 5.44,
+      "end": 6.16,
+      "word": "soddisfatto."
+    },
+    {
+      "start": 6.26,
+      "end": 6.34,
+      "word": "Ho"
+    },
+    {
+      "start": 6.34,
+      "end": 6.42,
+      "word": "un"
+    },
+    {
+      "start": 6.42,
+      "end": 6.66,
+      "word": "sacco"
+    },
+    {
+      "start": 6.66,
+      "end": 6.74,
+      "word": "di"
+    },
+    {
+      "start": 6.74,
+      "end": 7.1,
+      "word": "obiettivi"
+    },
+    {
+      "start": 7.1,
+      "end": 7.22,
+      "word": "che"
+    },
+    {
+      "start": 7.22,
+      "end": 7.7,
+      "word": "purtroppo"
+    },
+    {
+      "start": 7.7,
+      "end": 7.9,
+      "word": "non"
+    },
+    {
+      "start": 7.9,
+      "end": 8.04,
+      "word": "ho"
+    },
+    {
+      "start": 8.04,
+      "end": 8.46,
+      "word": "raggiunto"
+    },
+    {
+      "start": 8.46,
+      "end": 8.9,
+      "word": "e"
+    },
+    {
+      "start": 8.9,
+      "end": 8.98,
+      "word": "non"
+    },
+    {
+      "start": 8.98,
+      "end": 9.16,
+      "word": "voglio"
+    },
+    {
+      "start": 9.16,
+      "end": 9.26,
+      "word": "che"
+    },
+    {
+      "start": 9.26,
+      "end": 9.38,
+      "word": "ci"
+    },
+    {
+      "start": 9.38,
+      "end": 9.6,
+      "word": "accadà"
+    },
+    {
+      "start": 9.6,
+      "end": 9.7,
+      "word": "di"
+    },
+    {
+      "start": 9.7,
+      "end": 9.82,
+      "word": "nuovo"
+    },
+    {
+      "start": 9.82,
+      "end": 10.12,
+      "word": "quest"
+    },
+    {
+      "start": 10.12,
+      "end": 10.42,
+      "word": "'anno."
+    },
+    {
+      "start": 10.52,
+      "end": 10.64,
+      "word": "Quindi"
+    },
+    {
+      "start": 10.64,
+      "end": 10.76,
+      "word": "vi"
+    },
+    {
+      "start": 10.76,
+      "end": 11.04,
+      "word": "porterò"
+    },
+    {
+      "start": 11.04,
+      "end": 11.2,
+      "word": "con"
+    },
+    {
+      "start": 11.2,
+      "end": 11.28,
+      "word": "me"
+    },
+    {
+      "start": 11.28,
+      "end": 11.42,
+      "word": "nel"
+    },
+    {
+      "start": 11.42,
+      "end": 11.88,
+      "word": "miglioramento"
+    },
+    {
+      "start": 11.88,
+      "end": 12.1,
+      "word": "di"
+    },
+    {
+      "start": 12.1,
+      "end": 12.24,
+      "word": "ogni"
+    },
+    {
+      "start": 12.24,
+      "end": 12.54,
+      "word": "singola"
+    },
+    {
+      "start": 12.54,
+      "end": 12.86,
+      "word": "spettola"
+    },
+    {
+      "start": 12.86,
+      "end": 12.98,
+      "word": "della"
+    },
+    {
+      "start": 12.98,
+      "end": 13.04,
+      "word": "mia"
+    },
+    {
+      "start": 13.04,
+      "end": 13.26,
+      "word": "vita"
+    },
+    {
+      "start": 13.26,
+      "end": 13.4,
+      "word": "che"
+    },
+    {
+      "start": 13.4,
+      "end": 13.52,
+      "word": "sia"
+    },
+    {
+      "start": 13.52,
+      "end": 13.72,
+      "word": "diet,"
+    },
+    {
+      "start": 13.84,
+      "end": 14.4,
+      "word": "allenamento,"
+    },
+    {
+      "start": 14.58,
+      "end": 15.1,
+      "word": "lettura,"
+    },
+    {
+      "start": 15.28,
+      "end": 15.6,
+      "word": "studio,"
+    },
+    {
+      "start": 15.78,
+      "end": 16.04,
+      "word": "qualsiasi"
+    },
+    {
+      "start": 16.04,
+      "end": 16.24,
+      "word": "cosa."
+    },
+    {
+      "start": 16.48,
+      "end": 16.56,
+      "word": "A"
+    },
+    {
+      "start": 16.56,
+      "end": 16.8,
+      "word": "partire"
+    },
+    {
+      "start": 16.8,
+      "end": 16.92,
+      "word": "per"
+    },
+    {
+      "start": 16.92,
+      "end": 17.16,
+      "word": "esempio"
+    },
+    {
+      "start": 17.16,
+      "end": 17.32,
+      "word": "dall"
+    },
+    {
+      "start": 17.32,
+      "end": 17.62,
+      "word": "'esame"
+    },
+    {
+      "start": 17.62,
+      "end": 17.74,
+      "word": "che"
+    },
+    {
+      "start": 17.74,
+      "end": 17.82,
+      "word": "ho"
+    },
+    {
+      "start": 17.82,
+      "end": 18.14,
+      "word": "domani,"
+    },
+    {
+      "start": 18.24,
+      "end": 18.32,
+      "word": "il"
+    },
+    {
+      "start": 18.32,
+      "end": 18.32,
+      "word": "mio"
+    },
+    {
+      "start": 18.32,
+      "end": 18.5,
+      "word": "primo"
+    },
+    {
+      "start": 18.5,
+      "end": 18.9,
+      "word": "esame"
+    },
+    {
+      "start": 18.9,
+      "end": 19.3,
+      "word": "ma"
+    },
+    {
+      "start": 19.3,
+      "end": 19.42,
+      "word": "fa"
+    },
+    {
+      "start": 19.42,
+      "end": 19.8,
+      "word": "niente."
+    },
+    {
+      "start": 20.02,
+      "end": 20.16,
+      "word": "Quindi"
+    },
+    {
+      "start": 20.16,
+      "end": 20.26,
+      "word": "se"
+    },
+    {
+      "start": 20.26,
+      "end": 20.36,
+      "word": "non"
+    },
+    {
+      "start": 20.36,
+      "end": 20.48,
+      "word": "siete"
+    },
+    {
+      "start": 20.48,
+      "end": 21.0,
+      "word": "soddisfatti"
+    },
+    {
+      "start": 21.0,
+      "end": 21.1,
+      "word": "della"
+    },
+    {
+      "start": 21.1,
+      "end": 21.38,
+      "word": "vostra"
+    },
+    {
+      "start": 21.38,
+      "end": 21.54,
+      "word": "vita,"
+    },
+    {
+      "start": 21.64,
+      "end": 21.68,
+      "word": "se"
+    },
+    {
+      "start": 21.68,
+      "end": 21.84,
+      "word": "avete"
+    },
+    {
+      "start": 21.84,
+      "end": 22.1,
+      "word": "voglia"
+    },
+    {
+      "start": 22.1,
+      "end": 22.2,
+      "word": "di"
+    },
+    {
+      "start": 22.2,
+      "end": 22.62,
+      "word": "cambiare"
+    },
+    {
+      "start": 22.62,
+      "end": 22.78,
+      "word": "avete"
+    },
+    {
+      "start": 22.78,
+      "end": 23.08,
+      "word": "bisogno"
+    },
+    {
+      "start": 23.08,
+      "end": 23.18,
+      "word": "di"
+    },
+    {
+      "start": 23.18,
+      "end": 23.32,
+      "word": "fuori"
+    },
+    {
+      "start": 23.32,
+      "end": 23.88,
+      "word": "motivazione"
+    },
+    {
+      "start": 23.88,
+      "end": 24.3,
+      "word": "iniziate"
+    },
+    {
+      "start": 24.3,
+      "end": 24.38,
+      "word": "a"
+    },
+    {
+      "start": 24.38,
+      "end": 24.84,
+      "word": "seguirmi"
+    },
+    {
+      "start": 24.84,
+      "end": 25.18,
+      "word": "e"
+    },
+    {
+      "start": 25.18,
+      "end": 25.7,
+      "word": "motiviamoci"
+    },
+    {
+      "start": 25.7,
+      "end": 26.04,
+      "word": "insieme."
+    }
+  ],
+  "aligned": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 16.333,
+      "dur": 16.333,
+      "transcript": "Ciao ragazzi sono Jay e voglio migliorare la mia vita. Sì perché per me siamo nel 2024, questo 2023 non mi ha fatto soddisfatto. Ho un sacco di obiettivi che purtroppo non ho raggiunto e non voglio che ci accadà di nuovo quest 'anno. Quindi vi porterò con me nel miglioramento di ogni singola spettola della mia vita che sia diet, allenamento, lettura, studio, qualsiasi cosa."
+    },
+    {
+      "idx": 1,
+      "start": 16.333,
+      "end": 19.9,
+      "dur": 3.567,
+      "transcript": "A partire per esempio dall 'esame che ho domani, il mio primo esame ma fa niente."
+    },
+    {
+      "idx": 2,
+      "start": 19.9,
+      "end": 26.267,
+      "dur": 6.367,
+      "transcript": "Quindi se non siete soddisfatti della vostra vita, se avete voglia di cambiare avete bisogno di fuori motivazione iniziate a seguirmi e motiviamoci insieme."
+    }
+  ],
+  "full_text": "Ciao ragazzi sono Jay e voglio migliorare la mia vita. Sì perché per me siamo nel 2024, questo 2023 non mi ha fatto soddisfatto. Ho un sacco di obiettivi che purtroppo non ho raggiunto e non voglio che ci accadà di nuovo quest'anno. Quindi vi porterò con me nel miglioramento di ogni singola spettola della mia vita che sia diet, allenamento, lettura, studio, qualsiasi cosa. A partire per esempio dall'esame che ho domani, il mio primo esame ma fa niente. Quindi se non siete soddisfatti della vostra vita, se avete voglia di cambiare avete bisogno di fuori motivazione iniziate a seguirmi e motiviamoci insieme.",
+  "analyzed_at": "2026-09-20T22:34:08"
+}

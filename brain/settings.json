@@ -1,0 +1,25 @@
+{
+  "user_notes": [
+    "- Evita scene con \"espressione concentrata\", \"occhi chiusi\", \"bocca aperta\" come ultimo shot.",
+    "- Non usare mai la parola \"intingere\". Usa \"pucciare\".",
+    "- Apri sempre con uno shot del locale (venue_interior_wide o venue_interior_detail).",
+    "Ultimo shot: mai smorfie, scegli volto sorridente o neutro",
+    "Vietato iniziare una frase con \"il locale ha\", \"c'è anche\", \"ci sono\", \"il posto ha\", \"lo schermo mostra\", \"sul tavolo c'è\". Sono descrizioni. Riformula sempre come commento: \"pure X, che roba\", \"guardate Y\", \"hanno Z, non ci credo\".",
+    "NON raccontare l'azione della mano. Vietati: \"puccio\", \"intingiamo\", \"ne prendo\", \"mordo\", \"assaggio\" da solo, \"provo\" da solo, \"passiamo a\". Commenta SEMPRE il cibo/sapore/locale: \"la salsa è la morte sua\", \"che croccantezza\", \"guardate questa glassa\"."
+  ],
+  "subtitle_style": {
+    "font_name": "ObelixPro",
+    "font_size": 62,
+    "primary_color_ass": "&H00FFFFFF&",
+    "highlight_color_ass": "&H0000E6FF&",
+    "outline_color_ass": "&H00010101&",
+    "outline_width": 5,
+    "margin_v": 155,
+    "karaoke": true,
+    "uppercase": true,
+    "wrap": true,
+    "bold": 1,
+    "karaoke_mode": "word"
+  },
+  "updated_at": "2026-09-21T15:59:07"
+}

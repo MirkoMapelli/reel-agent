@@ -1,0 +1,1118 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-09-19",
+  "coverage": {
+    "videos_analyzed": 1,
+    "recommended_minimum": 10,
+    "status": "PARTIAL — analisi basata su 1 solo video di riferimento. Per generalizzare servono 10-15 video."
+  },
+  "source_of_truth": {
+    "finished_duration_sec": 79.57,
+    "shot_count": 37,
+    "avg_shot_duration_sec": 2.15,
+    "median_shot_duration_sec": 2.0,
+    "min_shot_duration_sec": 1.2,
+    "max_shot_duration_sec": 3.97,
+    "total_sources_duration_sec": 429.12,
+    "source_usage_pct": 18.5,
+    "note": "Analisi basata su 1 video di riferimento. Lo stile completo richiederà N video (vedi sezione 'coverage').",
+    "videos_analyzed": 1
+  },
+  "narrative": {
+    "hook_variants": [
+      "creator mostra cibo in primo piano con testo brand",
+      "annuncio novità/esclusiva ('finalmente arrivato')",
+      "domanda retorica o claim forte",
+      "problema/setup della storia"
+    ],
+    "context_variants": [
+      "insegna/entrata del locale",
+      "tavolo o vassoio apparecchiato",
+      "creator che cammina nel locale",
+      "testo con indirizzo o nome del posto"
+    ],
+    "product_variants": [
+      "primo piano cibo (tender/wings/fries)",
+      "dettaglio glassatura/salsa",
+      "vassoio completo dall'alto",
+      "packaging brand"
+    ],
+    "reaction_variants": [
+      "creator assaggia con espressione di piacere",
+      "creator parla in camera",
+      "occhi chiusi durante il morso",
+      "sorriso/commento positivo"
+    ],
+    "establishing_variants": [
+      "ripresa dal basso (insegna/luci)",
+      "pan del locale",
+      "totem ordini",
+      "atmosfera/decorazioni"
+    ],
+    "detail_variants": [
+      "macro su texture cibo",
+      "macro su branding (packaging/scatole)",
+      "mano che intinge"
+    ],
+    "cta_variants": [
+      "curiosità prospettica ('farò la prossima volta...')",
+      "enfasi sillabata ('CLA-MO-RO-SO')",
+      "consiglio diretto al pubblico",
+      "chiusura con engagement (mascotte, giveaway)"
+    ],
+    "structure_this_video": [
+      {
+        "type": "hook",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 2
+      },
+      {
+        "type": "establishing",
+        "count": 1
+      },
+      {
+        "type": "context",
+        "count": 2
+      },
+      {
+        "type": "establishing",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 1
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      },
+      {
+        "type": "detail",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 1
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 10
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 1
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 1
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      },
+      {
+        "type": "product",
+        "count": 2
+      },
+      {
+        "type": "reaction",
+        "count": 3
+      },
+      {
+        "type": "product",
+        "count": 2
+      },
+      {
+        "type": "establishing",
+        "count": 1
+      },
+      {
+        "type": "context",
+        "count": 1
+      },
+      {
+        "type": "reaction",
+        "count": 1
+      }
+    ],
+    "type_distribution_this_video": {
+      "hook": 1,
+      "product": 20,
+      "establishing": 3,
+      "context": 3,
+      "reaction": 9,
+      "detail": 1
+    },
+    "pacing_phase_avg_durations": [
+      1.91,
+      2.5,
+      1.74,
+      2.04,
+      2.57
+    ],
+    "typical_structure_hint": "hook → context/establishing → alternanza product/reaction → chiusura con enfasi o CTA",
+    "note": "struttura e distribuzione sono dal SINGOLO video analizzato. Servirà validazione su N video per generalizzare."
+  },
+  "archetypes": {
+    "hook": {
+      "variants": [
+        "creator mostra cibo in primo piano con testo brand",
+        "annuncio novità/esclusiva ('finalmente arrivato')",
+        "domanda retorica o claim forte",
+        "problema/setup della storia"
+      ],
+      "duration_range_sec": [
+        1.5,
+        3.0
+      ],
+      "note": "il primo shot di ogni video stabilisce location, brand o promessa narrativa"
+    },
+    "context": {
+      "variants": [
+        "insegna/entrata del locale",
+        "tavolo o vassoio apparecchiato",
+        "creator che cammina nel locale",
+        "testo con indirizzo o nome del posto"
+      ],
+      "duration_range_sec": [
+        1.5,
+        3.0
+      ]
+    },
+    "product": {
+      "variants": [
+        "primo piano cibo (tender/wings/fries)",
+        "dettaglio glassatura/salsa",
+        "vassoio completo dall'alto",
+        "packaging brand"
+      ],
+      "duration_range_sec": [
+        1.5,
+        3.0
+      ],
+      "note": "cuore del video: il cibo è il protagonista per oltre 50% degli shot"
+    },
+    "reaction": {
+      "variants": [
+        "creator assaggia con espressione di piacere",
+        "creator parla in camera",
+        "occhi chiusi durante il morso",
+        "sorriso/commento positivo"
+      ],
+      "duration_range_sec": [
+        1.5,
+        3.0
+      ]
+    },
+    "establishing": {
+      "variants": [
+        "ripresa dal basso (insegna/luci)",
+        "pan del locale",
+        "totem ordini",
+        "atmosfera/decorazioni"
+      ],
+      "duration_range_sec": [
+        1.5,
+        3.0
+      ]
+    },
+    "detail": {
+      "variants": [
+        "macro su texture cibo",
+        "macro su branding (packaging/scatole)",
+        "mano che intinge"
+      ],
+      "duration_range_sec": [
+        1.0,
+        2.5
+      ]
+    },
+    "cta": {
+      "variants": [
+        "curiosità prospettica ('farò la prossima volta...')",
+        "enfasi sillabata ('CLA-MO-RO-SO')",
+        "consiglio diretto al pubblico",
+        "domanda diretta al pubblico ('voi cosa prendereste?')",
+        "invito esplicito a provare il locale"
+      ],
+      "duration_range_sec": [
+        2.5,
+        4.0
+      ],
+      "note": "il creator NON usa mascotte fisiche; spesso chiude con enfasi sillabata"
+    }
+  },
+  "visual": {
+    "composition_distribution": {
+      "close_up_face": 8,
+      "hands": 3,
+      "medium_face": 8,
+      "wide": 5,
+      "detail": 12,
+      "wide_face": 1
+    },
+    "camera_motion_distribution": {
+      "static": 32,
+      "tilt_up": 1,
+      "pan_right": 2,
+      "zoom_in": 1,
+      "tilt_down": 1
+    },
+    "transition_distribution": {
+      "cut": 37
+    },
+    "dominant_composition": "detail",
+    "dominant_camera": "static",
+    "dominant_transition": "cut",
+    "shot_type_distribution": {
+      "statica_tripod": 26,
+      "pov": 3,
+      "dal_basso": 2,
+      "handheld": 2,
+      "dall_alto_90": 4
+    }
+  },
+  "subtitles": {
+    "style": "word-by-word",
+    "fill_rgb": [
+      252,
+      252,
+      250
+    ],
+    "fill_ass": "&H00FAFCFC&",
+    "outline_rgb": [
+      6,
+      5,
+      5
+    ],
+    "outline_ass": "&H00050506&",
+    "text_height_px_1080x1920": 325,
+    "text_height_pct_of_frame": 16.9,
+    "margin_from_bottom_px": 155,
+    "y_center_rel": 0.8344,
+    "sync": "istantaneo (parola appare esattamente quando pronunciata)",
+    "position": "bottom_center",
+    "special_patterns": [
+      "sillabazione per enfasi (CLA-MO-RO-SO)",
+      "maiuscolo forzato (tutto in caps)",
+      "outline nero spesso, fill bianco"
+    ]
+  },
+  "voice": {
+    "wpm": 243,
+    "pitch_f0_mean_hz": 137,
+    "pitch_f0_std_hz": 33,
+    "pause_count": 2,
+    "avg_segment_duration_sec": 3.21,
+    "total_words": 313,
+    "vocabulary_from_vo_this_video": [
+      "ovviamente",
+      "super",
+      "wings",
+      "boneless",
+      "flavor",
+      "ranch",
+      "italia",
+      "pollofritto",
+      "subito",
+      "preso",
+      "classiche",
+      "fries",
+      "sapore",
+      "salsa",
+      "lemon",
+      "pepper",
+      "tender",
+      "provare",
+      "wingstop",
+      "finalmente",
+      "arrivato",
+      "probabilmente",
+      "sarà",
+      "miglior",
+      "oggi",
+      "milano",
+      "evento",
+      "apertura",
+      "primo",
+      "store",
+      "aperto",
+      "dante",
+      "posizione",
+      "centrale",
+      "location",
+      "clamorosa",
+      "ordinato",
+      "saliti",
+      "secondo",
+      "piano"
+    ],
+    "vocabulary_from_4_tiktok_refs": [
+      "ovviamente",
+      "wings",
+      "oggi",
+      "super",
+      "location",
+      "provare",
+      "pancakes",
+      "subito",
+      "secondo",
+      "altro",
+      "boneless",
+      "flavor",
+      "sapore",
+      "devo",
+      "caso",
+      "possibilità",
+      "casa",
+      "senza",
+      "parte",
+      "abbastanza",
+      "apprezzato",
+      "punto",
+      "forte",
+      "agriturismo",
+      "porcetto",
+      "pane",
+      "realtà",
+      "ragazzi",
+      "italia",
+      "milano",
+      "aperto",
+      "preso",
+      "menu",
+      "classiche",
+      "fries",
+      "salsa",
+      "pollo",
+      "fritto",
+      "lemon",
+      "pepper",
+      "tender",
+      "morbidi",
+      "gusto",
+      "preferito",
+      "tempo",
+      "volta",
+      "ogni",
+      "grande",
+      "fatto",
+      "così",
+      "infine",
+      "gluten",
+      "free",
+      "porto",
+      "fluff",
+      "locale",
+      "prodotti",
+      "glutine",
+      "nutella",
+      "insomma"
+    ],
+    "vocabulary_combined": [
+      "ovviamente",
+      "super",
+      "wings",
+      "boneless",
+      "flavor",
+      "provare",
+      "oggi",
+      "location",
+      "subito",
+      "sapore",
+      "italia",
+      "secondo",
+      "altro",
+      "preso",
+      "classiche",
+      "fries",
+      "salsa",
+      "ranch",
+      "lemon",
+      "pepper",
+      "tender",
+      "devo",
+      "caso",
+      "possibilità",
+      "casa",
+      "pancakes",
+      "milano",
+      "aperto",
+      "menu",
+      "morbidi",
+      "gusto",
+      "preferito",
+      "tempo",
+      "volta",
+      "ogni",
+      "pollo",
+      "fritto",
+      "grande",
+      "fatto",
+      "così",
+      "infine",
+      "senza",
+      "parte",
+      "abbastanza",
+      "apprezzato",
+      "punto",
+      "forte",
+      "agriturismo",
+      "porcetto",
+      "pane",
+      "realtà",
+      "ragazzi",
+      "finalmente",
+      "arrivato",
+      "probabilmente",
+      "sarà",
+      "miglior",
+      "pollofritto",
+      "evento",
+      "apertura",
+      "primo",
+      "store",
+      "dante",
+      "posizione",
+      "centrale",
+      "clamorosa",
+      "ordinato",
+      "saliti",
+      "piano",
+      "base",
+      "combo",
+      "tenders",
+      "bibita",
+      "frire",
+      "fill",
+      "ognuno",
+      "dovuto",
+      "scegliere",
+      "iniziato",
+      "classico"
+    ],
+    "sample_phrases_cleaned": [
+      "Wingstop è finalmente arrivato in Italia e con lui quello che probabilmente sarà anche il miglior polofretto.",
+      "Oggi siamo a Milano nel loro evento di apertura del loro primo storio in Italia, aperto proprio un viadante 16.",
+      "Posizione super centrale e location clamorosa.",
+      "Noi abbiamo subito ordinato, siamo saliti al secondo piano dove tra l'altro c'era anche il DJ.",
+      "E questo è tutto ciò che abbiamo preso.",
+      "Di base abbiamo preso dei menu combo con 8 wings classiche o boneless,",
+      "retenders e ovviamente fries e bibita frire fill.",
+      "E di ognuno abbiamo dovuto ovviamente scegliere il loro flavor."
+    ],
+    "whisper_error_fixes_applied": {
+      "polofretto": "pollofritto",
+      "polofritto": "pollofritto",
+      "pollofretto": "pollofritto",
+      "renna": "ranch",
+      "rence": "ranch",
+      "renci": "ranch",
+      "viadante": "via dante",
+      "storio": "store",
+      "frirefill": "free refill",
+      "fries": "fries",
+      "retenders": "tenders",
+      "cedar": "cheddar",
+      "misalze": "migliori",
+      "grunnato": "granulato",
+      "grumato": "granulato",
+      "cla mo ro so": "clamoroso",
+      "in caso": "in ogni caso"
+    },
+    "note": "Vocabolario dipende dal contesto (ristorante/tipo video). Da estrarre per-progetto."
+  },
+  "audio_mix": {
+    "voice_pct": 61.6,
+    "ambient_pct": 30.0,
+    "asmr_pct": 8.4,
+    "music": "assente",
+    "note": "mix = voce + ambiente + ASMR di cibo. NO musica."
+  },
+  "clone_recipes": [
+    {
+      "shot_idx": 1,
+      "type": "hook",
+      "description": "Primo piano tender fritto tenuto in mano davanti al viso del creator, sfondo grigio tipo ascensore",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 70,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.8,
+      "text_voice_relationship": "sincronizzato, trascrizione esatta parola per parola del VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 2,
+      "type": "product",
+      "description": "Mani che immergono un tender croccante in una salsina bianca, patatine e altri pezzi di pollo sullo sfondo",
+      "shot_type": "pov",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 2.03,
+      "text_voice_relationship": "sincronizzato, segue il VO quasi istantaneamente",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 3,
+      "type": "product",
+      "description": "Creator sorridente regge un vassoio pieno di pollo fritto, patatine e salse, avvolto in carta da fast food",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 55,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.97,
+      "text_voice_relationship": "sincronizzato, trascrizione esatta del VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 4,
+      "type": "establishing",
+      "description": "Chiosco digitale per ordinare cibo davanti a parete decorata con scritta MILANO ripetuta in verde",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 30,
+      "subject_position": "terzo_sx",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.83,
+      "text_voice_relationship": "sincronizzato, segue il VO parola per parola",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 5,
+      "type": "context",
+      "description": "Ripresa dal basso di un'insegna luminosa arancione con scritta FLAVOR nel locale del fast food",
+      "shot_type": "dal_basso",
+      "subject_height_pct": 80,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "lento",
+      "duration_sec": 1.97,
+      "text_voice_relationship": "sincronizzato, trascrizione esatta del VO con leggero delay OCR",
+      "lighting": "neon",
+      "camera_angle": "dal_basso"
+    },
+    {
+      "shot_idx": 6,
+      "type": "context",
+      "description": "Vista dall'alto verso il basso delle gambe del creator seduto, luce neon verde intensa sullo sfondo",
+      "shot_type": "pov",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.77,
+      "text_voice_relationship": "sincronizzato esatto parola-VO",
+      "lighting": "neon",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 7,
+      "type": "establishing",
+      "description": "Vista ampia del locale con soffitto a strisce luminose bianche, tavoli verdi, clienti seduti a mangiare",
+      "shot_type": "handheld",
+      "subject_height_pct": 30,
+      "subject_position": "terzo_inf",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "lento",
+      "duration_sec": 2.0,
+      "text_voice_relationship": "sincronizzato con lieve ritardo",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 8,
+      "type": "product",
+      "description": "Vista dall'alto di due cestini di cibo con wings, tenders, patatine su carta decorata, tavolo nero",
+      "shot_type": "dall_alto_90",
+      "subject_height_pct": 90,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 3.97,
+      "text_voice_relationship": "sincronizzato con rumore OCR, segue il parlato",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 9,
+      "type": "reaction",
+      "description": "Creator in maglietta bianca tiene vassoio di cibo verso la camera, sorriso leggero, sfondo grigio",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.03,
+      "text_voice_relationship": "sincronizzato istantaneo",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 10,
+      "type": "detail",
+      "description": "Primo piano dall'alto di wings glassate e tenders fritti dentro cestino con carta a fantasia verde",
+      "shot_type": "dall_alto_90",
+      "subject_height_pct": 85,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 2.47,
+      "text_voice_relationship": "sincronizzato con delay minimo",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 11,
+      "type": "product",
+      "description": "Primo piano macchina Coca-Cola Zero, mano del creator regge bicchiere di carta sotto l'erogatore mentre riempie",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.8,
+      "text_voice_relationship": "il testo sembra in ritardo o disallineato, con parole ripetute e frammentate rispetto al VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 12,
+      "type": "reaction",
+      "description": "Primo piano volto creator che beve da bicchiere di carta con stampa colorata, sguardo verso il basso poi in camera",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.77,
+      "text_voice_relationship": "sincronizzato, il testo segue il VO parola per parola in tempo reale",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 13,
+      "type": "product",
+      "description": "Vista dall'alto del vassoio con tenders fritti impanati su carta stampata, patatine visibili sullo sfondo",
+      "shot_type": "dall_alto_90",
+      "subject_height_pct": 80,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 3.0,
+      "text_voice_relationship": "sincronizzato, il testo appare in linea con la pronuncia delle parole",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 14,
+      "type": "product",
+      "description": "Primo piano mano che regge un boneless chicken davanti al volto del creator, salsina bianca sullo sfondo sfocato",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 30,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.47,
+      "text_voice_relationship": "sincronizzato, il testo segue il VO parola per parola",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 15,
+      "type": "product",
+      "description": "Primo piano mano che immerge il boneless nella salsina bianca, patatine e wings visibili sullo sfondo",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 35,
+      "subject_position": "terzo_sup",
+      "food_visible": true,
+      "food_position": "terzo_sup",
+      "movement_speed": "lento",
+      "duration_sec": 2.5,
+      "text_voice_relationship": "sincronizzato, con leggero ritardo su alcune sillabe finali",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 16,
+      "type": "product",
+      "description": "Creator morde tender di pollo tenendolo con mano tatuata, salsa bianca in coppetta davanti, cesto cibo in primo piano",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.97,
+      "text_voice_relationship": "sincronizzato, parola per parola pop istantaneo",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 17,
+      "type": "product",
+      "description": "Forchetta di legno affonda in patatine ricoperte di formaggio cheddar fuso, cesto con carta stampata verde e bianca",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.0,
+      "text_voice_relationship": "sincronizzato, pop istantaneo con leggero delay OCR",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 18,
+      "type": "product",
+      "description": "Creator morde patatina tenuta con forchetta di legno, sguardo verso il basso, cesto cibo sotto in primo piano",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "lento",
+      "duration_sec": 1.53,
+      "text_voice_relationship": "sincronizzato con ripetizione parola per enfasi",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 19,
+      "type": "product",
+      "description": "Primo piano mano che intinge patatina lunga in coppetta bianca di salsa, cesto tender croccanti sullo sfondo",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 50,
+      "subject_position": "terzo_sup",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "lento",
+      "duration_sec": 1.2,
+      "text_voice_relationship": "sincronizzato, testo segue VO quasi istantaneamente",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 20,
+      "type": "product",
+      "description": "Creator morde tender dorato tenuto in mano, espressione soddisfatta, cesto di cibo visibile sotto",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 78,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.3,
+      "text_voice_relationship": "sincronizzato con ripetizione enfatica delle parole",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 21,
+      "type": "product",
+      "description": "Primo piano macro su mano che tiene tender croccante sopra carta da fast food a righe verdi",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.4,
+      "text_voice_relationship": "trascrizione esatta e sincronizzata col VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 22,
+      "type": "product",
+      "description": "Creator regge tender fritto verticale davanti al volto, sfondo grigio industriale, cestino cibo sotto",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 55,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.0,
+      "text_voice_relationship": "trascrizione esatta sincronizzata col VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 23,
+      "type": "reaction",
+      "description": "Creator addenta tender tenendolo vicino alla bocca, espressione soddisfatta, occhi chiusi mentre mastica",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 65,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_sx",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.83,
+      "text_voice_relationship": "trascrizione esatta sincronizzata col VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 24,
+      "type": "product",
+      "description": "Mano intinge tender fritto in salsina bianca dentro bicchierino di plastica su carta wings",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 55,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 1.77,
+      "text_voice_relationship": "trascrizione sincronizzata col VO, leggero rumore OCR",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 25,
+      "type": "reaction",
+      "description": "Creator addenta piccolo boccone di wing tenendolo vicino alla bocca, sguardo pensieroso durante masticazione",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 65,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_sx",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.03,
+      "text_voice_relationship": "trascrizione esatta sincronizzata col VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 26,
+      "type": "product",
+      "description": "Dettaglio dall'alto delle wings glassate nel cestino di carta, dito che indica pezzi diversi",
+      "shot_type": "dall_alto_90",
+      "subject_height_pct": 85,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.1,
+      "text_voice_relationship": "sincronizzato, trascrizione quasi esatta del VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dall_alto"
+    },
+    {
+      "shot_idx": 27,
+      "type": "reaction",
+      "description": "Volto in primo piano che morde la wing tenuta con due dita, sguardo verso il basso poi verso camera",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.33,
+      "text_voice_relationship": "sincronizzato, trascrizione quasi esatta del VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 28,
+      "type": "product",
+      "description": "Dettaglio mano che estrae un tender dorato dal cestino con carta a righe verdi, altri pezzi visibili",
+      "shot_type": "dal_basso",
+      "subject_height_pct": 70,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 1.2,
+      "text_voice_relationship": "sincronizzato con ripetizioni grafiche",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 29,
+      "type": "product",
+      "description": "Creator mostra il tender morso tenuto in mano davanti al volto, sfondo grigio con corridoio",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 60,
+      "subject_position": "terzo_sup",
+      "food_visible": true,
+      "food_position": "terzo_sup",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.0,
+      "text_voice_relationship": "sincronizzato con lieve delay su ripetizioni",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 30,
+      "type": "reaction",
+      "description": "Primo piano volto che morde il tender con espressione soddisfatta, occhi chiusi, cestino visibile sotto",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 2.9,
+      "text_voice_relationship": "sincronizzato, con rumore grafico da sfondo",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 31,
+      "type": "reaction",
+      "description": "Primo piano mano che intinge un chicken tender glassato in una coppetta di salsa bianca cremosa",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 1.8,
+      "text_voice_relationship": "sincronizzato, parola per parola con il parlato",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 32,
+      "type": "reaction",
+      "description": "Volto del creator che mastica una wing, sguardo pensieroso, tavolo pieno di cibo Wingstop sullo sfondo",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 75,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "terzo_inf",
+      "movement_speed": "nessuno",
+      "duration_sec": 3.33,
+      "text_voice_relationship": "sincronizzato, parola per parola con il parlato",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 33,
+      "type": "product",
+      "description": "Chicken tender croccante tenuto vicino alla camera con entrambe le mani, sfondo scuro sfocato",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 45,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "nessuno",
+      "duration_sec": 1.77,
+      "text_voice_relationship": "sincronizzato, esatto con il VO",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 34,
+      "type": "product",
+      "description": "Chicken tender spezzato a metà per mostrare la carne bianca e morbida all'interno, mani in primo piano",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 50,
+      "subject_position": "centro",
+      "food_visible": true,
+      "food_position": "centro",
+      "movement_speed": "lento",
+      "duration_sec": 2.03,
+      "text_voice_relationship": "sincronizzato, parola per parola",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 35,
+      "type": "establishing",
+      "description": "Mano regge una scatola Wingstop con logo alato, sullo sfondo scritta luminosa 'We run the wing game'",
+      "shot_type": "handheld",
+      "subject_height_pct": 55,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "medio",
+      "duration_sec": 2.2,
+      "text_voice_relationship": "sincronizzato con leggero ritardo per movimento camera",
+      "lighting": "artificiale_caldo",
+      "camera_angle": "dal_basso"
+    },
+    {
+      "shot_idx": 36,
+      "type": "context",
+      "description": "Creator di spalle inserisce mano nella macchina claw machine verde con peluche, muro graffiti colorato",
+      "shot_type": "statica_tripod",
+      "subject_height_pct": 80,
+      "subject_position": "terzo_sx",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "nessuno",
+      "duration_sec": 3.47,
+      "text_voice_relationship": "sincronizzato, trascrizione esatta del VO parola per parola",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "orizzontale"
+    },
+    {
+      "shot_idx": 37,
+      "type": "reaction",
+      "description": "Primo piano mano che regge peluche bianco-verde mascotte, poi lo ripone su busta doggy bag argentata",
+      "shot_type": "pov",
+      "subject_height_pct": 60,
+      "subject_position": "centro",
+      "food_visible": false,
+      "food_position": "non_visibile",
+      "movement_speed": "lento",
+      "duration_sec": 3.03,
+      "text_voice_relationship": "sincronizzato, trascrizione esatta del VO parola per parola",
+      "lighting": "artificiale_freddo",
+      "camera_angle": "dal_basso"
+    }
+  ],
+  "source_selection_pattern": {
+    "total_sources": 26,
+    "used_sources": 21,
+    "unused_sources": [
+      "source_00002.mp4",
+      "source_00014.mp4",
+      "source_00016.mp4",
+      "source_00019.mp4",
+      "source_00022.mp4"
+    ],
+    "avg_shots_per_used_source": 1.76,
+    "most_used_source": "source_00015.mp4",
+    "source_selection_ratio": 0.185
+  }
+}

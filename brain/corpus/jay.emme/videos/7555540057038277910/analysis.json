@@ -1,0 +1,5566 @@
+{
+  "video_id": "7555540057038277910",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7555540057038277910",
+    "ref_id": "ref_59_7555540057038277910",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7555540057038277910",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 66,
+  "total_dur": 145.67,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "center": 1.017,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni aperta",
+      "description": "Un ragazzo tiene in mano una scatola di pizza aperta con una pizza al pepperoni.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "Giornino nove del mio viaggio in Florida è la scoperta"
+    },
+    {
+      "idx": 1,
+      "start": 2.033,
+      "end": 4.033,
+      "dur": 2.0,
+      "center": 3.033,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni intera",
+      "description": "Una pizza al pepperoni è mostrata in primo piano all'interno della sua scatola.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "della vera cucina americana. Oggi giornata"
+    },
+    {
+      "idx": 2,
+      "start": 4.033,
+      "end": 6.033,
+      "dur": 2.0,
+      "center": 5.033,
+      "role": "food_closeup",
+      "subject": "pizza rettangolare carne",
+      "description": "Un ragazzo con espressione sorpresa tiene una scatola di pizza rettangolare con carne.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "clamorosa con un po' di cibo tipico e un"
+    },
+    {
+      "idx": 3,
+      "start": 6.033,
+      "end": 9.833,
+      "dur": 3.8,
+      "center": 7.933,
+      "role": "person_talking",
+      "subject": "ragazzo cammina notte",
+      "description": "Un ragazzo cammina di notte in un'area illuminata da lampioni.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "'esperienza devastante. Ci troviamo a Cristar River e proprio per questa esperienza di cui"
+    },
+    {
+      "idx": 4,
+      "start": 9.833,
+      "end": 11.833,
+      "dur": 2.0,
+      "center": 10.833,
+      "role": "hands_gesture",
+      "subject": "mano tiene sacchetto",
+      "description": "Una mano tiene un piccolo sacchetto di carta con un dolcetto all'interno.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "vi parlavo ci siamo dovuti svegliare alle sei."
+    },
+    {
+      "idx": 5,
+      "start": 11.833,
+      "end": 13.633,
+      "dur": 1.8,
+      "center": 12.733,
+      "role": "other",
+      "subject": "ragazzo su barca",
+      "description": "Un ragazzo in canottiera nera guarda in camera mentre è seduto su una barca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Collazione al sacco e si esce. In modo da"
+    },
+    {
+      "idx": 6,
+      "start": 13.633,
+      "end": 16.167,
+      "dur": 2.533,
+      "center": 14.9,
+      "role": "venue_exterior",
+      "subject": "casa sul canale",
+      "description": "Una casa bianca con un prato verde si affaccia su un canale, vista dalla barca.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "essere pronti per partire con il tour per nuotare con"
+    },
+    {
+      "idx": 7,
+      "start": 16.167,
+      "end": 17.967,
+      "dur": 1.8,
+      "center": 17.067,
+      "role": "other",
+      "subject": "ragazzo su barca",
+      "description": "Il ragazzo è seduto sulla barca, con la casa sul canale sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "i lamanthini. Che appunto sono l 'attrazione"
+    },
+    {
+      "idx": 8,
+      "start": 17.967,
+      "end": 19.733,
+      "dur": 1.767,
+      "center": 18.85,
+      "role": "venue_exterior",
+      "subject": "canale e casa",
+      "description": "Un'altra casa bianca con un molo si affaccia su un canale con acqua calma.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "principale di questo paese e in generale"
+    },
+    {
+      "idx": 9,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167,
+      "center": 20.817,
+      "role": "venue_exterior",
+      "subject": "canale con barche",
+      "description": "Un canale con case e barche ormeggiate, e una persona in acqua.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "di questa parte della Florida. Fortunatamente"
+    },
+    {
+      "idx": 10,
+      "start": 21.9,
+      "end": 23.7,
+      "dur": 1.8,
+      "center": 22.8,
+      "role": "other",
+      "subject": "manatee nell'acqua",
+      "description": "Un manatee emerge dall'acqua vicino a un molo di legno.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "grazie alle nostre guide abbiamo subito trovato una"
+    },
+    {
+      "idx": 11,
+      "start": 23.7,
+      "end": 28.3,
+      "dur": 4.6,
+      "center": 26.0,
+      "role": "other",
+      "subject": "manatee sott'acqua",
+      "description": "Un manatee è visibile sott'acqua, con l'acqua di un colore verde torbido.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "coppia, una mamma e un figlio letto molto molto carini ma letteralmente giganteschi e"
+    },
+    {
+      "idx": 12,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0,
+      "center": 29.3,
+      "role": "person_talking",
+      "subject": "uomo in muta",
+      "description": "Un uomo in muta da sub sorride alla telecamera con un paesaggio acquatico sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "armati di muta, maschera e boccaglio ci siamo subito"
+    },
+    {
+      "idx": 13,
+      "start": 30.3,
+      "end": 32.1,
+      "dur": 1.8,
+      "center": 31.2,
+      "role": "person_talking",
+      "subject": "uomo in muta",
+      "description": "Un uomo in muta da sub guarda direttamente la telecamera, con il sole che gli illumina il viso.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "immersi. E' sicuro ragazzi che è stata un 'esperienza"
+    },
+    {
+      "idx": 14,
+      "start": 32.1,
+      "end": 33.7,
+      "dur": 1.6,
+      "center": 32.9,
+      "role": "venue_exterior",
+      "subject": "casa sul lago",
+      "description": "Una casa bianca con un tetto marrone si affaccia su un lago, circondata da alberi e prato.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "clamorosa vedere questi animali"
+    },
+    {
+      "idx": 15,
+      "start": 33.7,
+      "end": 35.533,
+      "dur": 1.833,
+      "center": 34.617,
+      "role": "other",
+      "subject": "case sul lago",
+      "description": "Due case bianche con tetti marroni si affacciano su un lago, con alberi sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "così grandi ma allo stesso tempo"
+    },
+    {
+      "idx": 16,
+      "start": 35.533,
+      "end": 36.833,
+      "dur": 1.3,
+      "center": 36.183,
+      "role": "other",
+      "subject": "case e lago",
+      "description": "Le stesse case e il lago, con un piccolo spruzzo d'acqua al centro del lago.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "così innocui. Beh a"
+    },
+    {
+      "idx": 17,
+      "start": 36.833,
+      "end": 38.433,
+      "dur": 1.6,
+      "center": 37.633,
+      "role": "other",
+      "subject": "spruzzo d'acqua",
+      "description": "Un piccolo spruzzo d'acqua è visibile al centro del lago, con le case sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "distanza di praticamente pochi centimetri."
+    },
+    {
+      "idx": 18,
+      "start": 38.433,
+      "end": 40.6,
+      "dur": 2.167,
+      "center": 39.517,
+      "role": "other",
+      "subject": "lago e vegetazione",
+      "description": "Il lago in primo piano con una sponda verde e alberi fitti sullo sfondo, e un piccolo spruzzo d'acqua.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Poi abbiamo sissito anche a questo strano fenomeno di questi"
+    },
+    {
+      "idx": 19,
+      "start": 40.6,
+      "end": 44.1,
+      "dur": 3.5,
+      "center": 42.35,
+      "role": "other",
+      "subject": "acqua trasparente e cielo",
+      "description": "L'acqua del lago è trasparente e si vede il fondale, con il sole che si riflette sulla superficie e un cielo azzurro con nuvole.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "pesci che saltavano letteralmente fuori dall 'acqua. Per poi goderci un bel bagnetto"
+    },
+    {
+      "idx": 20,
+      "start": 44.1,
+      "end": 46.133,
+      "dur": 2.033,
+      "center": 45.117,
+      "role": "other",
+      "subject": "uomo su barca",
+      "description": "Il volto dell'uomo in primo piano con l'acqua e le case sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in questa parte del fiume particolarmente limpida."
+    },
+    {
+      "idx": 21,
+      "start": 46.133,
+      "end": 47.0,
+      "dur": 0.867,
+      "center": 46.567,
+      "role": "other",
+      "subject": "paesaggio fluviale alberi",
+      "description": "La vasta distesa d'acqua con alberi e vegetazione rigogliosa sulle rive.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "E appena usciti"
+    },
+    {
+      "idx": 22,
+      "start": 47.0,
+      "end": 48.633,
+      "dur": 1.633,
+      "center": 47.817,
+      "role": "other",
+      "subject": "alligatore uccello tronco",
+      "description": "Un alligatore e un uccello su un tronco galleggiante nell'acqua.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "dal nostro bagno ci siamo accorti di"
+    },
+    {
+      "idx": 23,
+      "start": 48.633,
+      "end": 50.6,
+      "dur": 1.967,
+      "center": 49.617,
+      "role": "other",
+      "subject": "alligatore tartaruga uccello",
+      "description": "L'alligatore e la tartaruga sul tronco con l'uccello in piedi sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "essere in compagnia di un simpaticissimo alligatore."
+    },
+    {
+      "idx": 24,
+      "start": 50.6,
+      "end": 53.067,
+      "dur": 2.467,
+      "center": 51.833,
+      "role": "other",
+      "subject": "alligatore tartaruga tronco",
+      "description": "L'alligatore e la tartaruga sul tronco, con l'alligatore che sembra sorridere.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Bello tranquillo, su un tronco che prendeva il sole. Eh sì"
+    },
+    {
+      "idx": 25,
+      "start": 53.067,
+      "end": 55.1,
+      "dur": 2.033,
+      "center": 54.083,
+      "role": "venue_interior_wide",
+      "subject": "persone su tram turistico",
+      "description": "Il tram scoperto con persone sedute e la vegetazione lussureggiante all'esterno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "ragazzi questa è proprio la Florida. Dopodiché ci siamo"
+    },
+    {
+      "idx": 26,
+      "start": 55.1,
+      "end": 57.067,
+      "dur": 1.967,
+      "center": 56.083,
+      "role": "other",
+      "subject": "volpe addormentata tana",
+      "description": "Una volpe rossa addormentata vicino all'ingresso di una tana tubolare.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "spostati a Domosassa, un paesino gli accanto"
+    },
+    {
+      "idx": 27,
+      "start": 57.067,
+      "end": 59.067,
+      "dur": 2.0,
+      "center": 58.067,
+      "role": "other",
+      "subject": "gufo su ramo",
+      "description": "Un gufo con grandi occhi gialli posato su un ramo, con uno sfondo di alberi e vegetazione.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "dove c 'è questo parco pieno d 'animali che magari"
+    },
+    {
+      "idx": 28,
+      "start": 59.067,
+      "end": 59.733,
+      "dur": 0.667,
+      "center": 59.4,
+      "role": "other",
+      "subject": "pellicani in acqua",
+      "description": "Due pellicani bianchi in un corso d'acqua, circondati da vegetazione verde.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "devono essere"
+    },
+    {
+      "idx": 29,
+      "start": 59.733,
+      "end": 61.1,
+      "dur": 1.367,
+      "center": 60.417,
+      "role": "other",
+      "subject": "pellicano che pesca",
+      "description": "Un pellicano con il becco aperto nell'acqua, apparentemente intento a pescare.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "curati o che comunque non possono vivere"
+    },
+    {
+      "idx": 30,
+      "start": 61.1,
+      "end": 62.6,
+      "dur": 1.5,
+      "center": 61.85,
+      "role": "other",
+      "subject": "avvoltoio ali aperte",
+      "description": "Un avvoltoio nero con le ali spiegate su un ramo, con un altro avvoltoio seduto accanto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "in libertà. E dopo aver visto"
+    },
+    {
+      "idx": 31,
+      "start": 62.6,
+      "end": 64.2,
+      "dur": 1.6,
+      "center": 63.4,
+      "role": "other",
+      "subject": "aquila calva posata",
+      "description": "Un'aquila calva è posata su un tronco d'albero, con la luce del sole che illumina la sua testa bianca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "diversi volatili e letteralmente"
+    },
+    {
+      "idx": 32,
+      "start": 64.2,
+      "end": 66.1,
+      "dur": 1.9,
+      "center": 65.15,
+      "role": "other",
+      "subject": "aquila bandiera americana",
+      "description": "Un'aquila calva è posata su un tronco d'albero con una bandiera americana sventolante sullo sfondo.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "la scena più americana e patriottica che"
+    },
+    {
+      "idx": 33,
+      "start": 66.1,
+      "end": 68.267,
+      "dur": 2.167,
+      "center": 67.183,
+      "role": "other",
+      "subject": "alligatore nell'acqua",
+      "description": "Un alligatore galleggia nell'acqua coperta di lenticchie d'acqua, con solo la schiena e la testa visibili.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "si possa essere, abbiamo visto degli alligatori che si sono"
+    },
+    {
+      "idx": 34,
+      "start": 68.267,
+      "end": 69.033,
+      "dur": 0.767,
+      "center": 68.65,
+      "role": "other",
+      "subject": "alligatore nascosto acqua",
+      "description": "Un alligatore è quasi completamente nascosto sotto uno spesso strato di lenticchie d'acqua in uno stagno.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abituati ad"
+    },
+    {
+      "idx": 35,
+      "start": 69.033,
+      "end": 70.667,
+      "dur": 1.633,
+      "center": 69.85,
+      "role": "other",
+      "subject": "alligatore in acqua",
+      "description": "Un alligatore semi-sommerso in uno stagno coperto di lenticchie d'acqua.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "avvicinarsi troppo alle persone e quindi"
+    },
+    {
+      "idx": 36,
+      "start": 70.667,
+      "end": 71.267,
+      "dur": 0.6,
+      "center": 70.967,
+      "role": "other",
+      "subject": "alligatore in acqua",
+      "description": "L'alligatore è quasi completamente immerso, con solo la testa e parte del dorso visibili.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "sono stati"
+    },
+    {
+      "idx": 37,
+      "start": 71.267,
+      "end": 73.767,
+      "dur": 2.5,
+      "center": 72.517,
+      "role": "other",
+      "subject": "puma dietro recinzione",
+      "description": "Un puma cammina dietro una recinzione a maglie larghe, con un oggetto rosa in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "considerati troppo pericolosi. Poi un bellissimo"
+    },
+    {
+      "idx": 38,
+      "start": 73.767,
+      "end": 76.0,
+      "dur": 2.233,
+      "center": 74.883,
+      "role": "other",
+      "subject": "serpente nero terrario",
+      "description": "Un serpente nero si muove all'interno di un terrario con sfondo dipinto e rami.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "puma ed infine siamo passati alla sezione dei rettili"
+    },
+    {
+      "idx": 39,
+      "start": 76.0,
+      "end": 77.867,
+      "dur": 1.867,
+      "center": 76.933,
+      "role": "other",
+      "subject": "testa serpente terrario",
+      "description": "La testa di un serpente con squame chiare e scure è visibile in un terrario.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "che comunque è sempre molto affascinante. Insomma"
+    },
+    {
+      "idx": 40,
+      "start": 77.867,
+      "end": 79.367,
+      "dur": 1.5,
+      "center": 78.617,
+      "role": "other",
+      "subject": "alligatore mimetizzato muschio",
+      "description": "Un alligatore si mimetizza perfettamente tra la vegetazione acquatica.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "un parco carino dove spendere comunque un"
+    },
+    {
+      "idx": 41,
+      "start": 79.367,
+      "end": 80.0,
+      "dur": 0.633,
+      "center": 79.683,
+      "role": "other",
+      "subject": "testa alligatore muschio",
+      "description": "La testa dell'alligatore emerge leggermente dal muschio, con gli occhi chiusi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "paio di orette."
+    },
+    {
+      "idx": 42,
+      "start": 80.0,
+      "end": 82.133,
+      "dur": 2.133,
+      "center": 81.067,
+      "role": "other",
+      "subject": "recinto lago lattuga",
+      "description": "Un lago con un recinto e della lattuga galleggiante in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ah e ovviamente non potevano mancare i lamentini"
+    },
+    {
+      "idx": 43,
+      "start": 82.133,
+      "end": 85.4,
+      "dur": 3.267,
+      "center": 83.767,
+      "role": "other",
+      "subject": "lattuga acqua manato",
+      "description": "Della lattuga galleggia sull'acqua, con un manato che si intravede sotto la superficie.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "anche qui. Animale che credo sia diventato di diritto il mio animale preferito."
+    },
+    {
+      "idx": 44,
+      "start": 85.4,
+      "end": 89.9,
+      "dur": 4.5,
+      "center": 87.65,
+      "role": "food_closeup",
+      "subject": "pizza pepperoni cartone",
+      "description": "Una pizza al pepperoni appena sfornata in una scatola di cartone.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "In ogni caso poi ci siamo fermati a pranzare dal Little Caesar Pizza per provare una vera pizza"
+    },
+    {
+      "idx": 45,
+      "start": 89.9,
+      "end": 91.333,
+      "dur": 1.433,
+      "center": 90.617,
+      "role": "food_closeup",
+      "subject": "fetta pizza pepperoni",
+      "description": "Una mano solleva una fetta di pizza al pepperoni con formaggio filante.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "americana che mi mancava"
+    },
+    {
+      "idx": 46,
+      "start": 91.333,
+      "end": 94.6,
+      "dur": 3.267,
+      "center": 92.967,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Un ragazzo con una canotta bianca tiene in mano una fetta di pizza e guarda verso il basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "decisamente troppo e non vedevo l 'ora di provare. Little Caesar è tra"
+    },
+    {
+      "idx": 47,
+      "start": 94.6,
+      "end": 97.2,
+      "dur": 2.6,
+      "center": 95.9,
+      "role": "person_eating",
+      "subject": "ragazzo addenta pizza",
+      "description": "Il ragazzo addenta la fetta di pizza con espressione concentrata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "l 'altro la mia catena di pizza americana preferita e di fatto abbiamo"
+    },
+    {
+      "idx": 48,
+      "start": 97.2,
+      "end": 100.033,
+      "dur": 2.833,
+      "center": 98.617,
+      "role": "food_closeup",
+      "subject": "pizza carne e pepperoni",
+      "description": "Una pizza riccamente condita con carne e pepperoni occupa la maggior parte del frame.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "provato la loro peperoni classica e la loro Detroit style"
+    },
+    {
+      "idx": 49,
+      "start": 100.033,
+      "end": 102.333,
+      "dur": 2.3,
+      "center": 101.183,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo sorride mentre addenta una fetta di pizza con formaggio filante.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "pizza con peperoni salsiccia. Come potete vedere"
+    },
+    {
+      "idx": 50,
+      "start": 102.333,
+      "end": 103.567,
+      "dur": 1.233,
+      "center": 102.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pizza",
+      "description": "Il ragazzo tiene in mano un pezzo di pizza con un'espressione sorpresa, con una scatola di pizza in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "questa seconda pizza è molto più"
+    },
+    {
+      "idx": 51,
+      "start": 103.567,
+      "end": 106.1,
+      "dur": 2.533,
+      "center": 104.833,
+      "role": "food_detail",
+      "subject": "bordo spesso pizza",
+      "description": "Un primo piano del bordo spesso e croccante di un pezzo di pizza, con formaggio filante e la scatola di cartone sporca.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "alta, molto più spessa, ma è letteralmente"
+    },
+    {
+      "idx": 52,
+      "start": 106.1,
+      "end": 108.9,
+      "dur": 2.8,
+      "center": 107.5,
+      "role": "person_eating",
+      "subject": "ragazzo addenta pizza",
+      "description": "Il ragazzo sta addentando un pezzo di pizza, con formaggio filante che pende dalla bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "clamo rosa. In quanto sul bordo la mozzarella"
+    },
+    {
+      "idx": 53,
+      "start": 108.9,
+      "end": 112.9,
+      "dur": 4.0,
+      "center": 110.9,
+      "role": "person_talking",
+      "subject": "ragazzo cammina strada",
+      "description": "Il ragazzo si riprende mentre cammina per strada di notte, con luci artificiali e edifici sullo sfondo.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "crea una crosticina devastante che la rende una delle mie tipologie di pizza preferite. Po'"
+    },
+    {
+      "idx": 54,
+      "start": 112.9,
+      "end": 117.267,
+      "dur": 4.367,
+      "center": 115.083,
+      "role": "venue_exterior",
+      "subject": "strada notturna illuminata",
+      "description": "Una strada notturna con edifici illuminati, alberi e una fontana in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "merigio che invece abbiamo passato in viaggio per arrivare a St. Augustine, la città più antica di tutti gli"
+    },
+    {
+      "idx": 55,
+      "start": 117.267,
+      "end": 119.3,
+      "dur": 2.033,
+      "center": 118.283,
+      "role": "venue_interior_wide",
+      "subject": "fontana scultorea interna ristorante",
+      "description": "L'ampio interno del ristorante con una grande fontana centrale e tavoli apparecchiati.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Stati Uniti dove però essendo già tardi ci siamo"
+    },
+    {
+      "idx": 56,
+      "start": 119.3,
+      "end": 122.267,
+      "dur": 2.967,
+      "center": 120.783,
+      "role": "food_detail",
+      "subject": "pane baguette con burro",
+      "description": "Una mano che tiene un pezzo di baguette, con una piccola ciotola di burro sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "limitati a fare un girete e andare subito a cena. Da Columbia Restaurant,"
+    },
+    {
+      "idx": 57,
+      "start": 122.267,
+      "end": 124.733,
+      "dur": 2.467,
+      "center": 123.5,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pane",
+      "description": "Un ragazzo sorridente che mangia un pezzo di pane, con un tatuaggio sul braccio.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "che è uno dei ristoranti più famosi della città che propone cucina"
+    },
+    {
+      "idx": 58,
+      "start": 124.733,
+      "end": 130.467,
+      "dur": 5.733,
+      "center": 127.6,
+      "role": "food_plated",
+      "subject": "piatto cubano completo",
+      "description": "Un primo piano di un piatto con riso, fagioli neri, cipolle, carne e platano fritto.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "spagnola cubana. Dopo aver iniziato da un antipasto di pane col burro, ho preso un piatto misto di cibo cubano con del"
+    },
+    {
+      "idx": 59,
+      "start": 130.467,
+      "end": 135.233,
+      "dur": 4.767,
+      "center": 132.85,
+      "role": "person_eating",
+      "subject": "ragazzo mangia piatto cubano",
+      "description": "Il ragazzo del frame 2 che mangia dal piatto cubano, con la forchetta in bocca.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "maiale arrosto sfidacciato, super morbido e saporito, dei faccialli neri con la cipolla del riso"
+    },
+    {
+      "idx": 60,
+      "start": 135.233,
+      "end": 137.6,
+      "dur": 2.367,
+      "center": 136.417,
+      "role": "person_eating",
+      "subject": "ragazzo mangia empanada",
+      "description": "Il ragazzo sta addentando un pezzo di cibo, probabilmente un'empanada.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "giallo, la yuca che sarebbe un tubero, una sorta di"
+    },
+    {
+      "idx": 61,
+      "start": 137.6,
+      "end": 139.267,
+      "dur": 1.667,
+      "center": 138.433,
+      "role": "food_detail",
+      "subject": "empanada ripiena",
+      "description": "Si vede chiaramente l'interno di un'empanada con ripieno di carne e verdure.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "arrosto di manzo, un empanada"
+    },
+    {
+      "idx": 62,
+      "start": 139.267,
+      "end": 141.067,
+      "dur": 1.8,
+      "center": 140.167,
+      "role": "person_eating",
+      "subject": "ragazzo mangia piatto",
+      "description": "Il ragazzo sta mangiando da un piatto con una forchetta, con vari cibi visibili.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sed infine del platano che con la sua esterma"
+    },
+    {
+      "idx": 63,
+      "start": 141.067,
+      "end": 143.567,
+      "dur": 2.5,
+      "center": 142.317,
+      "role": "venue_interior_wide",
+      "subject": "ragazzo in corridoio",
+      "description": "Un ragazzo cammina in un corridoio interno con negozi ai lati.",
+      "composition": "wide",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "dolcezza è quello che mi ha stupito di più e si conclude la serata"
+    },
+    {
+      "idx": 64,
+      "start": 143.567,
+      "end": 145.6,
+      "dur": 2.033,
+      "center": 144.583,
+      "role": "venue_exterior",
+      "subject": "insegna Walgreens notte",
+      "description": "L'insegna luminosa di un negozio Walgreens di notte.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "con un giro per St. Augustine ed a Walgreens."
+    },
+    {
+      "idx": 65,
+      "start": 145.6,
+      "end": 145.667,
+      "dur": 0.067,
+      "center": 145.633,
+      "role": "other",
+      "subject": "testo Walgreens",
+      "description": "Il testo bianco 'WALGREENS' su sfondo nero è l'unico elemento visibile.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": ""
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni aperta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo tiene in mano una scatola di pizza aperta con una pizza al pepperoni.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni intera",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza al pepperoni è mostrata in primo piano all'interno della sua scatola.",
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza rettangolare carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con espressione sorpresa tiene una scatola di pizza rettangolare con carne.",
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 6.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cammina notte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo cammina di notte in un'area illuminata da lampioni.",
+      "shot_idx": 3,
+      "start": 6.033,
+      "end": 9.833,
+      "dur": 3.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano tiene sacchetto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Una mano tiene un piccolo sacchetto di carta con un dolcetto all'interno.",
+      "shot_idx": 4,
+      "start": 9.833,
+      "end": 11.833,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo su barca",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo in canottiera nera guarda in camera mentre è seduto su una barca.",
+      "shot_idx": 5,
+      "start": 11.833,
+      "end": 13.633,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "casa sul canale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una casa bianca con un prato verde si affaccia su un canale, vista dalla barca.",
+      "shot_idx": 6,
+      "start": 13.633,
+      "end": 16.167,
+      "dur": 2.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "ragazzo su barca",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo è seduto sulla barca, con la casa sul canale sullo sfondo.",
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 17.967,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "canale e casa",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'altra casa bianca con un molo si affaccia su un canale con acqua calma.",
+      "shot_idx": 8,
+      "start": 17.967,
+      "end": 19.733,
+      "dur": 1.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "canale con barche",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un canale con case e barche ormeggiate, e una persona in acqua.",
+      "shot_idx": 9,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "manatee nell'acqua",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un manatee emerge dall'acqua vicino a un molo di legno.",
+      "shot_idx": 10,
+      "start": 21.9,
+      "end": 23.7,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "manatee sott'acqua",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un manatee è visibile sott'acqua, con l'acqua di un colore verde torbido.",
+      "shot_idx": 11,
+      "start": 23.7,
+      "end": 28.3,
+      "dur": 4.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo in muta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo in muta da sub sorride alla telecamera con un paesaggio acquatico sullo sfondo.",
+      "shot_idx": 12,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "uomo in muta",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo in muta da sub guarda direttamente la telecamera, con il sole che gli illumina il viso.",
+      "shot_idx": 13,
+      "start": 30.3,
+      "end": 32.1,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "casa sul lago",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una casa bianca con un tetto marrone si affaccia su un lago, circondata da alberi e prato.",
+      "shot_idx": 14,
+      "start": 32.1,
+      "end": 33.7,
+      "dur": 1.6
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "case sul lago",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due case bianche con tetti marroni si affacciano su un lago, con alberi sullo sfondo.",
+      "shot_idx": 15,
+      "start": 33.7,
+      "end": 35.533,
+      "dur": 1.833
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "case e lago",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Le stesse case e il lago, con un piccolo spruzzo d'acqua al centro del lago.",
+      "shot_idx": 16,
+      "start": 35.533,
+      "end": 36.833,
+      "dur": 1.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "spruzzo d'acqua",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un piccolo spruzzo d'acqua è visibile al centro del lago, con le case sullo sfondo.",
+      "shot_idx": 17,
+      "start": 36.833,
+      "end": 38.433,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "lago e vegetazione",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il lago in primo piano con una sponda verde e alberi fitti sullo sfondo, e un piccolo spruzzo d'acqua.",
+      "shot_idx": 18,
+      "start": 38.433,
+      "end": 40.6,
+      "dur": 2.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "acqua trasparente e cielo",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'acqua del lago è trasparente e si vede il fondale, con il sole che si riflette sulla superficie e un cielo azzurro con nuvole.",
+      "shot_idx": 19,
+      "start": 40.6,
+      "end": 44.1,
+      "dur": 3.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "uomo su barca",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il volto dell'uomo in primo piano con l'acqua e le case sullo sfondo.",
+      "shot_idx": 20,
+      "start": 44.1,
+      "end": 46.133,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "paesaggio fluviale alberi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vasta distesa d'acqua con alberi e vegetazione rigogliosa sulle rive.",
+      "shot_idx": 21,
+      "start": 46.133,
+      "end": 47.0,
+      "dur": 0.867
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "alligatore uccello tronco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un alligatore e un uccello su un tronco galleggiante nell'acqua.",
+      "shot_idx": 22,
+      "start": 47.0,
+      "end": 48.633,
+      "dur": 1.633
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "alligatore tartaruga uccello",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'alligatore e la tartaruga sul tronco con l'uccello in piedi sullo sfondo.",
+      "shot_idx": 23,
+      "start": 48.633,
+      "end": 50.6,
+      "dur": 1.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "alligatore tartaruga tronco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'alligatore e la tartaruga sul tronco, con l'alligatore che sembra sorridere.",
+      "shot_idx": 24,
+      "start": 50.6,
+      "end": 53.067,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "persone su tram turistico",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il tram scoperto con persone sedute e la vegetazione lussureggiante all'esterno.",
+      "shot_idx": 25,
+      "start": 53.067,
+      "end": 55.1,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "volpe addormentata tana",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una volpe rossa addormentata vicino all'ingresso di una tana tubolare.",
+      "shot_idx": 26,
+      "start": 55.1,
+      "end": 57.067,
+      "dur": 1.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "gufo su ramo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un gufo con grandi occhi gialli posato su un ramo, con uno sfondo di alberi e vegetazione.",
+      "shot_idx": 27,
+      "start": 57.067,
+      "end": 59.067,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "pellicani in acqua",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Due pellicani bianchi in un corso d'acqua, circondati da vegetazione verde.",
+      "shot_idx": 28,
+      "start": 59.067,
+      "end": 59.733,
+      "dur": 0.667
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "pellicano che pesca",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un pellicano con il becco aperto nell'acqua, apparentemente intento a pescare.",
+      "shot_idx": 29,
+      "start": 59.733,
+      "end": 61.1,
+      "dur": 1.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "avvoltoio ali aperte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un avvoltoio nero con le ali spiegate su un ramo, con un altro avvoltoio seduto accanto.",
+      "shot_idx": 30,
+      "start": 61.1,
+      "end": 62.6,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "aquila calva posata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'aquila calva è posata su un tronco d'albero, con la luce del sole che illumina la sua testa bianca.",
+      "shot_idx": 31,
+      "start": 62.6,
+      "end": 64.2,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "aquila bandiera americana",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un'aquila calva è posata su un tronco d'albero con una bandiera americana sventolante sullo sfondo.",
+      "shot_idx": 32,
+      "start": 64.2,
+      "end": 66.1,
+      "dur": 1.9
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "alligatore nell'acqua",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un alligatore galleggia nell'acqua coperta di lenticchie d'acqua, con solo la schiena e la testa visibili.",
+      "shot_idx": 33,
+      "start": 66.1,
+      "end": 68.267,
+      "dur": 2.167
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "alligatore nascosto acqua",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un alligatore è quasi completamente nascosto sotto uno spesso strato di lenticchie d'acqua in uno stagno.",
+      "shot_idx": 34,
+      "start": 68.267,
+      "end": 69.033,
+      "dur": 0.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "alligatore in acqua",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un alligatore semi-sommerso in uno stagno coperto di lenticchie d'acqua.",
+      "shot_idx": 35,
+      "start": 69.033,
+      "end": 70.667,
+      "dur": 1.633
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "alligatore in acqua",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'alligatore è quasi completamente immerso, con solo la testa e parte del dorso visibili.",
+      "shot_idx": 36,
+      "start": 70.667,
+      "end": 71.267,
+      "dur": 0.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "puma dietro recinzione",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un puma cammina dietro una recinzione a maglie larghe, con un oggetto rosa in primo piano.",
+      "shot_idx": 37,
+      "start": 71.267,
+      "end": 73.767,
+      "dur": 2.5
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "serpente nero terrario",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un serpente nero si muove all'interno di un terrario con sfondo dipinto e rami.",
+      "shot_idx": 38,
+      "start": 73.767,
+      "end": 76.0,
+      "dur": 2.233
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "testa serpente terrario",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "La testa di un serpente con squame chiare e scure è visibile in un terrario.",
+      "shot_idx": 39,
+      "start": 76.0,
+      "end": 77.867,
+      "dur": 1.867
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "alligatore mimetizzato muschio",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un alligatore si mimetizza perfettamente tra la vegetazione acquatica.",
+      "shot_idx": 40,
+      "start": 77.867,
+      "end": 79.367,
+      "dur": 1.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "testa alligatore muschio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La testa dell'alligatore emerge leggermente dal muschio, con gli occhi chiusi.",
+      "shot_idx": 41,
+      "start": 79.367,
+      "end": 80.0,
+      "dur": 0.633
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "recinto lago lattuga",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un lago con un recinto e della lattuga galleggiante in primo piano.",
+      "shot_idx": 42,
+      "start": 80.0,
+      "end": 82.133,
+      "dur": 2.133
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "lattuga acqua manato",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Della lattuga galleggia sull'acqua, con un manato che si intravede sotto la superficie.",
+      "shot_idx": 43,
+      "start": 82.133,
+      "end": 85.4,
+      "dur": 3.267
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza pepperoni cartone",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una pizza al pepperoni appena sfornata in una scatola di cartone.",
+      "shot_idx": 44,
+      "start": 85.4,
+      "end": 89.9,
+      "dur": 4.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta pizza pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano solleva una fetta di pizza al pepperoni con formaggio filante.",
+      "shot_idx": 45,
+      "start": 89.9,
+      "end": 91.333,
+      "dur": 1.433
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una canotta bianca tiene in mano una fetta di pizza e guarda verso il basso.",
+      "shot_idx": 46,
+      "start": 91.333,
+      "end": 94.6,
+      "dur": 3.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo addenta la fetta di pizza con espressione concentrata.",
+      "shot_idx": 47,
+      "start": 94.6,
+      "end": 97.2,
+      "dur": 2.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "pizza carne e pepperoni",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una pizza riccamente condita con carne e pepperoni occupa la maggior parte del frame.",
+      "shot_idx": 48,
+      "start": 97.2,
+      "end": 100.033,
+      "dur": 2.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sorride mentre addenta una fetta di pizza con formaggio filante.",
+      "shot_idx": 49,
+      "start": 100.033,
+      "end": 102.333,
+      "dur": 2.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un pezzo di pizza con un'espressione sorpresa, con una scatola di pizza in primo piano.",
+      "shot_idx": 50,
+      "start": 102.333,
+      "end": 103.567,
+      "dur": 1.233
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "bordo spesso pizza",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un primo piano del bordo spesso e croccante di un pezzo di pizza, con formaggio filante e la scatola di cartone sporca.",
+      "shot_idx": 51,
+      "start": 103.567,
+      "end": 106.1,
+      "dur": 2.533
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta pizza",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di pizza, con formaggio filante che pende dalla bocca.",
+      "shot_idx": 52,
+      "start": 106.1,
+      "end": 108.9,
+      "dur": 2.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo cammina strada",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo si riprende mentre cammina per strada di notte, con luci artificiali e edifici sullo sfondo.",
+      "shot_idx": 53,
+      "start": 108.9,
+      "end": 112.9,
+      "dur": 4.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "strada notturna illuminata",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una strada notturna con edifici illuminati, alberi e una fontana in primo piano.",
+      "shot_idx": 54,
+      "start": 112.9,
+      "end": 117.267,
+      "dur": 4.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "fontana scultorea interna ristorante",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'ampio interno del ristorante con una grande fontana centrale e tavoli apparecchiati.",
+      "shot_idx": 55,
+      "start": 117.267,
+      "end": 119.3,
+      "dur": 2.033
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "pane baguette con burro",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano che tiene un pezzo di baguette, con una piccola ciotola di burro sullo sfondo.",
+      "shot_idx": 56,
+      "start": 119.3,
+      "end": 122.267,
+      "dur": 2.967
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pane",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un ragazzo sorridente che mangia un pezzo di pane, con un tatuaggio sul braccio.",
+      "shot_idx": 57,
+      "start": 122.267,
+      "end": 124.733,
+      "dur": 2.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto cubano completo",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un primo piano di un piatto con riso, fagioli neri, cipolle, carne e platano fritto.",
+      "shot_idx": 58,
+      "start": 124.733,
+      "end": 130.467,
+      "dur": 5.733
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia piatto cubano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo del frame 2 che mangia dal piatto cubano, con la forchetta in bocca.",
+      "shot_idx": 59,
+      "start": 130.467,
+      "end": 135.233,
+      "dur": 4.767
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia empanada",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando un pezzo di cibo, probabilmente un'empanada.",
+      "shot_idx": 60,
+      "start": 135.233,
+      "end": 137.6,
+      "dur": 2.367
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "empanada ripiena",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Si vede chiaramente l'interno di un'empanada con ripieno di carne e verdure.",
+      "shot_idx": 61,
+      "start": 137.6,
+      "end": 139.267,
+      "dur": 1.667
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia piatto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta mangiando da un piatto con una forchetta, con vari cibi visibili.",
+      "shot_idx": 62,
+      "start": 139.267,
+      "end": 141.067,
+      "dur": 1.8
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "ragazzo in corridoio",
+      "composizione": "wide",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo cammina in un corridoio interno con negozi ai lati.",
+      "shot_idx": 63,
+      "start": 141.067,
+      "end": 143.567,
+      "dur": 2.5
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Walgreens notte",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "L'insegna luminosa di un negozio Walgreens di notte.",
+      "shot_idx": 64,
+      "start": 143.567,
+      "end": 145.6,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "testo Walgreens",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Il testo bianco 'WALGREENS' su sfondo nero è l'unico elemento visibile.",
+      "shot_idx": 65,
+      "start": 145.6,
+      "end": 145.667,
+      "dur": 0.067
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Giornino nove del mio viaggio in Florida è la scoperta della vera cucina americana."
+    },
+    {
+      "start": 3.6,
+      "end": 7.42,
+      "text": "Oggi giornata clamorosa con un po' di cibo tipico e un'esperienza devastante."
+    },
+    {
+      "start": 7.52,
+      "end": 11.7,
+      "text": "Ci troviamo a Cristar River e proprio per questa esperienza di cui vi parlavo ci siamo dovuti svegliare alle sei."
+    },
+    {
+      "start": 11.88,
+      "end": 13.34,
+      "text": "Collazione al sacco e si esce."
+    },
+    {
+      "start": 13.4,
+      "end": 16.76,
+      "text": "In modo da essere pronti per partire con il tour per nuotare con i lamanthini."
+    },
+    {
+      "start": 16.86,
+      "end": 21.0,
+      "text": "Che appunto sono l'attrazione principale di questo paese e in generale di questa parte della Florida."
+    },
+    {
+      "start": 21.28,
+      "end": 24.16,
+      "text": "Fortunatamente grazie alle nostre guide abbiamo subito trovato una coppia,"
+    },
+    {
+      "start": 24.3,
+      "end": 28.0,
+      "text": "una mamma e un figlio letto molto molto carini ma letteralmente giganteschi"
+    },
+    {
+      "start": 28.0,
+      "end": 30.86,
+      "text": "e armati di muta, maschera e boccaglio ci siamo subito immersi."
+    },
+    {
+      "start": 30.92,
+      "end": 36.36,
+      "text": "E' sicuro ragazzi che è stata un'esperienza clamorosa vedere questi animali così grandi ma allo stesso tempo così innocui."
+    },
+    {
+      "start": 36.44,
+      "end": 38.52,
+      "text": "Beh a distanza di praticamente pochi centimetri."
+    },
+    {
+      "start": 38.58,
+      "end": 42.58,
+      "text": "Poi abbiamo sissito anche a questo strano fenomeno di questi pesci che saltavano letteralmente fuori dall'acqua."
+    },
+    {
+      "start": 42.7,
+      "end": 46.32,
+      "text": "Per poi goderci un bel bagnetto in questa parte del fiume particolarmente limpida."
+    },
+    {
+      "start": 46.38,
+      "end": 50.58,
+      "text": "E appena usciti dal nostro bagno ci siamo accorti di essere in compagnia di un simpaticissimo alligatore."
+    },
+    {
+      "start": 50.8,
+      "end": 52.64,
+      "text": "Bello tranquillo, su un tronco che prendeva il sole."
+    },
+    {
+      "start": 52.74,
+      "end": 54.2,
+      "text": "Eh sì ragazzi questa è proprio la Florida."
+    },
+    {
+      "start": 54.2,
+      "end": 58.14,
+      "text": "Dopodiché ci siamo spostati a Domosassa, un paesino gli accanto dove c'è questo parco"
+    },
+    {
+      "start": 58.14,
+      "end": 61.86,
+      "text": "pieno d'animali che magari devono essere curati o che comunque non possono vivere in libertà."
+    },
+    {
+      "start": 61.96,
+      "end": 66.84,
+      "text": "E dopo aver visto diversi volatili e letteralmente la scena più americana e patriottica che si possa essere,"
+    },
+    {
+      "start": 66.94,
+      "end": 70.14,
+      "text": "abbiamo visto degli alligatori che si sono abituati ad avvicinarsi troppo alle persone"
+    },
+    {
+      "start": 70.14,
+      "end": 72.44,
+      "text": "e quindi sono stati considerati troppo pericolosi."
+    },
+    {
+      "start": 72.52,
+      "end": 77.6,
+      "text": "Poi un bellissimo puma ed infine siamo passati alla sezione dei rettili che comunque è sempre molto affascinante."
+    },
+    {
+      "start": 77.74,
+      "end": 80.16,
+      "text": "Insomma un parco carino dove spendere comunque un paio di orette."
+    },
+    {
+      "start": 80.28,
+      "end": 82.78,
+      "text": "Ah e ovviamente non potevano mancare i lamentini anche qui."
+    },
+    {
+      "start": 82.78,
+      "end": 85.4,
+      "text": "Animale che credo sia diventato di diritto il mio animale preferito."
+    },
+    {
+      "start": 85.46,
+      "end": 90.64,
+      "text": "In ogni caso poi ci siamo fermati a pranzare dal Little Caesar Pizza per provare una vera pizza americana"
+    },
+    {
+      "start": 90.64,
+      "end": 93.58,
+      "text": "che mi mancava decisamente troppo e non vedevo l'ora di provare."
+    },
+    {
+      "start": 93.68,
+      "end": 96.64,
+      "text": "Little Caesar è tra l'altro la mia catena di pizza americana preferita"
+    },
+    {
+      "start": 96.64,
+      "end": 101.74,
+      "text": "e di fatto abbiamo provato la loro peperoni classica e la loro Detroit style pizza con peperoni salsiccia."
+    },
+    {
+      "start": 101.82,
+      "end": 104.74,
+      "text": "Come potete vedere questa seconda pizza è molto più alta, molto più spessa,"
+    },
+    {
+      "start": 104.88,
+      "end": 107.42,
+      "text": "ma è letteralmente clamo rosa."
+    },
+    {
+      "start": 107.42,
+      "end": 112.76,
+      "text": "In quanto sul bordo la mozzarella crea una crosticina devastante che la rende una delle mie tipologie di pizza preferite."
+    },
+    {
+      "start": 112.86,
+      "end": 115.58,
+      "text": "Po' merigio che invece abbiamo passato in viaggio per arrivare a St. Augustine,"
+    },
+    {
+      "start": 115.64,
+      "end": 121.0,
+      "text": "la città più antica di tutti gli Stati Uniti dove però essendo già tardi ci siamo limitati a fare un girete e andare subito a cena."
+    },
+    {
+      "start": 121.08,
+      "end": 125.7,
+      "text": "Da Columbia Restaurant, che è uno dei ristoranti più famosi della città che propone cucina spagnola cubana."
+    },
+    {
+      "start": 125.8,
+      "end": 129.88,
+      "text": "Dopo aver iniziato da un antipasto di pane col burro, ho preso un piatto misto di cibo cubano"
+    },
+    {
+      "start": 129.88,
+      "end": 135.48,
+      "text": "con del maiale arrosto sfidacciato, super morbido e saporito, dei faccialli neri con la cipolla del riso giallo,"
+    },
+    {
+      "start": 135.48,
+      "end": 138.52,
+      "text": "la yuca che sarebbe un tubero, una sorta di arrosto di manzo,"
+    },
+    {
+      "start": 138.6,
+      "end": 142.6,
+      "text": "un empanada sed infine del platano che con la sua esterma dolcezza è quello che mi ha stupito di più"
+    },
+    {
+      "start": 142.6,
+      "end": 145.48,
+      "text": "e si conclude la serata con un giro per St. Augustine ed a Walgreens."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "word": "Giornino"
+    },
+    {
+      "start": 0.38,
+      "end": 0.62,
+      "word": "nove"
+    },
+    {
+      "start": 0.62,
+      "end": 0.74,
+      "word": "del"
+    },
+    {
+      "start": 0.74,
+      "end": 0.86,
+      "word": "mio"
+    },
+    {
+      "start": 0.86,
+      "end": 1.08,
+      "word": "viaggio"
+    },
+    {
+      "start": 1.08,
+      "end": 1.22,
+      "word": "in"
+    },
+    {
+      "start": 1.22,
+      "end": 1.44,
+      "word": "Florida"
+    },
+    {
+      "start": 1.44,
+      "end": 1.66,
+      "word": "è"
+    },
+    {
+      "start": 1.66,
+      "end": 1.68,
+      "word": "la"
+    },
+    {
+      "start": 1.68,
+      "end": 2.0,
+      "word": "scoperta"
+    },
+    {
+      "start": 2.0,
+      "end": 2.24,
+      "word": "della"
+    },
+    {
+      "start": 2.24,
+      "end": 2.56,
+      "word": "vera"
+    },
+    {
+      "start": 2.56,
+      "end": 2.92,
+      "word": "cucina"
+    },
+    {
+      "start": 2.92,
+      "end": 3.48,
+      "word": "americana."
+    },
+    {
+      "start": 3.6,
+      "end": 3.76,
+      "word": "Oggi"
+    },
+    {
+      "start": 3.76,
+      "end": 4.12,
+      "word": "giornata"
+    },
+    {
+      "start": 4.12,
+      "end": 4.68,
+      "word": "clamorosa"
+    },
+    {
+      "start": 4.68,
+      "end": 4.86,
+      "word": "con"
+    },
+    {
+      "start": 4.86,
+      "end": 4.96,
+      "word": "un"
+    },
+    {
+      "start": 4.96,
+      "end": 5.06,
+      "word": "po'"
+    },
+    {
+      "start": 5.16,
+      "end": 5.18,
+      "word": "di"
+    },
+    {
+      "start": 5.18,
+      "end": 5.38,
+      "word": "cibo"
+    },
+    {
+      "start": 5.38,
+      "end": 5.8,
+      "word": "tipico"
+    },
+    {
+      "start": 5.8,
+      "end": 5.98,
+      "word": "e"
+    },
+    {
+      "start": 5.98,
+      "end": 6.08,
+      "word": "un"
+    },
+    {
+      "start": 6.08,
+      "end": 6.68,
+      "word": "'esperienza"
+    },
+    {
+      "start": 6.68,
+      "end": 7.42,
+      "word": "devastante."
+    },
+    {
+      "start": 7.52,
+      "end": 7.58,
+      "word": "Ci"
+    },
+    {
+      "start": 7.58,
+      "end": 7.84,
+      "word": "troviamo"
+    },
+    {
+      "start": 7.84,
+      "end": 7.96,
+      "word": "a"
+    },
+    {
+      "start": 7.96,
+      "end": 8.26,
+      "word": "Cristar"
+    },
+    {
+      "start": 8.26,
+      "end": 8.48,
+      "word": "River"
+    },
+    {
+      "start": 8.48,
+      "end": 8.64,
+      "word": "e"
+    },
+    {
+      "start": 8.64,
+      "end": 8.78,
+      "word": "proprio"
+    },
+    {
+      "start": 8.78,
+      "end": 8.98,
+      "word": "per"
+    },
+    {
+      "start": 8.98,
+      "end": 9.14,
+      "word": "questa"
+    },
+    {
+      "start": 9.14,
+      "end": 9.54,
+      "word": "esperienza"
+    },
+    {
+      "start": 9.54,
+      "end": 9.68,
+      "word": "di"
+    },
+    {
+      "start": 9.68,
+      "end": 9.78,
+      "word": "cui"
+    },
+    {
+      "start": 9.78,
+      "end": 9.92,
+      "word": "vi"
+    },
+    {
+      "start": 9.92,
+      "end": 10.3,
+      "word": "parlavo"
+    },
+    {
+      "start": 10.3,
+      "end": 10.48,
+      "word": "ci"
+    },
+    {
+      "start": 10.48,
+      "end": 10.6,
+      "word": "siamo"
+    },
+    {
+      "start": 10.6,
+      "end": 10.88,
+      "word": "dovuti"
+    },
+    {
+      "start": 10.88,
+      "end": 11.26,
+      "word": "svegliare"
+    },
+    {
+      "start": 11.26,
+      "end": 11.44,
+      "word": "alle"
+    },
+    {
+      "start": 11.44,
+      "end": 11.7,
+      "word": "sei."
+    },
+    {
+      "start": 11.88,
+      "end": 12.16,
+      "word": "Collazione"
+    },
+    {
+      "start": 12.16,
+      "end": 12.4,
+      "word": "al"
+    },
+    {
+      "start": 12.4,
+      "end": 12.78,
+      "word": "sacco"
+    },
+    {
+      "start": 12.78,
+      "end": 12.94,
+      "word": "e"
+    },
+    {
+      "start": 12.94,
+      "end": 13.06,
+      "word": "si"
+    },
+    {
+      "start": 13.06,
+      "end": 13.34,
+      "word": "esce."
+    },
+    {
+      "start": 13.4,
+      "end": 13.44,
+      "word": "In"
+    },
+    {
+      "start": 13.44,
+      "end": 13.54,
+      "word": "modo"
+    },
+    {
+      "start": 13.54,
+      "end": 13.68,
+      "word": "da"
+    },
+    {
+      "start": 13.68,
+      "end": 13.86,
+      "word": "essere"
+    },
+    {
+      "start": 13.86,
+      "end": 14.32,
+      "word": "pronti"
+    },
+    {
+      "start": 14.32,
+      "end": 14.48,
+      "word": "per"
+    },
+    {
+      "start": 14.48,
+      "end": 14.82,
+      "word": "partire"
+    },
+    {
+      "start": 14.82,
+      "end": 15.02,
+      "word": "con"
+    },
+    {
+      "start": 15.02,
+      "end": 15.18,
+      "word": "il"
+    },
+    {
+      "start": 15.18,
+      "end": 15.36,
+      "word": "tour"
+    },
+    {
+      "start": 15.36,
+      "end": 15.54,
+      "word": "per"
+    },
+    {
+      "start": 15.54,
+      "end": 15.92,
+      "word": "nuotare"
+    },
+    {
+      "start": 15.92,
+      "end": 16.14,
+      "word": "con"
+    },
+    {
+      "start": 16.14,
+      "end": 16.26,
+      "word": "i"
+    },
+    {
+      "start": 16.26,
+      "end": 16.76,
+      "word": "lamanthini."
+    },
+    {
+      "start": 16.86,
+      "end": 16.94,
+      "word": "Che"
+    },
+    {
+      "start": 16.94,
+      "end": 17.12,
+      "word": "appunto"
+    },
+    {
+      "start": 17.12,
+      "end": 17.34,
+      "word": "sono"
+    },
+    {
+      "start": 17.34,
+      "end": 17.48,
+      "word": "l"
+    },
+    {
+      "start": 17.48,
+      "end": 17.8,
+      "word": "'attrazione"
+    },
+    {
+      "start": 17.8,
+      "end": 18.44,
+      "word": "principale"
+    },
+    {
+      "start": 18.44,
+      "end": 18.58,
+      "word": "di"
+    },
+    {
+      "start": 18.58,
+      "end": 18.8,
+      "word": "questo"
+    },
+    {
+      "start": 18.8,
+      "end": 19.18,
+      "word": "paese"
+    },
+    {
+      "start": 19.18,
+      "end": 19.4,
+      "word": "e"
+    },
+    {
+      "start": 19.4,
+      "end": 19.5,
+      "word": "in"
+    },
+    {
+      "start": 19.5,
+      "end": 19.9,
+      "word": "generale"
+    },
+    {
+      "start": 19.9,
+      "end": 20.04,
+      "word": "di"
+    },
+    {
+      "start": 20.04,
+      "end": 20.24,
+      "word": "questa"
+    },
+    {
+      "start": 20.24,
+      "end": 20.48,
+      "word": "parte"
+    },
+    {
+      "start": 20.48,
+      "end": 20.7,
+      "word": "della"
+    },
+    {
+      "start": 20.7,
+      "end": 21.0,
+      "word": "Florida."
+    },
+    {
+      "start": 21.28,
+      "end": 21.72,
+      "word": "Fortunatamente"
+    },
+    {
+      "start": 21.72,
+      "end": 22.12,
+      "word": "grazie"
+    },
+    {
+      "start": 22.12,
+      "end": 22.24,
+      "word": "alle"
+    },
+    {
+      "start": 22.24,
+      "end": 22.5,
+      "word": "nostre"
+    },
+    {
+      "start": 22.5,
+      "end": 22.74,
+      "word": "guide"
+    },
+    {
+      "start": 22.74,
+      "end": 22.98,
+      "word": "abbiamo"
+    },
+    {
+      "start": 22.98,
+      "end": 23.3,
+      "word": "subito"
+    },
+    {
+      "start": 23.3,
+      "end": 23.6,
+      "word": "trovato"
+    },
+    {
+      "start": 23.6,
+      "end": 23.74,
+      "word": "una"
+    },
+    {
+      "start": 23.74,
+      "end": 24.16,
+      "word": "coppia,"
+    },
+    {
+      "start": 24.3,
+      "end": 24.42,
+      "word": "una"
+    },
+    {
+      "start": 24.42,
+      "end": 24.68,
+      "word": "mamma"
+    },
+    {
+      "start": 24.68,
+      "end": 24.74,
+      "word": "e"
+    },
+    {
+      "start": 24.74,
+      "end": 24.8,
+      "word": "un"
+    },
+    {
+      "start": 24.8,
+      "end": 25.0,
+      "word": "figlio"
+    },
+    {
+      "start": 25.0,
+      "end": 25.4,
+      "word": "letto"
+    },
+    {
+      "start": 25.4,
+      "end": 25.8,
+      "word": "molto"
+    },
+    {
+      "start": 25.8,
+      "end": 26.02,
+      "word": "molto"
+    },
+    {
+      "start": 26.02,
+      "end": 26.46,
+      "word": "carini"
+    },
+    {
+      "start": 26.46,
+      "end": 26.66,
+      "word": "ma"
+    },
+    {
+      "start": 26.66,
+      "end": 27.18,
+      "word": "letteralmente"
+    },
+    {
+      "start": 27.18,
+      "end": 28.0,
+      "word": "giganteschi"
+    },
+    {
+      "start": 28.0,
+      "end": 28.16,
+      "word": "e"
+    },
+    {
+      "start": 28.16,
+      "end": 28.44,
+      "word": "armati"
+    },
+    {
+      "start": 28.44,
+      "end": 28.58,
+      "word": "di"
+    },
+    {
+      "start": 28.58,
+      "end": 28.9,
+      "word": "muta,"
+    },
+    {
+      "start": 28.98,
+      "end": 29.26,
+      "word": "maschera"
+    },
+    {
+      "start": 29.26,
+      "end": 29.42,
+      "word": "e"
+    },
+    {
+      "start": 29.42,
+      "end": 29.72,
+      "word": "boccaglio"
+    },
+    {
+      "start": 29.72,
+      "end": 29.86,
+      "word": "ci"
+    },
+    {
+      "start": 29.86,
+      "end": 30.06,
+      "word": "siamo"
+    },
+    {
+      "start": 30.06,
+      "end": 30.36,
+      "word": "subito"
+    },
+    {
+      "start": 30.36,
+      "end": 30.86,
+      "word": "immersi."
+    },
+    {
+      "start": 30.92,
+      "end": 30.94,
+      "word": "E'"
+    },
+    {
+      "start": 31.0,
+      "end": 31.22,
+      "word": "sicuro"
+    },
+    {
+      "start": 31.22,
+      "end": 31.52,
+      "word": "ragazzi"
+    },
+    {
+      "start": 31.52,
+      "end": 31.64,
+      "word": "che"
+    },
+    {
+      "start": 31.64,
+      "end": 31.68,
+      "word": "è"
+    },
+    {
+      "start": 31.68,
+      "end": 31.74,
+      "word": "stata"
+    },
+    {
+      "start": 31.74,
+      "end": 31.9,
+      "word": "un"
+    },
+    {
+      "start": 31.9,
+      "end": 32.2,
+      "word": "'esperienza"
+    },
+    {
+      "start": 32.2,
+      "end": 32.78,
+      "word": "clamorosa"
+    },
+    {
+      "start": 32.78,
+      "end": 33.0,
+      "word": "vedere"
+    },
+    {
+      "start": 33.0,
+      "end": 33.32,
+      "word": "questi"
+    },
+    {
+      "start": 33.32,
+      "end": 33.74,
+      "word": "animali"
+    },
+    {
+      "start": 33.74,
+      "end": 34.04,
+      "word": "così"
+    },
+    {
+      "start": 34.04,
+      "end": 34.78,
+      "word": "grandi"
+    },
+    {
+      "start": 34.78,
+      "end": 35.1,
+      "word": "ma"
+    },
+    {
+      "start": 35.1,
+      "end": 35.24,
+      "word": "allo"
+    },
+    {
+      "start": 35.24,
+      "end": 35.32,
+      "word": "stesso"
+    },
+    {
+      "start": 35.32,
+      "end": 35.56,
+      "word": "tempo"
+    },
+    {
+      "start": 35.56,
+      "end": 35.82,
+      "word": "così"
+    },
+    {
+      "start": 35.82,
+      "end": 36.36,
+      "word": "innocui."
+    },
+    {
+      "start": 36.44,
+      "end": 36.54,
+      "word": "Beh"
+    },
+    {
+      "start": 36.54,
+      "end": 36.68,
+      "word": "a"
+    },
+    {
+      "start": 36.68,
+      "end": 37.0,
+      "word": "distanza"
+    },
+    {
+      "start": 37.0,
+      "end": 37.24,
+      "word": "di"
+    },
+    {
+      "start": 37.24,
+      "end": 37.54,
+      "word": "praticamente"
+    },
+    {
+      "start": 37.54,
+      "end": 37.96,
+      "word": "pochi"
+    },
+    {
+      "start": 37.96,
+      "end": 38.52,
+      "word": "centimetri."
+    },
+    {
+      "start": 38.58,
+      "end": 38.66,
+      "word": "Poi"
+    },
+    {
+      "start": 38.66,
+      "end": 38.8,
+      "word": "abbiamo"
+    },
+    {
+      "start": 38.8,
+      "end": 39.08,
+      "word": "sissito"
+    },
+    {
+      "start": 39.08,
+      "end": 39.26,
+      "word": "anche"
+    },
+    {
+      "start": 39.26,
+      "end": 39.36,
+      "word": "a"
+    },
+    {
+      "start": 39.36,
+      "end": 39.54,
+      "word": "questo"
+    },
+    {
+      "start": 39.54,
+      "end": 39.8,
+      "word": "strano"
+    },
+    {
+      "start": 39.8,
+      "end": 40.22,
+      "word": "fenomeno"
+    },
+    {
+      "start": 40.22,
+      "end": 40.32,
+      "word": "di"
+    },
+    {
+      "start": 40.32,
+      "end": 40.52,
+      "word": "questi"
+    },
+    {
+      "start": 40.52,
+      "end": 40.88,
+      "word": "pesci"
+    },
+    {
+      "start": 40.88,
+      "end": 40.98,
+      "word": "che"
+    },
+    {
+      "start": 40.98,
+      "end": 41.38,
+      "word": "saltavano"
+    },
+    {
+      "start": 41.38,
+      "end": 41.82,
+      "word": "letteralmente"
+    },
+    {
+      "start": 41.82,
+      "end": 42.06,
+      "word": "fuori"
+    },
+    {
+      "start": 42.06,
+      "end": 42.16,
+      "word": "dall"
+    },
+    {
+      "start": 42.16,
+      "end": 42.58,
+      "word": "'acqua."
+    },
+    {
+      "start": 42.7,
+      "end": 42.78,
+      "word": "Per"
+    },
+    {
+      "start": 42.78,
+      "end": 42.9,
+      "word": "poi"
+    },
+    {
+      "start": 42.9,
+      "end": 43.34,
+      "word": "goderci"
+    },
+    {
+      "start": 43.34,
+      "end": 43.48,
+      "word": "un"
+    },
+    {
+      "start": 43.48,
+      "end": 43.56,
+      "word": "bel"
+    },
+    {
+      "start": 43.56,
+      "end": 44.18,
+      "word": "bagnetto"
+    },
+    {
+      "start": 44.18,
+      "end": 44.34,
+      "word": "in"
+    },
+    {
+      "start": 44.34,
+      "end": 44.5,
+      "word": "questa"
+    },
+    {
+      "start": 44.5,
+      "end": 44.76,
+      "word": "parte"
+    },
+    {
+      "start": 44.76,
+      "end": 44.96,
+      "word": "del"
+    },
+    {
+      "start": 44.96,
+      "end": 45.24,
+      "word": "fiume"
+    },
+    {
+      "start": 45.24,
+      "end": 45.88,
+      "word": "particolarmente"
+    },
+    {
+      "start": 45.88,
+      "end": 46.32,
+      "word": "limpida."
+    },
+    {
+      "start": 46.38,
+      "end": 46.46,
+      "word": "E"
+    },
+    {
+      "start": 46.46,
+      "end": 46.64,
+      "word": "appena"
+    },
+    {
+      "start": 46.64,
+      "end": 46.92,
+      "word": "usciti"
+    },
+    {
+      "start": 46.92,
+      "end": 47.12,
+      "word": "dal"
+    },
+    {
+      "start": 47.12,
+      "end": 47.38,
+      "word": "nostro"
+    },
+    {
+      "start": 47.38,
+      "end": 47.7,
+      "word": "bagno"
+    },
+    {
+      "start": 47.7,
+      "end": 47.82,
+      "word": "ci"
+    },
+    {
+      "start": 47.82,
+      "end": 47.98,
+      "word": "siamo"
+    },
+    {
+      "start": 47.98,
+      "end": 48.42,
+      "word": "accorti"
+    },
+    {
+      "start": 48.42,
+      "end": 48.54,
+      "word": "di"
+    },
+    {
+      "start": 48.54,
+      "end": 48.76,
+      "word": "essere"
+    },
+    {
+      "start": 48.76,
+      "end": 48.86,
+      "word": "in"
+    },
+    {
+      "start": 48.86,
+      "end": 49.28,
+      "word": "compagnia"
+    },
+    {
+      "start": 49.28,
+      "end": 49.38,
+      "word": "di"
+    },
+    {
+      "start": 49.38,
+      "end": 49.48,
+      "word": "un"
+    },
+    {
+      "start": 49.48,
+      "end": 50.14,
+      "word": "simpaticissimo"
+    },
+    {
+      "start": 50.14,
+      "end": 50.58,
+      "word": "alligatore."
+    },
+    {
+      "start": 50.8,
+      "end": 50.94,
+      "word": "Bello"
+    },
+    {
+      "start": 50.94,
+      "end": 51.32,
+      "word": "tranquillo,"
+    },
+    {
+      "start": 51.4,
+      "end": 51.46,
+      "word": "su"
+    },
+    {
+      "start": 51.46,
+      "end": 51.58,
+      "word": "un"
+    },
+    {
+      "start": 51.58,
+      "end": 51.84,
+      "word": "tronco"
+    },
+    {
+      "start": 51.84,
+      "end": 51.98,
+      "word": "che"
+    },
+    {
+      "start": 51.98,
+      "end": 52.34,
+      "word": "prendeva"
+    },
+    {
+      "start": 52.34,
+      "end": 52.42,
+      "word": "il"
+    },
+    {
+      "start": 52.42,
+      "end": 52.64,
+      "word": "sole."
+    },
+    {
+      "start": 52.74,
+      "end": 52.86,
+      "word": "Eh"
+    },
+    {
+      "start": 52.86,
+      "end": 53.0,
+      "word": "sì"
+    },
+    {
+      "start": 53.0,
+      "end": 53.32,
+      "word": "ragazzi"
+    },
+    {
+      "start": 53.32,
+      "end": 53.54,
+      "word": "questa"
+    },
+    {
+      "start": 53.54,
+      "end": 53.8,
+      "word": "è"
+    },
+    {
+      "start": 53.8,
+      "end": 53.8,
+      "word": "proprio"
+    },
+    {
+      "start": 53.8,
+      "end": 53.96,
+      "word": "la"
+    },
+    {
+      "start": 53.96,
+      "end": 54.2,
+      "word": "Florida."
+    },
+    {
+      "start": 54.2,
+      "end": 54.76,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 54.76,
+      "end": 54.9,
+      "word": "ci"
+    },
+    {
+      "start": 54.9,
+      "end": 55.08,
+      "word": "siamo"
+    },
+    {
+      "start": 55.08,
+      "end": 55.48,
+      "word": "spostati"
+    },
+    {
+      "start": 55.48,
+      "end": 55.58,
+      "word": "a"
+    },
+    {
+      "start": 55.58,
+      "end": 56.12,
+      "word": "Domosassa,"
+    },
+    {
+      "start": 56.26,
+      "end": 56.36,
+      "word": "un"
+    },
+    {
+      "start": 56.36,
+      "end": 56.64,
+      "word": "paesino"
+    },
+    {
+      "start": 56.64,
+      "end": 56.78,
+      "word": "gli"
+    },
+    {
+      "start": 56.78,
+      "end": 57.08,
+      "word": "accanto"
+    },
+    {
+      "start": 57.08,
+      "end": 57.26,
+      "word": "dove"
+    },
+    {
+      "start": 57.26,
+      "end": 57.4,
+      "word": "c"
+    },
+    {
+      "start": 57.4,
+      "end": 57.4,
+      "word": "'è"
+    },
+    {
+      "start": 57.4,
+      "end": 57.68,
+      "word": "questo"
+    },
+    {
+      "start": 57.68,
+      "end": 58.14,
+      "word": "parco"
+    },
+    {
+      "start": 58.14,
+      "end": 58.38,
+      "word": "pieno"
+    },
+    {
+      "start": 58.38,
+      "end": 58.46,
+      "word": "d"
+    },
+    {
+      "start": 58.46,
+      "end": 58.78,
+      "word": "'animali"
+    },
+    {
+      "start": 58.78,
+      "end": 58.92,
+      "word": "che"
+    },
+    {
+      "start": 58.92,
+      "end": 59.16,
+      "word": "magari"
+    },
+    {
+      "start": 59.16,
+      "end": 59.44,
+      "word": "devono"
+    },
+    {
+      "start": 59.44,
+      "end": 59.6,
+      "word": "essere"
+    },
+    {
+      "start": 59.6,
+      "end": 60.06,
+      "word": "curati"
+    },
+    {
+      "start": 60.06,
+      "end": 60.16,
+      "word": "o"
+    },
+    {
+      "start": 60.16,
+      "end": 60.24,
+      "word": "che"
+    },
+    {
+      "start": 60.24,
+      "end": 60.46,
+      "word": "comunque"
+    },
+    {
+      "start": 60.46,
+      "end": 60.66,
+      "word": "non"
+    },
+    {
+      "start": 60.66,
+      "end": 60.86,
+      "word": "possono"
+    },
+    {
+      "start": 60.86,
+      "end": 61.32,
+      "word": "vivere"
+    },
+    {
+      "start": 61.32,
+      "end": 61.44,
+      "word": "in"
+    },
+    {
+      "start": 61.44,
+      "end": 61.86,
+      "word": "libertà."
+    },
+    {
+      "start": 61.96,
+      "end": 61.98,
+      "word": "E"
+    },
+    {
+      "start": 61.98,
+      "end": 62.16,
+      "word": "dopo"
+    },
+    {
+      "start": 62.16,
+      "end": 62.36,
+      "word": "aver"
+    },
+    {
+      "start": 62.36,
+      "end": 62.58,
+      "word": "visto"
+    },
+    {
+      "start": 62.58,
+      "end": 62.96,
+      "word": "diversi"
+    },
+    {
+      "start": 62.96,
+      "end": 63.44,
+      "word": "volatili"
+    },
+    {
+      "start": 63.44,
+      "end": 63.62,
+      "word": "e"
+    },
+    {
+      "start": 63.62,
+      "end": 64.18,
+      "word": "letteralmente"
+    },
+    {
+      "start": 64.18,
+      "end": 64.32,
+      "word": "la"
+    },
+    {
+      "start": 64.32,
+      "end": 64.48,
+      "word": "scena"
+    },
+    {
+      "start": 64.48,
+      "end": 64.76,
+      "word": "più"
+    },
+    {
+      "start": 64.76,
+      "end": 65.28,
+      "word": "americana"
+    },
+    {
+      "start": 65.28,
+      "end": 65.4,
+      "word": "e"
+    },
+    {
+      "start": 65.4,
+      "end": 66.0,
+      "word": "patriottica"
+    },
+    {
+      "start": 66.0,
+      "end": 66.16,
+      "word": "che"
+    },
+    {
+      "start": 66.16,
+      "end": 66.28,
+      "word": "si"
+    },
+    {
+      "start": 66.28,
+      "end": 66.46,
+      "word": "possa"
+    },
+    {
+      "start": 66.46,
+      "end": 66.84,
+      "word": "essere,"
+    },
+    {
+      "start": 66.94,
+      "end": 67.08,
+      "word": "abbiamo"
+    },
+    {
+      "start": 67.08,
+      "end": 67.3,
+      "word": "visto"
+    },
+    {
+      "start": 67.3,
+      "end": 67.5,
+      "word": "degli"
+    },
+    {
+      "start": 67.5,
+      "end": 67.86,
+      "word": "alligatori"
+    },
+    {
+      "start": 67.86,
+      "end": 68.04,
+      "word": "che"
+    },
+    {
+      "start": 68.04,
+      "end": 68.16,
+      "word": "si"
+    },
+    {
+      "start": 68.16,
+      "end": 68.3,
+      "word": "sono"
+    },
+    {
+      "start": 68.3,
+      "end": 68.62,
+      "word": "abituati"
+    },
+    {
+      "start": 68.62,
+      "end": 68.82,
+      "word": "ad"
+    },
+    {
+      "start": 68.82,
+      "end": 69.36,
+      "word": "avvicinarsi"
+    },
+    {
+      "start": 69.36,
+      "end": 69.64,
+      "word": "troppo"
+    },
+    {
+      "start": 69.64,
+      "end": 69.76,
+      "word": "alle"
+    },
+    {
+      "start": 69.76,
+      "end": 70.14,
+      "word": "persone"
+    },
+    {
+      "start": 70.14,
+      "end": 70.38,
+      "word": "e"
+    },
+    {
+      "start": 70.38,
+      "end": 70.6,
+      "word": "quindi"
+    },
+    {
+      "start": 70.6,
+      "end": 70.8,
+      "word": "sono"
+    },
+    {
+      "start": 70.8,
+      "end": 71.04,
+      "word": "stati"
+    },
+    {
+      "start": 71.04,
+      "end": 71.6,
+      "word": "considerati"
+    },
+    {
+      "start": 71.6,
+      "end": 71.9,
+      "word": "troppo"
+    },
+    {
+      "start": 71.9,
+      "end": 72.44,
+      "word": "pericolosi."
+    },
+    {
+      "start": 72.52,
+      "end": 72.72,
+      "word": "Poi"
+    },
+    {
+      "start": 72.72,
+      "end": 72.96,
+      "word": "un"
+    },
+    {
+      "start": 72.96,
+      "end": 73.6,
+      "word": "bellissimo"
+    },
+    {
+      "start": 73.6,
+      "end": 74.04,
+      "word": "puma"
+    },
+    {
+      "start": 74.04,
+      "end": 74.24,
+      "word": "ed"
+    },
+    {
+      "start": 74.24,
+      "end": 74.46,
+      "word": "infine"
+    },
+    {
+      "start": 74.46,
+      "end": 74.64,
+      "word": "siamo"
+    },
+    {
+      "start": 74.64,
+      "end": 75.0,
+      "word": "passati"
+    },
+    {
+      "start": 75.0,
+      "end": 75.12,
+      "word": "alla"
+    },
+    {
+      "start": 75.12,
+      "end": 75.46,
+      "word": "sezione"
+    },
+    {
+      "start": 75.46,
+      "end": 75.64,
+      "word": "dei"
+    },
+    {
+      "start": 75.64,
+      "end": 75.98,
+      "word": "rettili"
+    },
+    {
+      "start": 75.98,
+      "end": 76.12,
+      "word": "che"
+    },
+    {
+      "start": 76.12,
+      "end": 76.34,
+      "word": "comunque"
+    },
+    {
+      "start": 76.34,
+      "end": 76.56,
+      "word": "è"
+    },
+    {
+      "start": 76.56,
+      "end": 76.74,
+      "word": "sempre"
+    },
+    {
+      "start": 76.74,
+      "end": 76.98,
+      "word": "molto"
+    },
+    {
+      "start": 76.98,
+      "end": 77.6,
+      "word": "affascinante."
+    },
+    {
+      "start": 77.74,
+      "end": 77.92,
+      "word": "Insomma"
+    },
+    {
+      "start": 77.92,
+      "end": 78.1,
+      "word": "un"
+    },
+    {
+      "start": 78.1,
+      "end": 78.3,
+      "word": "parco"
+    },
+    {
+      "start": 78.3,
+      "end": 78.58,
+      "word": "carino"
+    },
+    {
+      "start": 78.58,
+      "end": 78.74,
+      "word": "dove"
+    },
+    {
+      "start": 78.74,
+      "end": 79.08,
+      "word": "spendere"
+    },
+    {
+      "start": 79.08,
+      "end": 79.26,
+      "word": "comunque"
+    },
+    {
+      "start": 79.26,
+      "end": 79.46,
+      "word": "un"
+    },
+    {
+      "start": 79.46,
+      "end": 79.64,
+      "word": "paio"
+    },
+    {
+      "start": 79.64,
+      "end": 79.78,
+      "word": "di"
+    },
+    {
+      "start": 79.78,
+      "end": 80.16,
+      "word": "orette."
+    },
+    {
+      "start": 80.28,
+      "end": 80.42,
+      "word": "Ah"
+    },
+    {
+      "start": 80.42,
+      "end": 80.5,
+      "word": "e"
+    },
+    {
+      "start": 80.5,
+      "end": 80.82,
+      "word": "ovviamente"
+    },
+    {
+      "start": 80.82,
+      "end": 81.08,
+      "word": "non"
+    },
+    {
+      "start": 81.08,
+      "end": 81.42,
+      "word": "potevano"
+    },
+    {
+      "start": 81.42,
+      "end": 81.72,
+      "word": "mancare"
+    },
+    {
+      "start": 81.72,
+      "end": 81.9,
+      "word": "i"
+    },
+    {
+      "start": 81.9,
+      "end": 82.32,
+      "word": "lamentini"
+    },
+    {
+      "start": 82.32,
+      "end": 82.5,
+      "word": "anche"
+    },
+    {
+      "start": 82.5,
+      "end": 82.78,
+      "word": "qui."
+    },
+    {
+      "start": 82.78,
+      "end": 83.18,
+      "word": "Animale"
+    },
+    {
+      "start": 83.18,
+      "end": 83.24,
+      "word": "che"
+    },
+    {
+      "start": 83.24,
+      "end": 83.52,
+      "word": "credo"
+    },
+    {
+      "start": 83.52,
+      "end": 83.64,
+      "word": "sia"
+    },
+    {
+      "start": 83.64,
+      "end": 84.08,
+      "word": "diventato"
+    },
+    {
+      "start": 84.08,
+      "end": 84.26,
+      "word": "di"
+    },
+    {
+      "start": 84.26,
+      "end": 84.62,
+      "word": "diritto"
+    },
+    {
+      "start": 84.62,
+      "end": 84.72,
+      "word": "il"
+    },
+    {
+      "start": 84.72,
+      "end": 84.76,
+      "word": "mio"
+    },
+    {
+      "start": 84.76,
+      "end": 84.98,
+      "word": "animale"
+    },
+    {
+      "start": 84.98,
+      "end": 85.4,
+      "word": "preferito."
+    },
+    {
+      "start": 85.46,
+      "end": 85.54,
+      "word": "In"
+    },
+    {
+      "start": 85.54,
+      "end": 85.7,
+      "word": "ogni"
+    },
+    {
+      "start": 85.7,
+      "end": 85.96,
+      "word": "caso"
+    },
+    {
+      "start": 85.96,
+      "end": 86.12,
+      "word": "poi"
+    },
+    {
+      "start": 86.12,
+      "end": 86.22,
+      "word": "ci"
+    },
+    {
+      "start": 86.22,
+      "end": 86.36,
+      "word": "siamo"
+    },
+    {
+      "start": 86.36,
+      "end": 86.7,
+      "word": "fermati"
+    },
+    {
+      "start": 86.7,
+      "end": 86.8,
+      "word": "a"
+    },
+    {
+      "start": 86.8,
+      "end": 87.26,
+      "word": "pranzare"
+    },
+    {
+      "start": 87.26,
+      "end": 87.5,
+      "word": "dal"
+    },
+    {
+      "start": 87.5,
+      "end": 87.8,
+      "word": "Little"
+    },
+    {
+      "start": 87.8,
+      "end": 88.12,
+      "word": "Caesar"
+    },
+    {
+      "start": 88.12,
+      "end": 88.52,
+      "word": "Pizza"
+    },
+    {
+      "start": 88.52,
+      "end": 88.9,
+      "word": "per"
+    },
+    {
+      "start": 88.9,
+      "end": 89.3,
+      "word": "provare"
+    },
+    {
+      "start": 89.3,
+      "end": 89.44,
+      "word": "una"
+    },
+    {
+      "start": 89.44,
+      "end": 89.76,
+      "word": "vera"
+    },
+    {
+      "start": 89.76,
+      "end": 90.0,
+      "word": "pizza"
+    },
+    {
+      "start": 90.0,
+      "end": 90.64,
+      "word": "americana"
+    },
+    {
+      "start": 90.64,
+      "end": 90.84,
+      "word": "che"
+    },
+    {
+      "start": 90.84,
+      "end": 91.02,
+      "word": "mi"
+    },
+    {
+      "start": 91.02,
+      "end": 91.44,
+      "word": "mancava"
+    },
+    {
+      "start": 91.44,
+      "end": 91.82,
+      "word": "decisamente"
+    },
+    {
+      "start": 91.82,
+      "end": 92.32,
+      "word": "troppo"
+    },
+    {
+      "start": 92.32,
+      "end": 92.42,
+      "word": "e"
+    },
+    {
+      "start": 92.42,
+      "end": 92.54,
+      "word": "non"
+    },
+    {
+      "start": 92.54,
+      "end": 92.88,
+      "word": "vedevo"
+    },
+    {
+      "start": 92.88,
+      "end": 92.98,
+      "word": "l"
+    },
+    {
+      "start": 92.98,
+      "end": 93.04,
+      "word": "'ora"
+    },
+    {
+      "start": 93.04,
+      "end": 93.2,
+      "word": "di"
+    },
+    {
+      "start": 93.2,
+      "end": 93.58,
+      "word": "provare."
+    },
+    {
+      "start": 93.68,
+      "end": 93.84,
+      "word": "Little"
+    },
+    {
+      "start": 93.84,
+      "end": 94.3,
+      "word": "Caesar"
+    },
+    {
+      "start": 94.3,
+      "end": 94.5,
+      "word": "è"
+    },
+    {
+      "start": 94.5,
+      "end": 94.58,
+      "word": "tra"
+    },
+    {
+      "start": 94.58,
+      "end": 94.7,
+      "word": "l"
+    },
+    {
+      "start": 94.7,
+      "end": 94.74,
+      "word": "'altro"
+    },
+    {
+      "start": 94.74,
+      "end": 94.88,
+      "word": "la"
+    },
+    {
+      "start": 94.88,
+      "end": 94.96,
+      "word": "mia"
+    },
+    {
+      "start": 94.96,
+      "end": 95.24,
+      "word": "catena"
+    },
+    {
+      "start": 95.24,
+      "end": 95.42,
+      "word": "di"
+    },
+    {
+      "start": 95.42,
+      "end": 95.62,
+      "word": "pizza"
+    },
+    {
+      "start": 95.62,
+      "end": 96.12,
+      "word": "americana"
+    },
+    {
+      "start": 96.12,
+      "end": 96.64,
+      "word": "preferita"
+    },
+    {
+      "start": 96.64,
+      "end": 96.76,
+      "word": "e"
+    },
+    {
+      "start": 96.76,
+      "end": 96.8,
+      "word": "di"
+    },
+    {
+      "start": 96.8,
+      "end": 96.92,
+      "word": "fatto"
+    },
+    {
+      "start": 96.92,
+      "end": 97.12,
+      "word": "abbiamo"
+    },
+    {
+      "start": 97.12,
+      "end": 97.52,
+      "word": "provato"
+    },
+    {
+      "start": 97.52,
+      "end": 97.66,
+      "word": "la"
+    },
+    {
+      "start": 97.66,
+      "end": 97.84,
+      "word": "loro"
+    },
+    {
+      "start": 97.84,
+      "end": 98.24,
+      "word": "peperoni"
+    },
+    {
+      "start": 98.24,
+      "end": 98.76,
+      "word": "classica"
+    },
+    {
+      "start": 98.76,
+      "end": 98.88,
+      "word": "e"
+    },
+    {
+      "start": 98.88,
+      "end": 98.98,
+      "word": "la"
+    },
+    {
+      "start": 98.98,
+      "end": 99.12,
+      "word": "loro"
+    },
+    {
+      "start": 99.12,
+      "end": 99.56,
+      "word": "Detroit"
+    },
+    {
+      "start": 99.56,
+      "end": 99.94,
+      "word": "style"
+    },
+    {
+      "start": 99.94,
+      "end": 100.44,
+      "word": "pizza"
+    },
+    {
+      "start": 100.44,
+      "end": 100.7,
+      "word": "con"
+    },
+    {
+      "start": 100.7,
+      "end": 101.18,
+      "word": "peperoni"
+    },
+    {
+      "start": 101.18,
+      "end": 101.74,
+      "word": "salsiccia."
+    },
+    {
+      "start": 101.82,
+      "end": 101.84,
+      "word": "Come"
+    },
+    {
+      "start": 101.84,
+      "end": 102.06,
+      "word": "potete"
+    },
+    {
+      "start": 102.06,
+      "end": 102.28,
+      "word": "vedere"
+    },
+    {
+      "start": 102.28,
+      "end": 102.54,
+      "word": "questa"
+    },
+    {
+      "start": 102.54,
+      "end": 102.88,
+      "word": "seconda"
+    },
+    {
+      "start": 102.88,
+      "end": 103.1,
+      "word": "pizza"
+    },
+    {
+      "start": 103.1,
+      "end": 103.24,
+      "word": "è"
+    },
+    {
+      "start": 103.24,
+      "end": 103.46,
+      "word": "molto"
+    },
+    {
+      "start": 103.46,
+      "end": 103.66,
+      "word": "più"
+    },
+    {
+      "start": 103.66,
+      "end": 103.88,
+      "word": "alta,"
+    },
+    {
+      "start": 104.04,
+      "end": 104.18,
+      "word": "molto"
+    },
+    {
+      "start": 104.18,
+      "end": 104.36,
+      "word": "più"
+    },
+    {
+      "start": 104.36,
+      "end": 104.74,
+      "word": "spessa,"
+    },
+    {
+      "start": 104.88,
+      "end": 105.02,
+      "word": "ma"
+    },
+    {
+      "start": 105.02,
+      "end": 105.18,
+      "word": "è"
+    },
+    {
+      "start": 105.18,
+      "end": 105.96,
+      "word": "letteralmente"
+    },
+    {
+      "start": 105.96,
+      "end": 106.56,
+      "word": "clamo"
+    },
+    {
+      "start": 106.56,
+      "end": 107.42,
+      "word": "rosa."
+    },
+    {
+      "start": 107.42,
+      "end": 107.66,
+      "word": "In"
+    },
+    {
+      "start": 107.66,
+      "end": 107.82,
+      "word": "quanto"
+    },
+    {
+      "start": 107.82,
+      "end": 108.08,
+      "word": "sul"
+    },
+    {
+      "start": 108.08,
+      "end": 108.24,
+      "word": "bordo"
+    },
+    {
+      "start": 108.24,
+      "end": 108.44,
+      "word": "la"
+    },
+    {
+      "start": 108.44,
+      "end": 108.72,
+      "word": "mozzarella"
+    },
+    {
+      "start": 108.72,
+      "end": 109.12,
+      "word": "crea"
+    },
+    {
+      "start": 109.12,
+      "end": 109.24,
+      "word": "una"
+    },
+    {
+      "start": 109.24,
+      "end": 109.84,
+      "word": "crosticina"
+    },
+    {
+      "start": 109.84,
+      "end": 110.58,
+      "word": "devastante"
+    },
+    {
+      "start": 110.58,
+      "end": 110.74,
+      "word": "che"
+    },
+    {
+      "start": 110.74,
+      "end": 110.84,
+      "word": "la"
+    },
+    {
+      "start": 110.84,
+      "end": 111.04,
+      "word": "rende"
+    },
+    {
+      "start": 111.04,
+      "end": 111.18,
+      "word": "una"
+    },
+    {
+      "start": 111.18,
+      "end": 111.3,
+      "word": "delle"
+    },
+    {
+      "start": 111.3,
+      "end": 111.5,
+      "word": "mie"
+    },
+    {
+      "start": 111.5,
+      "end": 111.9,
+      "word": "tipologie"
+    },
+    {
+      "start": 111.9,
+      "end": 112.08,
+      "word": "di"
+    },
+    {
+      "start": 112.08,
+      "end": 112.28,
+      "word": "pizza"
+    },
+    {
+      "start": 112.28,
+      "end": 112.76,
+      "word": "preferite."
+    },
+    {
+      "start": 112.86,
+      "end": 112.92,
+      "word": "Po'"
+    },
+    {
+      "start": 112.94,
+      "end": 113.2,
+      "word": "merigio"
+    },
+    {
+      "start": 113.2,
+      "end": 113.32,
+      "word": "che"
+    },
+    {
+      "start": 113.32,
+      "end": 113.48,
+      "word": "invece"
+    },
+    {
+      "start": 113.48,
+      "end": 113.68,
+      "word": "abbiamo"
+    },
+    {
+      "start": 113.68,
+      "end": 114.02,
+      "word": "passato"
+    },
+    {
+      "start": 114.02,
+      "end": 114.12,
+      "word": "in"
+    },
+    {
+      "start": 114.12,
+      "end": 114.38,
+      "word": "viaggio"
+    },
+    {
+      "start": 114.38,
+      "end": 114.52,
+      "word": "per"
+    },
+    {
+      "start": 114.52,
+      "end": 114.8,
+      "word": "arrivare"
+    },
+    {
+      "start": 114.8,
+      "end": 114.9,
+      "word": "a"
+    },
+    {
+      "start": 114.9,
+      "end": 114.98,
+      "word": "St."
+    },
+    {
+      "start": 115.18,
+      "end": 115.58,
+      "word": "Augustine,"
+    },
+    {
+      "start": 115.64,
+      "end": 115.72,
+      "word": "la"
+    },
+    {
+      "start": 115.72,
+      "end": 116.1,
+      "word": "città"
+    },
+    {
+      "start": 116.1,
+      "end": 116.28,
+      "word": "più"
+    },
+    {
+      "start": 116.28,
+      "end": 116.64,
+      "word": "antica"
+    },
+    {
+      "start": 116.64,
+      "end": 116.82,
+      "word": "di"
+    },
+    {
+      "start": 116.82,
+      "end": 117.0,
+      "word": "tutti"
+    },
+    {
+      "start": 117.0,
+      "end": 117.18,
+      "word": "gli"
+    },
+    {
+      "start": 117.18,
+      "end": 117.4,
+      "word": "Stati"
+    },
+    {
+      "start": 117.4,
+      "end": 117.7,
+      "word": "Uniti"
+    },
+    {
+      "start": 117.7,
+      "end": 117.92,
+      "word": "dove"
+    },
+    {
+      "start": 117.92,
+      "end": 118.16,
+      "word": "però"
+    },
+    {
+      "start": 118.16,
+      "end": 118.38,
+      "word": "essendo"
+    },
+    {
+      "start": 118.38,
+      "end": 118.58,
+      "word": "già"
+    },
+    {
+      "start": 118.58,
+      "end": 118.86,
+      "word": "tardi"
+    },
+    {
+      "start": 118.86,
+      "end": 119.0,
+      "word": "ci"
+    },
+    {
+      "start": 119.0,
+      "end": 119.16,
+      "word": "siamo"
+    },
+    {
+      "start": 119.16,
+      "end": 119.5,
+      "word": "limitati"
+    },
+    {
+      "start": 119.5,
+      "end": 119.6,
+      "word": "a"
+    },
+    {
+      "start": 119.6,
+      "end": 119.72,
+      "word": "fare"
+    },
+    {
+      "start": 119.72,
+      "end": 119.84,
+      "word": "un"
+    },
+    {
+      "start": 119.84,
+      "end": 120.14,
+      "word": "girete"
+    },
+    {
+      "start": 120.14,
+      "end": 120.22,
+      "word": "e"
+    },
+    {
+      "start": 120.22,
+      "end": 120.32,
+      "word": "andare"
+    },
+    {
+      "start": 120.32,
+      "end": 120.72,
+      "word": "subito"
+    },
+    {
+      "start": 120.72,
+      "end": 120.8,
+      "word": "a"
+    },
+    {
+      "start": 120.8,
+      "end": 121.0,
+      "word": "cena."
+    },
+    {
+      "start": 121.08,
+      "end": 121.16,
+      "word": "Da"
+    },
+    {
+      "start": 121.16,
+      "end": 121.56,
+      "word": "Columbia"
+    },
+    {
+      "start": 121.56,
+      "end": 122.08,
+      "word": "Restaurant,"
+    },
+    {
+      "start": 122.32,
+      "end": 122.36,
+      "word": "che"
+    },
+    {
+      "start": 122.36,
+      "end": 122.42,
+      "word": "è"
+    },
+    {
+      "start": 122.42,
+      "end": 122.46,
+      "word": "uno"
+    },
+    {
+      "start": 122.46,
+      "end": 122.58,
+      "word": "dei"
+    },
+    {
+      "start": 122.58,
+      "end": 122.96,
+      "word": "ristoranti"
+    },
+    {
+      "start": 122.96,
+      "end": 123.14,
+      "word": "più"
+    },
+    {
+      "start": 123.14,
+      "end": 123.42,
+      "word": "famosi"
+    },
+    {
+      "start": 123.42,
+      "end": 123.6,
+      "word": "della"
+    },
+    {
+      "start": 123.6,
+      "end": 124.06,
+      "word": "città"
+    },
+    {
+      "start": 124.06,
+      "end": 124.2,
+      "word": "che"
+    },
+    {
+      "start": 124.2,
+      "end": 124.52,
+      "word": "propone"
+    },
+    {
+      "start": 124.52,
+      "end": 124.86,
+      "word": "cucina"
+    },
+    {
+      "start": 124.86,
+      "end": 125.28,
+      "word": "spagnola"
+    },
+    {
+      "start": 125.28,
+      "end": 125.7,
+      "word": "cubana."
+    },
+    {
+      "start": 125.8,
+      "end": 125.86,
+      "word": "Dopo"
+    },
+    {
+      "start": 125.86,
+      "end": 126.02,
+      "word": "aver"
+    },
+    {
+      "start": 126.02,
+      "end": 126.36,
+      "word": "iniziato"
+    },
+    {
+      "start": 126.36,
+      "end": 126.5,
+      "word": "da"
+    },
+    {
+      "start": 126.5,
+      "end": 126.6,
+      "word": "un"
+    },
+    {
+      "start": 126.6,
+      "end": 127.08,
+      "word": "antipasto"
+    },
+    {
+      "start": 127.08,
+      "end": 127.26,
+      "word": "di"
+    },
+    {
+      "start": 127.26,
+      "end": 127.46,
+      "word": "pane"
+    },
+    {
+      "start": 127.46,
+      "end": 127.64,
+      "word": "col"
+    },
+    {
+      "start": 127.64,
+      "end": 128.02,
+      "word": "burro,"
+    },
+    {
+      "start": 128.08,
+      "end": 128.14,
+      "word": "ho"
+    },
+    {
+      "start": 128.14,
+      "end": 128.38,
+      "word": "preso"
+    },
+    {
+      "start": 128.38,
+      "end": 128.46,
+      "word": "un"
+    },
+    {
+      "start": 128.46,
+      "end": 128.72,
+      "word": "piatto"
+    },
+    {
+      "start": 128.72,
+      "end": 129.1,
+      "word": "misto"
+    },
+    {
+      "start": 129.1,
+      "end": 129.22,
+      "word": "di"
+    },
+    {
+      "start": 129.22,
+      "end": 129.44,
+      "word": "cibo"
+    },
+    {
+      "start": 129.44,
+      "end": 129.88,
+      "word": "cubano"
+    },
+    {
+      "start": 129.88,
+      "end": 130.18,
+      "word": "con"
+    },
+    {
+      "start": 130.18,
+      "end": 130.36,
+      "word": "del"
+    },
+    {
+      "start": 130.36,
+      "end": 130.7,
+      "word": "maiale"
+    },
+    {
+      "start": 130.7,
+      "end": 131.12,
+      "word": "arrosto"
+    },
+    {
+      "start": 131.12,
+      "end": 131.9,
+      "word": "sfidacciato,"
+    },
+    {
+      "start": 132.04,
+      "end": 132.34,
+      "word": "super"
+    },
+    {
+      "start": 132.34,
+      "end": 132.78,
+      "word": "morbido"
+    },
+    {
+      "start": 132.78,
+      "end": 132.86,
+      "word": "e"
+    },
+    {
+      "start": 132.86,
+      "end": 133.32,
+      "word": "saporito,"
+    },
+    {
+      "start": 133.48,
+      "end": 133.5,
+      "word": "dei"
+    },
+    {
+      "start": 133.5,
+      "end": 133.8,
+      "word": "faccialli"
+    },
+    {
+      "start": 133.8,
+      "end": 133.98,
+      "word": "neri"
+    },
+    {
+      "start": 133.98,
+      "end": 134.14,
+      "word": "con"
+    },
+    {
+      "start": 134.14,
+      "end": 134.24,
+      "word": "la"
+    },
+    {
+      "start": 134.24,
+      "end": 134.6,
+      "word": "cipolla"
+    },
+    {
+      "start": 134.6,
+      "end": 134.8,
+      "word": "del"
+    },
+    {
+      "start": 134.8,
+      "end": 135.12,
+      "word": "riso"
+    },
+    {
+      "start": 135.12,
+      "end": 135.48,
+      "word": "giallo,"
+    },
+    {
+      "start": 135.48,
+      "end": 135.68,
+      "word": "la"
+    },
+    {
+      "start": 135.68,
+      "end": 136.06,
+      "word": "yuca"
+    },
+    {
+      "start": 136.06,
+      "end": 136.18,
+      "word": "che"
+    },
+    {
+      "start": 136.18,
+      "end": 136.5,
+      "word": "sarebbe"
+    },
+    {
+      "start": 136.5,
+      "end": 136.6,
+      "word": "un"
+    },
+    {
+      "start": 136.6,
+      "end": 137.08,
+      "word": "tubero,"
+    },
+    {
+      "start": 137.12,
+      "end": 137.24,
+      "word": "una"
+    },
+    {
+      "start": 137.24,
+      "end": 137.48,
+      "word": "sorta"
+    },
+    {
+      "start": 137.48,
+      "end": 137.7,
+      "word": "di"
+    },
+    {
+      "start": 137.7,
+      "end": 137.98,
+      "word": "arrosto"
+    },
+    {
+      "start": 137.98,
+      "end": 138.12,
+      "word": "di"
+    },
+    {
+      "start": 138.12,
+      "end": 138.52,
+      "word": "manzo,"
+    },
+    {
+      "start": 138.6,
+      "end": 138.7,
+      "word": "un"
+    },
+    {
+      "start": 138.7,
+      "end": 139.22,
+      "word": "empanada"
+    },
+    {
+      "start": 139.22,
+      "end": 139.38,
+      "word": "sed"
+    },
+    {
+      "start": 139.38,
+      "end": 139.7,
+      "word": "infine"
+    },
+    {
+      "start": 139.7,
+      "end": 139.86,
+      "word": "del"
+    },
+    {
+      "start": 139.86,
+      "end": 140.36,
+      "word": "platano"
+    },
+    {
+      "start": 140.36,
+      "end": 140.48,
+      "word": "che"
+    },
+    {
+      "start": 140.48,
+      "end": 140.62,
+      "word": "con"
+    },
+    {
+      "start": 140.62,
+      "end": 140.72,
+      "word": "la"
+    },
+    {
+      "start": 140.72,
+      "end": 140.82,
+      "word": "sua"
+    },
+    {
+      "start": 140.82,
+      "end": 141.06,
+      "word": "esterma"
+    },
+    {
+      "start": 141.06,
+      "end": 141.58,
+      "word": "dolcezza"
+    },
+    {
+      "start": 141.58,
+      "end": 141.66,
+      "word": "è"
+    },
+    {
+      "start": 141.66,
+      "end": 141.8,
+      "word": "quello"
+    },
+    {
+      "start": 141.8,
+      "end": 141.9,
+      "word": "che"
+    },
+    {
+      "start": 141.9,
+      "end": 142.0,
+      "word": "mi"
+    },
+    {
+      "start": 142.0,
+      "end": 142.04,
+      "word": "ha"
+    },
+    {
+      "start": 142.04,
+      "end": 142.36,
+      "word": "stupito"
+    },
+    {
+      "start": 142.36,
+      "end": 142.46,
+      "word": "di"
+    },
+    {
+      "start": 142.46,
+      "end": 142.6,
+      "word": "più"
+    },
+    {
+      "start": 142.6,
+      "end": 142.68,
+      "word": "e"
+    },
+    {
+      "start": 142.68,
+      "end": 142.78,
+      "word": "si"
+    },
+    {
+      "start": 142.78,
+      "end": 143.02,
+      "word": "conclude"
+    },
+    {
+      "start": 143.02,
+      "end": 143.2,
+      "word": "la"
+    },
+    {
+      "start": 143.2,
+      "end": 143.52,
+      "word": "serata"
+    },
+    {
+      "start": 143.52,
+      "end": 143.7,
+      "word": "con"
+    },
+    {
+      "start": 143.7,
+      "end": 143.8,
+      "word": "un"
+    },
+    {
+      "start": 143.8,
+      "end": 144.0,
+      "word": "giro"
+    },
+    {
+      "start": 144.0,
+      "end": 144.1,
+      "word": "per"
+    },
+    {
+      "start": 144.1,
+      "end": 144.24,
+      "word": "St."
+    },
+    {
+      "start": 144.52,
+      "end": 144.82,
+      "word": "Augustine"
+    },
+    {
+      "start": 144.82,
+      "end": 144.96,
+      "word": "ed"
+    },
+    {
+      "start": 144.96,
+      "end": 145.04,
+      "word": "a"
+    },
+    {
+      "start": 145.04,
+      "end": 145.48,
+      "word": "Walgreens."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.033,
+      "dur": 2.033,
+      "transcript": "Giornino nove del mio viaggio in Florida è la scoperta"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.033,
+      "end": 4.033,
+      "dur": 2.0,
+      "transcript": "della vera cucina americana. Oggi giornata"
+    },
+    {
+      "shot_idx": 2,
+      "start": 4.033,
+      "end": 6.033,
+      "dur": 2.0,
+      "transcript": "clamorosa con un po' di cibo tipico e un"
+    },
+    {
+      "shot_idx": 3,
+      "start": 6.033,
+      "end": 9.833,
+      "dur": 3.8,
+      "transcript": "'esperienza devastante. Ci troviamo a Cristar River e proprio per questa esperienza di cui"
+    },
+    {
+      "shot_idx": 4,
+      "start": 9.833,
+      "end": 11.833,
+      "dur": 2.0,
+      "transcript": "vi parlavo ci siamo dovuti svegliare alle sei."
+    },
+    {
+      "shot_idx": 5,
+      "start": 11.833,
+      "end": 13.633,
+      "dur": 1.8,
+      "transcript": "Collazione al sacco e si esce. In modo da"
+    },
+    {
+      "shot_idx": 6,
+      "start": 13.633,
+      "end": 16.167,
+      "dur": 2.533,
+      "transcript": "essere pronti per partire con il tour per nuotare con"
+    },
+    {
+      "shot_idx": 7,
+      "start": 16.167,
+      "end": 17.967,
+      "dur": 1.8,
+      "transcript": "i lamanthini. Che appunto sono l 'attrazione"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.967,
+      "end": 19.733,
+      "dur": 1.767,
+      "transcript": "principale di questo paese e in generale"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.733,
+      "end": 21.9,
+      "dur": 2.167,
+      "transcript": "di questa parte della Florida. Fortunatamente"
+    },
+    {
+      "shot_idx": 10,
+      "start": 21.9,
+      "end": 23.7,
+      "dur": 1.8,
+      "transcript": "grazie alle nostre guide abbiamo subito trovato una"
+    },
+    {
+      "shot_idx": 11,
+      "start": 23.7,
+      "end": 28.3,
+      "dur": 4.6,
+      "transcript": "coppia, una mamma e un figlio letto molto molto carini ma letteralmente giganteschi e"
+    },
+    {
+      "shot_idx": 12,
+      "start": 28.3,
+      "end": 30.3,
+      "dur": 2.0,
+      "transcript": "armati di muta, maschera e boccaglio ci siamo subito"
+    },
+    {
+      "shot_idx": 13,
+      "start": 30.3,
+      "end": 32.1,
+      "dur": 1.8,
+      "transcript": "immersi. E' sicuro ragazzi che è stata un 'esperienza"
+    },
+    {
+      "shot_idx": 14,
+      "start": 32.1,
+      "end": 33.7,
+      "dur": 1.6,
+      "transcript": "clamorosa vedere questi animali"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.7,
+      "end": 35.533,
+      "dur": 1.833,
+      "transcript": "così grandi ma allo stesso tempo"
+    },
+    {
+      "shot_idx": 16,
+      "start": 35.533,
+      "end": 36.833,
+      "dur": 1.3,
+      "transcript": "così innocui. Beh a"
+    },
+    {
+      "shot_idx": 17,
+      "start": 36.833,
+      "end": 38.433,
+      "dur": 1.6,
+      "transcript": "distanza di praticamente pochi centimetri."
+    },
+    {
+      "shot_idx": 18,
+      "start": 38.433,
+      "end": 40.6,
+      "dur": 2.167,
+      "transcript": "Poi abbiamo sissito anche a questo strano fenomeno di questi"
+    },
+    {
+      "shot_idx": 19,
+      "start": 40.6,
+      "end": 44.1,
+      "dur": 3.5,
+      "transcript": "pesci che saltavano letteralmente fuori dall 'acqua. Per poi goderci un bel bagnetto"
+    },
+    {
+      "shot_idx": 20,
+      "start": 44.1,
+      "end": 46.133,
+      "dur": 2.033,
+      "transcript": "in questa parte del fiume particolarmente limpida."
+    },
+    {
+      "shot_idx": 21,
+      "start": 46.133,
+      "end": 47.0,
+      "dur": 0.867,
+      "transcript": "E appena usciti"
+    },
+    {
+      "shot_idx": 22,
+      "start": 47.0,
+      "end": 48.633,
+      "dur": 1.633,
+      "transcript": "dal nostro bagno ci siamo accorti di"
+    },
+    {
+      "shot_idx": 23,
+      "start": 48.633,
+      "end": 50.6,
+      "dur": 1.967,
+      "transcript": "essere in compagnia di un simpaticissimo alligatore."
+    },
+    {
+      "shot_idx": 24,
+      "start": 50.6,
+      "end": 53.067,
+      "dur": 2.467,
+      "transcript": "Bello tranquillo, su un tronco che prendeva il sole. Eh sì"
+    },
+    {
+      "shot_idx": 25,
+      "start": 53.067,
+      "end": 55.1,
+      "dur": 2.033,
+      "transcript": "ragazzi questa è proprio la Florida. Dopodiché ci siamo"
+    },
+    {
+      "shot_idx": 26,
+      "start": 55.1,
+      "end": 57.067,
+      "dur": 1.967,
+      "transcript": "spostati a Domosassa, un paesino gli accanto"
+    },
+    {
+      "shot_idx": 27,
+      "start": 57.067,
+      "end": 59.067,
+      "dur": 2.0,
+      "transcript": "dove c 'è questo parco pieno d 'animali che magari"
+    },
+    {
+      "shot_idx": 28,
+      "start": 59.067,
+      "end": 59.733,
+      "dur": 0.667,
+      "transcript": "devono essere"
+    },
+    {
+      "shot_idx": 29,
+      "start": 59.733,
+      "end": 61.1,
+      "dur": 1.367,
+      "transcript": "curati o che comunque non possono vivere"
+    },
+    {
+      "shot_idx": 30,
+      "start": 61.1,
+      "end": 62.6,
+      "dur": 1.5,
+      "transcript": "in libertà. E dopo aver visto"
+    },
+    {
+      "shot_idx": 31,
+      "start": 62.6,
+      "end": 64.2,
+      "dur": 1.6,
+      "transcript": "diversi volatili e letteralmente"
+    },
+    {
+      "shot_idx": 32,
+      "start": 64.2,
+      "end": 66.1,
+      "dur": 1.9,
+      "transcript": "la scena più americana e patriottica che"
+    },
+    {
+      "shot_idx": 33,
+      "start": 66.1,
+      "end": 68.267,
+      "dur": 2.167,
+      "transcript": "si possa essere, abbiamo visto degli alligatori che si sono"
+    },
+    {
+      "shot_idx": 34,
+      "start": 68.267,
+      "end": 69.033,
+      "dur": 0.767,
+      "transcript": "abituati ad"
+    },
+    {
+      "shot_idx": 35,
+      "start": 69.033,
+      "end": 70.667,
+      "dur": 1.633,
+      "transcript": "avvicinarsi troppo alle persone e quindi"
+    },
+    {
+      "shot_idx": 36,
+      "start": 70.667,
+      "end": 71.267,
+      "dur": 0.6,
+      "transcript": "sono stati"
+    },
+    {
+      "shot_idx": 37,
+      "start": 71.267,
+      "end": 73.767,
+      "dur": 2.5,
+      "transcript": "considerati troppo pericolosi. Poi un bellissimo"
+    },
+    {
+      "shot_idx": 38,
+      "start": 73.767,
+      "end": 76.0,
+      "dur": 2.233,
+      "transcript": "puma ed infine siamo passati alla sezione dei rettili"
+    },
+    {
+      "shot_idx": 39,
+      "start": 76.0,
+      "end": 77.867,
+      "dur": 1.867,
+      "transcript": "che comunque è sempre molto affascinante. Insomma"
+    },
+    {
+      "shot_idx": 40,
+      "start": 77.867,
+      "end": 79.367,
+      "dur": 1.5,
+      "transcript": "un parco carino dove spendere comunque un"
+    },
+    {
+      "shot_idx": 41,
+      "start": 79.367,
+      "end": 80.0,
+      "dur": 0.633,
+      "transcript": "paio di orette."
+    },
+    {
+      "shot_idx": 42,
+      "start": 80.0,
+      "end": 82.133,
+      "dur": 2.133,
+      "transcript": "Ah e ovviamente non potevano mancare i lamentini"
+    },
+    {
+      "shot_idx": 43,
+      "start": 82.133,
+      "end": 85.4,
+      "dur": 3.267,
+      "transcript": "anche qui. Animale che credo sia diventato di diritto il mio animale preferito."
+    },
+    {
+      "shot_idx": 44,
+      "start": 85.4,
+      "end": 89.9,
+      "dur": 4.5,
+      "transcript": "In ogni caso poi ci siamo fermati a pranzare dal Little Caesar Pizza per provare una vera pizza"
+    },
+    {
+      "shot_idx": 45,
+      "start": 89.9,
+      "end": 91.333,
+      "dur": 1.433,
+      "transcript": "americana che mi mancava"
+    },
+    {
+      "shot_idx": 46,
+      "start": 91.333,
+      "end": 94.6,
+      "dur": 3.267,
+      "transcript": "decisamente troppo e non vedevo l 'ora di provare. Little Caesar è tra"
+    },
+    {
+      "shot_idx": 47,
+      "start": 94.6,
+      "end": 97.2,
+      "dur": 2.6,
+      "transcript": "l 'altro la mia catena di pizza americana preferita e di fatto abbiamo"
+    },
+    {
+      "shot_idx": 48,
+      "start": 97.2,
+      "end": 100.033,
+      "dur": 2.833,
+      "transcript": "provato la loro peperoni classica e la loro Detroit style"
+    },
+    {
+      "shot_idx": 49,
+      "start": 100.033,
+      "end": 102.333,
+      "dur": 2.3,
+      "transcript": "pizza con peperoni salsiccia. Come potete vedere"
+    },
+    {
+      "shot_idx": 50,
+      "start": 102.333,
+      "end": 103.567,
+      "dur": 1.233,
+      "transcript": "questa seconda pizza è molto più"
+    },
+    {
+      "shot_idx": 51,
+      "start": 103.567,
+      "end": 106.1,
+      "dur": 2.533,
+      "transcript": "alta, molto più spessa, ma è letteralmente"
+    },
+    {
+      "shot_idx": 52,
+      "start": 106.1,
+      "end": 108.9,
+      "dur": 2.8,
+      "transcript": "clamo rosa. In quanto sul bordo la mozzarella"
+    },
+    {
+      "shot_idx": 53,
+      "start": 108.9,
+      "end": 112.9,
+      "dur": 4.0,
+      "transcript": "crea una crosticina devastante che la rende una delle mie tipologie di pizza preferite. Po'"
+    },
+    {
+      "shot_idx": 54,
+      "start": 112.9,
+      "end": 117.267,
+      "dur": 4.367,
+      "transcript": "merigio che invece abbiamo passato in viaggio per arrivare a St. Augustine, la città più antica di tutti gli"
+    },
+    {
+      "shot_idx": 55,
+      "start": 117.267,
+      "end": 119.3,
+      "dur": 2.033,
+      "transcript": "Stati Uniti dove però essendo già tardi ci siamo"
+    },
+    {
+      "shot_idx": 56,
+      "start": 119.3,
+      "end": 122.267,
+      "dur": 2.967,
+      "transcript": "limitati a fare un girete e andare subito a cena. Da Columbia Restaurant,"
+    },
+    {
+      "shot_idx": 57,
+      "start": 122.267,
+      "end": 124.733,
+      "dur": 2.467,
+      "transcript": "che è uno dei ristoranti più famosi della città che propone cucina"
+    },
+    {
+      "shot_idx": 58,
+      "start": 124.733,
+      "end": 130.467,
+      "dur": 5.733,
+      "transcript": "spagnola cubana. Dopo aver iniziato da un antipasto di pane col burro, ho preso un piatto misto di cibo cubano con del"
+    },
+    {
+      "shot_idx": 59,
+      "start": 130.467,
+      "end": 135.233,
+      "dur": 4.767,
+      "transcript": "maiale arrosto sfidacciato, super morbido e saporito, dei faccialli neri con la cipolla del riso"
+    },
+    {
+      "shot_idx": 60,
+      "start": 135.233,
+      "end": 137.6,
+      "dur": 2.367,
+      "transcript": "giallo, la yuca che sarebbe un tubero, una sorta di"
+    },
+    {
+      "shot_idx": 61,
+      "start": 137.6,
+      "end": 139.267,
+      "dur": 1.667,
+      "transcript": "arrosto di manzo, un empanada"
+    },
+    {
+      "shot_idx": 62,
+      "start": 139.267,
+      "end": 141.067,
+      "dur": 1.8,
+      "transcript": "sed infine del platano che con la sua esterma"
+    },
+    {
+      "shot_idx": 63,
+      "start": 141.067,
+      "end": 143.567,
+      "dur": 2.5,
+      "transcript": "dolcezza è quello che mi ha stupito di più e si conclude la serata"
+    },
+    {
+      "shot_idx": 64,
+      "start": 143.567,
+      "end": 145.6,
+      "dur": 2.033,
+      "transcript": "con un giro per St. Augustine ed a Walgreens."
+    },
+    {
+      "shot_idx": 65,
+      "start": 145.6,
+      "end": 145.667,
+      "dur": 0.067,
+      "transcript": ""
+    }
+  ],
+  "full_text": "Giornino nove del mio viaggio in Florida è la scoperta della vera cucina americana. Oggi giornata clamorosa con un po' di cibo tipico e un'esperienza devastante. Ci troviamo a Cristar River e proprio per questa esperienza di cui vi parlavo ci siamo dovuti svegliare alle sei. Collazione al sacco e si esce. In modo da essere pronti per partire con il tour per nuotare con i lamanthini. Che appunto sono l'attrazione principale di questo paese e in generale di questa parte della Florida. Fortunatamente grazie alle nostre guide abbiamo subito trovato una coppia, una mamma e un figlio letto molto molto carini ma letteralmente giganteschi e armati di muta, maschera e boccaglio ci siamo subito immersi. E' sicuro ragazzi che è stata un'esperienza clamorosa vedere questi animali così grandi ma allo stesso tempo così innocui. Beh a distanza di praticamente pochi centimetri. Poi abbiamo sissito anche a questo strano fenomeno di questi pesci che saltavano letteralmente fuori dall'acqua. Per poi goderci un bel bagnetto in questa parte del fiume particolarmente limpida. E appena usciti dal nostro bagno ci siamo accorti di essere in compagnia di un simpaticissimo alligatore. Bello tranquillo, su un tronco che prendeva il sole. Eh sì ragazzi questa è proprio la Florida. Dopodiché ci siamo spostati a Domosassa, un paesino gli accanto dove c'è questo parco pieno d'animali che magari devono essere curati o che comunque non possono vivere in libertà. E dopo aver visto diversi volatili e letteralmente la scena più americana e patriottica che si possa essere, abbiamo visto degli alligatori che si sono abituati ad avvicinarsi troppo alle persone e quindi sono stati considerati troppo pericolosi. Poi un bellissimo puma ed infine siamo passati alla sezione dei rettili che comunque è sempre molto affascinante. Insomma un parco carino dove spendere comunque un paio di orette. Ah e ovviamente non potevano mancare i lamentini anche qui. Animale che credo sia diventato di diritto il mio animale preferito. In ogni caso poi ci siamo fermati a pranzare dal Little Caesar Pizza per provare una vera pizza americana che mi mancava decisamente troppo e non vedevo l'ora di provare. Little Caesar è tra l'altro la mia catena di pizza americana preferita e di fatto abbiamo provato la loro peperoni classica e la loro Detroit style pizza con peperoni salsiccia. Come potete vedere questa seconda pizza è molto più alta, molto più spessa, ma è letteralmente clamo rosa. In quanto sul bordo la mozzarella crea una crosticina devastante che la rende una delle mie tipologie di pizza preferite. Po' merigio che invece abbiamo passato in viaggio per arrivare a St. Augustine, la città più antica di tutti gli Stati Uniti dove però essendo già tardi ci siamo limitati a fare un girete e andare subito a cena. Da Columbia Restaurant, che è uno dei ristoranti più famosi della città che propone cucina spagnola cubana. Dopo aver iniziato da un antipasto di pane col burro, ho preso un piatto misto di cibo cubano con del maiale arrosto sfidacciato, super morbido e saporito, dei faccialli neri con la cipolla del riso giallo, la yuca che sarebbe un tubero, una sorta di arrosto di manzo, un empanada sed infine del platano che con la sua esterma dolcezza è quello che mi ha stupito di più e si conclude la serata con un giro per St. Augustine ed a Walgreens.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

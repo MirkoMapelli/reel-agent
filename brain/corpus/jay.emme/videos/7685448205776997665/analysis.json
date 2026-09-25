@@ -1,0 +1,3144 @@
+{
+  "video_id": "7685448205776997665",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7685448205776997665",
+    "ref_id": "ref_01_7685448205776997665",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7685448205776997665",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 37,
+  "total_dur": 79.57,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8,
+      "center": 0.9,
+      "role": "food_closeup",
+      "subject": "pollo fritto croccante",
+      "description": "Un pezzo di pollo fritto dorato tenuto in primo piano da una mano.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Wings' Top è finalmente arrivato in Italia e"
+    },
+    {
+      "idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033,
+      "center": 2.817,
+      "role": "food_detail",
+      "subject": "pollo intinto nella salsa",
+      "description": "Il pollo viene immerso in una coppetta di salsa ranch.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "con lui quello che probabilmente sarà anche il"
+    },
+    {
+      "idx": 2,
+      "start": 3.833,
+      "end": 5.8,
+      "dur": 1.967,
+      "center": 4.817,
+      "role": "person_eating",
+      "subject": "vassoio con pollo e patatine",
+      "description": "Il creator sorride mostrando una grande quantità di cibo sul tavolo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "miglior polofetto. Oggi siamo a Milano nel loro"
+    },
+    {
+      "idx": 3,
+      "start": 5.8,
+      "end": 7.633,
+      "dur": 1.833,
+      "center": 6.717,
+      "role": "menu_board",
+      "subject": "totem menu digitale",
+      "description": "I totem per ordinare con il menu dei gusti sullo sfondo di una parete verde.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "evento di apertura del loro primo storio in"
+    },
+    {
+      "idx": 4,
+      "start": 7.633,
+      "end": 9.6,
+      "dur": 1.967,
+      "center": 8.617,
+      "role": "venue_interior_detail",
+      "subject": "schermo a soffitto",
+      "description": "Un grande schermo a soffitto che proietta scritte pubblicitarie.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "Italia, aperto proprio un viadante 16."
+    },
+    {
+      "idx": 5,
+      "start": 9.6,
+      "end": 11.367,
+      "dur": 1.767,
+      "center": 10.483,
+      "role": "venue_interior_detail",
+      "subject": "scale con luci verdi",
+      "description": "I gradini illuminati con LED verdi intensi.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Posizione super centrale e location"
+    },
+    {
+      "idx": 6,
+      "start": 11.367,
+      "end": 13.367,
+      "dur": 2.0,
+      "center": 12.367,
+      "role": "venue_interior_wide",
+      "subject": "sala ristorante moderna",
+      "description": "L'ambiente affollato e moderno con luci geometriche.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "clamorosa. Noi abbiamo subito ordinato e siamo saliti"
+    },
+    {
+      "idx": 7,
+      "start": 13.367,
+      "end": 17.333,
+      "dur": 3.967,
+      "center": 15.35,
+      "role": "food_plated",
+      "subject": "vassoio con pollo e patatine",
+      "description": "La grande varietà di porzioni di ali e patatine fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "al secondo piano dove tra l 'altro c 'era anche il DJ. E questo è tutto ciò che abbiamo preso. Di base"
+    },
+    {
+      "idx": 8,
+      "start": 17.333,
+      "end": 19.367,
+      "dur": 2.033,
+      "center": 18.35,
+      "role": "person_eating",
+      "subject": "ragazzo sorridente con vassoio",
+      "description": "Il creator che mostra fiero il vassoio pieno di cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbiamo preso dei menu combo con 8 Wings"
+    },
+    {
+      "idx": 9,
+      "start": 19.367,
+      "end": 21.833,
+      "dur": 2.467,
+      "center": 20.6,
+      "role": "food_closeup",
+      "subject": "alucce di pollo glassate",
+      "description": "La glassa lucida e invitante sulle ali di pollo.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "classiche o boneless, retenders, ovviamente"
+    },
+    {
+      "idx": 10,
+      "start": 21.833,
+      "end": 23.633,
+      "dur": 1.8,
+      "center": 22.733,
+      "role": "drink_detail",
+      "subject": "erogatore bevande coca cola",
+      "description": "la mano che preme il pulsante dell'erogatore di bevande",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "fries e bibita frire fill. E di"
+    },
+    {
+      "idx": 11,
+      "start": 23.633,
+      "end": 25.4,
+      "dur": 1.767,
+      "center": 24.517,
+      "role": "person_eating",
+      "subject": "giovane beve dal bicchiere",
+      "description": "il creator che beve da un bicchiere brandizzato",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "ognuno abbiamo dovuto ovviamente scegliere il loro"
+    },
+    {
+      "idx": 12,
+      "start": 25.4,
+      "end": 28.4,
+      "dur": 3.0,
+      "center": 26.9,
+      "role": "food_detail",
+      "subject": "pollo fritto nei cestini",
+      "description": "i pezzi di pollo fritto croccante disposti nei cestini con carta personalizzata",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "flavor. Io ho iniziato da queste boneless awaian che è un sapore"
+    },
+    {
+      "idx": 13,
+      "start": 28.4,
+      "end": 30.867,
+      "dur": 2.467,
+      "center": 29.633,
+      "role": "food_closeup",
+      "subject": "bocconcino di pollo fritto",
+      "description": "il creator che mostra un singolo bocconcino di pollo fritto in primo piano",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "molto classico e delicato, che ovviamente fin da subito ha"
+    },
+    {
+      "idx": 14,
+      "start": 30.867,
+      "end": 33.367,
+      "dur": 2.5,
+      "center": 32.117,
+      "role": "food_closeup",
+      "subject": "pollo fritto nella salsa",
+      "description": "la mano che intinge il pollo fritto nella salsa ranch",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "accompagnato con la loro salsa renna, che è una delle misalze preferite"
+    },
+    {
+      "idx": 15,
+      "start": 33.367,
+      "end": 35.333,
+      "dur": 1.967,
+      "center": 34.35,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia ali",
+      "description": "Il ragazzo morde un pezzetto di pollo con salse assortite in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e col pollo fritto non può mancare. Un po' di fries"
+    },
+    {
+      "idx": 16,
+      "start": 35.333,
+      "end": 37.333,
+      "dur": 2.0,
+      "center": 36.333,
+      "role": "food_detail",
+      "subject": "patatine fritte con cheddar",
+      "description": "Una forchetta affonda nelle patatine ricoperte di formaggio fuso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "col cedar oppure lemon pepper,"
+    },
+    {
+      "idx": 17,
+      "start": 37.333,
+      "end": 38.867,
+      "dur": 1.533,
+      "center": 38.1,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatine",
+      "description": "Il creator assaggia le patatine con il cheddar dal cestino.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "anche loro ingiuppate nell 'arence."
+    },
+    {
+      "idx": 18,
+      "start": 38.867,
+      "end": 40.067,
+      "dur": 1.2,
+      "center": 39.467,
+      "role": "food_detail",
+      "subject": "patatina intinta nella salsa",
+      "description": "Una singola patatina viene immersa nella maionese o salsa bianca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "E ho continuato con questi tender"
+    },
+    {
+      "idx": 19,
+      "start": 40.067,
+      "end": 41.367,
+      "dur": 1.3,
+      "center": 40.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia patatine fritte",
+      "description": "Il ragazzo porta alla bocca un mucchietto di patatine croccanti.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "croccanti super"
+    },
+    {
+      "idx": 20,
+      "start": 41.367,
+      "end": 42.767,
+      "dur": 1.4,
+      "center": 42.067,
+      "role": "food_closeup",
+      "subject": "pollo fritto in mano",
+      "description": "La croccantezza del pollo fritto tenuto tra le dita.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "morbidi all 'interno, ovviamente"
+    },
+    {
+      "idx": 21,
+      "start": 42.767,
+      "end": 44.767,
+      "dur": 2.0,
+      "center": 43.767,
+      "role": "person_talking",
+      "subject": "ragazzo mostra pollo fritto",
+      "description": "Il creator che presenta un pezzo di pollo fritto alla camera.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "anche loro lemon pepper che forse"
+    },
+    {
+      "idx": 22,
+      "start": 44.767,
+      "end": 47.6,
+      "dur": 2.833,
+      "center": 46.183,
+      "role": "person_eating",
+      "subject": "ragazzo mangia pollo fritto",
+      "description": "Il momento in cui il creator assaggia il cibo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il mio gusto preferito. In quanto adoro questo leggero pepato e"
+    },
+    {
+      "idx": 23,
+      "start": 47.6,
+      "end": 49.367,
+      "dur": 1.767,
+      "center": 48.483,
+      "role": "food_detail",
+      "subject": "pollo intinto in salsa",
+      "description": "Il boccone di pollo fritto immerso nella salsa bianca.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "il sapore di limone un po' grumato. Poi"
+    },
+    {
+      "idx": 24,
+      "start": 49.367,
+      "end": 51.4,
+      "dur": 2.033,
+      "center": 50.383,
+      "role": "person_eating",
+      "subject": "ragazzo mangia con salsa",
+      "description": "Il creator che mangia tenendo in mano la ciotolina di salsa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "sono passato alle Wings classiche che anche"
+    },
+    {
+      "idx": 25,
+      "start": 51.4,
+      "end": 53.5,
+      "dur": 2.1,
+      "center": 52.45,
+      "role": "food_closeup",
+      "subject": "alette di pollo glassate",
+      "description": "La lucidità e la glassa brillante delle alette di pollo appena fritte.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "se preferisco le boneless loro sono sempre"
+    },
+    {
+      "idx": 26,
+      "start": 53.5,
+      "end": 55.833,
+      "dur": 2.333,
+      "center": 54.667,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia aletta",
+      "description": "Il creator mentre addenta un'aletta di pollo con espressione soddisfatta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "soddisfacenti da mangiare. Sono tornato su questi"
+    },
+    {
+      "idx": 27,
+      "start": 55.833,
+      "end": 57.033,
+      "dur": 1.2,
+      "center": 56.433,
+      "role": "hands_gesture",
+      "subject": "mani che sollevano aletta",
+      "description": "Le mani che prendono un'aletta dalla cesta foderata di carta personalizzata.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "tender super dolci,"
+    },
+    {
+      "idx": 28,
+      "start": 57.033,
+      "end": 59.033,
+      "dur": 2.0,
+      "center": 58.033,
+      "role": "food_detail",
+      "subject": "aletta di pollo in primo piano",
+      "description": "Un singolo boccone di pollo fritto tenuto in primo piano davanti alla telecamera.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ma lo stesso tempo ha fumicati, ovviamente inzuppati"
+    },
+    {
+      "idx": 29,
+      "start": 59.033,
+      "end": 61.933,
+      "dur": 2.9,
+      "center": 60.483,
+      "role": "person_talking",
+      "subject": "creator con aletta in mano",
+      "description": "Il ragazzo che parla alla camera tenendo in mano il cibo recensito.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "nella salsa renna anche loro. Ho davvero provato quindi un misto di flavor,"
+    },
+    {
+      "idx": 30,
+      "start": 61.933,
+      "end": 63.733,
+      "dur": 1.8,
+      "center": 62.833,
+      "role": "food_closeup",
+      "subject": "ala fritta con salsa",
+      "description": "Il gesto di intingere l'ala di pollo nella salsa bianca.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "ma devo mettere che non mi sono spinto"
+    },
+    {
+      "idx": 31,
+      "start": 63.733,
+      "end": 67.067,
+      "dur": 3.333,
+      "center": 65.4,
+      "role": "person_eating",
+      "subject": "ragazzo che mangia pollo",
+      "description": "Il creator morde l'ala di pollo con gusto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "troppo sul piccante. Cosa che farò la prossima volta perché sono davvero curioso di"
+    },
+    {
+      "idx": 32,
+      "start": 67.067,
+      "end": 68.833,
+      "dur": 1.767,
+      "center": 67.95,
+      "role": "food_detail",
+      "subject": "tender di pollo fritto",
+      "description": "La croccantezza e la doratura della panatura del pollo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "provare le loro Wings più piccanti."
+    },
+    {
+      "idx": 33,
+      "start": 68.833,
+      "end": 70.867,
+      "dur": 2.033,
+      "center": 69.85,
+      "role": "food_detail",
+      "subject": "apertura tender di pollo",
+      "description": "L'interno succoso e morbido del pollo che viene diviso a metà.",
+      "composition": "detail",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Non in caso il pollo è davvero morbido e fritto alla"
+    },
+    {
+      "idx": 34,
+      "start": 70.867,
+      "end": 73.067,
+      "dur": 2.2,
+      "center": 71.967,
+      "role": "venue_interior_detail",
+      "subject": "carta da imballaggio brandizzata",
+      "description": "Il foglio di carta personalizzato con il logo del locale Wingstop.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "grande. Il fatto che avete così tante sceltà di flavor"
+    },
+    {
+      "idx": 35,
+      "start": 73.067,
+      "end": 76.533,
+      "dur": 3.467,
+      "center": 74.8,
+      "role": "claw_game",
+      "subject": "ragazzo che gioca alla gru",
+      "description": "Un ragazzo è concentrato mentre gioca a una claw machine brandizzata Wingstop.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "vi darà possibilità di provare tanti gusti diversi. Ed infine anche se non sono"
+    },
+    {
+      "idx": 36,
+      "start": 76.533,
+      "end": 79.567,
+      "dur": 3.033,
+      "center": 78.05,
+      "role": "hands_gesture",
+      "subject": "mano con pupazzo e sacchetto",
+      "description": "Una mano mostra in primo piano un piccolo peluche vinto accanto a una bag di carta.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "riuscito a vincere nemmeno a casa con la doggy bag e la mascotta renci."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pollo fritto croccante",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un pezzo di pollo fritto dorato tenuto in primo piano da una mano.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo intinto nella salsa",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il pollo viene immerso in una coppetta di salsa ranch.",
+      "shot_idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "vassoio con pollo e patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator sorride mostrando una grande quantità di cibo sul tavolo.",
+      "shot_idx": 2,
+      "start": 3.833,
+      "end": 5.8,
+      "dur": 1.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "menu_board",
+      "soggetto": "totem menu digitale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "I totem per ordinare con il menu dei gusti sullo sfondo di una parete verde.",
+      "shot_idx": 3,
+      "start": 5.8,
+      "end": 7.633,
+      "dur": 1.833
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "schermo a soffitto",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un grande schermo a soffitto che proietta scritte pubblicitarie.",
+      "shot_idx": 4,
+      "start": 7.633,
+      "end": 9.6,
+      "dur": 1.967
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "scale con luci verdi",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "I gradini illuminati con LED verdi intensi.",
+      "shot_idx": 5,
+      "start": 9.6,
+      "end": 11.367,
+      "dur": 1.767
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "sala ristorante moderna",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'ambiente affollato e moderno con luci geometriche.",
+      "shot_idx": 6,
+      "start": 11.367,
+      "end": 13.367,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_plated",
+      "soggetto": "vassoio con pollo e patatine",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La grande varietà di porzioni di ali e patatine fritte.",
+      "shot_idx": 7,
+      "start": 13.367,
+      "end": 17.333,
+      "dur": 3.967
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo sorridente con vassoio",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator che mostra fiero il vassoio pieno di cibo.",
+      "shot_idx": 8,
+      "start": 17.333,
+      "end": 19.367,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "alucce di pollo glassate",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La glassa lucida e invitante sulle ali di pollo.",
+      "shot_idx": 9,
+      "start": 19.367,
+      "end": 21.833,
+      "dur": 2.467
+    },
+    {
+      "idx": 0,
+      "role_visivo": "drink_detail",
+      "soggetto": "erogatore bevande coca cola",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "la mano che preme il pulsante dell'erogatore di bevande",
+      "shot_idx": 10,
+      "start": 21.833,
+      "end": 23.633,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "giovane beve dal bicchiere",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "il creator che beve da un bicchiere brandizzato",
+      "shot_idx": 11,
+      "start": 23.633,
+      "end": 25.4,
+      "dur": 1.767
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo fritto nei cestini",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "i pezzi di pollo fritto croccante disposti nei cestini con carta personalizzata",
+      "shot_idx": 12,
+      "start": 25.4,
+      "end": 28.4,
+      "dur": 3.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_closeup",
+      "soggetto": "bocconcino di pollo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "il creator che mostra un singolo bocconcino di pollo fritto in primo piano",
+      "shot_idx": 13,
+      "start": 28.4,
+      "end": 30.867,
+      "dur": 2.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_closeup",
+      "soggetto": "pollo fritto nella salsa",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "la mano che intinge il pollo fritto nella salsa ranch",
+      "shot_idx": 14,
+      "start": 30.867,
+      "end": 33.367,
+      "dur": 2.5
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia ali",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo morde un pezzetto di pollo con salse assortite in primo piano.",
+      "shot_idx": 15,
+      "start": 33.367,
+      "end": 35.333,
+      "dur": 1.967
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "patatine fritte con cheddar",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una forchetta affonda nelle patatine ricoperte di formaggio fuso.",
+      "shot_idx": 16,
+      "start": 35.333,
+      "end": 37.333,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatine",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator assaggia le patatine con il cheddar dal cestino.",
+      "shot_idx": 17,
+      "start": 37.333,
+      "end": 38.867,
+      "dur": 1.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "patatina intinta nella salsa",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una singola patatina viene immersa nella maionese o salsa bianca.",
+      "shot_idx": 18,
+      "start": 38.867,
+      "end": 40.067,
+      "dur": 1.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia patatine fritte",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo porta alla bocca un mucchietto di patatine croccanti.",
+      "shot_idx": 19,
+      "start": 40.067,
+      "end": 41.367,
+      "dur": 1.3
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "pollo fritto in mano",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La croccantezza del pollo fritto tenuto tra le dita.",
+      "shot_idx": 20,
+      "start": 41.367,
+      "end": 42.767,
+      "dur": 1.4
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo mostra pollo fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator che presenta un pezzo di pollo fritto alla camera.",
+      "shot_idx": 21,
+      "start": 42.767,
+      "end": 44.767,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia pollo fritto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il momento in cui il creator assaggia il cibo.",
+      "shot_idx": 22,
+      "start": 44.767,
+      "end": 47.6,
+      "dur": 2.833
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "pollo intinto in salsa",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il boccone di pollo fritto immerso nella salsa bianca.",
+      "shot_idx": 23,
+      "start": 47.6,
+      "end": 49.367,
+      "dur": 1.767
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia con salsa",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator che mangia tenendo in mano la ciotolina di salsa.",
+      "shot_idx": 24,
+      "start": 49.367,
+      "end": 51.4,
+      "dur": 2.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "alette di pollo glassate",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La lucidità e la glassa brillante delle alette di pollo appena fritte.",
+      "shot_idx": 25,
+      "start": 51.4,
+      "end": 53.5,
+      "dur": 2.1
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia aletta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator mentre addenta un'aletta di pollo con espressione soddisfatta.",
+      "shot_idx": 26,
+      "start": 53.5,
+      "end": 55.833,
+      "dur": 2.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mani che sollevano aletta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Le mani che prendono un'aletta dalla cesta foderata di carta personalizzata.",
+      "shot_idx": 27,
+      "start": 55.833,
+      "end": 57.033,
+      "dur": 1.2
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "aletta di pollo in primo piano",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un singolo boccone di pollo fritto tenuto in primo piano davanti alla telecamera.",
+      "shot_idx": 28,
+      "start": 57.033,
+      "end": 59.033,
+      "dur": 2.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_talking",
+      "soggetto": "creator con aletta in mano",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo che parla alla camera tenendo in mano il cibo recensito.",
+      "shot_idx": 29,
+      "start": 59.033,
+      "end": 61.933,
+      "dur": 2.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "ala fritta con salsa",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il gesto di intingere l'ala di pollo nella salsa bianca.",
+      "shot_idx": 30,
+      "start": 61.933,
+      "end": 63.733,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che mangia pollo",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il creator morde l'ala di pollo con gusto.",
+      "shot_idx": 31,
+      "start": 63.733,
+      "end": 67.067,
+      "dur": 3.333
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "tender di pollo fritto",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La croccantezza e la doratura della panatura del pollo.",
+      "shot_idx": 32,
+      "start": 67.067,
+      "end": 68.833,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "apertura tender di pollo",
+      "composizione": "detail",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "L'interno succoso e morbido del pollo che viene diviso a metà.",
+      "shot_idx": 33,
+      "start": 68.833,
+      "end": 70.867,
+      "dur": 2.033
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_detail",
+      "soggetto": "carta da imballaggio brandizzata",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il foglio di carta personalizzato con il logo del locale Wingstop.",
+      "shot_idx": 34,
+      "start": 70.867,
+      "end": 73.067,
+      "dur": 2.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "claw_game",
+      "soggetto": "ragazzo che gioca alla gru",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un ragazzo è concentrato mentre gioca a una claw machine brandizzata Wingstop.",
+      "shot_idx": 35,
+      "start": 73.067,
+      "end": 76.533,
+      "dur": 3.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "hands_gesture",
+      "soggetto": "mano con pupazzo e sacchetto",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una mano mostra in primo piano un piccolo peluche vinto accanto a una bag di carta.",
+      "shot_idx": 36,
+      "start": 76.533,
+      "end": 79.567,
+      "dur": 3.033
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Wings' Top è finalmente arrivato in Italia e con lui quello che probabilmente sarà anche il miglior polofetto."
+    },
+    {
+      "start": 4.62,
+      "end": 9.36,
+      "text": "Oggi siamo a Milano nel loro evento di apertura del loro primo storio in Italia, aperto proprio un viadante 16."
+    },
+    {
+      "start": 9.6,
+      "end": 12.02,
+      "text": "Posizione super centrale e location clamorosa."
+    },
+    {
+      "start": 12.08,
+      "end": 15.5,
+      "text": "Noi abbiamo subito ordinato e siamo saliti al secondo piano dove tra l'altro c'era anche il DJ."
+    },
+    {
+      "start": 15.66,
+      "end": 17.1,
+      "text": "E questo è tutto ciò che abbiamo preso."
+    },
+    {
+      "start": 17.18,
+      "end": 20.44,
+      "text": "Di base abbiamo preso dei menu combo con 8 Wings classiche o boneless,"
+    },
+    {
+      "start": 20.56,
+      "end": 23.04,
+      "text": "retenders, ovviamente fries e bibita frire fill."
+    },
+    {
+      "start": 23.32,
+      "end": 25.66,
+      "text": "E di ognuno abbiamo dovuto ovviamente scegliere il loro flavor."
+    },
+    {
+      "start": 25.66,
+      "end": 29.58,
+      "text": "Io ho iniziato da queste boneless awaian che è un sapore molto classico e delicato,"
+    },
+    {
+      "start": 29.68,
+      "end": 32.24,
+      "text": "che ovviamente fin da subito ha accompagnato con la loro salsa renna,"
+    },
+    {
+      "start": 32.3,
+      "end": 34.7,
+      "text": "che è una delle misalze preferite e col pollo fritto non può mancare."
+    },
+    {
+      "start": 34.82,
+      "end": 38.82,
+      "text": "Un po' di fries col cedar oppure lemon pepper, anche loro ingiuppate nell'arence."
+    },
+    {
+      "start": 38.9,
+      "end": 42.5,
+      "text": "E ho continuato con questi tender croccanti super morbidi all'interno,"
+    },
+    {
+      "start": 42.6,
+      "end": 45.58,
+      "text": "ovviamente anche loro lemon pepper che forse il mio gusto preferito."
+    },
+    {
+      "start": 45.64,
+      "end": 49.16,
+      "text": "In quanto adoro questo leggero pepato e il sapore di limone un po' grumato."
+    },
+    {
+      "start": 49.24,
+      "end": 52.46,
+      "text": "Poi sono passato alle Wings classiche che anche se preferisco le boneless"
+    },
+    {
+      "start": 52.46,
+      "end": 54.58,
+      "text": "loro sono sempre soddisfacenti da mangiare."
+    },
+    {
+      "start": 54.58,
+      "end": 58.36,
+      "text": "Sono tornato su questi tender super dolci, ma lo stesso tempo ha fumicati,"
+    },
+    {
+      "start": 58.42,
+      "end": 60.3,
+      "text": "ovviamente inzuppati nella salsa renna anche loro."
+    },
+    {
+      "start": 60.4,
+      "end": 62.02,
+      "text": "Ho davvero provato quindi un misto di flavor,"
+    },
+    {
+      "start": 62.34,
+      "end": 64.92,
+      "text": "ma devo mettere che non mi sono spinto troppo sul piccante."
+    },
+    {
+      "start": 65.04,
+      "end": 67.38,
+      "text": "Cosa che farò la prossima volta perché sono davvero curioso di provare"
+    },
+    {
+      "start": 67.38,
+      "end": 68.82,
+      "text": "le loro Wings più piccanti."
+    },
+    {
+      "start": 68.92,
+      "end": 71.1,
+      "text": "Non in caso il pollo è davvero morbido e fritto alla grande."
+    },
+    {
+      "start": 71.24,
+      "end": 73.02,
+      "text": "Il fatto che avete così tante sceltà di flavor"
+    },
+    {
+      "start": 73.02,
+      "end": 75.34,
+      "text": "vi darà possibilità di provare tanti gusti diversi."
+    },
+    {
+      "start": 75.38,
+      "end": 77.06,
+      "text": "Ed infine anche se non sono riuscito a vincere"
+    },
+    {
+      "start": 77.06,
+      "end": 79.2,
+      "text": "nemmeno a casa con la doggy bag e la mascotta renci."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "word": "Wings'"
+    },
+    {
+      "start": 0.38,
+      "end": 0.44,
+      "word": "Top"
+    },
+    {
+      "start": 0.44,
+      "end": 0.58,
+      "word": "è"
+    },
+    {
+      "start": 0.58,
+      "end": 0.76,
+      "word": "finalmente"
+    },
+    {
+      "start": 0.76,
+      "end": 1.18,
+      "word": "arrivato"
+    },
+    {
+      "start": 1.18,
+      "end": 1.28,
+      "word": "in"
+    },
+    {
+      "start": 1.28,
+      "end": 1.5,
+      "word": "Italia"
+    },
+    {
+      "start": 1.5,
+      "end": 1.76,
+      "word": "e"
+    },
+    {
+      "start": 1.76,
+      "end": 1.92,
+      "word": "con"
+    },
+    {
+      "start": 1.92,
+      "end": 2.14,
+      "word": "lui"
+    },
+    {
+      "start": 2.14,
+      "end": 2.4,
+      "word": "quello"
+    },
+    {
+      "start": 2.4,
+      "end": 2.52,
+      "word": "che"
+    },
+    {
+      "start": 2.52,
+      "end": 2.92,
+      "word": "probabilmente"
+    },
+    {
+      "start": 2.92,
+      "end": 3.16,
+      "word": "sarà"
+    },
+    {
+      "start": 3.16,
+      "end": 3.62,
+      "word": "anche"
+    },
+    {
+      "start": 3.62,
+      "end": 3.72,
+      "word": "il"
+    },
+    {
+      "start": 3.72,
+      "end": 3.96,
+      "word": "miglior"
+    },
+    {
+      "start": 3.96,
+      "end": 4.42,
+      "word": "polofetto."
+    },
+    {
+      "start": 4.62,
+      "end": 4.72,
+      "word": "Oggi"
+    },
+    {
+      "start": 4.72,
+      "end": 4.88,
+      "word": "siamo"
+    },
+    {
+      "start": 4.88,
+      "end": 5.0,
+      "word": "a"
+    },
+    {
+      "start": 5.0,
+      "end": 5.28,
+      "word": "Milano"
+    },
+    {
+      "start": 5.28,
+      "end": 5.48,
+      "word": "nel"
+    },
+    {
+      "start": 5.48,
+      "end": 5.62,
+      "word": "loro"
+    },
+    {
+      "start": 5.62,
+      "end": 5.98,
+      "word": "evento"
+    },
+    {
+      "start": 5.98,
+      "end": 6.14,
+      "word": "di"
+    },
+    {
+      "start": 6.14,
+      "end": 6.58,
+      "word": "apertura"
+    },
+    {
+      "start": 6.58,
+      "end": 6.72,
+      "word": "del"
+    },
+    {
+      "start": 6.72,
+      "end": 6.86,
+      "word": "loro"
+    },
+    {
+      "start": 6.86,
+      "end": 7.12,
+      "word": "primo"
+    },
+    {
+      "start": 7.12,
+      "end": 7.44,
+      "word": "storio"
+    },
+    {
+      "start": 7.44,
+      "end": 7.54,
+      "word": "in"
+    },
+    {
+      "start": 7.54,
+      "end": 7.82,
+      "word": "Italia,"
+    },
+    {
+      "start": 8.0,
+      "end": 8.28,
+      "word": "aperto"
+    },
+    {
+      "start": 8.28,
+      "end": 8.42,
+      "word": "proprio"
+    },
+    {
+      "start": 8.42,
+      "end": 8.62,
+      "word": "un"
+    },
+    {
+      "start": 8.62,
+      "end": 9.04,
+      "word": "viadante"
+    },
+    {
+      "start": 9.04,
+      "end": 9.36,
+      "word": "16."
+    },
+    {
+      "start": 9.6,
+      "end": 10.0,
+      "word": "Posizione"
+    },
+    {
+      "start": 10.0,
+      "end": 10.28,
+      "word": "super"
+    },
+    {
+      "start": 10.28,
+      "end": 10.9,
+      "word": "centrale"
+    },
+    {
+      "start": 10.9,
+      "end": 11.06,
+      "word": "e"
+    },
+    {
+      "start": 11.06,
+      "end": 11.3,
+      "word": "location"
+    },
+    {
+      "start": 11.3,
+      "end": 12.02,
+      "word": "clamorosa."
+    },
+    {
+      "start": 12.08,
+      "end": 12.16,
+      "word": "Noi"
+    },
+    {
+      "start": 12.16,
+      "end": 12.32,
+      "word": "abbiamo"
+    },
+    {
+      "start": 12.32,
+      "end": 12.6,
+      "word": "subito"
+    },
+    {
+      "start": 12.6,
+      "end": 13.02,
+      "word": "ordinato"
+    },
+    {
+      "start": 13.02,
+      "end": 13.08,
+      "word": "e"
+    },
+    {
+      "start": 13.08,
+      "end": 13.22,
+      "word": "siamo"
+    },
+    {
+      "start": 13.22,
+      "end": 13.5,
+      "word": "saliti"
+    },
+    {
+      "start": 13.5,
+      "end": 13.62,
+      "word": "al"
+    },
+    {
+      "start": 13.62,
+      "end": 13.84,
+      "word": "secondo"
+    },
+    {
+      "start": 13.84,
+      "end": 14.12,
+      "word": "piano"
+    },
+    {
+      "start": 14.12,
+      "end": 14.38,
+      "word": "dove"
+    },
+    {
+      "start": 14.38,
+      "end": 14.54,
+      "word": "tra"
+    },
+    {
+      "start": 14.54,
+      "end": 14.66,
+      "word": "l"
+    },
+    {
+      "start": 14.66,
+      "end": 14.76,
+      "word": "'altro"
+    },
+    {
+      "start": 14.76,
+      "end": 14.94,
+      "word": "c"
+    },
+    {
+      "start": 14.94,
+      "end": 15.02,
+      "word": "'era"
+    },
+    {
+      "start": 15.02,
+      "end": 15.2,
+      "word": "anche"
+    },
+    {
+      "start": 15.2,
+      "end": 15.3,
+      "word": "il"
+    },
+    {
+      "start": 15.3,
+      "end": 15.5,
+      "word": "DJ."
+    },
+    {
+      "start": 15.66,
+      "end": 15.7,
+      "word": "E"
+    },
+    {
+      "start": 15.7,
+      "end": 15.86,
+      "word": "questo"
+    },
+    {
+      "start": 15.86,
+      "end": 16.0,
+      "word": "è"
+    },
+    {
+      "start": 16.0,
+      "end": 16.22,
+      "word": "tutto"
+    },
+    {
+      "start": 16.22,
+      "end": 16.42,
+      "word": "ciò"
+    },
+    {
+      "start": 16.42,
+      "end": 16.52,
+      "word": "che"
+    },
+    {
+      "start": 16.52,
+      "end": 16.68,
+      "word": "abbiamo"
+    },
+    {
+      "start": 16.68,
+      "end": 17.1,
+      "word": "preso."
+    },
+    {
+      "start": 17.18,
+      "end": 17.22,
+      "word": "Di"
+    },
+    {
+      "start": 17.22,
+      "end": 17.38,
+      "word": "base"
+    },
+    {
+      "start": 17.38,
+      "end": 17.6,
+      "word": "abbiamo"
+    },
+    {
+      "start": 17.6,
+      "end": 17.88,
+      "word": "preso"
+    },
+    {
+      "start": 17.88,
+      "end": 18.04,
+      "word": "dei"
+    },
+    {
+      "start": 18.04,
+      "end": 18.18,
+      "word": "menu"
+    },
+    {
+      "start": 18.18,
+      "end": 18.54,
+      "word": "combo"
+    },
+    {
+      "start": 18.54,
+      "end": 18.76,
+      "word": "con"
+    },
+    {
+      "start": 18.76,
+      "end": 18.9,
+      "word": "8"
+    },
+    {
+      "start": 18.9,
+      "end": 19.3,
+      "word": "Wings"
+    },
+    {
+      "start": 19.3,
+      "end": 19.88,
+      "word": "classiche"
+    },
+    {
+      "start": 19.88,
+      "end": 19.98,
+      "word": "o"
+    },
+    {
+      "start": 19.98,
+      "end": 20.44,
+      "word": "boneless,"
+    },
+    {
+      "start": 20.56,
+      "end": 21.12,
+      "word": "retenders,"
+    },
+    {
+      "start": 21.38,
+      "end": 21.66,
+      "word": "ovviamente"
+    },
+    {
+      "start": 21.66,
+      "end": 22.06,
+      "word": "fries"
+    },
+    {
+      "start": 22.06,
+      "end": 22.3,
+      "word": "e"
+    },
+    {
+      "start": 22.3,
+      "end": 22.56,
+      "word": "bibita"
+    },
+    {
+      "start": 22.56,
+      "end": 22.78,
+      "word": "frire"
+    },
+    {
+      "start": 22.78,
+      "end": 23.04,
+      "word": "fill."
+    },
+    {
+      "start": 23.32,
+      "end": 23.4,
+      "word": "E"
+    },
+    {
+      "start": 23.4,
+      "end": 23.5,
+      "word": "di"
+    },
+    {
+      "start": 23.5,
+      "end": 23.84,
+      "word": "ognuno"
+    },
+    {
+      "start": 23.84,
+      "end": 24.0,
+      "word": "abbiamo"
+    },
+    {
+      "start": 24.0,
+      "end": 24.36,
+      "word": "dovuto"
+    },
+    {
+      "start": 24.36,
+      "end": 24.62,
+      "word": "ovviamente"
+    },
+    {
+      "start": 24.62,
+      "end": 25.1,
+      "word": "scegliere"
+    },
+    {
+      "start": 25.1,
+      "end": 25.22,
+      "word": "il"
+    },
+    {
+      "start": 25.22,
+      "end": 25.3,
+      "word": "loro"
+    },
+    {
+      "start": 25.3,
+      "end": 25.66,
+      "word": "flavor."
+    },
+    {
+      "start": 25.66,
+      "end": 25.96,
+      "word": "Io"
+    },
+    {
+      "start": 25.96,
+      "end": 26.0,
+      "word": "ho"
+    },
+    {
+      "start": 26.0,
+      "end": 26.2,
+      "word": "iniziato"
+    },
+    {
+      "start": 26.2,
+      "end": 26.36,
+      "word": "da"
+    },
+    {
+      "start": 26.36,
+      "end": 26.6,
+      "word": "queste"
+    },
+    {
+      "start": 26.6,
+      "end": 27.18,
+      "word": "boneless"
+    },
+    {
+      "start": 27.18,
+      "end": 27.8,
+      "word": "awaian"
+    },
+    {
+      "start": 27.8,
+      "end": 27.94,
+      "word": "che"
+    },
+    {
+      "start": 27.94,
+      "end": 28.0,
+      "word": "è"
+    },
+    {
+      "start": 28.0,
+      "end": 28.06,
+      "word": "un"
+    },
+    {
+      "start": 28.06,
+      "end": 28.32,
+      "word": "sapore"
+    },
+    {
+      "start": 28.32,
+      "end": 28.54,
+      "word": "molto"
+    },
+    {
+      "start": 28.54,
+      "end": 29.02,
+      "word": "classico"
+    },
+    {
+      "start": 29.02,
+      "end": 29.1,
+      "word": "e"
+    },
+    {
+      "start": 29.1,
+      "end": 29.58,
+      "word": "delicato,"
+    },
+    {
+      "start": 29.68,
+      "end": 29.7,
+      "word": "che"
+    },
+    {
+      "start": 29.7,
+      "end": 29.98,
+      "word": "ovviamente"
+    },
+    {
+      "start": 29.98,
+      "end": 30.24,
+      "word": "fin"
+    },
+    {
+      "start": 30.24,
+      "end": 30.34,
+      "word": "da"
+    },
+    {
+      "start": 30.34,
+      "end": 30.68,
+      "word": "subito"
+    },
+    {
+      "start": 30.68,
+      "end": 30.76,
+      "word": "ha"
+    },
+    {
+      "start": 30.76,
+      "end": 31.18,
+      "word": "accompagnato"
+    },
+    {
+      "start": 31.18,
+      "end": 31.36,
+      "word": "con"
+    },
+    {
+      "start": 31.36,
+      "end": 31.5,
+      "word": "la"
+    },
+    {
+      "start": 31.5,
+      "end": 31.66,
+      "word": "loro"
+    },
+    {
+      "start": 31.66,
+      "end": 31.86,
+      "word": "salsa"
+    },
+    {
+      "start": 31.86,
+      "end": 32.24,
+      "word": "renna,"
+    },
+    {
+      "start": 32.3,
+      "end": 32.32,
+      "word": "che"
+    },
+    {
+      "start": 32.32,
+      "end": 32.38,
+      "word": "è"
+    },
+    {
+      "start": 32.38,
+      "end": 32.5,
+      "word": "una"
+    },
+    {
+      "start": 32.5,
+      "end": 32.6,
+      "word": "delle"
+    },
+    {
+      "start": 32.6,
+      "end": 32.96,
+      "word": "misalze"
+    },
+    {
+      "start": 32.96,
+      "end": 33.4,
+      "word": "preferite"
+    },
+    {
+      "start": 33.4,
+      "end": 33.48,
+      "word": "e"
+    },
+    {
+      "start": 33.48,
+      "end": 33.6,
+      "word": "col"
+    },
+    {
+      "start": 33.6,
+      "end": 33.84,
+      "word": "pollo"
+    },
+    {
+      "start": 33.84,
+      "end": 34.08,
+      "word": "fritto"
+    },
+    {
+      "start": 34.08,
+      "end": 34.24,
+      "word": "non"
+    },
+    {
+      "start": 34.24,
+      "end": 34.36,
+      "word": "può"
+    },
+    {
+      "start": 34.36,
+      "end": 34.7,
+      "word": "mancare."
+    },
+    {
+      "start": 34.82,
+      "end": 34.84,
+      "word": "Un"
+    },
+    {
+      "start": 34.84,
+      "end": 34.94,
+      "word": "po'"
+    },
+    {
+      "start": 34.98,
+      "end": 35.04,
+      "word": "di"
+    },
+    {
+      "start": 35.04,
+      "end": 35.3,
+      "word": "fries"
+    },
+    {
+      "start": 35.3,
+      "end": 35.6,
+      "word": "col"
+    },
+    {
+      "start": 35.6,
+      "end": 36.02,
+      "word": "cedar"
+    },
+    {
+      "start": 36.02,
+      "end": 36.46,
+      "word": "oppure"
+    },
+    {
+      "start": 36.46,
+      "end": 36.7,
+      "word": "lemon"
+    },
+    {
+      "start": 36.7,
+      "end": 37.0,
+      "word": "pepper,"
+    },
+    {
+      "start": 37.26,
+      "end": 37.46,
+      "word": "anche"
+    },
+    {
+      "start": 37.46,
+      "end": 37.7,
+      "word": "loro"
+    },
+    {
+      "start": 37.7,
+      "end": 38.18,
+      "word": "ingiuppate"
+    },
+    {
+      "start": 38.18,
+      "end": 38.34,
+      "word": "nell"
+    },
+    {
+      "start": 38.34,
+      "end": 38.82,
+      "word": "'arence."
+    },
+    {
+      "start": 38.9,
+      "end": 38.92,
+      "word": "E"
+    },
+    {
+      "start": 38.92,
+      "end": 39.0,
+      "word": "ho"
+    },
+    {
+      "start": 39.0,
+      "end": 39.34,
+      "word": "continuato"
+    },
+    {
+      "start": 39.34,
+      "end": 39.5,
+      "word": "con"
+    },
+    {
+      "start": 39.5,
+      "end": 39.7,
+      "word": "questi"
+    },
+    {
+      "start": 39.7,
+      "end": 40.04,
+      "word": "tender"
+    },
+    {
+      "start": 40.04,
+      "end": 40.78,
+      "word": "croccanti"
+    },
+    {
+      "start": 40.78,
+      "end": 41.2,
+      "word": "super"
+    },
+    {
+      "start": 41.2,
+      "end": 41.68,
+      "word": "morbidi"
+    },
+    {
+      "start": 41.68,
+      "end": 41.8,
+      "word": "all"
+    },
+    {
+      "start": 41.8,
+      "end": 42.5,
+      "word": "'interno,"
+    },
+    {
+      "start": 42.6,
+      "end": 42.84,
+      "word": "ovviamente"
+    },
+    {
+      "start": 42.84,
+      "end": 43.08,
+      "word": "anche"
+    },
+    {
+      "start": 43.08,
+      "end": 43.34,
+      "word": "loro"
+    },
+    {
+      "start": 43.34,
+      "end": 43.62,
+      "word": "lemon"
+    },
+    {
+      "start": 43.62,
+      "end": 43.98,
+      "word": "pepper"
+    },
+    {
+      "start": 43.98,
+      "end": 44.18,
+      "word": "che"
+    },
+    {
+      "start": 44.18,
+      "end": 44.7,
+      "word": "forse"
+    },
+    {
+      "start": 44.7,
+      "end": 44.88,
+      "word": "il"
+    },
+    {
+      "start": 44.88,
+      "end": 44.96,
+      "word": "mio"
+    },
+    {
+      "start": 44.96,
+      "end": 45.16,
+      "word": "gusto"
+    },
+    {
+      "start": 45.16,
+      "end": 45.58,
+      "word": "preferito."
+    },
+    {
+      "start": 45.64,
+      "end": 45.68,
+      "word": "In"
+    },
+    {
+      "start": 45.68,
+      "end": 45.86,
+      "word": "quanto"
+    },
+    {
+      "start": 45.86,
+      "end": 46.12,
+      "word": "adoro"
+    },
+    {
+      "start": 46.12,
+      "end": 46.36,
+      "word": "questo"
+    },
+    {
+      "start": 46.36,
+      "end": 46.7,
+      "word": "leggero"
+    },
+    {
+      "start": 46.7,
+      "end": 47.16,
+      "word": "pepato"
+    },
+    {
+      "start": 47.16,
+      "end": 47.46,
+      "word": "e"
+    },
+    {
+      "start": 47.46,
+      "end": 47.74,
+      "word": "il"
+    },
+    {
+      "start": 47.74,
+      "end": 47.96,
+      "word": "sapore"
+    },
+    {
+      "start": 47.96,
+      "end": 48.12,
+      "word": "di"
+    },
+    {
+      "start": 48.12,
+      "end": 48.44,
+      "word": "limone"
+    },
+    {
+      "start": 48.44,
+      "end": 48.62,
+      "word": "un"
+    },
+    {
+      "start": 48.62,
+      "end": 48.7,
+      "word": "po'"
+    },
+    {
+      "start": 48.78,
+      "end": 49.16,
+      "word": "grumato."
+    },
+    {
+      "start": 49.24,
+      "end": 49.32,
+      "word": "Poi"
+    },
+    {
+      "start": 49.32,
+      "end": 49.48,
+      "word": "sono"
+    },
+    {
+      "start": 49.48,
+      "end": 49.88,
+      "word": "passato"
+    },
+    {
+      "start": 49.88,
+      "end": 50.02,
+      "word": "alle"
+    },
+    {
+      "start": 50.02,
+      "end": 50.28,
+      "word": "Wings"
+    },
+    {
+      "start": 50.28,
+      "end": 50.9,
+      "word": "classiche"
+    },
+    {
+      "start": 50.9,
+      "end": 51.16,
+      "word": "che"
+    },
+    {
+      "start": 51.16,
+      "end": 51.34,
+      "word": "anche"
+    },
+    {
+      "start": 51.34,
+      "end": 51.48,
+      "word": "se"
+    },
+    {
+      "start": 51.48,
+      "end": 51.82,
+      "word": "preferisco"
+    },
+    {
+      "start": 51.82,
+      "end": 51.98,
+      "word": "le"
+    },
+    {
+      "start": 51.98,
+      "end": 52.46,
+      "word": "boneless"
+    },
+    {
+      "start": 52.46,
+      "end": 52.92,
+      "word": "loro"
+    },
+    {
+      "start": 52.92,
+      "end": 53.16,
+      "word": "sono"
+    },
+    {
+      "start": 53.16,
+      "end": 53.4,
+      "word": "sempre"
+    },
+    {
+      "start": 53.4,
+      "end": 54.02,
+      "word": "soddisfacenti"
+    },
+    {
+      "start": 54.02,
+      "end": 54.16,
+      "word": "da"
+    },
+    {
+      "start": 54.16,
+      "end": 54.58,
+      "word": "mangiare."
+    },
+    {
+      "start": 54.58,
+      "end": 54.86,
+      "word": "Sono"
+    },
+    {
+      "start": 54.86,
+      "end": 55.24,
+      "word": "tornato"
+    },
+    {
+      "start": 55.24,
+      "end": 55.42,
+      "word": "su"
+    },
+    {
+      "start": 55.42,
+      "end": 55.7,
+      "word": "questi"
+    },
+    {
+      "start": 55.7,
+      "end": 56.08,
+      "word": "tender"
+    },
+    {
+      "start": 56.08,
+      "end": 56.54,
+      "word": "super"
+    },
+    {
+      "start": 56.54,
+      "end": 57.16,
+      "word": "dolci,"
+    },
+    {
+      "start": 57.22,
+      "end": 57.26,
+      "word": "ma"
+    },
+    {
+      "start": 57.26,
+      "end": 57.36,
+      "word": "lo"
+    },
+    {
+      "start": 57.36,
+      "end": 57.48,
+      "word": "stesso"
+    },
+    {
+      "start": 57.48,
+      "end": 57.74,
+      "word": "tempo"
+    },
+    {
+      "start": 57.74,
+      "end": 57.86,
+      "word": "ha"
+    },
+    {
+      "start": 57.86,
+      "end": 58.36,
+      "word": "fumicati,"
+    },
+    {
+      "start": 58.42,
+      "end": 58.7,
+      "word": "ovviamente"
+    },
+    {
+      "start": 58.7,
+      "end": 59.22,
+      "word": "inzuppati"
+    },
+    {
+      "start": 59.22,
+      "end": 59.34,
+      "word": "nella"
+    },
+    {
+      "start": 59.34,
+      "end": 59.58,
+      "word": "salsa"
+    },
+    {
+      "start": 59.58,
+      "end": 59.84,
+      "word": "renna"
+    },
+    {
+      "start": 59.84,
+      "end": 60.04,
+      "word": "anche"
+    },
+    {
+      "start": 60.04,
+      "end": 60.3,
+      "word": "loro."
+    },
+    {
+      "start": 60.4,
+      "end": 60.4,
+      "word": "Ho"
+    },
+    {
+      "start": 60.4,
+      "end": 60.58,
+      "word": "davvero"
+    },
+    {
+      "start": 60.58,
+      "end": 60.86,
+      "word": "provato"
+    },
+    {
+      "start": 60.86,
+      "end": 61.02,
+      "word": "quindi"
+    },
+    {
+      "start": 61.02,
+      "end": 61.18,
+      "word": "un"
+    },
+    {
+      "start": 61.18,
+      "end": 61.58,
+      "word": "misto"
+    },
+    {
+      "start": 61.58,
+      "end": 61.68,
+      "word": "di"
+    },
+    {
+      "start": 61.68,
+      "end": 62.02,
+      "word": "flavor,"
+    },
+    {
+      "start": 62.34,
+      "end": 62.5,
+      "word": "ma"
+    },
+    {
+      "start": 62.5,
+      "end": 62.66,
+      "word": "devo"
+    },
+    {
+      "start": 62.66,
+      "end": 63.0,
+      "word": "mettere"
+    },
+    {
+      "start": 63.0,
+      "end": 63.12,
+      "word": "che"
+    },
+    {
+      "start": 63.12,
+      "end": 63.2,
+      "word": "non"
+    },
+    {
+      "start": 63.2,
+      "end": 63.3,
+      "word": "mi"
+    },
+    {
+      "start": 63.3,
+      "end": 63.42,
+      "word": "sono"
+    },
+    {
+      "start": 63.42,
+      "end": 63.84,
+      "word": "spinto"
+    },
+    {
+      "start": 63.84,
+      "end": 64.2,
+      "word": "troppo"
+    },
+    {
+      "start": 64.2,
+      "end": 64.34,
+      "word": "sul"
+    },
+    {
+      "start": 64.34,
+      "end": 64.92,
+      "word": "piccante."
+    },
+    {
+      "start": 65.04,
+      "end": 65.2,
+      "word": "Cosa"
+    },
+    {
+      "start": 65.2,
+      "end": 65.32,
+      "word": "che"
+    },
+    {
+      "start": 65.32,
+      "end": 65.52,
+      "word": "farò"
+    },
+    {
+      "start": 65.52,
+      "end": 65.6,
+      "word": "la"
+    },
+    {
+      "start": 65.6,
+      "end": 65.88,
+      "word": "prossima"
+    },
+    {
+      "start": 65.88,
+      "end": 66.04,
+      "word": "volta"
+    },
+    {
+      "start": 66.04,
+      "end": 66.28,
+      "word": "perché"
+    },
+    {
+      "start": 66.28,
+      "end": 66.42,
+      "word": "sono"
+    },
+    {
+      "start": 66.42,
+      "end": 66.66,
+      "word": "davvero"
+    },
+    {
+      "start": 66.66,
+      "end": 67.04,
+      "word": "curioso"
+    },
+    {
+      "start": 67.04,
+      "end": 67.08,
+      "word": "di"
+    },
+    {
+      "start": 67.08,
+      "end": 67.38,
+      "word": "provare"
+    },
+    {
+      "start": 67.38,
+      "end": 67.56,
+      "word": "le"
+    },
+    {
+      "start": 67.56,
+      "end": 67.72,
+      "word": "loro"
+    },
+    {
+      "start": 67.72,
+      "end": 68.12,
+      "word": "Wings"
+    },
+    {
+      "start": 68.12,
+      "end": 68.32,
+      "word": "più"
+    },
+    {
+      "start": 68.32,
+      "end": 68.82,
+      "word": "piccanti."
+    },
+    {
+      "start": 68.92,
+      "end": 68.96,
+      "word": "Non"
+    },
+    {
+      "start": 68.96,
+      "end": 69.06,
+      "word": "in"
+    },
+    {
+      "start": 69.06,
+      "end": 69.22,
+      "word": "caso"
+    },
+    {
+      "start": 69.22,
+      "end": 69.38,
+      "word": "il"
+    },
+    {
+      "start": 69.38,
+      "end": 69.52,
+      "word": "pollo"
+    },
+    {
+      "start": 69.52,
+      "end": 69.58,
+      "word": "è"
+    },
+    {
+      "start": 69.58,
+      "end": 69.94,
+      "word": "davvero"
+    },
+    {
+      "start": 69.94,
+      "end": 70.34,
+      "word": "morbido"
+    },
+    {
+      "start": 70.34,
+      "end": 70.42,
+      "word": "e"
+    },
+    {
+      "start": 70.42,
+      "end": 70.66,
+      "word": "fritto"
+    },
+    {
+      "start": 70.66,
+      "end": 70.76,
+      "word": "alla"
+    },
+    {
+      "start": 70.76,
+      "end": 71.1,
+      "word": "grande."
+    },
+    {
+      "start": 71.24,
+      "end": 71.32,
+      "word": "Il"
+    },
+    {
+      "start": 71.32,
+      "end": 71.48,
+      "word": "fatto"
+    },
+    {
+      "start": 71.48,
+      "end": 71.64,
+      "word": "che"
+    },
+    {
+      "start": 71.64,
+      "end": 71.76,
+      "word": "avete"
+    },
+    {
+      "start": 71.76,
+      "end": 71.92,
+      "word": "così"
+    },
+    {
+      "start": 71.92,
+      "end": 72.26,
+      "word": "tante"
+    },
+    {
+      "start": 72.26,
+      "end": 72.6,
+      "word": "sceltà"
+    },
+    {
+      "start": 72.6,
+      "end": 72.66,
+      "word": "di"
+    },
+    {
+      "start": 72.66,
+      "end": 73.02,
+      "word": "flavor"
+    },
+    {
+      "start": 73.02,
+      "end": 73.24,
+      "word": "vi"
+    },
+    {
+      "start": 73.24,
+      "end": 73.42,
+      "word": "darà"
+    },
+    {
+      "start": 73.42,
+      "end": 73.9,
+      "word": "possibilità"
+    },
+    {
+      "start": 73.9,
+      "end": 73.98,
+      "word": "di"
+    },
+    {
+      "start": 73.98,
+      "end": 74.28,
+      "word": "provare"
+    },
+    {
+      "start": 74.28,
+      "end": 74.54,
+      "word": "tanti"
+    },
+    {
+      "start": 74.54,
+      "end": 74.84,
+      "word": "gusti"
+    },
+    {
+      "start": 74.84,
+      "end": 75.34,
+      "word": "diversi."
+    },
+    {
+      "start": 75.38,
+      "end": 75.44,
+      "word": "Ed"
+    },
+    {
+      "start": 75.44,
+      "end": 75.76,
+      "word": "infine"
+    },
+    {
+      "start": 75.76,
+      "end": 76.0,
+      "word": "anche"
+    },
+    {
+      "start": 76.0,
+      "end": 76.16,
+      "word": "se"
+    },
+    {
+      "start": 76.16,
+      "end": 76.26,
+      "word": "non"
+    },
+    {
+      "start": 76.26,
+      "end": 76.42,
+      "word": "sono"
+    },
+    {
+      "start": 76.42,
+      "end": 76.68,
+      "word": "riuscito"
+    },
+    {
+      "start": 76.68,
+      "end": 76.78,
+      "word": "a"
+    },
+    {
+      "start": 76.78,
+      "end": 77.06,
+      "word": "vincere"
+    },
+    {
+      "start": 77.06,
+      "end": 77.28,
+      "word": "nemmeno"
+    },
+    {
+      "start": 77.28,
+      "end": 77.32,
+      "word": "a"
+    },
+    {
+      "start": 77.32,
+      "end": 77.5,
+      "word": "casa"
+    },
+    {
+      "start": 77.5,
+      "end": 77.62,
+      "word": "con"
+    },
+    {
+      "start": 77.62,
+      "end": 77.72,
+      "word": "la"
+    },
+    {
+      "start": 77.72,
+      "end": 77.94,
+      "word": "doggy"
+    },
+    {
+      "start": 77.94,
+      "end": 78.12,
+      "word": "bag"
+    },
+    {
+      "start": 78.12,
+      "end": 78.36,
+      "word": "e"
+    },
+    {
+      "start": 78.36,
+      "end": 78.42,
+      "word": "la"
+    },
+    {
+      "start": 78.42,
+      "end": 78.8,
+      "word": "mascotta"
+    },
+    {
+      "start": 78.8,
+      "end": 79.2,
+      "word": "renci."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "dur": 1.8,
+      "transcript": "Wings' Top è finalmente arrivato in Italia e"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.8,
+      "end": 3.833,
+      "dur": 2.033,
+      "transcript": "con lui quello che probabilmente sarà anche il"
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.833,
+      "end": 5.8,
+      "dur": 1.967,
+      "transcript": "miglior polofetto. Oggi siamo a Milano nel loro"
+    },
+    {
+      "shot_idx": 3,
+      "start": 5.8,
+      "end": 7.633,
+      "dur": 1.833,
+      "transcript": "evento di apertura del loro primo storio in"
+    },
+    {
+      "shot_idx": 4,
+      "start": 7.633,
+      "end": 9.6,
+      "dur": 1.967,
+      "transcript": "Italia, aperto proprio un viadante 16."
+    },
+    {
+      "shot_idx": 5,
+      "start": 9.6,
+      "end": 11.367,
+      "dur": 1.767,
+      "transcript": "Posizione super centrale e location"
+    },
+    {
+      "shot_idx": 6,
+      "start": 11.367,
+      "end": 13.367,
+      "dur": 2.0,
+      "transcript": "clamorosa. Noi abbiamo subito ordinato e siamo saliti"
+    },
+    {
+      "shot_idx": 7,
+      "start": 13.367,
+      "end": 17.333,
+      "dur": 3.967,
+      "transcript": "al secondo piano dove tra l 'altro c 'era anche il DJ. E questo è tutto ciò che abbiamo preso. Di base"
+    },
+    {
+      "shot_idx": 8,
+      "start": 17.333,
+      "end": 19.367,
+      "dur": 2.033,
+      "transcript": "abbiamo preso dei menu combo con 8 Wings"
+    },
+    {
+      "shot_idx": 9,
+      "start": 19.367,
+      "end": 21.833,
+      "dur": 2.467,
+      "transcript": "classiche o boneless, retenders, ovviamente"
+    },
+    {
+      "shot_idx": 10,
+      "start": 21.833,
+      "end": 23.633,
+      "dur": 1.8,
+      "transcript": "fries e bibita frire fill. E di"
+    },
+    {
+      "shot_idx": 11,
+      "start": 23.633,
+      "end": 25.4,
+      "dur": 1.767,
+      "transcript": "ognuno abbiamo dovuto ovviamente scegliere il loro"
+    },
+    {
+      "shot_idx": 12,
+      "start": 25.4,
+      "end": 28.4,
+      "dur": 3.0,
+      "transcript": "flavor. Io ho iniziato da queste boneless awaian che è un sapore"
+    },
+    {
+      "shot_idx": 13,
+      "start": 28.4,
+      "end": 30.867,
+      "dur": 2.467,
+      "transcript": "molto classico e delicato, che ovviamente fin da subito ha"
+    },
+    {
+      "shot_idx": 14,
+      "start": 30.867,
+      "end": 33.367,
+      "dur": 2.5,
+      "transcript": "accompagnato con la loro salsa renna, che è una delle misalze preferite"
+    },
+    {
+      "shot_idx": 15,
+      "start": 33.367,
+      "end": 35.333,
+      "dur": 1.967,
+      "transcript": "e col pollo fritto non può mancare. Un po' di fries"
+    },
+    {
+      "shot_idx": 16,
+      "start": 35.333,
+      "end": 37.333,
+      "dur": 2.0,
+      "transcript": "col cedar oppure lemon pepper,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 37.333,
+      "end": 38.867,
+      "dur": 1.533,
+      "transcript": "anche loro ingiuppate nell 'arence."
+    },
+    {
+      "shot_idx": 18,
+      "start": 38.867,
+      "end": 40.067,
+      "dur": 1.2,
+      "transcript": "E ho continuato con questi tender"
+    },
+    {
+      "shot_idx": 19,
+      "start": 40.067,
+      "end": 41.367,
+      "dur": 1.3,
+      "transcript": "croccanti super"
+    },
+    {
+      "shot_idx": 20,
+      "start": 41.367,
+      "end": 42.767,
+      "dur": 1.4,
+      "transcript": "morbidi all 'interno, ovviamente"
+    },
+    {
+      "shot_idx": 21,
+      "start": 42.767,
+      "end": 44.767,
+      "dur": 2.0,
+      "transcript": "anche loro lemon pepper che forse"
+    },
+    {
+      "shot_idx": 22,
+      "start": 44.767,
+      "end": 47.6,
+      "dur": 2.833,
+      "transcript": "il mio gusto preferito. In quanto adoro questo leggero pepato e"
+    },
+    {
+      "shot_idx": 23,
+      "start": 47.6,
+      "end": 49.367,
+      "dur": 1.767,
+      "transcript": "il sapore di limone un po' grumato. Poi"
+    },
+    {
+      "shot_idx": 24,
+      "start": 49.367,
+      "end": 51.4,
+      "dur": 2.033,
+      "transcript": "sono passato alle Wings classiche che anche"
+    },
+    {
+      "shot_idx": 25,
+      "start": 51.4,
+      "end": 53.5,
+      "dur": 2.1,
+      "transcript": "se preferisco le boneless loro sono sempre"
+    },
+    {
+      "shot_idx": 26,
+      "start": 53.5,
+      "end": 55.833,
+      "dur": 2.333,
+      "transcript": "soddisfacenti da mangiare. Sono tornato su questi"
+    },
+    {
+      "shot_idx": 27,
+      "start": 55.833,
+      "end": 57.033,
+      "dur": 1.2,
+      "transcript": "tender super dolci,"
+    },
+    {
+      "shot_idx": 28,
+      "start": 57.033,
+      "end": 59.033,
+      "dur": 2.0,
+      "transcript": "ma lo stesso tempo ha fumicati, ovviamente inzuppati"
+    },
+    {
+      "shot_idx": 29,
+      "start": 59.033,
+      "end": 61.933,
+      "dur": 2.9,
+      "transcript": "nella salsa renna anche loro. Ho davvero provato quindi un misto di flavor,"
+    },
+    {
+      "shot_idx": 30,
+      "start": 61.933,
+      "end": 63.733,
+      "dur": 1.8,
+      "transcript": "ma devo mettere che non mi sono spinto"
+    },
+    {
+      "shot_idx": 31,
+      "start": 63.733,
+      "end": 67.067,
+      "dur": 3.333,
+      "transcript": "troppo sul piccante. Cosa che farò la prossima volta perché sono davvero curioso di"
+    },
+    {
+      "shot_idx": 32,
+      "start": 67.067,
+      "end": 68.833,
+      "dur": 1.767,
+      "transcript": "provare le loro Wings più piccanti."
+    },
+    {
+      "shot_idx": 33,
+      "start": 68.833,
+      "end": 70.867,
+      "dur": 2.033,
+      "transcript": "Non in caso il pollo è davvero morbido e fritto alla"
+    },
+    {
+      "shot_idx": 34,
+      "start": 70.867,
+      "end": 73.067,
+      "dur": 2.2,
+      "transcript": "grande. Il fatto che avete così tante sceltà di flavor"
+    },
+    {
+      "shot_idx": 35,
+      "start": 73.067,
+      "end": 76.533,
+      "dur": 3.467,
+      "transcript": "vi darà possibilità di provare tanti gusti diversi. Ed infine anche se non sono"
+    },
+    {
+      "shot_idx": 36,
+      "start": 76.533,
+      "end": 79.567,
+      "dur": 3.033,
+      "transcript": "riuscito a vincere nemmeno a casa con la doggy bag e la mascotta renci."
+    }
+  ],
+  "full_text": "Wings' Top è finalmente arrivato in Italia e con lui quello che probabilmente sarà anche il miglior polofetto. Oggi siamo a Milano nel loro evento di apertura del loro primo storio in Italia, aperto proprio un viadante 16. Posizione super centrale e location clamorosa. Noi abbiamo subito ordinato e siamo saliti al secondo piano dove tra l'altro c'era anche il DJ. E questo è tutto ciò che abbiamo preso. Di base abbiamo preso dei menu combo con 8 Wings classiche o boneless, retenders, ovviamente fries e bibita frire fill. E di ognuno abbiamo dovuto ovviamente scegliere il loro flavor. Io ho iniziato da queste boneless awaian che è un sapore molto classico e delicato, che ovviamente fin da subito ha accompagnato con la loro salsa renna, che è una delle misalze preferite e col pollo fritto non può mancare. Un po' di fries col cedar oppure lemon pepper, anche loro ingiuppate nell'arence. E ho continuato con questi tender croccanti super morbidi all'interno, ovviamente anche loro lemon pepper che forse il mio gusto preferito. In quanto adoro questo leggero pepato e il sapore di limone un po' grumato. Poi sono passato alle Wings classiche che anche se preferisco le boneless loro sono sempre soddisfacenti da mangiare. Sono tornato su questi tender super dolci, ma lo stesso tempo ha fumicati, ovviamente inzuppati nella salsa renna anche loro. Ho davvero provato quindi un misto di flavor, ma devo mettere che non mi sono spinto troppo sul piccante. Cosa che farò la prossima volta perché sono davvero curioso di provare le loro Wings più piccanti. Non in caso il pollo è davvero morbido e fritto alla grande. Il fatto che avete così tante sceltà di flavor vi darà possibilità di provare tanti gusti diversi. Ed infine anche se non sono riuscito a vincere nemmeno a casa con la doggy bag e la mascotta renci.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

@@ -1,0 +1,2754 @@
+{
+  "video_id": "7532072242780327190",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7532072242780327190",
+    "ref_id": "ref_75_7532072242780327190",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7532072242780327190",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 32,
+  "total_dur": 72.27,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 1.467,
+      "dur": 1.467,
+      "center": 0.733,
+      "role": "food_detail",
+      "subject": "carne affumicata in mano",
+      "description": "La carne affumicata è tenuta in primo piano, con il testo 'MIGLIOR BBQ MAI MANGIATO' in evidenza.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Il miglior barbecue che io abbia"
+    },
+    {
+      "idx": 1,
+      "start": 1.467,
+      "end": 2.667,
+      "dur": 1.2,
+      "center": 2.067,
+      "role": "person_eating",
+      "subject": "ragazzo che tiene carne",
+      "description": "Il ragazzo tiene un pezzo di carne affumicata con entrambe le mani, con il testo 'MIGLIOR BBQ MAI MANGIATO' sopra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mai provato. Se i ragazzi dopo"
+    },
+    {
+      "idx": 2,
+      "start": 2.667,
+      "end": 4.2,
+      "dur": 1.533,
+      "center": 3.433,
+      "role": "person_eating",
+      "subject": "ragazzo che addenta costola",
+      "description": "Il ragazzo sta addentando una costola con espressione di gusto, con il testo 'ESPERIENZE' in basso.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "diverse esperienze in questo mio viaggio in"
+    },
+    {
+      "idx": 3,
+      "start": 4.2,
+      "end": 5.867,
+      "dur": 1.667,
+      "center": 5.033,
+      "role": "food_detail",
+      "subject": "costola di maiale in mano",
+      "description": "Una costola di maiale è tenuta in mano, mostrando l'interno rosato, con il testo 'RICERCA' in basso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "Texas alla ricerca del miglior barbecue"
+    },
+    {
+      "idx": 4,
+      "start": 5.867,
+      "end": 7.7,
+      "dur": 1.833,
+      "center": 6.783,
+      "role": "food_detail",
+      "subject": "salsiccia infilzata su forchetta",
+      "description": "Una salsiccia è infilzata su una forchetta e tenuta in primo piano, con il ragazzo sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "di tutto il Paese beh, forse ho trovato quello"
+    },
+    {
+      "idx": 5,
+      "start": 7.7,
+      "end": 9.5,
+      "dur": 1.8,
+      "center": 8.6,
+      "role": "venue_exterior",
+      "subject": "insegna Terry Black's Barbecue",
+      "description": "L'insegna del locale con il nome 'Terry Black's Barbecue' e la scritta 'Austin TX' in un osso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "che per me è il mio preferito. E sto"
+    },
+    {
+      "idx": 6,
+      "start": 9.5,
+      "end": 11.1,
+      "dur": 1.6,
+      "center": 10.3,
+      "role": "venue_exterior",
+      "subject": "insegna Terry Black's Barbecue",
+      "description": "L'insegna del locale vista dal basso, con il cielo azzurro e nuvole sullo sfondo.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "assolutamente parlando di Teres Black"
+    },
+    {
+      "idx": 7,
+      "start": 11.1,
+      "end": 12.5,
+      "dur": 1.4,
+      "center": 11.8,
+      "role": "food_detail",
+      "subject": "carne affumicata tagliata",
+      "description": "Un cuoco taglia carne affumicata su un tagliere di legno, con vassoi di cibo in primo piano.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "barbecue. Un barbecue che è frutto di"
+    },
+    {
+      "idx": 8,
+      "start": 12.5,
+      "end": 13.8,
+      "dur": 1.3,
+      "center": 13.15,
+      "role": "food_detail",
+      "subject": "vassoio cibo barbecue",
+      "description": "Un vassoio rosso con vari contorni come coleslaw e mac and cheese, mentre una mano prepara altro cibo.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "entere generazioni di"
+    },
+    {
+      "idx": 9,
+      "start": 13.8,
+      "end": 14.7,
+      "dur": 0.9,
+      "center": 14.25,
+      "role": "food_plated",
+      "subject": "vassoio cibo barbecue",
+      "description": "Un vassoio rosso con carne affumicata, salsicce, mac and cheese, coleslaw e pane.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_freddo",
+      "transcript": "conoscenze. Io sono stato"
+    },
+    {
+      "idx": 10,
+      "start": 14.7,
+      "end": 15.4,
+      "dur": 0.7,
+      "center": 15.05,
+      "role": "food_plated",
+      "subject": "piatto carne contorni",
+      "description": "Un piatto con carne affumicata, salsicce, mac and cheese e coleslaw su un vassoio rosso.",
+      "composition": "medium",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "a provarlo nella"
+    },
+    {
+      "idx": 11,
+      "start": 15.4,
+      "end": 19.6,
+      "dur": 4.2,
+      "center": 17.5,
+      "role": "food_detail",
+      "subject": "salsicce mac cheese",
+      "description": "Dettaglio delle salsicce lucide e del mac and cheese cremoso.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "loro sedia a Dostin e questo è il mio vassoio con ovviamente le fette di brisket, la sassiccia cedera,"
+    },
+    {
+      "idx": 12,
+      "start": 19.6,
+      "end": 20.9,
+      "dur": 1.3,
+      "center": 20.25,
+      "role": "food_detail",
+      "subject": "costine sottaceti coleslaw",
+      "description": "Dettaglio delle costine affumicate, sottaceti e coleslaw.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "la pegno, due pork ribs"
+    },
+    {
+      "idx": 13,
+      "start": 20.9,
+      "end": 22.2,
+      "dur": 1.3,
+      "center": 21.55,
+      "role": "food_detail",
+      "subject": "costine affumicate pane",
+      "description": "Primo piano sulle costine affumicate con il loro colore rosato e una fetta di pane bianco.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "e come sai, la solita"
+    },
+    {
+      "idx": 14,
+      "start": 22.2,
+      "end": 24.2,
+      "dur": 2.0,
+      "center": 23.2,
+      "role": "venue_interior_wide",
+      "subject": "interno ristorante affollato",
+      "description": "L'interno di un ristorante affollato con luci colorate appese al soffitto.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "coslo e il solito mac n cheese. Per questa volta"
+    },
+    {
+      "idx": 15,
+      "start": 24.2,
+      "end": 28.7,
+      "dur": 4.5,
+      "center": 26.45,
+      "role": "person_eating",
+      "subject": "uomo con costola",
+      "description": "Un uomo tiene in mano una costola di carne con un'espressione sorpresa, mentre un piatto di cibo è in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "estendo da solo non ho preso la costina di manzo che hanno cose enorme ma ragazzi tranquili che tornerò a provarla."
+    },
+    {
+      "idx": 16,
+      "start": 28.7,
+      "end": 32.8,
+      "dur": 4.1,
+      "center": 30.75,
+      "role": "food_detail",
+      "subject": "costola di maiale",
+      "description": "Una costola di maiale con carne rosa e ossa bianche è tenuta in mano, con un tavolo a scacchi rossi e bianchi sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Passando invece alle pork ribs ragazzi guardate che rub, guardate che cottura perfetta, morbide,"
+    },
+    {
+      "idx": 17,
+      "start": 32.8,
+      "end": 35.833,
+      "dur": 3.033,
+      "center": 34.317,
+      "role": "person_eating",
+      "subject": "uomo mangia costola",
+      "description": "Un uomo morde una costola di maiale con un'espressione di piacere, mentre indossa una felpa con la scritta 'TEXAS'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "saporite, con lo strato superficiale leggermente croccante,"
+    },
+    {
+      "idx": 18,
+      "start": 35.833,
+      "end": 38.8,
+      "dur": 2.967,
+      "center": 37.317,
+      "role": "person_eating",
+      "subject": "uomo mangia costola",
+      "description": "L'uomo continua a mangiare la costola, con gli occhi chiusi in segno di apprezzamento.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "uno spettacolo davvero. Anche la sassiccia per quanto secondo me sia un prodotto"
+    },
+    {
+      "idx": 19,
+      "start": 38.8,
+      "end": 46.167,
+      "dur": 7.367,
+      "center": 42.483,
+      "role": "food_detail",
+      "subject": "fetta di salsiccia",
+      "description": "Una fetta di salsiccia rosa e gialla è tenuta in primo piano con una forchetta, mentre l'uomo con la felpa 'TEXAS' è sfocato sullo sfondo.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "secondario in un barbecue era comunque saporita al giusto e che dire del loro brisket. Che ovviamente il punto forte praticamente di ogni barbecue in Texas è"
+    },
+    {
+      "idx": 20,
+      "start": 46.167,
+      "end": 48.033,
+      "dur": 1.867,
+      "center": 47.1,
+      "role": "food_closeup",
+      "subject": "fetta di carne affumicata",
+      "description": "Una fetta di carne affumicata è tenuta in primo piano con una forchetta, con il testo 'TERRY'S' sovrapposto.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "anche questo, il Teres Black mi ha assolutamente"
+    },
+    {
+      "idx": 21,
+      "start": 48.033,
+      "end": 49.4,
+      "dur": 1.367,
+      "center": 48.717,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Un ragazzo con una felpa arancione con la scritta 'TEXAS' sta mangiando un pezzo di carne con una forchetta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "deluso. Cioè ragazzi guardate"
+    },
+    {
+      "idx": 22,
+      "start": 49.4,
+      "end": 52.7,
+      "dur": 3.3,
+      "center": 51.05,
+      "role": "person_eating",
+      "subject": "ragazzo esamina carne",
+      "description": "Il ragazzo tiene in mano una fetta di carne, esaminandola, con il testo 'NONOSTANTE' sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "si sfaldava con le mani. E nonostante fosse un brisket non troppo"
+    },
+    {
+      "idx": 23,
+      "start": 52.7,
+      "end": 55.3,
+      "dur": 2.6,
+      "center": 54.0,
+      "role": "person_eating",
+      "subject": "ragazzo mangia carne",
+      "description": "Il ragazzo sta mangiando un pezzo di carne, con il testo 'SECCO' sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "grasso non risultava comunque secco. Ma anzi, coslo"
+    },
+    {
+      "idx": 24,
+      "start": 55.3,
+      "end": 56.4,
+      "dur": 1.1,
+      "center": 55.85,
+      "role": "person_eating",
+      "subject": "ragazzo mostra insalata",
+      "description": "Il ragazzo tiene in mano una piccola ciotola di insalata di cavolo, guardando la telecamera, con il testo 'INVECE' sovrapposto.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "che invece per esempio rispetto"
+    },
+    {
+      "idx": 25,
+      "start": 56.4,
+      "end": 59.933,
+      "dur": 3.533,
+      "center": 58.167,
+      "role": "person_eating",
+      "subject": "ragazzo mangia coleslaw",
+      "description": "Il ragazzo sta per mangiare un boccone di coleslaw con la forchetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "a quella di Franklin era molto meno pesante, meno condita e forse più"
+    },
+    {
+      "idx": 26,
+      "start": 59.933,
+      "end": 62.233,
+      "dur": 2.3,
+      "center": 61.083,
+      "role": "person_eating",
+      "subject": "ragazzo mostra mac and cheese",
+      "description": "Il ragazzo guarda la telecamera con un'espressione sorpresa mentre mostra un contenitore di mac and cheese.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "abbondante come porzione. Mac n' Cheese"
+    },
+    {
+      "idx": 27,
+      "start": 62.233,
+      "end": 64.967,
+      "dur": 2.733,
+      "center": 63.6,
+      "role": "person_eating",
+      "subject": "ragazzo mangia mac and cheese",
+      "description": "Il ragazzo sta per mangiare un boccone di mac and cheese dalla forchetta.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "artificiale_caldo",
+      "transcript": "letteralmente perfetto. Dai, ovviamente a fine mangiata"
+    },
+    {
+      "idx": 28,
+      "start": 64.967,
+      "end": 66.767,
+      "dur": 1.8,
+      "center": 65.867,
+      "role": "drink_detail",
+      "subject": "ragazzo beve da bicchiere",
+      "description": "Il ragazzo beve da un bicchiere nero con il logo 'Terry Black's Barbecue'.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "artificiale_caldo",
+      "transcript": "mi porta a casa il mio bel bicchiere di Teres"
+    },
+    {
+      "idx": 29,
+      "start": 66.767,
+      "end": 67.8,
+      "dur": 1.033,
+      "center": 67.283,
+      "role": "venue_exterior",
+      "subject": "insegna Terry Black's BBQ",
+      "description": "L'insegna esterna del ristorante 'Terry Black's BBQ' con un cielo nuvoloso sullo sfondo.",
+      "composition": "medium",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Black barbecue come ricordo."
+    },
+    {
+      "idx": 30,
+      "start": 67.8,
+      "end": 70.5,
+      "dur": 2.7,
+      "center": 69.15,
+      "role": "food_detail",
+      "subject": "carne affumicata griglia",
+      "description": "La carne affumicata sulla griglia è il punto focale, con un termometro visibile.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Ed infine giretto nei loro barbecue che sono"
+    },
+    {
+      "idx": 31,
+      "start": 70.5,
+      "end": 72.267,
+      "dur": 1.767,
+      "center": 71.383,
+      "role": "food_detail",
+      "subject": "salsicce e carne affumicata",
+      "description": "Salsicce e carne affumicata sono visibili sulla griglia, con un pezzo avvolto in alluminio.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "davvero una roba immensa."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "carne affumicata in mano",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "La carne affumicata è tenuta in primo piano, con il testo 'MIGLIOR BBQ MAI MANGIATO' in evidenza.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.467,
+      "dur": 1.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che tiene carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo tiene un pezzo di carne affumicata con entrambe le mani, con il testo 'MIGLIOR BBQ MAI MANGIATO' sopra.",
+      "shot_idx": 1,
+      "start": 1.467,
+      "end": 2.667,
+      "dur": 1.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo che addenta costola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta addentando una costola con espressione di gusto, con il testo 'ESPERIENZE' in basso.",
+      "shot_idx": 2,
+      "start": 2.667,
+      "end": 4.2,
+      "dur": 1.533
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "costola di maiale in mano",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una costola di maiale è tenuta in mano, mostrando l'interno rosato, con il testo 'RICERCA' in basso.",
+      "shot_idx": 3,
+      "start": 4.2,
+      "end": 5.867,
+      "dur": 1.667
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "salsiccia infilzata su forchetta",
+      "composizione": "close_up",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Una salsiccia è infilzata su una forchetta e tenuta in primo piano, con il ragazzo sfocato sullo sfondo.",
+      "shot_idx": 4,
+      "start": 5.867,
+      "end": 7.7,
+      "dur": 1.833
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Terry Black's Barbecue",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'insegna del locale con il nome 'Terry Black's Barbecue' e la scritta 'Austin TX' in un osso.",
+      "shot_idx": 5,
+      "start": 7.7,
+      "end": 9.5,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Terry Black's Barbecue",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'insegna del locale vista dal basso, con il cielo azzurro e nuvole sullo sfondo.",
+      "shot_idx": 6,
+      "start": 9.5,
+      "end": 11.1,
+      "dur": 1.6
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "carne affumicata tagliata",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un cuoco taglia carne affumicata su un tagliere di legno, con vassoi di cibo in primo piano.",
+      "shot_idx": 7,
+      "start": 11.1,
+      "end": 12.5,
+      "dur": 1.4
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "vassoio cibo barbecue",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un vassoio rosso con vari contorni come coleslaw e mac and cheese, mentre una mano prepara altro cibo.",
+      "shot_idx": 8,
+      "start": 12.5,
+      "end": 13.8,
+      "dur": 1.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_plated",
+      "soggetto": "vassoio cibo barbecue",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un vassoio rosso con carne affumicata, salsicce, mac and cheese, coleslaw e pane.",
+      "shot_idx": 9,
+      "start": 13.8,
+      "end": 14.7,
+      "dur": 0.9
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_plated",
+      "soggetto": "piatto carne contorni",
+      "composizione": "medium",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Un piatto con carne affumicata, salsicce, mac and cheese e coleslaw su un vassoio rosso.",
+      "shot_idx": 10,
+      "start": 14.7,
+      "end": 15.4,
+      "dur": 0.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "salsicce mac cheese",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Dettaglio delle salsicce lucide e del mac and cheese cremoso.",
+      "shot_idx": 11,
+      "start": 15.4,
+      "end": 19.6,
+      "dur": 4.2
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_detail",
+      "soggetto": "costine sottaceti coleslaw",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Dettaglio delle costine affumicate, sottaceti e coleslaw.",
+      "shot_idx": 12,
+      "start": 19.6,
+      "end": 20.9,
+      "dur": 1.3
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_detail",
+      "soggetto": "costine affumicate pane",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Primo piano sulle costine affumicate con il loro colore rosato e una fetta di pane bianco.",
+      "shot_idx": 13,
+      "start": 20.9,
+      "end": 22.2,
+      "dur": 1.3
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_interior_wide",
+      "soggetto": "interno ristorante affollato",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "L'interno di un ristorante affollato con luci colorate appese al soffitto.",
+      "shot_idx": 14,
+      "start": 22.2,
+      "end": 24.2,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo con costola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo tiene in mano una costola di carne con un'espressione sorpresa, mentre un piatto di cibo è in primo piano.",
+      "shot_idx": 15,
+      "start": 24.2,
+      "end": 28.7,
+      "dur": 4.5
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "costola di maiale",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Una costola di maiale con carne rosa e ossa bianche è tenuta in mano, con un tavolo a scacchi rossi e bianchi sullo sfondo.",
+      "shot_idx": 16,
+      "start": 28.7,
+      "end": 32.8,
+      "dur": 4.1
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia costola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un uomo morde una costola di maiale con un'espressione di piacere, mentre indossa una felpa con la scritta 'TEXAS'.",
+      "shot_idx": 17,
+      "start": 32.8,
+      "end": 35.833,
+      "dur": 3.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia costola",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "L'uomo continua a mangiare la costola, con gli occhi chiusi in segno di apprezzamento.",
+      "shot_idx": 18,
+      "start": 35.833,
+      "end": 38.8,
+      "dur": 2.967
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "fetta di salsiccia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una fetta di salsiccia rosa e gialla è tenuta in primo piano con una forchetta, mentre l'uomo con la felpa 'TEXAS' è sfocato sullo sfondo.",
+      "shot_idx": 19,
+      "start": 38.8,
+      "end": 46.167,
+      "dur": 7.367
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_closeup",
+      "soggetto": "fetta di carne affumicata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una fetta di carne affumicata è tenuta in primo piano con una forchetta, con il testo 'TERRY'S' sovrapposto.",
+      "shot_idx": 20,
+      "start": 46.167,
+      "end": 48.033,
+      "dur": 1.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un ragazzo con una felpa arancione con la scritta 'TEXAS' sta mangiando un pezzo di carne con una forchetta.",
+      "shot_idx": 21,
+      "start": 48.033,
+      "end": 49.4,
+      "dur": 1.367
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo esamina carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una fetta di carne, esaminandola, con il testo 'NONOSTANTE' sovrapposto.",
+      "shot_idx": 22,
+      "start": 49.4,
+      "end": 52.7,
+      "dur": 3.3
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia carne",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un pezzo di carne, con il testo 'SECCO' sovrapposto.",
+      "shot_idx": 23,
+      "start": 52.7,
+      "end": 55.3,
+      "dur": 2.6
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra insalata",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano una piccola ciotola di insalata di cavolo, guardando la telecamera, con il testo 'INVECE' sovrapposto.",
+      "shot_idx": 24,
+      "start": 55.3,
+      "end": 56.4,
+      "dur": 1.1
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia coleslaw",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un boccone di coleslaw con la forchetta.",
+      "shot_idx": 25,
+      "start": 56.4,
+      "end": 59.933,
+      "dur": 3.533
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mostra mac and cheese",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo guarda la telecamera con un'espressione sorpresa mentre mostra un contenitore di mac and cheese.",
+      "shot_idx": 26,
+      "start": 59.933,
+      "end": 62.233,
+      "dur": 2.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia mac and cheese",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo sta per mangiare un boccone di mac and cheese dalla forchetta.",
+      "shot_idx": 27,
+      "start": 62.233,
+      "end": 64.967,
+      "dur": 2.733
+    },
+    {
+      "idx": 3,
+      "role_visivo": "drink_detail",
+      "soggetto": "ragazzo beve da bicchiere",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "artificiale_caldo",
+      "cosa_si_nota": "Il ragazzo beve da un bicchiere nero con il logo 'Terry Black's Barbecue'.",
+      "shot_idx": 28,
+      "start": 64.967,
+      "end": 66.767,
+      "dur": 1.8
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "insegna Terry Black's BBQ",
+      "composizione": "medium",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "L'insegna esterna del ristorante 'Terry Black's BBQ' con un cielo nuvoloso sullo sfondo.",
+      "shot_idx": 29,
+      "start": 66.767,
+      "end": 67.8,
+      "dur": 1.033
+    },
+    {
+      "idx": 0,
+      "role_visivo": "food_detail",
+      "soggetto": "carne affumicata griglia",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "La carne affumicata sulla griglia è il punto focale, con un termometro visibile.",
+      "shot_idx": 30,
+      "start": 67.8,
+      "end": 70.5,
+      "dur": 2.7
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "salsicce e carne affumicata",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Salsicce e carne affumicata sono visibili sulla griglia, con un pezzo avvolto in alluminio.",
+      "shot_idx": 31,
+      "start": 70.5,
+      "end": 72.267,
+      "dur": 1.767
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Il miglior barbecue che io abbia mai provato."
+    },
+    {
+      "start": 2.18,
+      "end": 6.68,
+      "text": "Se i ragazzi dopo diverse esperienze in questo mio viaggio in Texas alla ricerca del miglior barbecue di tutto il Paese"
+    },
+    {
+      "start": 6.68,
+      "end": 9.08,
+      "text": "beh, forse ho trovato quello che per me è il mio preferito."
+    },
+    {
+      "start": 9.16,
+      "end": 11.42,
+      "text": "E sto assolutamente parlando di Teres Black barbecue."
+    },
+    {
+      "start": 11.54,
+      "end": 14.2,
+      "text": "Un barbecue che è frutto di entere generazioni di conoscenze."
+    },
+    {
+      "start": 14.36,
+      "end": 16.42,
+      "text": "Io sono stato a provarlo nella loro sedia a Dostin"
+    },
+    {
+      "start": 16.42,
+      "end": 18.66,
+      "text": "e questo è il mio vassoio con ovviamente le fette di brisket,"
+    },
+    {
+      "start": 18.78,
+      "end": 20.98,
+      "text": "la sassiccia cedera, la pegno, due pork ribs"
+    },
+    {
+      "start": 20.98,
+      "end": 23.46,
+      "text": "e come sai, la solita coslo e il solito mac n cheese."
+    },
+    {
+      "start": 23.66,
+      "end": 26.14,
+      "text": "Per questa volta estendo da solo non ho preso la costina di manzo"
+    },
+    {
+      "start": 26.14,
+      "end": 28.54,
+      "text": "che hanno cose enorme ma ragazzi tranquili che tornerò a provarla."
+    },
+    {
+      "start": 28.54,
+      "end": 30.9,
+      "text": "Passando invece alle pork ribs ragazzi guardate che rub,"
+    },
+    {
+      "start": 31.12,
+      "end": 33.62,
+      "text": "guardate che cottura perfetta, morbide, saporite,"
+    },
+    {
+      "start": 33.76,
+      "end": 35.76,
+      "text": "con lo strato superficiale leggermente croccante,"
+    },
+    {
+      "start": 35.92,
+      "end": 37.0,
+      "text": "uno spettacolo davvero."
+    },
+    {
+      "start": 37.08,
+      "end": 39.96,
+      "text": "Anche la sassiccia per quanto secondo me sia un prodotto secondario in un barbecue"
+    },
+    {
+      "start": 39.96,
+      "end": 43.1,
+      "text": "era comunque saporita al giusto e che dire del loro brisket."
+    },
+    {
+      "start": 43.22,
+      "end": 45.86,
+      "text": "Che ovviamente il punto forte praticamente di ogni barbecue in Texas"
+    },
+    {
+      "start": 45.86,
+      "end": 48.58,
+      "text": "è anche questo, il Teres Black mi ha assolutamente deluso."
+    },
+    {
+      "start": 48.74,
+      "end": 50.76,
+      "text": "Cioè ragazzi guardate si sfaldava con le mani."
+    },
+    {
+      "start": 50.82,
+      "end": 54.36,
+      "text": "E nonostante fosse un brisket non troppo grasso non risultava comunque secco."
+    },
+    {
+      "start": 54.4,
+      "end": 57.04,
+      "text": "Ma anzi, coslo che invece per esempio rispetto a quella di Franklin"
+    },
+    {
+      "start": 57.04,
+      "end": 61.02,
+      "text": "era molto meno pesante, meno condita e forse più abbondante come porzione."
+    },
+    {
+      "start": 61.24,
+      "end": 63.62,
+      "text": "Mac n' Cheese letteralmente perfetto."
+    },
+    {
+      "start": 63.7,
+      "end": 66.4,
+      "text": "Dai, ovviamente a fine mangiata mi porta a casa il mio bel bicchiere"
+    },
+    {
+      "start": 66.4,
+      "end": 67.94,
+      "text": "di Teres Black barbecue come ricordo."
+    },
+    {
+      "start": 68.06,
+      "end": 71.64,
+      "text": "Ed infine giretto nei loro barbecue che sono davvero una roba immensa."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "Il"
+    },
+    {
+      "start": 0.22,
+      "end": 0.54,
+      "word": "miglior"
+    },
+    {
+      "start": 0.54,
+      "end": 0.92,
+      "word": "barbecue"
+    },
+    {
+      "start": 0.92,
+      "end": 1.18,
+      "word": "che"
+    },
+    {
+      "start": 1.18,
+      "end": 1.32,
+      "word": "io"
+    },
+    {
+      "start": 1.32,
+      "end": 1.54,
+      "word": "abbia"
+    },
+    {
+      "start": 1.54,
+      "end": 1.66,
+      "word": "mai"
+    },
+    {
+      "start": 1.66,
+      "end": 2.1,
+      "word": "provato."
+    },
+    {
+      "start": 2.18,
+      "end": 2.22,
+      "word": "Se"
+    },
+    {
+      "start": 2.22,
+      "end": 2.3,
+      "word": "i"
+    },
+    {
+      "start": 2.3,
+      "end": 2.54,
+      "word": "ragazzi"
+    },
+    {
+      "start": 2.54,
+      "end": 2.72,
+      "word": "dopo"
+    },
+    {
+      "start": 2.72,
+      "end": 3.06,
+      "word": "diverse"
+    },
+    {
+      "start": 3.06,
+      "end": 3.5,
+      "word": "esperienze"
+    },
+    {
+      "start": 3.5,
+      "end": 3.6,
+      "word": "in"
+    },
+    {
+      "start": 3.6,
+      "end": 3.78,
+      "word": "questo"
+    },
+    {
+      "start": 3.78,
+      "end": 3.9,
+      "word": "mio"
+    },
+    {
+      "start": 3.9,
+      "end": 4.12,
+      "word": "viaggio"
+    },
+    {
+      "start": 4.12,
+      "end": 4.24,
+      "word": "in"
+    },
+    {
+      "start": 4.24,
+      "end": 4.46,
+      "word": "Texas"
+    },
+    {
+      "start": 4.46,
+      "end": 4.78,
+      "word": "alla"
+    },
+    {
+      "start": 4.78,
+      "end": 5.08,
+      "word": "ricerca"
+    },
+    {
+      "start": 5.08,
+      "end": 5.28,
+      "word": "del"
+    },
+    {
+      "start": 5.28,
+      "end": 5.58,
+      "word": "miglior"
+    },
+    {
+      "start": 5.58,
+      "end": 5.9,
+      "word": "barbecue"
+    },
+    {
+      "start": 5.9,
+      "end": 6.1,
+      "word": "di"
+    },
+    {
+      "start": 6.1,
+      "end": 6.26,
+      "word": "tutto"
+    },
+    {
+      "start": 6.26,
+      "end": 6.4,
+      "word": "il"
+    },
+    {
+      "start": 6.4,
+      "end": 6.68,
+      "word": "Paese"
+    },
+    {
+      "start": 6.68,
+      "end": 6.98,
+      "word": "beh,"
+    },
+    {
+      "start": 7.14,
+      "end": 7.24,
+      "word": "forse"
+    },
+    {
+      "start": 7.24,
+      "end": 7.3,
+      "word": "ho"
+    },
+    {
+      "start": 7.3,
+      "end": 7.52,
+      "word": "trovato"
+    },
+    {
+      "start": 7.52,
+      "end": 7.68,
+      "word": "quello"
+    },
+    {
+      "start": 7.68,
+      "end": 7.88,
+      "word": "che"
+    },
+    {
+      "start": 7.88,
+      "end": 8.06,
+      "word": "per"
+    },
+    {
+      "start": 8.06,
+      "end": 8.24,
+      "word": "me"
+    },
+    {
+      "start": 8.24,
+      "end": 8.5,
+      "word": "è"
+    },
+    {
+      "start": 8.5,
+      "end": 8.56,
+      "word": "il"
+    },
+    {
+      "start": 8.56,
+      "end": 8.62,
+      "word": "mio"
+    },
+    {
+      "start": 8.62,
+      "end": 9.08,
+      "word": "preferito."
+    },
+    {
+      "start": 9.16,
+      "end": 9.2,
+      "word": "E"
+    },
+    {
+      "start": 9.2,
+      "end": 9.32,
+      "word": "sto"
+    },
+    {
+      "start": 9.32,
+      "end": 9.82,
+      "word": "assolutamente"
+    },
+    {
+      "start": 9.82,
+      "end": 10.2,
+      "word": "parlando"
+    },
+    {
+      "start": 10.2,
+      "end": 10.36,
+      "word": "di"
+    },
+    {
+      "start": 10.36,
+      "end": 10.7,
+      "word": "Teres"
+    },
+    {
+      "start": 10.7,
+      "end": 10.94,
+      "word": "Black"
+    },
+    {
+      "start": 10.94,
+      "end": 11.42,
+      "word": "barbecue."
+    },
+    {
+      "start": 11.54,
+      "end": 11.6,
+      "word": "Un"
+    },
+    {
+      "start": 11.6,
+      "end": 11.8,
+      "word": "barbecue"
+    },
+    {
+      "start": 11.8,
+      "end": 12.08,
+      "word": "che"
+    },
+    {
+      "start": 12.08,
+      "end": 12.14,
+      "word": "è"
+    },
+    {
+      "start": 12.14,
+      "end": 12.34,
+      "word": "frutto"
+    },
+    {
+      "start": 12.34,
+      "end": 12.5,
+      "word": "di"
+    },
+    {
+      "start": 12.5,
+      "end": 12.76,
+      "word": "entere"
+    },
+    {
+      "start": 12.76,
+      "end": 13.34,
+      "word": "generazioni"
+    },
+    {
+      "start": 13.34,
+      "end": 13.54,
+      "word": "di"
+    },
+    {
+      "start": 13.54,
+      "end": 14.2,
+      "word": "conoscenze."
+    },
+    {
+      "start": 14.36,
+      "end": 14.44,
+      "word": "Io"
+    },
+    {
+      "start": 14.44,
+      "end": 14.6,
+      "word": "sono"
+    },
+    {
+      "start": 14.6,
+      "end": 14.76,
+      "word": "stato"
+    },
+    {
+      "start": 14.76,
+      "end": 14.88,
+      "word": "a"
+    },
+    {
+      "start": 14.88,
+      "end": 15.2,
+      "word": "provarlo"
+    },
+    {
+      "start": 15.2,
+      "end": 15.4,
+      "word": "nella"
+    },
+    {
+      "start": 15.4,
+      "end": 15.64,
+      "word": "loro"
+    },
+    {
+      "start": 15.64,
+      "end": 15.94,
+      "word": "sedia"
+    },
+    {
+      "start": 15.94,
+      "end": 16.06,
+      "word": "a"
+    },
+    {
+      "start": 16.06,
+      "end": 16.42,
+      "word": "Dostin"
+    },
+    {
+      "start": 16.42,
+      "end": 16.6,
+      "word": "e"
+    },
+    {
+      "start": 16.6,
+      "end": 16.8,
+      "word": "questo"
+    },
+    {
+      "start": 16.8,
+      "end": 16.88,
+      "word": "è"
+    },
+    {
+      "start": 16.88,
+      "end": 16.94,
+      "word": "il"
+    },
+    {
+      "start": 16.94,
+      "end": 16.98,
+      "word": "mio"
+    },
+    {
+      "start": 16.98,
+      "end": 17.34,
+      "word": "vassoio"
+    },
+    {
+      "start": 17.34,
+      "end": 17.48,
+      "word": "con"
+    },
+    {
+      "start": 17.48,
+      "end": 17.74,
+      "word": "ovviamente"
+    },
+    {
+      "start": 17.74,
+      "end": 17.94,
+      "word": "le"
+    },
+    {
+      "start": 17.94,
+      "end": 18.12,
+      "word": "fette"
+    },
+    {
+      "start": 18.12,
+      "end": 18.3,
+      "word": "di"
+    },
+    {
+      "start": 18.3,
+      "end": 18.66,
+      "word": "brisket,"
+    },
+    {
+      "start": 18.78,
+      "end": 18.86,
+      "word": "la"
+    },
+    {
+      "start": 18.86,
+      "end": 19.26,
+      "word": "sassiccia"
+    },
+    {
+      "start": 19.26,
+      "end": 19.56,
+      "word": "cedera,"
+    },
+    {
+      "start": 19.6,
+      "end": 19.74,
+      "word": "la"
+    },
+    {
+      "start": 19.74,
+      "end": 20.1,
+      "word": "pegno,"
+    },
+    {
+      "start": 20.2,
+      "end": 20.38,
+      "word": "due"
+    },
+    {
+      "start": 20.38,
+      "end": 20.68,
+      "word": "pork"
+    },
+    {
+      "start": 20.68,
+      "end": 20.98,
+      "word": "ribs"
+    },
+    {
+      "start": 20.98,
+      "end": 21.24,
+      "word": "e"
+    },
+    {
+      "start": 21.24,
+      "end": 21.38,
+      "word": "come"
+    },
+    {
+      "start": 21.38,
+      "end": 21.62,
+      "word": "sai,"
+    },
+    {
+      "start": 21.74,
+      "end": 21.78,
+      "word": "la"
+    },
+    {
+      "start": 21.78,
+      "end": 22.06,
+      "word": "solita"
+    },
+    {
+      "start": 22.06,
+      "end": 22.5,
+      "word": "coslo"
+    },
+    {
+      "start": 22.5,
+      "end": 22.66,
+      "word": "e"
+    },
+    {
+      "start": 22.66,
+      "end": 22.76,
+      "word": "il"
+    },
+    {
+      "start": 22.76,
+      "end": 22.96,
+      "word": "solito"
+    },
+    {
+      "start": 22.96,
+      "end": 23.12,
+      "word": "mac"
+    },
+    {
+      "start": 23.12,
+      "end": 23.26,
+      "word": "n"
+    },
+    {
+      "start": 23.26,
+      "end": 23.46,
+      "word": "cheese."
+    },
+    {
+      "start": 23.66,
+      "end": 23.72,
+      "word": "Per"
+    },
+    {
+      "start": 23.72,
+      "end": 23.92,
+      "word": "questa"
+    },
+    {
+      "start": 23.92,
+      "end": 24.1,
+      "word": "volta"
+    },
+    {
+      "start": 24.1,
+      "end": 24.36,
+      "word": "estendo"
+    },
+    {
+      "start": 24.36,
+      "end": 24.5,
+      "word": "da"
+    },
+    {
+      "start": 24.5,
+      "end": 24.64,
+      "word": "solo"
+    },
+    {
+      "start": 24.64,
+      "end": 24.78,
+      "word": "non"
+    },
+    {
+      "start": 24.78,
+      "end": 24.9,
+      "word": "ho"
+    },
+    {
+      "start": 24.9,
+      "end": 25.14,
+      "word": "preso"
+    },
+    {
+      "start": 25.14,
+      "end": 25.22,
+      "word": "la"
+    },
+    {
+      "start": 25.22,
+      "end": 25.62,
+      "word": "costina"
+    },
+    {
+      "start": 25.62,
+      "end": 25.76,
+      "word": "di"
+    },
+    {
+      "start": 25.76,
+      "end": 26.14,
+      "word": "manzo"
+    },
+    {
+      "start": 26.14,
+      "end": 26.32,
+      "word": "che"
+    },
+    {
+      "start": 26.32,
+      "end": 26.42,
+      "word": "hanno"
+    },
+    {
+      "start": 26.42,
+      "end": 26.62,
+      "word": "cose"
+    },
+    {
+      "start": 26.62,
+      "end": 26.86,
+      "word": "enorme"
+    },
+    {
+      "start": 26.86,
+      "end": 27.04,
+      "word": "ma"
+    },
+    {
+      "start": 27.04,
+      "end": 27.26,
+      "word": "ragazzi"
+    },
+    {
+      "start": 27.26,
+      "end": 27.62,
+      "word": "tranquili"
+    },
+    {
+      "start": 27.62,
+      "end": 27.74,
+      "word": "che"
+    },
+    {
+      "start": 27.74,
+      "end": 28.06,
+      "word": "tornerò"
+    },
+    {
+      "start": 28.06,
+      "end": 28.12,
+      "word": "a"
+    },
+    {
+      "start": 28.12,
+      "end": 28.54,
+      "word": "provarla."
+    },
+    {
+      "start": 28.54,
+      "end": 28.96,
+      "word": "Passando"
+    },
+    {
+      "start": 28.96,
+      "end": 29.12,
+      "word": "invece"
+    },
+    {
+      "start": 29.12,
+      "end": 29.3,
+      "word": "alle"
+    },
+    {
+      "start": 29.3,
+      "end": 29.48,
+      "word": "pork"
+    },
+    {
+      "start": 29.48,
+      "end": 29.76,
+      "word": "ribs"
+    },
+    {
+      "start": 29.76,
+      "end": 30.14,
+      "word": "ragazzi"
+    },
+    {
+      "start": 30.14,
+      "end": 30.44,
+      "word": "guardate"
+    },
+    {
+      "start": 30.44,
+      "end": 30.62,
+      "word": "che"
+    },
+    {
+      "start": 30.62,
+      "end": 30.9,
+      "word": "rub,"
+    },
+    {
+      "start": 31.12,
+      "end": 31.3,
+      "word": "guardate"
+    },
+    {
+      "start": 31.3,
+      "end": 31.4,
+      "word": "che"
+    },
+    {
+      "start": 31.4,
+      "end": 31.68,
+      "word": "cottura"
+    },
+    {
+      "start": 31.68,
+      "end": 32.32,
+      "word": "perfetta,"
+    },
+    {
+      "start": 32.48,
+      "end": 32.98,
+      "word": "morbide,"
+    },
+    {
+      "start": 33.1,
+      "end": 33.62,
+      "word": "saporite,"
+    },
+    {
+      "start": 33.76,
+      "end": 33.78,
+      "word": "con"
+    },
+    {
+      "start": 33.78,
+      "end": 33.88,
+      "word": "lo"
+    },
+    {
+      "start": 33.88,
+      "end": 34.08,
+      "word": "strato"
+    },
+    {
+      "start": 34.08,
+      "end": 34.68,
+      "word": "superficiale"
+    },
+    {
+      "start": 34.68,
+      "end": 35.24,
+      "word": "leggermente"
+    },
+    {
+      "start": 35.24,
+      "end": 35.76,
+      "word": "croccante,"
+    },
+    {
+      "start": 35.92,
+      "end": 36.02,
+      "word": "uno"
+    },
+    {
+      "start": 36.02,
+      "end": 36.58,
+      "word": "spettacolo"
+    },
+    {
+      "start": 36.58,
+      "end": 37.0,
+      "word": "davvero."
+    },
+    {
+      "start": 37.08,
+      "end": 37.24,
+      "word": "Anche"
+    },
+    {
+      "start": 37.24,
+      "end": 37.38,
+      "word": "la"
+    },
+    {
+      "start": 37.38,
+      "end": 37.64,
+      "word": "sassiccia"
+    },
+    {
+      "start": 37.64,
+      "end": 37.78,
+      "word": "per"
+    },
+    {
+      "start": 37.78,
+      "end": 37.96,
+      "word": "quanto"
+    },
+    {
+      "start": 37.96,
+      "end": 38.18,
+      "word": "secondo"
+    },
+    {
+      "start": 38.18,
+      "end": 38.36,
+      "word": "me"
+    },
+    {
+      "start": 38.36,
+      "end": 38.46,
+      "word": "sia"
+    },
+    {
+      "start": 38.46,
+      "end": 38.56,
+      "word": "un"
+    },
+    {
+      "start": 38.56,
+      "end": 38.76,
+      "word": "prodotto"
+    },
+    {
+      "start": 38.76,
+      "end": 39.42,
+      "word": "secondario"
+    },
+    {
+      "start": 39.42,
+      "end": 39.6,
+      "word": "in"
+    },
+    {
+      "start": 39.6,
+      "end": 39.66,
+      "word": "un"
+    },
+    {
+      "start": 39.66,
+      "end": 39.96,
+      "word": "barbecue"
+    },
+    {
+      "start": 39.96,
+      "end": 40.38,
+      "word": "era"
+    },
+    {
+      "start": 40.38,
+      "end": 40.66,
+      "word": "comunque"
+    },
+    {
+      "start": 40.66,
+      "end": 41.12,
+      "word": "saporita"
+    },
+    {
+      "start": 41.12,
+      "end": 41.24,
+      "word": "al"
+    },
+    {
+      "start": 41.24,
+      "end": 41.6,
+      "word": "giusto"
+    },
+    {
+      "start": 41.6,
+      "end": 41.84,
+      "word": "e"
+    },
+    {
+      "start": 41.84,
+      "end": 41.94,
+      "word": "che"
+    },
+    {
+      "start": 41.94,
+      "end": 42.2,
+      "word": "dire"
+    },
+    {
+      "start": 42.2,
+      "end": 42.4,
+      "word": "del"
+    },
+    {
+      "start": 42.4,
+      "end": 42.56,
+      "word": "loro"
+    },
+    {
+      "start": 42.56,
+      "end": 43.1,
+      "word": "brisket."
+    },
+    {
+      "start": 43.22,
+      "end": 43.28,
+      "word": "Che"
+    },
+    {
+      "start": 43.28,
+      "end": 43.48,
+      "word": "ovviamente"
+    },
+    {
+      "start": 43.48,
+      "end": 43.66,
+      "word": "il"
+    },
+    {
+      "start": 43.66,
+      "end": 43.8,
+      "word": "punto"
+    },
+    {
+      "start": 43.8,
+      "end": 44.22,
+      "word": "forte"
+    },
+    {
+      "start": 44.22,
+      "end": 44.52,
+      "word": "praticamente"
+    },
+    {
+      "start": 44.52,
+      "end": 44.94,
+      "word": "di"
+    },
+    {
+      "start": 44.94,
+      "end": 45.06,
+      "word": "ogni"
+    },
+    {
+      "start": 45.06,
+      "end": 45.38,
+      "word": "barbecue"
+    },
+    {
+      "start": 45.38,
+      "end": 45.58,
+      "word": "in"
+    },
+    {
+      "start": 45.58,
+      "end": 45.86,
+      "word": "Texas"
+    },
+    {
+      "start": 45.86,
+      "end": 46.2,
+      "word": "è"
+    },
+    {
+      "start": 46.2,
+      "end": 46.34,
+      "word": "anche"
+    },
+    {
+      "start": 46.34,
+      "end": 46.64,
+      "word": "questo,"
+    },
+    {
+      "start": 46.72,
+      "end": 46.8,
+      "word": "il"
+    },
+    {
+      "start": 46.8,
+      "end": 47.04,
+      "word": "Teres"
+    },
+    {
+      "start": 47.04,
+      "end": 47.3,
+      "word": "Black"
+    },
+    {
+      "start": 47.3,
+      "end": 47.54,
+      "word": "mi"
+    },
+    {
+      "start": 47.54,
+      "end": 47.68,
+      "word": "ha"
+    },
+    {
+      "start": 47.68,
+      "end": 48.12,
+      "word": "assolutamente"
+    },
+    {
+      "start": 48.12,
+      "end": 48.58,
+      "word": "deluso."
+    },
+    {
+      "start": 48.74,
+      "end": 48.82,
+      "word": "Cioè"
+    },
+    {
+      "start": 48.82,
+      "end": 49.14,
+      "word": "ragazzi"
+    },
+    {
+      "start": 49.14,
+      "end": 49.44,
+      "word": "guardate"
+    },
+    {
+      "start": 49.44,
+      "end": 49.66,
+      "word": "si"
+    },
+    {
+      "start": 49.66,
+      "end": 50.1,
+      "word": "sfaldava"
+    },
+    {
+      "start": 50.1,
+      "end": 50.32,
+      "word": "con"
+    },
+    {
+      "start": 50.32,
+      "end": 50.46,
+      "word": "le"
+    },
+    {
+      "start": 50.46,
+      "end": 50.76,
+      "word": "mani."
+    },
+    {
+      "start": 50.82,
+      "end": 50.86,
+      "word": "E"
+    },
+    {
+      "start": 50.86,
+      "end": 51.22,
+      "word": "nonostante"
+    },
+    {
+      "start": 51.22,
+      "end": 51.48,
+      "word": "fosse"
+    },
+    {
+      "start": 51.48,
+      "end": 51.7,
+      "word": "un"
+    },
+    {
+      "start": 51.7,
+      "end": 52.0,
+      "word": "brisket"
+    },
+    {
+      "start": 52.0,
+      "end": 52.22,
+      "word": "non"
+    },
+    {
+      "start": 52.22,
+      "end": 52.54,
+      "word": "troppo"
+    },
+    {
+      "start": 52.54,
+      "end": 52.92,
+      "word": "grasso"
+    },
+    {
+      "start": 52.92,
+      "end": 53.02,
+      "word": "non"
+    },
+    {
+      "start": 53.02,
+      "end": 53.46,
+      "word": "risultava"
+    },
+    {
+      "start": 53.46,
+      "end": 53.82,
+      "word": "comunque"
+    },
+    {
+      "start": 53.82,
+      "end": 54.36,
+      "word": "secco."
+    },
+    {
+      "start": 54.4,
+      "end": 54.56,
+      "word": "Ma"
+    },
+    {
+      "start": 54.56,
+      "end": 55.0,
+      "word": "anzi,"
+    },
+    {
+      "start": 55.1,
+      "end": 55.38,
+      "word": "coslo"
+    },
+    {
+      "start": 55.38,
+      "end": 55.5,
+      "word": "che"
+    },
+    {
+      "start": 55.5,
+      "end": 55.7,
+      "word": "invece"
+    },
+    {
+      "start": 55.7,
+      "end": 55.9,
+      "word": "per"
+    },
+    {
+      "start": 55.9,
+      "end": 56.1,
+      "word": "esempio"
+    },
+    {
+      "start": 56.1,
+      "end": 56.38,
+      "word": "rispetto"
+    },
+    {
+      "start": 56.38,
+      "end": 56.54,
+      "word": "a"
+    },
+    {
+      "start": 56.54,
+      "end": 56.6,
+      "word": "quella"
+    },
+    {
+      "start": 56.6,
+      "end": 56.76,
+      "word": "di"
+    },
+    {
+      "start": 56.76,
+      "end": 57.04,
+      "word": "Franklin"
+    },
+    {
+      "start": 57.04,
+      "end": 57.4,
+      "word": "era"
+    },
+    {
+      "start": 57.4,
+      "end": 57.66,
+      "word": "molto"
+    },
+    {
+      "start": 57.66,
+      "end": 57.92,
+      "word": "meno"
+    },
+    {
+      "start": 57.92,
+      "end": 58.7,
+      "word": "pesante,"
+    },
+    {
+      "start": 58.86,
+      "end": 59.06,
+      "word": "meno"
+    },
+    {
+      "start": 59.06,
+      "end": 59.46,
+      "word": "condita"
+    },
+    {
+      "start": 59.46,
+      "end": 59.54,
+      "word": "e"
+    },
+    {
+      "start": 59.54,
+      "end": 59.74,
+      "word": "forse"
+    },
+    {
+      "start": 59.74,
+      "end": 59.86,
+      "word": "più"
+    },
+    {
+      "start": 59.86,
+      "end": 60.34,
+      "word": "abbondante"
+    },
+    {
+      "start": 60.34,
+      "end": 60.5,
+      "word": "come"
+    },
+    {
+      "start": 60.5,
+      "end": 61.02,
+      "word": "porzione."
+    },
+    {
+      "start": 61.24,
+      "end": 61.44,
+      "word": "Mac"
+    },
+    {
+      "start": 61.44,
+      "end": 61.6,
+      "word": "n'"
+    },
+    {
+      "start": 61.66,
+      "end": 61.88,
+      "word": "Cheese"
+    },
+    {
+      "start": 61.88,
+      "end": 62.86,
+      "word": "letteralmente"
+    },
+    {
+      "start": 62.86,
+      "end": 63.62,
+      "word": "perfetto."
+    },
+    {
+      "start": 63.7,
+      "end": 63.78,
+      "word": "Dai,"
+    },
+    {
+      "start": 63.84,
+      "end": 64.2,
+      "word": "ovviamente"
+    },
+    {
+      "start": 64.2,
+      "end": 64.36,
+      "word": "a"
+    },
+    {
+      "start": 64.36,
+      "end": 64.48,
+      "word": "fine"
+    },
+    {
+      "start": 64.48,
+      "end": 64.92,
+      "word": "mangiata"
+    },
+    {
+      "start": 64.92,
+      "end": 65.06,
+      "word": "mi"
+    },
+    {
+      "start": 65.06,
+      "end": 65.3,
+      "word": "porta"
+    },
+    {
+      "start": 65.3,
+      "end": 65.42,
+      "word": "a"
+    },
+    {
+      "start": 65.42,
+      "end": 65.62,
+      "word": "casa"
+    },
+    {
+      "start": 65.62,
+      "end": 65.74,
+      "word": "il"
+    },
+    {
+      "start": 65.74,
+      "end": 65.82,
+      "word": "mio"
+    },
+    {
+      "start": 65.82,
+      "end": 66.04,
+      "word": "bel"
+    },
+    {
+      "start": 66.04,
+      "end": 66.4,
+      "word": "bicchiere"
+    },
+    {
+      "start": 66.4,
+      "end": 66.5,
+      "word": "di"
+    },
+    {
+      "start": 66.5,
+      "end": 66.7,
+      "word": "Teres"
+    },
+    {
+      "start": 66.7,
+      "end": 66.86,
+      "word": "Black"
+    },
+    {
+      "start": 66.86,
+      "end": 67.28,
+      "word": "barbecue"
+    },
+    {
+      "start": 67.28,
+      "end": 67.48,
+      "word": "come"
+    },
+    {
+      "start": 67.48,
+      "end": 67.94,
+      "word": "ricordo."
+    },
+    {
+      "start": 68.06,
+      "end": 68.16,
+      "word": "Ed"
+    },
+    {
+      "start": 68.16,
+      "end": 68.46,
+      "word": "infine"
+    },
+    {
+      "start": 68.46,
+      "end": 69.02,
+      "word": "giretto"
+    },
+    {
+      "start": 69.02,
+      "end": 69.18,
+      "word": "nei"
+    },
+    {
+      "start": 69.18,
+      "end": 69.36,
+      "word": "loro"
+    },
+    {
+      "start": 69.36,
+      "end": 69.94,
+      "word": "barbecue"
+    },
+    {
+      "start": 69.94,
+      "end": 70.16,
+      "word": "che"
+    },
+    {
+      "start": 70.16,
+      "end": 70.34,
+      "word": "sono"
+    },
+    {
+      "start": 70.34,
+      "end": 70.76,
+      "word": "davvero"
+    },
+    {
+      "start": 70.76,
+      "end": 70.92,
+      "word": "una"
+    },
+    {
+      "start": 70.92,
+      "end": 71.18,
+      "word": "roba"
+    },
+    {
+      "start": 71.18,
+      "end": 71.64,
+      "word": "immensa."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 1.467,
+      "dur": 1.467,
+      "transcript": "Il miglior barbecue che io abbia"
+    },
+    {
+      "shot_idx": 1,
+      "start": 1.467,
+      "end": 2.667,
+      "dur": 1.2,
+      "transcript": "mai provato. Se i ragazzi dopo"
+    },
+    {
+      "shot_idx": 2,
+      "start": 2.667,
+      "end": 4.2,
+      "dur": 1.533,
+      "transcript": "diverse esperienze in questo mio viaggio in"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.2,
+      "end": 5.867,
+      "dur": 1.667,
+      "transcript": "Texas alla ricerca del miglior barbecue"
+    },
+    {
+      "shot_idx": 4,
+      "start": 5.867,
+      "end": 7.7,
+      "dur": 1.833,
+      "transcript": "di tutto il Paese beh, forse ho trovato quello"
+    },
+    {
+      "shot_idx": 5,
+      "start": 7.7,
+      "end": 9.5,
+      "dur": 1.8,
+      "transcript": "che per me è il mio preferito. E sto"
+    },
+    {
+      "shot_idx": 6,
+      "start": 9.5,
+      "end": 11.1,
+      "dur": 1.6,
+      "transcript": "assolutamente parlando di Teres Black"
+    },
+    {
+      "shot_idx": 7,
+      "start": 11.1,
+      "end": 12.5,
+      "dur": 1.4,
+      "transcript": "barbecue. Un barbecue che è frutto di"
+    },
+    {
+      "shot_idx": 8,
+      "start": 12.5,
+      "end": 13.8,
+      "dur": 1.3,
+      "transcript": "entere generazioni di"
+    },
+    {
+      "shot_idx": 9,
+      "start": 13.8,
+      "end": 14.7,
+      "dur": 0.9,
+      "transcript": "conoscenze. Io sono stato"
+    },
+    {
+      "shot_idx": 10,
+      "start": 14.7,
+      "end": 15.4,
+      "dur": 0.7,
+      "transcript": "a provarlo nella"
+    },
+    {
+      "shot_idx": 11,
+      "start": 15.4,
+      "end": 19.6,
+      "dur": 4.2,
+      "transcript": "loro sedia a Dostin e questo è il mio vassoio con ovviamente le fette di brisket, la sassiccia cedera,"
+    },
+    {
+      "shot_idx": 12,
+      "start": 19.6,
+      "end": 20.9,
+      "dur": 1.3,
+      "transcript": "la pegno, due pork ribs"
+    },
+    {
+      "shot_idx": 13,
+      "start": 20.9,
+      "end": 22.2,
+      "dur": 1.3,
+      "transcript": "e come sai, la solita"
+    },
+    {
+      "shot_idx": 14,
+      "start": 22.2,
+      "end": 24.2,
+      "dur": 2.0,
+      "transcript": "coslo e il solito mac n cheese. Per questa volta"
+    },
+    {
+      "shot_idx": 15,
+      "start": 24.2,
+      "end": 28.7,
+      "dur": 4.5,
+      "transcript": "estendo da solo non ho preso la costina di manzo che hanno cose enorme ma ragazzi tranquili che tornerò a provarla."
+    },
+    {
+      "shot_idx": 16,
+      "start": 28.7,
+      "end": 32.8,
+      "dur": 4.1,
+      "transcript": "Passando invece alle pork ribs ragazzi guardate che rub, guardate che cottura perfetta, morbide,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.8,
+      "end": 35.833,
+      "dur": 3.033,
+      "transcript": "saporite, con lo strato superficiale leggermente croccante,"
+    },
+    {
+      "shot_idx": 18,
+      "start": 35.833,
+      "end": 38.8,
+      "dur": 2.967,
+      "transcript": "uno spettacolo davvero. Anche la sassiccia per quanto secondo me sia un prodotto"
+    },
+    {
+      "shot_idx": 19,
+      "start": 38.8,
+      "end": 46.167,
+      "dur": 7.367,
+      "transcript": "secondario in un barbecue era comunque saporita al giusto e che dire del loro brisket. Che ovviamente il punto forte praticamente di ogni barbecue in Texas è"
+    },
+    {
+      "shot_idx": 20,
+      "start": 46.167,
+      "end": 48.033,
+      "dur": 1.867,
+      "transcript": "anche questo, il Teres Black mi ha assolutamente"
+    },
+    {
+      "shot_idx": 21,
+      "start": 48.033,
+      "end": 49.4,
+      "dur": 1.367,
+      "transcript": "deluso. Cioè ragazzi guardate"
+    },
+    {
+      "shot_idx": 22,
+      "start": 49.4,
+      "end": 52.7,
+      "dur": 3.3,
+      "transcript": "si sfaldava con le mani. E nonostante fosse un brisket non troppo"
+    },
+    {
+      "shot_idx": 23,
+      "start": 52.7,
+      "end": 55.3,
+      "dur": 2.6,
+      "transcript": "grasso non risultava comunque secco. Ma anzi, coslo"
+    },
+    {
+      "shot_idx": 24,
+      "start": 55.3,
+      "end": 56.4,
+      "dur": 1.1,
+      "transcript": "che invece per esempio rispetto"
+    },
+    {
+      "shot_idx": 25,
+      "start": 56.4,
+      "end": 59.933,
+      "dur": 3.533,
+      "transcript": "a quella di Franklin era molto meno pesante, meno condita e forse più"
+    },
+    {
+      "shot_idx": 26,
+      "start": 59.933,
+      "end": 62.233,
+      "dur": 2.3,
+      "transcript": "abbondante come porzione. Mac n' Cheese"
+    },
+    {
+      "shot_idx": 27,
+      "start": 62.233,
+      "end": 64.967,
+      "dur": 2.733,
+      "transcript": "letteralmente perfetto. Dai, ovviamente a fine mangiata"
+    },
+    {
+      "shot_idx": 28,
+      "start": 64.967,
+      "end": 66.767,
+      "dur": 1.8,
+      "transcript": "mi porta a casa il mio bel bicchiere di Teres"
+    },
+    {
+      "shot_idx": 29,
+      "start": 66.767,
+      "end": 67.8,
+      "dur": 1.033,
+      "transcript": "Black barbecue come ricordo."
+    },
+    {
+      "shot_idx": 30,
+      "start": 67.8,
+      "end": 70.5,
+      "dur": 2.7,
+      "transcript": "Ed infine giretto nei loro barbecue che sono"
+    },
+    {
+      "shot_idx": 31,
+      "start": 70.5,
+      "end": 72.267,
+      "dur": 1.767,
+      "transcript": "davvero una roba immensa."
+    }
+  ],
+  "full_text": "Il miglior barbecue che io abbia mai provato. Se i ragazzi dopo diverse esperienze in questo mio viaggio in Texas alla ricerca del miglior barbecue di tutto il Paese beh, forse ho trovato quello che per me è il mio preferito. E sto assolutamente parlando di Teres Black barbecue. Un barbecue che è frutto di entere generazioni di conoscenze. Io sono stato a provarlo nella loro sedia a Dostin e questo è il mio vassoio con ovviamente le fette di brisket, la sassiccia cedera, la pegno, due pork ribs e come sai, la solita coslo e il solito mac n cheese. Per questa volta estendo da solo non ho preso la costina di manzo che hanno cose enorme ma ragazzi tranquili che tornerò a provarla. Passando invece alle pork ribs ragazzi guardate che rub, guardate che cottura perfetta, morbide, saporite, con lo strato superficiale leggermente croccante, uno spettacolo davvero. Anche la sassiccia per quanto secondo me sia un prodotto secondario in un barbecue era comunque saporita al giusto e che dire del loro brisket. Che ovviamente il punto forte praticamente di ogni barbecue in Texas è anche questo, il Teres Black mi ha assolutamente deluso. Cioè ragazzi guardate si sfaldava con le mani. E nonostante fosse un brisket non troppo grasso non risultava comunque secco. Ma anzi, coslo che invece per esempio rispetto a quella di Franklin era molto meno pesante, meno condita e forse più abbondante come porzione. Mac n' Cheese letteralmente perfetto. Dai, ovviamente a fine mangiata mi porta a casa il mio bel bicchiere di Teres Black barbecue come ricordo. Ed infine giretto nei loro barbecue che sono davvero una roba immensa.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

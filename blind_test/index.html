@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Blind Test</title>
+<style>
+body { font-family: sans-serif; background: #111; color: #eee; padding: 20px; }
+h1 { color: #fff; }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px; }
+.card { background: #222; padding: 10px; border-radius: 8px; }
+video { width: 100%; max-height: 500px; background: #000; }
+.label { font-size: 20px; font-weight: bold; margin-bottom: 8px; color: #ffcc00; }
+.btn-row { margin-top: 8px; display: flex; gap: 10px; }
+button { flex: 1; padding: 10px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; }
+.orig { background: #2e7d32; color: white; }
+.clone { background: #c62828; color: white; }
+button.selected { outline: 3px solid #ffcc00; }
+.verdict { margin-top: 40px; padding: 20px; background: #222; border-radius: 8px; font-size: 18px; }
+</style></head><body>
+<h1>Blind Test — Originale o Clone?</h1>
+<p>Guarda ogni video. Scegli: <b>Originale @jay.emme</b> o <b>Clone AI</b>.</p>
+<div class="grid" id="grid"></div>
+<div class="verdict" id="verdict">Risposte: 0/12</div>
+<script>
+const videos = ['A','B','C','D','E','F','G','H','I','J','K','L'];
+const answers = {};
+const grid = document.getElementById('grid');
+videos.forEach(v => {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `<div class="label">VIDEO ${v}</div>
+    <video controls preload="metadata" src="/blind_test/videos/video_${v}.mp4"></video>
+    <div class="btn-row">
+      <button class="orig" onclick="pick('${v}','orig', this)">ORIGINALE</button>
+      <button class="clone" onclick="pick('${v}','clone', this)">CLONE</button>
+    </div>`;
+  grid.appendChild(card);
+});
+function pick(v, choice, btn) {
+  answers[v] = choice;
+  const row = btn.parentElement;
+  row.querySelectorAll('button').forEach(b => b.classList.remove('selected'));
+  btn.classList.add('selected');
+  document.getElementById('verdict').textContent = `Risposte: ${Object.keys(answers).length}/12`;
+  if (Object.keys(answers).length === 12) {
+    localStorage.setItem('blind_answers', JSON.stringify(answers));
+    document.getElementById('verdict').innerHTML = '✅ Fatto! Scrivimi i risultati o copia qui: <br><code>' + JSON.stringify(answers) + '</code>';
+  }
+}
+</script></body></html>

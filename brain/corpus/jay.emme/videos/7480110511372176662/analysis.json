@@ -1,0 +1,3003 @@
+{
+  "video_id": "7480110511372176662",
+  "creator": "jay.emme",
+  "source": "style_ref_legacy",
+  "meta": {
+    "id": "7480110511372176662",
+    "ref_id": "ref_99_7480110511372176662",
+    "title": "",
+    "url": "https://www.tiktok.com/@jay.emme/video/7480110511372176662",
+    "creator": "jay.emme",
+    "source": "style_ref_legacy",
+    "imported_at": "2026-09-20T19:10:28"
+  },
+  "n_shots": 35,
+  "total_dur": 78.7,
+  "shots": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "center": 1.0,
+      "role": "other",
+      "subject": "ragazzo guarda in alto",
+      "description": "Il ragazzo con il cappellino guarda in alto, con uno sfondo di montagne e alberi.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "No, be' ragazzi ancora non ci credo, finalmente"
+    },
+    {
+      "idx": 1,
+      "start": 2.0,
+      "end": 3.0,
+      "dur": 1.0,
+      "center": 2.5,
+      "role": "other",
+      "subject": "foresta Yosemite",
+      "description": "Una fitta foresta con alberi e rami caduti sul terreno.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "è realizzato il mio sogno."
+    },
+    {
+      "idx": 2,
+      "start": 3.0,
+      "end": 4.033,
+      "dur": 1.033,
+      "center": 3.517,
+      "role": "other",
+      "subject": "orso nella foresta",
+      "description": "Un orso si intravede tra gli alberi e i rami della foresta.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Oggi ragazzi vi porto"
+    },
+    {
+      "idx": 3,
+      "start": 4.033,
+      "end": 6.567,
+      "dur": 2.533,
+      "center": 5.3,
+      "role": "food_plated",
+      "subject": "colazione americana",
+      "description": "Un piatto con uova strapazzate, salsicce, muffin e un waffle, con una tazza di caffè.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "come una giornata clamorosa negli Stati Uniti in"
+    },
+    {
+      "idx": 4,
+      "start": 6.567,
+      "end": 8.567,
+      "dur": 2.0,
+      "center": 7.567,
+      "role": "food_detail",
+      "subject": "sciroppo su waffle",
+      "description": "Sciroppo d'acero viene versato su un waffle, con una tazza di caffè sullo sfondo.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "artificiale_freddo",
+      "transcript": "California. Andiamo a visitare i Lojosemiti"
+    },
+    {
+      "idx": 5,
+      "start": 8.567,
+      "end": 10.133,
+      "dur": 1.567,
+      "center": 9.35,
+      "role": "person_eating",
+      "subject": "uomo mangia waffle",
+      "description": "Un uomo sorridente morde un waffle.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "National Park. Partendo con la"
+    },
+    {
+      "idx": 6,
+      "start": 10.133,
+      "end": 12.3,
+      "dur": 2.167,
+      "center": 11.217,
+      "role": "food_detail",
+      "subject": "muffin su piatto",
+      "description": "Una mano prende un muffin da un piatto con altri muffin.",
+      "composition": "detail",
+      "angle": "dall_alto",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "solita colazione da un motello americano con Waffle, Ciro"
+    },
+    {
+      "idx": 7,
+      "start": 12.3,
+      "end": 13.9,
+      "dur": 1.6,
+      "center": 13.1,
+      "role": "venue_exterior",
+      "subject": "cartello Yosemite National Park",
+      "description": "Un cartello in legno con la scritta 'Yosemite National Park' appeso a una struttura in pietra.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "Podaccia e un po' di muffin, abbiamo"
+    },
+    {
+      "idx": 8,
+      "start": 13.9,
+      "end": 15.267,
+      "dur": 1.367,
+      "center": 14.583,
+      "role": "venue_exterior",
+      "subject": "strada tra rocce",
+      "description": "Una strada asfaltata che passa tra due imponenti formazioni rocciose.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "poi preso la macchina e siamo arrivati alla"
+    },
+    {
+      "idx": 9,
+      "start": 15.267,
+      "end": 16.433,
+      "dur": 1.167,
+      "center": 15.85,
+      "role": "venue_exterior",
+      "subject": "strada tunnel naturale",
+      "description": "Una strada che attraversa un tunnel naturale formato da rocce e vegetazione.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Lojosemiti, che ci ha colto"
+    },
+    {
+      "idx": 10,
+      "start": 16.433,
+      "end": 18.9,
+      "dur": 2.467,
+      "center": 17.667,
+      "role": "venue_exterior",
+      "subject": "montagna rocciosa imponente",
+      "description": "La maestosità della montagna rocciosa che domina il paesaggio.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "già con una strada clamorosa, fino che non siamo arrivati"
+    },
+    {
+      "idx": 11,
+      "start": 18.9,
+      "end": 22.2,
+      "dur": 3.3,
+      "center": 20.55,
+      "role": "person_talking",
+      "subject": "ragazzo con cappellino",
+      "description": "Il ragazzo in primo piano con la montagna sullo sfondo.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "davanti alla montagna più famosa di tutto il parco, ovvero il Capitaine, una"
+    },
+    {
+      "idx": 12,
+      "start": 22.2,
+      "end": 24.233,
+      "dur": 2.033,
+      "center": 23.217,
+      "role": "venue_exterior",
+      "subject": "cascata imponente",
+      "description": "La cascata che scende dalla parete rocciosa illuminata dal sole.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "montagna che è statalettelamente scalata"
+    },
+    {
+      "idx": 13,
+      "start": 24.233,
+      "end": 28.167,
+      "dur": 3.933,
+      "center": 26.2,
+      "role": "venue_exterior",
+      "subject": "valle montuosa boscosa",
+      "description": "La vasta distesa di alberi e montagne sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "a mani nude senza alcun tipo di attrezzatura da Alex Onnold. Praticamente"
+    },
+    {
+      "idx": 14,
+      "start": 28.167,
+      "end": 28.867,
+      "dur": 0.7,
+      "center": 28.517,
+      "role": "venue_exterior",
+      "subject": "cartello Mariposa Grove",
+      "description": "Il cartello in legno che indica 'Mariposa Grove of Giant Sequoias'.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "un passo."
+    },
+    {
+      "idx": 15,
+      "start": 28.867,
+      "end": 30.133,
+      "dur": 1.267,
+      "center": 29.5,
+      "role": "venue_exterior",
+      "subject": "cartello Mariposa Grove",
+      "description": "Il cartello di benvenuto al Mariposa Grove of Giant Sequoias.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Noi abbiamo poi continuato"
+    },
+    {
+      "idx": 16,
+      "start": 30.133,
+      "end": 32.4,
+      "dur": 2.267,
+      "center": 31.267,
+      "role": "venue_exterior",
+      "subject": "tronchi sequoie giganti",
+      "description": "L'imponenza dei tronchi delle sequoie che si stagliano verso il cielo.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "fermandoci nei punti più famosi da Lojosemiti,"
+    },
+    {
+      "idx": 17,
+      "start": 32.4,
+      "end": 33.467,
+      "dur": 1.067,
+      "center": 32.933,
+      "role": "person_talking",
+      "subject": "ragazzo che guarda",
+      "description": "Il ragazzo che guarda in alto, ammirando le sequoie.",
+      "composition": "medium",
+      "angle": "pov",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "esistando anche tutta la parte"
+    },
+    {
+      "idx": 18,
+      "start": 33.467,
+      "end": 34.167,
+      "dur": 0.7,
+      "center": 33.817,
+      "role": "venue_exterior",
+      "subject": "sentiero e sequoie",
+      "description": "Il sentiero sterrato con persone che camminano tra le sequoie.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "delle secue"
+    },
+    {
+      "idx": 19,
+      "start": 34.167,
+      "end": 36.367,
+      "dur": 2.2,
+      "center": 35.267,
+      "role": "venue_exterior",
+      "subject": "sequoia gigante bruciata",
+      "description": "Una sequoia gigante con una parte del tronco annerita dal fuoco.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "giganti, che anche se non erano grandi come quelle che"
+    },
+    {
+      "idx": 20,
+      "start": 36.367,
+      "end": 38.167,
+      "dur": 1.8,
+      "center": 37.267,
+      "role": "other",
+      "subject": "tronco sequoia gigante",
+      "description": "L'enorme tronco cavo di una sequoia con un'apertura alla base.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "c 'erano proprio nel secuoio e al National Park,"
+    },
+    {
+      "idx": 21,
+      "start": 38.167,
+      "end": 40.167,
+      "dur": 2.0,
+      "center": 39.167,
+      "role": "other",
+      "subject": "ragazzo sorridente selfie",
+      "description": "Un ragazzo sorridente in primo piano che si fa un selfie in un bosco.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "naturale",
+      "transcript": "facevano comunque il loro effetto. Dopodiché"
+    },
+    {
+      "idx": 22,
+      "start": 40.167,
+      "end": 42.633,
+      "dur": 2.467,
+      "center": 41.4,
+      "role": "other",
+      "subject": "cervo nel bosco",
+      "description": "Un cervo si intravede tra gli alberi in un bosco.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "abbiamo proseguito, incontanto diverse animali come"
+    },
+    {
+      "idx": 23,
+      "start": 42.633,
+      "end": 46.1,
+      "dur": 3.467,
+      "center": 44.367,
+      "role": "other",
+      "subject": "scoiattolo a terra",
+      "description": "Uno scoiattolo striato su un terreno sterrato.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Cervi, Chipmunk, ma senza incontrare quell 'animale che avrei tanto voluto"
+    },
+    {
+      "idx": 24,
+      "start": 46.1,
+      "end": 54.633,
+      "dur": 8.533,
+      "center": 50.367,
+      "role": "other",
+      "subject": "paesaggio montuoso boscoso",
+      "description": "Una vasta veduta aerea di montagne rocciose e foreste sotto un cielo azzurro.",
+      "composition": "wide",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "vedere, per poi arrivare a questo punto panoramico veramente clamoroso. Il Glacier Point, da cui abbiamo potuto vedere praticamente gran parte di questo parco assurdo. Ed è proprio qui, mentre"
+    },
+    {
+      "idx": 25,
+      "start": 54.633,
+      "end": 57.5,
+      "dur": 2.867,
+      "center": 56.067,
+      "role": "other",
+      "subject": "orso nel bosco",
+      "description": "Un piccolo orso nero si muove tra gli alberi e i rami caduti nel bosco.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "cerchiamo di uscire dal parco, che il sogno di una vita si finalmente avverato."
+    },
+    {
+      "idx": 26,
+      "start": 57.5,
+      "end": 58.0,
+      "dur": 0.5,
+      "center": 57.75,
+      "role": "other",
+      "subject": "bosco con alberi",
+      "description": "La luce del sole filtra tra gli alberi alti e ricoperti di muschio in un bosco denso.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "Ho"
+    },
+    {
+      "idx": 27,
+      "start": 58.0,
+      "end": 59.767,
+      "dur": 1.767,
+      "center": 58.883,
+      "role": "other",
+      "subject": "orso dietro albero",
+      "description": "Un orso nero si intravede dietro un tronco d'albero in primo piano.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "incontrato un orso dal vivo. Non ho stato"
+    },
+    {
+      "idx": 28,
+      "start": 59.767,
+      "end": 64.767,
+      "dur": 5.0,
+      "center": 62.267,
+      "role": "other",
+      "subject": "montagna rocciosa imponente",
+      "description": "Una gigantesca parete rocciosa domina l'inquadratura, con alberi verdi alla base.",
+      "composition": "wide",
+      "angle": "dal_basso",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "veramente piccolino e super carino, ed è quando sono piccolo che sono di incontrare un orso in natura. E questa cosa mi ha veramente"
+    },
+    {
+      "idx": 29,
+      "start": 64.767,
+      "end": 67.433,
+      "dur": 2.667,
+      "center": 66.1,
+      "role": "other",
+      "subject": "montagna illuminata strada",
+      "description": "Una grande montagna rocciosa è illuminata dal sole al tramonto, con una strada e alberi in primo piano.",
+      "composition": "wide",
+      "angle": "orizzontale",
+      "has_person": false,
+      "has_logo": false,
+      "lighting": "naturale",
+      "transcript": "emozionato un sacco. Dopodiché abbiamo ammirato il tramonto sul"
+    },
+    {
+      "idx": 30,
+      "start": 67.433,
+      "end": 69.033,
+      "dur": 1.6,
+      "center": 68.233,
+      "role": "person_eating",
+      "subject": "ragazzo mangia wrap",
+      "description": "Il ragazzo sta mangiando un wrap con un'espressione divertita.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "capte, anche è veramente uno spettacolo anche lui."
+    },
+    {
+      "idx": 31,
+      "start": 69.033,
+      "end": 70.867,
+      "dur": 1.833,
+      "center": 69.95,
+      "role": "person_eating",
+      "subject": "ragazzo mangia wrap",
+      "description": "Il ragazzo continua a mangiare il wrap con un'espressione intensa.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": false,
+      "lighting": "mista",
+      "transcript": "Infine siamo usciti e abbiamo cercato l 'unica cosa"
+    },
+    {
+      "idx": 32,
+      "start": 70.867,
+      "end": 72.867,
+      "dur": 2.0,
+      "center": 71.867,
+      "role": "food_closeup",
+      "subject": "panino Subway farcito",
+      "description": "Un panino Subway ripieno di verdure e formaggio è in primo piano.",
+      "composition": "close_up",
+      "angle": "dall_alto",
+      "has_person": false,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "aperta, ovvero Savoy, in cui ci siamo fatti questo"
+    },
+    {
+      "idx": 33,
+      "start": 72.867,
+      "end": 75.067,
+      "dur": 2.2,
+      "center": 73.967,
+      "role": "person_eating",
+      "subject": "ragazzo tiene panino",
+      "description": "Il ragazzo tiene in mano un grande panino con un'espressione sorpresa.",
+      "composition": "medium",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "mega panino gigante. E niente, Savoy,"
+    },
+    {
+      "idx": 34,
+      "start": 75.067,
+      "end": 78.7,
+      "dur": 3.633,
+      "center": 76.883,
+      "role": "person_eating",
+      "subject": "ragazzo addenta panino",
+      "description": "Il ragazzo sta addentando il panino con un'espressione di piacere.",
+      "composition": "close_up",
+      "angle": "orizzontale",
+      "has_person": true,
+      "has_logo": true,
+      "lighting": "mista",
+      "transcript": "quando hai fame non delude mai, ma di avere fame. Ma tanta."
+    }
+  ],
+  "descriptions": [
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "ragazzo guarda in alto",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo con il cappellino guarda in alto, con uno sfondo di montagne e alberi.",
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "foresta Yosemite",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una fitta foresta con alberi e rami caduti sul terreno.",
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 3.0,
+      "dur": 1.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "orso nella foresta",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un orso si intravede tra gli alberi e i rami della foresta.",
+      "shot_idx": 2,
+      "start": 3.0,
+      "end": 4.033,
+      "dur": 1.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "food_plated",
+      "soggetto": "colazione americana",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Un piatto con uova strapazzate, salsicce, muffin e un waffle, con una tazza di caffè.",
+      "shot_idx": 3,
+      "start": 4.033,
+      "end": 6.567,
+      "dur": 2.533
+    },
+    {
+      "idx": 4,
+      "role_visivo": "food_detail",
+      "soggetto": "sciroppo su waffle",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "artificiale_freddo",
+      "cosa_si_nota": "Sciroppo d'acero viene versato su un waffle, con una tazza di caffè sullo sfondo.",
+      "shot_idx": 4,
+      "start": 6.567,
+      "end": 8.567,
+      "dur": 2.0
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "uomo mangia waffle",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un uomo sorridente morde un waffle.",
+      "shot_idx": 5,
+      "start": 8.567,
+      "end": 10.133,
+      "dur": 1.567
+    },
+    {
+      "idx": 1,
+      "role_visivo": "food_detail",
+      "soggetto": "muffin su piatto",
+      "composizione": "detail",
+      "angolo": "dall_alto",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Una mano prende un muffin da un piatto con altri muffin.",
+      "shot_idx": 6,
+      "start": 10.133,
+      "end": 12.3,
+      "dur": 2.167
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "cartello Yosemite National Park",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un cartello in legno con la scritta 'Yosemite National Park' appeso a una struttura in pietra.",
+      "shot_idx": 7,
+      "start": 12.3,
+      "end": 13.9,
+      "dur": 1.6
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "strada tra rocce",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una strada asfaltata che passa tra due imponenti formazioni rocciose.",
+      "shot_idx": 8,
+      "start": 13.9,
+      "end": 15.267,
+      "dur": 1.367
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "strada tunnel naturale",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una strada che attraversa un tunnel naturale formato da rocce e vegetazione.",
+      "shot_idx": 9,
+      "start": 15.267,
+      "end": 16.433,
+      "dur": 1.167
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "montagna rocciosa imponente",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La maestosità della montagna rocciosa che domina il paesaggio.",
+      "shot_idx": 10,
+      "start": 16.433,
+      "end": 18.9,
+      "dur": 2.467
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo con cappellino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo in primo piano con la montagna sullo sfondo.",
+      "shot_idx": 11,
+      "start": 18.9,
+      "end": 22.2,
+      "dur": 3.3
+    },
+    {
+      "idx": 2,
+      "role_visivo": "venue_exterior",
+      "soggetto": "cascata imponente",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La cascata che scende dalla parete rocciosa illuminata dal sole.",
+      "shot_idx": 12,
+      "start": 22.2,
+      "end": 24.233,
+      "dur": 2.033
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "valle montuosa boscosa",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La vasta distesa di alberi e montagne sotto un cielo azzurro.",
+      "shot_idx": 13,
+      "start": 24.233,
+      "end": 28.167,
+      "dur": 3.933
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "cartello Mariposa Grove",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il cartello in legno che indica 'Mariposa Grove of Giant Sequoias'.",
+      "shot_idx": 14,
+      "start": 28.167,
+      "end": 28.867,
+      "dur": 0.7
+    },
+    {
+      "idx": 0,
+      "role_visivo": "venue_exterior",
+      "soggetto": "cartello Mariposa Grove",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il cartello di benvenuto al Mariposa Grove of Giant Sequoias.",
+      "shot_idx": 15,
+      "start": 28.867,
+      "end": 30.133,
+      "dur": 1.267
+    },
+    {
+      "idx": 1,
+      "role_visivo": "venue_exterior",
+      "soggetto": "tronchi sequoie giganti",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'imponenza dei tronchi delle sequoie che si stagliano verso il cielo.",
+      "shot_idx": 16,
+      "start": 30.133,
+      "end": 32.4,
+      "dur": 2.267
+    },
+    {
+      "idx": 2,
+      "role_visivo": "person_talking",
+      "soggetto": "ragazzo che guarda",
+      "composizione": "medium",
+      "angolo": "pov",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il ragazzo che guarda in alto, ammirando le sequoie.",
+      "shot_idx": 17,
+      "start": 32.4,
+      "end": 33.467,
+      "dur": 1.067
+    },
+    {
+      "idx": 3,
+      "role_visivo": "venue_exterior",
+      "soggetto": "sentiero e sequoie",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Il sentiero sterrato con persone che camminano tra le sequoie.",
+      "shot_idx": 18,
+      "start": 33.467,
+      "end": 34.167,
+      "dur": 0.7
+    },
+    {
+      "idx": 4,
+      "role_visivo": "venue_exterior",
+      "soggetto": "sequoia gigante bruciata",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una sequoia gigante con una parte del tronco annerita dal fuoco.",
+      "shot_idx": 19,
+      "start": 34.167,
+      "end": 36.367,
+      "dur": 2.2
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "tronco sequoia gigante",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "L'enorme tronco cavo di una sequoia con un'apertura alla base.",
+      "shot_idx": 20,
+      "start": 36.367,
+      "end": 38.167,
+      "dur": 1.8
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "ragazzo sorridente selfie",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "naturale",
+      "cosa_si_nota": "Un ragazzo sorridente in primo piano che si fa un selfie in un bosco.",
+      "shot_idx": 21,
+      "start": 38.167,
+      "end": 40.167,
+      "dur": 2.0
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "cervo nel bosco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un cervo si intravede tra gli alberi in un bosco.",
+      "shot_idx": 22,
+      "start": 40.167,
+      "end": 42.633,
+      "dur": 2.467
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "scoiattolo a terra",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Uno scoiattolo striato su un terreno sterrato.",
+      "shot_idx": 23,
+      "start": 42.633,
+      "end": 46.1,
+      "dur": 3.467
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "paesaggio montuoso boscoso",
+      "composizione": "wide",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una vasta veduta aerea di montagne rocciose e foreste sotto un cielo azzurro.",
+      "shot_idx": 24,
+      "start": 46.1,
+      "end": 54.633,
+      "dur": 8.533
+    },
+    {
+      "idx": 0,
+      "role_visivo": "other",
+      "soggetto": "orso nel bosco",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un piccolo orso nero si muove tra gli alberi e i rami caduti nel bosco.",
+      "shot_idx": 25,
+      "start": 54.633,
+      "end": 57.5,
+      "dur": 2.867
+    },
+    {
+      "idx": 1,
+      "role_visivo": "other",
+      "soggetto": "bosco con alberi",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "La luce del sole filtra tra gli alberi alti e ricoperti di muschio in un bosco denso.",
+      "shot_idx": 26,
+      "start": 57.5,
+      "end": 58.0,
+      "dur": 0.5
+    },
+    {
+      "idx": 2,
+      "role_visivo": "other",
+      "soggetto": "orso dietro albero",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Un orso nero si intravede dietro un tronco d'albero in primo piano.",
+      "shot_idx": 27,
+      "start": 58.0,
+      "end": 59.767,
+      "dur": 1.767
+    },
+    {
+      "idx": 3,
+      "role_visivo": "other",
+      "soggetto": "montagna rocciosa imponente",
+      "composizione": "wide",
+      "angolo": "dal_basso",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una gigantesca parete rocciosa domina l'inquadratura, con alberi verdi alla base.",
+      "shot_idx": 28,
+      "start": 59.767,
+      "end": 64.767,
+      "dur": 5.0
+    },
+    {
+      "idx": 4,
+      "role_visivo": "other",
+      "soggetto": "montagna illuminata strada",
+      "composizione": "wide",
+      "angolo": "orizzontale",
+      "presenza_umana": false,
+      "presenza_logo": false,
+      "luce": "naturale",
+      "cosa_si_nota": "Una grande montagna rocciosa è illuminata dal sole al tramonto, con una strada e alberi in primo piano.",
+      "shot_idx": 29,
+      "start": 64.767,
+      "end": 67.433,
+      "dur": 2.667
+    },
+    {
+      "idx": 0,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia wrap",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta mangiando un wrap con un'espressione divertita.",
+      "shot_idx": 30,
+      "start": 67.433,
+      "end": 69.033,
+      "dur": 1.6
+    },
+    {
+      "idx": 1,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo mangia wrap",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": false,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo continua a mangiare il wrap con un'espressione intensa.",
+      "shot_idx": 31,
+      "start": 69.033,
+      "end": 70.867,
+      "dur": 1.833
+    },
+    {
+      "idx": 2,
+      "role_visivo": "food_closeup",
+      "soggetto": "panino Subway farcito",
+      "composizione": "close_up",
+      "angolo": "dall_alto",
+      "presenza_umana": false,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Un panino Subway ripieno di verdure e formaggio è in primo piano.",
+      "shot_idx": 32,
+      "start": 70.867,
+      "end": 72.867,
+      "dur": 2.0
+    },
+    {
+      "idx": 3,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo tiene panino",
+      "composizione": "medium",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo tiene in mano un grande panino con un'espressione sorpresa.",
+      "shot_idx": 33,
+      "start": 72.867,
+      "end": 75.067,
+      "dur": 2.2
+    },
+    {
+      "idx": 4,
+      "role_visivo": "person_eating",
+      "soggetto": "ragazzo addenta panino",
+      "composizione": "close_up",
+      "angolo": "orizzontale",
+      "presenza_umana": true,
+      "presenza_logo": true,
+      "luce": "mista",
+      "cosa_si_nota": "Il ragazzo sta addentando il panino con un'espressione di piacere.",
+      "shot_idx": 34,
+      "start": 75.067,
+      "end": 78.7,
+      "dur": 3.633
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "No, be' ragazzi ancora non ci credo, finalmente è realizzato il mio sogno."
+    },
+    {
+      "start": 3.2,
+      "end": 6.9,
+      "text": "Oggi ragazzi vi porto come una giornata clamorosa negli Stati Uniti in California."
+    },
+    {
+      "start": 7.14,
+      "end": 9.42,
+      "text": "Andiamo a visitare i Lojosemiti National Park."
+    },
+    {
+      "start": 9.64,
+      "end": 13.44,
+      "text": "Partendo con la solita colazione da un motello americano con Waffle, Ciro Podaccia e un po' di muffin,"
+    },
+    {
+      "start": 13.66,
+      "end": 16.0,
+      "text": "abbiamo poi preso la macchina e siamo arrivati alla Lojosemiti,"
+    },
+    {
+      "start": 16.02,
+      "end": 18.12,
+      "text": "che ci ha colto già con una strada clamorosa,"
+    },
+    {
+      "start": 18.2,
+      "end": 20.96,
+      "text": "fino che non siamo arrivati davanti alla montagna più famosa di tutto il parco,"
+    },
+    {
+      "start": 21.0,
+      "end": 25.1,
+      "text": "ovvero il Capitaine, una montagna che è statalettelamente scalata a mani nude"
+    },
+    {
+      "start": 25.1,
+      "end": 27.84,
+      "text": "senza alcun tipo di attrezzatura da Alex Onnold."
+    },
+    {
+      "start": 27.84,
+      "end": 28.84,
+      "text": "Praticamente un passo."
+    },
+    {
+      "start": 28.9,
+      "end": 32.44,
+      "text": "Noi abbiamo poi continuato fermandoci nei punti più famosi da Lojosemiti,"
+    },
+    {
+      "start": 32.52,
+      "end": 34.62,
+      "text": "esistando anche tutta la parte delle secue giganti,"
+    },
+    {
+      "start": 34.68,
+      "end": 38.08,
+      "text": "che anche se non erano grandi come quelle che c'erano proprio nel secuoio e al National Park,"
+    },
+    {
+      "start": 38.18,
+      "end": 39.8,
+      "text": "facevano comunque il loro effetto."
+    },
+    {
+      "start": 39.92,
+      "end": 41.1,
+      "text": "Dopodiché abbiamo proseguito,"
+    },
+    {
+      "start": 41.16,
+      "end": 43.6,
+      "text": "incontanto diverse animali come Cervi, Chipmunk,"
+    },
+    {
+      "start": 43.7,
+      "end": 46.3,
+      "text": "ma senza incontrare quell'animale che avrei tanto voluto vedere,"
+    },
+    {
+      "start": 46.4,
+      "end": 49.18,
+      "text": "per poi arrivare a questo punto panoramico veramente clamoroso."
+    },
+    {
+      "start": 49.26,
+      "end": 53.56,
+      "text": "Il Glacier Point, da cui abbiamo potuto vedere praticamente gran parte di questo parco assurdo."
+    },
+    {
+      "start": 53.64,
+      "end": 55.84,
+      "text": "Ed è proprio qui, mentre cerchiamo di uscire dal parco,"
+    },
+    {
+      "start": 55.94,
+      "end": 57.74,
+      "text": "che il sogno di una vita si finalmente avverato."
+    },
+    {
+      "start": 57.74,
+      "end": 59.38,
+      "text": "Ho incontrato un orso dal vivo."
+    },
+    {
+      "start": 59.42,
+      "end": 61.3,
+      "text": "Non ho stato veramente piccolino e super carino,"
+    },
+    {
+      "start": 61.34,
+      "end": 63.86,
+      "text": "ed è quando sono piccolo che sono di incontrare un orso in natura."
+    },
+    {
+      "start": 63.88,
+      "end": 65.72,
+      "text": "E questa cosa mi ha veramente emozionato un sacco."
+    },
+    {
+      "start": 65.74,
+      "end": 67.66,
+      "text": "Dopodiché abbiamo ammirato il tramonto sul capte,"
+    },
+    {
+      "start": 67.68,
+      "end": 69.02,
+      "text": "anche è veramente uno spettacolo anche lui."
+    },
+    {
+      "start": 69.04,
+      "end": 71.18,
+      "text": "Infine siamo usciti e abbiamo cercato l'unica cosa aperta,"
+    },
+    {
+      "start": 71.24,
+      "end": 74.14,
+      "text": "ovvero Savoy, in cui ci siamo fatti questo mega panino gigante."
+    },
+    {
+      "start": 74.24,
+      "end": 76.54,
+      "text": "E niente, Savoy, quando hai fame non delude mai,"
+    },
+    {
+      "start": 76.58,
+      "end": 77.38,
+      "text": "ma di avere fame."
+    },
+    {
+      "start": 77.64,
+      "end": 78.04,
+      "text": "Ma tanta."
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "word": "No,"
+    },
+    {
+      "start": 0.3,
+      "end": 0.42,
+      "word": "be'"
+    },
+    {
+      "start": 0.42,
+      "end": 0.72,
+      "word": "ragazzi"
+    },
+    {
+      "start": 0.72,
+      "end": 1.02,
+      "word": "ancora"
+    },
+    {
+      "start": 1.02,
+      "end": 1.2,
+      "word": "non"
+    },
+    {
+      "start": 1.2,
+      "end": 1.36,
+      "word": "ci"
+    },
+    {
+      "start": 1.36,
+      "end": 1.66,
+      "word": "credo,"
+    },
+    {
+      "start": 1.72,
+      "end": 1.96,
+      "word": "finalmente"
+    },
+    {
+      "start": 1.96,
+      "end": 2.2,
+      "word": "è"
+    },
+    {
+      "start": 2.2,
+      "end": 2.56,
+      "word": "realizzato"
+    },
+    {
+      "start": 2.56,
+      "end": 2.66,
+      "word": "il"
+    },
+    {
+      "start": 2.66,
+      "end": 2.74,
+      "word": "mio"
+    },
+    {
+      "start": 2.74,
+      "end": 3.12,
+      "word": "sogno."
+    },
+    {
+      "start": 3.2,
+      "end": 3.34,
+      "word": "Oggi"
+    },
+    {
+      "start": 3.34,
+      "end": 3.62,
+      "word": "ragazzi"
+    },
+    {
+      "start": 3.62,
+      "end": 3.76,
+      "word": "vi"
+    },
+    {
+      "start": 3.76,
+      "end": 3.96,
+      "word": "porto"
+    },
+    {
+      "start": 3.96,
+      "end": 4.12,
+      "word": "come"
+    },
+    {
+      "start": 4.12,
+      "end": 4.32,
+      "word": "una"
+    },
+    {
+      "start": 4.32,
+      "end": 4.6,
+      "word": "giornata"
+    },
+    {
+      "start": 4.6,
+      "end": 5.42,
+      "word": "clamorosa"
+    },
+    {
+      "start": 5.42,
+      "end": 5.68,
+      "word": "negli"
+    },
+    {
+      "start": 5.68,
+      "end": 5.96,
+      "word": "Stati"
+    },
+    {
+      "start": 5.96,
+      "end": 6.24,
+      "word": "Uniti"
+    },
+    {
+      "start": 6.24,
+      "end": 6.44,
+      "word": "in"
+    },
+    {
+      "start": 6.44,
+      "end": 6.9,
+      "word": "California."
+    },
+    {
+      "start": 7.14,
+      "end": 7.3,
+      "word": "Andiamo"
+    },
+    {
+      "start": 7.3,
+      "end": 7.44,
+      "word": "a"
+    },
+    {
+      "start": 7.44,
+      "end": 7.72,
+      "word": "visitare"
+    },
+    {
+      "start": 7.72,
+      "end": 7.86,
+      "word": "i"
+    },
+    {
+      "start": 7.86,
+      "end": 8.5,
+      "word": "Lojosemiti"
+    },
+    {
+      "start": 8.5,
+      "end": 8.84,
+      "word": "National"
+    },
+    {
+      "start": 8.84,
+      "end": 9.42,
+      "word": "Park."
+    },
+    {
+      "start": 9.64,
+      "end": 9.82,
+      "word": "Partendo"
+    },
+    {
+      "start": 9.82,
+      "end": 9.98,
+      "word": "con"
+    },
+    {
+      "start": 9.98,
+      "end": 10.08,
+      "word": "la"
+    },
+    {
+      "start": 10.08,
+      "end": 10.28,
+      "word": "solita"
+    },
+    {
+      "start": 10.28,
+      "end": 10.66,
+      "word": "colazione"
+    },
+    {
+      "start": 10.66,
+      "end": 10.82,
+      "word": "da"
+    },
+    {
+      "start": 10.82,
+      "end": 10.86,
+      "word": "un"
+    },
+    {
+      "start": 10.86,
+      "end": 11.02,
+      "word": "motello"
+    },
+    {
+      "start": 11.02,
+      "end": 11.52,
+      "word": "americano"
+    },
+    {
+      "start": 11.52,
+      "end": 11.72,
+      "word": "con"
+    },
+    {
+      "start": 11.72,
+      "end": 11.98,
+      "word": "Waffle,"
+    },
+    {
+      "start": 12.22,
+      "end": 12.28,
+      "word": "Ciro"
+    },
+    {
+      "start": 12.28,
+      "end": 12.76,
+      "word": "Podaccia"
+    },
+    {
+      "start": 12.76,
+      "end": 12.8,
+      "word": "e"
+    },
+    {
+      "start": 12.8,
+      "end": 12.9,
+      "word": "un"
+    },
+    {
+      "start": 12.9,
+      "end": 13.0,
+      "word": "po'"
+    },
+    {
+      "start": 13.06,
+      "end": 13.12,
+      "word": "di"
+    },
+    {
+      "start": 13.12,
+      "end": 13.44,
+      "word": "muffin,"
+    },
+    {
+      "start": 13.66,
+      "end": 13.9,
+      "word": "abbiamo"
+    },
+    {
+      "start": 13.9,
+      "end": 14.08,
+      "word": "poi"
+    },
+    {
+      "start": 14.08,
+      "end": 14.3,
+      "word": "preso"
+    },
+    {
+      "start": 14.3,
+      "end": 14.42,
+      "word": "la"
+    },
+    {
+      "start": 14.42,
+      "end": 14.68,
+      "word": "macchina"
+    },
+    {
+      "start": 14.68,
+      "end": 14.88,
+      "word": "e"
+    },
+    {
+      "start": 14.88,
+      "end": 14.92,
+      "word": "siamo"
+    },
+    {
+      "start": 14.92,
+      "end": 15.22,
+      "word": "arrivati"
+    },
+    {
+      "start": 15.22,
+      "end": 15.3,
+      "word": "alla"
+    },
+    {
+      "start": 15.3,
+      "end": 16.0,
+      "word": "Lojosemiti,"
+    },
+    {
+      "start": 16.02,
+      "end": 16.08,
+      "word": "che"
+    },
+    {
+      "start": 16.08,
+      "end": 16.18,
+      "word": "ci"
+    },
+    {
+      "start": 16.18,
+      "end": 16.24,
+      "word": "ha"
+    },
+    {
+      "start": 16.24,
+      "end": 16.54,
+      "word": "colto"
+    },
+    {
+      "start": 16.54,
+      "end": 16.78,
+      "word": "già"
+    },
+    {
+      "start": 16.78,
+      "end": 17.02,
+      "word": "con"
+    },
+    {
+      "start": 17.02,
+      "end": 17.16,
+      "word": "una"
+    },
+    {
+      "start": 17.16,
+      "end": 17.44,
+      "word": "strada"
+    },
+    {
+      "start": 17.44,
+      "end": 18.12,
+      "word": "clamorosa,"
+    },
+    {
+      "start": 18.2,
+      "end": 18.28,
+      "word": "fino"
+    },
+    {
+      "start": 18.28,
+      "end": 18.4,
+      "word": "che"
+    },
+    {
+      "start": 18.4,
+      "end": 18.5,
+      "word": "non"
+    },
+    {
+      "start": 18.5,
+      "end": 18.6,
+      "word": "siamo"
+    },
+    {
+      "start": 18.6,
+      "end": 18.94,
+      "word": "arrivati"
+    },
+    {
+      "start": 18.94,
+      "end": 19.24,
+      "word": "davanti"
+    },
+    {
+      "start": 19.24,
+      "end": 19.36,
+      "word": "alla"
+    },
+    {
+      "start": 19.36,
+      "end": 19.66,
+      "word": "montagna"
+    },
+    {
+      "start": 19.66,
+      "end": 19.84,
+      "word": "più"
+    },
+    {
+      "start": 19.84,
+      "end": 20.18,
+      "word": "famosa"
+    },
+    {
+      "start": 20.18,
+      "end": 20.32,
+      "word": "di"
+    },
+    {
+      "start": 20.32,
+      "end": 20.44,
+      "word": "tutto"
+    },
+    {
+      "start": 20.44,
+      "end": 20.62,
+      "word": "il"
+    },
+    {
+      "start": 20.62,
+      "end": 20.96,
+      "word": "parco,"
+    },
+    {
+      "start": 21.0,
+      "end": 21.22,
+      "word": "ovvero"
+    },
+    {
+      "start": 21.22,
+      "end": 21.4,
+      "word": "il"
+    },
+    {
+      "start": 21.4,
+      "end": 21.88,
+      "word": "Capitaine,"
+    },
+    {
+      "start": 21.96,
+      "end": 22.1,
+      "word": "una"
+    },
+    {
+      "start": 22.1,
+      "end": 22.42,
+      "word": "montagna"
+    },
+    {
+      "start": 22.42,
+      "end": 22.56,
+      "word": "che"
+    },
+    {
+      "start": 22.56,
+      "end": 22.64,
+      "word": "è"
+    },
+    {
+      "start": 22.64,
+      "end": 23.5,
+      "word": "statalettelamente"
+    },
+    {
+      "start": 23.5,
+      "end": 24.16,
+      "word": "scalata"
+    },
+    {
+      "start": 24.16,
+      "end": 24.48,
+      "word": "a"
+    },
+    {
+      "start": 24.48,
+      "end": 24.82,
+      "word": "mani"
+    },
+    {
+      "start": 24.82,
+      "end": 25.1,
+      "word": "nude"
+    },
+    {
+      "start": 25.1,
+      "end": 25.36,
+      "word": "senza"
+    },
+    {
+      "start": 25.36,
+      "end": 25.76,
+      "word": "alcun"
+    },
+    {
+      "start": 25.76,
+      "end": 25.94,
+      "word": "tipo"
+    },
+    {
+      "start": 25.94,
+      "end": 26.1,
+      "word": "di"
+    },
+    {
+      "start": 26.1,
+      "end": 26.68,
+      "word": "attrezzatura"
+    },
+    {
+      "start": 26.68,
+      "end": 26.92,
+      "word": "da"
+    },
+    {
+      "start": 26.92,
+      "end": 27.28,
+      "word": "Alex"
+    },
+    {
+      "start": 27.28,
+      "end": 27.84,
+      "word": "Onnold."
+    },
+    {
+      "start": 27.84,
+      "end": 28.24,
+      "word": "Praticamente"
+    },
+    {
+      "start": 28.24,
+      "end": 28.6,
+      "word": "un"
+    },
+    {
+      "start": 28.6,
+      "end": 28.84,
+      "word": "passo."
+    },
+    {
+      "start": 28.9,
+      "end": 29.0,
+      "word": "Noi"
+    },
+    {
+      "start": 29.0,
+      "end": 29.16,
+      "word": "abbiamo"
+    },
+    {
+      "start": 29.16,
+      "end": 29.36,
+      "word": "poi"
+    },
+    {
+      "start": 29.36,
+      "end": 29.9,
+      "word": "continuato"
+    },
+    {
+      "start": 29.9,
+      "end": 30.52,
+      "word": "fermandoci"
+    },
+    {
+      "start": 30.52,
+      "end": 30.66,
+      "word": "nei"
+    },
+    {
+      "start": 30.66,
+      "end": 31.0,
+      "word": "punti"
+    },
+    {
+      "start": 31.0,
+      "end": 31.1,
+      "word": "più"
+    },
+    {
+      "start": 31.1,
+      "end": 31.52,
+      "word": "famosi"
+    },
+    {
+      "start": 31.52,
+      "end": 31.7,
+      "word": "da"
+    },
+    {
+      "start": 31.7,
+      "end": 32.44,
+      "word": "Lojosemiti,"
+    },
+    {
+      "start": 32.52,
+      "end": 32.74,
+      "word": "esistando"
+    },
+    {
+      "start": 32.74,
+      "end": 32.9,
+      "word": "anche"
+    },
+    {
+      "start": 32.9,
+      "end": 33.08,
+      "word": "tutta"
+    },
+    {
+      "start": 33.08,
+      "end": 33.24,
+      "word": "la"
+    },
+    {
+      "start": 33.24,
+      "end": 33.42,
+      "word": "parte"
+    },
+    {
+      "start": 33.42,
+      "end": 33.68,
+      "word": "delle"
+    },
+    {
+      "start": 33.68,
+      "end": 33.98,
+      "word": "secue"
+    },
+    {
+      "start": 33.98,
+      "end": 34.62,
+      "word": "giganti,"
+    },
+    {
+      "start": 34.68,
+      "end": 34.74,
+      "word": "che"
+    },
+    {
+      "start": 34.74,
+      "end": 34.84,
+      "word": "anche"
+    },
+    {
+      "start": 34.84,
+      "end": 34.98,
+      "word": "se"
+    },
+    {
+      "start": 34.98,
+      "end": 35.08,
+      "word": "non"
+    },
+    {
+      "start": 35.08,
+      "end": 35.3,
+      "word": "erano"
+    },
+    {
+      "start": 35.3,
+      "end": 35.62,
+      "word": "grandi"
+    },
+    {
+      "start": 35.62,
+      "end": 35.88,
+      "word": "come"
+    },
+    {
+      "start": 35.88,
+      "end": 36.18,
+      "word": "quelle"
+    },
+    {
+      "start": 36.18,
+      "end": 36.3,
+      "word": "che"
+    },
+    {
+      "start": 36.3,
+      "end": 36.44,
+      "word": "c"
+    },
+    {
+      "start": 36.44,
+      "end": 36.56,
+      "word": "'erano"
+    },
+    {
+      "start": 36.56,
+      "end": 36.76,
+      "word": "proprio"
+    },
+    {
+      "start": 36.76,
+      "end": 37.0,
+      "word": "nel"
+    },
+    {
+      "start": 37.0,
+      "end": 37.46,
+      "word": "secuoio"
+    },
+    {
+      "start": 37.46,
+      "end": 37.54,
+      "word": "e"
+    },
+    {
+      "start": 37.54,
+      "end": 37.78,
+      "word": "al"
+    },
+    {
+      "start": 37.78,
+      "end": 37.78,
+      "word": "National"
+    },
+    {
+      "start": 37.78,
+      "end": 38.08,
+      "word": "Park,"
+    },
+    {
+      "start": 38.18,
+      "end": 38.48,
+      "word": "facevano"
+    },
+    {
+      "start": 38.48,
+      "end": 38.94,
+      "word": "comunque"
+    },
+    {
+      "start": 38.94,
+      "end": 39.2,
+      "word": "il"
+    },
+    {
+      "start": 39.2,
+      "end": 39.36,
+      "word": "loro"
+    },
+    {
+      "start": 39.36,
+      "end": 39.8,
+      "word": "effetto."
+    },
+    {
+      "start": 39.92,
+      "end": 40.2,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 40.2,
+      "end": 40.44,
+      "word": "abbiamo"
+    },
+    {
+      "start": 40.44,
+      "end": 41.1,
+      "word": "proseguito,"
+    },
+    {
+      "start": 41.16,
+      "end": 41.52,
+      "word": "incontanto"
+    },
+    {
+      "start": 41.52,
+      "end": 41.8,
+      "word": "diverse"
+    },
+    {
+      "start": 41.8,
+      "end": 42.28,
+      "word": "animali"
+    },
+    {
+      "start": 42.28,
+      "end": 42.52,
+      "word": "come"
+    },
+    {
+      "start": 42.52,
+      "end": 43.1,
+      "word": "Cervi,"
+    },
+    {
+      "start": 43.22,
+      "end": 43.6,
+      "word": "Chipmunk,"
+    },
+    {
+      "start": 43.7,
+      "end": 43.78,
+      "word": "ma"
+    },
+    {
+      "start": 43.78,
+      "end": 43.92,
+      "word": "senza"
+    },
+    {
+      "start": 43.92,
+      "end": 44.4,
+      "word": "incontrare"
+    },
+    {
+      "start": 44.4,
+      "end": 44.8,
+      "word": "quell"
+    },
+    {
+      "start": 44.8,
+      "end": 45.1,
+      "word": "'animale"
+    },
+    {
+      "start": 45.1,
+      "end": 45.24,
+      "word": "che"
+    },
+    {
+      "start": 45.24,
+      "end": 45.38,
+      "word": "avrei"
+    },
+    {
+      "start": 45.38,
+      "end": 45.58,
+      "word": "tanto"
+    },
+    {
+      "start": 45.58,
+      "end": 45.94,
+      "word": "voluto"
+    },
+    {
+      "start": 45.94,
+      "end": 46.3,
+      "word": "vedere,"
+    },
+    {
+      "start": 46.4,
+      "end": 46.46,
+      "word": "per"
+    },
+    {
+      "start": 46.46,
+      "end": 46.58,
+      "word": "poi"
+    },
+    {
+      "start": 46.58,
+      "end": 46.92,
+      "word": "arrivare"
+    },
+    {
+      "start": 46.92,
+      "end": 47.04,
+      "word": "a"
+    },
+    {
+      "start": 47.04,
+      "end": 47.32,
+      "word": "questo"
+    },
+    {
+      "start": 47.32,
+      "end": 47.64,
+      "word": "punto"
+    },
+    {
+      "start": 47.64,
+      "end": 48.26,
+      "word": "panoramico"
+    },
+    {
+      "start": 48.26,
+      "end": 48.52,
+      "word": "veramente"
+    },
+    {
+      "start": 48.52,
+      "end": 49.18,
+      "word": "clamoroso."
+    },
+    {
+      "start": 49.26,
+      "end": 49.38,
+      "word": "Il"
+    },
+    {
+      "start": 49.38,
+      "end": 49.86,
+      "word": "Glacier"
+    },
+    {
+      "start": 49.86,
+      "end": 50.26,
+      "word": "Point,"
+    },
+    {
+      "start": 50.38,
+      "end": 50.5,
+      "word": "da"
+    },
+    {
+      "start": 50.5,
+      "end": 50.54,
+      "word": "cui"
+    },
+    {
+      "start": 50.54,
+      "end": 50.72,
+      "word": "abbiamo"
+    },
+    {
+      "start": 50.72,
+      "end": 51.0,
+      "word": "potuto"
+    },
+    {
+      "start": 51.0,
+      "end": 51.26,
+      "word": "vedere"
+    },
+    {
+      "start": 51.26,
+      "end": 51.56,
+      "word": "praticamente"
+    },
+    {
+      "start": 51.56,
+      "end": 51.98,
+      "word": "gran"
+    },
+    {
+      "start": 51.98,
+      "end": 52.32,
+      "word": "parte"
+    },
+    {
+      "start": 52.32,
+      "end": 52.52,
+      "word": "di"
+    },
+    {
+      "start": 52.52,
+      "end": 52.74,
+      "word": "questo"
+    },
+    {
+      "start": 52.74,
+      "end": 53.14,
+      "word": "parco"
+    },
+    {
+      "start": 53.14,
+      "end": 53.56,
+      "word": "assurdo."
+    },
+    {
+      "start": 53.64,
+      "end": 53.7,
+      "word": "Ed"
+    },
+    {
+      "start": 53.7,
+      "end": 53.76,
+      "word": "è"
+    },
+    {
+      "start": 53.76,
+      "end": 53.9,
+      "word": "proprio"
+    },
+    {
+      "start": 53.9,
+      "end": 54.18,
+      "word": "qui,"
+    },
+    {
+      "start": 54.3,
+      "end": 54.4,
+      "word": "mentre"
+    },
+    {
+      "start": 54.4,
+      "end": 54.9,
+      "word": "cerchiamo"
+    },
+    {
+      "start": 54.9,
+      "end": 55.04,
+      "word": "di"
+    },
+    {
+      "start": 55.04,
+      "end": 55.24,
+      "word": "uscire"
+    },
+    {
+      "start": 55.24,
+      "end": 55.4,
+      "word": "dal"
+    },
+    {
+      "start": 55.4,
+      "end": 55.84,
+      "word": "parco,"
+    },
+    {
+      "start": 55.94,
+      "end": 55.96,
+      "word": "che"
+    },
+    {
+      "start": 55.96,
+      "end": 56.08,
+      "word": "il"
+    },
+    {
+      "start": 56.08,
+      "end": 56.34,
+      "word": "sogno"
+    },
+    {
+      "start": 56.34,
+      "end": 56.44,
+      "word": "di"
+    },
+    {
+      "start": 56.44,
+      "end": 56.58,
+      "word": "una"
+    },
+    {
+      "start": 56.58,
+      "end": 56.74,
+      "word": "vita"
+    },
+    {
+      "start": 56.74,
+      "end": 56.9,
+      "word": "si"
+    },
+    {
+      "start": 56.9,
+      "end": 57.14,
+      "word": "finalmente"
+    },
+    {
+      "start": 57.14,
+      "end": 57.74,
+      "word": "avverato."
+    },
+    {
+      "start": 57.74,
+      "end": 57.92,
+      "word": "Ho"
+    },
+    {
+      "start": 57.92,
+      "end": 58.44,
+      "word": "incontrato"
+    },
+    {
+      "start": 58.44,
+      "end": 58.66,
+      "word": "un"
+    },
+    {
+      "start": 58.66,
+      "end": 58.96,
+      "word": "orso"
+    },
+    {
+      "start": 58.96,
+      "end": 59.16,
+      "word": "dal"
+    },
+    {
+      "start": 59.16,
+      "end": 59.38,
+      "word": "vivo."
+    },
+    {
+      "start": 59.42,
+      "end": 59.5,
+      "word": "Non"
+    },
+    {
+      "start": 59.5,
+      "end": 59.56,
+      "word": "ho"
+    },
+    {
+      "start": 59.56,
+      "end": 59.66,
+      "word": "stato"
+    },
+    {
+      "start": 59.66,
+      "end": 59.94,
+      "word": "veramente"
+    },
+    {
+      "start": 59.94,
+      "end": 60.62,
+      "word": "piccolino"
+    },
+    {
+      "start": 60.62,
+      "end": 60.68,
+      "word": "e"
+    },
+    {
+      "start": 60.68,
+      "end": 60.88,
+      "word": "super"
+    },
+    {
+      "start": 60.88,
+      "end": 61.3,
+      "word": "carino,"
+    },
+    {
+      "start": 61.34,
+      "end": 61.38,
+      "word": "ed"
+    },
+    {
+      "start": 61.38,
+      "end": 61.42,
+      "word": "è"
+    },
+    {
+      "start": 61.42,
+      "end": 61.56,
+      "word": "quando"
+    },
+    {
+      "start": 61.56,
+      "end": 61.74,
+      "word": "sono"
+    },
+    {
+      "start": 61.74,
+      "end": 62.1,
+      "word": "piccolo"
+    },
+    {
+      "start": 62.1,
+      "end": 62.2,
+      "word": "che"
+    },
+    {
+      "start": 62.2,
+      "end": 62.36,
+      "word": "sono"
+    },
+    {
+      "start": 62.36,
+      "end": 62.54,
+      "word": "di"
+    },
+    {
+      "start": 62.54,
+      "end": 63.02,
+      "word": "incontrare"
+    },
+    {
+      "start": 63.02,
+      "end": 63.18,
+      "word": "un"
+    },
+    {
+      "start": 63.18,
+      "end": 63.42,
+      "word": "orso"
+    },
+    {
+      "start": 63.42,
+      "end": 63.5,
+      "word": "in"
+    },
+    {
+      "start": 63.5,
+      "end": 63.86,
+      "word": "natura."
+    },
+    {
+      "start": 63.88,
+      "end": 63.9,
+      "word": "E"
+    },
+    {
+      "start": 63.9,
+      "end": 64.04,
+      "word": "questa"
+    },
+    {
+      "start": 64.04,
+      "end": 64.22,
+      "word": "cosa"
+    },
+    {
+      "start": 64.22,
+      "end": 64.34,
+      "word": "mi"
+    },
+    {
+      "start": 64.34,
+      "end": 64.42,
+      "word": "ha"
+    },
+    {
+      "start": 64.42,
+      "end": 64.62,
+      "word": "veramente"
+    },
+    {
+      "start": 64.62,
+      "end": 65.24,
+      "word": "emozionato"
+    },
+    {
+      "start": 65.24,
+      "end": 65.36,
+      "word": "un"
+    },
+    {
+      "start": 65.36,
+      "end": 65.72,
+      "word": "sacco."
+    },
+    {
+      "start": 65.74,
+      "end": 66.1,
+      "word": "Dopodiché"
+    },
+    {
+      "start": 66.1,
+      "end": 66.28,
+      "word": "abbiamo"
+    },
+    {
+      "start": 66.28,
+      "end": 66.68,
+      "word": "ammirato"
+    },
+    {
+      "start": 66.68,
+      "end": 66.8,
+      "word": "il"
+    },
+    {
+      "start": 66.8,
+      "end": 67.12,
+      "word": "tramonto"
+    },
+    {
+      "start": 67.12,
+      "end": 67.28,
+      "word": "sul"
+    },
+    {
+      "start": 67.28,
+      "end": 67.66,
+      "word": "capte,"
+    },
+    {
+      "start": 67.68,
+      "end": 67.76,
+      "word": "anche"
+    },
+    {
+      "start": 67.76,
+      "end": 67.82,
+      "word": "è"
+    },
+    {
+      "start": 67.82,
+      "end": 68.08,
+      "word": "veramente"
+    },
+    {
+      "start": 68.08,
+      "end": 68.26,
+      "word": "uno"
+    },
+    {
+      "start": 68.26,
+      "end": 68.78,
+      "word": "spettacolo"
+    },
+    {
+      "start": 68.78,
+      "end": 68.94,
+      "word": "anche"
+    },
+    {
+      "start": 68.94,
+      "end": 69.02,
+      "word": "lui."
+    },
+    {
+      "start": 69.04,
+      "end": 69.2,
+      "word": "Infine"
+    },
+    {
+      "start": 69.2,
+      "end": 69.38,
+      "word": "siamo"
+    },
+    {
+      "start": 69.38,
+      "end": 69.72,
+      "word": "usciti"
+    },
+    {
+      "start": 69.72,
+      "end": 69.82,
+      "word": "e"
+    },
+    {
+      "start": 69.82,
+      "end": 69.88,
+      "word": "abbiamo"
+    },
+    {
+      "start": 69.88,
+      "end": 70.22,
+      "word": "cercato"
+    },
+    {
+      "start": 70.22,
+      "end": 70.32,
+      "word": "l"
+    },
+    {
+      "start": 70.32,
+      "end": 70.48,
+      "word": "'unica"
+    },
+    {
+      "start": 70.48,
+      "end": 70.68,
+      "word": "cosa"
+    },
+    {
+      "start": 70.68,
+      "end": 71.18,
+      "word": "aperta,"
+    },
+    {
+      "start": 71.24,
+      "end": 71.48,
+      "word": "ovvero"
+    },
+    {
+      "start": 71.48,
+      "end": 71.86,
+      "word": "Savoy,"
+    },
+    {
+      "start": 71.88,
+      "end": 71.96,
+      "word": "in"
+    },
+    {
+      "start": 71.96,
+      "end": 72.02,
+      "word": "cui"
+    },
+    {
+      "start": 72.02,
+      "end": 72.14,
+      "word": "ci"
+    },
+    {
+      "start": 72.14,
+      "end": 72.22,
+      "word": "siamo"
+    },
+    {
+      "start": 72.22,
+      "end": 72.48,
+      "word": "fatti"
+    },
+    {
+      "start": 72.48,
+      "end": 72.72,
+      "word": "questo"
+    },
+    {
+      "start": 72.72,
+      "end": 73.06,
+      "word": "mega"
+    },
+    {
+      "start": 73.06,
+      "end": 73.6,
+      "word": "panino"
+    },
+    {
+      "start": 73.6,
+      "end": 74.14,
+      "word": "gigante."
+    },
+    {
+      "start": 74.24,
+      "end": 74.24,
+      "word": "E"
+    },
+    {
+      "start": 74.24,
+      "end": 74.54,
+      "word": "niente,"
+    },
+    {
+      "start": 74.62,
+      "end": 74.96,
+      "word": "Savoy,"
+    },
+    {
+      "start": 75.02,
+      "end": 75.18,
+      "word": "quando"
+    },
+    {
+      "start": 75.18,
+      "end": 75.42,
+      "word": "hai"
+    },
+    {
+      "start": 75.42,
+      "end": 75.74,
+      "word": "fame"
+    },
+    {
+      "start": 75.74,
+      "end": 76.02,
+      "word": "non"
+    },
+    {
+      "start": 76.02,
+      "end": 76.34,
+      "word": "delude"
+    },
+    {
+      "start": 76.34,
+      "end": 76.54,
+      "word": "mai,"
+    },
+    {
+      "start": 76.58,
+      "end": 76.68,
+      "word": "ma"
+    },
+    {
+      "start": 76.68,
+      "end": 76.76,
+      "word": "di"
+    },
+    {
+      "start": 76.76,
+      "end": 76.98,
+      "word": "avere"
+    },
+    {
+      "start": 76.98,
+      "end": 77.38,
+      "word": "fame."
+    },
+    {
+      "start": 77.64,
+      "end": 77.8,
+      "word": "Ma"
+    },
+    {
+      "start": 77.8,
+      "end": 78.04,
+      "word": "tanta."
+    }
+  ],
+  "aligned": [
+    {
+      "shot_idx": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "dur": 2.0,
+      "transcript": "No, be' ragazzi ancora non ci credo, finalmente"
+    },
+    {
+      "shot_idx": 1,
+      "start": 2.0,
+      "end": 3.0,
+      "dur": 1.0,
+      "transcript": "è realizzato il mio sogno."
+    },
+    {
+      "shot_idx": 2,
+      "start": 3.0,
+      "end": 4.033,
+      "dur": 1.033,
+      "transcript": "Oggi ragazzi vi porto"
+    },
+    {
+      "shot_idx": 3,
+      "start": 4.033,
+      "end": 6.567,
+      "dur": 2.533,
+      "transcript": "come una giornata clamorosa negli Stati Uniti in"
+    },
+    {
+      "shot_idx": 4,
+      "start": 6.567,
+      "end": 8.567,
+      "dur": 2.0,
+      "transcript": "California. Andiamo a visitare i Lojosemiti"
+    },
+    {
+      "shot_idx": 5,
+      "start": 8.567,
+      "end": 10.133,
+      "dur": 1.567,
+      "transcript": "National Park. Partendo con la"
+    },
+    {
+      "shot_idx": 6,
+      "start": 10.133,
+      "end": 12.3,
+      "dur": 2.167,
+      "transcript": "solita colazione da un motello americano con Waffle, Ciro"
+    },
+    {
+      "shot_idx": 7,
+      "start": 12.3,
+      "end": 13.9,
+      "dur": 1.6,
+      "transcript": "Podaccia e un po' di muffin, abbiamo"
+    },
+    {
+      "shot_idx": 8,
+      "start": 13.9,
+      "end": 15.267,
+      "dur": 1.367,
+      "transcript": "poi preso la macchina e siamo arrivati alla"
+    },
+    {
+      "shot_idx": 9,
+      "start": 15.267,
+      "end": 16.433,
+      "dur": 1.167,
+      "transcript": "Lojosemiti, che ci ha colto"
+    },
+    {
+      "shot_idx": 10,
+      "start": 16.433,
+      "end": 18.9,
+      "dur": 2.467,
+      "transcript": "già con una strada clamorosa, fino che non siamo arrivati"
+    },
+    {
+      "shot_idx": 11,
+      "start": 18.9,
+      "end": 22.2,
+      "dur": 3.3,
+      "transcript": "davanti alla montagna più famosa di tutto il parco, ovvero il Capitaine, una"
+    },
+    {
+      "shot_idx": 12,
+      "start": 22.2,
+      "end": 24.233,
+      "dur": 2.033,
+      "transcript": "montagna che è statalettelamente scalata"
+    },
+    {
+      "shot_idx": 13,
+      "start": 24.233,
+      "end": 28.167,
+      "dur": 3.933,
+      "transcript": "a mani nude senza alcun tipo di attrezzatura da Alex Onnold. Praticamente"
+    },
+    {
+      "shot_idx": 14,
+      "start": 28.167,
+      "end": 28.867,
+      "dur": 0.7,
+      "transcript": "un passo."
+    },
+    {
+      "shot_idx": 15,
+      "start": 28.867,
+      "end": 30.133,
+      "dur": 1.267,
+      "transcript": "Noi abbiamo poi continuato"
+    },
+    {
+      "shot_idx": 16,
+      "start": 30.133,
+      "end": 32.4,
+      "dur": 2.267,
+      "transcript": "fermandoci nei punti più famosi da Lojosemiti,"
+    },
+    {
+      "shot_idx": 17,
+      "start": 32.4,
+      "end": 33.467,
+      "dur": 1.067,
+      "transcript": "esistando anche tutta la parte"
+    },
+    {
+      "shot_idx": 18,
+      "start": 33.467,
+      "end": 34.167,
+      "dur": 0.7,
+      "transcript": "delle secue"
+    },
+    {
+      "shot_idx": 19,
+      "start": 34.167,
+      "end": 36.367,
+      "dur": 2.2,
+      "transcript": "giganti, che anche se non erano grandi come quelle che"
+    },
+    {
+      "shot_idx": 20,
+      "start": 36.367,
+      "end": 38.167,
+      "dur": 1.8,
+      "transcript": "c 'erano proprio nel secuoio e al National Park,"
+    },
+    {
+      "shot_idx": 21,
+      "start": 38.167,
+      "end": 40.167,
+      "dur": 2.0,
+      "transcript": "facevano comunque il loro effetto. Dopodiché"
+    },
+    {
+      "shot_idx": 22,
+      "start": 40.167,
+      "end": 42.633,
+      "dur": 2.467,
+      "transcript": "abbiamo proseguito, incontanto diverse animali come"
+    },
+    {
+      "shot_idx": 23,
+      "start": 42.633,
+      "end": 46.1,
+      "dur": 3.467,
+      "transcript": "Cervi, Chipmunk, ma senza incontrare quell 'animale che avrei tanto voluto"
+    },
+    {
+      "shot_idx": 24,
+      "start": 46.1,
+      "end": 54.633,
+      "dur": 8.533,
+      "transcript": "vedere, per poi arrivare a questo punto panoramico veramente clamoroso. Il Glacier Point, da cui abbiamo potuto vedere praticamente gran parte di questo parco assurdo. Ed è proprio qui, mentre"
+    },
+    {
+      "shot_idx": 25,
+      "start": 54.633,
+      "end": 57.5,
+      "dur": 2.867,
+      "transcript": "cerchiamo di uscire dal parco, che il sogno di una vita si finalmente avverato."
+    },
+    {
+      "shot_idx": 26,
+      "start": 57.5,
+      "end": 58.0,
+      "dur": 0.5,
+      "transcript": "Ho"
+    },
+    {
+      "shot_idx": 27,
+      "start": 58.0,
+      "end": 59.767,
+      "dur": 1.767,
+      "transcript": "incontrato un orso dal vivo. Non ho stato"
+    },
+    {
+      "shot_idx": 28,
+      "start": 59.767,
+      "end": 64.767,
+      "dur": 5.0,
+      "transcript": "veramente piccolino e super carino, ed è quando sono piccolo che sono di incontrare un orso in natura. E questa cosa mi ha veramente"
+    },
+    {
+      "shot_idx": 29,
+      "start": 64.767,
+      "end": 67.433,
+      "dur": 2.667,
+      "transcript": "emozionato un sacco. Dopodiché abbiamo ammirato il tramonto sul"
+    },
+    {
+      "shot_idx": 30,
+      "start": 67.433,
+      "end": 69.033,
+      "dur": 1.6,
+      "transcript": "capte, anche è veramente uno spettacolo anche lui."
+    },
+    {
+      "shot_idx": 31,
+      "start": 69.033,
+      "end": 70.867,
+      "dur": 1.833,
+      "transcript": "Infine siamo usciti e abbiamo cercato l 'unica cosa"
+    },
+    {
+      "shot_idx": 32,
+      "start": 70.867,
+      "end": 72.867,
+      "dur": 2.0,
+      "transcript": "aperta, ovvero Savoy, in cui ci siamo fatti questo"
+    },
+    {
+      "shot_idx": 33,
+      "start": 72.867,
+      "end": 75.067,
+      "dur": 2.2,
+      "transcript": "mega panino gigante. E niente, Savoy,"
+    },
+    {
+      "shot_idx": 34,
+      "start": 75.067,
+      "end": 78.7,
+      "dur": 3.633,
+      "transcript": "quando hai fame non delude mai, ma di avere fame. Ma tanta."
+    }
+  ],
+  "full_text": "No, be' ragazzi ancora non ci credo, finalmente è realizzato il mio sogno. Oggi ragazzi vi porto come una giornata clamorosa negli Stati Uniti in California. Andiamo a visitare i Lojosemiti National Park. Partendo con la solita colazione da un motello americano con Waffle, Ciro Podaccia e un po' di muffin, abbiamo poi preso la macchina e siamo arrivati alla Lojosemiti, che ci ha colto già con una strada clamorosa, fino che non siamo arrivati davanti alla montagna più famosa di tutto il parco, ovvero il Capitaine, una montagna che è statalettelamente scalata a mani nude senza alcun tipo di attrezzatura da Alex Onnold. Praticamente un passo. Noi abbiamo poi continuato fermandoci nei punti più famosi da Lojosemiti, esistando anche tutta la parte delle secue giganti, che anche se non erano grandi come quelle che c'erano proprio nel secuoio e al National Park, facevano comunque il loro effetto. Dopodiché abbiamo proseguito, incontanto diverse animali come Cervi, Chipmunk, ma senza incontrare quell'animale che avrei tanto voluto vedere, per poi arrivare a questo punto panoramico veramente clamoroso. Il Glacier Point, da cui abbiamo potuto vedere praticamente gran parte di questo parco assurdo. Ed è proprio qui, mentre cerchiamo di uscire dal parco, che il sogno di una vita si finalmente avverato. Ho incontrato un orso dal vivo. Non ho stato veramente piccolino e super carino, ed è quando sono piccolo che sono di incontrare un orso in natura. E questa cosa mi ha veramente emozionato un sacco. Dopodiché abbiamo ammirato il tramonto sul capte, anche è veramente uno spettacolo anche lui. Infine siamo usciti e abbiamo cercato l'unica cosa aperta, ovvero Savoy, in cui ci siamo fatti questo mega panino gigante. E niente, Savoy, quando hai fame non delude mai, ma di avere fame. Ma tanta.",
+  "analyzed_at": "2026-09-20T19:10:28"
+}

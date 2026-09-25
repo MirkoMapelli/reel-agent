@@ -1,0 +1,294 @@
+{
+  "title": "Wing Stop Milano - Il verdetto",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 2.2,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "logo Wing Stop su scatola, claim immediato"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "schermo verde MILANO con menu digitale totem"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "inquadratura ambiente locale, atmosfera generale"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano ali di pollo dorate e croccanti"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani mostrano francese lunga tra le dita"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu con flavors in evidenza"
+    },
+    {
+      "idx": 7,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_detail"
+      ],
+      "moment": "cartoccio francese gialle calde con scritta"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_plated"
+      ],
+      "moment": "vassoi cartone con carta forno vista dall'alto"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "cliente regge tazza bevanda con logo locale"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente beve mentre osserva il tavolo"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio ambiente vicino al banco bevande"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani afferrano pollo e patatine con entusiasmo"
+    },
+    {
+      "idx": 13,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani spezzano la francese mostrando interno"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "primo assaggio con faccia di approvazione"
+    },
+    {
+      "idx": 15,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "dettaglio croccantezza durante il morso"
+    },
+    {
+      "idx": 16,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente continua a mangiare con soddisfazione"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "primo piano estremo su pollo filante e succoso"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "totem menu flavors in evidenza, scelta finale"
+    },
+    {
+      "idx": 19,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente annuisce convinto del sapore"
+    },
+    {
+      "idx": 20,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "dettaglio salsa che cola sul pollo"
+    },
+    {
+      "idx": 21,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "mani prendono un'altra ala con voracità"
+    },
+    {
+      "idx": 22,
+      "type": "discovery",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "dettaglio arredo o insegna del locale"
+    },
+    {
+      "idx": 23,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "zoom su croccantezza esterna del pollo fritto"
+    },
+    {
+      "idx": 24,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente sorride masticando con gusto"
+    },
+    {
+      "idx": 25,
+      "type": "detail",
+      "duration": 2.2,
+      "scene_need": [
+        "detail"
+      ],
+      "moment": "dettaglio patatine calde fumanti nel cartoccio"
+    },
+    {
+      "idx": 26,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "mani intingono patatina nella salsa"
+    },
+    {
+      "idx": 27,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_detail"
+      ],
+      "moment": "ultimo sorso della bevanda accompagnamento"
+    },
+    {
+      "idx": 28,
+      "type": "climax",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup"
+      ],
+      "moment": "inquadratura finale del piatto quasi finito"
+    },
+    {
+      "idx": 29,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating"
+      ],
+      "moment": "cliente parla guardando in camera, consiglio finale"
+    },
+    {
+      "idx": 30,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail"
+      ],
+      "moment": "ultima inquadratura ambiente locale e logo"
+    },
+    {
+      "idx": 31,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture"
+      ],
+      "moment": "gesto di approvazione con mano alzata"
+    },
+    {
+      "idx": 32,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "menu_board"
+      ],
+      "moment": "chiusura su scatola logo Wing Stop, invito a provare"
+    }
+  ],
+  "edl_job_id": 179
+}

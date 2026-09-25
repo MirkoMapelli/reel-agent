@@ -1,0 +1,802 @@
+"""Story writer con reverse flow:
+FASE 1: Claude scrive solo struttura (beat + scene_need)
+FASE 2: Matcher sceglie scene reali con alternanza forzata
+FASE 3: Claude scrive il voiceover SAPENDO cosa mostra ogni scena
+"""
+import os
+import json
+import re
+from collections import Counter
+
+from anthropic import Anthropic
+
+from app.config import CFG
+from app.jobs import manager
+
+
+# ============================================================
+# MACRO-CATEGORIE per alternanza
+# ============================================================
+
+
+def _extract_text(resp):
+    """Estrae il testo da una risposta Claude multi-blocco (ThinkingBlock + TextBlock)."""
+    parts = []
+    for block in resp.content:
+        # TextBlock ha .text ed è type="text"
+        if hasattr(block, "text") and getattr(block, "type", "") == "text":
+            parts.append(block.text)
+        # Fallback per TextBlock senza .type
+        elif hasattr(block, "text") and not hasattr(block, "thinking"):
+            parts.append(block.text)
+        # ThinkingBlock ha .thinking → ignorato
+    if not parts:
+        # Ultima spiaggia: primo block con .text
+        for block in resp.content:
+            if hasattr(block, "text"):
+                parts.append(block.text)
+                break
+    return "\n".join(parts).strip()
+
+
+_MACRO = {
+    "VENUE": {"venue_exterior", "venue_entrance", "venue_interior_wide",
+              "venue_interior_detail", "kitchen", "staff", "menu_board"},
+    "DRINK": {"drink_pour", "drink_detail", "drink_cheers"},
+    "FOOD":  {"food_prep", "food_plated", "food_closeup", "food_detail"},
+    "PEOPLE": {"person_eating", "person_talking", "hands_gesture"},
+}
+
+def _macro(role):
+    for m, roles in _MACRO.items():
+        if role in roles:
+            return m
+    return "OTHER"
+
+
+
+
+# Stopwords da rimuovere per canonicalizzare il subject
+_SUBJECT_STOPWORDS = {
+    "wing", "stop", "wingstop", "interazione", "detail", "closeup", "close-up",
+    "con", "e", "su", "di", "il", "la", "lo", "le", "gli", "i", "un", "una",
+    "del", "della", "dello", "dei", "delle", "degli", "al", "alla", "allo",
+    "ai", "alle", "agli", "dal", "dalla", "dallo", "dai", "dalle", "dagli",
+    "nel", "nella", "nello", "nei", "nelle", "negli", "branded", "branding",
+    "promo", "promozionale", "principale", "primopiano", "primo", "piano",
+}
+
+# Regole di canonicalizzazione: se il subject contiene una keyword → canonical forzato
+_CANONICAL_RULES = [
+    # === OGGETTI UNICI (canonical stretto: un solo uso per ognuno) ===
+    # Macchina bibite / distributore
+    (["distribut", "freestyle", "coca-cola", "coca cola", "coca zero",
+      "dispenser", "macchina bibite", "soda"], "distributore bibite"),
+    # Claw machine
+    (["claw machine", "claw-machine", "claw"], "claw machine"),
+    # Packaging / scatola brand
+    (["packaging", "scatola brand", "scatola wingstop", "branding box"], "packaging"),
+    # Menu / totem
+    (["menu totem", "menù totem", "totem touchscreen", "totem menù"], "menu totem"),
+    # Insegna
+    (["insegna ", "logo wall", "facciata "], "insegna"),
+    # Parete decorata
+    (["parete decorata", "parete con logo", "muro decorato", "murales"], "parete locale"),
+    # === NIENTE canonical per: cliente, ali, patatine, popperoni, salsa, bicchiere ===
+    # Questi restano distinti per subject originale (sono scene diverse)
+]
+
+
+def _canonical_subject(subject):
+    """Canonicalizza il subject per il dedup, usando REGOLE per parola-chiave."""
+    if not subject:
+        return ""
+    s = subject.lower().strip()
+    # Rimuovi punteggiatura
+    for ch in [".", ",", ";", ":", "!", "?", "(", ")", "[", "]", "{", "}", "'", '"']:
+        s = s.replace(ch, " ")
+    s = " ".join(s.split())
+
+    # Applica regole: se contiene una keyword → ritorna il canonical forzato
+    for keywords, canonical in _CANONICAL_RULES:
+        for kw in keywords:
+            if kw in s:
+                return canonical
+
+    # Fallback: rimuovi stopwords e prendi prime 2 parole
+    words = [w for w in s.split() if w not in _SUBJECT_STOPWORDS]
+    canonical = " ".join(words[:2])
+    return canonical or s
+
+# Fallback catene per ruolo non disponibile
+_FALLBACK = {
+    "venue_exterior": ["venue_entrance", "venue_interior_wide", "venue_interior_detail"],
+    "venue_entrance": ["venue_exterior", "venue_interior_wide"],
+    "venue_interior_wide": ["venue_interior_detail", "venue_entrance"],
+    "venue_interior_detail": ["venue_interior_wide"],
+    "kitchen": ["venue_interior_detail", "staff"],
+    "staff": ["venue_interior_detail", "person_talking"],
+    "menu_board": ["venue_interior_detail", "venue_interior_wide"],
+    "drink_pour": ["drink_detail", "drink_cheers"],
+    "drink_detail": ["drink_pour", "drink_cheers"],
+    "drink_cheers": ["drink_detail", "person_talking"],
+    "food_prep": ["food_plated", "food_closeup"],
+    "food_plated": ["food_closeup", "food_detail"],
+    "food_closeup": ["food_detail", "food_plated"],
+    "food_detail": ["food_closeup", "food_plated"],
+    "person_eating": ["person_talking", "hands_gesture"],
+    "person_talking": ["person_eating", "hands_gesture"],
+    "hands_gesture": ["person_eating", "food_closeup"],
+}
+
+
+# ============================================================
+# FASE 1 — Struttura (solo beat + scene_need)
+# ============================================================
+
+
+
+def _encode_image_b64(path):
+    """Ritorna base64 di un'immagine JPG/PNG, o None se errore."""
+    try:
+        import base64
+        if not os.path.exists(path):
+            return None
+        if os.path.getsize(path) > 4 * 1024 * 1024:  # >4MB, troppo grande
+            return None
+        with open(path, "rb") as f:
+            return base64.b64encode(f.read()).decode("ascii")
+    except Exception:
+        return None
+
+def _build_catalog(keep):
+    """Catalogo testuale per Claude con ruoli disponibili e conteggio."""
+    by_role = Counter(s.get("role", "unknown") for s in keep)
+
+    # Descrizione esempi per ruolo
+    examples = {}
+    for s in keep:
+        role = s.get("role", "unknown")
+        if role not in examples:
+            examples[role] = s.get("description", "")[:80]
+
+    lines = []
+    for role, n in by_role.most_common():
+        ex = examples.get(role, "")
+        lines.append(f"- {role} ({n} clip)  es: {ex}")
+    return "\n".join(lines), dict(by_role)
+
+
+def _extract_json(text):
+    """Estrae JSON con bilanciamento parentesi."""
+    start = text.find("{")
+    if start == -1:
+        return None
+    depth = 0
+    in_string = False
+    escape = False
+    for i in range(start, len(text)):
+        c = text[i]
+        if escape:
+            escape = False
+            continue
+        if c == "\\":
+            escape = True
+            continue
+        if c == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start:i+1]
+    return None
+
+
+def _parse_json(raw):
+    # Debug: salva sempre la risposta grezza
+    try:
+        with open("/tmp/story_last_response.txt", "w") as df:
+            df.write(raw)
+    except Exception:
+        pass
+
+    if not raw or not raw.strip():
+        raise RuntimeError("Risposta vuota da Claude")
+
+    if "```" in raw:
+        raw = re.sub(r"```json\s*", "", raw)
+        raw = re.sub(r"```\s*", "", raw)
+    try:
+        return json.loads(raw)
+    except Exception:
+        pass
+    chunk = _extract_json(raw)
+    if chunk:
+        try:
+            return json.loads(chunk)
+        except Exception as e:
+            cleaned = re.sub(r",\s*([}\]])", r"\1", chunk)
+            try:
+                return json.loads(cleaned)
+            except Exception:
+                raise RuntimeError(f"JSON parse errore: {e}. Raw (primi 500 char): {raw[:500]}")
+    raise RuntimeError(f"JSON non trovato. Raw (primi 500 char): {raw[:500]}")
+
+
+def _write_structure(client, catalog_text, profile, target_dur, venue_name, available_roles):
+    nar = profile.get("narrative", {})
+    met = profile.get("metrics", {})
+    tech = profile.get("technical_style", {})
+
+    # ===== FINGERPRINT TECNICO del creator =====
+    avg_shot = met.get("avg_shot_duration_sec", 2.5)
+    # Numero ESATTO di shot basato sul ritmo reale del creator (non un cap!)
+    target_beats = max(12, min(40, int(round(target_dur / avg_shot))))
+
+    # Distribuzioni reali del creator
+    camera_motion = tech.get("camera_motion", {})
+    composition = tech.get("composition", {})
+    transitions = tech.get("transitions", {})
+    dominant_motion = tech.get("dominant_motion", "static")
+    dominant_composition = tech.get("dominant_composition", "unknown")
+
+    prompt = f"""Sei un REGISTA esperto di TikTok/Reels food. Devi pianificare la STRUTTURA narrativa di un video di {target_dur:.0f} secondi, IMITANDO esattamente il ritmo del creator.
+
+## FINGERPRINT TECNICO DEL CREATOR (OBBLIGATORIO RISPETTARE)
+Il creator di riferimento monta con queste caratteristiche misurate dai suoi video:
+- **Durata media shot**: {avg_shot:.2f}s (usa ESATTAMENTE questa come durata base)
+- **Numero di beat totali**: ESATTAMENTE {target_beats} beat (NON di più, NON di meno)
+- **Movimento camera dominante**: {dominant_motion} — distribuzione: {camera_motion}
+- **Composizione dominante**: {dominant_composition} — distribuzione: {composition}
+- **Transizioni**: {transitions} (usa principalmente cut)
+
+## CONTESTO STILE
+- Hook: {nar.get('hook_style','')[:120]}
+- Struttura: {nar.get('narrative_structure','')[:180]}
+- Tono: {nar.get('tone_of_voice','')[:120]}
+- CTA: {nar.get('call_to_action_style','')[:120]}
+
+{f'NOME LOCALE: "{venue_name}"' if venue_name else ''}
+
+## RUOLI DI SCENA DISPONIBILI (e quante clip per ruolo)
+{catalog_text}
+
+## COMPITO
+Scrivi la STRUTTURA della storia in beat narrativi. **NON scrivere il voiceover** — lo scriverò io dopo, sapendo quali scene sono state assegnate.
+
+Ogni beat contiene:
+- `idx`: numero progressivo (1, 2, 3...)
+- `type`: hook | context | discovery | product | drink | reaction | climax | cta
+- `duration`: durata in secondi (2.0-4.0)
+- `scene_need`: lista ordinata di 1-3 RUOLI (dalla lista sopra). Il primo è il preferito.
+- `moment`: descrizione 5-10 parole di cosa deve mostrare la scena (es. "cliente assaggia con entusiasmo")
+
+## REGOLE ASSOLUTE
+1. Genera ESATTAMENTE {target_beats} beat (NON di più, NON di meno). Durata di ogni beat ~{avg_shot:.2f}s. Somma totale = {target_dur:.0f}s.
+2. **Alternanza**: MAI 3 beat consecutivi della stessa macro-categoria (VENUE/FOOD/DRINK/PEOPLE).
+3. **Arco narrativo obbligatorio**:
+   - beat 1: hook con venue_interior_wide / menu_board
+   - beat 2-3: context con venue_interior_detail / venue_interior_wide
+   - beat 4-8: product con food_*
+   - beat 9-11: drink con drink_*
+   - beat 12-16: reaction con person_* / hands_*
+   - beat 17-18: climax con food_closeup forte
+   - beat 19-20: cta con person_talking
+
+**IMPORTANTE — VENUE OBBLIGATORIO**:
+- Almeno **30% dei beat** (minimo 6 su 20) DEVE avere `scene_need` con una categoria VENUE
+- VENUE = venue_interior_wide, venue_interior_detail, menu_board, kitchen, staff, venue_exterior, venue_entrance
+- Ogni volta che hai un beat "context" o "discovery" o "climax", USA una VENUE
+- Le VENUE vanno **intercalate** tra i beat FOOD/PEOPLE, non concentrate all'inizio
+4. Usa solo ruoli che esistono in "RUOLI DISPONIBILI".
+5. Se una categoria ha poche clip (es. 1-2), usala solo 1 volta.
+
+Rispondi SOLO con JSON compatto:
+{{
+  "title": "titolo breve",
+  "beats": [
+    {{"idx": 1, "type": "hook", "duration": 3.0, "scene_need": ["venue_interior_wide"], "moment": "..."}},
+    ...
+  ]
+}}
+
+Inizia con {{ e finisci con }}. Niente testo prima o dopo."""
+
+    resp = client.messages.create(
+        model=CFG["CLAUDE_MODEL_SMART"],
+        max_tokens=4000,
+        messages=[{"role": "user", "content": prompt}],
+        thinking={"type": "disabled"},
+    )
+    raw = _extract_text(resp)
+    return _parse_json(raw)
+
+
+# ============================================================
+# FASE 2 — Matcher con alternanza forzata
+# ============================================================
+
+def _score_scene(scene, needed_roles, used_scene_ids, recent_macros, recent_subjects, profile=None):
+    role = scene.get("role", "")
+    if role not in needed_roles:
+        return -9999
+
+    idx = needed_roles.index(role)
+    score = 100 - idx * 5
+
+    # Bonus per compatibilità col fingerprint tecnico del creator
+    if profile:
+        tech = profile.get("technical_style", {})
+        camera_dist = tech.get("camera_motion", {})
+        composition_dist = tech.get("composition", {})
+        scene_motion = scene.get("motion_type", "unknown")
+        scene_comp = scene.get("composition", "unknown")
+        # Più frequente nel creator = bonus più alto
+        score += camera_dist.get(scene_motion, 0) * 30
+        score += composition_dist.get(scene_comp, 0) * 30
+
+    # Bonus speciale per VENUE (categoria sotto-rappresentata)
+    if _macro(role) == "VENUE":
+        score += 50
+
+    # Bonus aggiuntivo se la scena contiene "logo/insegna/parete/schermo/macchina"
+    desc = (scene.get("description", "") + " " + " ".join(scene.get("key_props", []))).lower()
+    venue_kw = ["logo", "insegna", "parete", "muro", "schermo", "macchina", "totem",
+                "dispenser", "wallscreen", "monitor", "tv", "led", "graffiti", "arredo"]
+    if any(kw in desc for kw in venue_kw):
+        score += 40
+
+    # Penalità se già usata
+    if scene["id"] in used_scene_ids:
+        score -= 1000
+
+    # Penalità se la macro-categoria è stata usata negli ultimi 2 beat
+    macro = _macro(role)
+    if len(recent_macros) >= 2 and all(m == macro for m in recent_macros[-2:]):
+        score -= 300
+
+    # Penalità per subject ripetuto negli ultimi 3
+    subj = scene.get("subject", "")
+    if subj and subj in recent_subjects[-3:]:
+        score -= 200
+
+    # Bonus qualità
+    q = scene.get("quality", {})
+    score += min(20, q.get("blur", 0) / 20)
+    score += min(10, q.get("stability", 0) / 10)
+
+    return score
+
+
+def _pick_scene(beat, keep, used_scene_ids, recent_macros, recent_subjects, used_subjects_set=None, profile=None, job_id=None):
+    """Sceglie la scena migliore con VINCOLO STRETTO di soggetto unico (canonical).
+
+    Ordine:
+      1. Ruolo richiesto + soggetto nuovo
+      2. Ruolo fallback + soggetto nuovo
+      3. QUALUNQUE ruolo + soggetto nuovo (anche se fuori scena_need)
+      4. None -> il beat viene saltato (meglio perdere un beat che ripetere)
+    """
+    if used_subjects_set is None:
+        used_subjects_set = set()
+
+    needed = beat.get("scene_need", [])
+    if not needed:
+        return None
+
+    def _is_new(s):
+        subj = _canonical_subject(s.get("subject", ""))
+        if not subj:
+            return True
+        return subj not in used_subjects_set
+
+    def _pick(cands, roles_for_score):
+        if not cands:
+            return None
+        cands.sort(
+            key=lambda s: _score_scene(s, roles_for_score, used_scene_ids,
+                                       recent_macros, recent_subjects),
+            reverse=True,
+        )
+        return cands[0]
+
+    # Tentativo 1: ruolo richiesto + soggetto nuovo
+    c = [s for s in keep
+         if s.get("role") in needed
+         and s["id"] not in used_scene_ids
+         and _is_new(s)]
+    r = _pick(c, needed)
+    if r:
+        return r
+
+    # Tentativo 2: ruolo fallback + soggetto nuovo
+    fallback_roles = set()
+    for role in needed:
+        for fb in _FALLBACK.get(role, []):
+            fallback_roles.add(fb)
+    c = [s for s in keep
+         if s.get("role") in fallback_roles
+         and s["id"] not in used_scene_ids
+         and _is_new(s)]
+    r = _pick(c, list(fallback_roles))
+    if r:
+        return r
+
+    # Tentativo 3: QUALUNQUE ruolo (anche fuori scena_need) + soggetto nuovo
+    all_roles = set()
+    for roles_set in _MACRO.values():
+        all_roles.update(roles_set)
+    c = [s for s in keep
+         if s.get("role") in all_roles
+         and s["id"] not in used_scene_ids
+         and _is_new(s)]
+    r = _pick(c, list(all_roles))
+    if r:
+        return r
+
+    # Nessuna scena nuova disponibile
+    return None
+
+def _match_beats_to_scenes(beats, keep, job_id, profile=None):
+    used_scene_ids = set()
+    recent_macros = []
+    used_subjects_set = set()  # soggetti unici
+    recent_subjects = []
+    timeline = []
+
+    for beat in beats:
+        scene = _pick_scene(beat, keep, used_scene_ids, recent_macros, recent_subjects, used_subjects_set, profile, job_id)
+
+        # Se il video sorgente è già stato usato >= MAX_PER_SOURCE volte, cerca alternativa
+        if scene and used_clip_names.get(scene.get("clip_name", ""), 0) >= MAX_PER_SOURCE:
+            # Riprova escludendo i video esauriti
+            def _filter(s):
+                return used_clip_names.get(s.get("clip_name", ""), 0) < MAX_PER_SOURCE
+            keep_filtered = [s for s in keep if _filter(s)]
+            alt = _pick_scene(beat, keep_filtered, used_scene_ids, recent_macros, recent_subjects, used_subjects_set, profile, job_id)
+            if alt:
+                scene = alt
+
+        if scene is None:
+            manager.log(job_id, f"Beat {beat.get('idx')}: nessuna scena disponibile", level="error")
+            continue
+
+        clip = scene.get("clip_name", "")
+        used_clip_names[clip] = used_clip_names.get(clip, 0) + 1
+
+        macro = _macro(scene.get("role", ""))
+        used_scene_ids.add(scene["id"])
+        subj_norm = _canonical_subject(scene.get("subject", ""))
+        if subj_norm:
+            used_subjects_set.add(_canonical_subject(scene.get("subject", "")))
+        recent_macros.append(macro)
+        recent_subjects.append(scene.get("subject", ""))
+
+        # Durata REALE della scena
+        s_start = float(scene.get("start", 0))
+        s_end = float(scene.get("end", 0))
+        s_dur = max(0.5, s_end - s_start)
+
+        # Durata richiesta dal beat (rispetta il fingerprint del creator)
+        requested_dur = float(beat.get("duration", 3.0))
+        # Clip: usa la durata del beat, non la durata intera della scena
+        actual_dur = min(requested_dur, s_dur)
+        # Assicura almeno 1.5s
+        actual_dur = max(1.5, actual_dur)
+
+        # Clip dal centro della scena (evita tagli a inizio/fine)
+        mid = (s_start + s_end) / 2.0
+        in_sec = max(s_start, mid - actual_dur / 2.0)
+        out_sec = min(s_end, in_sec + actual_dur)
+        # Se out_sec supera s_end, riaggiusta
+        if out_sec - in_sec < actual_dur:
+            in_sec = max(s_start, out_sec - actual_dur)
+        actual_dur = out_sec - in_sec
+
+        timeline.append({
+            "scene_id": scene["id"],
+            "clip_name": scene.get("clip_name", "?"),
+            "clip_path": scene.get("clip_path", ""),
+            "role": scene.get("role", ""),
+            "subject": scene.get("subject", ""),
+            "description": scene.get("description", ""),
+            "keyframes": scene.get("keyframes", []),
+            "start": s_start,
+            "end": s_end,
+            "in_sec": round(in_sec, 3),   # taglio preciso per il renderer
+            "out_sec": round(out_sec, 3),
+            "duration": round(actual_dur, 2),
+            "requested_duration": requested_dur,
+            "beat_type": beat.get("type", ""),
+            "beat_moment": beat.get("moment", ""),
+            "subtitle_text": "",
+        })
+
+    return timeline
+
+
+# ============================================================
+# FASE 3 — Voiceover basato su scene reali
+# ============================================================
+
+
+
+def _extract_style_vocabulary(transcripts, top_n=30):
+    """Estrae le parole più frequenti dai trascritti del creator."""
+    from collections import Counter
+    import re as _re
+
+    stopwords = {
+        "il","la","lo","le","gli","i","un","una","uno","di","da","in","con",
+        "su","per","tra","fra","a","e","o","ma","che","chi","cui","non","si",
+        "mi","ti","ci","vi","ne","al","alla","allo","ai","alle","agli","del",
+        "della","dello","dei","delle","degli","dal","dalla","dallo","dai",
+        "dalle","dagli","nel","nella","nello","nei","nelle","negli","è",
+        "sono","sei","siamo","siete","ho","hai","ha","abbiamo","avete","hanno",
+        "questo","questa","questi","queste","quello","quella","quelli",
+        "quelle","come","dove","quando","perché","anche","più","meno","molto",
+        "poco","tanto","tutti","tutte","tutto","tutta","solo","già","ancora",
+        "sempre","mai","poi","prima","dopo","qui","qua","lì","là","io","tu",
+        "lui","lei","noi","voi","loro","mio","tuo","suo","nostro","vostro",
+        "essere","avere","fare","dire","andare","venire","davvero","proprio",
+        "magari","forse","cioè","quindi","allora","ok","sì","no","bene",
+        "male","cose","cosa","roba","tipo",
+    }
+
+    all_text = " ".join(transcripts).lower()
+    words = _re.findall(r"\b[a-zàèéìòù]{4,}\b", all_text)
+    words = [w for w in words if w not in stopwords]
+
+    counter = Counter(words)
+    return [w for w, _ in counter.most_common(top_n)]
+
+def _write_voiceover(client, timeline, profile, venue_name, job_id=None):
+    """FASE 3 multi-modale + stile del creator.
+
+    Passa a Claude:
+    - Descrizioni scene + IMMAGINI reali (multi-modale)
+    - TRASCRITTI COMPLETI del creator (per imitarne lo stile)
+    - VOCABOLARIO estratto (parole ricorrenti)
+    """
+    nar = profile.get("narrative", {})
+
+    # Timeline descrittiva
+    scene_lines = []
+    for i, t in enumerate(timeline, 1):
+        scene_lines.append(
+            f"BEAT {i} — {t['beat_type']} — {t['role']}\n"
+            f"  Soggetto: {t['subject']}\n"
+            f"  Descrizione: {t['description']}\n"
+            f"  Durata: {t['duration']:.1f}s"
+        )
+    scenes_text = "\n\n".join(scene_lines)
+
+    total_dur = sum(t["duration"] for t in timeline)
+    max_words_total = int(total_dur * 145 / 60)
+    max_words_beat = max(8, int(max_words_total / max(1, len(timeline))))
+
+    # === STILE DEL CREATOR ===
+    ref_transcripts = profile.get("reference_transcripts", [])
+    examples_block = ""
+    if ref_transcripts:
+        parts = []
+        for i, txt in enumerate(ref_transcripts[:4], 1):
+            clean = (txt or "").strip()
+            if clean:
+                parts.append(f"--- VIDEO {i} ---\n{clean[:700]}")
+        examples_block = "\n\n".join(parts)
+
+    vocab_keywords = []
+    if ref_transcripts:
+        vocab_keywords = _extract_style_vocabulary(ref_transcripts, top_n=30)
+
+    examples_section = ""
+    if examples_block:
+        examples_section = f"""
+## STILE REALE DEL CREATOR — TRASCRITTI COMPLETI (OBBLIGATORIO IMITARE)
+
+Questi sono i trascritti REALI dei video del creator. Studiali.
+
+{examples_block}
+
+**REGOLE DI IMITAZIONE:**
+1. Usa lo STESSO vocabolario (le stesse parole, non sinonimi)
+2. Usa lo STESSO tono (informale, insider, entusiasta — quello che leggi)
+3. Usa la STESSA chiusura (leggi come finiscono i video e chiudi simile)
+4. NON inventare uno stile "TikTok generico" — se una parola non è nei trascritti, NON usarla
+"""
+
+    vocab_section = ""
+    if vocab_keywords:
+        vocab_section = f"""
+## VOCABOLARIO SPECIFICO DEL CREATOR (USA ALMENO 5 DI QUESTE PAROLE)
+{", ".join(vocab_keywords)}
+
+Queste sono le parole che il creator USA PIÙ SPESSO.
+Devi USARLE nel voiceover (almeno 5). Sono il SUO linguaggio.
+"""
+
+    prompt = f"""Sei un COPYWRITER che deve scrivere il voiceover IMITANDO lo stile di un creator specifico.
+
+## TIMELINE VIDEO (scene reali con immagini allegate)
+{scenes_text}
+
+## CONTESTO STILE (descrittivo)
+- Tono: {nar.get('tone_of_voice','')[:250]}
+- Hook: {nar.get('hook_style','')[:200]}
+- CTA: {nar.get('call_to_action_style','')[:200]}
+
+{f'NOME LOCALE: "{venue_name}" — menzionalo naturalmente.' if venue_name else ''}
+
+{examples_section}
+
+{vocab_section}
+
+## COMPITO
+Scrivi il voiceover per ogni beat:
+1. Descrive cosa si vede NELL'IMMAGINE reale
+2. IMITA lo stile del creator (parole + tono + chiusura)
+3. NON ripete concetti in beat consecutivi
+
+REGOLE:
+- Max {max_words_beat} parole per beat (totale ~{max_words_total})
+- Beat 1 = hook forte come il creator
+- Ultimi 2 beat = CTA nello stile del creator
+- Se hai il vocabolario sopra, USALO
+
+Rispondi SOLO con JSON compatto:
+{{
+  "voiceovers": [
+    {{"idx": 1, "voiceover": "testo"}},
+    ...
+  ]
+}}
+
+Inizia con {{ e finisci con }}."""
+
+    # Multi-modale: immagini reali
+    content = [{"type": "text", "text": prompt}]
+    n_images = 0
+    for i, t in enumerate(timeline, 1):
+        kfs = t.get("keyframes", [])
+        if not kfs:
+            continue
+        content.append({"type": "text", "text": f"\n--- IMMAGINI BEAT {i} ({t['role']}) ---"})
+        for kf in kfs[:1]:  # 1 keyframe per beat
+            b64 = _encode_image_b64(kf)
+            if b64:
+                content.append({
+                    "type": "image",
+                    "source": {
+                        "type": "base64",
+                        "media_type": "image/jpeg",
+                        "data": b64,
+                    },
+                })
+                n_images += 1
+
+    manager.log(job_id,
+        f"Multi-modale: {n_images} immagini · "
+        f"{len(ref_transcripts)} trascritti · "
+        f"{len(vocab_keywords)} parole vocabolario")
+
+    resp = client.messages.create(
+        model=CFG["CLAUDE_MODEL_SMART"],
+        max_tokens=4000,
+        messages=[{"role": "user", "content": content}],
+        thinking={"type": "disabled"},
+    )
+    raw = _extract_text(resp)
+    return _parse_json(raw)
+
+# ============================================================
+# ORCHESTRATORE
+# ============================================================
+
+def write_story_and_match(job_id, profile, curated_data, target_dur, venue_name=""):
+    keep = [s for s in curated_data.get("scenes", []) if s.get("decision") == "keep"]
+    if len(keep) < 5:
+        raise RuntimeError(f"Solo {len(keep)} scene keep, insufficienti")
+
+    manager.log(job_id, f"Story writer (reverse flow): {len(keep)} scene keep")
+
+    catalog, available_roles = _build_catalog(keep)
+    manager.log(job_id, f"Ruoli disponibili: {len(available_roles)} categorie")
+
+    client = Anthropic(api_key=CFG["ANTHROPIC_API_KEY"])
+
+    # === FASE 1: Struttura ===
+    manager.log(job_id, "[1/3] Claude scrive la struttura narrativa…")
+    structure = _write_structure(client, catalog, profile, target_dur, venue_name, available_roles)
+    beats = structure.get("beats", [])
+    if not beats:
+        raise RuntimeError("Claude non ha prodotto beat")
+
+    declared = sum(b.get("duration", 0) for b in beats)
+    manager.log(job_id, f"      struttura: {len(beats)} beat, {declared:.1f}s")
+
+    # === FASE 2: Matcher ===
+    manager.log(job_id, "[2/3] Matcher beat → scene reali…")
+    timeline = _match_beats_to_scenes(beats, keep, job_id, profile)
+    if not timeline:
+        raise RuntimeError("Nessuna scena matched")
+
+    # Log durate reali vs target
+    total_now = sum(t["duration"] for t in timeline)
+    manager.log(job_id,
+        f"      durata reale: {total_now:.1f}s (target {target_dur:.0f}s)")
+
+    # Se siamo lontani dal target, rimuovi le scene in eccesso (no filler)
+    if total_now < target_dur * 0.85:
+        manager.log(job_id,
+            f"      durata sotto target ({total_now:.1f}s vs {target_dur:.0f}s) "
+            f"ma NON aggiungo filler per non rompere la narrativa")
+    elif total_now > target_dur * 1.15:
+        manager.log(job_id, f"      rimuovo {total_now - target_dur:.0f}s in eccesso")
+        # Non toccare hook (idx 0) e CTA (ultimi 2)
+        while sum(t["duration"] for t in timeline) > target_dur and len(timeline) > 8:
+            removable = timeline[1:-2]
+            if not removable:
+                break
+            removable.sort(key=lambda t: t.get("quality", {}).get("blur", 0) if t.get("quality") else 0)
+            worst = removable[0]
+            timeline.remove(worst)
+
+    total_now = sum(t["duration"] for t in timeline)
+    manager.log(job_id, f"      timeline finale: {len(timeline)} scene · {total_now:.1f}s")
+
+    # Statistiche
+    role_counts = Counter(t["role"] for t in timeline)
+    macro_counts = Counter(_macro(t["role"]) for t in timeline)
+    manager.log(job_id, f"      timeline: {len(timeline)} scene · {sum(t['duration'] for t in timeline):.1f}s")
+    manager.log(job_id, f"      macro-categorie: {dict(macro_counts)}")
+
+    # Conteggio soggetti ripetuti
+    from collections import Counter as _Counter
+    subj_counts = _Counter((t.get("subject") or "").strip().lower() for t in timeline if t.get("subject"))
+    dups = {k: v for k, v in subj_counts.items() if v > 1}
+    if dups:
+        manager.log(job_id, f"      ⚠ Soggetti ripetuti: {dups}", level="error")
+    else:
+        manager.log(job_id, f"      ✓ Nessun soggetto ripetuto")
+
+    # Warning se VENUE < 25%
+    total_scenes = len(timeline)
+    if total_scenes > 0:
+        venue_pct = macro_counts.get("VENUE", 0) / total_scenes * 100
+        if venue_pct < 25:
+            manager.log(job_id,
+                f"      ⚠ VENUE solo {venue_pct:.0f}% (ideale 25-35%). "
+                f"Considera di girare più riprese del locale.",
+                level="error")
+        else:
+            manager.log(job_id, f"      ✓ VENUE {venue_pct:.0f}% (bilanciato)")
+
+    # === FASE 3: Voiceover ===
+    manager.log(job_id, "[3/3] Claude scrive il voiceover sulle scene reali…")
+    try:
+        vo = _write_voiceover(client, timeline, profile, venue_name, job_id)
+        voiceovers = {v["idx"]: v["voiceover"] for v in vo.get("voiceovers", [])}
+        for i, t in enumerate(timeline, 1):
+            t["subtitle_text"] = voiceovers.get(i, "").strip()
+    except Exception as e:
+        manager.log(job_id, f"WARN voiceover fallito: {e}", level="error")
+        for t in timeline:
+            t["subtitle_text"] = ""
+
+    # Componi EDL
+    edl = {
+        "title": structure.get("title", "Untitled"),
+        "voiceover_script": " ".join(t.get("subtitle_text", "") for t in timeline),
+        "timeline": timeline,
+        "total_duration": round(sum(t["duration"] for t in timeline), 2),
+        "n_clips": len(timeline),
+        "profile_id": profile.get("id"),
+        "venue_name": venue_name,
+    }
+    return edl, structure

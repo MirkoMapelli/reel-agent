@@ -1,0 +1,326 @@
+{
+  "title": "Wing Stop Milano - Le Ali Perfette",
+  "beats": [
+    {
+      "idx": 1,
+      "type": "hook",
+      "duration": 2.5,
+      "scene_need": [
+        "venue_interior_wide",
+        "person_eating"
+      ],
+      "moment": "Cliente davanti locale Wing Stop Milano"
+    },
+    {
+      "idx": 2,
+      "type": "context",
+      "duration": 2.2,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "Macchina Coca-Cola Freestyle rossa illuminata"
+    },
+    {
+      "idx": 3,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "Cliente mostra vassoi sovrapposti ali fritte"
+    },
+    {
+      "idx": 4,
+      "type": "product",
+      "duration": 2.5,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "Primo piano ali fritte dorate croccanti"
+    },
+    {
+      "idx": 5,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_detail",
+        "hands_gesture"
+      ],
+      "moment": "Mani intingono ala nella salsa bianca"
+    },
+    {
+      "idx": 6,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "detail",
+        "food_closeup"
+      ],
+      "moment": "Texture croccante visibile da vicino"
+    },
+    {
+      "idx": 7,
+      "type": "discovery",
+      "duration": 2.3,
+      "scene_need": [
+        "venue_interior_detail",
+        "person_eating"
+      ],
+      "moment": "Dettaglio ambiente mentre cliente osserva piatti"
+    },
+    {
+      "idx": 8,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup",
+        "food_detail"
+      ],
+      "moment": "Ali dorate su cartoncino vassoio"
+    },
+    {
+      "idx": 9,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_pour",
+        "drink_detail"
+      ],
+      "moment": "Bevanda gialla versata da Freestyle"
+    },
+    {
+      "idx": 10,
+      "type": "drink",
+      "duration": 2.0,
+      "scene_need": [
+        "drink_detail",
+        "person_eating"
+      ],
+      "moment": "Cliente regge bevanda bicchiere stampa"
+    },
+    {
+      "idx": 11,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_cheers",
+        "detail"
+      ],
+      "moment": "Cliente solleva bevanda verso bocca"
+    },
+    {
+      "idx": 12,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "Cliente regge vassoio osserva ali"
+    },
+    {
+      "idx": 13,
+      "type": "product",
+      "duration": 2.3,
+      "scene_need": [
+        "hands_gesture",
+        "food_detail"
+      ],
+      "moment": "Mani sollevano singola patata lunga"
+    },
+    {
+      "idx": 14,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating",
+        "detail"
+      ],
+      "moment": "Gesto naturale preparazione assaggio"
+    },
+    {
+      "idx": 15,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "Dettaglio arredamento locale moderno"
+    },
+    {
+      "idx": 16,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_detail",
+        "food_closeup"
+      ],
+      "moment": "Salsa che cola su ala fritta"
+    },
+    {
+      "idx": 17,
+      "type": "climax",
+      "duration": 2.5,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "Dettaglio massimo croccantezza ali dorate"
+    },
+    {
+      "idx": 18,
+      "type": "climax",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "Cliente mostra entusiasta tutti vassoi"
+    },
+    {
+      "idx": 19,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup",
+        "food_detail"
+      ],
+      "moment": "Texture ali primo piano ravvicinato"
+    },
+    {
+      "idx": 20,
+      "type": "discovery",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "Ambiente locale stile americano"
+    },
+    {
+      "idx": 21,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating",
+        "hands_gesture"
+      ],
+      "moment": "Cliente assaggia con espressione soddisfatta"
+    },
+    {
+      "idx": 22,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_detail",
+        "detail"
+      ],
+      "moment": "Ali intinte salsa bicchierino dettaglio"
+    },
+    {
+      "idx": 23,
+      "type": "reaction",
+      "duration": 2.2,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "Cliente valuta vassoi con sguardo"
+    },
+    {
+      "idx": 24,
+      "type": "product",
+      "duration": 2.0,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "Primo piano doratura perfetta ali"
+    },
+    {
+      "idx": 25,
+      "type": "drink",
+      "duration": 2.2,
+      "scene_need": [
+        "drink_detail",
+        "drink_cheers"
+      ],
+      "moment": "Bevanda in bicchiere carta logo"
+    },
+    {
+      "idx": 26,
+      "type": "context",
+      "duration": 2.0,
+      "scene_need": [
+        "venue_interior_detail",
+        "detail"
+      ],
+      "moment": "Freestyle Coca-Cola schermo menu"
+    },
+    {
+      "idx": 27,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "hands_gesture",
+        "food_detail"
+      ],
+      "moment": "Mani prendono patata da contenitore"
+    },
+    {
+      "idx": 28,
+      "type": "reaction",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "detail"
+      ],
+      "moment": "Cliente annuisce soddisfatto assaggio"
+    },
+    {
+      "idx": 29,
+      "type": "product",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup",
+        "food_detail"
+      ],
+      "moment": "Dettaglio finale ali croccanti vassoio"
+    },
+    {
+      "idx": 30,
+      "type": "cta",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "food_plated"
+      ],
+      "moment": "Cliente raccomanda con gesto enfatico"
+    },
+    {
+      "idx": 31,
+      "type": "cta",
+      "duration": 2.2,
+      "scene_need": [
+        "food_closeup",
+        "detail"
+      ],
+      "moment": "Ultimo sguardo ali dorate invitanti"
+    },
+    {
+      "idx": 32,
+      "type": "cta",
+      "duration": 2.0,
+      "scene_need": [
+        "person_eating",
+        "venue_interior_detail"
+      ],
+      "moment": "Cliente finale ambiente Wing Stop"
+    }
+  ],
+  "edl_job_id": 188
+}
